@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Load Calculation Methods - HVAC Systems Encyclopedia</title>
+    <meta name="description" content="A comprehensive encyclopedia of heating, ventilation, and air conditioning systems">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 2rem 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        header p {
+            opacity: 0.9;
+        }
+        nav {
+            background: white;
+            padding: 1rem 0;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+            margin-bottom: 2rem;
+        }
+        nav .breadcrumb {
+            list-style: none;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+        nav .breadcrumb li {
+            display: flex;
+            align-items: center;
+        }
+        nav .breadcrumb li:not(:last-child)::after {
+            content: "›";
+            margin-left: 0.5rem;
+            color: #999;
+        }
+        nav .breadcrumb a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        nav .breadcrumb a:hover {
+            text-decoration: underline;
+        }
+        main {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            margin-bottom: 2rem;
+        }
+        h1, h2, h3, h4 {
+            color: #2d3748;
+            margin: 1.5rem 0 1rem 0;
+        }
+        h1 { font-size: 2.5rem; }
+        h2 { font-size: 2rem; }
+        h3 { font-size: 1.5rem; }
+        .section-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+        .section-card {
+            background: #f8f9fa;
+            border: 1px solid #e9ecef;
+            border-radius: 8px;
+            padding: 1.5rem;
+            transition: all 0.3s ease;
+        }
+        .section-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            border-color: #667eea;
+        }
+        .section-card h3 {
+            margin-top: 0;
+        }
+        .section-card a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        ul {
+            margin: 1rem 0 1rem 2rem;
+        }
+        li {
+            margin: 0.5rem 0;
+        }
+        footer {
+            text-align: center;
+            padding: 2rem;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>HVAC Systems Encyclopedia</h1>
+            <p>A comprehensive encyclopedia of heating, ventilation, and air conditioning systems</p>
+        </div>
+    </header>
+
+    
+    <nav>
+        <div class="container">
+            <ul class="breadcrumb">
+                <li><a href="/">Home</a></li>
+                
+                <li><a href="/">HVAC Systems Encyclopedia</a></li>
+                
+                <li><a href="/load-calculations-energy-efficiency/">Load Calculations Energy Efficiency</a></li>
+                
+                <li>Load Calculation Methods</li>
+            </ul>
+        </div>
+    </nav>
+    
+
+    <div class="container">
+        <main>
+            
+<article>
+    <h1>Load Calculation Methods</h1>
+
+    
+
+    
+    <h2>Sections</h2>
+    <div class="section-list">
+        
+        <div class="section-card">
+            <h3><a href="/load-calculations-energy-efficiency/load-calculation-methods/cooling-load-components/">Cooling Load Components</a></h3>
+            
+        </div>
+        
+        <div class="section-card">
+            <h3><a href="/load-calculations-energy-efficiency/load-calculation-methods/heating-load-components/">Heating Load Components</a></h3>
+            
+            <p><h2 id="components">Components</h2>
+<ul>
+<li>Design Heating Conditions</li>
+<li>Outdoor Design Temperature 99 Percent</li>
+<li>Indoor Design Temperature</li>
+<li>Transmission Heat Loss</li>
+<li>U Factor Heating Calculation</li>
+<li>Infiltration Heat Loss Heating</li>
+<li>Below Grade Heat Loss</li>
+<li>Slab On Grade Perimeter Loss</li>
+<li>Basement Heat Loss</li>
+<li>Crawl Space Heat Loss</li>
+<li>Ventilation Heat Loss</li>
+<li>Duct Heat Loss</li>
+<li>Piping Heat Loss Distribution</li>
+<li>Warm Up Load Pickup Load</li>
+<li>Humidification Load Heating</li>
+</ul></p>
+            
+        </div>
+        
+        <div class="section-card">
+            <h3><a href="/load-calculations-energy-efficiency/load-calculation-methods/calculation-software/">Calculation Software</a></h3>
+            
+            <p><h2 id="components">Components</h2>
+<ul>
+<li>Ashrae Heat Balance Method</li>
+<li>Carrier Hap Hourly Analysis</li>
+<li>Trace 700 Load Calculation</li>
+<li>Energyplus Simulation</li>
+<li>Designbuilder Software</li>
+<li>Iesve Integrated Environmental Solutions</li>
+<li>Equest Doe2 Based</li>
+<li>Right Suite Universal</li>
+<li>Coolcalc Commercial Loads</li>
+<li>Wrightsoft Right J Residential</li>
+<li>Elite Software Chvac</li>
+</ul></p>
+            
+        </div>
+        
+        <div class="section-card">
+            <h3><a href="/load-calculations-energy-efficiency/load-calculation-methods/load-profiles/">Load Profiles</a></h3>
+            
+            <p><h2 id="components">Components</h2>
+<ul>
+<li>Hourly Load Profiles</li>
+<li>Peak Design Day Selection</li>
+<li>Coincident Peak Load</li>
+<li>Non Coincident Loads</li>
+<li>Block Load Estimation</li>
+<li>Diversity Factors Application</li>
+<li>Load Duration Curves</li>
+</ul></p>
+            
+        </div>
+        
+        <div class="section-card">
+            <h3><a href="/load-calculations-energy-efficiency/load-calculation-methods/design-conditions/">Design Conditions</a></h3>
+            
+            <p><h2 id="components">Components</h2>
+<ul>
+<li>Ashrae Climatic Design Conditions</li>
+<li>0 4 Percent Design Conditions</li>
+<li>1 0 Percent Design Conditions</li>
+<li>2 0 Percent Design Conditions</li>
+<li>99 Percent Heating Conditions</li>
+<li>Mean Coincident Wet Bulb</li>
+<li>Mean Coincident Dry Bulb</li>
+<li>Dehumidification Design Conditions</li>
+<li>Wet Bulb Mcdb</li>
+<li>Enthalpy Design Conditions</li>
+</ul></p>
+            
+        </div>
+        
+        <div class="section-card">
+            <h3><a href="/load-calculations-energy-efficiency/load-calculation-methods/psychrometric-analysis-loads/">Psychrometric Analysis Loads</a></h3>
+            
+            <p><h2 id="components">Components</h2>
+<ul>
+<li>Sensible Heat Ratio Shr</li>
+<li>Grand Sensible Heat Factor Gshf</li>
+<li>Room Sensible Heat Factor Rshf</li>
+<li>Effective Sensible Heat Factor</li>
+<li>Bypass Factor Coil</li>
+<li>Apparatus Dew Point Adp</li>
+<li>Coil Leaving Air Conditions</li>
+<li>Supply Air Conditions Required</li>
+</ul></p>
+            
+        </div>
+        
+    </div>
+    
+</article>
+
+        </main>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 HVAC Systems Encyclopedia. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>

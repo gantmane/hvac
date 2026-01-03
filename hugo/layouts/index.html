@@ -1,0 +1,24 @@
+{{ define "main" }}
+<article>
+    <h1>{{ .Title }}</h1>
+
+    {{ .Content }}
+
+    <h2>Main Categories</h2>
+    <div class="section-list">
+        {{ range .Pages.ByWeight }}
+        <div class="section-card">
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            {{ if .Params.description }}
+            <p>{{ .Params.description }}</p>
+            {{ else if .Summary }}
+            <p>{{ .Summary }}</p>
+            {{ end }}
+            {{ if .Pages }}
+            <p><small>{{ len .Pages }} subsections</small></p>
+            {{ end }}
+        </div>
+        {{ end }}
+    </div>
+</article>
+{{ end }}

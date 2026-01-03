@@ -1,0 +1,22 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'HVAC Systems Encyclopedia'
+
+[params]
+  description = 'A comprehensive encyclopedia of heating, ventilation, and air conditioning systems'
+  author = 'HVAC Encyclopedia'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 1

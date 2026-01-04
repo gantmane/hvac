@@ -1,0 +1,301 @@
+codes_standards_regulations_safety:
+  version: "2.0_enhanced"
+  description: "Comprehensive codes, standards, regulations, health, and safety for HVAC systems"
+
+  codes_standards_regulations:
+    international_codes:
+      imc_international_mechanical_code:
+        - scope_application
+        - ventilation_requirements_imc
+        - exhaust_systems_imc
+        - duct_systems_imc
+        - combustion_air_imc
+        - chimneys_vents_imc
+        - specific_appliances_imc
+        - boiler_requirements_imc
+        - refrigeration_requirements_imc
+        - solar_systems_imc
+        - hydronic_piping_imc
+        - fuel_gas_piping_reference
+      ipc_international_plumbing_code:
+        - water_supply_distribution
+        - sanitary_drainage_systems
+        - venting_systems
+        - fixtures_faucets_fixtures
+        - water_heaters_ipc
+        - fuel_gas_piping_ipc
+      iecc_international_energy_conservation:
+        - building_envelope_requirements
+        - mechanical_systems_efficiency
+        - service_water_heating
+        - electrical_power_lighting
+        - commissioning_verification_iecc
+      ifc_international_fire_code:
+        - fire_protection_systems
+        - smoke_control_requirements
+        - emergency_responder_systems
+        - hazardous_materials
+
+    ashrae_standards_detailed:
+      ashrae_15_safety_refrigeration:
+        - refrigerating_system_classification
+        - machinery_room_requirements
+        - refrigerant_amount_limits
+        - ventilation_machinery_rooms
+        - detection_systems_refrigerant
+        - pressure_relief_protection
+        - pressure_limiting_devices
+      ashrae_55_thermal_comfort:
+        - thermal_comfort_parameters
+        - pmv_predicted_mean_vote
+        - ppd_predicted_percentage_dissatisfied
+        - operative_temperature
+        - clothing_insulation_clo
+        - metabolic_rate_met
+        - air_speed_effects
+        - radiant_temperature_asymmetry
+        - vertical_air_temperature_difference
+        - floor_surface_temperature
+        - adaptive_comfort_model
+      ashrae_62_1_ventilation_commercial:
+        - ventilation_rate_procedure
+        - indoor_air_quality_procedure
+        - outdoor_air_rates_per_person
+        - outdoor_air_rates_per_area
+        - breathing_zone_outdoor_airflow
+        - zone_air_distribution_effectiveness_ez
+        - multiple_zone_systems_ventilation_efficiency
+        - system_outdoor_air_intake
+        - exhaust_airflow_rates
+        - air_classification
+      ashrae_62_2_ventilation_residential:
+        - whole_house_ventilation_rates
+        - local_exhaust_requirements
+        - kitchen_exhaust_residential
+        - bathroom_exhaust_residential
+        - mechanical_ventilation_residential
+        - natural_ventilation_residential
+      ashrae_90_1_energy_standard:
+        - mandatory_provisions
+        - prescriptive_requirements
+        - building_envelope_90_1
+        - hvac_minimum_efficiency
+        - service_water_heating_efficiency
+        - lighting_power_allowances
+        - performance_rating_method
+        - energy_cost_budget_method
+      ashrae_170_healthcare:
+        - ventilation_healthcare_ashrae_170
+        - pressure_relationships_healthcare
+        - air_change_rates_healthcare
+        - filtration_healthcare
+        - temperature_humidity_healthcare
+        - design_parameters_space_type
+      ashrae_189_1_green_buildings:
+        - site_sustainability
+        - water_use_efficiency
+        - energy_efficiency_enhanced
+        - indoor_environmental_quality
+        - materials_resources_impacts
+        - construction_plans_specifications
+
+    nfpa_standards_detailed:
+      nfpa_90a_air_conditioning:
+        - air_duct_systems_requirements
+        - air_handling_equipment
+        - smoke_dampers_nfpa_90a
+        - fire_dampers_nfpa_90a
+        - ceiling_plenums
+        - duct_penetrations_fire_rated_assemblies
+        - insulation_flame_spread
+      nfpa_90b_warm_air_heating:
+        - residential_warm_air_systems
+        - factory_built_fireplaces
+        - duct_systems_residential
+        - furnace_installation
+      nfpa_96_cooking_equipment:
+        - commercial_cooking_operations
+        - exhaust_hoods_type_i
+        - grease_ducts_construction
+        - fire_extinguishing_systems
+        - makeup_air_provisions
+        - clearances_combustibles
+      nfpa_70_national_electrical_code:
+        - electrical_installations
+        - wiring_methods
+        - equipment_grounding
+        - disconnecting_means
+        - overcurrent_protection
+        - motor_circuits
+        - hvac_equipment_electrical
+
+    ul_standards_certifications:
+      - ul_listing_certification
+      - ul_1995_heating_cooling_equipment
+      - ul_1812_ducted_heat_recovery_ventilators
+      - ul_723_flame_spread_rating
+      - ul_181_duct_tape_closure_systems
+      - ul_94_flammability_plastics
+      - ul_1995_standard_requirements
+      - ul_recognized_component
+      - ul_classified_products
+
+    ahri_standards_ratings:
+      - ahri_210_240_unitary_equipment
+      - ahri_310_320_packaged_terminal_equipment
+      - ahri_340_360_commercial_industrial_unitary
+      - ahri_365_commercial_industrial_heat_pumps
+      - ahri_400_liquid_to_liquid_heat_exchangers
+      - ahri_410_forced_circulation_air_cooling
+      - ahri_430_central_station_air_handlers
+      - ahri_440_room_fan_coils
+      - ahri_550_590_chillers
+      - ahri_560_absorption_water_chilling_heating
+      - ahri_700_refrigerant_specifications
+      - ahri_740_performance_recovery_recycling
+      - ahri_certification_programs
+
+    smacna_standards_guidelines:
+      - hvac_duct_construction_standards_metal_flexible
+      - rectangular_industrial_duct_construction
+      - round_industrial_duct_construction
+      - fibrous_glass_duct_construction
+      - duct_leakage_testing_smacna
+      - hvac_systems_testing_adjusting_balancing
+      - iaq_guidelines_occupied_buildings
+      - architectural_sheet_metal_manual
+
+    iso_standards:
+      - iso_16890_air_filters_general_ventilation
+      - iso_5167_flow_measurement_orifice_plates
+      - iso_7730_thermal_environment
+      - iso_9001_quality_management
+      - iso_14001_environmental_management
+      - iso_50001_energy_management_systems
+
+    local_regulations:
+      - state_mechanical_codes
+      - local_amendments_codes
+      - building_permit_requirements
+      - inspection_requirements
+      - contractor_licensing
+      - refrigerant_handling_certification_state
+      - plumbing_code_requirements_local
+      - electrical_code_requirements_local
+
+  health_safety_hvac:
+    indoor_air_quality_health:
+      - sick_building_syndrome
+      - building_related_illness
+      - volatile_organic_compound_exposure
+      - formaldehyde_exposure_health
+      - carbon_monoxide_poisoning
+      - carbon_dioxide_elevated_levels
+      - radon_exposure_lung_cancer
+      - asbestos_exposure_hvac_systems
+      - legionella_pneumophila
+      - aspergillus_mold_exposure
+      - allergen_exposure_reduction
+      - asthma_triggers_hvac
+      - respiratory_health_ventilation
+
+    combustion_safety:
+      - combustion_air_adequacy
+      - combustion_appliance_zone
+      - spillage_testing
+      - draft_testing_combustion
+      - carbon_monoxide_detection
+      - flue_gas_venting
+      - backdrafting_prevention
+      - natural_draft_appliances
+      - induced_draft_safety
+      - direct_vent_sealed_combustion
+      - exhaust_vent_termination
+      - clearances_to_combustibles
+
+    refrigerant_safety_detailed:
+      - refrigerant_toxicity_levels
+      - occupational_exposure_limits_oel
+      - permissible_exposure_limit_pel
+      - threshold_limit_value_tlv_refrigerants
+      - refrigerant_concentration_limits_rcl
+      - oxygen_deprivation_concentration
+      - machinery_room_classification
+      - ventilation_requirements_refrigerant_release
+      - refrigerant_detector_placement
+      - alarm_system_refrigerant
+      - emergency_shutdown_systems
+      - self_contained_breathing_apparatus
+      - evacuation_procedures_refrigerant_release
+
+    electrical_safety_hvac:
+      - lockout_tagout_loto_procedures
+      - electrical_arc_flash_hazards
+      - personal_protective_equipment_electrical
+      - arc_rated_clothing
+      - voltage_testing_verification
+      - ground_fault_circuit_interrupter_gfci
+      - equipment_grounding
+      - bonding_requirements
+      - electrical_clearances
+      - working_space_requirements
+      - electrical_safety_training
+
+    fall_protection:
+      - roof_edge_protection
+      - guardrail_systems
+      - personal_fall_arrest_systems
+      - anchor_points_fall_protection
+      - full_body_harness
+      - lifeline_systems
+      - ladder_safety
+      - scaffold_safety
+      - aerial_lift_safety
+
+    confined_space_entry:
+      - permit_required_confined_spaces
+      - atmospheric_testing_confined_space
+      - oxygen_concentration_monitoring
+      - flammable_gas_monitoring
+      - toxic_gas_monitoring
+      - ventilation_confined_space
+      - entry_permit_system
+      - attendant_requirements
+      - rescue_procedures_confined_space
+      - communication_systems_confined_space
+
+    hazard_communication:
+      - safety_data_sheets_sds
+      - ghs_globally_harmonized_system
+      - hazard_pictograms
+      - signal_words_danger_warning
+      - hazard_statements
+      - precautionary_statements
+      - chemical_labeling_requirements
+      - employee_training_hazcom
+
+    personal_protective_equipment_hvac:
+      - safety_glasses_goggles
+      - face_shields_protection
+      - hard_hats_head_protection
+      - hearing_protection_earplugs_muffs
+      - respirators_dust_masks
+      - welding_helmets
+      - leather_gloves_brazing
+      - insulated_gloves_electrical
+      - chemical_resistant_gloves
+      - steel_toe_boots
+      - knee_pads
+      - back_support_belts
+
+    emergency_procedures_hvac:
+      - fire_emergency_response
+      - fire_extinguisher_types_training
+      - evacuation_routes_procedures
+      - assembly_points
+      - emergency_communication_systems
+      - first_aid_training
+      - spill_response_procedures
+      - material_spill_containment
+      - emergency_equipment_location
+      - incident_reporting_procedures

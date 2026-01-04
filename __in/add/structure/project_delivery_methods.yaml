@@ -1,0 +1,477 @@
+project_delivery_methods:
+  version: "2.0_enhanced"
+  description: "Comprehensive project delivery methods, BIM execution, procurement strategies, and construction administration for HVAC projects"
+
+  design_delivery_methods:
+    design_bid_build:
+      - traditional_sequential_approach
+      - separate_designer_contractor
+      - complete_design_before_bidding
+      - competitive_bidding_process
+      - owner_holds_separate_contracts
+      - clear_liability_separation
+      - limited_contractor_input_design
+      - potential_adversarial_relationships
+      - change_order_management
+      - longer_overall_project_duration
+      - cost_certainty_before_construction
+      - well_established_legal_framework
+
+    design_build:
+      - single_point_responsibility
+      - integrated_design_construction
+      - early_contractor_involvement
+      - concurrent_design_construction
+      - fast_track_scheduling
+      - value_engineering_opportunities
+      - reduced_project_duration
+      - design_build_entity_structure
+      - bridging_documents
+      - performance_specifications
+      - cost_plus_fee_with_gmp
+      - reduced_owner_control_design
+      - single_source_accountability
+
+    construction_manager_at_risk:
+      - cm_advisor_phase
+      - cm_contractor_phase
+      - guaranteed_maximum_price
+      - early_cost_input
+      - constructability_reviews
+      - preconstruction_services
+      - fast_track_capabilities
+      - phased_construction_approach
+      - shared_savings_provisions
+      - contingency_management
+      - subcontractor_bidding_oversight
+      - owner_designer_cm_collaboration
+
+    integrated_project_delivery_ipd:
+      - multi_party_agreement
+      - shared_risk_reward
+      - early_involvement_all_parties
+      - collaborative_decision_making
+      - target_value_design
+      - pull_planning_lean_construction
+      - big_room_co_location
+      - integrated_form_of_agreement_ifoa
+      - liability_waivers_between_parties
+      - transparent_cost_data
+      - jointly_developed_project_goals
+      - lean_principles_integration
+      - building_information_modeling_required
+      - innovation_encouragement
+
+    progressive_design_build:
+      - two_phase_procurement
+      - qualifications_based_selection
+      - collaborative_preconstruction
+      - evolving_scope_definition
+      - early_design_collaboration
+      - progressive_gmp_development
+      - flexibility_owner_requirements
+      - phased_risk_transfer
+
+  building_information_modeling_bim:
+    bim_project_execution:
+      level_of_development_lod:
+        - lod_100_conceptual
+        - lod_200_approximate_geometry
+        - lod_300_precise_geometry
+        - lod_350_construction_documentation
+        - lod_400_fabrication
+        - lod_500_as_built
+
+      bim_execution_plan_bep:
+        - project_information
+        - key_project_contacts
+        - bim_goals_objectives
+        - organizational_roles_staffing
+        - bim_process_design
+        - bim_information_exchanges
+        - collaboration_procedures
+        - quality_control_procedures
+        - technology_infrastructure
+
+      model_coordination:
+        - clash_detection_analysis
+        - hard_clashes_physical_conflicts
+        - soft_clashes_clearance_violations
+        - 4d_clashes_temporal_conflicts
+        - coordination_meeting_protocols
+        - issue_tracking_resolution
+        - federated_model_management
+        - trade_coordination_sequence
+
+      discipline_coordination:
+        - architectural_structural_coordination
+        - mep_architectural_coordination
+        - hvac_plumbing_coordination
+        - hvac_electrical_coordination
+        - hvac_fire_protection_coordination
+        - hvac_structural_coordination
+        - ceiling_coordination
+        - equipment_access_coordination
+        - maintenance_space_coordination
+
+    bim_uses:
+      design_phase:
+        - design_authoring_modeling
+        - design_visualization
+        - design_analysis_simulation
+        - energy_analysis_integration
+        - lighting_analysis
+        - solar_analysis
+        - cfd_analysis_integration
+        - structural_analysis
+        - code_validation
+        - design_review_collaboration
+
+      preconstruction_phase:
+        - cost_estimation_quantity_takeoff
+        - 4d_scheduling_simulation
+        - constructability_review
+        - site_logistics_planning
+        - crane_logistics
+        - temporary_facilities_planning
+        - phasing_planning
+
+      construction_phase:
+        - digital_fabrication
+        - 3d_coordination_shop_drawings
+        - construction_system_design
+        - site_utilization_planning
+        - construction_sequencing
+        - rfi_management
+        - progress_tracking
+        - quality_control_inspection
+
+      operations_phase:
+        - record_modeling_as_built
+        - facility_management_integration
+        - space_management
+        - asset_management
+        - maintenance_scheduling
+        - building_systems_analysis
+        - energy_management_operations
+        - renovation_planning
+
+    bim_standards_protocols:
+      - iso_19650_information_management
+      - nbims_national_bim_standard
+      - bim_forum_lod_specification
+      - coa_contractor_oriented_approach
+      - csi_uniformat_masterformat
+      - ifc_industry_foundation_classes
+      - cobie_construction_operations_building
+      - bim_collaboration_format_bcf
+      - common_data_environment_cde
+
+    bim_software_platforms:
+      authoring_tools:
+        - revit_mep_autodesk
+        - autocad_mep
+        - microstation_aecosim
+        - archicad_mep_modeler
+        - vectorworks_architect
+
+      analysis_tools:
+        - green_building_studio
+        - insight_energy_analysis
+        - iesve_virtual_environment
+        - tas_thermal_analysis
+        - cfd_analysis_tools
+
+      coordination_tools:
+        - navisworks_manage
+        - solibri_model_checker
+        - bim_360_glue
+        - synchro_4d
+        - vico_office
+
+      fabrication_tools:
+        - fabrication_cadmep
+        - trimble_sysque
+        - struxureware_building_operation
+
+  procurement_methods:
+    bidding_methods:
+      competitive_bidding:
+        - invitation_to_bid_itb
+        - sealed_bid_process
+        - public_bid_opening
+        - lowest_responsive_responsible_bidder
+        - bid_bond_requirements
+        - performance_payment_bonds
+        - bid_shopping_prevention
+        - bid_leveling_normalization
+        - alternate_bid_items
+        - unit_price_bidding
+        - lump_sum_bidding
+
+      negotiated_procurement:
+        - request_for_proposals_rfp
+        - qualifications_based_selection_qbs
+        - best_value_procurement
+        - negotiated_pricing
+        - sole_source_procurement
+        - emergency_procurement
+
+      prequalification:
+        - contractor_prequalification_criteria
+        - financial_capacity_review
+        - experience_evaluation
+        - safety_record_review
+        - bonding_capacity_verification
+        - reference_checks
+        - prequalified_bidder_list
+
+    contract_types:
+      lump_sum_fixed_price:
+        - stipulated_sum_contract
+        - complete_design_required
+        - defined_scope_work
+        - contractor_assumes_cost_risk
+        - change_order_process
+        - payment_schedule_percentage_complete
+        - retainage_provisions
+
+      unit_price_contract:
+        - measured_quantities
+        - predetermined_unit_costs
+        - final_cost_actual_quantities
+        - bid_schedule_items
+        - quantity_overrun_underrun
+        - unit_price_adjustments
+
+      cost_plus_fee:
+        - cost_reimbursement
+        - fixed_fee_percentage
+        - cost_plus_fixed_fee_cpff
+        - cost_plus_percentage_cppc
+        - open_book_accounting
+        - allowable_costs_definition
+        - fee_structure_options
+        - cost_controls_oversight
+
+      guaranteed_maximum_price_gmp:
+        - cost_ceiling_establishment
+        - shared_savings_provisions
+        - contingency_allocation
+        - allowances_inclusions
+        - scope_gap_clauses
+        - gmp_amendment_process
+        - reconciliation_final_costs
+
+      time_and_materials:
+        - hourly_labor_rates
+        - material_costs_markup
+        - equipment_rental_rates
+        - not_to_exceed_limits
+        - daily_progress_reports
+        - time_tracking_requirements
+
+    subcontractor_procurement:
+      - trade_contractor_packages
+      - subcontractor_prequalification
+      - bid_leveling_analysis
+      - scope_gap_identification
+      - substitution_requests
+      - buy_out_process
+      - subcontract_agreements
+      - flow_down_provisions
+      - payment_terms_conditions
+      - performance_bonds_subcontractors
+      - default_termination_provisions
+
+  construction_administration:
+    submittal_management:
+      submittal_types:
+        - shop_drawings_fabrication
+        - product_data_cuts
+        - samples_mockups
+        - method_statements
+        - mix_designs
+        - test_reports
+        - manufacturer_instructions
+        - operation_maintenance_data
+        - warranties_certifications
+        - closeout_submittals
+
+      submittal_process:
+        - submittal_schedule
+        - submittal_register_log
+        - contractor_review_certification
+        - design_team_review_process
+        - review_status_codes
+        - approved_approved_as_noted
+        - revise_resubmit
+        - rejected_not_approved
+        - turnaround_time_requirements
+        - resubmittal_procedures
+
+    request_for_information_rfi:
+      - rfi_log_tracking
+      - response_time_requirements
+      - clarification_requests
+      - design_intent_questions
+      - code_interpretation
+      - conflict_resolution
+      - coordination_issues
+      - rfi_close_out
+      - cost_schedule_impact_identification
+
+    change_order_management:
+      change_types:
+        - owner_requested_changes
+        - design_changes_corrections
+        - unforeseen_conditions
+        - code_requirement_changes
+        - value_engineering_changes
+        - constructability_improvements
+
+      change_process:
+        - change_order_request
+        - pricing_proposal
+        - schedule_impact_analysis
+        - design_review_approval
+        - owner_authorization
+        - change_directive
+        - construction_change_directive_ccd
+        - change_order_log
+        - cost_tracking_budget_impact
+
+    quality_control_assurance:
+      - quality_control_plan
+      - inspection_test_plan_itp
+      - three_phase_inspection
+      - hold_points_witness_points
+      - material_testing_requirements
+      - equipment_factory_testing
+      - field_testing_procedures
+      - non_conformance_reports
+      - corrective_action_requests
+      - punch_list_management
+
+    site_administration:
+      - preconstruction_meeting
+      - progress_meetings_weekly
+      - coordination_meetings
+      - safety_meetings
+      - meeting_minutes_distribution
+      - site_visit_reports
+      - daily_reports_logs
+      - progress_photography
+      - as_built_documentation
+      - record_drawing_requirements
+
+    payment_administration:
+      - schedule_of_values
+      - application_for_payment
+      - monthly_payment_applications
+      - stored_materials_payment
+      - retainage_withholding
+      - retainage_release
+      - change_order_payment
+      - final_payment_application
+      - lien_waivers_releases
+      - certified_payroll_prevailing_wage
+
+    closeout_procedures:
+      - substantial_completion
+      - punch_list_generation
+      - punch_list_completion_verification
+      - final_completion_certificate
+      - certificate_of_occupancy
+      - warranties_collection
+      - operation_maintenance_manuals
+      - training_owner_personnel
+      - spare_parts_delivery
+      - final_as_built_drawings
+      - closeout_submittals
+      - project_closeout_checklist
+      - final_project_accounting
+      - lessons_learned_documentation
+
+  commissioning_integration:
+    owner_project_requirements_opr:
+      - owner_goals_objectives
+      - operational_requirements
+      - performance_expectations
+      - sustainability_goals
+      - budget_constraints
+      - schedule_requirements
+      - future_expansion_plans
+
+    basis_of_design_bod:
+      - design_assumptions
+      - code_standards_basis
+      - climatic_design_conditions
+      - load_calculation_methodology
+      - system_descriptions
+      - equipment_selection_criteria
+      - control_strategies_narrative
+      - energy_modeling_assumptions
+
+    commissioning_plan:
+      - commissioning_scope
+      - commissioning_team_structure
+      - commissioning_schedule
+      - documentation_requirements
+      - testing_procedures_outline
+      - training_requirements
+      - warranty_period_review
+
+    construction_phase_commissioning:
+      - submittal_review_commissioning
+      - installation_verification
+      - startup_supervision
+      - prefunctional_checklists
+      - functional_performance_testing
+      - test_procedure_development
+      - seasonal_testing_requirements
+      - deficiency_resolution
+
+  lean_construction_principles:
+    - last_planner_system
+    - pull_planning_reverse_phase
+    - percent_plan_complete_ppc
+    - make_ready_planning
+    - constraint_removal
+    - daily_huddles
+    - visual_management
+    - 5s_workplace_organization
+    - continuous_improvement_kaizen
+    - waste_elimination_muda
+    - value_stream_mapping
+    - just_in_time_delivery
+    - takt_time_planning
+
+  safety_management:
+    - site_specific_safety_plan
+    - job_hazard_analysis_jha
+    - activity_hazard_analysis_aha
+    - safety_data_sheets_accessibility
+    - toolbox_talks_tailgate_meetings
+    - incident_reporting_investigation
+    - osha_recordkeeping_requirements
+    - safety_audits_inspections
+    - fall_protection_program
+    - confined_space_entry_program
+    - lockout_tagout_program
+    - personal_protective_equipment_program
+    - emergency_action_plan
+    - fire_prevention_plan
+
+  sustainability_integration_project_delivery:
+    - leed_submittal_requirements
+    - leed_documentation_tracking
+    - fundamental_commissioning_requirements
+    - enhanced_commissioning_requirements
+    - measurement_verification_plan
+    - indoor_air_quality_management_plan
+    - construction_iaq_management
+    - low_emitting_materials_documentation
+    - refrigerant_management_plan
+    - energy_model_validation
+    - renewable_energy_documentation

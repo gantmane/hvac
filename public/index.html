@@ -5,7 +5,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HVAC Systems Encyclopedia - HVAC Systems Encyclopedia</title>
-    <meta name="description" content="A comprehensive encyclopedia of heating, ventilation, and air conditioning systems">
+    <meta name="description" content="HVAC Systems Encyclopedia
+A comprehensive guide to heating, ventilation, and air conditioning systems.">
+    
+    <meta name="author" content="Evgeniy Gantman">
+    <link rel="canonical" href="/">
+
+    
+    <meta property="og:title" content="HVAC Systems Encyclopedia - HVAC Systems Encyclopedia">
+    <meta property="og:description" content="HVAC Systems Encyclopedia
+A comprehensive guide to heating, ventilation, and air conditioning systems.">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/">
+
+    
+    
     <style>
         * {
             margin: 0;
@@ -115,7 +129,122 @@
             padding: 2rem;
             color: #666;
         }
+
+         
+        .MathJax, .MathJax_Display {
+            overflow-x: auto;
+            overflow-y: hidden;
+        }
+        mjx-container {
+            overflow-x: auto;
+            overflow-y: hidden;
+        }
+        .formula-box {
+            background: #f8f9fa;
+            border-left: 4px solid #667eea;
+            padding: 1rem;
+            margin: 1.5rem 0;
+            overflow-x: auto;
+        }
+        .worked-example {
+            background: #fff8e1;
+            border: 1px solid #ffd54f;
+            border-radius: 4px;
+            padding: 1.5rem;
+            margin: 2rem 0;
+        }
+        .worked-example h3 {
+            color: #f57c00;
+            margin-top: 0;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 1.5rem 0;
+        }
+        th, td {
+            border: 1px solid #e0e0e0;
+            padding: 0.75rem;
+            text-align: left;
+        }
+        th {
+            background: #f5f5f5;
+            font-weight: 600;
+        }
+        tr:hover {
+            background: #fafafa;
+        }
+        code {
+            background: #f4f4f4;
+            padding: 0.2rem 0.4rem;
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+        }
+        pre {
+            background: #f4f4f4;
+            padding: 1rem;
+            border-radius: 4px;
+            overflow-x: auto;
+            margin: 1rem 0;
+        }
+         
+        .mermaid {
+            background: #ffffff;
+            border: 1px solid #e0e0e0;
+            border-radius: 4px;
+            padding: 1.5rem;
+            margin: 2rem 0;
+            overflow-x: auto;
+        }
+        .mermaid svg {
+            max-width: 100%;
+            height: auto;
+        }
     </style>
+
+    
+    <script>
+    MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']],
+        processEscapes: true,
+        processEnvironments: true,
+        tags: 'ams',
+        packages: {'[+]': ['ams']}
+      },
+      options: {
+        skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+      },
+      svg: {
+        fontCache: 'global'
+      }
+    };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+
+    
+    <script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+      mermaid.initialize({
+        startOnLoad: true,
+        theme: 'default',
+        themeVariables: {
+          primaryColor: '#667eea',
+          primaryTextColor: '#fff',
+          primaryBorderColor: '#764ba2',
+          lineColor: '#333',
+          secondaryColor: '#f8f9fa',
+          tertiaryColor: '#fff'
+        },
+        flowchart: {
+          useMaxWidth: true,
+          htmlLabels: true,
+          curve: 'basis'
+        }
+      });
+    </script>
 </head>
 <body>
     <header>
@@ -141,6 +270,16 @@
     <div class="section-list">
         
         <div class="section-card">
+            <h3><a href="/technical-guides/">Technical Guides for HVAC Engineers</a></h3>
+            
+            <p>Comprehensive engineering guides covering psychrometrics, load calculations, and airflow analysis with formulas, worked examples, and practical applications.</p>
+            
+            
+            <p><small>43 subsections</small></p>
+            
+        </div>
+        
+        <div class="section-card">
             <h3><a href="/air-conditioning-cooling/">Air Conditioning Cooling</a></h3>
             
             <p><p>Comprehensive air conditioning and cooling systems - unitary, central, VRF, chillers, and cooling towers</p>
@@ -163,13 +302,26 @@
         </div>
         
         <div class="section-card">
-            <h3><a href="/controls-automation-building/">Controls Automation Building</a></h3>
+            <h3><a href="/controls-automation-building/">Controls &amp; Automation</a></h3>
             
-            <p><p>Comprehensive building automation and control systems - architectures, strategies, sensors, and integration</p>
-<p><em>Version: 2.0_enhanced</em></p></p>
+            <p><h1 id="controls--automation">Controls &amp; Automation</h1>
+<p>Building automation and control systems optimize HVAC performance, reduce energy consumption, maintain occupant comfort, and enable remote monitoring. This section covers control theory fundamentals, sensor and actuator technologies, control strategies, building automation system architectures, and cybersecurity for connected buildings.</p>
+<h2 id="control-theory-fundamentals">Control Theory Fundamentals</h2>
+<h3 id="feedback-control">Feedback Control</h3>
+<p><strong>Closed-loop control:</strong> Measure controlled variable, compare to setpoint, adjust manipulated variable to eliminate error.</p>
+<pre tabindex="0"><code class="language-mermaid" data-lang="mermaid">graph LR
+    A[Setpoint] --&gt; B[Controller]
+    B --&gt; C[Actuator]
+    C --&gt; D[Process/Plant]
+    D --&gt; E[Sensor]
+    E --&gt; F[Feedback]
+    F --&gt; B
+    
+    G[Disturbance] --&gt; D
+</code></pre><p><strong>Control error:</strong></p></p>
             
             
-            <p><small>9 subsections</small></p>
+            <p><small>10 subsections</small></p>
             
         </div>
         
@@ -185,24 +337,48 @@
         </div>
         
         <div class="section-card">
-            <h3><a href="/hvac-fundamentals/">Hvac Fundamentals</a></h3>
+            <h3><a href="/hvac-fundamentals/">HVAC Fundamentals</a></h3>
             
-            <p><p>Comprehensive HVAC fundamentals - thermodynamics, heat transfer, fluid mechanics, and psychrometrics</p>
-<p><em>Version: 2.0_enhanced</em></p></p>
+            <p><h1 id="hvac-fundamentals">HVAC Fundamentals</h1>
+<p>Core engineering principles underlying all HVAC system design, analysis, and operation. Master these fundamentals to understand heat transfer mechanisms, fluid flow behavior, thermodynamic processes, and psychrometric analysis that form the foundation of HVAC engineering practice.</p>
+<h2 id="core-disciplines">Core Disciplines</h2>
+<h3 id="thermodynamics">Thermodynamics</h3>
+<p>Thermodynamic laws govern energy conversion, refrigeration cycles, and heat pump operation. Understanding entropy, exergy, and irreversibility enables efficiency optimization and system performance prediction.</p>
+<p><strong>Key topics:</strong></p>
+<ul>
+<li><strong>First and Second Laws:</strong> Energy conservation and entropy generation</li>
+<li><strong>Thermodynamic Cycles:</strong> Carnot, Rankine, vapor compression, absorption</li>
+<li><strong>Exergy Analysis:</strong> Identifying irreversibilities and optimization opportunities</li>
+<li><strong>Properties of Pure Substances:</strong> Phase diagrams, saturation, critical point</li>
+<li><strong>Thermodynamic Processes:</strong> Isothermal, isobaric, isochoric, adiabatic</li>
+</ul>
+<p><strong>Related Technical Guides:</strong></p></p>
             
             
-            <p><small>7 subsections</small></p>
+            <p><small>9 subsections</small></p>
             
         </div>
         
         <div class="section-card">
             <h3><a href="/heating-systems/">Heating Systems</a></h3>
             
-            <p><p>Comprehensive heating systems taxonomy - combustion, furnaces, boilers, heat pumps, and radiant heating</p>
-<p><em>Version: 2.0_enhanced</em></p></p>
+            <p><h1 id="heating-systems">Heating Systems</h1>
+<p>Comprehensive coverage of heating equipment, distribution systems, and control strategies for residential, commercial, and industrial applications. Heating systems maintain thermal comfort, enable industrial processes, and provide domestic hot water across diverse climates and building types.</p>
+<h2 id="equipment-technologies">Equipment Technologies</h2>
+<h3 id="boilers">Boilers</h3>
+<p>Boilers generate hot water or steam for space heating and process applications. Boiler selection depends on fuel type, capacity, efficiency requirements, and system configuration.</p>
+<p><strong>Boiler types:</strong></p>
+<ul>
+<li><strong>Fire-tube:</strong> Compact, 15-800 hp, commercial/industrial</li>
+<li><strong>Water-tube:</strong> Large capacity, high pressure, industrial/utility</li>
+<li><strong>Cast iron sectional:</strong> Modular, residential/light commercial</li>
+<li><strong>Condensing:</strong> 90-98% efficiency, low return water temperature</li>
+<li><strong>Electric:</strong> Clean, quiet, 100% efficient at point of use</li>
+</ul>
+<p><strong>Performance metrics:</strong></p></p>
             
             
-            <p><small>12 subsections</small></p>
+            <p><small>13 subsections</small></p>
             
         </div>
         
@@ -264,8 +440,19 @@
         <div class="section-card">
             <h3><a href="/refrigeration-systems/">Refrigeration Systems</a></h3>
             
-            <p><p>Comprehensive refrigeration systems taxonomy - all cycles, components, refrigerants, and applications</p>
-<p><em>Version: 2.0_enhanced</em></p></p>
+            <p><h1 id="refrigeration-systems">Refrigeration Systems</h1>
+<p>Comprehensive coverage of refrigeration cycles, components, refrigerants, and applications spanning food preservation, cold storage, commercial refrigeration, and industrial processes. Refrigeration systems remove heat from low-temperature spaces and reject it to higher-temperature sinks through thermodynamic cycles.</p>
+<h2 id="fundamental-cycles">Fundamental Cycles</h2>
+<h3 id="vapor-compression-refrigeration">Vapor Compression Refrigeration</h3>
+<p>The dominant refrigeration technology for commercial and industrial applications. Mechanical compression raises refrigerant pressure and temperature, enabling heat rejection at ambient conditions.</p>
+<p><strong>Key topics:</strong></p>
+<ul>
+<li><strong>Cycle Analysis:</strong> P-h diagrams, COP calculations, thermodynamic processes</li>
+<li><strong>Superheat and Subcooling:</strong> Optimizing refrigeration effect</li>
+<li><strong>Multi-Stage Compression:</strong> Low-temperature applications</li>
+<li><strong>Cascade Systems:</strong> Ultra-low temperature refrigeration</li>
+</ul>
+<p><strong>Related Technical Guides:</strong></p></p>
             
             
             <p><small>15 subsections</small></p>
@@ -284,10 +471,13 @@
         </div>
         
         <div class="section-card">
-            <h3><a href="/specialty-applications-testing/">Specialty Applications Testing</a></h3>
+            <h3><a href="/specialty-applications-testing/">Specialty Applications &amp; Testing</a></h3>
             
-            <p><p>Specialty HVAC applications and comprehensive testing, balancing, and commissioning procedures</p>
-<p><em>Version: 2.0_enhanced</em></p></p>
+            <p><h1 id="specialty-applications--testing">Specialty Applications &amp; Testing</h1>
+<p>Specialized HVAC systems serve unique environments requiring precise control of temperature, humidity, pressure, particle concentration, or air quality. This section covers design requirements for healthcare facilities, cleanrooms, laboratories, data centers, commercial kitchens, and other critical applications, plus comprehensive testing, balancing, and commissioning procedures.</p>
+<h2 id="healthcare-hvac">Healthcare HVAC</h2>
+<h3 id="critical-care-environments">Critical Care Environments</h3>
+<p>Healthcare facilities demand stringent control to protect patients, staff, and visitors from airborne pathogens while maintaining comfort and safety.</p></p>
             
             
             <p><small>4 subsections</small></p>

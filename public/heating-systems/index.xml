@@ -6,6 +6,14 @@
     <description>Recent content in Heating Systems on HVAC Systems Encyclopedia</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 04 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/heating-systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hydraulic Balancing in Hydronic Systems</title>
+      <link>/heating-systems/hydraulic-balancing/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/heating-systems/hydraulic-balancing/</guid>
+      <description>&lt;h2 id=&#34;fundamentals&#34;&gt;Fundamentals&lt;/h2&gt;&#xA;&lt;p&gt;Hydraulic balancing ensures design flow rates reach each terminal unit in hydronic systems. Unbalanced systems exhibit flow starvation in distant circuits and excessive flow in proximal circuits, degrading comfort and efficiency.&lt;/p&gt;&#xA;&lt;h2 id=&#34;pressure-loss-principles&#34;&gt;Pressure Loss Principles&lt;/h2&gt;&#xA;&lt;p&gt;Flow resistance in piping follows the Darcy-Weisbach equation:&lt;/p&gt;&#xA;&lt;div class=&#34;formula&#34;&gt;&#xA;  &#xA;    &lt;div class=&#34;formula-display&#34;&gt;&#xA;      $$&#xA;\Delta P = f \cdot \frac{L}{D} \cdot \frac{\rho v^2}{2}&#xA;$$&#xA;    &lt;/div&gt;&#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Where:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;$\Delta P$ = pressure loss (Pa)&lt;/li&gt;&#xA;&lt;li&gt;$f$ = Darcy friction factor (dimensionless)&lt;/li&gt;&#xA;&lt;li&gt;$L$ = pipe length (m)&lt;/li&gt;&#xA;&lt;li&gt;$D$ = pipe diameter (m)&lt;/li&gt;&#xA;&lt;li&gt;$\rho$ = fluid density (kg/m³)&lt;/li&gt;&#xA;&lt;li&gt;$v$ = flow velocity (m/s)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;friction-factor&#34;&gt;Friction Factor&lt;/h3&gt;&#xA;&lt;p&gt;For turbulent flow (Re &amp;gt; 4000), the Colebrook-White equation applies:&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

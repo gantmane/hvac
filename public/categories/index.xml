@@ -6,6 +6,56 @@
     <description>Recent content in Categories on HVAC Systems Encyclopedia</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 04 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Management</title>
+      <link>/categories/building-management/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/categories/building-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Controls &amp; Automation</title>
+      <link>/categories/controls--automation/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/categories/controls--automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Heating Systems</title>
+      <link>/categories/heating-systems/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/categories/heating-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HVAC Fundamentals</title>
+      <link>/categories/hvac-fundamentals/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/categories/hvac-fundamentals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Indoor Environment</title>
+      <link>/categories/indoor-environment/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/categories/indoor-environment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Moisture Control</title>
+      <link>/categories/moisture-control/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/categories/moisture-control/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>System Design</title>
+      <link>/categories/system-design/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/categories/system-design/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

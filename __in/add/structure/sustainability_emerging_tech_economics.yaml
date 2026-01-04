@@ -1,0 +1,568 @@
+sustainability_emerging_tech_economics:
+  version: "2.0_enhanced"
+  description: "Comprehensive sustainability, green building, emerging technologies, computational methods, and economic analysis"
+
+  sustainability_green_building:
+    green_building_rating_systems:
+      leed_certification:
+        - leed_version_4_4_1
+        - energy_atmosphere_credits
+        - indoor_environmental_quality_credits
+        - materials_resources
+        - sustainable_sites
+        - water_efficiency
+        - innovation_design
+        - regional_priority
+        - leed_certified_silver_gold_platinum
+      breeam_building_research_establishment:
+        - breeam_international
+        - breeam_uk
+        - energy_performance_breeam
+        - health_wellbeing_breeam
+        - innovation_breeam
+        - land_use_ecology
+        - materials_breeam
+        - management_breeam
+        - pollution_breeam
+        - transport_breeam
+        - waste_breeam
+        - water_breeam
+      well_building_standard:
+        - air_quality_well
+        - water_quality_well
+        - nourishment_well
+        - light_well
+        - fitness_well
+        - comfort_well
+        - mind_well
+      passive_house_passivhaus:
+        - ultra_low_energy_standard
+        - airtightness_requirements_0_6_ach50
+        - thermal_bridge_free_construction
+        - high_performance_windows
+        - mechanical_ventilation_heat_recovery_required
+        - specific_heating_demand_15_kwh_m2_year
+        - total_primary_energy_120_kwh_m2_year
+
+    net_zero_energy_buildings:
+      - net_zero_site_energy
+      - net_zero_source_energy
+      - net_zero_energy_costs
+      - net_zero_emissions
+      - highly_efficient_envelope
+      - efficient_hvac_systems_net_zero
+      - renewable_energy_generation_on_site
+      - energy_storage_systems
+      - demand_response_integration
+      - grid_interaction_optimization
+
+    carbon_reduction_strategies:
+      embodied_carbon:
+        - whole_building_life_cycle_assessment
+        - material_selection_low_carbon
+        - refrigerant_gwp_impact
+        - manufacturing_energy_equipment
+        - transportation_emissions
+        - construction_emissions
+        - end_of_life_considerations
+      operational_carbon:
+        - energy_efficiency_measures
+        - renewable_energy_use
+        - electrification_hvac
+        - heat_pump_adoption
+        - renewable_electricity_grid
+        - carbon_intensity_reduction
+      carbon_sequestration:
+        - carbon_capture_utilization
+        - biogenic_materials
+        - carbon_negative_materials
+
+    circular_economy_hvac:
+      - design_for_disassembly
+      - modular_equipment_design
+      - material_reuse
+      - equipment_refurbishment
+      - component_recycling
+      - refrigerant_recovery_reuse
+      - extended_product_life
+      - remanufacturing_programs
+      - waste_minimization
+
+    resilience_adaptation:
+      - climate_resilient_design
+      - extreme_weather_preparation
+      - passive_survivability
+      - backup_systems_redundancy
+      - microgrids_energy_resilience
+      - thermal_comfort_passive_means
+      - water_conservation_resilience
+      - flood_resistant_equipment
+
+    environmental_product_declarations:
+      - epd_third_party_verification
+      - life_cycle_inventory_analysis
+      - environmental_impact_categories
+      - global_warming_potential_epd
+      - ozone_depletion_potential_epd
+      - acidification_potential
+      - eutrophication_potential
+      - smog_formation_potential
+      - product_category_rules
+
+  emerging_hvac_technologies:
+    advanced_refrigeration:
+      - magnetic_refrigeration_magnetocaloric
+      - thermoacoustic_refrigeration_sound_waves
+      - thermoelastic_cooling_shape_memory
+      - electrochemical_compression_refrigeration
+      - stirling_cycle_refrigeration
+      - pulse_tube_refrigeration
+      - thermotunneling_refrigeration
+      - membrane_based_refrigeration
+      - solid_state_refrigeration_advances
+
+    heat_pump_innovations:
+      - high_temperature_heat_pumps_industrial
+      - transcritical_co2_heat_pumps
+      - hybrid_heat_pump_systems
+      - air_to_water_heat_pumps_high_efficiency
+      - ground_source_heat_pump_advancements
+      - thermally_driven_heat_pumps
+      - absorption_heat_pumps_industrial
+      - chemical_heat_pumps
+
+    thermal_storage_advanced:
+      - phase_change_material_advances
+      - microencapsulated_pcm
+      - pcm_integrated_building_materials
+      - thermochemical_storage
+      - sorption_thermal_storage
+      - underground_thermal_energy_storage
+      - aquifer_thermal_energy_storage
+      - borehole_thermal_energy_storage
+      - pit_thermal_energy_storage
+
+    radiant_systems_innovative:
+      - thermally_active_building_systems_tabs
+      - radiant_cooling_panels_advanced
+      - radiant_chilled_beams
+      - capillary_tube_mats
+      - pcm_enhanced_radiant_systems
+      - low_temperature_heating_systems
+      - radiative_cooling_night_sky
+
+    desiccant_technology:
+      - advanced_desiccant_materials
+      - metal_organic_frameworks_desiccant
+      - silica_gel_advances
+      - zeolite_improvements
+      - liquid_desiccant_systems
+      - membrane_based_dehumidification
+      - hybrid_desiccant_vapor_compression
+
+    controls_automation_ai:
+      - artificial_intelligence_hvac_control
+      - machine_learning_optimization
+      - deep_learning_fault_detection
+      - reinforcement_learning_control
+      - neural_network_predictive_control
+      - digital_twin_technology
+      - building_information_modeling_bim_integration
+      - internet_of_things_iot_sensors
+      - edge_computing_hvac
+      - cloud_based_analytics
+      - blockchain_energy_management
+
+    prefabrication_modular:
+      - prefabricated_mechanical_systems
+      - modular_equipment_rooms
+      - prefabricated_pipe_assemblies
+      - prefabricated_ductwork
+      - off_site_construction
+      - panelized_systems
+      - skid_mounted_equipment
+      - rapid_deployment_systems
+
+    solar_energy_equipment:
+      solar_thermal_collectors:
+        flat_plate_collectors:
+          - glazed_flat_plate_collectors
+          - unglazed_flat_plate_collectors
+          - absorber_plate_copper_aluminum
+          - selective_surface_coatings
+          - black_chrome_coating
+          - black_nickel_coating
+          - glazing_tempered_glass
+          - single_vs_double_glazing
+          - low_iron_glass_transmittance
+          - insulation_backing
+          - collector_efficiency_curve
+          - fr_tau_alpha_optical_efficiency
+          - heat_loss_coefficient_ul
+          - collector_tilt_angle
+          - azimuth_orientation
+          - stagnation_temperature
+        evacuated_tube_collectors:
+          - glass_tube_vacuum_insulation
+          - heat_pipe_technology
+          - direct_flow_evacuated_tubes
+          - u_tube_flow_pattern
+          - coaxial_flow_pattern
+          - selective_coating_absorber
+          - minimal_heat_loss
+          - high_efficiency_cold_climates
+          - diffuse_radiation_collection
+          - modular_tube_replacement
+          - higher_temperature_capability
+          - stagnation_temperature_400f_plus
+        concentrating_collectors:
+          - parabolic_trough_collectors
+          - linear_fresnel_reflectors
+          - parabolic_dish_collectors
+          - tracking_systems_single_axis
+          - tracking_systems_dual_axis
+          - concentration_ratio
+          - high_temperature_applications
+          - direct_normal_irradiance_required
+          - receiver_tube_design
+          - heat_transfer_fluid_high_temp
+      solar_thermal_systems:
+        domestic_hot_water:
+          active_systems:
+            - direct_circulation_systems
+            - indirect_circulation_systems
+            - closed_loop_glycol_systems
+            - drainback_systems
+            - thermosiphon_systems
+            - integral_collector_storage_ics
+            - differential_temperature_controller
+            - storage_tank_sizing
+            - auxiliary_backup_heating
+            - tempering_valve_scald_protection
+          passive_systems:
+            - batch_heater_systems
+            - thermosiphon_natural_circulation
+            - no_pumps_required
+            - freeze_protection_considerations
+            - overheat_protection
+        space_heating_solar:
+          - hydronic_solar_heating
+          - air_based_solar_heating
+          - radiant_floor_integration
+          - heat_storage_water_tanks
+          - heat_storage_phase_change
+          - solar_fraction_calculation
+          - auxiliary_heating_integration
+          - seasonal_storage_systems
+        solar_cooling:
+          absorption_cooling_solar:
+            - single_effect_libr_chiller
+            - double_effect_libr_chiller
+            - driving_temperature_requirements
+            - hot_water_driven_170_to_210f
+            - steam_driven_230_to_350f
+            - coefficient_of_performance_solar_cooling
+            - cooling_tower_heat_rejection
+            - thermal_storage_cooling
+          desiccant_cooling_solar:
+            - solid_desiccant_dehumidification
+            - liquid_desiccant_systems
+            - desiccant_wheel_regeneration
+            - regeneration_temperature_140_to_180f
+            - solar_driven_regeneration
+            - evaporative_cooling_integration
+            - indirect_evaporative_cooling
+        combined_systems:
+          - solar_combisystems_heating_dhw
+          - seasonal_load_shifting
+          - year_round_utilization
+          - trigeneration_solar_heating_cooling_power
+      photovoltaic_thermal_hybrid:
+        - pvt_collectors_combined
+        - simultaneous_electricity_heat_generation
+        - pv_cell_cooling_efficiency_improvement
+        - thermal_energy_recovery
+        - water_cooled_pv_panels
+        - air_cooled_pv_panels
+        - building_integrated_pvt
+        - overall_system_efficiency_enhancement
+      solar_system_components:
+        heat_transfer_fluids:
+          - water_only_systems
+          - propylene_glycol_antifreeze
+          - ethylene_glycol_solutions
+          - concentration_freeze_protection
+          - specific_heat_effects
+          - viscosity_pumping_requirements
+          - thermal_degradation_replacement
+        pumps_controllers:
+          - circulation_pumps_solar
+          - variable_speed_pumps
+          - differential_temperature_controller
+          - high_limit_temperature_control
+          - low_limit_freeze_protection
+          - overheat_protection_control
+          - stagnation_prevention
+        heat_exchangers_solar:
+          - external_heat_exchanger
+          - internal_coil_heat_exchanger
+          - double_wall_heat_exchanger
+          - plate_frame_heat_exchanger
+          - effectiveness_requirements
+          - approach_temperature_design
+        expansion_tanks_solar:
+          - closed_loop_expansion_tank
+          - sizing_high_temperature
+          - pressure_relief_protection
+          - air_elimination_solar_loops
+        storage_tanks:
+          - solar_preheat_tanks
+          - two_tank_systems
+          - single_tank_dual_coil
+          - stratification_enhancement
+          - tank_insulation_r_value
+          - inlet_diffusers
+          - thermally_stratified_storage
+      performance_analysis:
+        - solar_insolation_data
+        - tmy_typical_meteorological_year
+        - direct_beam_radiation
+        - diffuse_radiation
+        - ground_reflected_radiation
+        - shading_analysis
+        - collector_array_layout
+        - tilt_angle_optimization
+        - seasonal_tilt_adjustment
+        - fixed_vs_tracking
+        - f_chart_method_analysis
+        - utilizability_method
+        - trnsys_simulation
+        - collector_efficiency_testing
+        - system_performance_monitoring
+      economic_considerations:
+        - installed_cost_per_sqft_collector
+        - incentives_rebates_solar
+        - federal_tax_credits_itc
+        - state_local_incentives
+        - utility_rebate_programs
+        - net_metering_solar_electric
+        - simple_payback_analysis
+        - life_cycle_cost_solar
+        - avoided_energy_cost
+        - renewable_energy_certificates_rec
+      building_integration:
+        - roof_mounted_collectors
+        - structural_load_considerations
+        - building_integrated_solar_thermal
+        - facade_integration
+        - canopy_mounted_systems
+        - ground_mounted_arrays
+        - shading_considerations_design
+
+    renewable_integration_advanced:
+      - solar_assisted_heat_pumps
+      - photovoltaic_thermal_hybrid
+      - building_integrated_photovoltaics
+      - solar_desiccant_cooling
+      - geothermal_energy_piles
+      - thermoelectric_waste_heat_recovery
+      - organic_rankine_cycle_integration
+
+    air_purification_advanced:
+      - photocatalytic_oxidation_advanced
+      - plasma_based_air_purification
+      - electrostatic_precipitation_advanced
+      - nanofiber_filtration
+      - graphene_based_filters
+      - antimicrobial_coatings
+      - self_cleaning_surfaces
+      - reactive_oxygen_species_generation
+
+    refrigerants_future:
+      - low_gwp_refrigerant_development
+      - natural_refrigerant_expansion
+      - hfo_blends_optimization
+      - drop_in_replacements
+      - not_in_kind_solutions
+      - refrigerant_charge_reduction
+      - refrigerant_containment_technologies
+
+  computational_methods_research:
+    computational_fluid_dynamics:
+      - navier_stokes_equations_numerical
+      - reynolds_averaged_navier_stokes_rans
+      - large_eddy_simulation_les
+      - direct_numerical_simulation_dns
+      - turbulence_modeling_k_epsilon
+      - turbulence_modeling_k_omega
+      - sst_shear_stress_transport
+      - spalart_allmaras_turbulence
+      - mesh_generation_techniques
+      - structured_mesh_hexahedral
+      - unstructured_mesh_tetrahedral
+      - hybrid_mesh_generation
+      - mesh_refinement_adaptation
+      - boundary_layer_meshing
+      - wall_functions
+      - near_wall_treatment_y_plus
+      - inlet_boundary_conditions
+      - outlet_boundary_conditions
+      - wall_boundary_conditions
+      - symmetry_boundary_conditions
+      - periodic_boundary_conditions
+      - solver_algorithms_simple_piso_pimple
+      - pressure_velocity_coupling
+      - convergence_criteria
+      - residual_monitoring
+      - solution_verification
+      - grid_independence_study
+      - validation_experimental_data
+      - post_processing_visualization
+      - velocity_contours_vectors
+      - pressure_distribution
+      - temperature_distribution
+      - streamlines_pathlines
+      - vorticity_visualization
+
+    building_energy_simulation:
+      - energyplus_detailed_simulation
+      - doe2_based_simulations
+      - trnsys_transient_simulation
+      - iesve_integrated_simulation
+      - designbuilder_interface
+      - openstudio_platform
+      - thermal_zone_modeling
+      - heat_balance_algorithm
+      - conduction_transfer_functions
+      - transient_heat_conduction
+      - internal_heat_gains_modeling
+      - occupancy_schedules
+      - equipment_schedules
+      - lighting_schedules
+      - infiltration_modeling
+      - air_leakage_modeling
+      - ventilation_modeling
+      - hvac_system_modeling
+      - plant_equipment_modeling
+      - control_strategy_modeling
+      - weather_data_epw_files
+      - typical_meteorological_year_tmy
+      - actual_meteorological_year
+      - climate_change_projections
+      - calibration_measured_data
+      - uncertainty_analysis
+      - sensitivity_analysis
+      - parametric_analysis
+      - optimization_coupled_simulation
+
+    optimization_techniques:
+      - genetic_algorithms_hvac
+      - particle_swarm_optimization_pso
+      - simulated_annealing
+      - gradient_based_optimization
+      - sequential_quadratic_programming
+      - multi_objective_optimization_moo
+      - pareto_front_identification
+      - nsga_ii_algorithm
+      - design_of_experiments_doe
+      - response_surface_methodology
+      - latin_hypercube_sampling
+      - monte_carlo_simulation
+      - bayesian_optimization
+      - surrogate_modeling
+      - artificial_neural_networks_optimization
+      - fuzzy_optimization
+
+    heat_transfer_modeling:
+      - finite_difference_methods_heat_transfer
+      - finite_element_methods_heat_transfer
+      - finite_volume_methods
+      - boundary_element_methods
+      - spectral_methods
+      - lattice_boltzmann_method
+      - monte_carlo_radiation
+      - discrete_ordinates_radiation
+      - radiation_view_factor_calculation
+      - conjugate_heat_transfer
+      - fluid_structure_interaction
+      - phase_change_modeling_solidification_melting
+
+    data_analytics_machine_learning:
+      - supervised_learning_regression
+      - unsupervised_learning_clustering
+      - time_series_analysis_forecasting
+      - arima_models_time_series
+      - lstm_long_short_term_memory_networks
+      - convolutional_neural_networks_cnn
+      - recurrent_neural_networks_rnn
+      - random_forest_algorithms
+      - support_vector_machines
+      - k_means_clustering
+      - principal_component_analysis_pca
+      - anomaly_detection_algorithms
+      - fault_detection_diagnostics_ml
+      - predictive_maintenance_ml
+      - energy_consumption_forecasting
+      - load_prediction_ml
+      - occupancy_prediction_ml
+      - comfort_prediction_models
+
+    uncertainty_quantification:
+      - monte_carlo_uncertainty
+      - latin_hypercube_sampling_uncertainty
+      - sobol_sensitivity_analysis
+      - variance_based_sensitivity
+      - morris_screening_method
+      - probabilistic_analysis
+      - stochastic_modeling
+      - uncertainty_propagation
+      - interval_analysis
+      - fuzzy_set_theory_uncertainty
+
+  economic_analysis_hvac:
+    life_cycle_cost_analysis_lcca:
+      - initial_costs_equipment_installation
+      - operating_costs_energy_water
+      - maintenance_costs_scheduled_unscheduled
+      - replacement_costs_equipment
+      - salvage_value_residual
+      - discount_rate_selection
+      - present_value_analysis
+      - future_value_analysis
+      - net_present_value_npv
+      - equivalent_annual_cost
+      - life_cycle_cost_comparison
+      - sensitivity_analysis_lcca
+
+    payback_period_analysis:
+      - simple_payback_period
+      - discounted_payback_period
+      - return_on_investment_roi
+      - internal_rate_of_return_irr
+      - benefit_cost_ratio
+      - energy_savings_calculation
+      - utility_cost_escalation
+      - inflation_rate_effects
+
+    economic_incentives:
+      - utility_rebate_programs
+      - tax_credits_deductions
+      - accelerated_depreciation
+      - energy_efficiency_grants
+      - performance_contracting
+      - energy_savings_performance_contracts_espc
+      - measurement_verification_economics
+      - third_party_financing
+
+    total_cost_of_ownership:
+      - acquisition_costs
+      - installation_costs
+      - commissioning_costs
+      - training_costs
+      - operating_energy_costs
+      - water_costs
+      - preventive_maintenance_costs
+      - repair_costs
+      - downtime_costs
+      - disposal_costs
+      - residual_value

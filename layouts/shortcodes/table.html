@@ -1,0 +1,11 @@
+<div class="technical-table">
+  {{ if .Get "title" }}
+    <h4 class="table-title">{{ .Get "title" }}</h4>
+  {{ end }}
+  <div class="table-wrapper">
+    {{ .Inner | safeHTML }}
+  </div>
+  {{ if .Get "source" }}
+    <p class="table-source">Source: {{ .Get "source" }}</p>
+  {{ end }}
+</div>

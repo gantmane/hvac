@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/technical-guides/heat-transfer-fundamentals/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/technical-guides/psychrometric-fundamentals/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/technical-guides/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/industrial-local-exhaust/capture-velocity/100-200-fpm-general/</loc>
   </url><url>
     <loc>/hvac-fundamentals/building-envelope-moisture/mold-growth-prediction/critical-moisture-content/80-percent-rh-threshold/</loc>
@@ -712,8 +724,6 @@
   </url><url>
     <loc>/hvac-fundamentals/energy-resources/energy-efficiency-potential/efficiency-improvement-opportunities/hvac-system-upgrades/</loc>
   </url><url>
-    <loc>/</loc>
-  </url><url>
     <loc>/research-specialized-knowledge/alternative-refrigeration-cycles/hybrid-compression-absorption/</loc>
   </url><url>
     <loc>/refrigeration-systems/refrigerants/classifications/natural-refrigerants/hydrocarbons/</loc>
@@ -1409,6 +1419,12 @@
     <loc>/refrigeration-systems/refrigerants/classifications/blends/zeotropic-mixtures/</loc>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/tall-buildings-high-rise-hvac/smoke-control-tall-buildings/zoned-smoke-control/</loc>
+  </url><url>
+    <loc>/technical-guides/fluid-mechanics-hvac/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/technical-guides/psychrometric-processes/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/industrial-local-exhaust/capture-velocity/200-500-fpm-active-generation/</loc>
   </url><url>
@@ -2814,6 +2830,12 @@
   </url><url>
     <loc>/agricultural-hvac-systems/livestock-environmental-control/zone-heating-livestock/</loc>
   </url><url>
+    <loc>/controls-automation-building/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/technical-guides/thermodynamic-cycles/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/power-plants/control-room-hvac/24-7-operation/</loc>
   </url><url>
     <loc>/heating-systems/cogeneration-chp-systems/heat-recovery-equipment/absorption-chiller-integration/</loc>
@@ -3091,8 +3113,6 @@
     <loc>/specialty-applications-testing/specialty-hvac-applications/nuclear-facilities-hvac/radiological-zones/controlled-zones/</loc>
   </url><url>
     <loc>/air-conditioning-cooling/system-types/variable-refrigerant-flow/controls/</loc>
-  </url><url>
-    <loc>/controls-automation-building/</loc>
   </url><url>
     <loc>/heating-systems/hydronic-heat-distributing-units/convectors/</loc>
   </url><url>
@@ -4954,6 +4974,12 @@
   </url><url>
     <loc>/heating-systems/residential-in-space-heating/wood-pellet-stoves/</loc>
   </url><url>
+    <loc>/hvac-fundamentals/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/technical-guides/load-calculation-methodology/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/living-quarters/24-hour-occupancy/</loc>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/justice-facilities/correctional-facilities/administrative-areas-prison/</loc>
@@ -5159,8 +5185,6 @@
     <loc>/international-perspectives/climate-specific-design-approaches/humid-subtropical-climate/</loc>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/aircraft-environmental-control/humidity-control-aircraft/</loc>
-  </url><url>
-    <loc>/hvac-fundamentals/</loc>
   </url><url>
     <loc>/hvac-fundamentals/energy-resources/renewable-energy-resources/hydroelectric-resources/</loc>
   </url><url>
@@ -5374,6 +5398,12 @@
   </url><url>
     <loc>/refrigeration-systems/food-processing-refrigeration/dairy-processing/yogurt-production/</loc>
   </url><url>
+    <loc>/technical-guides/duct-design-fundamentals/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/heating-systems/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/controls-automation-building/actuators-detailed/</loc>
   </url><url>
     <loc>/refrigeration-systems/commodity-storage-requirements/meat-poultry-storage/aging/</loc>
@@ -5485,8 +5515,6 @@
     <loc>/specialty-applications-testing/specialty-hvac-applications/snow-melting-freeze-protection-systems/heat-sources-snow-melt/heat-source-selection/</loc>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/mass-transit-hvac/heating-cooling-loads-transit/</loc>
-  </url><url>
-    <loc>/heating-systems/</loc>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/places-of-assembly/houses-of-worship/high-ceilings-worship/</loc>
   </url><url>
@@ -5607,6 +5635,9 @@
     <loc>/specialty-applications-testing/seismic-wind-flood-resistant-design/wind-load-design/</loc>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/tall-buildings-high-rise-hvac/zoning-vertical-buildings/</loc>
+  </url><url>
+    <loc>/technical-guides/hydronic-system-fundamentals/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/ships-marine-hvac/accommodation-spaces/</loc>
   </url><url>
@@ -5748,6 +5779,9 @@
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/tall-buildings-high-rise-hvac/wind-effects-tall-buildings/</loc>
   </url><url>
+    <loc>/technical-guides/boiler-selection-sizing/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/ductwork-piping-distribution/ductwork-air-distribution/air-terminals/</loc>
   </url><url>
     <loc>/hvac-fundamentals/fluid-mechanics/boundary-layer-theory/</loc>
@@ -5842,6 +5876,9 @@
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/snow-melting-freeze-protection-systems/controls-snow-melt/zoning-control/</loc>
   </url><url>
+    <loc>/technical-guides/heat-pump-technology/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/research-specialized-knowledge/advanced-sensing-technologies/</loc>
   </url><url>
     <loc>/refrigeration-systems/applications/</loc>
@@ -5906,6 +5943,9 @@
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/educational-facilities/ventilation-standards-schools/</loc>
   </url><url>
+    <loc>/technical-guides/radiant-heating-design/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/sustainability-emerging-tech-economics/emerging-hvac-technologies/air-purification-advanced/</loc>
   </url><url>
     <loc>/ductwork-piping-distribution/piping-systems-hydronic/air-removal/</loc>
@@ -5960,6 +6000,9 @@
   </url><url>
     <loc>/heating-systems/unit-ventilators-heaters-makeup-air/</loc>
   </url><url>
+    <loc>/technical-guides/combustion-analysis/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/hvac-fundamentals/material-properties/secondary-coolant-properties/alcohol-solutions/</loc>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/snow-melting-freeze-protection-systems/application-areas/</loc>
@@ -6000,6 +6043,9 @@
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/natatoriums-indoor-swimming-pools/ventilation-rates-natatoriums/</loc>
   </url><url>
+    <loc>/technical-guides/heating-load-calculations/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/research-specialized-knowledge/augmented-virtual-reality/</loc>
   </url><url>
     <loc>/refrigeration-systems/commodity-storage-requirements/</loc>
@@ -6028,6 +6074,9 @@
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/natatoriums-indoor-swimming-pools/water-chemistry-hvac-impact/</loc>
   </url><url>
+    <loc>/technical-guides/cooling-load-calculations/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/research-specialized-knowledge/edge-computing-fog-computing/</loc>
   </url><url>
     <loc>/refrigeration-systems/food-microbiology-refrigeration/</loc>
@@ -6040,6 +6089,9 @@
   </url><url>
     <loc>/research-specialized-knowledge/</loc>
   </url><url>
+    <loc>/technical-guides/chiller-performance-analysis/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/research-specialized-knowledge/cyber-physical-systems/</loc>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/industrial-local-exhaust/</loc>
@@ -6050,62 +6102,217 @@
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/service-water-heating-domestic-hot-water/system-efficiency/</loc>
   </url><url>
+    <loc>/technical-guides/refrigeration-cycle-design/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/agricultural-hvac-systems/</loc>
   </url><url>
     <loc>/refrigeration-systems/food-processing-refrigeration/</loc>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/natatoriums-indoor-swimming-pools/</loc>
   </url><url>
+    <loc>/technical-guides/cooling-tower-performance/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/sustainability-emerging-tech-economics/</loc>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/tall-buildings-high-rise-hvac/</loc>
+  </url><url>
+    <loc>/technical-guides/air-conditioning-system-selection/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/agricultural-drying-storage/</loc>
   </url><url>
     <loc>/ventilation-indoor-air-quality/</loc>
   </url><url>
+    <loc>/technical-guides/dehumidification-strategies/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/wood-paper-facilities/</loc>
+  </url><url>
+    <loc>/technical-guides/ventilation-rate-calculations/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/nuclear-facilities-hvac/</loc>
   </url><url>
+    <loc>/technical-guides/airflow-measurement-balancing/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/farm-crops-processing/</loc>
+  </url><url>
+    <loc>/technical-guides/duct-static-pressure-calculations/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/specialized-cooling-applications/</loc>
   </url><url>
+    <loc>/technical-guides/fan-selection-performance/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/automobiles-hvac/</loc>
+  </url><url>
+    <loc>/technical-guides/air-filtration-design/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/mass-transit-hvac/</loc>
   </url><url>
+    <loc>/technical-guides/energy-recovery-systems/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/aircraft-environmental-control/</loc>
+  </url><url>
+    <loc>/technical-guides/hvac-control-strategies/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/ships-marine-hvac/</loc>
   </url><url>
+    <loc>/technical-guides/variable-flow-system-design/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/hospitality-facilities/</loc>
+  </url><url>
+    <loc>/technical-guides/building-pressurization-control/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/educational-facilities/</loc>
   </url><url>
+    <loc>/technical-guides/energy-modeling-methodology/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/museums-galleries-archives-libraries/</loc>
+  </url><url>
+    <loc>/technical-guides/commissioning-procedures/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/justice-facilities/</loc>
   </url><url>
+    <loc>/technical-guides/code-compliance-analysis/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/places-of-assembly/</loc>
+  </url><url>
+    <loc>/technical-guides/material-thermal-properties/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/high-occupancy-density-hvac/</loc>
   </url><url>
+    <loc>/technical-guides/vapor-compression-refrigeration/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/acoustic-considerations-assembly/</loc>
+  </url><url>
+    <loc>/technical-guides/refrigerant-selection-properties/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/smoke-control-large-volumes/</loc>
   </url><url>
+    <loc>/technical-guides/healthcare-hvac-design/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/variable-occupancy-control/</loc>
+  </url><url>
+    <loc>/technical-guides/compressor-selection-performance/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/specialized-venue-requirements/</loc>
   </url><url>
+    <loc>/technical-guides/cleanroom-design/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/snow-melting-freeze-protection-systems/</loc>
+  </url><url>
+    <loc>/technical-guides/refrigeration-load-calculations/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/specialty-applications-testing/specialty-hvac-applications/service-water-heating-domestic-hot-water/</loc>
   </url><url>
+    <loc>/technical-guides/building-envelope-heat-transfer/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/technical-guides/data-center-cooling-strategies/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/technical-guides/commercial-kitchen-ventilation/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/technical-guides/exergy-analysis-optimization/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/technical-guides/food-storage-requirements/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/automation/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/balancing/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/building-management/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/building-performance/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/control-theory/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/controls--automation/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/energy-analysis/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/fluid-mechanics/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/heating-systems/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/human-factors/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/humidification/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/hvac-fundamentals/humidification-systems/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/hvac-fundamentals/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/heating-systems/hydraulic-balancing/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/hydraulic-design/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/indoor-environment/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/moisture-control/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/pid/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/controls-automation-building/pid-controllers/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/system-design/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/system-design/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/thermal-comfort/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/hvac-fundamentals/thermal-comfort/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
   </url>
 </urlset>

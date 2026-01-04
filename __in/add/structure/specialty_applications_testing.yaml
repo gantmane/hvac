@@ -1,0 +1,472 @@
+specialty_applications_testing:
+  version: "2.0_enhanced"
+  description: "Specialty HVAC applications and comprehensive testing, balancing, and commissioning procedures"
+
+  specialty_hvac_applications:
+    cleanroom_hvac:
+      classification_standards:
+        - iso_14644_1_classifications
+        - iso_class_1_to_iso_class_9
+        - federal_standard_209e_legacy
+        - particle_count_limits
+        - 0_1_micron_particles
+        - 0_5_micron_particles
+        - 5_micron_particles
+        - cleanroom_monitoring
+        - particle_counter_location
+      airflow_patterns:
+        - unidirectional_airflow_laminar
+        - non_unidirectional_turbulent_mixing
+        - vertical_unidirectional_flow
+        - horizontal_unidirectional_flow
+        - mixed_flow_cleanrooms
+        - air_velocity_unidirectional_0_3_to_0_5_mps
+        - air_changes_per_hour_cleanroom
+        - air_change_rates_iso_classes
+      filtration_cleanroom:
+        - final_hepa_filtration
+        - final_ulpa_filtration
+        - prefilter_protection
+        - carbon_filter_molecular_contamination
+        - fan_filter_units_ffu
+        - filter_integrity_testing
+        - dioctyl_phthalate_dop_test
+        - aerosol_photometer_testing
+        - filter_leak_testing_procedures
+      pressure_control_cleanroom:
+        - positive_pressure_cascade
+        - pressure_differential_maintenance
+        - airlock_design
+        - pass_through_chambers
+        - pressure_decay_testing
+        - door_interlocks
+        - pressure_monitoring
+      temperature_humidity_control:
+        - tight_temperature_control_plus_minus_1f
+        - tight_humidity_control_plus_minus_2_percent
+        - dew_point_control
+        - process_load_cooling
+        - makeup_air_conditioning
+
+    laboratory_hvac:
+      fume_hood_systems:
+        - fume_hood_exhaust_requirements
+        - constant_volume_hoods
+        - variable_air_volume_hoods_low_flow
+        - auxiliary_air_hoods
+        - bypass_hoods
+        - floor_mounted_hoods
+        - benchtop_hoods
+        - distillation_hoods
+        - walk_in_hoods
+        - face_velocity_100_fpm_typical
+        - face_velocity_monitoring
+        - sash_position_sensors
+        - hood_alarm_systems
+        - containment_verification_testing
+        - ashrae_110_test_method
+        - tracer_gas_testing
+      exhaust_systems_laboratory:
+        - dedicated_exhaust_per_hood
+        - manifold_exhaust_systems
+        - constant_volume_exhaust
+        - variable_volume_exhaust
+        - diversity_factors_lab_exhaust
+        - stack_discharge_velocity
+        - stack_height_calculation
+        - exhaust_dispersion_modeling
+        - exhaust_air_treatment
+        - scrubber_systems_acid_fumes
+        - activated_carbon_solvent_removal
+      makeup_air_laboratory:
+        - 100_percent_outdoor_air
+        - lab_supply_air_systems
+        - general_lab_supply
+        - task_conditioning_supply
+        - perimeter_heating_cooling
+        - displacement_ventilation_labs
+        - underfloor_air_distribution_labs
+      controls_laboratory:
+        - pressure_independent_vav_controls
+        - venturi_valve_control
+        - phoenix_valve_control
+        - offset_supply_exhaust_control
+        - room_pressure_monitoring
+        - differential_pressure_sensors
+        - velocity_pressure_sensors
+        - flow_tracking_supply_exhaust
+        - diversity_control_algorithms
+        - safety_purge_mode
+        - fire_alarm_interface
+        - emergency_power_operation
+
+    healthcare_hvac:
+      operating_rooms:
+        - positive_pressure_operating_rooms
+        - minimum_air_changes_20_ach
+        - minimum_outdoor_air_4_ach
+        - hepa_filtration_supply_air
+        - terminal_hepa_filters
+        - laminar_flow_surgical_zones
+        - temperature_control_68_to_75f
+        - humidity_control_20_to_60_percent
+        - redundant_equipment
+        - backup_systems
+      isolation_rooms:
+        - airborne_infection_isolation_aii
+        - negative_pressure_rooms
+        - minimum_air_changes_12_ach
+        - anteroom_requirements
+        - pressure_differential_monitoring
+        - pressure_differential_0_01_iwc
+        - exhaust_air_treatment
+        - hepa_exhaust_filtration
+        - room_to_corridor_pressure
+        - visual_pressure_indicators
+      protective_environment_rooms:
+        - positive_pressure_pe_rooms
+        - immunocompromised_patients
+        - hepa_filtration_supply
+        - minimum_air_changes_12_ach
+        - sealed_room_construction
+        - anteroom_positive_pressure
+      patient_rooms:
+        - general_patient_room_requirements
+        - minimum_air_changes_6_ach
+        - minimum_outdoor_air_2_ach
+        - patient_room_temperature_70_to_75f
+        - patient_room_humidity_30_to_60_percent
+        - individual_room_controls
+      ashrae_170_requirements:
+        - ventilation_healthcare_facilities
+        - pressure_relationships
+        - filtration_requirements
+        - temperature_humidity_requirements
+        - air_change_requirements_by_space
+        - outdoor_air_requirements_by_space
+
+    data_center_cooling:
+      cooling_architectures:
+        - computer_room_air_conditioners_crac
+        - computer_room_air_handlers_crah
+        - in_row_cooling_units
+        - rear_door_heat_exchangers
+        - overhead_cooling_systems
+        - underfloor_air_distribution_raised_floor
+        - hard_ceiling_return_plenum
+        - contained_cold_aisle
+        - contained_hot_aisle
+        - chimney_cabinets
+      precision_cooling:
+        - tight_temperature_control_plus_minus_2f
+        - tight_humidity_control_plus_minus_5_percent
+        - sensible_heat_ratio_high_0_9_to_1_0
+        - high_airflow_rates
+        - variable_speed_fan_control
+        - modulating_cooling_capacity
+        - multiple_compressors_capacity_steps
+        - ec_fan_motors
+      liquid_cooling:
+        - chilled_water_cooling_systems
+        - in_rack_liquid_cooling
+        - rear_door_heat_exchangers_water
+        - direct_to_chip_liquid_cooling
+        - immersion_cooling_systems
+        - two_phase_immersion_cooling
+        - cold_plate_cooling
+        - coolant_distribution_units_cdu
+      free_cooling_data_center:
+        - air_side_economizer_data_center
+        - water_side_economizer_data_center
+        - direct_evaporative_cooling
+        - indirect_evaporative_cooling
+        - adiabatic_cooling_data_center
+        - free_cooling_hours_maximization
+        - ashrae_thermal_guidelines_data_centers
+        - allowable_temperature_range_expansion
+        - class_a1_a2_a3_a4_environments
+      redundancy_reliability:
+        - tier_i_basic_capacity
+        - tier_ii_redundant_components
+        - tier_iii_concurrently_maintainable
+        - tier_iv_fault_tolerant
+        - n_plus_1_redundancy
+        - 2n_redundancy
+        - distributed_redundancy
+        - uptime_institute_tier_classification
+      monitoring_controls_data_center:
+        - building_management_system_integration
+        - data_center_infrastructure_management_dcim
+        - real_time_monitoring
+        - temperature_humidity_sensors_density
+        - airflow_monitoring
+        - power_monitoring
+        - predictive_analytics
+        - computational_fluid_dynamics_modeling
+        - thermal_mapping
+
+    industrial_process_hvac:
+      - process_cooling_loads
+      - process_heating_requirements
+      - spot_cooling_applications
+      - process_exhaust_ventilation
+      - contaminant_specific_exhaust
+      - dilution_ventilation_industrial
+      - general_ventilation_rates
+      - heat_stress_management
+      - evaporative_cooling_industrial
+      - radiant_cooling_industrial
+      - air_curtains_thermal_barriers
+      - destratification_fans
+      - high_volume_low_speed_fans
+      - compressed_air_systems
+      - compressed_air_dryers
+      - desiccant_dryers_compressed_air
+      - refrigerated_dryers_compressed_air
+      - heat_of_compression_drying
+
+  testing_balancing_commissioning_process:
+    air_systems_testing:
+      airflow_measurement_methods:
+        - pitot_tube_traverse
+        - log_linear_traverse
+        - log_tchebycheff_traverse
+        - equal_area_traverse
+        - hot_wire_anemometer
+        - vane_anemometer
+        - rotating_vane_anemometer
+        - capture_hood_flow_measurement
+        - flow_hood_accuracy
+        - orifice_plate_measurement
+        - venturi_measurement_stations
+        - flow_measuring_stations
+      duct_traverse_procedures:
+        - velocity_pressure_measurement
+        - total_pressure_measurement
+        - static_pressure_measurement
+        - traverse_point_selection
+        - averaging_velocity_readings
+        - flow_rate_calculation
+        - duct_leakage_effects
+        - correction_factors_temperature_altitude
+      terminal_device_balancing:
+        - diffuser_outlet_measurement
+        - vav_box_calibration
+        - flow_station_verification
+        - proportional_balancing_procedure
+        - stepwise_balancing
+        - total_air_balancing_method
+      system_adjustments:
+        - fan_speed_adjustment
+        - pulley_sheave_changes
+        - vfd_speed_adjustment
+        - damper_adjustment_procedure
+        - duct_static_pressure_optimization
+        - system_effect_correction
+
+    hydronic_systems_testing:
+      flow_measurement_hydronic:
+        - ultrasonic_flow_measurement
+        - insertion_turbine_meters
+        - inline_turbine_meters
+        - magnetic_flow_meters_testing
+        - differential_pressure_flow_measurement
+        - calibrated_balance_valve_readout
+        - pump_curve_flow_determination
+        - temperature_method_flow_measurement
+      balancing_procedures_hydronic:
+        - proportional_method_balancing
+        - rated_flow_method
+        - total_flow_verification
+        - pump_performance_verification
+        - circuit_flow_adjustment
+        - balancing_valve_setting
+        - coil_flow_verification
+      system_flushing:
+        - initial_flushing_procedure
+        - high_velocity_flushing
+        - strainer_blow_down
+        - chemical_cleaning
+        - passivation_procedures
+        - system_cleanliness_verification
+
+    control_system_verification:
+      - sensor_calibration_verification
+      - controller_calibration
+      - actuator_stroke_verification
+      - control_loop_tuning
+      - proportional_band_adjustment
+      - reset_time_adjustment
+      - derivative_time_adjustment
+      - sequence_of_operation_verification
+      - interlock_verification
+      - safety_shutdown_testing
+      - alarm_point_verification
+      - trending_setup_verification
+
+    functional_performance_testing:
+      equipment_performance_tests:
+        - chiller_performance_test
+        - chiller_efficiency_verification
+        - condenser_approach_verification
+        - evaporator_approach_verification
+        - boiler_combustion_test
+        - boiler_efficiency_test
+        - cooling_tower_performance_test
+        - heat_pump_performance_test
+        - air_handling_unit_performance
+      system_integration_tests:
+        - economizer_functionality_test
+        - free_cooling_mode_test
+        - demand_controlled_ventilation_test
+        - building_pressurization_test
+        - smoke_control_test
+        - emergency_power_transfer_test
+        - night_setback_operation_test
+        - optimal_start_test
+        - morning_warm_up_test
+
+    documentation:
+      - test_and_balance_report
+      - certified_tab_report
+      - as_built_drawings
+      - point_to_point_checkout_sheets
+      - startup_checklists
+      - deficiency_reports
+      - corrective_action_log
+      - systems_manual_preparation
+      - operation_maintenance_manuals
+      - training_documentation
+
+    ongoing_commissioning:
+      - trending_analysis
+      - performance_benchmarking
+      - energy_consumption_monitoring
+      - fault_detection_diagnostics_ongoing
+      - seasonal_recommissioning
+      - measurement_verification_protocols
+      - continuous_optimization
+      - performance_degradation_monitoring
+
+  acoustic_noise_vibration:
+    sound_fundamentals:
+      - sound_pressure_pascal
+      - sound_pressure_level_db
+      - reference_pressure_20_micropascals
+      - sound_power_watts
+      - sound_power_level_db
+      - a_weighted_decibels_dba
+      - octave_band_analysis_frequencies
+      - center_frequencies_63_to_8000_hz
+      - one_third_octave_bands
+      - frequency_spectrum
+      - broadband_noise
+      - tonal_noise
+      - pure_tone_penalty
+
+    noise_criteria:
+      - nc_curves_noise_criteria
+      - rc_curves_room_criteria
+      - rc_mark_ii_curves
+      - balanced_noise_criterion_curves
+      - rumbly_hissy_identification
+      - speech_interference_level
+      - articulation_index
+      - speech_transmission_index
+      - background_noise_levels
+      - ambient_noise_masking
+
+    hvac_equipment_noise:
+      - fan_sound_power_levels
+      - fan_sound_spectra
+      - compressor_noise
+      - pump_noise
+      - chiller_noise
+      - cooling_tower_noise
+      - boiler_noise
+      - terminal_unit_noise
+      - diffuser_generated_noise
+      - grille_noise
+      - duct_breakout_noise
+      - duct_breakin_noise
+      - plenum_radiated_noise
+      - equipment_sound_ratings_manufacturer
+
+    sound_attenuation:
+      duct_attenuation:
+        - rectangular_duct_natural_attenuation
+        - round_duct_natural_attenuation
+        - lined_duct_attenuation
+        - duct_liner_thickness
+        - duct_liner_facing
+        - elbow_attenuation
+        - split_attenuation_branch
+        - end_reflection_loss
+      silencers:
+        - dissipative_silencers
+        - reactive_silencers
+        - active_noise_cancellation
+        - silencer_insertion_loss
+        - silencer_pressure_drop
+        - silencer_self_noise
+        - silencer_length
+        - splitter_silencers
+        - circular_silencers
+        - elbow_silencers
+      barriers_enclosures:
+        - sound_barriers_outdoor
+        - transmission_loss
+        - mass_law_transmission_loss
+        - sound_transmission_class_stc
+        - outdoor_indoor_transmission_class_oitc
+        - enclosure_design
+        - acoustic_louvers
+        - equipment_screen_walls
+
+    vibration_control:
+      vibration_sources:
+        - unbalanced_rotating_equipment
+        - reciprocating_compressors
+        - pumps_cavitation
+        - fans_imbalance
+        - motors_magnetic_forces
+        - piping_flow_induced_vibration
+        - water_hammer
+      vibration_isolation:
+        isolator_types:
+          - steel_spring_isolators
+          - neoprene_isolators
+          - fiberglass_isolators
+          - pneumatic_isolators
+          - combination_isolators
+        isolation_design:
+          - disturbing_frequency
+          - natural_frequency_system
+          - isolation_efficiency
+          - frequency_ratio
+          - static_deflection
+          - transmissibility_calculation
+          - resonance_avoidance
+        installation:
+          - inertia_bases_concrete
+          - structural_base_design
+          - housekeeping_pads
+          - isolated_curbs
+          - floating_floor_systems
+          - thrust_restraints
+          - snubbers_seismic
+          - seismic_restraints
+          - flexible_connections
+          - flexible_duct_connectors
+          - flexible_pipe_connectors
+          - braided_flexible_hoses
+          - expansion_joints_vibration
+
+    structural_considerations:
+      - equipment_support_requirements
+      - roof_mounted_equipment_supports
+      - floor_loading_calculations
+      - reinforcement_requirements
+      - vibration_transmission_structure
+      - building_resonance
+      - modal_analysis_structures

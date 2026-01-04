@@ -1,0 +1,259 @@
+maintenance_refrigerant_management:
+  version: "2.0_enhanced"
+  description: "Comprehensive maintenance management and refrigerant management/safety practices"
+
+  maintenance_management:
+    preventive_maintenance_schedules:
+      monthly_tasks:
+        - filter_inspection_replacement
+        - belt_inspection_tension
+        - thermostat_calibration_check
+        - condensate_drain_inspection
+        - refrigerant_level_check
+        - oil_level_check
+        - control_system_check
+        - alarm_testing
+      quarterly_tasks:
+        - coil_cleaning_inspection
+        - motor_lubrication_required_bearings
+        - electrical_connection_tightening
+        - vibration_analysis
+        - refrigerant_leak_inspection
+        - water_treatment_testing
+        - cooling_tower_inspection
+        - heat_exchanger_inspection
+        - combustion_analysis_furnace_boiler
+      annual_tasks:
+        - comprehensive_system_inspection
+        - motor_testing_insulation_resistance
+        - bearing_replacement_scheduled
+        - refrigerant_charge_verification
+        - control_calibration_sensors_actuators
+        - water_treatment_system_service
+        - fire_damper_inspection_test
+        - smoke_damper_inspection_test
+        - emergency_system_testing
+        - backup_power_testing
+
+    predictive_maintenance:
+      vibration_analysis_techniques:
+        - accelerometer_measurements
+        - velocity_transducers
+        - displacement_sensors
+        - fft_analysis_frequency_domain
+        - time_waveform_analysis
+        - bearing_defect_frequencies
+        - misalignment_detection
+        - unbalance_detection
+        - resonance_identification
+        - trending_vibration_data
+      thermography_ir_inspection:
+        - infrared_camera_inspection
+        - thermal_imaging_electrical_connections
+        - thermal_imaging_bearings
+        - thermal_imaging_motors
+        - hot_spot_identification
+        - temperature_differential_analysis
+        - emissivity_correction
+        - reflected_temperature_compensation
+      oil_analysis:
+        - lubricant_viscosity_testing
+        - wear_metal_analysis
+        - spectrographic_analysis
+        - particle_count_contamination
+        - water_content_testing
+        - acid_number_tan_testing
+        - oxidation_analysis
+        - additive_depletion
+      ultrasonic_testing_maintenance:
+        - ultrasonic_leak_detection_compressed_air
+        - ultrasonic_leak_detection_steam
+        - bearing_condition_monitoring_ultrasonic
+        - electrical_inspection_corona_arcing
+        - valve_leak_detection_ultrasonic
+      motor_current_analysis:
+        - motor_current_signature_analysis_mcsa
+        - rotor_bar_defects
+        - stator_winding_faults
+        - air_gap_eccentricity
+        - load_analysis
+        - power_factor_monitoring
+      performance_trending:
+        - energy_consumption_trending
+        - efficiency_trending
+        - capacity_trending
+        - temperature_trending
+        - pressure_trending
+        - runtime_trending
+        - cycle_count_trending
+
+    corrective_maintenance:
+      troubleshooting_procedures:
+        - systematic_fault_diagnosis
+        - symptom_based_troubleshooting
+        - refrigeration_cycle_analysis
+        - electrical_circuit_analysis
+        - control_system_troubleshooting
+        - sensor_verification
+        - actuator_verification
+        - sequence_of_operation_review
+        - manufacturer_troubleshooting_guides
+      failure_analysis:
+        - root_cause_analysis
+        - failure_mode_effects_analysis_fmea
+        - metallurgical_analysis
+        - compressor_failure_analysis
+        - motor_failure_analysis
+        - bearing_failure_analysis
+        - corrosion_analysis
+        - erosion_analysis
+      component_replacement:
+        - compressor_replacement_procedures
+        - motor_replacement
+        - bearing_replacement
+        - belt_replacement_tensioning
+        - filter_drier_replacement
+        - expansion_valve_replacement
+        - sensor_replacement_calibration
+        - actuator_replacement_stroke_adjustment
+      system_repairs:
+        - refrigerant_leak_repair
+        - tube_patching_welding
+        - coil_repair_replacement
+        - duct_repair_sealing
+        - piping_repair
+        - valve_repair_replacement
+        - control_wiring_repair
+
+    maintenance_documentation:
+      - computerized_maintenance_management_systems_cmms
+      - work_order_management
+      - asset_tracking
+      - preventive_maintenance_scheduling
+      - inventory_management_spare_parts
+      - maintenance_history_records
+      - equipment_nameplate_data
+      - as_built_documentation
+      - warranty_tracking
+      - service_contract_management
+
+    spare_parts_management:
+      - critical_spare_parts_identification
+      - recommended_spare_parts_list
+      - inventory_optimization
+      - min_max_inventory_levels
+      - just_in_time_inventory
+      - obsolescence_management
+      - interchangeability_cross_reference
+      - vendor_qualification
+      - emergency_parts_procurement
+
+  refrigerant_management_safety:
+    leak_detection:
+      - electronic_leak_detectors
+      - halide_torch_deprecated
+      - soap_bubble_testing
+      - ultrasonic_leak_detection_systems
+      - fluorescent_dye_injection
+      - uv_light_inspection
+      - pressure_testing_nitrogen
+      - standing_pressure_test
+      - pressure_decay_testing
+      - automatic_refrigerant_monitors
+      - area_monitors_machinery_rooms
+      - continuous_monitoring_systems
+      - alarm_setpoints_concentration
+      - tlv_threshold_limit_value
+      - odl_oxygen_deprivation_limit
+
+    refrigerant_handling:
+      recovery_procedures:
+        - vapor_recovery
+        - liquid_recovery
+        - push_pull_recovery_method
+        - recovery_equipment_types
+        - self_contained_recovery
+        - system_dependent_recovery
+        - oil_less_recovery_compressors
+        - recovery_cylinder_filling
+        - cylinder_fill_limits_80_percent
+        - color_coded_cylinders
+        - dot_certified_cylinders
+      recycling_procedures:
+        - oil_separation_recycling
+        - filter_drier_recycling
+        - air_purge_recycling
+        - recycling_equipment_standards
+        - ahri_740_standard
+      reclamation:
+        - refrigerant_purity_standards
+        - ahri_700_purity_specifications
+        - virgin_refrigerant_equivalent
+        - reclamation_facility_certification
+      charging_procedures:
+        - evacuation_before_charging
+        - deep_vacuum_requirements
+        - 500_micron_vacuum_standard
+        - micron_gauge_usage
+        - triple_evacuation_method
+        - standing_vacuum_test
+        - leak_rate_verification
+        - charging_by_weight
+        - charging_by_superheat
+        - charging_by_subcooling
+        - charging_charts_manufacturer
+        - liquid_charging_procedures
+        - vapor_charging_procedures
+
+    brazing_soldering:
+      - nitrogen_purge_during_brazing
+      - oxidation_prevention
+      - brazing_alloys_silfos
+      - phos_copper_alloy
+      - silver_brazing_alloy
+      - brazing_temperature_control
+      - torch_brazing_techniques
+      - flux_application_copper_brass
+      - flux_free_brazing_copper
+      - joint_preparation_cleaning
+      - tube_reaming_deburring
+      - proper_tube_insertion_depth
+      - heat_application_uniform
+      - capillary_action_brazing
+      - cooling_after_brazing
+      - pressure_testing_after_brazing
+
+    safety_practices:
+      - personal_protective_equipment_refrigerants
+      - safety_glasses_face_shields
+      - insulated_gloves
+      - ventilation_requirements_service
+      - confined_space_entry_procedures
+      - oxygen_monitoring_confined_space
+      - refrigerant_exposure_limits
+      - first_aid_refrigerant_exposure
+      - frostbite_treatment
+      - msds_safety_data_sheets
+      - emergency_response_plans
+      - spill_containment_procedures
+      - cylinder_storage_requirements
+      - cylinder_transportation_regulations
+      - dot_hazmat_regulations
+
+    regulations_compliance:
+      - epa_section_608_certification
+      - type_i_small_appliances
+      - type_ii_high_pressure
+      - type_iii_low_pressure
+      - universal_certification_all_types
+      - epa_section_609_mvac_certification
+      - refrigerant_sales_restrictions
+      - venting_prohibition
+      - record_keeping_requirements
+      - service_records_retention
+      - leak_rate_reporting
+      - annual_leak_inspection_requirements
+      - automatic_leak_detection_requirements
+      - refrigerant_management_program
+      - disposal_requirements_appliances
+      - proper_disposal_certification

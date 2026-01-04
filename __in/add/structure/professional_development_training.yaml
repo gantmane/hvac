@@ -1,0 +1,485 @@
+professional_development_training:
+  version: "2.0_enhanced"
+  description: "Comprehensive professional certifications, continuing education, technical training, and safety programs for HVAC professionals"
+
+  professional_certifications:
+    engineering_certifications:
+      professional_engineer_pe:
+        - fundamentals_engineering_fe_exam
+        - fe_exam_mechanical_discipline
+        - ncees_national_council_examiners
+        - four_year_engineering_experience
+        - pe_exam_mechanical_hvac_depth
+        - state_licensure_requirements
+        - professional_practice_ethics
+        - continuing_competency_requirements
+        - pe_seal_authority
+
+      certified_energy_manager_cem:
+        - association_energy_engineers_aee
+        - energy_auditing_expertise
+        - energy_management_systems
+        - cogeneration_district_energy
+        - thermal_storage_economics
+        - lighting_building_envelope
+        - alternative_financing_mechanisms
+        - green_buildings_energy_efficiency
+        - recertification_requirements_cem
+
+      leed_accredited_professional:
+        - leed_ap_bd_c_building_design_construction
+        - leed_ap_o_m_operations_maintenance
+        - leed_ap_homes
+        - leed_ap_nd_neighborhood_development
+        - usgbc_united_states_green_building_council
+        - gbci_green_building_certification_institute
+        - leed_rating_systems_knowledge
+        - credit_interpretation_rulings
+        - continuing_education_hours_leed
+
+      well_accredited_professional:
+        - well_ap_credential
+        - international_well_building_institute
+        - health_wellness_building_design
+        - indoor_environmental_quality_well
+        - human_centric_design_principles
+        - ten_well_concepts_mastery
+        - continuing_education_well
+
+      building_commissioning_certification:
+        - certified_commissioning_professional_ccp
+        - associate_commissioning_professional_acp
+        - existing_building_commissioning_professional_ebcp
+        - building_commissioning_association_bca
+        - commissioning_process_authority_cpa
+        - university_wisconsin_commissioning
+        - commissioning_project_management
+        - functional_performance_testing
+        - systems_manual_development
+
+      building_energy_modeling:
+        - certified_energy_modeler_cem_ashrae
+        - building_energy_modeling_professional_bemp
+        - energy_simulation_software_expertise
+        - ashrae_standard_90_1_appendix_g
+        - performance_rating_method
+        - baseline_building_modeling
+        - proposed_building_modeling
+        - calibrated_simulation_techniques
+
+    technician_certifications:
+      nate_north_american_technician_excellence:
+        - nate_certification_core_hvac
+        - air_conditioning_nate_specialty
+        - heat_pump_nate_specialty
+        - gas_heating_nate_specialty
+        - oil_heating_nate_specialty
+        - air_distribution_nate_specialty
+        - hydronics_gas_nate_specialty
+        - hydronics_oil_nate_specialty
+        - commercial_refrigeration_nate
+        - light_commercial_air_conditioning
+        - light_commercial_refrigeration
+        - senior_hvac_efficiency_analyst
+
+      epa_refrigerant_certifications:
+        - epa_section_608_certification
+        - type_i_small_appliances_certification
+        - type_ii_high_pressure_systems
+        - type_iii_low_pressure_systems
+        - universal_type_certification_all
+        - epa_section_609_mvac_mobile_air_conditioning
+        - refrigerant_recovery_handling
+        - refrigerant_regulations_knowledge
+        - recertification_requirements_epa
+
+      rses_refrigeration_service_engineers:
+        - certified_hvacr_specialist_cms
+        - certified_hvacr_master_specialist_cmss
+        - certified_green_professional
+        - certified_carbon_monoxide_safety_technician
+        - rses_education_programs
+        - hands_on_training_rses
+
+      tabb_testing_adjusting_balancing:
+        - tabb_certified_supervisor
+        - tabb_certified_technician
+        - air_systems_balancing_certification
+        - hydronic_systems_balancing_certification
+        - sound_vibration_testing_certification
+        - cleanroom_performance_testing
+        - nebb_national_environmental_balancing_bureau
+        - nebb_building_systems_commissioning
+        - aabc_associated_air_balance_council
+
+    manufacturer_certifications:
+      - carrier_factory_authorized_dealer
+      - trane_comfort_specialist
+      - lennox_premier_dealer
+      - york_affinity_dealer
+      - mitsubishi_diamond_contractor
+      - daikin_comfort_pro
+      - bosch_geothermal_installer
+      - manufacturer_product_training
+      - warranty_service_authorization
+      - advanced_diagnostics_training
+
+    controls_automation_certifications:
+      - niagara_framework_certification
+      - bacnet_certification_btl
+      - johnson_controls_certified_technician
+      - siemens_building_technologies_certification
+      - honeywell_authorized_dealer
+      - schneider_electric_certification
+      - control_system_programming
+      - graphics_development_training
+      - network_integration_certification
+
+  continuing_education:
+    professional_development_hours:
+      - pdh_professional_development_hours
+      - continuing_education_units_ceu
+      - learning_units_lu_aia
+      - state_board_requirements
+      - ethics_professional_responsibility
+      - technical_updates_code_changes
+      - emerging_technologies_training
+      - case_studies_lessons_learned
+
+    technical_webinars:
+      - ashrae_learning_institute
+      - ashrae_on_demand_learning
+      - manufacturer_webinar_series
+      - ahri_webinars
+      - distributor_training_programs
+      - live_virtual_training
+      - recorded_on_demand_courses
+      - interactive_q_and_a_sessions
+
+    conferences_symposiums:
+      - ashrae_winter_annual_conferences
+      - ashrae_summer_annual_conferences
+      - ahri_annual_meeting
+      - ahr_expo_international
+      - iiar_natural_refrigeration_conference
+      - regional_chapter_meetings
+      - technical_committee_meetings
+      - research_summit_presentations
+      - poster_sessions_networking
+
+    seminars_workshops:
+      - hands_on_training_workshops
+      - equipment_demonstration_seminars
+      - troubleshooting_clinics
+      - code_update_seminars
+      - energy_modeling_workshops
+      - commissioning_training_workshops
+      - hvac_design_fundamentals
+      - advanced_systems_design
+
+    online_learning_platforms:
+      - ashrae_learning_institute_online
+      - hvac_learning_solutions
+      - skillsoft_technical_training
+      - udemy_hvac_courses
+      - coursera_building_technology
+      - linkedin_learning_technical
+      - youtube_educational_channels
+      - manufacturer_e_learning_portals
+
+    university_programs:
+      - hvac_design_certificate_programs
+      - energy_management_graduate_programs
+      - building_science_masters_degree
+      - mechanical_engineering_continuing_education
+      - extension_programs_universities
+      - executive_education_sustainability
+
+    trade_publications_journals:
+      - ashrae_journal_monthly
+      - hvacr_business_magazine
+      - engineered_systems_magazine
+      - consulting_specifying_engineer
+      - contracting_business
+      - the_news_hvacr
+      - hvac_insider
+      - technical_papers_research
+
+    manufacturer_training:
+      - factory_training_programs
+      - product_specific_training
+      - installation_best_practices
+      - service_maintenance_training
+      - troubleshooting_diagnostics
+      - warranty_claims_procedures
+      - new_product_introductions
+      - application_engineering_support
+
+  safety_training_programs:
+    osha_safety_training:
+      osha_10_hour_construction:
+        - introduction_osha_construction
+        - construction_fall_hazards
+        - electrical_safety_construction
+        - personal_protective_equipment_construction
+        - materials_handling_construction
+        - hand_power_tools_construction
+        - health_hazards_construction
+        - stairways_ladders_construction
+        - scaffolds_construction
+        - cranes_derricks_hoists
+
+      osha_30_hour_construction:
+        - osha_10_topics_expanded
+        - excavations_trenching
+        - concrete_masonry_construction
+        - steel_erection
+        - welding_cutting_brazing
+        - confined_spaces_construction
+        - safety_health_program_management
+        - recordkeeping_reporting
+
+      osha_general_industry:
+        - walking_working_surfaces
+        - exit_routes_emergency_planning
+        - fire_protection_prevention
+        - compressed_gases_equipment
+        - materials_handling_storage
+        - machine_guarding
+        - permit_required_confined_spaces
+        - lockout_tagout_energy_control
+
+    confined_space_entry_training:
+      - permit_required_confined_space_identification
+      - atmospheric_hazard_recognition
+      - oxygen_deficiency_enrichment
+      - flammable_gas_vapor_detection
+      - toxic_gas_detection
+      - continuous_atmospheric_monitoring
+      - ventilation_confined_spaces
+      - entry_permit_procedures
+      - authorized_entrant_training
+      - attendant_responsibilities
+      - entry_supervisor_duties
+      - rescue_procedures_training
+      - non_entry_rescue_equipment
+      - emergency_response_drills
+
+    fall_protection_training:
+      - fall_hazard_recognition
+      - guardrail_systems_requirements
+      - personal_fall_arrest_systems_pfas
+      - full_body_harness_donning
+      - lanyard_selection_inspection
+      - anchor_point_selection
+      - snap_hook_compatibility
+      - fall_clearance_calculations
+      - rescue_suspension_trauma
+      - ladder_safety_training
+      - scaffold_user_training
+      - aerial_lift_operator_training
+
+    electrical_safety_training:
+      - nfpa_70e_electrical_safety_workplace
+      - qualified_person_training
+      - unqualified_person_awareness
+      - electrical_hazard_awareness
+      - arc_flash_hazard_analysis
+      - shock_hazard_analysis
+      - arc_rated_clothing_selection
+      - personal_protective_equipment_electrical
+      - lockout_tagout_electrical_systems
+      - voltage_testing_procedures
+      - working_distances_restricted_approach
+      - prohibited_approach_boundaries
+      - energized_electrical_work_permits
+
+    lockout_tagout_training:
+      - hazardous_energy_sources
+      - lockout_tagout_procedures_development
+      - energy_isolation_methods
+      - lockout_devices_application
+      - tagout_devices_application
+      - group_lockout_procedures
+      - shift_change_lockout_continuity
+      - verification_energy_isolation
+      - stored_energy_release
+      - authorized_employee_training
+      - affected_employee_training
+      - periodic_inspection_procedures
+
+    respiratory_protection_training:
+      - respiratory_hazard_assessment
+      - respirator_selection_criteria
+      - air_purifying_respirators
+      - powered_air_purifying_respirators_papr
+      - supplied_air_respirators
+      - self_contained_breathing_apparatus_scba
+      - fit_testing_qualitative
+      - fit_testing_quantitative
+      - medical_evaluation_respirator_use
+      - respirator_inspection_maintenance
+      - cartridge_filter_change_schedules
+
+    hazard_communication_training:
+      - hazcom_standard_osha
+      - globally_harmonized_system_ghs
+      - safety_data_sheets_sds_understanding
+      - hazard_classification_categories
+      - hazard_pictograms_recognition
+      - signal_words_interpretation
+      - hazard_statements_understanding
+      - precautionary_statements_application
+      - container_labeling_requirements
+      - workplace_labeling_systems
+      - chemical_inventory_maintenance
+
+    first_aid_cpr_training:
+      - first_aid_basics
+      - cpr_cardiopulmonary_resuscitation
+      - aed_automated_external_defibrillator
+      - choking_heimlich_maneuver
+      - bleeding_control_bandaging
+      - shock_treatment
+      - burns_treatment_thermal_chemical
+      - frostbite_hypothermia_treatment
+      - heat_exhaustion_heat_stroke
+      - fractures_sprains_strains
+      - american_red_cross_certification
+      - american_heart_association_certification
+
+    refrigerant_safety_training:
+      - refrigerant_properties_safety
+      - toxicity_levels_refrigerants
+      - asphyxiation_hazards
+      - frostbite_prevention_treatment
+      - refrigerant_leak_response
+      - personal_protective_equipment_refrigerants
+      - ventilation_requirements_service
+      - refrigerant_cylinder_handling
+      - refrigerant_storage_safety
+      - emergency_response_refrigerant_release
+      - machinery_room_safety
+
+    hot_work_safety:
+      - hot_work_permit_procedures
+      - fire_watch_requirements
+      - welding_cutting_hazards
+      - brazing_soldering_safety
+      - fire_extinguisher_training
+      - combustible_materials_removal
+      - spark_containment_barriers
+      - post_work_fire_watch
+
+  apprenticeship_programs:
+    union_apprenticeships:
+      - ua_united_association_pipefitters
+      - sheet_metal_workers_apprenticeship
+      - electricians_apprenticeship_hvac_controls
+      - five_year_apprenticeship_program
+      - classroom_instruction_hours
+      - on_the_job_training_hours
+      - journeyman_certification
+      - apprenticeship_wage_progression
+
+    non_union_apprenticeships:
+      - abc_associated_builders_contractors
+      - nccer_national_center_construction_education
+      - craft_training_curriculum
+      - performance_verification_competencies
+      - stackable_credentials
+      - portable_certifications
+
+  specialized_technical_training:
+    building_automation_training:
+      - bas_fundamentals_training
+      - hvac_controls_sequences
+      - ddc_direct_digital_control_programming
+      - network_communications_protocols
+      - bacnet_protocol_training
+      - modbus_protocol_training
+      - lonworks_protocol_training
+      - graphics_development_training
+      - trend_analysis_optimization
+      - energy_management_strategies
+
+    energy_auditing_training:
+      - ashrae_level_1_walkthrough_audit
+      - ashrae_level_2_energy_survey_analysis
+      - ashrae_level_3_investment_grade_audit
+      - building_performance_institute_bpi
+      - energy_audit_procedures
+      - measurement_verification_protocols
+      - energy_modeling_calibration
+      - retrofit_measure_identification
+      - economic_analysis_lcca
+
+    commissioning_training:
+      - commissioning_process_overview
+      - opr_bod_development
+      - design_review_procedures
+      - submittal_review_commissioning
+      - functional_performance_testing
+      - prefunctional_checklists
+      - test_procedure_development
+      - deficiency_management
+      - systems_manual_development
+      - operator_training_delivery
+      - ongoing_commissioning_practices
+
+    troubleshooting_diagnostics:
+      - systematic_troubleshooting_methodology
+      - electrical_measurements_multimeter
+      - refrigeration_cycle_diagnostics
+      - superheat_subcooling_analysis
+      - airflow_measurement_techniques
+      - combustion_analysis_training
+      - control_system_troubleshooting
+      - sensor_calibration_verification
+      - vibration_analysis_basics
+      - thermography_ir_camera_operation
+
+    indoor_air_quality_training:
+      - iaq_investigation_procedures
+      - building_related_illness_investigation
+      - sick_building_syndrome_diagnosis
+      - mold_assessment_remediation
+      - ventilation_assessment_procedures
+      - air_sampling_techniques
+      - particle_counter_operation
+      - gas_detector_calibration_use
+      - mitigation_strategy_development
+
+  business_management_training:
+    - business_planning_hvac_contractors
+    - financial_management_contractors
+    - estimating_bidding_strategies
+    - project_management_fundamentals
+    - customer_service_excellence
+    - sales_training_hvac
+    - marketing_digital_presence
+    - employee_management_hr
+    - legal_compliance_contractors
+    - insurance_bonding_requirements
+    - technology_adoption_software_tools
+
+  soft_skills_development:
+    - communication_skills_technical_professionals
+    - presentation_skills_public_speaking
+    - technical_writing_reports
+    - team_collaboration_leadership
+    - conflict_resolution_negotiation
+    - time_management_productivity
+    - critical_thinking_problem_solving
+    - customer_relationship_management
+    - emotional_intelligence_workplace
+
+  mentorship_programs:
+    - experienced_professional_mentorship
+    - early_career_engineer_mentoring
+    - technician_apprentice_mentoring
+    - knowledge_transfer_programs
+    - succession_planning
+    - professional_networking_opportunities
+    - career_path_guidance
+    - industry_exposure_site_visits

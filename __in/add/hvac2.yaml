@@ -1,0 +1,4748 @@
+hvac_comprehensive_taxonomy:
+  version: "2.0_enhanced"
+  description: "Complete HVAC research taxonomy - deep dive into all categories, subcategories, and technical topics"
+  
+  fundamentals:
+    thermodynamics:
+      laws_principles:
+        - zeroth_law_thermal_equilibrium
+        - first_law_energy_conservation
+        - second_law_entropy_irreversibility
+        - third_law_absolute_zero
+        - clausius_inequality
+        - maxwell_relations
+        - gibbs_free_energy
+        - helmholtz_free_energy
+        - chemical_potential
+        - fugacity_activity
+      cycles:
+        - carnot_cycle_ideal
+        - rankine_cycle_steam
+        - brayton_cycle_gas_turbine
+        - otto_cycle
+        - diesel_cycle
+        - stirling_cycle
+        - ericsson_cycle
+        - vapor_compression_refrigeration
+        - absorption_refrigeration_cycle
+        - adsorption_refrigeration_cycle
+        - gas_refrigeration_cycles
+        - transcritical_cycles
+        - supercritical_cycles
+        - ejector_expansion_cycles
+        - multi_stage_compression
+        - cascade_refrigeration
+        - lorenz_cycle
+        - trilateral_flash_cycle
+      properties:
+        - enthalpy_calculations
+        - entropy_calculations
+        - internal_energy
+        - specific_heat_constant_pressure
+        - specific_heat_constant_volume
+        - heat_capacity_ratio
+        - compressibility_factor
+        - reduced_properties
+        - corresponding_states
+        - virial_equations
+        - equations_of_state
+        - ideal_gas_law
+        - van_der_waals_equation
+        - redlich_kwong_equation
+        - peng_robinson_equation
+        - benedict_webb_rubin_equation
+        - property_tables_charts
+        - mollier_diagrams
+        - ts_diagrams
+        - ph_diagrams
+        - pv_diagrams
+      processes:
+        - isobaric_constant_pressure
+        - isochoric_constant_volume
+        - isothermal_constant_temperature
+        - isentropic_reversible_adiabatic
+        - polytropic_pvn_constant
+        - throttling_isenthalpic
+        - adiabatic_no_heat_transfer
+        - reversible_processes
+        - irreversible_processes
+      exergy_analysis:
+        - availability_analysis
+        - irreversibility_calculation
+        - second_law_efficiency
+        - exergy_destruction
+        - chemical_exergy
+        - physical_exergy
+        - exergetic_efficiency
+        - exergy_balance
+        - grassmann_diagrams
+        - exergoeconomic_analysis
+        - thermoeconomic_optimization
+        
+    heat_transfer:
+      conduction:
+        steady_state:
+          - fourier_law_one_dimensional
+          - thermal_conductivity_temperature_dependent
+          - thermal_resistance_concept
+          - composite_walls_series
+          - composite_walls_parallel
+          - multilayer_systems
+          - cylindrical_coordinates
+          - spherical_coordinates
+          - critical_radius_insulation
+          - contact_resistance
+          - thermal_interface_materials
+        transient:
+          - lumped_capacitance_method
+          - biot_number
+          - fourier_number
+          - heisler_charts
+          - semi_infinite_solids
+          - finite_difference_methods
+          - crank_nicolson_method
+          - explicit_methods
+          - implicit_methods
+          - alternating_direction_implicit
+          - finite_element_methods
+          - phase_change_problems
+          - moving_boundary_problems
+          - stefan_problem
+        extended_surfaces:
+          - fin_efficiency
+          - fin_effectiveness
+          - rectangular_fins
+          - cylindrical_fins
+          - triangular_fins
+          - pin_fins
+          - annular_fins
+          - fin_arrays
+          - spine_fins
+          - optimum_fin_spacing
+      convection:
+        forced_convection:
+          external_flow:
+            - flat_plate_laminar
+            - flat_plate_turbulent
+            - flat_plate_mixed
+            - cylinder_crossflow
+            - sphere_flow
+            - tube_banks
+            - noncircular_cylinders
+            - impinging_jets
+            - boundary_layer_development
+            - reynolds_analogy
+            - colburn_analogy
+          internal_flow:
+            - fully_developed_flow
+            - entrance_region
+            - thermal_entrance_length
+            - hydrodynamic_entrance_length
+            - laminar_flow_tubes
+            - turbulent_flow_tubes
+            - heat_transfer_correlations
+            - gnielinski_correlation
+            - dittus_boelter_equation
+            - sieder_tate_correlation
+            - petukhov_correlation
+            - noncircular_ducts
+            - concentric_tube_annulus
+        natural_convection:
+          - grashof_number
+          - rayleigh_number
+          - vertical_plates
+          - horizontal_plates
+          - inclined_plates
+          - vertical_cylinders
+          - horizontal_cylinders
+          - spheres
+          - enclosed_spaces
+          - rectangular_cavities
+          - concentric_cylinders
+          - concentric_spheres
+          - combined_free_forced_convection
+        phase_change:
+          boiling:
+            - pool_boiling_regimes
+            - nucleate_boiling
+            - film_boiling
+            - transition_boiling
+            - critical_heat_flux
+            - leidenfrost_point
+            - rohsenow_correlation
+            - forced_convection_boiling
+            - flow_boiling_regimes
+            - subcooled_boiling
+            - saturated_boiling
+            - critical_quality
+            - dryout_phenomenon
+            - post_dryout_heat_transfer
+          condensation:
+            - film_condensation
+            - dropwise_condensation
+            - nusselt_film_condensation
+            - vertical_surfaces_condensation
+            - horizontal_tubes_condensation
+            - tube_banks_condensation
+            - forced_convection_condensation
+            - condensation_inside_tubes
+            - shear_controlled_condensation
+            - gravity_controlled_condensation
+        correlations:
+          - nusselt_number_definitions
+          - prandtl_number_effects
+          - reynolds_number_regimes
+          - churchill_bernstein_correlation
+          - zhukauskas_correlation
+          - whitaker_correlation
+          - ranz_marshall_correlation
+          - dimensional_analysis
+          - buckingham_pi_theorem
+      radiation:
+        fundamentals:
+          - electromagnetic_spectrum
+          - planck_distribution
+          - wien_displacement_law
+          - stefan_boltzmann_law
+          - blackbody_radiation
+          - graybody_radiation
+          - emissivity_definitions
+          - absorptivity_definitions
+          - reflectivity_definitions
+          - transmissivity_definitions
+          - kirchhoff_law_thermal_radiation
+          - spectral_properties
+          - directional_properties
+          - hemispherical_properties
+        surface_radiation:
+          - radiosity_concept
+          - irradiation_concept
+          - diffuse_surfaces
+          - specular_surfaces
+          - view_factor_algebra
+          - view_factor_relations
+          - crossed_strings_method
+          - contour_integration
+          - hottel_strings_method
+          - view_factor_catalogs
+        enclosure_radiation:
+          - two_surface_enclosures
+          - three_surface_enclosures
+          - n_surface_enclosures
+          - radiation_network_method
+          - matrix_solution_methods
+          - electrical_analogy
+          - gray_diffuse_surfaces
+          - opaque_surfaces
+          - refractory_surfaces
+          - radiation_shields
+          - multiple_shields
+          - shield_optimization
+        gas_radiation:
+          - participating_media
+          - gas_absorption_bands
+          - emissivity_gases
+          - co2_radiation
+          - h2o_vapor_radiation
+          - mixture_radiation
+          - mean_beam_length
+          - hottel_charts
+          - weighted_sum_gray_gases
+        solar_radiation:
+          - solar_constant
+          - extraterrestrial_radiation
+          - atmospheric_attenuation
+          - air_mass_ratio
+          - clearness_index
+          - direct_radiation
+          - diffuse_radiation
+          - global_radiation
+          - solar_angles
+          - declination_angle
+          - hour_angle
+          - zenith_angle
+          - altitude_angle
+          - azimuth_angle
+          - incidence_angle
+          - surface_orientation
+          - shading_calculations
+          - isotropic_sky_model
+          - anisotropic_sky_models
+          - perez_model
+          - hdkr_model
+          
+    fluid_mechanics:
+      fluid_properties:
+        - density_compressibility
+        - specific_gravity
+        - specific_weight
+        - viscosity_dynamic
+        - viscosity_kinematic
+        - newtonian_fluids
+        - non_newtonian_fluids
+        - surface_tension
+        - capillarity
+        - vapor_pressure
+        - cavitation_phenomenon
+        - bulk_modulus
+        - coefficient_thermal_expansion
+      fluid_statics:
+        - pressure_definition
+        - pascal_law
+        - hydrostatic_pressure
+        - manometry
+        - barometers
+        - pressure_measurement
+        - forces_on_submerged_surfaces
+        - buoyancy_archimedes
+        - stability_floating_bodies
+        - metacentric_height
+      fluid_kinematics:
+        - lagrangian_description
+        - eulerian_description
+        - streamlines
+        - streaklines
+        - pathlines
+        - velocity_field
+        - acceleration_field
+        - rotation_vorticity
+        - circulation
+        - stream_function
+        - potential_function
+      conservation_equations:
+        - continuity_equation_differential
+        - continuity_equation_integral
+        - momentum_equation_differential
+        - momentum_equation_integral
+        - energy_equation_differential
+        - energy_equation_integral
+        - navier_stokes_equations
+        - euler_equations
+        - bernoulli_equation_derivation
+        - bernoulli_applications
+        - energy_line
+        - hydraulic_grade_line
+      dimensional_analysis:
+        - dimensional_homogeneity
+        - buckingham_pi_theorem
+        - reynolds_number_similarity
+        - froude_number
+        - weber_number
+        - mach_number
+        - euler_number
+        - cavitation_number
+        - model_testing
+        - dynamic_similarity
+        - geometric_similarity
+        - kinematic_similarity
+      pipe_flow:
+        laminar_flow:
+          - hagen_poiseuille_equation
+          - velocity_profile_laminar
+          - pressure_drop_laminar
+          - friction_factor_laminar
+          - entrance_effects
+        turbulent_flow:
+          - reynolds_transition
+          - turbulence_intensity
+          - velocity_profile_turbulent
+          - logarithmic_velocity_profile
+          - power_law_velocity_profile
+          - friction_factor_correlations
+          - colebrook_equation
+          - moody_diagram_usage
+          - swamee_jain_equation
+          - rough_pipe_flow
+          - smooth_pipe_flow
+        minor_losses:
+          - entrance_losses
+          - exit_losses
+          - expansion_losses
+          - contraction_losses
+          - bend_losses
+          - elbow_losses
+          - tee_losses
+          - valve_losses
+          - k_factor_method
+          - equivalent_length_method
+        pipe_networks:
+          - series_pipe_systems
+          - parallel_pipe_systems
+          - branching_pipes
+          - pipe_network_analysis
+          - hardy_cross_method
+          - nodal_analysis
+          - loop_analysis
+      external_flow:
+        - drag_coefficient
+        - lift_coefficient
+        - drag_force_calculation
+        - friction_drag
+          - pressure_drag
+          - form_drag
+          - flow_separation
+          - wake_formation
+          - boundary_layer_separation
+          - adverse_pressure_gradient
+          - streamlining_effects
+        boundary_layer_theory:
+          - boundary_layer_thickness
+          - displacement_thickness
+          - momentum_thickness
+          - energy_thickness
+          - shape_factor
+          - blasius_solution
+          - von_karman_integral
+          - transition_to_turbulence
+          - turbulent_boundary_layer
+          - flat_plate_boundary_layer
+      compressible_flow:
+        - mach_number_regimes
+        - speed_of_sound
+        - stagnation_properties
+        - isentropic_flow
+        - area_mach_number_relation
+        - converging_nozzles
+          - converging_diverging_nozzles
+          - choked_flow
+          - normal_shocks
+          - oblique_shocks
+          - expansion_waves
+          - fanno_flow
+          - rayleigh_flow
+      pumps_fans:
+        pump_types:
+          - centrifugal_pumps
+          - positive_displacement_pumps
+          - axial_flow_pumps
+          - mixed_flow_pumps
+          - regenerative_pumps
+          - jet_pumps
+        pump_performance:
+          - pump_characteristic_curves
+          - head_capacity_curves
+          - efficiency_curves
+          - power_curves
+          - affinity_laws
+          - specific_speed
+          - suction_specific_speed
+          - npsh_required
+          - npsh_available
+          - cavitation_effects
+          - pump_selection_criteria
+          - series_operation
+          - parallel_operation
+        fan_types:
+          - centrifugal_fans
+          - axial_fans
+          - mixed_flow_fans
+          - forward_curved_fans
+          - backward_curved_fans
+          - radial_blade_fans
+          - vaneaxial_fans
+          - tubeaxial_fans
+          - propeller_fans
+        fan_performance:
+          - fan_curves
+          - static_pressure_curves
+          - fan_laws
+          - system_effect_factors
+          - fan_efficiency
+          - fan_power_calculation
+          - sound_power_levels
+          
+    psychrometrics:
+      properties:
+        - dry_bulb_temperature_definition
+        - wet_bulb_temperature_definition
+        - thermodynamic_wet_bulb
+        - dew_point_temperature_definition
+        - relative_humidity_definition
+        - absolute_humidity
+        - humidity_ratio_calculation
+        - degree_of_saturation
+        - specific_enthalpy_moist_air
+        - specific_volume_moist_air
+        - partial_pressure_water_vapor
+        - saturation_pressure
+        - vapor_pressure
+      psychrometric_chart:
+        - chart_construction
+        - constant_temperature_lines
+        - constant_enthalpy_lines
+        - constant_relative_humidity_lines
+        - constant_wet_bulb_lines
+        - constant_specific_volume_lines
+        - sensible_heat_ratio_line
+        - comfort_zone_plotting
+        - sea_level_chart
+        - altitude_corrections
+        - barometric_pressure_effects
+      psychrometric_processes:
+        sensible_heating:
+          - heating_coil_processes
+          - constant_humidity_ratio
+          - temperature_rise_calculation
+          - heating_load_determination
+        sensible_cooling:
+          - cooling_without_dehumidification
+          - apparatus_dew_point
+          - coil_bypass_factor
+          - contact_factor
+        cooling_dehumidification:
+          - cooling_coil_performance
+          - latent_cooling
+          - sensible_heat_factor
+          - grand_sensible_heat_factor
+          - effective_surface_temperature
+          - mean_surface_temperature
+        humidification:
+          - steam_injection
+          - water_spray_humidification
+          - evaporative_humidification
+          - adiabatic_saturation
+          - isothermal_humidification
+        dehumidification:
+          - chemical_dehumidification
+          - desiccant_dehumidification
+          - refrigerant_dehumidification
+        mixing:
+          - adiabatic_mixing_two_streams
+          - mass_balance
+          - energy_balance
+          - mixed_air_properties
+        evaporative_cooling:
+          - direct_evaporative_cooling
+          - indirect_evaporative_cooling
+          - two_stage_evaporative
+          - wet_bulb_effectiveness
+          - saturation_effectiveness
+      moisture_content:
+        - condensation_prediction
+        - moisture_migration
+        - vapor_barriers
+        - permeability_calculations
+        - moisture_accumulation
+        - interstitial_condensation
+      psychrometric_calculations:
+        - perfect_gas_mixture_theory
+        - dalton_law_partial_pressures
+        - gibbs_dalton_law
+        - amagat_law
+        - carrier_equation
+        - hyland_wexler_equations
+        - ferrel_equation
+
+  refrigeration_systems:
+    vapor_compression_cycles:
+      basic_cycle:
+        - ideal_vapor_compression
+        - actual_vapor_compression
+        - ts_diagram_analysis
+        - ph_diagram_analysis
+        - lh_diagram_analysis
+        - coefficient_of_performance
+        - refrigeration_effect
+        - compressor_work
+        - condenser_heat_rejection
+        - expansion_process_analysis
+        - subcooling_effects
+        - superheating_effects
+        - cycle_efficiency
+      cycle_modifications:
+        - intercooling_compression
+        - multistage_compression
+        - flash_gas_removal
+        - economizer_cycles
+        - subcooler_cycles
+        - cascade_refrigeration_systems
+        - compound_compression
+        - two_stage_compression
+        - three_stage_compression
+        - flash_tank_intercooling
+        - suction_line_heat_exchanger
+      advanced_cycles:
+        - transcritical_co2_cycles
+        - supercritical_cycles
+        - ejector_expansion_cycles
+        - lorenz_cycle_approximation
+        - zeotropic_mixture_cycles
+        - azeotropic_mixture_cycles
+        - auto_cascade_systems
+        - mixed_refrigerant_systems
+        
+    absorption_refrigeration:
+      single_effect:
+        - lithium_bromide_water
+        - ammonia_water
+        - absorption_process
+        - desorption_process
+        - solution_heat_exchanger
+        - weak_solution
+        - strong_solution
+        - crystallization_prevention
+        - cop_absorption_single
+      double_effect:
+        - series_flow_cycle
+        - parallel_flow_cycle
+        - reverse_parallel_flow
+        - high_pressure_generator
+        - low_pressure_generator
+        - cop_double_effect
+      triple_effect:
+        - triple_effect_configuration
+        - cop_triple_effect
+        - high_temperature_requirements
+      components:
+        - generator_design
+        - absorber_design
+        - condenser_design
+        - evaporator_design
+        - solution_pump
+        - refrigerant_pump
+        - heat_recovery_options
+      working_pairs:
+        - libr_h2o_properties
+        - nh3_h2o_properties
+        - libr_concentration_effects
+        - corrosion_inhibitors
+        - additives_performance_enhancers
+        
+    adsorption_refrigeration:
+      - silica_gel_water
+      - zeolite_water
+      - activated_carbon_methanol
+      - activated_carbon_ammonia
+      - metal_organic_frameworks
+      - adsorption_isotherms
+      - desorption_isotherms
+      - heat_mass_transfer_adsorbent
+      - cycle_analysis
+      - intermittent_cycles
+      - continuous_cycles
+      - multi_bed_systems
+      - heat_recovery_adsorption
+      
+    thermoelectric_cooling:
+      - seebeck_effect
+      - peltier_effect
+      - thomson_effect
+      - figure_of_merit
+      - thermoelectric_materials
+      - bismuth_telluride
+      - lead_telluride
+      - cascade_thermoelectric
+      - thermoelectric_module_design
+      - heat_sink_requirements
+      - cop_thermoelectric
+      - temperature_difference_limits
+      
+    magnetic_refrigeration:
+      - magnetocaloric_effect
+      - gadolinium_materials
+      - rare_earth_materials
+      - active_magnetic_regeneration
+      - rotating_magnetic_systems
+      - reciprocating_magnetic_systems
+      - heat_transfer_fluids_magnetic
+      
+    gas_refrigeration:
+      - air_cycle_refrigeration
+      - reverse_brayton_cycle
+      - bootstrap_cooling
+      - aircraft_cooling_systems
+      - vortex_tube_refrigeration
+      - ranque_hilsch_effect
+      
+    components_detailed:
+      compressors:
+        reciprocating:
+          - single_acting
+          - double_acting
+          - piston_cylinder_arrangement
+          - valves_reed_type
+          - valves_ring_type
+          - clearance_volume
+          - volumetric_efficiency_factors
+          - capacity_control_cylinder_unloading
+          - capacity_control_variable_speed
+          - capacity_control_suction_throttling
+          - lubrication_systems
+          - crankcase_heaters
+          - capacity_modulation
+          - digital_scroll_modulation
+        scroll:
+          - fixed_scroll
+          - orbiting_scroll
+          - scroll_geometry
+          - compression_pockets
+          - discharge_port
+          - compliance_mechanism
+          - axial_compliance
+          - radial_compliance
+          - inverter_driven_scroll
+          - variable_speed_scroll
+        screw:
+          - twin_screw
+          - single_screw
+          - rotor_profiles
+          - male_rotor
+          - female_rotor
+          - capacity_control_slide_valve
+          - capacity_control_vi_control
+          - oil_injection_cooling
+          - oil_separation
+          - economizer_port
+          - part_load_efficiency
+        rotary:
+          - rolling_piston
+          - rotary_vane
+          - eccentric_rotor
+          - discharge_valve
+          - oil_lubrication
+        centrifugal:
+          - impeller_design
+          - diffuser_design
+          - volute_design
+          - inlet_guide_vanes
+          - variable_geometry_diffuser
+          - surge_phenomenon
+          - choke_phenomenon
+          - performance_map
+          - magnetic_bearings
+          - oil_free_operation
+          - stage_configuration
+          - multistage_centrifugal
+        performance_parameters:
+          - isentropic_efficiency
+          - volumetric_efficiency
+          - mechanical_efficiency
+          - compression_ratio_limits
+          - pressure_ratio
+          - displacement_volume
+          - swept_volume
+          - clearance_ratio
+          - re_expansion_loss
+          - valve_losses
+          - friction_losses
+          - motor_efficiency
+          - power_factor
+          - electrical_efficiency
+          
+      condensers:
+        air_cooled:
+          - fin_tube_construction
+          - microchannel_construction
+          - fin_types_plate
+          - fin_types_spine
+          - fin_types_louvered
+          - tube_circuits
+          - refrigerant_distribution
+          - face_split_design
+          - fan_arrangements
+          - axial_fan_design
+          - centrifugal_fan_design
+          - variable_speed_fans
+          - head_pressure_control
+          - ambient_temperature_effects
+          - altitude_effects
+          - fouling_air_side
+          - coil_cleaning_methods
+        water_cooled:
+          - shell_and_tube_construction
+          - tube_side_refrigerant
+          - shell_side_water
+          - tube_patterns
+          - baffle_design
+          - tube_material_copper
+          - tube_material_cupronickel
+          - tube_material_titanium
+          - tube_material_stainless_steel
+          - enhanced_tubes
+          - microfin_tubes
+          - tube_fouling
+          - water_treatment_requirements
+          - approach_temperature_design
+          - log_mean_temperature_difference
+          - effectiveness_ntu_method
+        evaporative:
+          - spray_water_system
+          - fill_media
+          - air_flow_patterns
+          - water_circulation_rate
+          - drift_eliminators
+          - wet_bulb_approach
+          - plume_formation
+          - freeze_protection
+          - water_treatment
+          - blowdown_requirements
+          - makeup_water
+        heat_rejection:
+          - condensing_temperature_optimization
+          - subcooling_degree
+          - desuperheating_region
+          - condensing_region
+          - subcooling_region
+          - refrigerant_pressure_drop
+          - heat_transfer_coefficients
+          
+      evaporators:
+        direct_expansion:
+          - fin_tube_coils
+          - microchannel_coils
+          - refrigerant_distribution
+          - distributor_types
+          - orifice_distributors
+          - venturi_distributors
+          - nozzle_distributors
+          - circuit_design
+          - interlaced_circuits
+          - face_split_circuits
+          - superheat_control
+          - thermostatic_expansion_valve
+          - electronic_expansion_valve
+          - hunting_phenomenon
+        flooded:
+          - shell_and_tube_flooded
+          - refrigerant_level_control
+          - liquid_recirculation
+          - overfeed_ratio
+          - pump_recirculation
+          - gravity_recirculation
+          - thermosyphon_systems
+          - surge_drum
+          - liquid_refrigerant_pumps
+        plate:
+          - brazed_plate_evaporators
+          - gasketed_plate_evaporators
+          - plate_patterns
+          - chevron_angle
+          - counterflow_arrangement
+          - refrigerant_side_pressure_drop
+          - water_side_pressure_drop
+        coaxial:
+          - tube_in_tube_construction
+          - counterflow_design
+          - enhanced_surfaces
+        falling_film:
+          - vertical_tube_falling_film
+          - horizontal_tube_falling_film
+          - distribution_system
+          - wetting_rate
+          - film_thickness
+        performance:
+          - evaporating_temperature
+          - superheat_degree
+          - approach_temperature
+          - heat_transfer_oil_fouling
+          - air_side_fouling
+          - frost_formation_effects
+          - defrost_cycles
+          - hot_gas_defrost
+          - electric_defrost
+          - water_defrost
+          - reverse_cycle_defrost
+          - off_cycle_defrost
+          
+      expansion_devices:
+        thermostatic_expansion_valves:
+          - internally_equalized
+          - externally_equalized
+          - sensing_bulb
+          - thermal_charge_types
+          - liquid_charge
+          - gas_charge
+          - cross_charge
+          - adsorption_charge
+          - mop_maximum_operating_pressure
+          - distributor_nozzles
+          - superheat_setting
+          - valve_capacity_selection
+          - hunting_prevention
+        electronic_expansion_valves:
+          - stepper_motor_valves
+          - pulse_width_modulation
+          - superheat_control_algorithm
+          - pid_control_parameters
+          - fuzzy_logic_control
+          - adaptive_control
+          - sensor_inputs
+          - multiple_evaporator_control
+        capillary_tube:
+          - length_diameter_selection
+          - pressure_drop_calculation
+          - critical_flow
+          - subcritical_flow
+          - refrigerant_charge_effects
+          - slope_installation
+          - suction_line_heat_exchange
+        float_valves:
+          - high_side_float
+          - low_side_float
+          - ball_float
+          - float_chamber
+        short_tube_orifice:
+          - orifice_diameter
+          - length_diameter_ratio
+          - upstream_pressure_effects
+          - downstream_pressure_effects
+          
+    refrigerants:
+      classifications:
+        cfc_chlorofluorocarbons:
+          - r11_properties
+          - r12_properties
+          - r113_properties
+          - r114_properties
+          - r115_properties
+          - phase_out_schedule
+          - legacy_systems
+        hcfc_hydrochlorofluorocarbons:
+          - r22_properties
+          - r123_properties
+          - r124_properties
+          - r141b_properties
+          - r142b_properties
+          - phase_down_schedule
+          - retrofit_considerations
+        hfc_hydrofluorocarbons:
+          - r134a_properties
+          - r404a_properties
+          - r407c_properties
+          - r410a_properties
+          - r507a_properties
+          - r32_properties
+          - r125_properties
+          - r143a_properties
+          - r152a_properties
+        hfo_hydrofluoroolefins:
+          - r1234yf_properties
+          - r1234ze_properties
+          - r1233zd_properties
+          - r513a_properties
+          - low_gwp_characteristics
+          - flammability_concerns
+          - safety_classification_a2l
+        natural_refrigerants:
+          hydrocarbons:
+            - r290_propane
+            - r600a_isobutane
+            - r1270_propylene
+            - r170_ethane
+            - flammability_class_a3
+            - charge_limits
+            - safety_standards
+            - leak_detection
+          inorganics:
+            - r717_ammonia_properties
+            - r717_toxicity
+            - r717_applications
+            - r717_safety_requirements
+            - r744_co2_properties
+            - r744_transcritical_operation
+            - r744_cascade_systems
+            - r744_secondary_refrigerant
+            - r718_water_properties
+            - r718_vacuum_operation
+            - r729_air_properties
+        blends:
+          zeotropic_mixtures:
+            - temperature_glide
+            - composition_shift
+            - fractionation_effects
+            - leak_handling
+            - charging_procedures
+            - bubble_point
+            - dew_point
+          azeotropic_mixtures:
+            - constant_boiling_point
+            - composition_stability
+            - r500_properties
+            - r502_properties
+            - r503_properties
+            
+      thermophysical_properties:
+        - critical_temperature
+        - critical_pressure
+        - critical_density
+        - critical_volume
+        - triple_point_temperature
+        - triple_point_pressure
+        - normal_boiling_point
+        - freezing_point
+        - molecular_weight
+        - vapor_pressure_curves
+        - liquid_density
+        - vapor_density
+        - specific_heat_liquid
+        - specific_heat_vapor
+        - thermal_conductivity_liquid
+        - thermal_conductivity_vapor
+        - viscosity_liquid
+        - viscosity_vapor
+        - surface_tension
+        - latent_heat_vaporization
+        - sound_velocity
+        - dielectric_constant
+        
+      environmental_impact:
+        - ozone_depletion_potential_odp
+        - global_warming_potential_gwp_100yr
+        - atmospheric_lifetime_years
+        - total_equivalent_warming_impact
+        - life_cycle_climate_performance
+        - direct_emissions
+        - indirect_emissions
+        - carbon_footprint
+        
+      safety_classifications:
+        - ashrae_34_safety_groups
+        - toxicity_class_a_b
+        - flammability_class_1_2_2l_3
+        - iso_817_classification
+        - occupational_exposure_limits
+        - refrigerant_concentration_limits
+        - oxygen_deprivation_risk
+        - decomposition_products
+        - detector_requirements
+        - ventilation_requirements
+        - refrigerant_room_classification
+        
+      lubricant_compatibility:
+        mineral_oils:
+          - naphthenic_base
+          - paraffinic_base
+          - solubility_characteristics
+          - viscosity_grades
+          - pour_point
+          - floc_point
+        synthetic_oils:
+          - alkylbenzene_ab
+          - polyolester_poe
+          - polyalkylene_glycol_pag
+          - polyvinyl_ether_pve
+          - polyalphaolefin_pao
+        miscibility:
+          - refrigerant_oil_miscibility
+          - immiscible_systems
+          - oil_return_mechanisms
+          - oil_separator_requirements
+          - solubility_curves
+          - oil_logging
+          
+      regulations_standards:
+        - montreal_protocol_provisions
+        - kigali_amendment_targets
+        - eu_f_gas_regulation
+        - us_epa_snap_program
+        - us_epa_section_608
+        - us_epa_section_609
+        - california_carb_regulations
+        - japan_fgas_law
+        - china_regulations
+        - india_regulations
+        - recovery_requirements
+        - reclamation_standards
+        - purity_standards_ahri_700
+        - labeling_requirements
+        - record_keeping
+        - technician_certification
+        
+      handling_procedures:
+        - cylinder_storage
+        - transportation_requirements
+        - charging_methods
+        - liquid_charging
+        - vapor_charging
+        - weighing_procedures
+        - leak_testing_methods
+        - bubble_test
+        - electronic_leak_detection
+        - ultrasonic_leak_detection
+        - halide_torch
+        - fluorescent_dye
+        - nitrogen_pressure_testing
+        - evacuation_procedures
+        - triple_evacuation
+        - deep_vacuum
+        - vacuum_pump_operation
+        - recovery_equipment
+        - push_pull_recovery
+        - liquid_recovery
+        - vapor_recovery
+        
+    applications:
+      commercial_refrigeration:
+        - supermarket_systems
+        - convenience_store_refrigeration
+        - display_cases
+        - walk_in_coolers
+        - walk_in_freezers
+        - reach_in_refrigerators
+        - bottle_coolers
+        - ice_machines
+        - beverage_dispensers
+        - distributed_systems
+        - centralized_systems
+        - co2_cascade_commercial
+        - secondary_loop_systems
+        - glycol_secondary_systems
+        
+      industrial_refrigeration:
+        - cold_storage_warehouses
+        - food_processing_plants
+        - meat_processing
+        - dairy_processing
+        - beverage_production
+        - pharmaceutical_manufacturing
+        - chemical_processing
+        - ammonia_systems
+        - two_stage_ammonia
+        - liquid_overfeed_systems
+        - direct_expansion_industrial
+        - ice_rinks
+        - concrete_cooling
+        
+      transport_refrigeration:
+        - truck_refrigeration
+        - trailer_refrigeration
+        - intermodal_containers
+        - railcar_refrigeration
+        - ship_refrigeration
+        - aircraft_refrigeration
+        - eutectic_plates
+        - cryogenic_cooling
+        
+      special_applications:
+        - ice_making_equipment
+        - flake_ice
+        - cube_ice
+        - tube_ice
+        - plate_ice
+        - block_ice
+        - blast_freezing_systems
+        - spiral_freezers
+        - tunnel_freezers
+        - cryogenic_freezing
+        - liquid_nitrogen_freezing
+        - ultra_low_temperature_freezers
+        - medical_freezers
+        - laboratory_refrigeration
+        - vaccine_storage
+
+  heating_systems:
+    combustion_heating:
+      combustion_fundamentals:
+        - stoichiometric_combustion
+        - excess_air_requirements
+        - theoretical_air
+        - actual_air
+        - combustion_equations
+        - higher_heating_value
+        - lower_heating_value
+        - gross_heating_value
+        - net_heating_value
+        - adiabatic_flame_temperature
+        - combustion_products
+        - flue_gas_composition
+        - co2_percentage
+        - o2_percentage
+        - co_formation
+        - nox_formation
+        - thermal_nox
+        - prompt_nox
+        - fuel_nox
+        - particulate_emissions
+        - soot_formation
+        - incomplete_combustion
+        
+      fuels:
+        natural_gas:
+          - composition_methane_content
+          - wobbe_index
+          - heating_value_variations
+          - specific_gravity
+          - gas_pressure_requirements
+          - interchangeability
+        propane_lpg:
+          - vapor_pressure
+          - storage_requirements
+          - vaporization_rate
+          - propane_air_mixtures
+        fuel_oil:
+          - no1_fuel_oil
+          - no2_fuel_oil
+          - no4_fuel_oil
+          - no5_fuel_oil
+          - no6_fuel_oil
+          - viscosity_requirements
+          - atomization
+          - preheating_requirements
+          - sulfur_content
+          - ash_content
+        coal:
+          - anthracite
+          - bituminous
+          - sub_bituminous
+          - lignite
+          - coal_analysis
+          - proximate_analysis
+          - ultimate_analysis
+          - ash_fusion_temperature
+        biomass:
+          - wood_pellets
+          - wood_chips
+          - agricultural_residues
+          - moisture_content_effects
+          - bulk_density
+          
+      burners:
+        gas_burners:
+          - atmospheric_burners
+          - power_burners
+          - premix_burners
+          - nozzle_mix_burners
+          - induced_draft_burners
+          - forced_draft_burners
+          - modulating_gas_burners
+          - on_off_burners
+          - low_nox_burners
+          - ultra_low_nox
+          - flameless_combustion
+        oil_burners:
+          - gun_type_burners
+          - rotary_burners
+          - air_atomizing
+          - steam_atomizing
+          - pressure_atomizing
+          - mechanical_atomization
+          - low_pressure_air_atomization
+          - twin_fluid_atomization
+        dual_fuel_burners:
+          - gas_oil_combination
+          - automatic_fuel_changeover
+          - simultaneous_firing
+        coal_burners:
+          - stoker_fired
+          - pulverized_coal
+          - fluidized_bed_combustion
+          - cyclone_burners
+          
+      ignition_systems:
+        - direct_spark_ignition
+        - hot_surface_ignition
+        - intermittent_pilot
+        - standing_pilot
+        - flame_rod_sensing
+        - flame_rectification
+        - uv_flame_detection
+        - infrared_flame_detection
+        - ignition_timing
+        - safety_lockout
+        
+    furnaces:
+      residential_furnaces:
+        - upflow_configuration
+        - downflow_configuration
+        - horizontal_configuration
+        - counterflow_design
+        - natural_draft
+        - induced_draft
+        - forced_draft
+        - condensing_technology
+        - secondary_heat_exchanger
+        - primary_heat_exchanger
+        - afue_calculation
+        - thermal_efficiency
+        - combustion_efficiency
+        - steady_state_efficiency
+        - cycling_losses
+        - jacket_losses
+        - infiltration_losses
+        
+      commercial_furnaces:
+        - unit_heaters
+        - cabinet_heaters
+        - duct_furnaces
+        - make_up_air_furnaces
+        - indirect_fired_heaters
+        - direct_fired_heaters
+        - radiant_tube_heaters
+        - high_intensity_infrared
+        - low_intensity_infrared
+        
+      heat_exchangers_furnace:
+        - tubular_heat_exchangers
+        - clamshell_heat_exchangers
+        - drum_heat_exchangers
+        - serpentine_coil
+        - cellular_design
+        - aluminized_steel
+        - stainless_steel_exchangers
+        - corrosion_resistance
+        - condensate_drainage
+        
+      controls:
+        - thermostat_control
+        - anticipator_settings
+        - fan_limit_controls
+        - flame_rollout_switches
+        - high_limit_switches
+        - auxiliary_limit_switches
+        - pressure_switches
+        - blocked_vent_switches
+        
+    boilers:
+      boiler_types:
+        fire_tube:
+          - scotch_marine_boilers
+          - locomotive_boilers
+          - vertical_fire_tube
+          - horizontal_return_tubular
+          - firebox_boilers
+          - packaged_fire_tube
+        water_tube:
+          - straight_tube_boilers
+          - bent_tube_boilers
+          - d_type_boilers
+          - o_type_boilers
+          - a_type_boilers
+          - watertube_circulation
+          - natural_circulation
+          - forced_circulation
+          - once_through_boilers
+        cast_iron:
+          - sectional_cast_iron
+          - wet_base_design
+          - dry_base_design
+          - push_nipple_assembly
+        steel_boilers:
+          - welded_steel_construction
+          - steel_water_tube
+          - steel_fire_tube
+        condensing_boilers:
+          - full_condensing_mode
+          - partial_condensing_mode
+          - condensate_neutralization
+          - corrosion_resistant_materials
+          - stainless_steel_heat_exchanger
+          - aluminum_silicon_alloy
+        electric_boilers:
+          - resistance_element
+          - electrode_boilers
+          - electric_steam_generators
+          
+      boiler_ratings:
+        - gross_output_rating
+        - net_rating_ibl
+        - doe_heating_capacity
+        - burner_input_rating
+        - thermal_efficiency_rating
+        - combustion_efficiency_rating
+        - afue_annual_fuel_utilization
+        - maximum_continuous_rating
+        - peak_rating
+        - turndown_ratio
+        
+      steam_boilers:
+        - low_pressure_steam_15psi
+        - high_pressure_steam
+        - steam_quality
+        - steam_purity
+        - carryover_prevention
+        - steam_separator
+        - steam_drum
+        - superheater_design
+        - economizer_design
+        - deaerator_systems
+        - feedwater_heating
+        - blowdown_systems
+        - continuous_blowdown
+        - bottom_blowdown
+        - surface_blowdown
+        
+      hot_water_boilers:
+        - low_temperature_water
+        - medium_temperature_water
+        - high_temperature_water
+        - design_pressure_ratings
+        - design_temperature_ratings
+        - expansion_tank_sizing
+        - compression_tank
+        - diaphragm_tank
+        - bladder_tank
+        - air_elimination_devices
+        - tangential_air_separator
+        - microbubble_separator
+        - backflow_preventer
+        - mixing_valves
+        - reset_controls
+        
+      water_treatment:
+        - feedwater_quality
+        - dissolved_oxygen_removal
+        - chemical_deaeration
+        - mechanical_deaeration
+        - oxygen_scavengers
+        - sulfite_treatment
+        - hydrazine_treatment
+        - filming_amines
+        - neutralizing_amines
+        - phosphate_treatment
+        - chelant_treatment
+        - polymer_treatment
+        - scale_prevention
+        - corrosion_prevention
+        - blowdown_control
+        - conductivity_monitoring
+        - ph_control
+        - hardness_testing
+        - alkalinity_testing
+        - chloride_testing
+        - silica_testing
+        
+      combustion_analysis:
+        - flue_gas_analysis
+        - oxygen_trim_control
+        - co2_optimization
+        - carbon_monoxide_monitoring
+        - stack_temperature
+        - draft_measurement
+        - combustion_air_temperature
+        - excess_air_calculation
+        - air_fuel_ratio
+        - stack_loss_calculation
+        - radiation_loss_calculation
+        - convection_loss
+        - unburned_fuel_loss
+        - sensible_heat_loss
+        
+    heat_pumps:
+      air_source_heat_pumps:
+        components:
+          - reversing_valve
+          - four_way_valve
+          - check_valves
+          - bidirectional_filter_driers
+          - accumulator
+          - crankcase_heater
+        defrost_systems:
+          - time_temperature_defrost
+          - demand_defrost
+          - hot_gas_defrost_cycle
+          - reverse_cycle_defrost
+          - electric_defrost_supplemental
+          - defrost_termination_controls
+          - defrost_initiation_methods
+        cold_climate_performance:
+          - enhanced_vapor_injection
+          - flash_tank_economizer
+          - two_stage_compression
+          - variable_speed_compressor
+          - dual_fuel_integration
+          - balance_point_calculation
+          - supplementary_heat_staging
+          - low_ambient_operation
+          - capacity_at_47f
+          - capacity_at_17f
+          - capacity_at_5f
+        auxiliary_heating:
+          - electric_resistance_backup
+          - staging_sequence
+          - emergency_heat_mode
+          - lockout_controls
+          
+      ground_source_heat_pumps:
+        ground_loop_types:
+          vertical_closed_loop:
+            - single_u_tube
+            - double_u_tube
+            - concentric_tube
+            - borehole_diameter
+            - borehole_depth
+            - borehole_spacing
+            - thermally_enhanced_grout
+            - standard_grout
+            - grout_thermal_conductivity
+            - drilling_methods
+            - rotary_drilling
+            - cable_tool_drilling
+            - down_hole_hammer
+          horizontal_closed_loop:
+            - single_pipe_trenches
+            - multiple_pipe_trenches
+            - slinky_coil_configuration
+            - spiral_coil_configuration
+            - trench_depth
+            - trench_spacing
+            - pipe_spacing
+            - backfill_material
+          pond_lake_loops:
+            - coil_submersion_depth
+            - coil_configuration
+            - antifreeze_requirements
+            - ice_formation_prevention
+          open_loop:
+            - well_water_systems
+            - supply_well
+            - injection_well
+            - standing_column_well
+            - bleed_rate
+            - well_yield_requirements
+            - water_quality_issues
+            - fouling_potential
+            - corrosion_potential
+            - heat_exchanger_isolation
+        heat_transfer_fluids:
+          - water_only_systems
+          - propylene_glycol_solutions
+          - ethylene_glycol_solutions
+          - methanol_solutions
+          - ethanol_solutions
+          - calcium_chloride_brine
+          - freeze_point_depression
+          - viscosity_effects
+          - specific_heat_effects
+          - pumping_power_requirements
+          - corrosion_inhibitors
+        design_considerations:
+          - ground_thermal_conductivity
+          - thermal_conductivity_testing
+          - soil_type_effects
+          - moisture_content_effects
+          - rock_thermal_properties
+          - undisturbed_ground_temperature
+          - ground_thermal_diffusivity
+          - entering_water_temperature
+          - leaving_water_temperature
+          - loop_temperature_differential
+          - ground_loop_sizing
+          - heating_dominated_loads
+          - cooling_dominated_loads
+          - balanced_loads
+          - hybrid_ground_loop_systems
+          - supplemental_heat_rejection
+          - cooling_tower_assist
+          
+      water_source_heat_pumps:
+        - closed_loop_water_systems
+        - open_loop_water_systems
+        - cooling_tower_water_source
+        - lake_water_source
+        - river_water_source
+        - seawater_heat_pumps
+        - wastewater_heat_recovery
+        - condenser_water_loop
+        - loop_temperature_maintenance
+        - boiler_heat_addition
+        - fluid_cooler_heat_rejection
+        
+      ductless_mini_split:
+        - single_zone_systems
+        - multi_zone_systems
+        - inverter_technology
+        - variable_refrigerant_temperature
+        - individual_zone_control
+        - wireless_controls
+        - branch_box_configuration
+        - indoor_unit_types
+        - wall_mounted_units
+        - ceiling_cassette_units
+        - floor_mounted_units
+        - concealed_duct_units
+        - refrigerant_piping_runs
+        - elevation_differences
+        - oil_return_requirements
+        
+      performance_metrics:
+        - heating_seasonal_performance_factor
+        - hspf_calculation_regions
+        - region_iv_hspf
+        - region_v_hspf
+        - coefficient_of_performance_heating
+        - cop_at_47f
+        - cop_at_17f
+        - energy_efficiency_ratio_cooling
+        - seasonal_energy_efficiency_ratio
+        - integrated_part_load_value
+        
+    radiant_heating:
+      hydronic_radiant:
+        floor_heating:
+          - embedded_tube_systems
+          - tube_spacing_design
+          - serpentine_layout
+          - counterflow_serpentine
+          - spiral_layout
+          - tube_materials_pex
+          - tube_materials_pert
+          - tube_materials_pb
+          - tube_materials_copper
+          - tube_diameter_selection
+          - tube_depth_placement
+          - slab_on_grade_installation
+          - thin_slab_installation
+          - above_floor_installation
+          - suspended_floor_installation
+          - staple_up_installation
+          - heat_transfer_plates
+          - insulation_requirements
+          - edge_insulation
+          - under_slab_insulation
+          - floor_covering_effects
+          - tile_flooring
+          - wood_flooring
+          - carpet_flooring
+          - surface_temperature_limits
+          - heat_flux_rates
+          - response_time_analysis
+          - thermal_mass_benefits
+        wall_heating:
+          - embedded_wall_tubes
+          - plaster_wall_systems
+          - drywall_systems
+          - surface_temperature_control
+        ceiling_heating:
+          - radiant_ceiling_panels
+          - embedded_ceiling_systems
+          - modular_panels
+          - metal_ceiling_panels
+          - plaster_ceiling_systems
+          
+      electric_radiant:
+        - resistance_cable_systems
+        - heating_mats
+        - carbon_film_systems
+        - heating_cable_spacing
+        - power_density_watts_per_sqft
+        - voltage_options_120v_240v
+        - thermostat_control
+        - floor_sensor_placement
+        - gfci_protection
+        
+      design_methodology:
+        - heat_loss_calculations
+        - supply_water_temperature
+        - return_water_temperature
+        - design_temperature_drop
+        - flow_rate_requirements
+        - pump_head_calculations
+        - manifold_design
+        - loop_balancing
+        - flow_meters
+        - circuit_balancing_valves
+        - mixing_valve_control
+        - outdoor_reset_control
+        - zone_control_strategies
+        
+    district_heating:
+      - steam_distribution_networks
+      - high_temperature_hot_water
+      - medium_temperature_hot_water
+      - low_temperature_hot_water
+      - fourth_generation_district_heating
+      - supply_temperature_optimization
+      - return_temperature_optimization
+      - distribution_piping
+      - preinsulated_piping
+      - expansion_compensation
+      - pressure_control_stations
+      - heat_exchanger_substations
+      - indirect_connection
+      - direct_connection
+      - building_interface
+      - energy_metering
+      - heat_meters
+      - flow_measurement
+      - temperature_measurement
+      - combined_heat_power_chp
+      - waste_heat_recovery
+      - geothermal_district_heating
+      - solar_thermal_integration
+      - thermal_storage_integration
+
+  air_conditioning_cooling:
+    system_types:
+      unitary_systems:
+        split_systems:
+          - outdoor_condensing_unit
+          - indoor_air_handler
+          - indoor_coil_configurations
+          - a_coil
+          - n_coil
+          - slab_coil
+          - refrigerant_line_sets
+          - liquid_line
+          - suction_line
+          - precharged_linesets
+          - field_charged_systems
+          - line_set_length_limits
+          - elevation_change_limits
+          - oil_traps
+          - vertical_riser_design
+          - txv_sizing
+          - filter_drier_sizing
+          - sight_glass_installation
+        package_units:
+          - rooftop_packaged_units
+          - split_packaged_units
+          - gas_electric_packages
+          - heat_pump_packages
+          - economizer_integrated
+          - curb_adapters
+          - duct_connections
+          - gravity_ventilators
+          - power_ventilators
+        window_room_ac:
+          - single_package_design
+          - through_wall_installation
+          - sleeve_requirements
+          - eer_ratings
+          - ceer_combined_energy_efficiency
+        portable_ac:
+          - single_hose_design
+          - dual_hose_design
+          - evaporative_coolers
+          - spot_cooling_applications
+          
+      central_air_conditioning:
+        all_air_systems:
+          single_duct:
+            constant_volume:
+              - single_zone_cav
+              - multi_zone_cav
+              - reheat_systems
+              - terminal_reheat
+              - zone_reheat
+              - dual_duct_cav
+              - three_deck_multizone
+            variable_volume:
+              - pressure_dependent_vav
+              - pressure_independent_vav
+              - vav_with_reheat
+              - fan_powered_vav_boxes
+              - series_fan_powered
+              - parallel_fan_powered
+              - bypass_vav_boxes
+              - dual_duct_vav
+              - static_pressure_control
+              - supply_air_temperature_reset
+              - trim_respond_logic
+              - demand_controlled_ventilation
+          dual_duct_systems:
+            - hot_deck_design
+            - cold_deck_design
+            - mixing_boxes
+            - constant_volume_dual_duct
+            - variable_volume_dual_duct
+        all_water_systems:
+          - two_pipe_systems
+          - three_pipe_systems
+          - four_pipe_systems
+          - fan_coil_units
+          - unit_ventilators
+          - induction_units
+          - chilled_beams
+          - active_chilled_beams
+          - passive_chilled_beams
+          - radiant_cooling_panels
+        air_water_systems:
+          - primary_air_systems
+          - secondary_water_systems
+          - induction_terminal_units
+          - air_change_rate_requirements
+          
+      variable_refrigerant_flow:
+        system_configurations:
+          - heat_pump_vrf
+          - heat_recovery_vrf
+          - water_cooled_vrf
+          - outdoor_unit_types
+          - combination_units
+          - heat_recovery_units
+          - heat_pump_units
+        indoor_units:
+          - ducted_indoor_units
+          - wall_mounted_indoor
+          - ceiling_cassette_4_way
+          - ceiling_cassette_1_way
+          - ceiling_concealed
+          - floor_standing_units
+          - capacity_range
+          - connection_ratio
+        controls:
+          - individual_zone_control
+          - centralized_control
+          - building_automation_integration
+          - scheduling_capabilities
+          - energy_monitoring
+        piping:
+          - refrigerant_pipe_sizing
+          - branch_selector_boxes
+          - refnet_joints
+          - after_cooler
+          - oil_level_management
+          - maximum_piping_length
+          - maximum_elevation_difference
+          - equivalent_pipe_length
+        performance:
+          - seasonal_efficiency_eer
+          - part_load_performance
+          - simultaneous_heating_cooling
+          - heat_recovery_efficiency
+          
+    chillers:
+      vapor_compression_chillers:
+        centrifugal:
+          - single_stage_centrifugal
+          - two_stage_centrifugal
+          - magnetic_bearing_technology
+          - oil_free_compressors
+          - variable_speed_drive
+          - inlet_guide_vane_control
+          - variable_geometry_diffuser
+          - impeller_trim
+          - surge_control
+          - hot_gas_bypass_deprecated
+          - capacity_range_100_to_10000_tons
+          - refrigerants_r134a_r1233zd_r513a
+          - water_cooled_condenser
+          - performance_maps
+          - surge_line
+          - choke_line
+        screw:
+          - twin_screw_rotors
+          - slide_valve_capacity_control
+          - variable_volume_ratio
+          - economizer_operation
+          - part_load_efficiency
+          - oil_cooling_injection
+          - oil_separation_coalescers
+          - capacity_10_to_1000_tons
+          - refrigerants_r134a_r513a
+          - air_cooled_option
+          - water_cooled_option
+        scroll:
+          - multiple_scroll_compressors
+          - digital_scroll_technology
+          - tandem_compressor_configuration
+          - capacity_2_to_200_tons
+          - modular_design
+          - refrigerant_r410a
+        reciprocating:
+          - cylinder_unloading
+          - hot_gas_bypass_control
+          - capacity_5_to_150_tons
+          - refrigerant_options
+          
+      absorption_chillers:
+        single_effect_absorption:
+          - cop_approximately_07
+          - heat_source_steam_hot_water
+          - heat_source_temperature_230f_to_250f
+          - libr_solution_concentration
+          - crystallization_prevention_dilution_cycle
+          - purge_system_non_condensables
+          - capacity_100_to_1500_tons
+        double_effect_absorption:
+          - series_flow_configuration
+          - parallel_flow_configuration
+          - cop_approximately_12
+          - heat_source_temperature_350f_to_400f
+          - high_pressure_generator
+          - low_pressure_generator
+          - capacity_300_to_1500_tons
+        triple_effect_absorption:
+          - cop_approximately_17
+          - heat_source_gas_fired
+          - heat_source_temperature_500f_plus
+          - capacity_300_to_1000_tons
+        absorption_components:
+          - solution_pump_design
+          - solution_heat_exchanger
+          - refrigerant_pump_optional
+          - spray_nozzles_absorber
+          - spray_nozzles_generator
+          - corrosion_inhibitor_packages
+          
+      chiller_performance:
+        efficiency_metrics:
+          - kilowatts_per_ton
+          - coefficient_of_performance
+          - energy_efficiency_ratio
+          - integrated_part_load_value_iplv
+          - non_standard_part_load_value_nplv
+          - ahri_550_590_standard
+          - part_load_points_100_75_50_25
+        operating_parameters:
+          - chilled_water_supply_temperature
+          - chilled_water_return_temperature
+          - chilled_water_flow_rate
+          - chilled_water_delta_t
+          - condenser_water_supply_temperature
+          - condenser_water_return_temperature
+          - condenser_water_flow_rate
+          - approach_temperature
+          - lift_temperature_difference
+          - evaporator_approach
+          - condenser_approach
+        fouling_factors:
+          - tube_fouling_chilled_water
+          - tube_fouling_condenser_water
+          - fouling_resistance_calculation
+          - cleaning_requirements
+          - performance_degradation
+        controls:
+          - chilled_water_temperature_reset
+          - condenser_water_temperature_reset
+          - demand_limiting
+          - load_limiting
+          - ice_buildup_prevention
+          - freeze_protection
+          - low_ambient_lockout
+          - capacity_staging
+          - lead_lag_control
+          - load_balancing
+          - optimal_start_stop
+          - predictive_control
+          
+    cooling_towers:
+      tower_types:
+        mechanical_draft:
+          induced_draft:
+            - fan_location_top
+            - vertical_discharge
+            - counterflow_air_water
+            - crossflow_air_water
+            - fill_media_film_type
+            - fill_media_splash_type
+            - fan_cylinder
+            - drift_eliminators
+            - cold_water_basin
+            - blowdown_connection
+          forced_draft:
+            - fan_location_side_bottom
+            - horizontal_discharge
+            - air_recirculation_potential
+            - centrifugal_fan_design
+        natural_draft:
+          - hyperbolic_tower_shape
+          - tall_tower_construction
+          - density_difference_draft
+          - large_capacity_application
+          
+      tower_performance:
+        - approach_to_wet_bulb
+        - range_temperature_difference
+        - cooling_tower_effectiveness
+        - tower_characteristic_curve
+        - gpm_per_ton_ratio
+        - typically_3_gpm_per_ton
+        - l_over_g_ratio
+        - air_to_water_ratio
+        - heat_rejection_capacity
+        - fan_power_consumption
+        - pumping_power
+        - total_tower_power
+        
+      components:
+        - fill_media_pvc
+        - fill_media_wood
+        - fill_media_ceramic
+        - spray_nozzles
+        - distribution_system
+        - water_distribution_basin
+        - eliminator_design
+        - drift_loss_percentage
+        - louvers
+        - fan_selection
+        - axial_fans
+        - centrifugal_fans
+        - variable_speed_fan_drives
+        - gear_reducers
+        - fan_motors
+        - basin_heaters
+        - sump_design
+        - strainers
+        
+      water_treatment:
+        - cycles_of_concentration
+        - blowdown_calculation
+        - makeup_water_requirements
+        - evaporation_loss
+        - drift_loss
+        - windage_loss
+        - chemical_treatment_programs
+        - scale_inhibitors
+        - corrosion_inhibitors
+        - biocides
+        - dispersants
+        - ph_control
+        - conductivity_monitoring
+        - total_dissolved_solids
+        - hardness_control
+        - alkalinity_control
+        - calcium_carbonate_scaling
+        - silica_scaling
+        - biological_growth_control
+        - legionella_control_strategies
+        - water_testing_schedule
+        
+      free_cooling_operation:
+        - waterside_economizer
+        - direct_waterside_economizer
+        - indirect_waterside_economizer
+        - plate_frame_heat_exchanger
+        - strainer_protection
+        - free_cooling_hours
+        - transition_mode_operation
+        - chiller_assist_mode
+        
+    condensers:
+      water_cooled_condensers:
+        - shell_and_tube_design
+        - tube_bundle_removable
+        - tube_bundle_fixed
+        - u_tube_configuration
+        - straight_tube_configuration
+        - tube_material_selection
+        - enhanced_tube_surfaces
+        - waterside_fouling
+        - tube_cleaning_methods
+        - brush_cleaning
+        - chemical_cleaning
+        - approach_temperature_3_to_5f
+        - log_mean_temperature_difference
+        - heat_transfer_coefficient
+        
+      air_cooled_condensers:
+        - fin_tube_coils
+        - microchannel_coils
+        - v_coil_configuration
+        - flat_coil_configuration
+        - a_frame_configuration
+        - axial_fans
+        - multiple_fan_staging
+        - variable_speed_fan_control
+        - ambient_temperature_effects
+        - high_ambient_operation
+        - low_ambient_operation
+        - head_pressure_control_strategies
+        - fan_cycling
+        - damper_control
+        - condenser_flooding
+        - hot_gas_bypass_to_receiver
+        
+      evaporative_condensers:
+        - combined_evaporative_air_cooling
+        - refrigerant_coil_design
+        - spray_water_system
+        - wet_bulb_effectiveness
+        - approach_5_to_10f
+        - makeup_water
+        - blowdown_requirements
+        - drift_eliminators
+        - water_treatment_evaporative
+        
+    air_handling_units:
+      components:
+        - casing_construction
+        - thermal_break_design
+        - insulation_internal
+        - access_doors
+        - mixing_box_section
+        - filter_section
+        - heating_coil_section
+        - cooling_coil_section
+        - humidifier_section
+        - fan_section
+        - sound_attenuator_section
+        - heat_recovery_section
+        
+      coil_configurations:
+        - draw_through_fan
+        - blow_through_fan
+        - chilled_water_coils
+        - hot_water_coils
+        - steam_coils
+        - electric_heating_coils
+        - dx_cooling_coils
+        - coil_face_velocity
+        - coil_rows
+        - coil_fins_per_inch
+        - coil_circuiting
+        
+      fan_types_ahu:
+        - forward_curved_centrifugal
+        - backward_inclined_centrifugal
+        - airfoil_centrifugal
+        - plenum_fans
+        - plug_fans
+        - vaneaxial_fans
+        - variable_frequency_drives
+        - fan_array_systems
+        
+      controls_ahu:
+        - discharge_air_temperature_control
+        - mixed_air_temperature_control
+        - supply_air_static_pressure
+        - building_static_pressure
+        - space_temperature_control
+        - humidity_control
+        - co2_control
+        - economizer_control
+        - minimum_outdoor_air_control
+        - demand_controlled_ventilation
+
+  ventilation_systems:
+    ventilation_principles:
+      - air_change_effectiveness
+      - ventilation_effectiveness
+      - local_air_quality_index
+      - age_of_air
+      - air_change_efficiency
+      - pollutant_removal_effectiveness
+      - contaminant_concentration_decay
+      - mixing_factor
+      - short_circuiting
+      - dead_zones
+      
+    natural_ventilation:
+      wind_driven:
+        - surface_pressure_coefficients
+        - wind_pressure_calculation
+        - windward_pressure
+        - leeward_pressure
+        - opening_effective_area
+        - discharge_coefficient
+        - cross_ventilation_design
+        - single_sided_ventilation
+        - airflow_rate_calculation
+        - wind_rose_analysis
+        - prevailing_wind_direction
+      stack_effect:
+        - neutral_pressure_level
+        - stack_pressure_calculation
+        - temperature_difference_driving_force
+        - building_height_effect
+        - chimney_effect
+        - solar_chimney
+        - atrium_ventilation
+        - vertical_shafts
+      hybrid_ventilation:
+        - mixed_mode_ventilation
+        - changeover_strategies
+        - concurrent_operation
+        - zoned_operation
+        - seasonal_changeover
+        - controls_integration
+        
+    mechanical_ventilation:
+      supply_systems:
+        - positive_pressure_ventilation
+        - displacement_ventilation
+        - underfloor_air_distribution
+        - stratification_benefits
+        - supply_air_temperature
+        - supply_air_velocity
+        - throw_characteristics
+        - occupied_zone_coverage
+      exhaust_systems:
+        - negative_pressure_ventilation
+        - general_exhaust
+        - local_exhaust
+        - contaminated_exhaust
+        - toilet_exhaust
+        - parking_garage_exhaust
+        - co_detection_control
+      balanced_systems:
+        - supply_exhaust_balance
+        - pressure_relationship
+        - neutral_building_pressure
+        - pressurization_control
+        - building_envelope_tightness
+        - infiltration_reduction
+        
+    energy_recovery_ventilation:
+      sensible_heat_recovery:
+        - air_to_air_heat_exchangers
+        - plate_heat_exchangers
+        - counterflow_plate
+        - crossflow_plate
+        - effectiveness_calculation
+        - sensible_effectiveness
+        - temperature_efficiency
+      total_energy_recovery:
+        - enthalpy_wheels
+        - desiccant_wheels
+        - energy_recovery_wheels
+        - latent_effectiveness
+        - total_effectiveness
+        - enthalpy_efficiency
+        - wheel_speed_control
+        - purge_sector
+        - seal_design
+      run_around_coils:
+        - coupled_coil_systems
+        - glycol_solution_loop
+        - pumped_fluid_system
+        - freeze_protection
+        - no_cross_contamination
+      heat_pipes:
+        - passive_heat_transfer
+        - tilt_angle_effects
+        - refrigerant_charge
+        - wickless_thermosyphon
+        - capillary_wick_heat_pipes
+        - effectiveness_range
+      fixed_plate_exchangers:
+        - polymer_plates
+        - aluminum_plates
+        - paper_plates
+        - membrane_technology
+        - moisture_transfer
+        - cross_contamination_prevention
+      performance_factors:
+        - outdoor_air_fraction
+        - exhaust_air_fraction
+        - pressure_drop_supply_side
+        - pressure_drop_exhaust_side
+        - face_velocity
+        - frost_control
+        - defrost_cycles
+        - bypass_dampers
+        - preheat_requirement
+        
+    demand_controlled_ventilation:
+      - occupancy_sensors
+      - co2_sensors
+      - co2_setpoint_selection
+        - outdoor_air_co2_concentration
+        - indoor_generation_rate
+        - people_outdoor_air_rate
+      - voc_sensors
+      - particulate_sensors
+      - control_algorithms
+      - proportional_control
+      - reset_logic
+      - minimum_ventilation_rate
+      - energy_savings_potential
+      
+    dedicated_outdoor_air_systems:
+      - doas_configuration
+      - 100_percent_outdoor_air
+      - neutral_supply_air
+      - decoupled_ventilation_conditioning
+      - sensible_cooling_separate
+      - latent_cooling_doas
+      - energy_recovery_integration
+      - desiccant_dehumidification
+      - run_around_coil_systems
+      - benefits_humidity_control
+      - benefits_iaq_improvement
+      - parallel_terminal_units
+      
+    kitchen_ventilation:
+      - type_i_exhaust_hoods
+      - type_ii_exhaust_hoods
+      - grease_laden_vapor
+      - capture_velocity
+      - hood_design_factors
+      - canopy_hoods
+      - proximity_hoods
+      - backshelf_hoods
+      - pass_over_hoods
+      - eyebrow_hoods
+      - exhaust_flow_rate_calculation
+      - makeup_air_requirements
+      - tempered_makeup_air
+      - direct_fired_makeup_air
+      - heated_makeup_air
+      - transfer_air
+      - grease_duct_requirements
+      - fire_suppression_integration
+      - ul_listed_equipment
+      - nfpa_96_compliance
+      - access_panels_cleaning
+      - variable_speed_exhaust
+      - demand_ventilation_kitchen
+      - optics_based_controls
+      - temperature_based_controls
+      
+    laboratory_ventilation:
+      - fume_hood_types
+      - constant_volume_fume_hoods
+      - variable_air_volume_fume_hoods
+      - bypass_fume_hoods
+      - auxiliary_air_fume_hoods
+      - ductless_fume_hoods
+      - face_velocity_requirements
+      - sash_position_monitoring
+      - containment_testing
+      - smoke_testing_annual
+      - face_velocity_measurement
+      - manifold_exhaust_systems
+      - scrubber_systems
+      - perchloric_acid_hoods
+      - radioisotope_hoods
+      - biosafety_cabinets
+      - class_i_bsc
+      - class_ii_type_a1_bsc
+      - class_ii_type_a2_bsc
+      - class_ii_type_b1_bsc
+      - class_ii_type_b2_bsc
+      - class_iii_bsc
+      - clean_benches
+      - laminar_flow_benches
+      - makeup_air_laboratory
+      - lab_pressurization
+      - once_through_air_systems
+
+  ductwork_air_distribution:
+    duct_design_methods:
+      equal_friction:
+        - friction_rate_selection
+        - constant_pressure_drop_per_length
+        - duct_sizing_procedure
+        - friction_chart_usage
+        - typically_01_to_04_iwc_per_100ft
+      static_regain:
+        - velocity_reduction_downstream
+        - static_pressure_regained
+        - main_duct_sizing
+        - branch_duct_sizing
+        - acoustic_benefits
+      velocity_method:
+        - maximum_velocity_criteria
+        - velocity_reduction_schedule
+        - main_duct_velocity
+        - branch_duct_velocity
+        - terminal_velocity
+      t_method:
+        - total_pressure_basis
+        - section_pressure_losses
+        - optimization_balanced_design
+        
+    duct_materials:
+      - galvanized_sheet_metal
+      - aluminum_ducts
+      - stainless_steel_ducts
+      - fiberglass_duct_board
+      - flexible_duct_insulated
+      - pvc_duct_corrosive
+      - fabric_duct_textile
+      - spiral_round_duct
+      - longitudinal_seam_duct
+      - duct_liner_insulation
+      - external_insulation
+      - smacna_standards_construction
+      - seal_class_requirements
+      - seal_class_a_b_c
+      
+    duct_fittings:
+      - elbows_radius_throat
+      - mitered_elbows
+      - transitions_rectangular
+      - transitions_round_rectangular
+      - turning_vanes
+      - splitter_dampers
+      - volume_dampers
+      - fire_dampers
+      - smoke_dampers
+      - combination_fire_smoke_dampers
+      - backdraft_dampers
+      - control_dampers
+      - opposed_blade_dampers
+      - parallel_blade_dampers
+      
+    pressure_losses:
+      - friction_losses
+      - darcy_weisbach_equation
+      - absolute_roughness
+      - friction_factor_chart
+      - dynamic_losses
+      - fitting_loss_coefficients
+      - velocity_pressure
+      - elbow_losses
+      - tee_losses
+      - transition_losses
+      - sudden_expansion
+      - sudden_contraction
+      - damper_losses
+      - filter_pressure_drop
+      - coil_pressure_drop
+      
+    duct_sizing_considerations:
+      - aspect_ratio_limits
+      - maximum_aspect_ratio_4_to_1
+      - rectangular_duct_dimensions
+      - round_duct_advantages
+      - equivalent_diameter
+      - cross_sectional_area
+      - velocity_limitations
+      - noise_generation_velocity
+      - erosion_velocity
+      - supply_duct_velocity_limits
+      - return_duct_velocity_limits
+      - outdoor_air_duct_velocity
+      
+    duct_leakage:
+      - leakage_class_testing
+      - duct_leakage_class_dlc
+      - seal_class_requirement_correlation
+      - leakage_rate_calculation
+      - cfm_per_100_sqft_duct
+      - leakage_testing_methods
+      - pressure_decay_test
+      - flow_hood_measurement
+      - sealant_application
+      - mastic_sealant
+      - tape_sealants
+      - aerosol_duct_sealing
+      
+    air_terminals:
+      supply_outlets:
+        diffusers:
+          - ceiling_diffusers_round
+          - ceiling_diffusers_square
+          - ceiling_diffusers_rectangular
+          - ceiling_diffusers_linear_slot
+          - perforated_diffusers
+          - swirl_diffusers
+          - displacement_diffusers
+          - throw_pattern_1_2_3_4_way
+          - high_induction_diffusers
+          - low_induction_diffusers
+          - performance_curves
+          - throw_distance_to_terminal_velocity
+        registers_grilles:
+          - sidewall_registers
+          - floor_registers
+          - ceiling_registers
+          - double_deflection_grilles
+          - single_deflection_grilles
+          - fixed_bar_grilles
+          - adjustable_bar_grilles
+          - perforated_grilles
+          - eggcrate_grilles
+          - linear_grilles
+      return_inlets:
+        - return_air_grilles
+        - filter_grilles
+        - door_grilles
+        - transfer_grilles
+        - low_pressure_drop_design
+      performance_parameters:
+        - throw_definition
+        - drop_definition
+        - spread_definition
+        - terminal_velocity_50_fpm
+        - nc_noise_criteria
+        - pressure_drop_terminal
+        - effective_area
+        - neck_velocity
+        - face_velocity
+        
+    vav_terminal_units:
+      pressure_independent:
+        - airflow_controller
+        - velocity_sensor
+        - damper_actuator
+        - minimum_airflow_setpoint
+        - maximum_airflow_setpoint
+      pressure_dependent:
+        - damper_only_control
+        - system_pressure_dependent
+      fan_powered_terminals:
+        series_fan_powered:
+          - constant_fan_operation
+          - mixing_plenum
+          - heating_coil_location
+          - primary_air_inducement
+        parallel_fan_powered:
+          - intermittent_fan_operation
+          - fan_energized_heating_mode
+          - primary_air_only_cooling
+      reheat_terminals:
+        - hot_water_reheat_coil
+        - electric_reheat_coil
+        - steam_reheat_coil
+        - dual_maximum_logic
+        - single_maximum_logic
+      controls:
+        - space_temperature_sensor
+        - discharge_air_temperature_sensor
+        - airflow_measurement
+        - damper_position_feedback
+        - proportional_control
+        - pi_control
+
+  piping_systems_hydronic:
+    piping_materials:
+      - black_steel_pipe
+      - galvanized_steel_pipe
+      - copper_pipe_type_k_l_m
+      - pex_piping_crosslinked_polyethylene
+      - pex_a_pex_b_pex_c
+      - pert_polyethylene_raised_temperature
+      - pb_polybutylene
+      - cpvc_chlorinated_pvc
+      - polypropylene_pp_r
+      - stainless_steel_piping
+      - ductile_iron_pipe
+      - grooved_pipe_systems
+      - press_fit_connections
+      - fusion_welded_hdpe
+      
+    pipe_joining_methods:
+      - threaded_connections
+      - welded_connections
+      - soldered_connections
+      - brazed_connections
+      - mechanical_couplings
+      - grooved_couplings
+      - flanged_connections
+      - compression_fittings
+      - press_connections
+      - expansion_pex_fittings
+      - crimp_pex_fittings
+      - push_fit_connections
+      
+    system_configurations:
+      - direct_return_systems
+      - reverse_return_systems
+      - primary_secondary_pumping
+      - primary_only_variable_flow
+      - tertiary_pumping
+      - distributed_pumping
+      - injection_mixing
+      - decoupler_piping
+      - common_pipe_design
+      - bypass_line_sizing
+      
+    expansion_compensation:
+      - thermal_expansion_calculation
+      - expansion_loops
+      - expansion_joints_bellows
+      - expansion_joints_slip
+      - offset_expansion_compensation
+      - guided_expansion
+      - anchor_points
+      - guide_supports
+      - spring_hangers
+      - constant_support_hangers
+      - variable_support_hangers
+      
+    pipe_sizing:
+      - velocity_method_sizing
+      - pressure_drop_method
+      - maximum_velocity_limits
+      - erosion_velocity_considerations
+      - minimum_velocity_requirements
+      - hazen_williams_equation
+      - c_factor_values
+      - equivalent_length_fittings
+      - k_factor_fittings
+      - pump_head_calculation
+      - system_curve_development
+      - operating_point_determination
+      
+    insulation_systems:
+      - fiberglass_pipe_insulation
+      - elastomeric_foam_insulation
+      - cellular_glass_insulation
+      - polyisocyanurate_insulation
+      - phenolic_foam_insulation
+      - insulation_thickness_calculation
+      - heat_gain_loss_prevention
+      - condensation_prevention
+      - personnel_protection
+      - vapor_retarder_jacket
+      - all_service_jacket
+      - pvc_jacket
+      - aluminum_jacket
+      - stainless_steel_jacket
+      
+    water_treatment_hydronic:
+      - closed_loop_treatment
+      - open_loop_treatment
+      - corrosion_inhibitors
+      - scale_inhibitors
+      - biocides_algaecides
+      - oxygen_scavengers
+      - ph_adjustment
+      - glycol_systems_treatment
+      - glycol_concentration
+      - glycol_degradation
+      - system_flushing_procedures
+      - water_quality_testing
+      - conductivity_monitoring
+      - hardness_testing_hydronic
+      
+    flow_control_devices:
+      balancing_valves:
+        - manual_balancing_valves
+        - automatic_flow_limiting_valves
+        - circuit_setters
+        - venturi_flow_meters
+        - calibrated_balancing_valves
+        - differential_pressure_measurement
+      control_valves:
+        - two_way_control_valves
+        - three_way_mixing_valves
+        - three_way_diverting_valves
+        - globe_valves
+        - ball_valves
+        - butterfly_valves
+        - characterized_valve_plugs
+        - linear_characteristic
+        - equal_percentage_characteristic
+        - quick_opening_characteristic
+        - valve_cv_calculation
+        - valve_authority
+        - rangeability
+        - actuator_types
+        - electric_actuators_modulating
+        - pneumatic_actuators_modulating
+        - spring_return_actuators
+        - fail_safe_positions
+      isolation_valves:
+        - gate_valves
+        - ball_valves_full_port
+        - butterfly_valves_wafer_lug
+        - plug_valves
+        - check_valves
+        - swing_check_valves
+        - spring_loaded_check_valves
+        - double_check_valves
+      pressure_relief_devices:
+        - pressure_relief_valves
+        - temperature_pressure_relief_valves
+        - safety_relief_valves
+        - pressure_reducing_valves
+        - bypass_pressure_relief
+        
+    pumps_hydronic:
+      pump_types_hydronic:
+        - end_suction_centrifugal
+        - inline_centrifugal
+        - split_case_centrifugal
+        - vertical_turbine_pumps
+        - close_coupled_pumps
+        - frame_mounted_pumps
+        - base_mounted_pumps
+        - submersible_pumps
+      pump_performance_hydronic:
+        - best_efficiency_point_bep
+        - operating_range
+        - pump_curve_analysis
+        - system_curve_matching
+        - affinity_laws_application
+        - speed_change_effects
+        - impeller_trim_effects
+        - series_operation_pumps
+        - parallel_operation_pumps
+      pump_controls:
+        - constant_speed_operation
+        - variable_speed_drives_vfd
+        - differential_pressure_control
+        - dp_sensor_location
+        - two_thirds_rule_dp_sensor
+        - pressure_setpoint_reset
+        - flow_based_control
+        - temperature_based_control
+      cavitation_prevention:
+        - npsh_available_calculation
+        - npsh_required_manufacturer
+        - npsh_margin_safety_factor
+        - suction_conditions
+        - static_suction_head
+        - elevation_effects
+        - vapor_pressure_fluid
+        - suction_piping_design
+        - suction_pipe_sizing
+        - strainer_pressure_drop
+        
+    air_removal:
+      - air_separator_tangential
+      - air_separator_coalescing
+      - microbubble_air_eliminators
+      - air_scoop_installation
+      - automatic_air_vents
+      - manual_air_vents
+      - high_point_venting
+      - air_purging_procedure
+      - dissolved_air_vs_entrained_air
+      
+    dirt_separation:
+      - strainers_y_type
+      - strainers_basket_type
+      - strainers_automatic_backwash
+      - dirt_separators_centrifugal
+      - magnetic_dirt_separators
+      - filter_mesh_size
+      - pressure_drop_strainers
+      - cleaning_frequency
+      
+    expansion_tanks:
+      - compression_tanks_plain_steel
+      - diaphragm_expansion_tanks
+      - bladder_expansion_tanks
+      - tank_sizing_calculation
+      - acceptance_volume
+      - system_volume_calculation
+      - fill_pressure
+      - maximum_operating_pressure
+      - precharge_pressure
+      - tank_location_system
+      - point_of_no_pressure_change
+
+  controls_automation_building:
+    control_system_architectures:
+      - distributed_control_systems
+      - building_automation_systems_bas
+      - energy_management_systems
+      - supervisory_control_data_acquisition
+      - programmable_logic_controllers
+      - direct_digital_control_field_panels
+      - application_specific_controllers
+      - unitary_controllers
+      - network_architecture
+      - bacnet_protocol
+      - lonworks_protocol
+      - modbus_protocol
+      - knx_protocol
+      - dali_lighting_protocol
+      - mqtt_protocol
+      - ethernet_ip
+      - wireless_networks
+      - zigbee_wireless
+      - z_wave_wireless
+      - bluetooth_mesh
+      - lora_wireless
+      
+    control_strategies_detailed:
+      basic_control_modes:
+        - two_position_on_off
+        - floating_control
+        - proportional_control_p
+        - proportional_integral_pi
+        - proportional_integral_derivative_pid
+        - gain_tuning
+        - reset_time_tuning
+        - derivative_time_tuning
+        - anti_windup_techniques
+        - bumpless_transfer
+      advanced_control:
+        - cascade_control_loops
+        - feedforward_control_disturbance_rejection
+        - ratio_control
+        - split_range_control
+        - adaptive_control_self_tuning
+        - fuzzy_logic_control_systems
+        - neural_network_control
+        - model_predictive_control_mpc
+        - optimal_control_theory
+        - multivariable_control
+        - decoupling_control
+      
+    sequences_of_operation_detailed:
+      air_handling_unit_sequences:
+        - morning_warmup_sequence
+        - unoccupied_setback
+        - optimal_start_algorithm
+        - optimal_stop_algorithm
+        - economizer_control_sequence
+        - integrated_economizer_control
+        - differential_enthalpy_economizer
+        - differential_dry_bulb_economizer
+        - minimum_outdoor_air_control
+        - demand_controlled_ventilation_sequence
+        - mixed_air_control
+        - discharge_air_temperature_control
+        - supply_air_static_pressure_control
+        - static_pressure_reset
+        - trim_and_respond_control
+        - duct_static_pressure_reset
+        - building_static_pressure_control
+        - dehumidification_control
+        - humidification_control
+        - freeze_protection_sequence
+        - low_limit_control
+        - smoke_control_sequence
+      vav_box_sequences:
+        - cooling_only_vav
+        - vav_with_reheat
+        - dual_maximum_control
+        - fan_powered_vav_sequence
+        - series_fpb_sequence
+        - parallel_fpb_sequence
+        - dead_band_control
+        - occupied_unoccupied_modes
+      chiller_plant_sequences:
+        - chiller_staging_control
+        - chiller_enable_conditions
+        - chiller_lockout_conditions
+        - lead_lag_rotation
+        - load_balancing_chillers
+        - chilled_water_reset_schedule
+        - outdoor_air_reset
+        - return_water_temperature_reset
+        - demand_limiting_chiller
+        - condenser_water_reset
+        - cooling_tower_staging
+        - tower_fan_speed_control
+        - tower_cell_staging
+        - chilled_water_pump_staging
+        - condenser_water_pump_staging
+        - differential_pressure_reset
+        - primary_secondary_control
+        - variable_primary_flow_control
+        - free_cooling_enable
+        - ice_storage_charging_sequence
+        - ice_storage_discharging_sequence
+      boiler_plant_sequences:
+        - boiler_staging_control
+        - boiler_enable_disable
+        - lead_lag_sequencing
+        - hot_water_reset_outdoor_air
+        - supply_water_temperature_reset
+        - boiler_rotation_logic
+        - firing_rate_control_modulating
+        - low_fire_start
+        - warm_weather_shutdown
+        - anti_condensation_control
+        - stack_damper_control
+        - boiler_optimization
+        
+    sensors_transducers:
+      temperature_sensors_detailed:
+        - resistance_temperature_detectors_rtd
+        - 100_ohm_platinum_rtd
+        - 1000_ohm_platinum_rtd
+        - rtd_alpha_coefficient
+        - two_wire_rtd
+        - three_wire_rtd
+        - four_wire_rtd
+        - thermistor_ntc_ptc
+        - thermistor_beta_value
+        - thermocouple_types
+        - type_j_thermocouple
+        - type_k_thermocouple
+        - type_t_thermocouple
+        - type_e_thermocouple
+        - cold_junction_compensation
+        - infrared_temperature_sensors
+        - averaging_temperature_sensors
+        - duct_averaging_sensors
+        - pipe_averaging_sensors
+        - immersion_sensors
+        - strap_on_sensors
+        - well_installation
+        - sensor_accuracy
+        - sensor_response_time
+      pressure_sensors_detailed:
+        - gauge_pressure_sensors
+        - absolute_pressure_sensors
+        - differential_pressure_sensors
+        - static_pressure_sensors
+        - piezoresistive_sensors
+        - capacitive_pressure_sensors
+        - strain_gauge_sensors
+        - pressure_transmitter_output
+        - 4_20_ma_output
+        - 0_10_vdc_output
+        - pressure_range_selection
+        - overpressure_rating
+      humidity_sensors_detailed:
+        - capacitive_relative_humidity
+        - resistive_humidity_sensors
+        - chilled_mirror_hygrometer
+        - wet_bulb_temperature_sensor
+        - dew_point_sensor
+        - humidity_accuracy
+        - humidity_drift
+        - sensor_calibration
+      air_quality_sensors_detailed:
+        co2_sensors:
+          - nondispersive_infrared_ndir
+          - dual_wavelength_ndir
+          - automatic_baseline_calibration_abc
+          - co2_measurement_range
+          - co2_accuracy
+        voc_sensors:
+          - metal_oxide_semiconductor
+          - photoionization_detector_pid
+          - electrochemical_voc
+        particulate_sensors:
+          - laser_particle_counter
+          - optical_particle_sensor
+          - pm2_5_measurement
+          - pm10_measurement
+        gas_detection:
+          - carbon_monoxide_electrochemical
+          - nitrogen_dioxide_sensors
+          - ozone_sensors
+      flow_measurement:
+        - differential_pressure_flow
+        - orifice_plate_flow_meter
+        - venturi_flow_meter
+        - flow_nozzle
+        - pitot_tube_averaging
+        - turbine_flow_meters
+        - vortex_shedding_flow_meters
+        - magnetic_flow_meters_electromagnetic
+        - ultrasonic_flow_meters_doppler
+        - ultrasonic_flow_meters_transit_time
+        - thermal_mass_flow_meters
+        - coriolis_mass_flow_meters
+        - variable_area_flow_meters_rotameter
+        - target_flow_meters
+        - positive_displacement_meters
+      occupancy_detection:
+        - passive_infrared_pir
+        - ultrasonic_occupancy_sensors
+        - microwave_occupancy_sensors
+        - dual_technology_sensors
+        - camera_based_occupancy
+        - co2_based_occupancy_estimation
+        
+    actuators_detailed:
+      electric_actuators_control:
+        - two_position_electric
+        - floating_electric_actuators
+        - modulating_electric_actuators
+        - proportional_electric_actuators
+        - actuator_torque_ratings
+        - spring_return_electric
+        - non_spring_return_electric
+        - actuator_run_time
+        - actuator_feedback_potentiometer
+        - actuator_feedback_4_20ma
+      pneumatic_actuators_control:
+        - direct_acting_pneumatic
+        - reverse_acting_pneumatic
+        - spring_return_pneumatic
+        - double_acting_pneumatic
+        - pneumatic_pressure_range
+        - 3_to_15_psi_signal
+        - actuator_sizing_torque
+        - air_supply_requirements
+        - pneumatic_relays
+        - volume_boosters
+      hydraulic_actuators:
+        - hydraulic_cylinder_actuators
+        - hydraulic_pressure_systems
+        - high_force_applications
+      
+    interface_devices:
+      - operator_workstations
+      - graphical_user_interface
+      - web_based_interfaces
+      - mobile_applications
+      - trend_logging
+      - alarm_management
+      - event_logging
+      - historical_data_storage
+      - scheduling_capabilities
+      - calendar_based_scheduling
+      - exception_scheduling
+      - holiday_scheduling
+      - report_generation
+      - energy_dashboards
+      
+    integration_interoperability:
+      - bacnet_integration
+      - bacnet_ip
+      - bacnet_mstp
+      - bacnet_objects
+      - bacnet_services
+      - lonworks_integration
+      - modbus_rtu_integration
+      - modbus_tcp_integration
+      - opc_integration
+      - haystack_tagging
+      - brick_schema
+      - api_integration
+      - restful_api
+      - web_services
+      
+    cybersecurity_controls:
+      - network_segmentation
+      - firewalls_hvac_networks
+      - virtual_private_networks_vpn
+      - encryption_data_transit
+      - user_authentication
+      - role_based_access_control
+      - password_policies
+      - security_patches
+      - intrusion_detection
+      - penetration_testing
+      - vulnerability_assessment
+
+  indoor_air_quality_management:
+    pollutant_sources:
+      - outdoor_air_pollutants
+      - indoor_generated_pollutants
+      - occupant_generated_pollutants
+      - building_material_emissions
+      - cleaning_product_emissions
+      - furniture_emissions
+      - combustion_byproducts
+      - biological_contaminants
+      - moisture_related_contaminants
+      - radon_infiltration
+      
+    particulate_matter_control:
+      filter_types_detailed:
+        - fiberglass_panel_filters
+        - pleated_media_filters
+        - extended_surface_filters
+        - rigid_cell_filters
+        - bag_filters_pocket_filters
+        - hepa_filters_high_efficiency
+        - ulpa_filters_ultra_low_penetration
+        - activated_carbon_filters
+        - electrostatic_filters_washable
+        - electronic_air_cleaners
+        - media_air_cleaners
+      filter_ratings:
+        - merv_minimum_efficiency_reporting
+        - merv_1_to_4_residential
+        - merv_5_to_8_commercial_light
+        - merv_9_to_12_commercial_standard
+        - merv_13_to_16_hospital_cleanroom
+        - hepa_99_97_percent_at_0_3_micron
+        - ulpa_99_999_percent
+        - arrestance_gravimetric
+        - dust_spot_efficiency
+        - fractional_efficiency
+      filter_performance:
+        - initial_pressure_drop
+        - final_pressure_drop
+        - dust_holding_capacity
+        - filter_loading_curve
+        - filter_bypass_leakage
+        - filter_replacement_criteria
+        - pressure_drop_monitoring
+        - differential_pressure_switch
+        
+    gaseous_contaminant_control:
+      - activated_carbon_adsorption
+      - granular_activated_carbon
+      - impregnated_carbon
+      - potassium_permanganate_media
+      - photocatalytic_oxidation_pco
+      - ultraviolet_germicidal_irradiation
+      - ozone_generation_concerns
+      - bipolar_ionization
+      - gas_phase_filtration_systems
+      - chemical_media_filters
+      
+    biological_contaminant_control:
+      - airborne_bacteria
+      - airborne_viruses
+      - mold_spores_fungi
+      - pollen_allergens
+      - dust_mites
+      - bacterial_endotoxins
+      - mycotoxins
+      - ultraviolet_c_disinfection
+      - uvgi_in_duct_systems
+      - uvgi_upper_room_systems
+      - uvgi_dose_calculation
+      - uv_lamp_maintenance
+      - hepa_filtration_biological
+      
+    moisture_control:
+      - relative_humidity_control_30_to_60
+      - condensation_prevention
+      - mold_growth_prevention
+      - humidity_ratio_control
+      - dehumidification_strategies
+      - refrigerant_dehumidification
+      - desiccant_dehumidification
+      - subcooling_reheat
+      - heat_pipe_dehumidification
+      - humidification_strategies
+      - steam_humidification
+      - evaporative_humidification
+      - ultrasonic_humidification
+      - atomizing_humidification
+      
+    ventilation_effectiveness:
+      - air_change_per_hour_calculation
+      - outdoor_air_ventilation_rate
+      - ventilation_rate_procedure_ashrae_62_1
+      - breathing_zone_outdoor_airflow
+      - zone_air_distribution_effectiveness
+      - multiple_zone_systems
+      - system_ventilation_efficiency
+      - uncorrected_outdoor_air_intake
+      - occupant_diversity
+      
+    source_control_strategies:
+      - low_emitting_materials
+      - greenguard_certification
+      - california_section_01350
+      - voc_content_limits
+      - material_off_gassing_testing
+      - flush_out_procedures
+      - construction_iaq_management
+      - pathway_interruption
+      - local_exhaust_at_source
+      - isolation_containment
+
+  energy_efficiency_optimization:
+    performance_metrics_detailed:
+      - seasonal_energy_efficiency_ratio_seer
+      - seer2_updated_rating
+      - energy_efficiency_ratio_eer
+      - eer2_updated_rating
+      - integrated_energy_efficiency_ratio_ieer
+      - coefficient_of_performance_cop
+      - seasonal_cop_scop
+      - heating_seasonal_performance_factor_hspf
+      - hspf2_updated_rating
+      - annual_fuel_utilization_efficiency_afue
+      - thermal_efficiency_boiler
+      - combustion_efficiency_furnace
+      - kilowatts_per_ton_chiller
+      - power_usage_effectiveness_pue_data_center
+      - energy_use_intensity_eui_building
+      - site_energy_vs_source_energy
+      - carbon_emissions_intensity
+      
+    variable_speed_technology:
+      - variable_frequency_drives_motors
+      - pulse_width_modulation
+      - vfd_efficiency_curve
+      - inverter_driven_compressors
+      - electronically_commutated_motors_ecm
+      - permanent_magnet_motors
+      - motor_efficiency_classes
+      - ie1_ie2_ie3_ie4_ie5_motors
+      - premium_efficiency_motors
+      - affinity_laws_energy_savings
+      - fan_power_reduction_cubic_relationship
+      - pump_power_reduction
+      - vfd_harmonic_distortion
+      - vfd_power_factor
+      
+    economizer_optimization:
+      - airside_economizer_control
+      - dry_bulb_economizer
+      - enthalpy_economizer
+      - differential_enthalpy_control
+      - integrated_economizer_operation
+      - economizer_damper_sequencing
+      - economizer_fault_detection
+      - stuck_damper_detection
+      - damper_not_modulating
+      - excess_outdoor_air
+      - waterside_economizer_strategies
+      - direct_waterside_economizer
+      - indirect_waterside_economizer_plate_hx
+      - strainer_economizer_protection
+      - economizer_hours_tracking
+      
+    thermal_energy_storage:
+      ice_storage:
+        - full_storage_design
+        - partial_storage_design
+        - load_leveling_strategy
+        - demand_limiting_strategy
+        - ice_on_coil_storage
+        - ice_harvesting_storage
+        - encapsulated_ice_storage
+        - ice_slurry_systems
+        - charging_cycle_nighttime
+        - discharging_cycle_daytime
+        - storage_tank_sizing
+        - glycol_solution_ice_storage
+      chilled_water_storage:
+        - stratified_storage_tanks
+        - temperature_stratification_maintenance
+        - diffuser_design_inlet_outlet
+        - storage_capacity_ton_hours
+        - charging_discharging_modes
+      phase_change_materials:
+        - pcm_eutectic_salts
+        - pcm_paraffin_wax
+        - pcm_melting_point_selection
+        - pcm_encapsulation
+        - pcm_integration_building_materials
+        
+    heat_recovery_systems:
+      - exhaust_air_heat_recovery
+      - condenser_heat_recovery
+      - hot_gas_heat_recovery
+      - heat_recovery_water_heating
+      - desuperheater_heat_recovery
+      - waste_heat_recovery_boilers
+      - economizer_feedwater_heating
+      - heat_recovery_steam_generator
+      - organic_rankine_cycle_waste_heat
+      - absorption_chiller_heat_driven
+      
+    load_management:
+      - demand_response_programs
+      - load_shedding_strategies
+      - duty_cycling
+      - thermostat_setpoint_adjustment
+      - load_shifting_time_of_use
+      - thermal_mass_utilization
+      - precooling_strategies
+      - peak_demand_reduction
+      - demand_charge_minimization
+      - energy_arbitrage
+      - automated_demand_response
+      
+    commissioning_optimization:
+      - monitoring_based_commissioning
+      - continuous_commissioning
+      - fault_detection_diagnostics_fdd
+      - automated_fault_detection
+      - whole_building_performance
+      - measurement_verification_m_and_v
+      - ipmvp_protocols
+      - energy_modeling_calibration
+      - performance_degradation_detection
+      - retro_commissioning_strategies
+      
+    renewable_energy_systems:
+      solar_thermal_integration:
+        - flat_plate_collectors
+        - evacuated_tube_collectors
+        - concentrating_solar_collectors
+        - solar_thermal_storage
+        - solar_fraction_calculation
+        - hybrid_solar_conventional
+      photovoltaic_integration:
+        - grid_tied_pv_systems
+        - battery_storage_systems
+        - net_metering
+        - pv_powered_heat_pumps
+      geothermal_systems:
+        - geothermal_heat_pumps
+        - direct_use_geothermal
+        - ground_coupled_systems
+      wind_energy:
+        - small_wind_turbines
+        - hybrid_wind_solar_systems
+      biomass_integration:
+        - biomass_boilers
+        - biogas_cogeneration
+        - pellet_fuel_systems
+
+  load_calculation_methods:
+    cooling_load_components:
+      external_heat_gains:
+        solar_radiation_gains:
+          - beam_solar_radiation
+          - diffuse_solar_radiation
+          - ground_reflected_radiation
+          - solar_angles_calculation
+          - shading_coefficient
+          - solar_heat_gain_coefficient_shgc
+          - fenestration_properties
+          - glass_transmission
+          - internal_shading_devices
+          - external_shading_devices
+          - shading_from_overhangs
+          - shading_from_fins
+          - window_orientation_effects
+          - glazing_layers_multiple
+        transmission_heat_gain:
+          - conduction_through_opaque_surfaces
+          - u_factor_overall
+          - thermal_bridging_effects
+          - sol_air_temperature
+          - surface_absorptance
+          - surface_emittance
+          - roof_heat_gain
+          - wall_heat_gain
+          - floor_slab_heat_gain
+          - below_grade_walls
+        infiltration_ventilation:
+          - air_change_method
+          - crack_method_infiltration
+          - effective_leakage_area
+          - blower_door_testing
+          - air_leakage_cfm50
+          - stack_effect_infiltration
+          - wind_effect_infiltration
+          - ventilation_outdoor_air
+          - mechanical_ventilation_load
+      internal_heat_gains:
+        - occupancy_heat_gain_sensible
+        - occupancy_heat_gain_latent
+        - metabolic_rate_activity_level
+        - people_diversity_factor
+        - lighting_heat_gain
+        - lighting_power_density
+        - ballast_factor
+        - use_factor_lighting
+        - special_allowance_factor
+        - equipment_heat_gain_appliances
+        - equipment_heat_gain_computers
+        - equipment_diversity_factor
+        - radiation_fraction_equipment
+        - motor_heat_gain
+        - motor_load_factor
+        - motor_efficiency
+        - elevator_heat_gain
+        - miscellaneous_loads
+      radiant_time_series_method:
+        - rts_coefficients
+        - conduction_time_series
+        - radiant_time_factors
+        - non_solar_rtf
+        - solar_rtf
+        - heat_gain_vs_cooling_load
+        - thermal_mass_effects_rts
+        - zone_response_factors
+        
+    heating_load_components:
+      - design_heating_conditions
+      - outdoor_design_temperature_99_percent
+      - indoor_design_temperature
+      - transmission_heat_loss
+      - u_factor_heating_calculation
+      - infiltration_heat_loss_heating
+      - below_grade_heat_loss
+      - slab_on_grade_perimeter_loss
+      - basement_heat_loss
+      - crawl_space_heat_loss
+      - ventilation_heat_loss
+      - duct_heat_loss
+      - piping_heat_loss_distribution
+      - warm_up_load_pickup_load
+      - humidification_load_heating
+      
+    calculation_software:
+      - ashrae_heat_balance_method
+      - carrier_hap_hourly_analysis
+      - trace_700_load_calculation
+      - energyplus_simulation
+      - designbuilder_software
+      - iesve_integrated_environmental_solutions
+      - equest_doe2_based
+      - right_suite_universal
+      - coolcalc_commercial_loads
+      - wrightsoft_right_j_residential
+      - elite_software_chvac
+      
+    load_profiles:
+      - hourly_load_profiles
+      - peak_design_day_selection
+      - coincident_peak_load
+      - non_coincident_loads
+      - block_load_estimation
+      - diversity_factors_application
+      - load_duration_curves
+      
+    design_conditions:
+      - ashrae_climatic_design_conditions
+      - 0_4_percent_design_conditions
+      - 1_0_percent_design_conditions
+      - 2_0_percent_design_conditions
+      - 99_percent_heating_conditions
+      - mean_coincident_wet_bulb
+      - mean_coincident_dry_bulb
+      - dehumidification_design_conditions
+      - wet_bulb_mcdb
+      - enthalpy_design_conditions
+      
+    psychrometric_analysis_loads:
+      - sensible_heat_ratio_shr
+      - grand_sensible_heat_factor_gshf
+      - room_sensible_heat_factor_rshf
+      - effective_sensible_heat_factor
+      - bypass_factor_coil
+      - apparatus_dew_point_adp
+      - coil_leaving_air_conditions
+      - supply_air_conditions_required
+
+  acoustic_noise_vibration:
+    sound_fundamentals:
+      - sound_pressure_pascal
+      - sound_pressure_level_db
+      - reference_pressure_20_micropascals
+      - sound_power_watts
+      - sound_power_level_db
+      - a_weighted_decibels_dba
+      - octave_band_analysis_frequencies
+      - center_frequencies_63_to_8000_hz
+      - one_third_octave_bands
+      - frequency_spectrum
+      - broadband_noise
+      - tonal_noise
+      - pure_tone_penalty
+      
+    noise_criteria:
+      - nc_curves_noise_criteria
+      - rc_curves_room_criteria
+      - rc_mark_ii_curves
+      - balanced_noise_criterion_curves
+      - rumbly_hissy_identification
+      - speech_interference_level
+      - articulation_index
+      - speech_transmission_index
+      - background_noise_levels
+      - ambient_noise_masking
+      
+    hvac_equipment_noise:
+      - fan_sound_power_levels
+      - fan_sound_spectra
+      - compressor_noise
+      - pump_noise
+      - chiller_noise
+      - cooling_tower_noise
+      - boiler_noise
+      - terminal_unit_noise
+      - diffuser_generated_noise
+      - grille_noise
+      - duct_breakout_noise
+      - duct_breakin_noise
+      - plenum_radiated_noise
+      - equipment_sound_ratings_manufacturer
+      
+    sound_attenuation:
+      duct_attenuation:
+        - rectangular_duct_natural_attenuation
+        - round_duct_natural_attenuation
+        - lined_duct_attenuation
+        - duct_liner_thickness
+        - duct_liner_facing
+        - elbow_attenuation
+        - split_attenuation_branch
+        - end_reflection_loss
+      silencers:
+        - dissipative_silencers
+        - reactive_silencers
+        - active_noise_cancellation
+        - silencer_insertion_loss
+        - silencer_pressure_drop
+        - silencer_self_noise
+        - silencer_length
+        - splitter_silencers
+        - circular_silencers
+        - elbow_silencers
+      barriers_enclosures:
+        - sound_barriers_outdoor
+        - transmission_loss
+        - mass_law_transmission_loss
+        - sound_transmission_class_stc
+        - outdoor_indoor_transmission_class_oitc
+        - enclosure_design
+        - acoustic_louvers
+        - equipment_screen_walls
+        
+    vibration_control:
+      vibration_sources:
+        - unbalanced_rotating_equipment
+        - reciprocating_compressors
+        - pumps_cavitation
+        - fans_imbalance
+        - motors_magnetic_forces
+        - piping_flow_induced_vibration
+        - water_hammer
+      vibration_isolation:
+        isolator_types:
+          - steel_spring_isolators
+          - neoprene_isolators
+          - fiberglass_isolators
+          - pneumatic_isolators
+          - combination_isolators
+        isolation_design:
+          - disturbing_frequency
+          - natural_frequency_system
+          - isolation_efficiency
+          - frequency_ratio
+          - static_deflection
+          - transmissibility_calculation
+          - resonance_avoidance
+        installation:
+          - inertia_bases_concrete
+          - structural_base_design
+          - housekeeping_pads
+          - isolated_curbs
+          - floating_floor_systems
+          - thrust_restraints
+          - snubbers_seismic
+          - seismic_restraints
+          - flexible_connections
+          - flexible_duct_connectors
+          - flexible_pipe_connectors
+          - braided_flexible_hoses
+          - expansion_joints_vibration
+          
+    structural_considerations:
+      - equipment_support_requirements
+      - roof_mounted_equipment_supports
+      - floor_loading_calculations
+      - reinforcement_requirements
+      - vibration_transmission_structure
+      - building_resonance
+      - modal_analysis_structures
+
+  testing_balancing_commissioning_process:
+    air_systems_testing:
+      airflow_measurement_methods:
+        - pitot_tube_traverse
+        - log_linear_traverse
+        - log_tchebycheff_traverse
+        - equal_area_traverse
+        - hot_wire_anemometer
+        - vane_anemometer
+        - rotating_vane_anemometer
+        - capture_hood_flow_measurement
+        - flow_hood_accuracy
+        - orifice_plate_measurement
+        - venturi_measurement_stations
+        - flow_measuring_stations
+      duct_traverse_procedures:
+        - velocity_pressure_measurement
+        - total_pressure_measurement
+        - static_pressure_measurement
+        - traverse_point_selection
+        - averaging_velocity_readings
+        - flow_rate_calculation
+        - duct_leakage_effects
+        - correction_factors_temperature_altitude
+      terminal_device_balancing:
+        - diffuser_outlet_measurement
+        - vav_box_calibration
+        - flow_station_verification
+        - proportional_balancing_procedure
+        - stepwise_balancing
+        - total_air_balancing_method
+      system_adjustments:
+        - fan_speed_adjustment
+        - pulley_sheave_changes
+        - vfd_speed_adjustment
+        - damper_adjustment_procedure
+        - duct_static_pressure_optimization
+        - system_effect_correction
+        
+    hydronic_systems_testing:
+      flow_measurement_hydronic:
+        - ultrasonic_flow_measurement
+        - insertion_turbine_meters
+        - inline_turbine_meters
+        - magnetic_flow_meters_testing
+        - differential_pressure_flow_measurement
+        - calibrated_balance_valve_readout
+        - pump_curve_flow_determination
+        - temperature_method_flow_measurement
+      balancing_procedures_hydronic:
+        - proportional_method_balancing
+        - rated_flow_method
+        - total_flow_verification
+        - pump_performance_verification
+        - circuit_flow_adjustment
+        - balancing_valve_setting
+        - coil_flow_verification
+      system_flushing:
+        - initial_flushing_procedure
+        - high_velocity_flushing
+        - strainer_blow_down
+        - chemical_cleaning
+        - passivation_procedures
+        - system_cleanliness_verification
+        
+    control_system_verification:
+      - sensor_calibration_verification
+      - controller_calibration
+      - actuator_stroke_verification
+      - control_loop_tuning
+      - proportional_band_adjustment
+      - reset_time_adjustment
+      - derivative_time_adjustment
+      - sequence_of_operation_verification
+      - interlock_verification
+      - safety_shutdown_testing
+      - alarm_point_verification
+      - trending_setup_verification
+      
+    functional_performance_testing:
+      equipment_performance_tests:
+        - chiller_performance_test
+        - chiller_efficiency_verification
+        - condenser_approach_verification
+        - evaporator_approach_verification
+        - boiler_combustion_test
+        - boiler_efficiency_test
+        - cooling_tower_performance_test
+        - heat_pump_performance_test
+        - air_handling_unit_performance
+      system_integration_tests:
+        - economizer_functionality_test
+        - free_cooling_mode_test
+        - demand_controlled_ventilation_test
+        - building_pressurization_test
+        - smoke_control_test
+        - emergency_power_transfer_test
+        - night_setback_operation_test
+        - optimal_start_test
+        - morning_warm_up_test
+        
+    documentation:
+      - test_and_balance_report
+      - certified_tab_report
+      - as_built_drawings
+      - point_to_point_checkout_sheets
+      - startup_checklists
+      - deficiency_reports
+      - corrective_action_log
+      - systems_manual_preparation
+      - operation_maintenance_manuals
+      - training_documentation
+      
+    ongoing_commissioning:
+      - trending_analysis
+      - performance_benchmarking
+      - energy_consumption_monitoring
+      - fault_detection_diagnostics_ongoing
+      - seasonal_recommissioning
+      - measurement_verification_protocols
+      - continuous_optimization
+      - performance_degradation_monitoring
+
+  specialty_hvac_applications:
+    cleanroom_hvac:
+      classification_standards:
+        - iso_14644_1_classifications
+        - iso_class_1_to_iso_class_9
+        - federal_standard_209e_legacy
+        - particle_count_limits
+        - 0_1_micron_particles
+        - 0_5_micron_particles
+        - 5_micron_particles
+        - cleanroom_monitoring
+        - particle_counter_location
+      airflow_patterns:
+        - unidirectional_airflow_laminar
+        - non_unidirectional_turbulent_mixing
+        - vertical_unidirectional_flow
+        - horizontal_unidirectional_flow
+        - mixed_flow_cleanrooms
+        - air_velocity_unidirectional_0_3_to_0_5_mps
+        - air_changes_per_hour_cleanroom
+        - air_change_rates_iso_classes
+      filtration_cleanroom:
+        - final_hepa_filtration
+        - final_ulpa_filtration
+        - prefilter_protection
+        - carbon_filter_molecular_contamination
+        - fan_filter_units_ffu
+        - filter_integrity_testing
+        - dioctyl_phthalate_dop_test
+        - aerosol_photometer_testing
+        - filter_leak_testing_procedures
+      pressure_control_cleanroom:
+        - positive_pressure_cascade
+        - pressure_differential_maintenance
+        - airlock_design
+        - pass_through_chambers
+        - pressure_decay_testing
+        - door_interlocks
+        - pressure_monitoring
+      temperature_humidity_control:
+        - tight_temperature_control_plus_minus_1f
+        - tight_humidity_control_plus_minus_2_percent
+        - dew_point_control
+        - process_load_cooling
+        - makeup_air_conditioning
+        
+    laboratory_hvac:
+      fume_hood_systems:
+        - fume_hood_exhaust_requirements
+        - constant_volume_hoods
+        - variable_air_volume_hoods_low_flow
+        - auxiliary_air_hoods
+        - bypass_hoods
+        - floor_mounted_hoods
+        - benchtop_hoods
+        - distillation_hoods
+        - walk_in_hoods
+        - face_velocity_100_fpm_typical
+        - face_velocity_monitoring
+        - sash_position_sensors
+        - hood_alarm_systems
+        - containment_verification_testing
+        - ashrae_110_test_method
+        - tracer_gas_testing
+      exhaust_systems_laboratory:
+        - dedicated_exhaust_per_hood
+        - manifold_exhaust_systems
+        - constant_volume_exhaust
+        - variable_volume_exhaust
+        - diversity_factors_lab_exhaust
+        - stack_discharge_velocity
+        - stack_height_calculation
+        - exhaust_dispersion_modeling
+        - exhaust_air_treatment
+        - scrubber_systems_acid_fumes
+        - activated_carbon_solvent_removal
+      makeup_air_laboratory:
+        - 100_percent_outdoor_air
+        - lab_supply_air_systems
+        - general_lab_supply
+        - task_conditioning_supply
+        - perimeter_heating_cooling
+        - displacement_ventilation_labs
+        - underfloor_air_distribution_labs
+      controls_laboratory:
+        - pressure_independent_vav_controls
+        - venturi_valve_control
+        - phoenix_valve_control
+        - offset_supply_exhaust_control
+        - room_pressure_monitoring
+        - differential_pressure_sensors
+        - velocity_pressure_sensors
+        - flow_tracking_supply_exhaust
+        - diversity_control_algorithms
+        - safety_purge_mode
+        - fire_alarm_interface
+        - emergency_power_operation
+        
+    healthcare_hvac:
+      operating_rooms:
+        - positive_pressure_operating_rooms
+        - minimum_air_changes_20_ach
+        - minimum_outdoor_air_4_ach
+        - hepa_filtration_supply_air
+        - terminal_hepa_filters
+        - laminar_flow_surgical_zones
+        - temperature_control_68_to_75f
+        - humidity_control_20_to_60_percent
+        - redundant_equipment
+        - backup_systems
+      isolation_rooms:
+        - airborne_infection_isolation_aii
+        - negative_pressure_rooms
+        - minimum_air_changes_12_ach
+        - anteroom_requirements
+        - pressure_differential_monitoring
+        - pressure_differential_0_01_iwc
+        - exhaust_air_treatment
+        - hepa_exhaust_filtration
+        - room_to_corridor_pressure
+        - visual_pressure_indicators
+      protective_environment_rooms:
+        - positive_pressure_pe_rooms
+        - immunocompromised_patients
+        - hepa_filtration_supply
+        - minimum_air_changes_12_ach
+        - sealed_room_construction
+        - anteroom_positive_pressure
+      patient_rooms:
+        - general_patient_room_requirements
+        - minimum_air_changes_6_ach
+        - minimum_outdoor_air_2_ach
+        - patient_room_temperature_70_to_75f
+        - patient_room_humidity_30_to_60_percent
+        - individual_room_controls
+      ashrae_170_requirements:
+        - ventilation_healthcare_facilities
+        - pressure_relationships
+        - filtration_requirements
+        - temperature_humidity_requirements
+        - air_change_requirements_by_space
+        - outdoor_air_requirements_by_space
+        
+    data_center_cooling:
+      cooling_architectures:
+        - computer_room_air_conditioners_crac
+        - computer_room_air_handlers_crah
+        - in_row_cooling_units
+        - rear_door_heat_exchangers
+        - overhead_cooling_systems
+        - underfloor_air_distribution_raised_floor
+        - hard_ceiling_return_plenum
+        - contained_cold_aisle
+        - contained_hot_aisle
+        - chimney_cabinets
+      precision_cooling:
+        - tight_temperature_control_plus_minus_2f
+        - tight_humidity_control_plus_minus_5_percent
+        - sensible_heat_ratio_high_0_9_to_1_0
+        - high_airflow_rates
+        - variable_speed_fan_control
+        - modulating_cooling_capacity
+        - multiple_compressors_capacity_steps
+        - ec_fan_motors
+      liquid_cooling:
+        - chilled_water_cooling_systems
+        - in_rack_liquid_cooling
+        - rear_door_heat_exchangers_water
+        - direct_to_chip_liquid_cooling
+        - immersion_cooling_systems
+        - two_phase_immersion_cooling
+        - cold_plate_cooling
+        - coolant_distribution_units_cdu
+      free_cooling_data_center:
+        - air_side_economizer_data_center
+        - water_side_economizer_data_center
+        - direct_evaporative_cooling
+        - indirect_evaporative_cooling
+        - adiabatic_cooling_data_center
+        - free_cooling_hours_maximization
+        - ashrae_thermal_guidelines_data_centers
+        - allowable_temperature_range_expansion
+        - class_a1_a2_a3_a4_environments
+      redundancy_reliability:
+        - tier_i_basic_capacity
+        - tier_ii_redundant_components
+        - tier_iii_concurrently_maintainable
+        - tier_iv_fault_tolerant
+        - n_plus_1_redundancy
+        - 2n_redundancy
+        - distributed_redundancy
+        - uptime_institute_tier_classification
+      monitoring_controls_data_center:
+        - building_management_system_integration
+        - data_center_infrastructure_management_dcim
+        - real_time_monitoring
+        - temperature_humidity_sensors_density
+        - airflow_monitoring
+        - power_monitoring
+        - predictive_analytics
+        - computational_fluid_dynamics_modeling
+        - thermal_mapping
+        
+    industrial_process_hvac:
+      - process_cooling_loads
+      - process_heating_requirements
+      - spot_cooling_applications
+      - process_exhaust_ventilation
+      - contaminant_specific_exhaust
+      - dilution_ventilation_industrial
+      - general_ventilation_rates
+      - heat_stress_management
+      - evaporative_cooling_industrial
+      - radiant_cooling_industrial
+      - air_curtains_thermal_barriers
+      - destratification_fans
+      - high_volume_low_speed_fans
+      - compressed_air_systems
+      - compressed_air_dryers
+      - desiccant_dryers_compressed_air
+      - refrigerated_dryers_compressed_air
+      - heat_of_compression_drying
+
+  refrigerant_management_safety:
+    leak_detection:
+      - electronic_leak_detectors
+      - halide_torch_deprecated
+      - soap_bubble_testing
+      - ultrasonic_leak_detection_systems
+      - fluorescent_dye_injection
+      - uv_light_inspection
+      - pressure_testing_nitrogen
+      - standing_pressure_test
+      - pressure_decay_testing
+      - automatic_refrigerant_monitors
+      - area_monitors_machinery_rooms
+      - continuous_monitoring_systems
+      - alarm_setpoints_concentration
+      - tlv_threshold_limit_value
+      - odl_oxygen_deprivation_limit
+      
+    refrigerant_handling:
+      recovery_procedures:
+        - vapor_recovery
+        - liquid_recovery
+        - push_pull_recovery_method
+        - recovery_equipment_types
+        - self_contained_recovery
+        - system_dependent_recovery
+        - oil_less_recovery_compressors
+        - recovery_cylinder_filling
+        - cylinder_fill_limits_80_percent
+        - color_coded_cylinders
+        - dot_certified_cylinders
+      recycling_procedures:
+        - oil_separation_recycling
+        - filter_drier_recycling
+        - air_purge_recycling
+        - recycling_equipment_standards
+        - ahri_740_standard
+      reclamation:
+        - refrigerant_purity_standards
+        - ahri_700_purity_specifications
+        - virgin_refrigerant_equivalent
+        - reclamation_facility_certification
+      charging_procedures:
+        - evacuation_before_charging
+        - deep_vacuum_requirements
+        - 500_micron_vacuum_standard
+        - micron_gauge_usage
+        - triple_evacuation_method
+        - standing_vacuum_test
+        - leak_rate_verification
+        - charging_by_weight
+        - charging_by_superheat
+        - charging_by_subcooling
+        - charging_charts_manufacturer
+        - liquid_charging_procedures
+        - vapor_charging_procedures
+        
+    brazing_soldering:
+      - nitrogen_purge_during_brazing
+      - oxidation_prevention
+      - brazing_alloys_silfos
+      - phos_copper_alloy
+      - silver_brazing_alloy
+      - brazing_temperature_control
+      - torch_brazing_techniques
+      - flux_application_copper_brass
+      - flux_free_brazing_copper
+      - joint_preparation_cleaning
+      - tube_reaming_deburring
+      - proper_tube_insertion_depth
+      - heat_application_uniform
+      - capillary_action_brazing
+      - cooling_after_brazing
+      - pressure_testing_after_brazing
+      
+    safety_practices:
+      - personal_protective_equipment_refrigerants
+      - safety_glasses_face_shields
+      - insulated_gloves
+      - ventilation_requirements_service
+      - confined_space_entry_procedures
+      - oxygen_monitoring_confined_space
+      - refrigerant_exposure_limits
+      - first_aid_refrigerant_exposure
+      - frostbite_treatment
+      - msds_safety_data_sheets
+      - emergency_response_plans
+      - spill_containment_procedures
+      - cylinder_storage_requirements
+      - cylinder_transportation_regulations
+      - dot_hazmat_regulations
+      
+    regulations_compliance:
+      - epa_section_608_certification
+      - type_i_small_appliances
+      - type_ii_high_pressure
+      - type_iii_low_pressure
+      - universal_certification_all_types
+      - epa_section_609_mvac_certification
+      - refrigerant_sales_restrictions
+      - venting_prohibition
+      - record_keeping_requirements
+      - service_records_retention
+      - leak_rate_reporting
+      - annual_leak_inspection_requirements
+      - automatic_leak_detection_requirements
+      - refrigerant_management_program
+      - disposal_requirements_appliances
+      - proper_disposal_certification
+
+  maintenance_management:
+    preventive_maintenance_schedules:
+      monthly_tasks:
+        - filter_inspection_replacement
+        - belt_inspection_tension
+        - thermostat_calibration_check
+        - condensate_drain_inspection
+        - refrigerant_level_check
+        - oil_level_check
+        - control_system_check
+        - alarm_testing
+      quarterly_tasks:
+        - coil_cleaning_inspection
+        - motor_lubrication_required_bearings
+        - electrical_connection_tightening
+        - vibration_analysis
+        - refrigerant_leak_inspection
+        - water_treatment_testing
+        - cooling_tower_inspection
+        - heat_exchanger_inspection
+        - combustion_analysis_furnace_boiler
+      annual_tasks:
+        - comprehensive_system_inspection
+        - motor_testing_insulation_resistance
+        - bearing_replacement_scheduled
+        - refrigerant_charge_verification
+        - control_calibration_sensors_actuators
+        - water_treatment_system_service
+        - fire_damper_inspection_test
+        - smoke_damper_inspection_test
+        - emergency_system_testing
+        - backup_power_testing
+        
+    predictive_maintenance:
+      vibration_analysis_techniques:
+        - accelerometer_measurements
+        - velocity_transducers
+        - displacement_sensors
+        - fft_analysis_frequency_domain
+        - time_waveform_analysis
+        - bearing_defect_frequencies
+        - misalignment_detection
+        - unbalance_detection
+        - resonance_identification
+        - trending_vibration_data
+      thermography_ir_inspection:
+        - infrared_camera_inspection
+        - thermal_imaging_electrical_connections
+        - thermal_imaging_bearings
+        - thermal_imaging_motors
+        - hot_spot_identification
+        - temperature_differential_analysis
+        - emissivity_correction
+        - reflected_temperature_compensation
+      oil_analysis:
+        - lubricant_viscosity_testing
+        - wear_metal_analysis
+        - spectrographic_analysis
+        - particle_count_contamination
+        - water_content_testing
+        - acid_number_tan_testing
+        - oxidation_analysis
+        - additive_depletion
+      ultrasonic_testing_maintenance:
+        - ultrasonic_leak_detection_compressed_air
+        - ultrasonic_leak_detection_steam
+        - bearing_condition_monitoring_ultrasonic
+        - electrical_inspection_corona_arcing
+        - valve_leak_detection_ultrasonic
+      motor_current_analysis:
+        - motor_current_signature_analysis_mcsa
+        - rotor_bar_defects
+        - stator_winding_faults
+        - air_gap_eccentricity
+        - load_analysis
+        - power_factor_monitoring
+      performance_trending:
+        - energy_consumption_trending
+        - efficiency_trending
+        - capacity_trending
+        - temperature_trending
+        - pressure_trending
+        - runtime_trending
+        - cycle_count_trending
+        
+    corrective_maintenance:
+      troubleshooting_procedures:
+        - systematic_fault_diagnosis
+        - symptom_based_troubleshooting
+        - refrigeration_cycle_analysis
+        - electrical_circuit_analysis
+        - control_system_troubleshooting
+        - sensor_verification
+        - actuator_verification
+        - sequence_of_operation_review
+        - manufacturer_troubleshooting_guides
+      failure_analysis:
+        - root_cause_analysis
+        - failure_mode_effects_analysis_fmea
+        - metallurgical_analysis
+        - compressor_failure_analysis
+        - motor_failure_analysis
+        - bearing_failure_analysis
+        - corrosion_analysis
+        - erosion_analysis
+      component_replacement:
+        - compressor_replacement_procedures
+        - motor_replacement
+        - bearing_replacement
+        - belt_replacement_tensioning
+        - filter_drier_replacement
+        - expansion_valve_replacement
+        - sensor_replacement_calibration
+        - actuator_replacement_stroke_adjustment
+      system_repairs:
+        - refrigerant_leak_repair
+        - tube_patching_welding
+        - coil_repair_replacement
+        - duct_repair_sealing
+        - piping_repair
+        - valve_repair_replacement
+        - control_wiring_repair
+        
+    maintenance_documentation:
+      - computerized_maintenance_management_systems_cmms
+      - work_order_management
+      - asset_tracking
+      - preventive_maintenance_scheduling
+      - inventory_management_spare_parts
+      - maintenance_history_records
+      - equipment_nameplate_data
+      - as_built_documentation
+      - warranty_tracking
+      - service_contract_management
+      
+    spare_parts_management:
+      - critical_spare_parts_identification
+      - recommended_spare_parts_list
+      - inventory_optimization
+      - min_max_inventory_levels
+      - just_in_time_inventory
+      - obsolescence_management
+      - interchangeability_cross_reference
+      - vendor_qualification
+      - emergency_parts_procurement
+
+  codes_standards_regulations:
+    international_codes:
+      imc_international_mechanical_code:
+        - scope_application
+        - ventilation_requirements_imc
+        - exhaust_systems_imc
+        - duct_systems_imc
+        - combustion_air_imc
+        - chimneys_vents_imc
+        - specific_appliances_imc
+        - boiler_requirements_imc
+        - refrigeration_requirements_imc
+        - solar_systems_imc
+        - hydronic_piping_imc
+        - fuel_gas_piping_reference
+      ipc_international_plumbing_code:
+        - water_supply_distribution
+        - sanitary_drainage_systems
+        - venting_systems
+        - fixtures_faucets_fixtures
+        - water_heaters_ipc
+        - fuel_gas_piping_ipc
+      iecc_international_energy_conservation:
+        - building_envelope_requirements
+        - mechanical_systems_efficiency
+        - service_water_heating
+        - electrical_power_lighting
+        - commissioning_verification_iecc
+      ifc_international_fire_code:
+        - fire_protection_systems
+        - smoke_control_requirements
+        - emergency_responder_systems
+        - hazardous_materials
+        
+    ashrae_standards_detailed:
+      ashrae_15_safety_refrigeration:
+        - refrigerating_system_classification
+        - machinery_room_requirements
+        - refrigerant_amount_limits
+        - ventilation_machinery_rooms
+        - detection_systems_refrigerant
+        - pressure_relief_protection
+        - pressure_limiting_devices
+      ashrae_55_thermal_comfort:
+        - thermal_comfort_parameters
+        - pmv_predicted_mean_vote
+        - ppd_predicted_percentage_dissatisfied
+        - operative_temperature
+        - clothing_insulation_clo
+        - metabolic_rate_met
+        - air_speed_effects
+        - radiant_temperature_asymmetry
+        - vertical_air_temperature_difference
+        - floor_surface_temperature
+        - adaptive_comfort_model
+      ashrae_62_1_ventilation_commercial:
+        - ventilation_rate_procedure
+        - indoor_air_quality_procedure
+        - outdoor_air_rates_per_person
+        - outdoor_air_rates_per_area
+        - breathing_zone_outdoor_airflow
+        - zone_air_distribution_effectiveness_ez
+        - multiple_zone_systems_ventilation_efficiency
+        - system_outdoor_air_intake
+        - exhaust_airflow_rates
+        - air_classification
+      ashrae_62_2_ventilation_residential:
+        - whole_house_ventilation_rates
+        - local_exhaust_requirements
+        - kitchen_exhaust_residential
+        - bathroom_exhaust_residential
+        - mechanical_ventilation_residential
+        - natural_ventilation_residential
+      ashrae_90_1_energy_standard:
+        - mandatory_provisions
+        - prescriptive_requirements
+        - building_envelope_90_1
+        - hvac_minimum_efficiency
+        - service_water_heating_efficiency
+        - lighting_power_allowances
+        - performance_rating_method
+        - energy_cost_budget_method
+      ashrae_170_healthcare:
+        - ventilation_healthcare_ashrae_170
+        - pressure_relationships_healthcare
+        - air_change_rates_healthcare
+        - filtration_healthcare
+        - temperature_humidity_healthcare
+        - design_parameters_space_type
+      ashrae_189_1_green_buildings:
+        - site_sustainability
+        - water_use_efficiency
+        - energy_efficiency_enhanced
+        - indoor_environmental_quality
+        - materials_resources_impacts
+        - construction_plans_specifications
+        
+    nfpa_standards_detailed:
+      nfpa_90a_air_conditioning:
+        - air_duct_systems_requirements
+        - air_handling_equipment
+        - smoke_dampers_nfpa_90a
+        - fire_dampers_nfpa_90a
+        - ceiling_plenums
+        - duct_penetrations_fire_rated_assemblies
+        - insulation_flame_spread
+      nfpa_90b_warm_air_heating:
+        - residential_warm_air_systems
+        - factory_built_fireplaces
+        - duct_systems_residential
+        - furnace_installation
+      nfpa_96_cooking_equipment:
+        - commercial_cooking_operations
+        - exhaust_hoods_type_i
+        - grease_ducts_construction
+        - fire_extinguishing_systems
+        - makeup_air_provisions
+        - clearances_combustibles
+      nfpa_70_national_electrical_code:
+        - electrical_installations
+        - wiring_methods
+        - equipment_grounding
+        - disconnecting_means
+        - overcurrent_protection
+        - motor_circuits
+        - hvac_equipment_electrical
+        
+    ul_standards_certifications:
+      - ul_listing_certification
+      - ul_1995_heating_cooling_equipment
+      - ul_1812_ducted_heat_recovery_ventilators
+      - ul_723_flame_spread_rating
+      - ul_181_duct_tape_closure_systems
+      - ul_94_flammability_plastics
+      - ul_1995_standard_requirements
+      - ul_recognized_component
+      - ul_classified_products
+      
+    ahri_standards_ratings:
+      - ahri_210_240_unitary_equipment
+      - ahri_310_320_packaged_terminal_equipment
+      - ahri_340_360_commercial_industrial_unitary
+      - ahri_365_commercial_industrial_heat_pumps
+      - ahri_400_liquid_to_liquid_heat_exchangers
+      - ahri_410_forced_circulation_air_cooling
+      - ahri_430_central_station_air_handlers
+      - ahri_440_room_fan_coils
+      - ahri_550_590_chillers
+      - ahri_560_absorption_water_chilling_heating
+      - ahri_700_refrigerant_specifications
+      - ahri_740_performance_recovery_recycling
+      - ahri_certification_programs
+      
+    smacna_standards_guidelines:
+      - hvac_duct_construction_standards_metal_flexible
+      - rectangular_industrial_duct_construction
+      - round_industrial_duct_construction
+      - fibrous_glass_duct_construction
+      - duct_leakage_testing_smacna
+      - hvac_systems_testing_adjusting_balancing
+      - iaq_guidelines_occupied_buildings
+      - architectural_sheet_metal_manual
+      
+    iso_standards:
+      - iso_16890_air_filters_general_ventilation
+      - iso_5167_flow_measurement_orifice_plates
+      - iso_7730_thermal_environment
+      - iso_9001_quality_management
+      - iso_14001_environmental_management
+      - iso_50001_energy_management_systems
+      
+    local_regulations:
+      - state_mechanical_codes
+      - local_amendments_codes
+      - building_permit_requirements
+      - inspection_requirements
+      - contractor_licensing
+      - refrigerant_handling_certification_state
+      - plumbing_code_requirements_local
+      - electrical_code_requirements_local
+
+  emerging_hvac_technologies:
+    advanced_refrigeration:
+      - magnetic_refrigeration_magnetocaloric
+      - thermoacoustic_refrigeration_sound_waves
+      - thermoelastic_cooling_shape_memory
+      - electrochemical_compression_refrigeration
+      - stirling_cycle_refrigeration
+      - pulse_tube_refrigeration
+      - thermotunneling_refrigeration
+      - membrane_based_refrigeration
+      - solid_state_refrigeration_advances
+      
+    heat_pump_innovations:
+      - high_temperature_heat_pumps_industrial
+      - transcritical_co2_heat_pumps
+      - hybrid_heat_pump_systems
+      - air_to_water_heat_pumps_high_efficiency
+      - ground_source_heat_pump_advancements
+      - thermally_driven_heat_pumps
+      - absorption_heat_pumps_industrial
+      - chemical_heat_pumps
+      
+    thermal_storage_advanced:
+      - phase_change_material_advances
+      - microencapsulated_pcm
+      - pcm_integrated_building_materials
+      - thermochemical_storage
+      - sorption_thermal_storage
+      - underground_thermal_energy_storage
+      - aquifer_thermal_energy_storage
+      - borehole_thermal_energy_storage
+      - pit_thermal_energy_storage
+      
+    radiant_systems_innovative:
+      - thermally_active_building_systems_tabs
+      - radiant_cooling_panels_advanced
+      - radiant_chilled_beams
+      - capillary_tube_mats
+      - pcm_enhanced_radiant_systems
+      - low_temperature_heating_systems
+      - radiative_cooling_night_sky
+      
+    desiccant_technology:
+      - advanced_desiccant_materials
+      - metal_organic_frameworks_desiccant
+      - silica_gel_advances
+      - zeolite_improvements
+      - liquid_desiccant_systems
+      - membrane_based_dehumidification
+      - hybrid_desiccant_vapor_compression
+      
+    controls_automation_ai:
+      - artificial_intelligence_hvac_control
+      - machine_learning_optimization
+      - deep_learning_fault_detection
+      - reinforcement_learning_control
+      - neural_network_predictive_control
+      - digital_twin_technology
+      - building_information_modeling_bim_integration
+      - internet_of_things_iot_sensors
+      - edge_computing_hvac
+      - cloud_based_analytics
+      - blockchain_energy_management
+      
+    prefabrication_modular:
+      - prefabricated_mechanical_systems
+      - modular_equipment_rooms
+      - prefabricated_pipe_assemblies
+      - prefabricated_ductwork
+      - off_site_construction
+      - panelized_systems
+      - skid_mounted_equipment
+      - rapid_deployment_systems
+      
+    renewable_integration_advanced:
+      - solar_assisted_heat_pumps
+      - photovoltaic_thermal_hybrid
+      - building_integrated_photovoltaics
+      - solar_desiccant_cooling
+      - geothermal_energy_piles
+      - thermoelectric_waste_heat_recovery
+      - organic_rankine_cycle_integration
+      
+    air_purification_advanced:
+      - photocatalytic_oxidation_advanced
+      - plasma_based_air_purification
+      - electrostatic_precipitation_advanced
+      - nanofiber_filtration
+      - graphene_based_filters
+      - antimicrobial_coatings
+      - self_cleaning_surfaces
+      - reactive_oxygen_species_generation
+      
+    refrigerants_future:
+      - low_gwp_refrigerant_development
+      - natural_refrigerant_expansion
+      - hfo_blends_optimization
+      - drop_in_replacements
+      - not_in_kind_solutions
+      - refrigerant_charge_reduction
+      - refrigerant_containment_technologies
+
+  sustainability_green_building:
+    green_building_rating_systems:
+      leed_certification:
+        - leed_version_4_4_1
+        - energy_atmosphere_credits
+        - indoor_environmental_quality_credits
+        - materials_resources
+        - sustainable_sites
+        - water_efficiency
+        - innovation_design
+        - regional_priority
+        - leed_certified_silver_gold_platinum
+      breeam_building_research_establishment:
+        - breeam_international
+        - breeam_uk
+        - energy_performance_breeam
+        - health_wellbeing_breeam
+        - innovation_breeam
+        - land_use_ecology
+        - materials_breeam
+        - management_breeam
+        - pollution_breeam
+        - transport_breeam
+        - waste_breeam
+        - water_breeam
+      well_building_standard:
+        - air_quality_well
+        - water_quality_well
+        - nourishment_well
+        - light_well
+        - fitness_well
+        - comfort_well
+        - mind_well
+      passive_house_passivhaus:
+        - ultra_low_energy_standard
+        - airtightness_requirements_0_6_ach50
+        - thermal_bridge_free_construction
+        - high_performance_windows
+        - mechanical_ventilation_heat_recovery_required
+        - specific_heating_demand_15_kwh_m2_year
+        - total_primary_energy_120_kwh_m2_year
+        
+    net_zero_energy_buildings:
+      - net_zero_site_energy
+      - net_zero_source_energy
+      - net_zero_energy_costs
+      - net_zero_emissions
+      - highly_efficient_envelope
+      - efficient_hvac_systems_net_zero
+      - renewable_energy_generation_on_site
+      - energy_storage_systems
+      - demand_response_integration
+      - grid_interaction_optimization
+      
+    carbon_reduction_strategies:
+      embodied_carbon:
+        - whole_building_life_cycle_assessment
+        - material_selection_low_carbon
+        - refrigerant_gwp_impact
+        - manufacturing_energy_equipment
+        - transportation_emissions
+        - construction_emissions
+        - end_of_life_considerations
+      operational_carbon:
+        - energy_efficiency_measures
+        - renewable_energy_use
+        - electrification_hvac
+        - heat_pump_adoption
+        - renewable_electricity_grid
+        - carbon_intensity_reduction
+      carbon_sequestration:
+        - carbon_capture_utilization
+        - biogenic_materials
+        - carbon_negative_materials
+        
+    circular_economy_hvac:
+      - design_for_disassembly
+      - modular_equipment_design
+      - material_reuse
+      - equipment_refurbishment
+      - component_recycling
+      - refrigerant_recovery_reuse
+      - extended_product_life
+      - remanufacturing_programs
+      - waste_minimization
+      
+    resilience_adaptation:
+      - climate_resilient_design
+      - extreme_weather_preparation
+      - passive_survivability
+      - backup_systems_redundancy
+      - microgrids_energy_resilience
+      - thermal_comfort_passive_means
+      - water_conservation_resilience
+      - flood_resistant_equipment
+      
+    environmental_product_declarations:
+      - epd_third_party_verification
+      - life_cycle_inventory_analysis
+      - environmental_impact_categories
+      - global_warming_potential_epd
+      - ozone_depletion_potential_epd
+      - acidification_potential
+      - eutrophication_potential
+      - smog_formation_potential
+      - product_category_rules
+
+  computational_methods_research:
+    computational_fluid_dynamics:
+      - navier_stokes_equations_numerical
+      - reynolds_averaged_navier_stokes_rans
+      - large_eddy_simulation_les
+      - direct_numerical_simulation_dns
+      - turbulence_modeling_k_epsilon
+      - turbulence_modeling_k_omega
+      - sst_shear_stress_transport
+      - spalart_allmaras_turbulence
+      - mesh_generation_techniques
+      - structured_mesh_hexahedral
+      - unstructured_mesh_tetrahedral
+      - hybrid_mesh_generation
+      - mesh_refinement_adaptation
+      - boundary_layer_meshing
+      - wall_functions
+      - near_wall_treatment_y_plus
+      - inlet_boundary_conditions
+      - outlet_boundary_conditions
+      - wall_boundary_conditions
+      - symmetry_boundary_conditions
+      - periodic_boundary_conditions
+      - solver_algorithms_simple_piso_pimple
+      - pressure_velocity_coupling
+      - convergence_criteria
+      - residual_monitoring
+      - solution_verification
+      - grid_independence_study
+      - validation_experimental_data
+      - post_processing_visualization
+      - velocity_contours_vectors
+      - pressure_distribution
+      - temperature_distribution
+      - streamlines_pathlines
+      - vorticity_visualization
+      
+    building_energy_simulation:
+      - energyplus_detailed_simulation
+      - doe2_based_simulations
+      - trnsys_transient_simulation
+      - iesve_integrated_simulation
+      - designbuilder_interface
+      - openstudio_platform
+      - thermal_zone_modeling
+      - heat_balance_algorithm
+      - conduction_transfer_functions
+      - transient_heat_conduction
+      - internal_heat_gains_modeling
+      - occupancy_schedules
+      - equipment_schedules
+      - lighting_schedules
+      - infiltration_modeling
+      - air_leakage_modeling
+      - ventilation_modeling
+      - hvac_system_modeling
+      - plant_equipment_modeling
+      - control_strategy_modeling
+      - weather_data_epw_files
+      - typical_meteorological_year_tmy
+      - actual_meteorological_year
+      - climate_change_projections
+      - calibration_measured_data
+      - uncertainty_analysis
+      - sensitivity_analysis
+      - parametric_analysis
+      - optimization_coupled_simulation
+      
+    optimization_techniques:
+      - genetic_algorithms_hvac
+      - particle_swarm_optimization_pso
+      - simulated_annealing
+      - gradient_based_optimization
+      - sequential_quadratic_programming
+      - multi_objective_optimization_moo
+      - pareto_front_identification
+      - nsga_ii_algorithm
+      - design_of_experiments_doe
+      - response_surface_methodology
+      - latin_hypercube_sampling
+      - monte_carlo_simulation
+      - bayesian_optimization
+      - surrogate_modeling
+      - artificial_neural_networks_optimization
+      - fuzzy_optimization
+      
+    heat_transfer_modeling:
+      - finite_difference_methods_heat_transfer
+      - finite_element_methods_heat_transfer
+      - finite_volume_methods
+      - boundary_element_methods
+      - spectral_methods
+      - lattice_boltzmann_method
+      - monte_carlo_radiation
+      - discrete_ordinates_radiation
+      - radiation_view_factor_calculation
+      - conjugate_heat_transfer
+      - fluid_structure_interaction
+      - phase_change_modeling_solidification_melting
+      
+    data_analytics_machine_learning:
+      - supervised_learning_regression
+      - unsupervised_learning_clustering
+      - time_series_analysis_forecasting
+      - arima_models_time_series
+      - lstm_long_short_term_memory_networks
+      - convolutional_neural_networks_cnn
+      - recurrent_neural_networks_rnn
+      - random_forest_algorithms
+      - support_vector_machines
+      - k_means_clustering
+      - principal_component_analysis_pca
+      - anomaly_detection_algorithms
+      - fault_detection_diagnostics_ml
+      - predictive_maintenance_ml
+      - energy_consumption_forecasting
+      - load_prediction_ml
+      - occupancy_prediction_ml
+      - comfort_prediction_models
+      
+    uncertainty_quantification:
+      - monte_carlo_uncertainty
+      - latin_hypercube_sampling_uncertainty
+      - sobol_sensitivity_analysis
+      - variance_based_sensitivity
+      - morris_screening_method
+      - probabilistic_analysis
+      - stochastic_modeling
+      - uncertainty_propagation
+      - interval_analysis
+      - fuzzy_set_theory_uncertainty
+
+  health_safety_hvac:
+    indoor_air_quality_health:
+      - sick_building_syndrome
+      - building_related_illness
+      - volatile_organic_compound_exposure
+      - formaldehyde_exposure_health
+      - carbon_monoxide_poisoning
+      - carbon_dioxide_elevated_levels
+      - radon_exposure_lung_cancer
+      - asbestos_exposure_hvac_systems
+      - legionella_pneumophila
+      - aspergillus_mold_exposure
+      - allergen_exposure_reduction
+      - asthma_triggers_hvac
+      - respiratory_health_ventilation
+      
+    combustion_safety:
+      - combustion_air_adequacy
+      - combustion_appliance_zone
+      - spillage_testing
+      - draft_testing_combustion
+      - carbon_monoxide_detection
+      - flue_gas_venting
+      - backdrafting_prevention
+      - natural_draft_appliances
+      - induced_draft_safety
+      - direct_vent_sealed_combustion
+      - exhaust_vent_termination
+      - clearances_to_combustibles
+      
+    refrigerant_safety_detailed:
+      - refrigerant_toxicity_levels
+      - occupational_exposure_limits_oel
+      - permissible_exposure_limit_pel
+      - threshold_limit_value_tlv_refrigerants
+      - refrigerant_concentration_limits_rcl
+      - oxygen_deprivation_concentration
+      - machinery_room_classification
+      - ventilation_requirements_refrigerant_release
+      - refrigerant_detector_placement
+      - alarm_system_refrigerant
+      - emergency_shutdown_systems
+      - self_contained_breathing_apparatus
+      - evacuation_procedures_refrigerant_release
+      
+    electrical_safety_hvac:
+      - lockout_tagout_loto_procedures
+      - electrical_arc_flash_hazards
+      - personal_protective_equipment_electrical
+      - arc_rated_clothing
+      - voltage_testing_verification
+      - ground_fault_circuit_interrupter_gfci
+      - equipment_grounding
+      - bonding_requirements
+      - electrical_clearances
+      - working_space_requirements
+      - electrical_safety_training
+      
+    fall_protection:
+      - roof_edge_protection
+      - guardrail_systems
+      - personal_fall_arrest_systems
+      - anchor_points_fall_protection
+      - full_body_harness
+      - lifeline_systems
+      - ladder_safety
+      - scaffold_safety
+      - aerial_lift_safety
+      
+    confined_space_entry:
+      - permit_required_confined_spaces
+      - atmospheric_testing_confined_space
+      - oxygen_concentration_monitoring
+      - flammable_gas_monitoring
+      - toxic_gas_monitoring
+      - ventilation_confined_space
+      - entry_permit_system
+      - attendant_requirements
+      - rescue_procedures_confined_space
+      - communication_systems_confined_space
+      
+    hazard_communication:
+      - safety_data_sheets_sds
+      - ghs_globally_harmonized_system
+      - hazard_pictograms
+      - signal_words_danger_warning
+      - hazard_statements
+      - precautionary_statements
+      - chemical_labeling_requirements
+      - employee_training_hazcom
+      
+    personal_protective_equipment_hvac:
+      - safety_glasses_goggles
+      - face_shields_protection
+      - hard_hats_head_protection
+      - hearing_protection_earplugs_muffs
+      - respirators_dust_masks
+      - welding_helmets
+      - leather_gloves_brazing
+      - insulated_gloves_electrical
+      - chemical_resistant_gloves
+      - steel_toe_boots
+      - knee_pads
+      - back_support_belts
+      
+    emergency_procedures_hvac:
+      - fire_emergency_response
+      - fire_extinguisher_types_training
+      - evacuation_routes_procedures
+      - assembly_points
+      - emergency_communication_systems
+      - first_aid_training
+      - spill_response_procedures
+      - material_spill_containment
+      - emergency_equipment_location
+      - incident_reporting_procedures
+
+  economic_analysis_hvac:
+    life_cycle_cost_analysis_lcca:
+      - initial_costs_equipment_installation
+      - operating_costs_energy_water
+      - maintenance_costs_scheduled_unscheduled
+      - replacement_costs_equipment
+      - salvage_value_residual
+      - discount_rate_selection
+      - present_value_analysis
+      - future_value_analysis
+      - net_present_value_npv
+      - equivalent_annual_cost
+      - life_cycle_cost_comparison
+      - sensitivity_analysis_lcca
+      
+    payback_period_analysis:
+      - simple_payback_period
+      - disc

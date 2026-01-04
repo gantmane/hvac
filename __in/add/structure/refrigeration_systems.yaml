@@ -1,0 +1,599 @@
+refrigeration_systems:
+  version: "2.0_enhanced"
+  description: "Comprehensive refrigeration systems taxonomy - all cycles, components, refrigerants, and applications"
+
+  vapor_compression_cycles:
+    basic_cycle:
+      - ideal_vapor_compression
+      - actual_vapor_compression
+      - ts_diagram_analysis
+      - ph_diagram_analysis
+      - lh_diagram_analysis
+      - coefficient_of_performance
+      - refrigeration_effect
+      - compressor_work
+      - condenser_heat_rejection
+      - expansion_process_analysis
+      - subcooling_effects
+      - superheating_effects
+      - cycle_efficiency
+    cycle_modifications:
+      - intercooling_compression
+      - multistage_compression
+      - flash_gas_removal
+      - economizer_cycles
+      - subcooler_cycles
+      - cascade_refrigeration_systems
+      - compound_compression
+      - two_stage_compression
+      - three_stage_compression
+      - flash_tank_intercooling
+      - suction_line_heat_exchanger
+    advanced_cycles:
+      - transcritical_co2_cycles
+      - supercritical_cycles
+      - ejector_expansion_cycles
+      - lorenz_cycle_approximation
+      - zeotropic_mixture_cycles
+      - azeotropic_mixture_cycles
+      - auto_cascade_systems
+      - mixed_refrigerant_systems
+
+  absorption_refrigeration:
+    single_effect:
+      - lithium_bromide_water
+      - ammonia_water
+      - absorption_process
+      - desorption_process
+      - solution_heat_exchanger
+      - weak_solution
+      - strong_solution
+      - crystallization_prevention
+      - cop_absorption_single
+    double_effect:
+      - series_flow_cycle
+      - parallel_flow_cycle
+      - reverse_parallel_flow
+      - high_pressure_generator
+      - low_pressure_generator
+      - cop_double_effect
+    triple_effect:
+      - triple_effect_configuration
+      - cop_triple_effect
+      - high_temperature_requirements
+    components:
+      - generator_design
+      - absorber_design
+      - condenser_design
+      - evaporator_design
+      - solution_pump
+      - refrigerant_pump
+      - heat_recovery_options
+    working_pairs:
+      - libr_h2o_properties
+      - nh3_h2o_properties
+      - libr_concentration_effects
+      - corrosion_inhibitors
+      - additives_performance_enhancers
+
+  adsorption_refrigeration:
+    - silica_gel_water
+    - zeolite_water
+    - activated_carbon_methanol
+    - activated_carbon_ammonia
+    - metal_organic_frameworks
+    - adsorption_isotherms
+    - desorption_isotherms
+    - heat_mass_transfer_adsorbent
+    - cycle_analysis
+    - intermittent_cycles
+    - continuous_cycles
+    - multi_bed_systems
+    - heat_recovery_adsorption
+
+  thermoelectric_cooling:
+    - seebeck_effect
+    - peltier_effect
+    - thomson_effect
+    - figure_of_merit
+    - thermoelectric_materials
+    - bismuth_telluride
+    - lead_telluride
+    - cascade_thermoelectric
+    - thermoelectric_module_design
+    - heat_sink_requirements
+    - cop_thermoelectric
+    - temperature_difference_limits
+
+  magnetic_refrigeration:
+    - magnetocaloric_effect
+    - gadolinium_materials
+    - rare_earth_materials
+    - active_magnetic_regeneration
+    - rotating_magnetic_systems
+    - reciprocating_magnetic_systems
+    - heat_transfer_fluids_magnetic
+
+  gas_refrigeration:
+    - air_cycle_refrigeration
+    - reverse_brayton_cycle
+    - bootstrap_cooling
+    - aircraft_cooling_systems
+    - vortex_tube_refrigeration
+    - ranque_hilsch_effect
+
+  components_detailed:
+    compressors:
+      reciprocating:
+        - single_acting
+        - double_acting
+        - piston_cylinder_arrangement
+        - valves_reed_type
+        - valves_ring_type
+        - clearance_volume
+        - volumetric_efficiency_factors
+        - capacity_control_cylinder_unloading
+        - capacity_control_variable_speed
+        - capacity_control_suction_throttling
+        - lubrication_systems
+        - crankcase_heaters
+        - capacity_modulation
+        - digital_scroll_modulation
+      scroll:
+        - fixed_scroll
+        - orbiting_scroll
+        - scroll_geometry
+        - compression_pockets
+        - discharge_port
+        - compliance_mechanism
+        - axial_compliance
+        - radial_compliance
+        - inverter_driven_scroll
+        - variable_speed_scroll
+      screw:
+        - twin_screw
+        - single_screw
+        - rotor_profiles
+        - male_rotor
+        - female_rotor
+        - capacity_control_slide_valve
+        - capacity_control_vi_control
+        - oil_injection_cooling
+        - oil_separation
+        - economizer_port
+        - part_load_efficiency
+      rotary:
+        - rolling_piston
+        - rotary_vane
+        - eccentric_rotor
+        - discharge_valve
+        - oil_lubrication
+      centrifugal:
+        - impeller_design
+        - diffuser_design
+        - volute_design
+        - inlet_guide_vanes
+        - variable_geometry_diffuser
+        - surge_phenomenon
+        - choke_phenomenon
+        - performance_map
+        - magnetic_bearings
+        - oil_free_operation
+        - stage_configuration
+        - multistage_centrifugal
+      performance_parameters:
+        - isentropic_efficiency
+        - volumetric_efficiency
+        - mechanical_efficiency
+        - compression_ratio_limits
+        - pressure_ratio
+        - displacement_volume
+        - swept_volume
+        - clearance_ratio
+        - re_expansion_loss
+        - valve_losses
+        - friction_losses
+        - motor_efficiency
+        - power_factor
+        - electrical_efficiency
+
+    condensers:
+      air_cooled:
+        - fin_tube_construction
+        - microchannel_construction
+        - fin_types_plate
+        - fin_types_spine
+        - fin_types_louvered
+        - tube_circuits
+        - refrigerant_distribution
+        - face_split_design
+        - fan_arrangements
+        - axial_fan_design
+        - centrifugal_fan_design
+        - variable_speed_fans
+        - head_pressure_control
+        - ambient_temperature_effects
+        - altitude_effects
+        - fouling_air_side
+        - coil_cleaning_methods
+      water_cooled:
+        - shell_and_tube_construction
+        - tube_side_refrigerant
+        - shell_side_water
+        - tube_patterns
+        - baffle_design
+        - tube_material_copper
+        - tube_material_cupronickel
+        - tube_material_titanium
+        - tube_material_stainless_steel
+        - enhanced_tubes
+        - microfin_tubes
+        - tube_fouling
+        - water_treatment_requirements
+        - approach_temperature_design
+        - log_mean_temperature_difference
+        - effectiveness_ntu_method
+      evaporative:
+        - spray_water_system
+        - fill_media
+        - air_flow_patterns
+        - water_circulation_rate
+        - drift_eliminators
+        - wet_bulb_approach
+        - plume_formation
+        - freeze_protection
+        - water_treatment
+        - blowdown_requirements
+        - makeup_water
+      heat_rejection:
+        - condensing_temperature_optimization
+        - subcooling_degree
+        - desuperheating_region
+        - condensing_region
+        - subcooling_region
+        - refrigerant_pressure_drop
+        - heat_transfer_coefficients
+
+    evaporators:
+      direct_expansion:
+        - fin_tube_coils
+        - microchannel_coils
+        - refrigerant_distribution
+        - distributor_types
+        - orifice_distributors
+        - venturi_distributors
+        - nozzle_distributors
+        - circuit_design
+        - interlaced_circuits
+        - face_split_circuits
+        - superheat_control
+        - thermostatic_expansion_valve
+        - electronic_expansion_valve
+        - hunting_phenomenon
+      flooded:
+        - shell_and_tube_flooded
+        - refrigerant_level_control
+        - liquid_recirculation
+        - overfeed_ratio
+        - pump_recirculation
+        - gravity_recirculation
+        - thermosyphon_systems
+        - surge_drum
+        - liquid_refrigerant_pumps
+      plate:
+        - brazed_plate_evaporators
+        - gasketed_plate_evaporators
+        - plate_patterns
+        - chevron_angle
+        - counterflow_arrangement
+        - refrigerant_side_pressure_drop
+        - water_side_pressure_drop
+      coaxial:
+        - tube_in_tube_construction
+        - counterflow_design
+        - enhanced_surfaces
+      falling_film:
+        - vertical_tube_falling_film
+        - horizontal_tube_falling_film
+        - distribution_system
+        - wetting_rate
+        - film_thickness
+      performance:
+        - evaporating_temperature
+        - superheat_degree
+        - approach_temperature
+        - heat_transfer_oil_fouling
+        - air_side_fouling
+        - frost_formation_effects
+        - defrost_cycles
+        - hot_gas_defrost
+        - electric_defrost
+        - water_defrost
+        - reverse_cycle_defrost
+        - off_cycle_defrost
+
+    expansion_devices:
+      thermostatic_expansion_valves:
+        - internally_equalized
+        - externally_equalized
+        - sensing_bulb
+        - thermal_charge_types
+        - liquid_charge
+        - gas_charge
+        - cross_charge
+        - adsorption_charge
+        - mop_maximum_operating_pressure
+        - distributor_nozzles
+        - superheat_setting
+        - valve_capacity_selection
+        - hunting_prevention
+      electronic_expansion_valves:
+        - stepper_motor_valves
+        - pulse_width_modulation
+        - superheat_control_algorithm
+        - pid_control_parameters
+        - fuzzy_logic_control
+        - adaptive_control
+        - sensor_inputs
+        - multiple_evaporator_control
+      capillary_tube:
+        - length_diameter_selection
+        - pressure_drop_calculation
+        - critical_flow
+        - subcritical_flow
+        - refrigerant_charge_effects
+        - slope_installation
+        - suction_line_heat_exchange
+      float_valves:
+        - high_side_float
+        - low_side_float
+        - ball_float
+        - float_chamber
+      short_tube_orifice:
+        - orifice_diameter
+        - length_diameter_ratio
+        - upstream_pressure_effects
+        - downstream_pressure_effects
+
+  refrigerants:
+    classifications:
+      cfc_chlorofluorocarbons:
+        - r11_properties
+        - r12_properties
+        - r113_properties
+        - r114_properties
+        - r115_properties
+        - phase_out_schedule
+        - legacy_systems
+      hcfc_hydrochlorofluorocarbons:
+        - r22_properties
+        - r123_properties
+        - r124_properties
+        - r141b_properties
+        - r142b_properties
+        - phase_down_schedule
+        - retrofit_considerations
+      hfc_hydrofluorocarbons:
+        - r134a_properties
+        - r404a_properties
+        - r407c_properties
+        - r410a_properties
+        - r507a_properties
+        - r32_properties
+        - r125_properties
+        - r143a_properties
+        - r152a_properties
+      hfo_hydrofluoroolefins:
+        - r1234yf_properties
+        - r1234ze_properties
+        - r1233zd_properties
+        - r513a_properties
+        - low_gwp_characteristics
+        - flammability_concerns
+        - safety_classification_a2l
+      natural_refrigerants:
+        hydrocarbons:
+          - r290_propane
+          - r600a_isobutane
+          - r1270_propylene
+          - r170_ethane
+          - flammability_class_a3
+          - charge_limits
+          - safety_standards
+          - leak_detection
+        inorganics:
+          - r717_ammonia_properties
+          - r717_toxicity
+          - r717_applications
+          - r717_safety_requirements
+          - r744_co2_properties
+          - r744_transcritical_operation
+          - r744_cascade_systems
+          - r744_secondary_refrigerant
+          - r718_water_properties
+          - r718_vacuum_operation
+          - r729_air_properties
+      blends:
+        zeotropic_mixtures:
+          - temperature_glide
+          - composition_shift
+          - fractionation_effects
+          - leak_handling
+          - charging_procedures
+          - bubble_point
+          - dew_point
+        azeotropic_mixtures:
+          - constant_boiling_point
+          - composition_stability
+          - r500_properties
+          - r502_properties
+          - r503_properties
+
+    thermophysical_properties:
+      - critical_temperature
+      - critical_pressure
+      - critical_density
+      - critical_volume
+      - triple_point_temperature
+      - triple_point_pressure
+      - normal_boiling_point
+      - freezing_point
+      - molecular_weight
+      - vapor_pressure_curves
+      - liquid_density
+      - vapor_density
+      - specific_heat_liquid
+      - specific_heat_vapor
+      - thermal_conductivity_liquid
+      - thermal_conductivity_vapor
+      - viscosity_liquid
+      - viscosity_vapor
+      - surface_tension
+      - latent_heat_vaporization
+      - sound_velocity
+      - dielectric_constant
+
+    environmental_impact:
+      - ozone_depletion_potential_odp
+      - global_warming_potential_gwp_100yr
+      - atmospheric_lifetime_years
+      - total_equivalent_warming_impact
+      - life_cycle_climate_performance
+      - direct_emissions
+      - indirect_emissions
+      - carbon_footprint
+
+    safety_classifications:
+      - ashrae_34_safety_groups
+      - toxicity_class_a_b
+      - flammability_class_1_2_2l_3
+      - iso_817_classification
+      - occupational_exposure_limits
+      - refrigerant_concentration_limits
+      - oxygen_deprivation_risk
+      - decomposition_products
+      - detector_requirements
+      - ventilation_requirements
+      - refrigerant_room_classification
+
+    lubricant_compatibility:
+      mineral_oils:
+        - naphthenic_base
+        - paraffinic_base
+        - solubility_characteristics
+        - viscosity_grades
+        - pour_point
+        - floc_point
+      synthetic_oils:
+        - alkylbenzene_ab
+        - polyolester_poe
+        - polyalkylene_glycol_pag
+        - polyvinyl_ether_pve
+        - polyalphaolefin_pao
+      miscibility:
+        - refrigerant_oil_miscibility
+        - immiscible_systems
+        - oil_return_mechanisms
+        - oil_separator_requirements
+        - solubility_curves
+        - oil_logging
+
+    regulations_standards:
+      - montreal_protocol_provisions
+      - kigali_amendment_targets
+      - eu_f_gas_regulation
+      - us_epa_snap_program
+      - us_epa_section_608
+      - us_epa_section_609
+      - california_carb_regulations
+      - japan_fgas_law
+      - china_regulations
+      - india_regulations
+      - recovery_requirements
+      - reclamation_standards
+      - purity_standards_ahri_700
+      - labeling_requirements
+      - record_keeping
+      - technician_certification
+
+    handling_procedures:
+      - cylinder_storage
+      - transportation_requirements
+      - charging_methods
+      - liquid_charging
+      - vapor_charging
+      - weighing_procedures
+      - leak_testing_methods
+      - bubble_test
+      - electronic_leak_detection
+      - ultrasonic_leak_detection
+      - halide_torch
+      - fluorescent_dye
+      - nitrogen_pressure_testing
+      - evacuation_procedures
+      - triple_evacuation
+      - deep_vacuum
+      - vacuum_pump_operation
+      - recovery_equipment
+      - push_pull_recovery
+      - liquid_recovery
+      - vapor_recovery
+
+  applications:
+    commercial_refrigeration:
+      - supermarket_systems
+      - convenience_store_refrigeration
+      - display_cases
+      - walk_in_coolers
+      - walk_in_freezers
+      - reach_in_refrigerators
+      - bottle_coolers
+      - ice_machines
+      - beverage_dispensers
+      - distributed_systems
+      - centralized_systems
+      - co2_cascade_commercial
+      - secondary_loop_systems
+      - glycol_secondary_systems
+
+    industrial_refrigeration:
+      - cold_storage_warehouses
+      - food_processing_plants
+      - meat_processing
+      - dairy_processing
+      - beverage_production
+      - pharmaceutical_manufacturing
+      - chemical_processing
+      - ammonia_systems
+      - two_stage_ammonia
+      - liquid_overfeed_systems
+      - direct_expansion_industrial
+      - ice_rinks
+      - concrete_cooling
+
+    transport_refrigeration:
+      - truck_refrigeration
+      - trailer_refrigeration
+      - intermodal_containers
+      - railcar_refrigeration
+      - ship_refrigeration
+      - aircraft_refrigeration
+      - eutectic_plates
+      - cryogenic_cooling
+
+    special_applications:
+      - ice_making_equipment
+      - flake_ice
+      - cube_ice
+      - tube_ice
+      - plate_ice
+      - block_ice
+      - blast_freezing_systems
+      - spiral_freezers
+      - tunnel_freezers
+      - cryogenic_freezing
+      - liquid_nitrogen_freezing
+      - ultra_low_temperature_freezers
+      - medical_freezers
+      - laboratory_refrigeration
+      - vaccine_storage

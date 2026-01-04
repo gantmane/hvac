@@ -1,0 +1,11 @@
+<div class="diagram">
+  {{ if .Get "title" }}
+    <h4 class="diagram-title">{{ .Get "title" }}</h4>
+  {{ end }}
+  <div class="mermaid">
+{{ .Inner | safeHTML }}
+  </div>
+  {{ if .Get "caption" }}
+    <p class="diagram-caption">{{ .Get "caption" }}</p>
+  {{ end }}
+</div>

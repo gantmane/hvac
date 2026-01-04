@@ -1,0 +1,320 @@
+ventilation_indoor_air_quality:
+  version: "2.0_enhanced"
+  description: "Comprehensive ventilation systems and indoor air quality management"
+
+  ventilation_systems:
+    ventilation_principles:
+      - air_change_effectiveness
+      - ventilation_effectiveness
+      - local_air_quality_index
+      - age_of_air
+      - air_change_efficiency
+      - pollutant_removal_effectiveness
+      - contaminant_concentration_decay
+      - mixing_factor
+      - short_circuiting
+      - dead_zones
+
+    natural_ventilation:
+      wind_driven:
+        - surface_pressure_coefficients
+        - wind_pressure_calculation
+        - windward_pressure
+        - leeward_pressure
+        - opening_effective_area
+        - discharge_coefficient
+        - cross_ventilation_design
+        - single_sided_ventilation
+        - airflow_rate_calculation
+        - wind_rose_analysis
+        - prevailing_wind_direction
+      stack_effect:
+        - neutral_pressure_level
+        - stack_pressure_calculation
+        - temperature_difference_driving_force
+        - building_height_effect
+        - chimney_effect
+        - solar_chimney
+        - atrium_ventilation
+        - vertical_shafts
+      hybrid_ventilation:
+        - mixed_mode_ventilation
+        - changeover_strategies
+        - concurrent_operation
+        - zoned_operation
+        - seasonal_changeover
+        - controls_integration
+
+    mechanical_ventilation:
+      supply_systems:
+        - positive_pressure_ventilation
+        - displacement_ventilation
+        - underfloor_air_distribution
+        - stratification_benefits
+        - supply_air_temperature
+        - supply_air_velocity
+        - throw_characteristics
+        - occupied_zone_coverage
+      exhaust_systems:
+        - negative_pressure_ventilation
+        - general_exhaust
+        - local_exhaust
+        - contaminated_exhaust
+        - toilet_exhaust
+        - parking_garage_exhaust
+        - co_detection_control
+      balanced_systems:
+        - supply_exhaust_balance
+        - pressure_relationship
+        - neutral_building_pressure
+        - pressurization_control
+        - building_envelope_tightness
+        - infiltration_reduction
+
+    energy_recovery_ventilation:
+      sensible_heat_recovery:
+        - air_to_air_heat_exchangers
+        - plate_heat_exchangers
+        - counterflow_plate
+        - crossflow_plate
+        - effectiveness_calculation
+        - sensible_effectiveness
+        - temperature_efficiency
+      total_energy_recovery:
+        - enthalpy_wheels
+        - desiccant_wheels
+        - energy_recovery_wheels
+        - latent_effectiveness
+        - total_effectiveness
+        - enthalpy_efficiency
+        - wheel_speed_control
+        - purge_sector
+        - seal_design
+      run_around_coils:
+        - coupled_coil_systems
+        - glycol_solution_loop
+        - pumped_fluid_system
+        - freeze_protection
+        - no_cross_contamination
+      heat_pipes:
+        - passive_heat_transfer
+        - tilt_angle_effects
+        - refrigerant_charge
+        - wickless_thermosyphon
+        - capillary_wick_heat_pipes
+        - effectiveness_range
+      fixed_plate_exchangers:
+        - polymer_plates
+        - aluminum_plates
+        - paper_plates
+        - membrane_technology
+        - moisture_transfer
+        - cross_contamination_prevention
+      performance_factors:
+        - outdoor_air_fraction
+        - exhaust_air_fraction
+        - pressure_drop_supply_side
+        - pressure_drop_exhaust_side
+        - face_velocity
+        - frost_control
+        - defrost_cycles
+        - bypass_dampers
+        - preheat_requirement
+
+    demand_controlled_ventilation:
+      - occupancy_sensors
+      - co2_sensors
+      - co2_setpoint_selection
+      - outdoor_air_co2_concentration
+      - indoor_generation_rate
+      - people_outdoor_air_rate
+      - voc_sensors
+      - particulate_sensors
+      - control_algorithms
+      - proportional_control
+      - reset_logic
+      - minimum_ventilation_rate
+      - energy_savings_potential
+
+    dedicated_outdoor_air_systems:
+      - doas_configuration
+      - 100_percent_outdoor_air
+      - neutral_supply_air
+      - decoupled_ventilation_conditioning
+      - sensible_cooling_separate
+      - latent_cooling_doas
+      - energy_recovery_integration
+      - desiccant_dehumidification
+      - run_around_coil_systems
+      - benefits_humidity_control
+      - benefits_iaq_improvement
+      - parallel_terminal_units
+
+    kitchen_ventilation:
+      - type_i_exhaust_hoods
+      - type_ii_exhaust_hoods
+      - grease_laden_vapor
+      - capture_velocity
+      - hood_design_factors
+      - canopy_hoods
+      - proximity_hoods
+      - backshelf_hoods
+      - pass_over_hoods
+      - eyebrow_hoods
+      - exhaust_flow_rate_calculation
+      - makeup_air_requirements
+      - tempered_makeup_air
+      - direct_fired_makeup_air
+      - heated_makeup_air
+      - transfer_air
+      - grease_duct_requirements
+      - fire_suppression_integration
+      - ul_listed_equipment
+      - nfpa_96_compliance
+      - access_panels_cleaning
+      - variable_speed_exhaust
+      - demand_ventilation_kitchen
+      - optics_based_controls
+      - temperature_based_controls
+
+    laboratory_ventilation:
+      - fume_hood_types
+      - constant_volume_fume_hoods
+      - variable_air_volume_fume_hoods
+      - bypass_fume_hoods
+      - auxiliary_air_fume_hoods
+      - ductless_fume_hoods
+      - face_velocity_requirements
+      - sash_position_monitoring
+      - containment_testing
+      - smoke_testing_annual
+      - face_velocity_measurement
+      - manifold_exhaust_systems
+      - scrubber_systems
+      - perchloric_acid_hoods
+      - radioisotope_hoods
+      - biosafety_cabinets
+      - class_i_bsc
+      - class_ii_type_a1_bsc
+      - class_ii_type_a2_bsc
+      - class_ii_type_b1_bsc
+      - class_ii_type_b2_bsc
+      - class_iii_bsc
+      - clean_benches
+      - laminar_flow_benches
+      - makeup_air_laboratory
+      - lab_pressurization
+      - once_through_air_systems
+
+  indoor_air_quality_management:
+    pollutant_sources:
+      - outdoor_air_pollutants
+      - indoor_generated_pollutants
+      - occupant_generated_pollutants
+      - building_material_emissions
+      - cleaning_product_emissions
+      - furniture_emissions
+      - combustion_byproducts
+      - biological_contaminants
+      - moisture_related_contaminants
+      - radon_infiltration
+
+    particulate_matter_control:
+      filter_types_detailed:
+        - fiberglass_panel_filters
+        - pleated_media_filters
+        - extended_surface_filters
+        - rigid_cell_filters
+        - bag_filters_pocket_filters
+        - hepa_filters_high_efficiency
+        - ulpa_filters_ultra_low_penetration
+        - activated_carbon_filters
+        - electrostatic_filters_washable
+        - electronic_air_cleaners
+        - media_air_cleaners
+      filter_ratings:
+        - merv_minimum_efficiency_reporting
+        - merv_1_to_4_residential
+        - merv_5_to_8_commercial_light
+        - merv_9_to_12_commercial_standard
+        - merv_13_to_16_hospital_cleanroom
+        - hepa_99_97_percent_at_0_3_micron
+        - ulpa_99_999_percent
+        - arrestance_gravimetric
+        - dust_spot_efficiency
+        - fractional_efficiency
+      filter_performance:
+        - initial_pressure_drop
+        - final_pressure_drop
+        - dust_holding_capacity
+        - filter_loading_curve
+        - filter_bypass_leakage
+        - filter_replacement_criteria
+        - pressure_drop_monitoring
+        - differential_pressure_switch
+
+    gaseous_contaminant_control:
+      - activated_carbon_adsorption
+      - granular_activated_carbon
+      - impregnated_carbon
+      - potassium_permanganate_media
+      - photocatalytic_oxidation_pco
+      - ultraviolet_germicidal_irradiation
+      - ozone_generation_concerns
+      - bipolar_ionization
+      - gas_phase_filtration_systems
+      - chemical_media_filters
+
+    biological_contaminant_control:
+      - airborne_bacteria
+      - airborne_viruses
+      - mold_spores_fungi
+      - pollen_allergens
+      - dust_mites
+      - bacterial_endotoxins
+      - mycotoxins
+      - ultraviolet_c_disinfection
+      - uvgi_in_duct_systems
+      - uvgi_upper_room_systems
+      - uvgi_dose_calculation
+      - uv_lamp_maintenance
+      - hepa_filtration_biological
+
+    moisture_control:
+      - relative_humidity_control_30_to_60
+      - condensation_prevention
+      - mold_growth_prevention
+      - humidity_ratio_control
+      - dehumidification_strategies
+      - refrigerant_dehumidification
+      - desiccant_dehumidification
+      - subcooling_reheat
+      - heat_pipe_dehumidification
+      - humidification_strategies
+      - steam_humidification
+      - evaporative_humidification
+      - ultrasonic_humidification
+      - atomizing_humidification
+
+    ventilation_effectiveness:
+      - air_change_per_hour_calculation
+      - outdoor_air_ventilation_rate
+      - ventilation_rate_procedure_ashrae_62_1
+      - breathing_zone_outdoor_airflow
+      - zone_air_distribution_effectiveness
+      - multiple_zone_systems
+      - system_ventilation_efficiency
+      - uncorrected_outdoor_air_intake
+      - occupant_diversity
+
+    source_control_strategies:
+      - low_emitting_materials
+      - greenguard_certification
+      - california_section_01350
+      - voc_content_limits
+      - material_off_gassing_testing
+      - flush_out_procedures
+      - construction_iaq_management
+      - pathway_interruption
+      - local_exhaust_at_source
+      - isolation_containment

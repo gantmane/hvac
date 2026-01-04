@@ -1,0 +1,533 @@
+hvac_fundamentals:
+  version: "2.0_enhanced"
+  description: "Comprehensive HVAC fundamentals - thermodynamics, heat transfer, fluid mechanics, and psychrometrics"
+
+  thermodynamics:
+    laws_principles:
+      - zeroth_law_thermal_equilibrium
+      - first_law_energy_conservation
+      - second_law_entropy_irreversibility
+      - third_law_absolute_zero
+      - clausius_inequality
+      - maxwell_relations
+      - gibbs_free_energy
+      - helmholtz_free_energy
+      - chemical_potential
+      - fugacity_activity
+    cycles:
+      - carnot_cycle_ideal
+      - rankine_cycle_steam
+      - brayton_cycle_gas_turbine
+      - otto_cycle
+      - diesel_cycle
+      - stirling_cycle
+      - ericsson_cycle
+      - vapor_compression_refrigeration
+      - absorption_refrigeration_cycle
+      - adsorption_refrigeration_cycle
+      - gas_refrigeration_cycles
+      - transcritical_cycles
+      - supercritical_cycles
+      - ejector_expansion_cycles
+      - multi_stage_compression
+      - cascade_refrigeration
+      - lorenz_cycle
+      - trilateral_flash_cycle
+    properties:
+      - enthalpy_calculations
+      - entropy_calculations
+      - internal_energy
+      - specific_heat_constant_pressure
+      - specific_heat_constant_volume
+      - heat_capacity_ratio
+      - compressibility_factor
+      - reduced_properties
+      - corresponding_states
+      - virial_equations
+      - equations_of_state
+      - ideal_gas_law
+      - van_der_waals_equation
+      - redlich_kwong_equation
+      - peng_robinson_equation
+      - benedict_webb_rubin_equation
+      - property_tables_charts
+      - mollier_diagrams
+      - ts_diagrams
+      - ph_diagrams
+      - pv_diagrams
+    processes:
+      - isobaric_constant_pressure
+      - isochoric_constant_volume
+      - isothermal_constant_temperature
+      - isentropic_reversible_adiabatic
+      - polytropic_pvn_constant
+      - throttling_isenthalpic
+      - adiabatic_no_heat_transfer
+      - reversible_processes
+      - irreversible_processes
+    exergy_analysis:
+      - availability_analysis
+      - irreversibility_calculation
+      - second_law_efficiency
+      - exergy_destruction
+      - chemical_exergy
+      - physical_exergy
+      - exergetic_efficiency
+      - exergy_balance
+      - grassmann_diagrams
+      - exergoeconomic_analysis
+      - thermoeconomic_optimization
+
+  heat_transfer:
+    conduction:
+      steady_state:
+        - fourier_law_one_dimensional
+        - thermal_conductivity_temperature_dependent
+        - thermal_resistance_concept
+        - composite_walls_series
+        - composite_walls_parallel
+        - multilayer_systems
+        - cylindrical_coordinates
+        - spherical_coordinates
+        - critical_radius_insulation
+        - contact_resistance
+        - thermal_interface_materials
+      transient:
+        - lumped_capacitance_method
+        - biot_number
+        - fourier_number
+        - heisler_charts
+        - semi_infinite_solids
+        - finite_difference_methods
+        - crank_nicolson_method
+        - explicit_methods
+        - implicit_methods
+        - alternating_direction_implicit
+        - finite_element_methods
+        - phase_change_problems
+        - moving_boundary_problems
+        - stefan_problem
+      extended_surfaces:
+        - fin_efficiency
+        - fin_effectiveness
+        - rectangular_fins
+        - cylindrical_fins
+        - triangular_fins
+        - pin_fins
+        - annular_fins
+        - fin_arrays
+        - spine_fins
+        - optimum_fin_spacing
+    convection:
+      forced_convection:
+        external_flow:
+          - flat_plate_laminar
+          - flat_plate_turbulent
+          - flat_plate_mixed
+          - cylinder_crossflow
+          - sphere_flow
+          - tube_banks
+          - noncircular_cylinders
+          - impinging_jets
+          - boundary_layer_development
+          - reynolds_analogy
+          - colburn_analogy
+        internal_flow:
+          - fully_developed_flow
+          - entrance_region
+          - thermal_entrance_length
+          - hydrodynamic_entrance_length
+          - laminar_flow_tubes
+          - turbulent_flow_tubes
+          - heat_transfer_correlations
+          - gnielinski_correlation
+          - dittus_boelter_equation
+          - sieder_tate_correlation
+          - petukhov_correlation
+          - noncircular_ducts
+          - concentric_tube_annulus
+      natural_convection:
+        - grashof_number
+        - rayleigh_number
+        - vertical_plates
+        - horizontal_plates
+        - inclined_plates
+        - vertical_cylinders
+        - horizontal_cylinders
+        - spheres
+        - enclosed_spaces
+        - rectangular_cavities
+        - concentric_cylinders
+        - concentric_spheres
+        - combined_free_forced_convection
+      phase_change:
+        boiling:
+          - pool_boiling_regimes
+          - nucleate_boiling
+          - film_boiling
+          - transition_boiling
+          - critical_heat_flux
+          - leidenfrost_point
+          - rohsenow_correlation
+          - forced_convection_boiling
+          - flow_boiling_regimes
+          - subcooled_boiling
+          - saturated_boiling
+          - critical_quality
+          - dryout_phenomenon
+          - post_dryout_heat_transfer
+        condensation:
+          - film_condensation
+          - dropwise_condensation
+          - nusselt_film_condensation
+          - vertical_surfaces_condensation
+          - horizontal_tubes_condensation
+          - tube_banks_condensation
+          - forced_convection_condensation
+          - condensation_inside_tubes
+          - shear_controlled_condensation
+          - gravity_controlled_condensation
+      correlations:
+        - nusselt_number_definitions
+        - prandtl_number_effects
+        - reynolds_number_regimes
+        - churchill_bernstein_correlation
+        - zhukauskas_correlation
+        - whitaker_correlation
+        - ranz_marshall_correlation
+        - dimensional_analysis
+        - buckingham_pi_theorem
+    radiation:
+      fundamentals:
+        - electromagnetic_spectrum
+        - planck_distribution
+        - wien_displacement_law
+        - stefan_boltzmann_law
+        - blackbody_radiation
+        - graybody_radiation
+        - emissivity_definitions
+        - absorptivity_definitions
+        - reflectivity_definitions
+        - transmissivity_definitions
+        - kirchhoff_law_thermal_radiation
+        - spectral_properties
+        - directional_properties
+        - hemispherical_properties
+      surface_radiation:
+        - radiosity_concept
+        - irradiation_concept
+        - diffuse_surfaces
+        - specular_surfaces
+        - view_factor_algebra
+        - view_factor_relations
+        - crossed_strings_method
+        - contour_integration
+        - hottel_strings_method
+        - view_factor_catalogs
+      enclosure_radiation:
+        - two_surface_enclosures
+        - three_surface_enclosures
+        - n_surface_enclosures
+        - radiation_network_method
+        - matrix_solution_methods
+        - electrical_analogy
+        - gray_diffuse_surfaces
+        - opaque_surfaces
+        - refractory_surfaces
+        - radiation_shields
+        - multiple_shields
+        - shield_optimization
+      gas_radiation:
+        - participating_media
+        - gas_absorption_bands
+        - emissivity_gases
+        - co2_radiation
+        - h2o_vapor_radiation
+        - mixture_radiation
+        - mean_beam_length
+        - hottel_charts
+        - weighted_sum_gray_gases
+      solar_radiation:
+        - solar_constant
+        - extraterrestrial_radiation
+        - atmospheric_attenuation
+        - air_mass_ratio
+        - clearness_index
+        - direct_radiation
+        - diffuse_radiation
+        - global_radiation
+        - solar_angles
+        - declination_angle
+        - hour_angle
+        - zenith_angle
+        - altitude_angle
+        - azimuth_angle
+        - incidence_angle
+        - surface_orientation
+        - shading_calculations
+        - isotropic_sky_model
+        - anisotropic_sky_models
+        - perez_model
+        - hdkr_model
+
+  fluid_mechanics:
+    fluid_properties:
+      - density_compressibility
+      - specific_gravity
+      - specific_weight
+      - viscosity_dynamic
+      - viscosity_kinematic
+      - newtonian_fluids
+      - non_newtonian_fluids
+      - surface_tension
+      - capillarity
+      - vapor_pressure
+      - cavitation_phenomenon
+      - bulk_modulus
+      - coefficient_thermal_expansion
+    fluid_statics:
+      - pressure_definition
+      - pascal_law
+      - hydrostatic_pressure
+      - manometry
+      - barometers
+      - pressure_measurement
+      - forces_on_submerged_surfaces
+      - buoyancy_archimedes
+      - stability_floating_bodies
+      - metacentric_height
+    fluid_kinematics:
+      - lagrangian_description
+      - eulerian_description
+      - streamlines
+      - streaklines
+      - pathlines
+      - velocity_field
+      - acceleration_field
+      - rotation_vorticity
+      - circulation
+      - stream_function
+      - potential_function
+    conservation_equations:
+      - continuity_equation_differential
+      - continuity_equation_integral
+      - momentum_equation_differential
+      - momentum_equation_integral
+      - energy_equation_differential
+      - energy_equation_integral
+      - navier_stokes_equations
+      - euler_equations
+      - bernoulli_equation_derivation
+      - bernoulli_applications
+      - energy_line
+      - hydraulic_grade_line
+    dimensional_analysis:
+      - dimensional_homogeneity
+      - buckingham_pi_theorem
+      - reynolds_number_similarity
+      - froude_number
+      - weber_number
+      - mach_number
+      - euler_number
+      - cavitation_number
+      - model_testing
+      - dynamic_similarity
+      - geometric_similarity
+      - kinematic_similarity
+    pipe_flow:
+      laminar_flow:
+        - hagen_poiseuille_equation
+        - velocity_profile_laminar
+        - pressure_drop_laminar
+        - friction_factor_laminar
+        - entrance_effects
+      turbulent_flow:
+        - reynolds_transition
+        - turbulence_intensity
+        - velocity_profile_turbulent
+        - logarithmic_velocity_profile
+        - power_law_velocity_profile
+        - friction_factor_correlations
+        - colebrook_equation
+        - moody_diagram_usage
+        - swamee_jain_equation
+        - rough_pipe_flow
+        - smooth_pipe_flow
+      minor_losses:
+        - entrance_losses
+        - exit_losses
+        - expansion_losses
+        - contraction_losses
+        - bend_losses
+        - elbow_losses
+        - tee_losses
+        - valve_losses
+        - k_factor_method
+        - equivalent_length_method
+      pipe_networks:
+        - series_pipe_systems
+        - parallel_pipe_systems
+        - branching_pipes
+        - pipe_network_analysis
+        - hardy_cross_method
+        - nodal_analysis
+        - loop_analysis
+    external_flow:
+      - drag_coefficient
+      - lift_coefficient
+      - drag_force_calculation
+      - friction_drag
+      - pressure_drag
+      - form_drag
+      - flow_separation
+      - wake_formation
+      - boundary_layer_separation
+      - adverse_pressure_gradient
+      - streamlining_effects
+      boundary_layer_theory:
+        - boundary_layer_thickness
+        - displacement_thickness
+        - momentum_thickness
+        - energy_thickness
+        - shape_factor
+        - blasius_solution
+        - von_karman_integral
+        - transition_to_turbulence
+        - turbulent_boundary_layer
+        - flat_plate_boundary_layer
+    compressible_flow:
+      - mach_number_regimes
+      - speed_of_sound
+      - stagnation_properties
+      - isentropic_flow
+      - area_mach_number_relation
+      - converging_nozzles
+      - converging_diverging_nozzles
+      - choked_flow
+      - normal_shocks
+      - oblique_shocks
+      - expansion_waves
+      - fanno_flow
+      - rayleigh_flow
+    pumps_fans:
+      pump_types:
+        - centrifugal_pumps
+        - positive_displacement_pumps
+        - axial_flow_pumps
+        - mixed_flow_pumps
+        - regenerative_pumps
+        - jet_pumps
+      pump_performance:
+        - pump_characteristic_curves
+        - head_capacity_curves
+        - efficiency_curves
+        - power_curves
+        - affinity_laws
+        - specific_speed
+        - suction_specific_speed
+        - npsh_required
+        - npsh_available
+        - cavitation_effects
+        - pump_selection_criteria
+        - series_operation
+        - parallel_operation
+      fan_types:
+        - centrifugal_fans
+        - axial_fans
+        - mixed_flow_fans
+        - forward_curved_fans
+        - backward_curved_fans
+        - radial_blade_fans
+        - vaneaxial_fans
+        - tubeaxial_fans
+        - propeller_fans
+      fan_performance:
+        - fan_curves
+        - static_pressure_curves
+        - fan_laws
+        - system_effect_factors
+        - fan_efficiency
+        - fan_power_calculation
+        - sound_power_levels
+
+  psychrometrics:
+    properties:
+      - dry_bulb_temperature_definition
+      - wet_bulb_temperature_definition
+      - thermodynamic_wet_bulb
+      - dew_point_temperature_definition
+      - relative_humidity_definition
+      - absolute_humidity
+      - humidity_ratio_calculation
+      - degree_of_saturation
+      - specific_enthalpy_moist_air
+      - specific_volume_moist_air
+      - partial_pressure_water_vapor
+      - saturation_pressure
+      - vapor_pressure
+    psychrometric_chart:
+      - chart_construction
+      - constant_temperature_lines
+      - constant_enthalpy_lines
+      - constant_relative_humidity_lines
+      - constant_wet_bulb_lines
+      - constant_specific_volume_lines
+      - sensible_heat_ratio_line
+      - comfort_zone_plotting
+      - sea_level_chart
+      - altitude_corrections
+      - barometric_pressure_effects
+    psychrometric_processes:
+      sensible_heating:
+        - heating_coil_processes
+        - constant_humidity_ratio
+        - temperature_rise_calculation
+        - heating_load_determination
+      sensible_cooling:
+        - cooling_without_dehumidification
+        - apparatus_dew_point
+        - coil_bypass_factor
+        - contact_factor
+      cooling_dehumidification:
+        - cooling_coil_performance
+        - latent_cooling
+        - sensible_heat_factor
+        - grand_sensible_heat_factor
+        - effective_surface_temperature
+        - mean_surface_temperature
+      humidification:
+        - steam_injection
+        - water_spray_humidification
+        - evaporative_humidification
+        - adiabatic_saturation
+        - isothermal_humidification
+      dehumidification:
+        - chemical_dehumidification
+        - desiccant_dehumidification
+        - refrigerant_dehumidification
+      mixing:
+        - adiabatic_mixing_two_streams
+        - mass_balance
+        - energy_balance
+        - mixed_air_properties
+      evaporative_cooling:
+        - direct_evaporative_cooling
+        - indirect_evaporative_cooling
+        - two_stage_evaporative
+        - wet_bulb_effectiveness
+        - saturation_effectiveness
+    moisture_content:
+      - condensation_prediction
+      - moisture_migration
+      - vapor_barriers
+      - permeability_calculations
+      - moisture_accumulation
+      - interstitial_condensation
+    psychrometric_calculations:
+      - perfect_gas_mixture_theory
+      - dalton_law_partial_pressures
+      - gibbs_dalton_law
+      - amagat_law
+      - carrier_equation
+      - hyland_wexler_equations
+      - ferrel_equation

@@ -1,0 +1,2377 @@
+---
+# Comprehensive HVAC Website Structure
+# Translated from Russian to English
+# Complete mapping of all 473 articles across all directories
+
+hvac_categories:
+
+  # ========================================
+  # 1. HEATING SYSTEMS
+  # ========================================
+  - category: heating
+    title: "Heating Systems"
+    description: "Comprehensive heating solutions for residential and commercial buildings"
+
+    subcategories:
+
+      # Design & Planning
+      - subcategory: design_planning
+        title: "Design & Planning"
+        topics:
+          - topic: "Heating System Design"
+            description: "Professional design of heating systems for buildings of any size"
+            keywords: ["project", "design", "planning", "technical specifications"]
+
+          - topic: "Heating System Calculation"
+            description: "Heat load and equipment sizing calculations"
+
+          - topic: "Initial Data Requirements"
+            description: "Required data for heating system design project"
+            items:
+              - "Total heated area"
+              - "Detailed floor plans with sections"
+              - "Climate conditions"
+              - "Building orientation (cardinal directions)"
+              - "Floor construction materials and type"
+              - "Wall materials and thermal conductivity"
+              - "Exterior door construction"
+              - "Roof construction and geometry"
+              - "Window glazing type"
+              - "Radiator specifications"
+              - "Underfloor heating materials"
+              - "Pipeline materials"
+              - "Temperature requirements by room"
+
+          - topic: "Project Documentation"
+            description: "Complete heating system project documentation"
+            components:
+              - "Equipment layout schematics"
+              - "Heating system diagrams"
+              - "Service zones and dimensions"
+              - "Boiler and thermal unit piping"
+              - "Explanatory notes"
+
+          - topic: "Engineering Calculations"
+            items:
+              - "Thermal engineering calculations"
+              - "Hydraulic calculations"
+              - "Heat loss calculations"
+              - "Equipment specifications"
+
+      # System Types
+      - subcategory: system_types
+        title: "System Types & Configurations"
+        topics:
+          - topic: "Two-Pipe Distribution Systems"
+            description: "Two-pipe water heating distribution systems"
+
+          - topic: "Single vs Multi-Circuit Systems"
+            description: "Heating systems with one or multiple circuits"
+
+          - topic: "Autonomous Heating Systems"
+            description: "Independent heating solutions for buildings"
+
+          - topic: "Radiant Floor Heating"
+            description: "Underfloor heating systems and installation"
+
+          - topic: "Private House Heating Systems"
+            description: "Various heating system types for residential homes"
+
+          - topic: "Heating System Testing"
+            description: "Pressure testing and commissioning procedures"
+
+      # Heating Equipment
+      - subcategory: boilers_heating_units
+        title: "Boilers & Heating Units"
+        topics:
+          - topic: "Heating Boilers Overview"
+            description: "Types and classification of heating boilers"
+
+          - topic: "Gas Boilers"
+            description: "Gas-powered heating solutions"
+            subtopics:
+              - "Floor-standing models"
+              - "Wall-mounted models"
+              - "Natural draft systems"
+              - "Forced draft systems"
+              - "Viessmann gas boilers"
+
+          - topic: "Electric Boilers"
+            description: "Electric heating boilers and systems"
+
+          - topic: "Liquid Fuel Boilers"
+            description: "Oil and diesel fuel heating boilers"
+
+          - topic: "Solid Fuel Boilers"
+            description: "Wood, coal, and pellet boilers"
+
+          - topic: "Boiler Room Equipment"
+            description: "Complete boiler room solutions"
+
+      # Heating Devices
+      - subcategory: heating_devices
+        title: "Heating Devices & Radiators"
+        topics:
+          - topic: "Radiators"
+            description: "Heating radiators and batteries"
+            types:
+              - "Panel radiators"
+              - "Sectional radiators"
+              - "Designer radiators"
+              - "Kermi steel radiators comparison"
+
+          - topic: "Convectors"
+            description: "Water and electric convector heaters"
+            types:
+              - "Kermi convectors"
+              - "Floor convectors"
+              - "Wall-mounted convectors"
+
+          - topic: "Electric Heaters"
+            description: "Portable and fixed electric heating devices"
+
+          - topic: "Heating Panels"
+            description: "Wall-mounted heating panels"
+
+          - topic: "Troubleshooting"
+            description: "If heating device doesn't heat - diagnostics"
+
+      # Underfloor Heating
+      - subcategory: underfloor_heating
+        title: "Underfloor Heating Systems"
+        topics:
+          - topic: "Water-Based Floor Heating"
+            description: "Hydronic radiant floor heating"
+            components:
+              - "Operating principle and advantages"
+              - "Heating layer structure (pie)"
+              - "Room preparation"
+              - "Vapor barrier layer"
+              - "Expansion tape"
+              - "Thermal insulation boards"
+              - "Heating pipes"
+              - "Pipe laying methods"
+              - "Pressure testing"
+              - "Concrete system"
+              - "Deformation joints"
+              - "Concrete screed"
+              - "System startup"
+              - "Lightweight dry system"
+
+          - topic: "Kermi Floor Heating System"
+            description: "Complete Kermi underfloor heating solutions"
+
+          - topic: "Pipe Materials"
+            types:
+              - "Cross-linked polyethylene (PEX)"
+              - "PE-RT polyethylene"
+              - "Non-cross-linked polyethylene"
+              - "Cross-linked polyethylene comparison"
+
+      # Components & Accessories
+      - subcategory: components_accessories
+        title: "Components & Accessories"
+        topics:
+          - topic: "Thermostatic Valves"
+            description: "Temperature control valves for heating systems"
+
+          - topic: "Shut-off Valves"
+            description: "Isolation and control valves"
+
+          - topic: "Balancing Valves"
+            description: "Hydraulic balancing equipment"
+
+          - topic: "Hydraulic Separators"
+            description: "Hydraulic separation devices"
+
+          - topic: "Pump Groups"
+            description: "Circulation pump assemblies"
+
+          - topic: "Safety Devices"
+            description: "Pressure relief and safety valves"
+
+          - topic: "Expansion Tanks"
+            description: "Heating system expansion vessels"
+
+          - topic: "Air & Sludge Separators"
+            description: "Air elimination and dirt separation systems"
+
+          - topic: "Water Heaters"
+            description: "Domestic hot water heaters and boilers"
+
+          - topic: "Buffer Storage Tanks"
+            description: "Thermal storage accumulators"
+
+          - topic: "Piping Systems"
+            description: "Pipes and fittings for heating"
+            types:
+              - "Compression fittings"
+              - "Press fittings"
+              - "Welded connections"
+
+          - topic: "Solar Heating Systems"
+            description: "Solar thermal collectors for heating"
+
+      # Specific Solutions
+      - subcategory: specific_solutions
+        title: "Specific Heating Solutions"
+        topics:
+          - topic: "Country House Heating"
+            description: "Heating systems for cottages and country homes"
+
+          - topic: "Wooden House Heating"
+            description: "Special considerations for timber construction"
+
+          - topic: "Construction Phase Heating"
+            description: "Temporary and permanent heating during construction"
+
+          - topic: "DIY Heating Systems"
+            description: "Self-installation heating guides"
+
+          - topic: "Private House Heating"
+            description: "Residential heating solutions"
+            types:
+              - "Water-based systems"
+              - "Air heating"
+              - "Gas systems"
+              - "Electric systems"
+              - "Infrared film floors"
+              - "Geothermal systems"
+              - "Solar collectors"
+
+  # ========================================
+  # 2. VENTILATION SYSTEMS
+  # ========================================
+  - category: ventilation
+    title: "Ventilation Systems"
+    description: "Complete ventilation solutions for healthy indoor air quality"
+
+    subcategories:
+
+      # System Types
+      - subcategory: system_types
+        title: "Ventilation System Types"
+        topics:
+          - topic: "Natural Ventilation"
+            description: "Gravity-based air exchange systems"
+
+          - topic: "Mechanical Ventilation"
+            description: "Fan-powered ventilation systems"
+
+          - topic: "Exhaust Ventilation"
+            description: "Negative pressure ventilation"
+            types:
+              - "General exhaust"
+              - "Local exhaust"
+              - "Kitchen hoods"
+
+          - topic: "Supply Ventilation"
+            description: "Positive pressure fresh air supply"
+            applications:
+              - "Residential applications"
+              - "Commercial applications"
+
+          - topic: "Balanced Supply-Exhaust Ventilation"
+            description: "Combined supply and exhaust systems"
+            features:
+              - "With heat recovery"
+              - "Without heat recovery"
+
+          - topic: "Ducted vs Ductless Systems"
+            description: "Channel and channelless ventilation"
+
+          - topic: "Aspiration Systems"
+            description: "Industrial dust and fume extraction"
+
+      # Design & Planning
+      - subcategory: design_planning
+        title: "Design & Planning"
+        topics:
+          - topic: "Ventilation System Design"
+            description: "Professional ventilation engineering"
+
+          - topic: "Apartment Ventilation Design"
+            description: "Special considerations for multi-unit buildings"
+
+          - topic: "Cottage Ventilation Project"
+            description: "Why you need professional ventilation design"
+
+          - topic: "Private House Ventilation Design"
+            description: "Design stages for residential ventilation"
+
+          - topic: "Industrial Ventilation Project"
+            description: "Commercial and industrial ventilation solutions"
+
+          - topic: "Ventilation Calculations"
+            items:
+              - "Air exchange rate determination"
+              - "Equipment selection"
+              - "Duct sizing"
+              - "Pressure drop calculations"
+              - "Aerodynamic calculations for ductwork"
+              - "Air velocity calculations in round and rectangular ducts"
+
+          - topic: "Design Considerations"
+            items:
+              - "Building codes and standards"
+              - "Room functions and occupancy"
+              - "Noise level requirements"
+              - "Energy efficiency"
+              - "Integration with other systems"
+
+      # Equipment
+      - subcategory: equipment
+        title: "Ventilation Equipment"
+        topics:
+          - topic: "Residential Exhaust Fans"
+            description: "Bathroom and kitchen exhaust fans"
+
+          - topic: "Duct Fans"
+            description: "In-line ventilation fans"
+            types:
+              - "Centrifugal duct fans"
+              - "Axial duct fans"
+              - "Mixed flow fans"
+
+          - topic: "Heat Recovery Ventilators (HRV)"
+            description: "Energy recovery ventilation systems"
+            features:
+              - "Operating principle"
+              - "Types of heat exchangers"
+              - "Efficiency comparison"
+
+          - topic: "Supply Air Units"
+            description: "Complete air handling units"
+            types:
+              - "Gold series E units"
+
+          - topic: "Exhaust Units"
+            description: "Exhaust air handling equipment"
+
+          - topic: "Standalone Ventilators"
+            types:
+              - "Floor fans"
+              - "Desk fans"
+              - "Ceiling fans"
+              - "Window fans"
+              - "Wall-mounted fans"
+
+          - topic: "Industrial Fans"
+            description: "Heavy-duty ventilation equipment"
+
+          - topic: "Clean Room Systems"
+            description: "Specialized ventilation for controlled environments"
+
+      # Air Treatment
+      - subcategory: air_treatment
+        title: "Air Filtration & Treatment"
+        topics:
+          - topic: "Air Filters"
+            description: "Mechanical and electronic air filtration"
+            types:
+              - "Dust filters"
+              - "HEPA filters"
+              - "Activated carbon filters"
+              - "Electrostatic filters"
+
+          - topic: "Ionizing Air Purifiers"
+            description: "Air ionization systems"
+
+          - topic: "Adsorption Carbon Filters"
+            description: "Odor and gas removal"
+
+          - topic: "Photocatalytic Purifiers"
+            description: "UV-based air purification"
+
+          - topic: "Harmful Particle Elimination"
+            description: "Advanced air cleaning technologies"
+
+      # Components
+      - subcategory: components
+        title: "Ventilation Components"
+        topics:
+          - topic: "Air Heaters (Calorifers)"
+            types:
+              - "Electric heaters"
+              - "Water heaters"
+
+          - topic: "Cooling Coils"
+            description: "Air cooling sections"
+
+          - topic: "Sound Attenuators"
+            description: "Noise reduction equipment"
+
+          - topic: "Air Diffusers & Grilles"
+            description: "Air distribution devices"
+            types:
+              - "Supply diffusers"
+              - "Exhaust grilles"
+              - "Linear diffusers"
+              - "Swirl diffusers"
+
+          - topic: "Ductwork Installation Details"
+            description: "Duct mounting brackets and attachment guidelines"
+
+      # Specific Applications
+      - subcategory: specific_applications
+        title: "Specific Applications"
+        topics:
+          - topic: "Building Ventilation"
+            description: "Commercial building ventilation"
+
+          - topic: "Cottage Ventilation"
+            description: "Residential home ventilation"
+
+          - topic: "Intelligent Ventilation"
+            description: "Smart, automated ventilation systems"
+
+          - topic: "Ventilation System Operation"
+            description: "System maintenance and operation guidelines"
+
+  # ========================================
+  # 3. AIR CONDITIONING
+  # ========================================
+  - category: air_conditioning
+    title: "Air Conditioning Systems"
+    description: "Complete cooling and climate control solutions"
+
+    subcategories:
+
+      # System Types
+      - subcategory: system_types
+        title: "Air Conditioning System Types"
+        topics:
+          - topic: "Split Systems"
+            description: "Wall-mounted air conditioners"
+
+          - topic: "Multi-Split Systems"
+            description: "Multiple indoor units, one outdoor unit"
+
+          - topic: "Semi-Commercial Systems"
+            types:
+              - "Cassette type"
+              - "Duct type (channel)"
+              - "Floor-ceiling type"
+
+          - topic: "VRV/VRF Systems"
+            description: "Variable refrigerant flow systems"
+
+          - topic: "Chillers"
+            description: "Central chilled water systems"
+
+          - topic: "Fan Coil Units"
+            description: "Chilled water air handlers"
+
+          - topic: "Central Air Conditioners"
+            description: "Large-scale centralized cooling systems"
+
+          - topic: "Window Air Conditioners"
+            description: "Self-contained window units"
+
+          - topic: "Mobile Air Conditioners"
+            description: "Portable cooling units (mobile monoblocks)"
+
+          - topic: "Inverter Air Conditioners"
+            description: "Variable speed compressor technology"
+
+          - topic: "Household Air Conditioners"
+            description: "Residential AC systems"
+
+      # Design & Installation
+      - subcategory: design_installation
+        title: "Design & Installation"
+        topics:
+          - topic: "Air Conditioning System Design"
+            description: "Professional AC system engineering"
+
+          - topic: "Cooling Load Calculation"
+            description: "Heat gain analysis and sizing"
+
+          - topic: "Equipment Selection"
+            description: "Choosing the right AC equipment"
+
+          - topic: "Installation Requirements"
+            items:
+              - "Location requirements"
+              - "Electrical requirements"
+              - "Refrigerant piping"
+              - "Condensate drainage"
+              - "Noise considerations"
+
+          - topic: "Technical Specifications"
+            items:
+              - "Building plans"
+              - "Room functions"
+              - "Occupancy levels"
+              - "Heat sources"
+              - "Outdoor climate data"
+
+      # Related Systems
+      - subcategory: related_systems
+        title: "Related Systems"
+        topics:
+          - topic: "Heat Pumps"
+            description: "Heating and cooling heat pump systems"
+            types:
+              - "Air-to-air heat pumps"
+              - "Air-to-water heat pumps"
+              - "Ground source heat pumps"
+
+          - topic: "Hydraulic Modules"
+            description: "Water distribution modules for heat pumps"
+
+      # Air Treatment
+      - subcategory: air_treatment
+        title: "Air Quality Control"
+        topics:
+          - topic: "Dehumidifiers"
+            description: "Humidity control and moisture removal"
+            applications:
+              - "Residential dehumidification"
+              - "Commercial dehumidification"
+              - "Swimming pool dehumidifiers"
+
+          - topic: "Humidifiers"
+            description: "Air humidification systems"
+            types:
+              - "Adiabatic humidification"
+              - "Isothermal humidification"
+              - "Steam humidifiers"
+              - "Ultrasonic humidifiers"
+
+      # Guides & Resources
+      - subcategory: guides_resources
+        title: "Guides & Resources"
+        topics:
+          - topic: "How to Choose an Air Conditioner"
+            description: "Complete guide to AC selection"
+            sections:
+              - "All companies do this"
+              - "Cartoons for adults"
+              - "Reliable channels"
+              - "How to select air conditioners"
+              - "For math lovers (capacity calculation)"
+              - "Noise considerations"
+              - "Ventilation possibilities with AC"
+              - "Housing considerations"
+              - "Important details"
+
+          - topic: "Home Air Conditioner Selection"
+            description: "Residential AC buying guide"
+
+          - topic: "Air Conditioning Principles"
+            description: "How air conditioning works"
+
+          - topic: "Comfort vs Precision Conditioning"
+            description: "Different types of conditioning applications"
+
+          - topic: "Performance Classification"
+            types:
+              - "Household units (up to 10 kW)"
+              - "Semi-commercial (10-30 kW)"
+              - "Commercial & industrial (30+ kW)"
+
+  # ========================================
+  # 4. AUTOMATION & CONTROLS
+  # ========================================
+  - category: automation
+    title: "Automation & Control Systems"
+    description: "Smart building automation and climate control"
+
+    subcategories:
+
+      - subcategory: control_devices
+        title: "Control Devices"
+        topics:
+          - topic: "Sensors"
+            types:
+              - "Temperature sensors"
+              - "Humidity sensors"
+              - "CO2 sensors"
+              - "Pressure sensors"
+              - "Flow sensors"
+
+          - topic: "Thermostats"
+            types:
+              - "Room thermostats"
+              - "Programmable thermostats"
+              - "Smart thermostats"
+              - "Wireless thermostats"
+
+          - topic: "Controllers"
+            types:
+              - "HVAC controllers"
+              - "Building automation controllers"
+              - "Zone controllers"
+
+          - topic: "PID Controllers for Practitioners"
+            description: "Practical guide to PID control systems"
+
+          - topic: "Servo Actuators"
+            description: "Motorized valve and damper actuators"
+
+          - topic: "Air Dampers"
+            types:
+              - "Volume control dampers"
+              - "Fire dampers"
+              - "Backdraft dampers"
+
+          - topic: "Speed Controllers"
+            description: "Variable frequency drives for fans and pumps"
+
+          - topic: "Mixing Assemblies"
+            description: "Temperature mixing valves and manifolds"
+
+          - topic: "Airflow Control"
+            description: "VAV systems and constant volume controls"
+
+      - subcategory: integration
+        title: "System Integration"
+        topics:
+          - topic: "Smart Home Integration"
+            description: "Integration with smart home systems"
+
+          - topic: "Building Management Systems (BMS)"
+            description: "Centralized building control"
+
+          - topic: "Remote Monitoring"
+            description: "Web and mobile app control"
+
+          - topic: "Home Automation Functions"
+            description: "Possible automation functions for private homes and apartments"
+
+  # ========================================
+  # 5. SERVICES
+  # ========================================
+  - category: services
+    title: "Professional Services"
+    description: "Complete HVAC services from design to maintenance"
+
+    subcategories:
+
+      # Design Services
+      - subcategory: design_engineering
+        title: "Design & Engineering"
+        topics:
+          - topic: "HVAC Turnkey Solutions"
+            description: "Complete heating, ventilation, and air conditioning systems"
+            stages:
+              - "Consultation and requirements discussion"
+              - "Design brief preparation"
+              - "Contract agreement"
+              - "Initial data collection"
+              - "Design stage A (LOD 200)"
+              - "Site survey"
+              - "Coordination with other trades"
+              - "Procurement"
+              - "Design stage C (LOD 300-350)"
+              - "Installation"
+              - "As-built documentation (LOD 350)"
+              - "Commissioning and customization"
+              - "System handover and testing"
+              - "Service and maintenance"
+
+          - topic: "BIM Design (Building Information Modeling)"
+            description: "3D HVAC system modeling"
+            advantages:
+              - "Clash detection"
+              - "Accurate material takeoffs"
+              - "Visualization"
+              - "Coordination"
+              - "As-built documentation"
+            benefits_over_cad:
+              - "3D visualization vs 2D drawings"
+              - "Automated conflict detection"
+              - "Parametric components"
+              - "Integrated calculations"
+            topics:
+              - "BIM regulatory documentation"
+              - "Revit markup by filter"
+              - "Main design phase guidance"
+
+          - topic: "CFD Modeling"
+            description: "Computational fluid dynamics simulation"
+            applications:
+              - "Airflow visualization"
+              - "Temperature distribution"
+              - "Smoke management"
+              - "Thermal comfort analysis"
+
+          - topic: "HVAC Calculations"
+            types:
+              - "Heat load calculations"
+              - "Cooling load calculations"
+              - "Ventilation calculations"
+              - "Hydraulic calculations"
+              - "Aerodynamic calculations"
+              - "Energy modeling"
+
+          - topic: "Project Documentation Audit"
+            description: "Third-party design review"
+            stages:
+              - "Document review"
+              - "Code compliance check"
+              - "Calculation verification"
+              - "Equipment selection review"
+              - "Report preparation"
+
+          - topic: "Design Brief Preparation"
+            description: "Technical specifications development"
+
+          - topic: "Water Supply & Drainage Design"
+            description: "Plumbing system design services"
+
+          - topic: "House HVAC Design Projects"
+            description: "Complete house design with HVAC integration"
+
+      # Installation Services
+      - subcategory: installation
+        title: "Installation & Construction"
+        topics:
+          - topic: "Heating System Installation"
+            stages:
+              - "Site preparation"
+              - "Equipment delivery"
+              - "Boiler installation"
+              - "Piping installation"
+              - "Radiator mounting"
+              - "Underfloor heating installation"
+              - "System filling and testing"
+              - "Commissioning"
+
+          - topic: "Boiler Room Installation"
+            requirements:
+              - "Room requirements"
+              - "Room preparation"
+              - "Equipment installation"
+              - "Boiler piping"
+              - "Safety systems"
+              - "Testing and startup"
+
+          - topic: "Gas Boiler Installation"
+            topics:
+              - "Wall-mounted boiler installation"
+              - "Floor-standing boiler installation"
+              - "Connection to heating circuit"
+              - "Gas connection"
+              - "Flue installation"
+
+          - topic: "Boiler Installation General"
+            description: "Universal boiler installation service"
+
+          - topic: "Ventilation System Installation"
+            stages:
+              - "Work schedule preparation"
+              - "Room preparation"
+              - "Ductwork installation"
+              - "Equipment installation"
+              - "Automation installation"
+              - "Commissioning"
+
+          - topic: "Air Conditioning Installation"
+            types:
+              - "Split system installation"
+              - "VRV/VRF installation"
+              - "Chiller installation"
+
+      # Commissioning Services
+      - subcategory: commissioning
+        title: "Commissioning & Testing"
+        topics:
+          - topic: "Commissioning Services"
+            description: "System startup and testing"
+            tasks:
+              - "Equipment inspection"
+              - "Functionality testing"
+              - "Performance verification"
+              - "Safety checks"
+              - "Documentation"
+
+          - topic: "Heating System Commissioning"
+            description: "Heating startup and balancing"
+
+          - topic: "Boiler Commissioning"
+            description: "Boiler testing and tuning"
+
+          - topic: "Gas Boiler Commissioning"
+            documentation:
+              - "Commissioning report"
+              - "Test protocols"
+              - "Warranty activation"
+
+          - topic: "Boiler Automation Tuning"
+            systems:
+              - "Safety automation"
+              - "Regulation automation"
+              - "Control optimization"
+
+          - topic: "Automation System Commissioning"
+            description: "Control system setup and tuning"
+
+          - topic: "Thermal Network Commissioning"
+            description: "District heating connection startup"
+
+          - topic: "Ventilation System Commissioning"
+            stages:
+              - "Duct network inspection"
+              - "Adjustment and balancing"
+              - "Airflow measurements"
+              - "Noise level testing"
+
+          - topic: "Air Conditioning Commissioning"
+            description: "AC system startup and testing"
+
+          - topic: "Hydraulic Balancing"
+            description: "Heating system flow balancing"
+
+          - topic: "Aerodynamic Balancing"
+            description: "Ventilation system balancing"
+
+          - topic: "System Passportization"
+            description: "As-built documentation and certification"
+
+      # Maintenance Services
+      - subcategory: maintenance_repair
+        title: "Maintenance & Repair"
+        topics:
+          - topic: "Technical Maintenance"
+            description: "Preventive and corrective maintenance"
+
+          - topic: "Heating System Service"
+            services:
+              - "Boiler servicing"
+              - "Pump replacement"
+              - "Leak repairs"
+              - "System flushing"
+              - "Expansion tank replacement"
+
+          - topic: "Ventilation System Service"
+            services:
+              - "Filter replacement"
+              - "Fan motor service"
+              - "Duct cleaning"
+              - "Damper adjustment"
+
+          - topic: "Air Conditioner Service"
+            services:
+              - "Filter cleaning"
+              - "Refrigerant charging"
+              - "Drain cleaning"
+              - "Coil cleaning"
+              - "Performance check"
+
+          - topic: "Heating System Repair"
+            description: "Emergency and scheduled repairs"
+
+          - topic: "Service Call"
+            description: "On-demand specialist visit"
+
+          - topic: "Property Operation Services"
+            description: "Complete facility management"
+
+      # Consulting Services
+      - subcategory: consulting
+        title: "Consulting Services"
+        topics:
+          - topic: "Construction Consulting"
+            description: "Expert advice during construction"
+            stages:
+              - "Concept development"
+              - "Design review"
+              - "Contractor selection"
+              - "Construction supervision"
+              - "Quality control"
+
+          - topic: "Engineering Consulting Services"
+            description: "Technical consulting and support"
+            components:
+              - "Technical expertise"
+              - "Design optimization"
+              - "Value engineering"
+            stages:
+              - "Problem identification"
+              - "Solution development"
+              - "Implementation support"
+
+          - topic: "Engineering Services"
+            types:
+              - "Design engineering"
+              - "Supervision"
+              - "Technical support"
+            success_factors:
+              - "Experience"
+              - "Expertise"
+              - "Quality"
+
+          - topic: "Client Functions Service"
+            description: "Acting as owner's representative"
+
+      # Other Services
+      - subcategory: other_services
+        title: "Other Services"
+        topics:
+          - topic: "Cost Reduction Strategies"
+            description: "Energy efficiency and cost optimization"
+
+          - topic: "Comprehensive Design Pricing"
+            description: "Design service rates and packages"
+
+          - topic: "House Design Services"
+            types:
+              - "Standard vs custom projects"
+              - "Sketch design stage"
+              - "Construction documentation"
+              - "Construction process supervision"
+
+          - topic: "Construction Services"
+            description: "General construction in Belarus"
+
+          - topic: "Information Technology"
+            description: "IT solutions for HVAC systems"
+
+          - topic: "HVAC Design Engineer Services"
+            description: "Professional engineering services"
+
+      # Thermal Systems
+      - subcategory: thermal_systems
+        title: "Specialized Thermal Systems"
+        topics:
+          - topic: "Boiler Room Turnkey"
+            description: "Complete boiler room solutions"
+            problems_solved:
+              - "Centralized solution"
+              - "Reliability"
+              - "Efficiency"
+            advantages:
+              - "Single contractor"
+              - "Warranty"
+              - "Faster completion"
+
+          - topic: "Boiler Water Piping"
+            description: "Boiler room hydraulic design"
+            schemes:
+              - "Primary-secondary piping"
+              - "Direct piping"
+              - "Hydraulic separator schemes"
+            stages:
+              - "Design"
+              - "Installation"
+              - "Testing"
+
+          - topic: "Thermal Substation Design (ITP)"
+            description: "Heat exchanger station engineering"
+            components:
+              - "Heat exchangers"
+              - "Circulation pumps"
+              - "Control valves"
+              - "Metering equipment"
+            factors:
+              - "Load requirements"
+              - "Pressure conditions"
+              - "Control strategy"
+            tasks:
+              - "Sizing calculations"
+              - "Equipment selection"
+              - "Hydraulic design"
+
+  # ========================================
+  # 6. INFORMATION & TECHNICAL RESOURCES
+  # ========================================
+  - category: technical_info
+    title: "Technical Information & Resources"
+    description: "Comprehensive technical library and knowledge base"
+
+    subcategories:
+
+      # Systems & Equipment
+      - subcategory: systems
+        title: "Systems & Equipment Information"
+        topics:
+          - topic: "Split Air Conditioning Systems"
+            description: "Detailed information on split systems"
+
+          - topic: "Chillers and Fan Coils"
+            description: "Chiller technology and fan coil units"
+
+          - topic: "Central Air Conditioners"
+            description: "Large-scale AC systems"
+
+          - topic: "Filtration Systems"
+            description: "Air and water filtration technologies"
+
+          - topic: "Humidification Systems"
+            description: "Air moisture control systems"
+
+          - topic: "Kermi Floor Heating System"
+            description: "Kermi underfloor heating solutions"
+
+          - topic: "Equipment Selection Tables"
+            description: "Quick reference guides for equipment selection"
+
+          - topic: "Refrigerants (Freon)"
+            description: "Types and properties of refrigerants"
+
+          - topic: "Antifreeze Solutions"
+            description: "Ethylene and propylene glycol-based antifreezes"
+
+      # Physical Phenomena & Calculations
+      - subcategory: physical_phenomena
+        title: "Physical Phenomena & Engineering Science"
+        topics:
+          - topic: "Aerodynamic Duct Calculations"
+            description: "Aerodynamics and gas mechanics"
+
+          - topic: "Hydraulics and Fluid Mechanics"
+            description: "Fluid flow principles"
+
+          - topic: "Molecular Physics and Thermodynamics"
+            description: "Heat transfer and thermodynamic principles"
+
+          - topic: "Bernoulli's Law"
+            description: "Application in HVAC systems"
+
+          - topic: "Hydraulic Losses"
+            description: "Pressure drop calculations"
+
+          - topic: "Air Velocity Calculations"
+            description: "Round and rectangular duct velocity calculations"
+
+          - topic: "Heat Capacity Tables"
+            description: "Thermal properties of materials"
+
+          - topic: "Fuel Heating Value Comparison"
+            description: "Comparative table of fuel energy content"
+
+          - topic: "Firewood and Heating Value"
+            description: "Wood fuel energy properties"
+
+          - topic: "Human Heat and Moisture Generation"
+            description: "Body heat loads for HVAC calculations"
+
+          - topic: "Frost Properties"
+            description: "Winter heating considerations"
+
+      # Quality & Comfort
+      - subcategory: quality_comfort
+        title: "Air Quality & Thermal Comfort"
+        topics:
+          - topic: "Thermal Comfort Assessment"
+            description: "Comfort evaluation methods"
+
+          - topic: "Air Quality Impact on Sleep and Productivity"
+            description: "Bedroom air quality effects"
+
+          - topic: "Indoor Humidity in Rooms"
+            description: "Humidity control in apartments and offices"
+
+          - topic: "Air Ionization"
+            description: "Ion generation and benefits"
+
+          - topic: "Home Energy Consumption Economic Calculation"
+            description: "Energy cost analysis"
+
+          - topic: "PID Controllers for Practitioners"
+            description: "Practical control system guide"
+
+          - topic: "Home Automation Functionality"
+            description: "Smart home system capabilities"
+
+      # Industry Solutions
+      - subcategory: industry_solutions
+        title: "Industry-Specific Solutions"
+        topics:
+          - topic: "Metallurgical Workshop HVAC"
+            description: "Ventilation and climate control for metal processing"
+
+          - topic: "Commercial Buildings and Supermarkets"
+            description: "Retail HVAC solutions"
+
+          - topic: "Data Processing Centers"
+            description: "Server room and data center climate control"
+
+          - topic: "Educational Institutions"
+            description: "Schools and universities HVAC"
+
+          - topic: "Public Buildings"
+            description: "Government and public facility solutions"
+
+          - topic: "Private Homes and Cottages"
+            description: "Residential heating systems"
+
+          - topic: "Industrial Air Conditioning"
+            description: "Process cooling and climate control"
+
+          - topic: "Welding Shop Ventilation"
+            description: "Fume extraction and ventilation"
+
+          - topic: "Food Industry Workshop Ventilation"
+            description: "Food processing facility climate control"
+
+          - topic: "Swimming Pool Ventilation"
+            description: "Pool area dehumidification and ventilation"
+
+          - topic: "Server Room Requirements (SN 512-78)"
+            description: "Technical standards for server rooms"
+
+          - topic: "Automotive Service Ventilation"
+            description: "Auto repair shop exhaust systems"
+
+          - topic: "Hotels, Motels, and Dormitories"
+            description: "Hospitality HVAC systems"
+
+          - topic: "Commercial and Public Buildings"
+            description: "Office and commercial HVAC"
+
+          - topic: "Laboratories"
+            description: "Laboratory ventilation and fume hoods"
+
+          - topic: "Forging Shop Ventilation"
+            description: "Hot workshop climate control"
+
+          - topic: "Retail Facilities"
+            description: "Shop and store HVAC solutions"
+
+      # Initial Data & Planning
+      - subcategory: initial_data
+        title: "Initial Data & Project Requirements"
+        topics:
+          - topic: "Climatic Data"
+            description: "Weather data for HVAC design"
+
+          - topic: "Initial Data Checklist"
+            description: "Required information for project start"
+
+          - topic: "Design Assignment Specifications"
+            description: "Technical brief requirements"
+
+      # Development & BIM
+      - subcategory: development
+        title: "Development & BIM Resources"
+        topics:
+          - topic: "BIM Regulatory Documentation"
+            description: "BIM standards and requirements"
+
+          - topic: "Revit Markup by Filter"
+            description: "BIM modeling techniques"
+
+          - topic: "Main Design Phase Guidance"
+            description: "Design stage requirements"
+
+          - topic: "Ductwork Attachment Details"
+            description: "Installation guidelines and standards"
+
+          - topic: "House Projects for HVAC"
+            description: "Residential design templates"
+
+      # Safety & Security
+      - subcategory: safety_security
+        title: "Safety, Security & Compliance"
+        topics:
+          - topic: "COVID-19 Mitigation for HVAC Systems"
+            description: "Pandemic ventilation strategies"
+
+          - topic: "SCADA System Security Standards"
+            description: "Building automation cybersecurity"
+
+          - topic: "Hazardous Substance Threshold Limits (PDK)"
+            description: "Maximum permissible concentrations"
+
+          - topic: "Explosive and Toxic Substances Reference"
+            description: "Safety data for hazardous materials"
+
+          - topic: "TR-2009-013-BY-2 Regulations"
+            description: "Belarus technical regulations"
+
+      # Legislation & Standards
+      - subcategory: legislation
+        title: "Legislation & Building Standards"
+        topics:
+          - topic: "Building Classification by Complexity"
+            description: "Construction complexity categories"
+
+          - topic: "Main Legislative and Technical Documents"
+            description: "Building codes and regulations"
+
+          - topic: "Design and Survey Contract Agreements"
+            description: "Legal contract templates"
+
+          - topic: "Construction Work Type Definitions"
+            description: "Classification of construction activities"
+
+      # Terminology
+      - subcategory: terminology
+        title: "Technical Terminology"
+        topics:
+          - topic: "Construction Terminology Dictionary"
+            description: "Comprehensive construction terms"
+
+          - topic: "Official Construction and Architecture Terminology"
+            description: "Standardized terminology"
+
+          - topic: "Building Definitions"
+            description: "Key building industry terms"
+
+  # ========================================
+  # 7. NEWS & RESOURCES
+  # ========================================
+  - category: news_resources
+    title: "News & Resources"
+    description: "Industry news, guides, and educational materials"
+
+    subcategories:
+
+      - subcategory: top_topics
+        title: "Top Topics & Queries"
+        topics:
+          - topic: "Top 500 HVAC Search Queries"
+            description: "Most popular heating, ventilation, and AC questions"
+
+      - subcategory: industry_trends
+        title: "Industry Trends"
+        topics:
+          - topic: "Global HVAC Trends - Expert Opinions"
+            experts:
+              - "William P. Bahnfleth - ASHRAE President (USA)"
+              - "Yuri Tabunshchikov - AVOK President (Russia)"
+              - "Olli Seppanen - Helsinki University of Technology (Finland)"
+              - "Alexander Naumov - AVOK Vice President"
+              - "Erick Melquiond - Eurovent Certita Certification (Belgium)"
+              - "Grigory Vasiliev - Moscow Research Institute"
+              - "Felix Van Eyken - Eurovent Association (Belgium)"
+
+      - subcategory: standards_regulations
+        title: "Standards & Regulations"
+        topics:
+          - topic: "Key HVAC Standards (Russia)"
+            description: "Main codes and design recommendations"
+
+          - topic: "REHVA COVID-19 Guidelines"
+            description: "Ventilation guidance during pandemic"
+
+          - topic: "Main HVAC Documents (RF)"
+            description: "Russian Federation HVAC standards"
+
+      - subcategory: articles_guides
+        title: "Articles & Technical Guides"
+        topics:
+          - topic: "HVAC Article Compendium"
+            description: "Collection of technical articles used in projects"
+
+          - topic: "Building Ventilation Guide"
+            description: "Comprehensive ventilation information"
+
+          - topic: "Case Study - House History"
+            description: "Real project case study"
+
+          - topic: "Convector Heating Guide"
+            description: "Convector selection and installation"
+
+          - topic: "Radiant Heating Guide"
+            description: "Radiator systems overview"
+
+          - topic: "Underfloor Heating Guide"
+            description: "Warm floor installation guide"
+
+          - topic: "Energy-Saving Technologies"
+            description: "Energy efficiency in HVAC"
+
+          - topic: "Intelligent Ventilation"
+            description: "Smart ventilation systems"
+
+          - topic: "Cottage Heating Guide"
+            description: "Country home heating solutions"
+
+          - topic: "DIY Heating Systems"
+            description: "Self-installation guide"
+
+          - topic: "Supply-Exhaust Ventilation"
+            description: "Balanced ventilation systems"
+
+          - topic: "Air Conditioning Principles"
+            description: "How AC systems work"
+
+          - topic: "Cost Reduction in HVAC"
+            description: "Money-saving strategies"
+
+          - topic: "Project Organizations"
+            description: "HVAC design companies"
+
+          - topic: "Company Priorities"
+            description: "Our business values"
+
+          - topic: "Project Implementation Sequence"
+            description: "Step-by-step project workflow"
+
+  # ========================================
+  # 8. ABOUT US
+  # ========================================
+  - category: about_company
+    title: "About Our Company"
+    description: "Company information, projects, and credentials"
+
+    subcategories:
+
+      - subcategory: company_info
+        title: "Company Information"
+        topics:
+          - topic: "About Us"
+            description: "Company history and mission"
+            highlights:
+              - "Over 12 years in HVAC market"
+              - "Professional team with technical education"
+              - "Experience with complex projects"
+
+          - topic: "Internships"
+            description: "Professional training opportunities"
+
+          - topic: "Company History"
+            description: "Development timeline and milestones"
+
+          - topic: "Company Details"
+            description: "Legal and contact information"
+
+          - topic: "IP Gantman E.M."
+            description: "Individual entrepreneur information"
+
+      - subcategory: portfolio
+        title: "Portfolio & Projects"
+        topics:
+          - topic: "Our Projects"
+            categories:
+              - "Residential construction"
+              - "Commercial construction"
+              - "Industrial construction"
+
+          - topic: "Project Implementation Sequence"
+            description: "Typical project workflow"
+
+      - subcategory: credentials
+        title: "Credentials & Quality"
+        topics:
+          - topic: "Certificates & Attestations"
+            description: "Company certifications and licenses"
+
+          - topic: "Client Reviews"
+            description: "Testimonials and feedback"
+
+          - topic: "Guarantees"
+            description: "Warranty and quality assurance"
+
+          - topic: "Company Priorities"
+            values:
+              - "Quality"
+              - "Professionalism"
+              - "Customer satisfaction"
+              - "Innovation"
+
+      - subcategory: contacts
+        title: "Contacts"
+        topics:
+          - topic: "Contact Information"
+            channels:
+              - "Phone"
+              - "Email"
+              - "Office address"
+              - "Working hours"
+
+      - subcategory: manufacturers
+        title: "Manufacturers & Partners"
+        topics:
+          - topic: "Manufacturers (Russian)"
+            description: "Equipment suppliers and partners"
+
+  # ========================================
+  # 9. LEGAL & POLICIES
+  # ========================================
+  - category: legal_policies
+    title: "Legal & Policies"
+    description: "Terms, conditions, and privacy information"
+
+    topics:
+      - topic: "Payment & Delivery"
+        sections:
+          - "Ordering process"
+          - "Delivery in Minsk"
+          - "Delivery in Belarus"
+          - "ERIP payment system"
+          - "Bank transfer"
+          - "Refund procedure"
+          - "Exchange and return policy"
+
+      - topic: "Privacy Policy"
+        description: "Personal data processing policy"
+
+      - topic: "Terms & Conditions"
+        description: "General terms of service"
+
+# ========================================
+# KNOWLEDGE BASE STRUCTURE
+# ========================================
+knowledge_base:
+
+  heating_topics:
+    - "Heating system design methodology"
+    - "Thermal engineering calculations"
+    - "Hydraulic calculations for heating"
+    - "Heat loss calculations"
+    - "Boiler selection criteria"
+    - "Radiator sizing"
+    - "Underfloor heating design"
+    - "Pipe material selection"
+    - "Energy-saving technologies"
+    - "Smart home integration"
+    - "System automation and control"
+    - "Maintenance best practices"
+    - "Heating system testing procedures"
+    - "Buffer tank applications"
+    - "Pump group design"
+
+  ventilation_topics:
+    - "Ventilation rate calculations"
+    - "Air quality standards"
+    - "Heat recovery principles"
+    - "Duct design and sizing"
+    - "Fan selection"
+    - "Air filtration methods"
+    - "Noise control in ventilation"
+    - "Energy-efficient ventilation"
+    - "Natural vs mechanical ventilation"
+    - "Building pressurization"
+    - "Aerodynamic calculations"
+    - "Air velocity in ducts"
+    - "Industrial ventilation"
+    - "Aspiration systems"
+    - "Clean room design"
+
+  air_conditioning_topics:
+    - "Cooling load calculations"
+    - "Refrigeration cycle principles"
+    - "AC system types comparison"
+    - "Energy efficiency ratings"
+    - "Refrigerant selection"
+    - "Humidity control"
+    - "Indoor air quality"
+    - "VRV/VRF technology"
+    - "Chiller systems"
+    - "Fan coil design"
+    - "Central AC systems"
+    - "Inverter technology"
+
+  automation_topics:
+    - "Building automation systems"
+    - "Control strategies"
+    - "Sensor technologies"
+    - "Smart thermostats"
+    - "Energy management"
+    - "Integration protocols"
+    - "Remote monitoring"
+    - "PID controllers"
+    - "SCADA security"
+
+  professional_services:
+    - "BIM methodology"
+    - "CFD simulation"
+    - "Project management"
+    - "Commissioning procedures"
+    - "System balancing"
+    - "Preventive maintenance"
+    - "Troubleshooting guides"
+    - "Cost optimization"
+    - "Property operation"
+    - "Client functions"
+
+  technical_resources:
+    - "Thermodynamics and heat transfer"
+    - "Fluid mechanics and hydraulics"
+    - "Material thermal properties"
+    - "Bernoulli's law applications"
+    - "Fuel energy content"
+    - "Human heat loads"
+    - "Climate data"
+    - "Comfort assessment"
+    - "Energy calculations"
+
+  industry_solutions:
+    - "Metallurgical facilities"
+    - "Data centers"
+    - "Educational buildings"
+    - "Commercial buildings"
+    - "Industrial plants"
+    - "Swimming pools"
+    - "Laboratories"
+    - "Automotive service"
+    - "Food industry"
+    - "Welding shops"
+    - "Hotels and hospitality"
+
+  safety_compliance:
+    - "COVID-19 HVAC mitigation"
+    - "Hazardous substance limits"
+    - "Building codes"
+    - "Fire safety"
+    - "Explosive atmospheres"
+    - "SCADA security"
+    - "Technical regulations"
+
+  energy_sustainability:
+    - "Energy audits and assessments"
+    - "Energy performance optimization"
+    - "Life cycle cost analysis"
+    - "LEED and BREEAM certifications"
+    - "Passive House standards"
+    - "Net zero energy buildings"
+    - "Heat pump technology (COP, SCOP)"
+    - "Solar thermal systems"
+    - "PV integration"
+    - "District heating and cooling"
+    - "Carbon footprint reduction"
+    - "Low-GWP refrigerants"
+    - "F-Gas regulations"
+
+  indoor_air_quality:
+    - "IAQ parameter monitoring (CO2, VOC, PM)"
+    - "Air quality sensors"
+    - "Ventilation effectiveness metrics"
+    - "Advanced filtration (HEPA, MERV)"
+    - "Pathogen control (UVGI, ionization)"
+    - "WELL Building Standard"
+    - "Sick building syndrome prevention"
+    - "Occupant health and productivity"
+
+  troubleshooting_diagnostics:
+    - "Common heating problems"
+    - "Common cooling problems"
+    - "Ventilation issues"
+    - "Performance testing procedures"
+    - "Thermal imaging diagnostics"
+    - "Vibration analysis"
+    - "Error code interpretation"
+    - "BMS alarm diagnostics"
+
+  maintenance_operations:
+    - "Seasonal maintenance schedules"
+    - "Preventive maintenance checklists"
+    - "Predictive maintenance technologies"
+    - "Condition-based monitoring"
+    - "Water treatment (closed/open loop)"
+    - "Legionella prevention"
+    - "Parts and consumables management"
+    - "Refrigerant handling"
+
+  acoustics:
+    - "Acoustic calculations (NC/RC curves)"
+    - "Sound power and pressure levels"
+    - "Equipment noise selection"
+    - "Duct silencers and attenuators"
+    - "Vibration isolation methods"
+    - "Room acoustics design"
+    - "Ductborne noise control"
+
+  smart_buildings_digital:
+    - "IoT sensors and devices"
+    - "Communication protocols (BACnet, Modbus, MQTT)"
+    - "Cloud-based HVAC management"
+    - "Machine learning optimization"
+    - "Digital twins"
+    - "Building analytics"
+    - "Demand response programs"
+    - "Thermal energy storage"
+    - "Grid-interactive HVAC"
+
+  professional_development:
+    - "EPA Section 608 certification"
+    - "NATE certification"
+    - "Professional Engineer (PE) license"
+    - "LEED AP certification"
+    - "CEM (Certified Energy Manager)"
+    - "Technical training courses"
+    - "Safety training protocols"
+    - "BIM/Revit software training"
+
+# ========================================
+# SEO KEYWORDS & TAGS
+# ========================================
+seo_keywords:
+  primary:
+    - "heating systems"
+    - "ventilation systems"
+    - "air conditioning"
+    - "HVAC design"
+    - "boiler installation"
+    - "climate control"
+
+  secondary:
+    - "underfloor heating"
+    - "heat recovery"
+    - "gas boilers"
+    - "radiators"
+    - "smart thermostats"
+    - "BIM design"
+    - "CFD modeling"
+    - "energy efficiency"
+    - "HVAC maintenance"
+    - "building automation"
+    - "chillers"
+    - "fan coils"
+    - "VRV systems"
+    - "split systems"
+    - "convectors"
+
+  technical_terms:
+    - "hydraulic balancing"
+    - "aerodynamic calculations"
+    - "thermal comfort"
+    - "air quality"
+    - "heat load calculations"
+    - "cooling load calculations"
+    - "duct sizing"
+    - "commissioning"
+    - "PID control"
+    - "heat exchangers"
+
+  location_based:
+    - "HVAC Belarus"
+    - "Minsk heating"
+    - "cottage ventilation"
+    - "private house climate"
+
+  service_based:
+    - "turnkey HVAC"
+    - "HVAC design services"
+    - "boiler room installation"
+    - "AC service"
+    - "system commissioning"
+    - "HVAC consulting"
+    - "property operation"
+
+  industry_specific:
+    - "industrial ventilation"
+    - "data center cooling"
+    - "commercial HVAC"
+    - "swimming pool dehumidification"
+    - "laboratory ventilation"
+    - "server room climate"
+    - "food industry HVAC"
+
+  energy_sustainability_keywords:
+    - "energy efficiency"
+    - "LEED certification"
+    - "BREEAM"
+    - "Passive House"
+    - "net zero energy"
+    - "heat pump COP"
+    - "solar thermal"
+    - "carbon footprint"
+    - "low-GWP refrigerants"
+    - "F-Gas compliance"
+    - "renewable energy HVAC"
+    - "geothermal heating"
+
+  iaq_keywords:
+    - "indoor air quality"
+    - "IAQ monitoring"
+    - "CO2 sensors"
+    - "VOC detection"
+    - "HEPA filtration"
+    - "UV-C disinfection"
+    - "pathogen control"
+    - "WELL Building"
+    - "sick building syndrome"
+    - "air purification"
+
+  smart_building_keywords:
+    - "IoT HVAC"
+    - "smart building"
+    - "BACnet"
+    - "digital twin"
+    - "predictive maintenance"
+    - "machine learning HVAC"
+    - "building analytics"
+    - "demand response"
+    - "cloud-based HVAC"
+    - "AI optimization"
+
+  maintenance_keywords:
+    - "HVAC troubleshooting"
+    - "preventive maintenance"
+    - "Legionella prevention"
+    - "water treatment"
+    - "thermal imaging"
+    - "vibration analysis"
+    - "fault diagnosis"
+    - "error codes"
+
+  acoustics_keywords:
+    - "noise control"
+    - "vibration isolation"
+    - "acoustic design"
+    - "sound attenuation"
+    - "NC curves"
+    - "duct silencers"
+    - "quiet HVAC"
+
+# ========================================
+# TARGET AUDIENCE SEGMENTS
+# ========================================
+target_audiences:
+  - segment: "Homeowners"
+    needs:
+      - "Residential heating solutions"
+      - "Energy bill reduction"
+      - "Comfort improvement"
+      - "Smart home integration"
+      - "Underfloor heating"
+      - "Cottage ventilation"
+
+  - segment: "Builders & Contractors"
+    needs:
+      - "Design documentation"
+      - "Equipment supply"
+      - "Installation services"
+      - "Technical support"
+      - "BIM coordination"
+      - "Commissioning services"
+
+  - segment: "Architects & Designers"
+    needs:
+      - "BIM coordination"
+      - "Design consulting"
+      - "Equipment specifications"
+      - "Aesthetic solutions"
+      - "CFD modeling"
+      - "3D visualization"
+
+  - segment: "Facility Managers"
+    needs:
+      - "Maintenance services"
+      - "System upgrades"
+      - "Energy optimization"
+      - "Emergency repairs"
+      - "Building automation"
+      - "Remote monitoring"
+
+  - segment: "Developers"
+    needs:
+      - "Multi-unit solutions"
+      - "Turnkey projects"
+      - "Cost optimization"
+      - "Warranty support"
+      - "Large-scale projects"
+
+  - segment: "Industrial Clients"
+    needs:
+      - "Process cooling"
+      - "Fume extraction"
+      - "Clean rooms"
+      - "Heavy-duty ventilation"
+      - "Safety compliance"
+      - "24/7 operation"
+
+  - segment: "Commercial Property Owners"
+    needs:
+      - "Office HVAC"
+      - "Retail climate control"
+      - "Hotel solutions"
+      - "Restaurant ventilation"
+      - "Energy management"
+      - "Tenant comfort"
+
+  - segment: "Energy Managers & Sustainability Consultants"
+    needs:
+      - "Energy audits"
+      - "Green building certifications (LEED, BREEAM)"
+      - "Carbon footprint reduction"
+      - "Renewable energy integration"
+      - "Life cycle cost analysis"
+      - "Net zero strategies"
+      - "Energy performance optimization"
+
+  - segment: "Healthcare Facilities"
+    needs:
+      - "Indoor air quality control"
+      - "Pathogen mitigation"
+      - "HEPA filtration"
+      - "Infection control ventilation"
+      - "Legionella prevention"
+      - "Critical environment HVAC"
+      - "WELL Building compliance"
+
+  - segment: "Educational Institutions"
+    needs:
+      - "IAQ for learning environments"
+      - "Energy cost reduction"
+      - "Predictive maintenance"
+      - "Smart building controls"
+      - "Acoustic comfort"
+      - "Seasonal operation"
+
+  # ========================================
+  # 10. ENERGY EFFICIENCY & SUSTAINABILITY
+  # ========================================
+  - category: energy_sustainability
+    title: "Energy Efficiency & Sustainability"
+    description: "Sustainable HVAC solutions and energy optimization strategies"
+
+    subcategories:
+
+      - subcategory: energy_efficiency
+        title: "Energy Efficiency"
+        topics:
+          - topic: "Energy Audits"
+            description: "Comprehensive energy assessment and analysis"
+            services:
+              - "Building energy audits"
+              - "HVAC system efficiency evaluation"
+              - "Thermal imaging surveys"
+              - "Energy consumption monitoring"
+
+          - topic: "Energy Performance Optimization"
+            description: "Strategies to reduce energy consumption"
+            methods:
+              - "System efficiency improvements"
+              - "Control strategy optimization"
+              - "Load management"
+              - "Peak demand reduction"
+              - "Free cooling utilization"
+
+          - topic: "Energy Performance Certificates"
+            description: "Building energy rating and certification"
+
+          - topic: "Life Cycle Cost Analysis"
+            description: "Total cost of ownership calculations"
+            includes:
+              - "Initial investment"
+              - "Operating costs"
+              - "Maintenance costs"
+              - "Replacement costs"
+              - "Energy costs"
+              - "ROI calculations"
+
+      - subcategory: green_building
+        title: "Green Building & Certifications"
+        topics:
+          - topic: "LEED Certification"
+            description: "Leadership in Energy and Environmental Design"
+            categories:
+              - "LEED for New Construction"
+              - "LEED for Existing Buildings"
+              - "LEED prerequisites"
+              - "HVAC credits and points"
+
+          - topic: "BREEAM Certification"
+            description: "Building Research Establishment Environmental Assessment Method"
+
+          - topic: "Passive House (Passivhaus)"
+            description: "Ultra-low energy building standard"
+            requirements:
+              - "Air tightness requirements"
+              - "Ventilation with heat recovery"
+              - "Thermal bridge-free construction"
+              - "High-performance windows"
+
+          - topic: "Net Zero Energy Buildings"
+            description: "Zero net energy consumption design"
+
+      - subcategory: renewable_energy
+        title: "Renewable Energy Integration"
+        topics:
+          - topic: "Heat Pump Technology"
+            description: "Air source, ground source, and water source heat pumps"
+            types:
+              - "Air-to-air heat pumps"
+              - "Air-to-water heat pumps"
+              - "Ground source (geothermal) heat pumps"
+              - "Water source heat pumps"
+              - "Hybrid heat pump systems"
+            design_considerations:
+              - "COP and SCOP calculations"
+              - "Seasonal performance"
+              - "Backup heating requirements"
+              - "Refrigerant selection"
+
+          - topic: "Solar Thermal Systems"
+            description: "Solar collectors for heating and DHW"
+            types:
+              - "Flat plate collectors"
+              - "Evacuated tube collectors"
+              - "Solar combisystems"
+              - "Seasonal thermal storage"
+
+          - topic: "Photovoltaic Integration"
+            description: "PV systems for HVAC power supply"
+            applications:
+              - "Grid-tied systems"
+              - "Off-grid systems"
+              - "Battery storage integration"
+              - "PV-driven heat pumps"
+
+          - topic: "Biomass Heating"
+            description: "Wood pellet and biomass boiler systems"
+
+          - topic: "District Heating & Cooling"
+            description: "Centralized heating and cooling networks"
+
+      - subcategory: carbon_reduction
+        title: "Carbon Footprint & Emissions"
+        topics:
+          - topic: "Carbon Footprint Calculation"
+            description: "CO2 emissions assessment for HVAC systems"
+
+          - topic: "Low-GWP Refrigerants"
+            description: "Environmentally friendly refrigerant selection"
+            options:
+              - "Natural refrigerants (CO2, ammonia, propane)"
+              - "HFO refrigerants"
+              - "Refrigerant transition strategies"
+              - "F-Gas regulations compliance"
+
+          - topic: "Decarbonization Strategies"
+            description: "Pathways to zero-carbon HVAC"
+
+  # ========================================
+  # 11. INDOOR AIR QUALITY (IAQ)
+  # ========================================
+  - category: indoor_air_quality
+    title: "Indoor Air Quality"
+    description: "Comprehensive IAQ solutions for healthy indoor environments"
+
+    subcategories:
+
+      - subcategory: iaq_monitoring
+        title: "Air Quality Monitoring & Assessment"
+        topics:
+          - topic: "IAQ Parameters"
+            description: "Key air quality indicators"
+            parameters:
+              - "CO2 concentration"
+              - "VOC (Volatile Organic Compounds)"
+              - "Particulate matter (PM2.5, PM10)"
+              - "Temperature and humidity"
+              - "CO (Carbon monoxide)"
+              - "Radon levels"
+              - "Formaldehyde"
+
+          - topic: "Air Quality Sensors & Monitoring Systems"
+            description: "Continuous IAQ monitoring equipment"
+
+          - topic: "Ventilation Effectiveness"
+            description: "Measuring and optimizing air distribution"
+            metrics:
+              - "Air change effectiveness"
+              - "Ventilation effectiveness"
+              - "Age of air"
+              - "Contaminant removal effectiveness"
+
+      - subcategory: pollutant_control
+        title: "Pollutant Control & Mitigation"
+        topics:
+          - topic: "Source Control"
+            description: "Eliminating pollution sources"
+
+          - topic: "Advanced Filtration"
+            description: "High-efficiency air filtration systems"
+            types:
+              - "HEPA filters (H13, H14)"
+              - "MERV-rated filters"
+              - "Electrostatic precipitators"
+              - "Activated carbon filters"
+              - "UV-C disinfection"
+
+          - topic: "Pathogen Control"
+            description: "Viral and bacterial mitigation strategies"
+            methods:
+              - "UVGI (Ultraviolet Germicidal Irradiation)"
+              - "Bipolar ionization"
+              - "Photocatalytic oxidation"
+              - "Increased ventilation rates"
+              - "HEPA filtration"
+
+      - subcategory: health_wellness
+        title: "Health & Wellness"
+        topics:
+          - topic: "WELL Building Standard"
+            description: "Health and wellness building certification"
+
+          - topic: "Sick Building Syndrome Prevention"
+            description: "Avoiding building-related illness"
+
+          - topic: "Occupant Comfort & Productivity"
+            description: "Impact of IAQ on performance"
+
+  # ========================================
+  # 12. TROUBLESHOOTING & DIAGNOSTICS
+  # ========================================
+  - category: troubleshooting
+    title: "Troubleshooting & Diagnostics"
+    description: "Problem diagnosis and resolution for HVAC systems"
+
+    subcategories:
+
+      - subcategory: common_problems
+        title: "Common Problems & Solutions"
+        topics:
+          - topic: "Heating System Issues"
+            problems:
+              - "No heat / insufficient heating"
+              - "Uneven heating distribution"
+              - "Boiler cycling issues"
+              - "Pump failures"
+              - "Leaks and pressure loss"
+              - "Noisy operation"
+              - "High energy consumption"
+
+          - topic: "Cooling System Issues"
+            problems:
+              - "Insufficient cooling"
+              - "Refrigerant leaks"
+              - "Compressor failures"
+              - "Frozen evaporator coils"
+              - "Condensate drainage problems"
+              - "Fan motor issues"
+
+          - topic: "Ventilation System Issues"
+            problems:
+              - "Insufficient airflow"
+              - "Excessive noise"
+              - "Filter clogging"
+              - "Duct leakage"
+              - "Fan bearing failures"
+              - "Control system malfunctions"
+
+      - subcategory: diagnostic_procedures
+        title: "Diagnostic Procedures"
+        topics:
+          - topic: "Performance Testing"
+            description: "System performance verification methods"
+            tests:
+              - "Temperature measurements"
+              - "Pressure testing"
+              - "Airflow measurements"
+              - "Refrigerant charge verification"
+              - "Combustion analysis"
+              - "Electrical measurements"
+
+          - topic: "Thermal Imaging"
+            description: "Infrared thermography for diagnostics"
+            applications:
+              - "Heat loss detection"
+              - "Air leakage identification"
+              - "Electrical hot spots"
+              - "Insulation defects"
+
+          - topic: "Vibration Analysis"
+            description: "Detecting mechanical issues in rotating equipment"
+
+      - subcategory: fault_codes
+        title: "Error Codes & Troubleshooting Guides"
+        topics:
+          - topic: "Boiler Fault Codes"
+            description: "Common boiler error codes and solutions"
+
+          - topic: "Air Conditioner Error Codes"
+            description: "AC system diagnostic codes"
+
+          - topic: "BMS Alarms & Diagnostics"
+            description: "Building management system alerts"
+
+  # ========================================
+  # 13. MAINTENANCE & OPERATIONS
+  # ========================================
+  - category: maintenance_operations
+    title: "Maintenance & Operations"
+    description: "Preventive maintenance and operational best practices"
+
+    subcategories:
+
+      - subcategory: preventive_maintenance
+        title: "Preventive Maintenance"
+        topics:
+          - topic: "Seasonal Maintenance"
+            description: "Seasonal HVAC system preparation"
+            schedules:
+              - "Spring preparation (cooling season)"
+              - "Fall preparation (heating season)"
+              - "Winter operation checks"
+              - "Summer operation monitoring"
+
+          - topic: "Maintenance Schedules"
+            description: "Recommended maintenance intervals"
+            frequencies:
+              - "Daily checks"
+              - "Weekly inspections"
+              - "Monthly tasks"
+              - "Quarterly maintenance"
+              - "Annual servicing"
+              - "Multi-year overhauls"
+
+          - topic: "Maintenance Checklists"
+            description: "Comprehensive inspection and maintenance procedures"
+            systems:
+              - "Boiler maintenance checklist"
+              - "Chiller maintenance checklist"
+              - "AHU maintenance checklist"
+              - "Fan coil maintenance checklist"
+              - "Cooling tower maintenance"
+              - "Pump maintenance"
+
+      - subcategory: predictive_maintenance
+        title: "Predictive Maintenance"
+        topics:
+          - topic: "Condition-Based Monitoring"
+            description: "Equipment health monitoring systems"
+            technologies:
+              - "Vibration monitoring"
+              - "Temperature monitoring"
+              - "Energy consumption tracking"
+              - "Oil analysis"
+              - "Acoustic monitoring"
+
+          - topic: "IoT & Smart Sensors"
+            description: "Connected devices for predictive analytics"
+
+          - topic: "AI/ML for Maintenance Prediction"
+            description: "Machine learning for failure prediction"
+
+      - subcategory: water_treatment
+        title: "Water Treatment & Quality"
+        topics:
+          - topic: "Closed-Loop Water Treatment"
+            description: "Hydronic system water quality management"
+            aspects:
+              - "Corrosion inhibitors"
+              - "Scale prevention"
+              - "pH control"
+              - "Biocide treatment"
+              - "Water testing protocols"
+
+          - topic: "Legionella Prevention"
+            description: "Legionella control in water systems"
+            strategies:
+              - "Temperature management"
+              - "Water treatment programs"
+              - "System flushing"
+              - "Risk assessment"
+              - "Monitoring and testing"
+
+          - topic: "Cooling Tower Water Treatment"
+            description: "Open-loop water quality management"
+
+          - topic: "Condensate Management"
+            description: "Drain pan cleaning and treatment"
+
+      - subcategory: parts_consumables
+        title: "Parts & Consumables"
+        topics:
+          - topic: "Replacement Parts Inventory"
+            description: "Common spare parts and inventory management"
+
+          - topic: "Filter Replacement Schedules"
+            description: "Air and water filter maintenance"
+
+          - topic: "Refrigerant Management"
+            description: "Refrigerant handling and recovery"
+
+  # ========================================
+  # 14. ACOUSTIC DESIGN & NOISE CONTROL
+  # ========================================
+  - category: acoustics
+    title: "Acoustic Design & Noise Control"
+    description: "Sound attenuation and vibration control in HVAC systems"
+
+    subcategories:
+
+      - subcategory: noise_control
+        title: "Noise Control Strategies"
+        topics:
+          - topic: "Acoustic Calculations"
+            description: "Sound level predictions and analysis"
+            methods:
+              - "Sound power level calculations"
+              - "Sound pressure level predictions"
+              - "NC/RC criteria"
+              - "dB(A) measurements"
+
+          - topic: "Equipment Selection for Low Noise"
+            description: "Choosing quiet HVAC equipment"
+            considerations:
+              - "Fan noise levels"
+              - "Compressor noise"
+              - "Pump noise"
+              - "Variable speed drives for noise reduction"
+
+          - topic: "Duct Silencers & Attenuators"
+            description: "In-duct sound attenuation devices"
+            types:
+              - "Splitter silencers"
+              - "Tubular silencers"
+              - "Elbow silencers"
+              - "Plenum silencers"
+
+          - topic: "Vibration Isolation"
+            description: "Preventing vibration transmission"
+            methods:
+              - "Spring isolators"
+              - "Rubber isolators"
+              - "Inertia bases"
+              - "Flexible connections"
+              - "Seismic restraints"
+
+      - subcategory: room_acoustics
+        title: "Room Acoustics"
+        topics:
+          - topic: "Background Noise Levels"
+            description: "Acceptable noise levels for different spaces"
+            standards:
+              - "NC curves"
+              - "RC curves"
+              - "dB(A) limits"
+
+          - topic: "Ductborne Noise"
+            description: "Controlling noise transmission through ducts"
+
+          - topic: "Breakout Noise"
+            description: "Preventing sound escape from ductwork"
+
+  # ========================================
+  # 15. TRAINING & PROFESSIONAL DEVELOPMENT
+  # ========================================
+  - category: training_certification
+    title: "Training & Certification"
+    description: "Professional development and industry certifications"
+
+    subcategories:
+
+      - subcategory: certifications
+        title: "Professional Certifications"
+        topics:
+          - topic: "HVAC Technician Certifications"
+            certifications:
+              - "EPA Section 608 (Refrigerant handling)"
+              - "NATE Certification"
+              - "HVAC Excellence Certification"
+              - "Local licensing requirements"
+
+          - topic: "Design Engineer Certifications"
+            certifications:
+              - "Professional Engineer (PE)"
+              - "LEED AP"
+              - "CEM (Certified Energy Manager)"
+              - "HFDP (HVAC Fundamentals & Design Professional)"
+
+          - topic: "BMS/Controls Certifications"
+            certifications:
+              - "BACnet certification"
+              - "Modbus certification"
+              - "Manufacturer-specific training"
+
+      - subcategory: training_programs
+        title: "Training Programs"
+        topics:
+          - topic: "Technical Training Courses"
+            courses:
+              - "Refrigeration fundamentals"
+              - "Hydronic systems"
+              - "Control systems"
+              - "Building automation"
+              - "Energy management"
+
+          - topic: "Safety Training"
+            training:
+              - "Refrigerant safety"
+              - "Electrical safety"
+              - "Confined space entry"
+              - "Working at heights"
+              - "Lockout/tagout procedures"
+
+          - topic: "Software Training"
+            tools:
+              - "BIM/Revit for HVAC"
+              - "Load calculation software"
+              - "CFD software"
+              - "Energy modeling tools"
+
+  # ========================================
+  # 16. SMART BUILDINGS & DIGITAL HVAC
+  # ========================================
+  - category: smart_buildings
+    title: "Smart Buildings & Digital HVAC"
+    description: "IoT, AI, and digital transformation in HVAC"
+
+    subcategories:
+
+      - subcategory: iot_connectivity
+        title: "IoT & Connectivity"
+        topics:
+          - topic: "IoT Sensors & Devices"
+            description: "Connected HVAC equipment and sensors"
+
+          - topic: "Communication Protocols"
+            protocols:
+              - "BACnet"
+              - "Modbus"
+              - "LonWorks"
+              - "KNX"
+              - "MQTT"
+              - "OPC UA"
+
+          - topic: "Cloud-Based HVAC Management"
+            description: "Remote monitoring and control platforms"
+
+      - subcategory: ai_analytics
+        title: "AI & Analytics"
+        topics:
+          - topic: "Machine Learning for HVAC Optimization"
+            applications:
+              - "Predictive control"
+              - "Load forecasting"
+              - "Anomaly detection"
+              - "Energy optimization"
+
+          - topic: "Digital Twins"
+            description: "Virtual replicas of HVAC systems for simulation and optimization"
+
+          - topic: "Building Analytics"
+            description: "Data-driven insights for performance improvement"
+
+      - subcategory: demand_response
+        title: "Demand Response & Grid Integration"
+        topics:
+          - topic: "Demand Response Programs"
+            description: "Participating in utility demand response"
+
+          - topic: "Thermal Energy Storage"
+            description: "Ice storage and thermal mass for load shifting"
+            types:
+              - "Ice storage systems"
+              - "Chilled water storage"
+              - "Phase change materials"
+
+          - topic: "Grid-Interactive HVAC"
+            description: "Smart grid integration and flexibility"
+
+# ========================================
+# CONTENT ORGANIZATION STATS
+# ========================================
+site_statistics:
+  total_articles: 473
+  main_categories: 16
+  subcategories: 90+
+  new_engineering_categories: 7
+  directory_structure:
+    heating: 46
+    cooling: 8
+    ventilation: 24
+    automation: 7
+    services: 20
+    news: 22
+    info: 250+
+    root_level: 96
+
+  engineering_enhancements:
+    energy_sustainability: "New comprehensive category"
+    indoor_air_quality: "Dedicated IAQ section"
+    troubleshooting: "Diagnostic procedures and solutions"
+    maintenance_operations: "Preventive and predictive maintenance"
+    acoustics: "Noise and vibration control"
+    training_certification: "Professional development"
+    smart_buildings: "IoT, AI, and digital transformation"

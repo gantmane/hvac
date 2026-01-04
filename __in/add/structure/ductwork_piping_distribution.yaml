@@ -1,0 +1,563 @@
+ductwork_piping_distribution:
+  version: "2.0_enhanced"
+  description: "Comprehensive ductwork and piping systems - design, materials, sizing, and distribution"
+
+  ductwork_air_distribution:
+    duct_design_methods:
+      equal_friction:
+        - friction_rate_selection
+        - constant_pressure_drop_per_length
+        - duct_sizing_procedure
+        - friction_chart_usage
+        - typically_01_to_04_iwc_per_100ft
+      static_regain:
+        - velocity_reduction_downstream
+        - static_pressure_regained
+        - main_duct_sizing
+        - branch_duct_sizing
+        - acoustic_benefits
+      velocity_method:
+        - maximum_velocity_criteria
+        - velocity_reduction_schedule
+        - main_duct_velocity
+        - branch_duct_velocity
+        - terminal_velocity
+      t_method:
+        - total_pressure_basis
+        - section_pressure_losses
+        - optimization_balanced_design
+
+    duct_construction_standards:
+      smacna_standards:
+        - hvac_duct_construction_standards_metal
+        - hvac_duct_construction_standards_flexible
+        - rectangular_industrial_duct_construction_standard
+        - round_industrial_duct_construction_standard
+        - fibrous_glass_duct_construction_standard
+        - thermoplastic_duct_construction_standard
+        - duct_system_leakage_test_manual
+        - iaq_guidelines_occupied_buildings_construction
+      sheet_metal_specifications:
+        - galvanized_steel_sheet_metal_gauge
+        - gauge_26_24_22_20_18_16
+        - gage_thickness_equivalents
+        - minimum_thickness_requirements
+        - stiffness_criteria
+        - weight_class_selection
+        - pressure_class_selection
+        - reinforcement_requirements
+        - transverse_joint_reinforcement
+        - longitudinal_joint_reinforcement
+        - intermediate_stiffeners
+      duct_construction_classes:
+        - seal_class_a_tightest
+        - seal_class_b_intermediate
+        - seal_class_c_basic
+        - leakage_class_3_6_12_30
+        - pressure_classification_negative_positive
+        - construction_class_rectangular
+        - construction_class_round
+      joint_sealing:
+        - mastic_sealant_application
+        - wet_sealant_liquid_mastic
+        - pressure_sensitive_tape
+        - aluminum_foil_tape
+        - cloth_backed_rubber_adhesive_tape
+        - joint_systems_sealed
+        - transverse_joint_sealing
+        - longitudinal_seam_sealing
+        - flange_connection_sealing
+      duct_joint_types:
+        rectangular_joints:
+          - standing_s_slip_joints
+          - pocket_lock_joints
+          - button_punch_snap_lock
+          - drive_slip_joints
+          - companion_angle_flanges
+          - tdc_angle_flanges
+          - flat_bar_flanges
+          - cee_flanges
+          - rolled_edge_flanges
+        round_joints:
+          - spiral_lockseam
+          - longitudinal_seam_snaplock
+          - button_punch_snap_lock
+          - companion_angle_flanges_round
+          - slip_joint_coupling
+          - beaded_slip_coupling
+          - standing_seam_coupling
+    duct_materials:
+      metal_ducts:
+        - galvanized_sheet_steel_g90
+        - galvanized_sheet_steel_g60
+        - aluminum_ducts_3003_h14
+        - aluminum_marine_applications
+        - stainless_steel_ducts_type_304
+        - stainless_steel_type_316
+        - carbon_steel_ducts
+        - aluminized_steel_type_1_type_2
+        - copper_ducts_specialty
+        - spiral_round_duct_construction
+        - spiral_lockseam_construction
+        - welded_longitudinal_seam
+      non_metal_ducts:
+        fiberglass_duct_board:
+          - rigid_fiberglass_duct_board
+          - thermal_insulation_r_value
+          - acoustical_properties_fiberglass
+          - facing_reinforcement_foil_scrim
+          - maximum_velocity_2500_to_4000_fpm
+          - maximum_pressure_2_to_4_iwc
+          - rectangular_construction_only
+          - closure_systems_staples_tape
+          - outward_clinch_stapling
+        flexible_duct:
+          - insulated_flexible_duct
+          - non_insulated_flexible_duct
+          - inner_core_wire_helix
+          - polymer_film_vapor_barrier
+          - fiberglass_insulation_r42_r60_r80
+          - outer_jacket_protection
+          - maximum_length_limitations
+          - support_spacing_requirements
+          - stretched_tight_installation
+          - avoid_compression_kinking
+          - maximum_pressure_1_to_2_iwc
+        fabric_ducts:
+          - porous_textile_ducts
+          - non_porous_textile_ducts
+          - permeable_fabric_air_dispersion
+          - orifice_pattern_diffusion
+          - modular_sections_zipper
+          - cleanable_washable_fabric
+          - antimicrobial_treatment
+          - custom_engineered_perforations
+      specialty_duct_materials:
+        - pvc_duct_fume_exhaust
+        - cpvc_duct_chemical_resistance
+        - polypropylene_duct
+        - fiberglass_reinforced_plastic_frp
+        - stainless_steel_welded_kitchen_exhaust
+        - black_iron_high_temperature
+      duct_liner_insulation:
+        - internal_duct_liner
+        - fiberglass_liner_1_to_2_inch
+        - liner_acoustical_performance
+        - liner_erosion_resistance
+        - liner_flame_spread_rating
+        - liner_smoke_developed_rating
+        - antimicrobial_coating_liner
+        - coated_vs_uncoated_liner
+        - liner_adhesive_systems
+        - liner_fastening_pins_clips
+      external_insulation:
+        - external_wrap_insulation
+        - fiberglass_blanket_insulation
+        - elastomeric_foam_insulation
+        - closed_cell_insulation
+        - thickness_selection_r_value
+        - vapor_retarder_jacketing
+        - asj_all_service_jacket
+        - pvc_jacket_outdoor
+        - aluminum_jacket_mechanical_protection
+
+    duct_fittings:
+      - elbows_radius_throat
+      - mitered_elbows
+      - transitions_rectangular
+      - transitions_round_rectangular
+      - turning_vanes
+      - splitter_dampers
+      - volume_dampers
+      - fire_dampers
+      - smoke_dampers
+      - combination_fire_smoke_dampers
+      - backdraft_dampers
+      - control_dampers
+      - opposed_blade_dampers
+      - parallel_blade_dampers
+
+    pressure_losses:
+      - friction_losses
+      - darcy_weisbach_equation
+      - absolute_roughness
+      - friction_factor_chart
+      - dynamic_losses
+      - fitting_loss_coefficients
+      - velocity_pressure
+      - elbow_losses
+      - tee_losses
+      - transition_losses
+      - sudden_expansion
+      - sudden_contraction
+      - damper_losses
+      - filter_pressure_drop
+      - coil_pressure_drop
+
+    duct_sizing_considerations:
+      - aspect_ratio_limits
+      - maximum_aspect_ratio_4_to_1
+      - rectangular_duct_dimensions
+      - round_duct_advantages
+      - equivalent_diameter
+      - cross_sectional_area
+      - velocity_limitations
+      - noise_generation_velocity
+      - erosion_velocity
+      - supply_duct_velocity_limits
+      - return_duct_velocity_limits
+      - outdoor_air_duct_velocity
+
+    duct_leakage:
+      - leakage_class_testing
+      - duct_leakage_class_dlc
+      - seal_class_requirement_correlation
+      - leakage_rate_calculation
+      - cfm_per_100_sqft_duct
+      - leakage_testing_methods
+      - pressure_decay_test
+      - flow_hood_measurement
+      - sealant_application
+      - mastic_sealant
+      - tape_sealants
+      - aerosol_duct_sealing
+
+    air_terminals:
+      supply_outlets:
+        diffusers:
+          - ceiling_diffusers_round
+          - ceiling_diffusers_square
+          - ceiling_diffusers_rectangular
+          - ceiling_diffusers_linear_slot
+          - perforated_diffusers
+          - swirl_diffusers
+          - displacement_diffusers
+          - throw_pattern_1_2_3_4_way
+          - high_induction_diffusers
+          - low_induction_diffusers
+          - performance_curves
+          - throw_distance_to_terminal_velocity
+        registers_grilles:
+          - sidewall_registers
+          - floor_registers
+          - ceiling_registers
+          - double_deflection_grilles
+          - single_deflection_grilles
+          - fixed_bar_grilles
+          - adjustable_bar_grilles
+          - perforated_grilles
+          - eggcrate_grilles
+          - linear_grilles
+      return_inlets:
+        - return_air_grilles
+        - filter_grilles
+        - door_grilles
+        - transfer_grilles
+        - low_pressure_drop_design
+      performance_parameters:
+        - throw_definition
+        - throw_distance_to_terminal_velocity
+        - drop_definition_vertical_displacement
+        - spread_definition_horizontal_coverage
+        - terminal_velocity_50_fpm_typical
+        - terminal_velocity_100_fpm_industrial
+        - terminal_velocity_150_fpm_high_throw
+        - nc_noise_criteria_diffuser
+        - nc_25_30_35_40_ratings
+        - pressure_drop_terminal_device
+        - effective_area_calculation
+        - neck_velocity_limitations
+        - face_velocity_limitations
+        - aspiration_ratio
+        - entrainment_ratio
+        - coanda_effect_ceiling_attachment
+        - isothermal_throw
+        - non_isothermal_throw
+        - cooling_mode_drop
+        - heating_mode_rise
+      diffuser_selection_methodology:
+        - room_load_cfm_calculation
+        - supply_air_temperature_differential
+        - air_change_rate_verification
+        - throw_to_room_dimension_ratio
+        - throw_distance_criteria
+        - characteristic_length_room
+        - adpi_air_diffusion_performance_index
+        - effective_draft_temperature_edt
+        - local_air_velocity_comfort
+        - diffuser_spacing_guidelines
+        - maximum_spacing_limits
+        - manufacturer_performance_data
+        - application_selection_charts
+        - correction_factors_temperature
+        - correction_factors_mounting
+      specialty_diffusers:
+        - displacement_ventilation_diffusers_low_velocity
+        - underfloor_air_distribution_outlets_swirl
+        - ufad_floor_diffusers
+        - ufad_floor_grilles
+        - variable_air_volume_diffusers
+        - pattern_controllers_directional
+        - high_aspiration_diffusers
+        - low_aspiration_diffusers
+        - architectural_linear_slot_diffusers
+        - continuous_slot_diffusers
+        - perforated_panel_systems
+        - plenum_diffusers
+        - sound_attenuating_diffusers
+        - light_fixture_integrated_diffusers
+        - active_chilled_beam_diffusers
+
+    vav_terminal_units:
+      pressure_independent:
+        - airflow_controller
+        - velocity_sensor
+        - damper_actuator
+        - minimum_airflow_setpoint
+        - maximum_airflow_setpoint
+      pressure_dependent:
+        - damper_only_control
+        - system_pressure_dependent
+      fan_powered_terminals:
+        series_fan_powered:
+          - constant_fan_operation
+          - mixing_plenum
+          - heating_coil_location
+          - primary_air_inducement
+        parallel_fan_powered:
+          - intermittent_fan_operation
+          - fan_energized_heating_mode
+          - primary_air_only_cooling
+      reheat_terminals:
+        - hot_water_reheat_coil
+        - electric_reheat_coil
+        - steam_reheat_coil
+        - dual_maximum_logic
+        - single_maximum_logic
+      controls:
+        - space_temperature_sensor
+        - discharge_air_temperature_sensor
+        - airflow_measurement
+        - damper_position_feedback
+        - proportional_control
+        - pi_control
+
+  piping_systems_hydronic:
+    piping_materials:
+      - black_steel_pipe
+      - galvanized_steel_pipe
+      - copper_pipe_type_k_l_m
+      - pex_piping_crosslinked_polyethylene
+      - pex_a_pex_b_pex_c
+      - pert_polyethylene_raised_temperature
+      - pb_polybutylene
+      - cpvc_chlorinated_pvc
+      - polypropylene_pp_r
+      - stainless_steel_piping
+      - ductile_iron_pipe
+      - grooved_pipe_systems
+      - press_fit_connections
+      - fusion_welded_hdpe
+
+    pipe_joining_methods:
+      - threaded_connections
+      - welded_connections
+      - soldered_connections
+      - brazed_connections
+      - mechanical_couplings
+      - grooved_couplings
+      - flanged_connections
+      - compression_fittings
+      - press_connections
+      - expansion_pex_fittings
+      - crimp_pex_fittings
+      - push_fit_connections
+
+    system_configurations:
+      - direct_return_systems
+      - reverse_return_systems
+      - primary_secondary_pumping
+      - primary_only_variable_flow
+      - tertiary_pumping
+      - distributed_pumping
+      - injection_mixing
+      - decoupler_piping
+      - common_pipe_design
+      - bypass_line_sizing
+
+    expansion_compensation:
+      - thermal_expansion_calculation
+      - expansion_loops
+      - expansion_joints_bellows
+      - expansion_joints_slip
+      - offset_expansion_compensation
+      - guided_expansion
+      - anchor_points
+      - guide_supports
+      - spring_hangers
+      - constant_support_hangers
+      - variable_support_hangers
+
+    pipe_sizing:
+      - velocity_method_sizing
+      - pressure_drop_method
+      - maximum_velocity_limits
+      - erosion_velocity_considerations
+      - minimum_velocity_requirements
+      - hazen_williams_equation
+      - c_factor_values
+      - equivalent_length_fittings
+      - k_factor_fittings
+      - pump_head_calculation
+      - system_curve_development
+      - operating_point_determination
+
+    insulation_systems:
+      - fiberglass_pipe_insulation
+      - elastomeric_foam_insulation
+      - cellular_glass_insulation
+      - polyisocyanurate_insulation
+      - phenolic_foam_insulation
+      - insulation_thickness_calculation
+      - heat_gain_loss_prevention
+      - condensation_prevention
+      - personnel_protection
+      - vapor_retarder_jacket
+      - all_service_jacket
+      - pvc_jacket
+      - aluminum_jacket
+      - stainless_steel_jacket
+
+    water_treatment_hydronic:
+      - closed_loop_treatment
+      - open_loop_treatment
+      - corrosion_inhibitors
+      - scale_inhibitors
+      - biocides_algaecides
+      - oxygen_scavengers
+      - ph_adjustment
+      - glycol_systems_treatment
+      - glycol_concentration
+      - glycol_degradation
+      - system_flushing_procedures
+      - water_quality_testing
+      - conductivity_monitoring
+      - hardness_testing_hydronic
+
+    flow_control_devices:
+      balancing_valves:
+        - manual_balancing_valves
+        - automatic_flow_limiting_valves
+        - circuit_setters
+        - venturi_flow_meters
+        - calibrated_balancing_valves
+        - differential_pressure_measurement
+      control_valves:
+        - two_way_control_valves
+        - three_way_mixing_valves
+        - three_way_diverting_valves
+        - globe_valves
+        - ball_valves
+        - butterfly_valves
+        - characterized_valve_plugs
+        - linear_characteristic
+        - equal_percentage_characteristic
+        - quick_opening_characteristic
+        - valve_cv_calculation
+        - valve_authority
+        - rangeability
+        - actuator_types
+        - electric_actuators_modulating
+        - pneumatic_actuators_modulating
+        - spring_return_actuators
+        - fail_safe_positions
+      isolation_valves:
+        - gate_valves
+        - ball_valves_full_port
+        - butterfly_valves_wafer_lug
+        - plug_valves
+        - check_valves
+        - swing_check_valves
+        - spring_loaded_check_valves
+        - double_check_valves
+      pressure_relief_devices:
+        - pressure_relief_valves
+        - temperature_pressure_relief_valves
+        - safety_relief_valves
+        - pressure_reducing_valves
+        - bypass_pressure_relief
+
+    pumps_hydronic:
+      pump_types_hydronic:
+        - end_suction_centrifugal
+        - inline_centrifugal
+        - split_case_centrifugal
+        - vertical_turbine_pumps
+        - close_coupled_pumps
+        - frame_mounted_pumps
+        - base_mounted_pumps
+        - submersible_pumps
+      pump_performance_hydronic:
+        - best_efficiency_point_bep
+        - operating_range
+        - pump_curve_analysis
+        - system_curve_matching
+        - affinity_laws_application
+        - speed_change_effects
+        - impeller_trim_effects
+        - series_operation_pumps
+        - parallel_operation_pumps
+      pump_controls:
+        - constant_speed_operation
+        - variable_speed_drives_vfd
+        - differential_pressure_control
+        - dp_sensor_location
+        - two_thirds_rule_dp_sensor
+        - pressure_setpoint_reset
+        - flow_based_control
+        - temperature_based_control
+      cavitation_prevention:
+        - npsh_available_calculation
+        - npsh_required_manufacturer
+        - npsh_margin_safety_factor
+        - suction_conditions
+        - static_suction_head
+        - elevation_effects
+        - vapor_pressure_fluid
+        - suction_piping_design
+        - suction_pipe_sizing
+        - strainer_pressure_drop
+
+    air_removal:
+      - air_separator_tangential
+      - air_separator_coalescing
+      - microbubble_air_eliminators
+      - air_scoop_installation
+      - automatic_air_vents
+      - manual_air_vents
+      - high_point_venting
+      - air_purging_procedure
+      - dissolved_air_vs_entrained_air
+
+    dirt_separation:
+      - strainers_y_type
+      - strainers_basket_type
+      - strainers_automatic_backwash
+      - dirt_separators_centrifugal
+      - magnetic_dirt_separators
+      - filter_mesh_size
+      - pressure_drop_strainers
+      - cleaning_frequency
+
+    expansion_tanks:
+      - compression_tanks_plain_steel
+      - diaphragm_expansion_tanks
+      - bladder_expansion_tanks
+      - tank_sizing_calculation
+      - acceptance_volume
+      - system_volume_calculation
+      - fill_pressure
+      - maximum_operating_pressure
+      - precharge_pressure
+      - tank_location_system
+      - point_of_no_pressure_change

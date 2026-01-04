@@ -1,0 +1,285 @@
+controls_automation_building:
+  version: "2.0_enhanced"
+  description: "Comprehensive building automation and control systems - architectures, strategies, sensors, and integration"
+
+  control_system_architectures:
+    - distributed_control_systems
+    - building_automation_systems_bas
+    - energy_management_systems
+    - supervisory_control_data_acquisition
+    - programmable_logic_controllers
+    - direct_digital_control_field_panels
+    - application_specific_controllers
+    - unitary_controllers
+    - network_architecture
+    - bacnet_protocol
+    - lonworks_protocol
+    - modbus_protocol
+    - knx_protocol
+    - dali_lighting_protocol
+    - mqtt_protocol
+    - ethernet_ip
+    - wireless_networks
+    - zigbee_wireless
+    - z_wave_wireless
+    - bluetooth_mesh
+    - lora_wireless
+
+  control_strategies_detailed:
+    basic_control_modes:
+      - two_position_on_off
+      - floating_control
+      - proportional_control_p
+      - proportional_integral_pi
+      - proportional_integral_derivative_pid
+      - gain_tuning
+      - reset_time_tuning
+      - derivative_time_tuning
+      - anti_windup_techniques
+      - bumpless_transfer
+    advanced_control:
+      - cascade_control_loops
+      - feedforward_control_disturbance_rejection
+      - ratio_control
+      - split_range_control
+      - adaptive_control_self_tuning
+      - fuzzy_logic_control_systems
+      - neural_network_control
+      - model_predictive_control_mpc
+      - optimal_control_theory
+      - multivariable_control
+      - decoupling_control
+
+  sequences_of_operation_detailed:
+    air_handling_unit_sequences:
+      - morning_warmup_sequence
+      - unoccupied_setback
+      - optimal_start_algorithm
+      - optimal_stop_algorithm
+      - economizer_control_sequence
+      - integrated_economizer_control
+      - differential_enthalpy_economizer
+      - differential_dry_bulb_economizer
+      - minimum_outdoor_air_control
+      - demand_controlled_ventilation_sequence
+      - mixed_air_control
+      - discharge_air_temperature_control
+      - supply_air_static_pressure_control
+      - static_pressure_reset
+      - trim_and_respond_control
+      - duct_static_pressure_reset
+      - building_static_pressure_control
+      - dehumidification_control
+      - humidification_control
+      - freeze_protection_sequence
+      - low_limit_control
+      - smoke_control_sequence
+    vav_box_sequences:
+      - cooling_only_vav
+      - vav_with_reheat
+      - dual_maximum_control
+      - fan_powered_vav_sequence
+      - series_fpb_sequence
+      - parallel_fpb_sequence
+      - dead_band_control
+      - occupied_unoccupied_modes
+    chiller_plant_sequences:
+      - chiller_staging_control
+      - chiller_enable_conditions
+      - chiller_lockout_conditions
+      - lead_lag_rotation
+      - load_balancing_chillers
+      - chilled_water_reset_schedule
+      - outdoor_air_reset
+      - return_water_temperature_reset
+      - demand_limiting_chiller
+      - condenser_water_reset
+      - cooling_tower_staging
+      - tower_fan_speed_control
+      - tower_cell_staging
+      - chilled_water_pump_staging
+      - condenser_water_pump_staging
+      - differential_pressure_reset
+      - primary_secondary_control
+      - variable_primary_flow_control
+      - free_cooling_enable
+      - ice_storage_charging_sequence
+      - ice_storage_discharging_sequence
+    boiler_plant_sequences:
+      - boiler_staging_control
+      - boiler_enable_disable
+      - lead_lag_sequencing
+      - hot_water_reset_outdoor_air
+      - supply_water_temperature_reset
+      - boiler_rotation_logic
+      - firing_rate_control_modulating
+      - low_fire_start
+      - warm_weather_shutdown
+      - anti_condensation_control
+      - stack_damper_control
+      - boiler_optimization
+
+  sensors_transducers:
+    temperature_sensors_detailed:
+      - resistance_temperature_detectors_rtd
+      - 100_ohm_platinum_rtd
+      - 1000_ohm_platinum_rtd
+      - rtd_alpha_coefficient
+      - two_wire_rtd
+      - three_wire_rtd
+      - four_wire_rtd
+      - thermistor_ntc_ptc
+      - thermistor_beta_value
+      - thermocouple_types
+      - type_j_thermocouple
+      - type_k_thermocouple
+      - type_t_thermocouple
+      - type_e_thermocouple
+      - cold_junction_compensation
+      - infrared_temperature_sensors
+      - averaging_temperature_sensors
+      - duct_averaging_sensors
+      - pipe_averaging_sensors
+      - immersion_sensors
+      - strap_on_sensors
+      - well_installation
+      - sensor_accuracy
+      - sensor_response_time
+    pressure_sensors_detailed:
+      - gauge_pressure_sensors
+      - absolute_pressure_sensors
+      - differential_pressure_sensors
+      - static_pressure_sensors
+      - piezoresistive_sensors
+      - capacitive_pressure_sensors
+      - strain_gauge_sensors
+      - pressure_transmitter_output
+      - 4_20_ma_output
+      - 0_10_vdc_output
+      - pressure_range_selection
+      - overpressure_rating
+    humidity_sensors_detailed:
+      - capacitive_relative_humidity
+      - resistive_humidity_sensors
+      - chilled_mirror_hygrometer
+      - wet_bulb_temperature_sensor
+      - dew_point_sensor
+      - humidity_accuracy
+      - humidity_drift
+      - sensor_calibration
+    air_quality_sensors_detailed:
+      co2_sensors:
+        - nondispersive_infrared_ndir
+        - dual_wavelength_ndir
+        - automatic_baseline_calibration_abc
+        - co2_measurement_range
+        - co2_accuracy
+      voc_sensors:
+        - metal_oxide_semiconductor
+        - photoionization_detector_pid
+        - electrochemical_voc
+      particulate_sensors:
+        - laser_particle_counter
+        - optical_particle_sensor
+        - pm2_5_measurement
+        - pm10_measurement
+      gas_detection:
+        - carbon_monoxide_electrochemical
+        - nitrogen_dioxide_sensors
+        - ozone_sensors
+    flow_measurement:
+      - differential_pressure_flow
+      - orifice_plate_flow_meter
+      - venturi_flow_meter
+      - flow_nozzle
+      - pitot_tube_averaging
+      - turbine_flow_meters
+      - vortex_shedding_flow_meters
+      - magnetic_flow_meters_electromagnetic
+      - ultrasonic_flow_meters_doppler
+      - ultrasonic_flow_meters_transit_time
+      - thermal_mass_flow_meters
+      - coriolis_mass_flow_meters
+      - variable_area_flow_meters_rotameter
+      - target_flow_meters
+      - positive_displacement_meters
+    occupancy_detection:
+      - passive_infrared_pir
+      - ultrasonic_occupancy_sensors
+      - microwave_occupancy_sensors
+      - dual_technology_sensors
+      - camera_based_occupancy
+      - co2_based_occupancy_estimation
+
+  actuators_detailed:
+    electric_actuators_control:
+      - two_position_electric
+      - floating_electric_actuators
+      - modulating_electric_actuators
+      - proportional_electric_actuators
+      - actuator_torque_ratings
+      - spring_return_electric
+      - non_spring_return_electric
+      - actuator_run_time
+      - actuator_feedback_potentiometer
+      - actuator_feedback_4_20ma
+    pneumatic_actuators_control:
+      - direct_acting_pneumatic
+      - reverse_acting_pneumatic
+      - spring_return_pneumatic
+      - double_acting_pneumatic
+      - pneumatic_pressure_range
+      - 3_to_15_psi_signal
+      - actuator_sizing_torque
+      - air_supply_requirements
+      - pneumatic_relays
+      - volume_boosters
+    hydraulic_actuators:
+      - hydraulic_cylinder_actuators
+      - hydraulic_pressure_systems
+      - high_force_applications
+
+  interface_devices:
+    - operator_workstations
+    - graphical_user_interface
+    - web_based_interfaces
+    - mobile_applications
+    - trend_logging
+    - alarm_management
+    - event_logging
+    - historical_data_storage
+    - scheduling_capabilities
+    - calendar_based_scheduling
+    - exception_scheduling
+    - holiday_scheduling
+    - report_generation
+    - energy_dashboards
+
+  integration_interoperability:
+    - bacnet_integration
+    - bacnet_ip
+    - bacnet_mstp
+    - bacnet_objects
+    - bacnet_services
+    - lonworks_integration
+    - modbus_rtu_integration
+    - modbus_tcp_integration
+    - opc_integration
+    - haystack_tagging
+    - brick_schema
+    - api_integration
+    - restful_api
+    - web_services
+
+  cybersecurity_controls:
+    - network_segmentation
+    - firewalls_hvac_networks
+    - virtual_private_networks_vpn
+    - encryption_data_transit
+    - user_authentication
+    - role_based_access_control
+    - password_policies
+    - security_patches
+    - intrusion_detection
+    - penetration_testing
+    - vulnerability_assessment

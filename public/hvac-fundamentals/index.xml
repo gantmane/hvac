@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hvac Fundamentals on HVAC Systems Encyclopedia</title>
+    <title>HVAC Fundamentals on HVAC Systems Encyclopedia</title>
     <link>/hvac-fundamentals/</link>
-    <description>Recent content in Hvac Fundamentals on HVAC Systems Encyclopedia</description>
+    <description>Recent content in HVAC Fundamentals on HVAC Systems Encyclopedia</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 04 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/hvac-fundamentals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Humidification Systems: Isothermal vs Adiabatic Methods</title>
+      <link>/hvac-fundamentals/humidification-systems/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/hvac-fundamentals/humidification-systems/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Humidification in HVAC systems follows two fundamental thermodynamic paths: isothermal and adiabatic. The selection between these methods impacts energy consumption, system complexity, and operational costs.&lt;/p&gt;&#xA;&lt;h2 id=&#34;isothermal-humidification&#34;&gt;Isothermal Humidification&lt;/h2&gt;&#xA;&lt;p&gt;Isothermal humidification maintains constant air temperature during moisture addition. Saturated steam injection directly into the airstream characterizes this process.&lt;/p&gt;&#xA;&lt;h3 id=&#34;thermodynamic-process&#34;&gt;Thermodynamic Process&lt;/h3&gt;&#xA;&lt;p&gt;The phase transition from liquid to vapor occurs through external heat input. The latent heat of vaporization is supplied by dedicated energy sources rather than the air itself.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thermal Comfort: PMV/PPD Analysis and ASHRAE Standards</title>
+      <link>/hvac-fundamentals/thermal-comfort/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/hvac-fundamentals/thermal-comfort/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Thermal comfort quantifies human thermal sensation under specified environmental and personal conditions. The analytical framework combines heat transfer physics with empirical data from controlled human subject studies.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heat-balance-equation&#34;&gt;Heat Balance Equation&lt;/h2&gt;&#xA;&lt;p&gt;Human thermal comfort requires zero net heat storage:&lt;/p&gt;&#xA;&lt;div class=&#34;formula&#34;&gt;&#xA;  &#xA;    &lt;div class=&#34;formula-display&#34;&gt;&#xA;      $$&#xA;M - W = Q_{sk} + Q_{res} + Q_{evap}&#xA;$$&#xA;    &lt;/div&gt;&#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Where:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;$M$ = metabolic rate (W/m²)&lt;/li&gt;&#xA;&lt;li&gt;$W$ = external work (typically 0 for sedentary)&lt;/li&gt;&#xA;&lt;li&gt;$Q_{sk}$ = skin heat loss (W/m²)&lt;/li&gt;&#xA;&lt;li&gt;$Q_{res}$ = respiratory heat loss (W/m²)&lt;/li&gt;&#xA;&lt;li&gt;$Q_{evap}$ = evaporative heat loss (W/m²)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;skin-heat-loss&#34;&gt;Skin Heat Loss&lt;/h3&gt;&#xA;&lt;p&gt;Convection and radiation from skin surface:&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

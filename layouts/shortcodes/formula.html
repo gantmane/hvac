@@ -1,0 +1,9 @@
+<div class="formula">
+  {{ if .Get "display" }}
+    <div class="formula-display">
+      $${{ .Inner | safeHTML }}$$
+    </div>
+  {{ else }}
+    <span class="formula-inline">\({{ .Inner | safeHTML }}\)</span>
+  {{ end }}
+</div>

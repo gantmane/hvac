@@ -3,8 +3,46 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hvac Fundamentals - HVAC Systems Encyclopedia</title>
-    <meta name="description" content="A comprehensive encyclopedia of heating, ventilation, and air conditioning systems">
+    <title>HVAC Fundamentals - HVAC Systems Encyclopedia</title>
+    <meta name="description" content="HVAC Fundamentals
+Core engineering principles underlying all HVAC system design, analysis, and operation. Master these fundamentals to understand heat transfer mechanisms, fluid flow behavior, thermodynamic processes, and psychrometric analysis that form the foundation of HVAC engineering practice.
+Core Disciplines
+Thermodynamics
+Thermodynamic laws govern energy conversion, refrigeration cycles, and heat pump operation. Understanding entropy, exergy, and irreversibility enables efficiency optimization and system performance prediction.
+Key topics:
+
+First and Second Laws: Energy conservation and entropy generation
+Thermodynamic Cycles: Carnot, Rankine, vapor compression, absorption
+Exergy Analysis: Identifying irreversibilities and optimization opportunities
+Properties of Pure Substances: Phase diagrams, saturation, critical point
+Thermodynamic Processes: Isothermal, isobaric, isochoric, adiabatic
+
+Related Technical Guides:">
+    
+    <meta name="author" content="Evgeniy Gantman">
+    <link rel="canonical" href="/hvac-fundamentals/">
+
+    
+    <meta property="og:title" content="HVAC Fundamentals - HVAC Systems Encyclopedia">
+    <meta property="og:description" content="HVAC Fundamentals
+Core engineering principles underlying all HVAC system design, analysis, and operation. Master these fundamentals to understand heat transfer mechanisms, fluid flow behavior, thermodynamic processes, and psychrometric analysis that form the foundation of HVAC engineering practice.
+Core Disciplines
+Thermodynamics
+Thermodynamic laws govern energy conversion, refrigeration cycles, and heat pump operation. Understanding entropy, exergy, and irreversibility enables efficiency optimization and system performance prediction.
+Key topics:
+
+First and Second Laws: Energy conservation and entropy generation
+Thermodynamic Cycles: Carnot, Rankine, vapor compression, absorption
+Exergy Analysis: Identifying irreversibilities and optimization opportunities
+Properties of Pure Substances: Phase diagrams, saturation, critical point
+Thermodynamic Processes: Isothermal, isobaric, isochoric, adiabatic
+
+Related Technical Guides:">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/hvac-fundamentals/">
+
+    
+    
     <style>
         * {
             margin: 0;
@@ -114,7 +152,122 @@
             padding: 2rem;
             color: #666;
         }
+
+         
+        .MathJax, .MathJax_Display {
+            overflow-x: auto;
+            overflow-y: hidden;
+        }
+        mjx-container {
+            overflow-x: auto;
+            overflow-y: hidden;
+        }
+        .formula-box {
+            background: #f8f9fa;
+            border-left: 4px solid #667eea;
+            padding: 1rem;
+            margin: 1.5rem 0;
+            overflow-x: auto;
+        }
+        .worked-example {
+            background: #fff8e1;
+            border: 1px solid #ffd54f;
+            border-radius: 4px;
+            padding: 1.5rem;
+            margin: 2rem 0;
+        }
+        .worked-example h3 {
+            color: #f57c00;
+            margin-top: 0;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 1.5rem 0;
+        }
+        th, td {
+            border: 1px solid #e0e0e0;
+            padding: 0.75rem;
+            text-align: left;
+        }
+        th {
+            background: #f5f5f5;
+            font-weight: 600;
+        }
+        tr:hover {
+            background: #fafafa;
+        }
+        code {
+            background: #f4f4f4;
+            padding: 0.2rem 0.4rem;
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+        }
+        pre {
+            background: #f4f4f4;
+            padding: 1rem;
+            border-radius: 4px;
+            overflow-x: auto;
+            margin: 1rem 0;
+        }
+         
+        .mermaid {
+            background: #ffffff;
+            border: 1px solid #e0e0e0;
+            border-radius: 4px;
+            padding: 1.5rem;
+            margin: 2rem 0;
+            overflow-x: auto;
+        }
+        .mermaid svg {
+            max-width: 100%;
+            height: auto;
+        }
     </style>
+
+    
+    <script>
+    MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']],
+        processEscapes: true,
+        processEnvironments: true,
+        tags: 'ams',
+        packages: {'[+]': ['ams']}
+      },
+      options: {
+        skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+      },
+      svg: {
+        fontCache: 'global'
+      }
+    };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+
+    
+    <script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+      mermaid.initialize({
+        startOnLoad: true,
+        theme: 'default',
+        themeVariables: {
+          primaryColor: '#667eea',
+          primaryTextColor: '#fff',
+          primaryBorderColor: '#764ba2',
+          lineColor: '#333',
+          secondaryColor: '#f8f9fa',
+          tertiaryColor: '#fff'
+        },
+        flowchart: {
+          useMaxWidth: true,
+          htmlLabels: true,
+          curve: 'basis'
+        }
+      });
+    </script>
 </head>
 <body>
     <header>
@@ -132,7 +285,7 @@
                 
                 <li><a href="/">HVAC Systems Encyclopedia</a></li>
                 
-                <li>Hvac Fundamentals</li>
+                <li>HVAC Fundamentals</li>
             </ul>
         </div>
     </nav>
@@ -142,10 +295,149 @@
         <main>
             
 <article>
-    <h1>Hvac Fundamentals</h1>
+    <h1>HVAC Fundamentals</h1>
 
-    <p>Comprehensive HVAC fundamentals - thermodynamics, heat transfer, fluid mechanics, and psychrometrics</p>
-<p><em>Version: 2.0_enhanced</em></p>
+    <h1 id="hvac-fundamentals">HVAC Fundamentals</h1>
+<p>Core engineering principles underlying all HVAC system design, analysis, and operation. Master these fundamentals to understand heat transfer mechanisms, fluid flow behavior, thermodynamic processes, and psychrometric analysis that form the foundation of HVAC engineering practice.</p>
+<h2 id="core-disciplines">Core Disciplines</h2>
+<h3 id="thermodynamics">Thermodynamics</h3>
+<p>Thermodynamic laws govern energy conversion, refrigeration cycles, and heat pump operation. Understanding entropy, exergy, and irreversibility enables efficiency optimization and system performance prediction.</p>
+<p><strong>Key topics:</strong></p>
+<ul>
+<li><strong>First and Second Laws:</strong> Energy conservation and entropy generation</li>
+<li><strong>Thermodynamic Cycles:</strong> Carnot, Rankine, vapor compression, absorption</li>
+<li><strong>Exergy Analysis:</strong> Identifying irreversibilities and optimization opportunities</li>
+<li><strong>Properties of Pure Substances:</strong> Phase diagrams, saturation, critical point</li>
+<li><strong>Thermodynamic Processes:</strong> Isothermal, isobaric, isochoric, adiabatic</li>
+</ul>
+<p><strong>Related Technical Guides:</strong></p>
+<ul>
+<li><a href="/technical-guides/thermodynamic-cycles/">Thermodynamic Cycles</a></li>
+<li><a href="/technical-guides/vapor-compression-refrigeration/">Vapor Compression Refrigeration</a></li>
+</ul>
+<h3 id="heat-transfer">Heat Transfer</h3>
+<p>Heat transfer mechanisms—conduction, convection, and radiation—determine thermal loads, equipment sizing, and energy efficiency. Accurate heat transfer analysis drives insulation design, envelope performance, and HVAC capacity calculations.</p>
+<p><strong>Key topics:</strong></p>
+<ul>
+<li><strong>Conduction:</strong> Fourier&rsquo;s law, thermal resistance, composite walls, thermal bridges</li>
+<li><strong>Convection:</strong> Forced and natural convection, heat transfer coefficients, boundary layers</li>
+<li><strong>Radiation:</strong> Stefan-Boltzmann law, emissivity, view factors, radiant exchange</li>
+<li><strong>Combined Heat Transfer:</strong> Overall heat transfer coefficients (U-values)</li>
+<li><strong>Transient Heat Transfer:</strong> Thermal mass, time constants, response time</li>
+</ul>
+<p><strong>Related Technical Guides:</strong></p>
+<ul>
+<li><a href="/technical-guides/heat-transfer-fundamentals/">Heat Transfer Fundamentals</a></li>
+<li><a href="/technical-guides/material-thermal-properties/">Material Thermal Properties</a></li>
+</ul>
+<h3 id="fluid-mechanics">Fluid Mechanics</h3>
+<p>Fluid flow principles govern duct and pipe design, pump and fan selection, and system pressure analysis. Understanding friction losses, minor losses, and flow regimes ensures proper system sizing and energy-efficient operation.</p>
+<p><strong>Key topics:</strong></p>
+<ul>
+<li><strong>Fluid Properties:</strong> Density, viscosity, compressibility</li>
+<li><strong>Bernoulli&rsquo;s Equation:</strong> Energy conservation in flowing fluids</li>
+<li><strong>Reynolds Number:</strong> Laminar vs. turbulent flow regimes</li>
+<li><strong>Friction Losses:</strong> Darcy-Weisbach equation, Moody chart, pipe roughness</li>
+<li><strong>Minor Losses:</strong> Fittings, valves, transitions, contractions/expansions</li>
+<li><strong>Pumps and Fans:</strong> Affinity laws, system curves, operating points</li>
+</ul>
+<p><strong>Related Technical Guides:</strong></p>
+<ul>
+<li><a href="/technical-guides/fluid-mechanics-hvac/">Fluid Mechanics for HVAC</a></li>
+<li><a href="/technical-guides/duct-static-pressure-calculations/">Duct Static Pressure Calculations</a></li>
+<li><a href="/technical-guides/fan-selection-performance/">Fan Selection &amp; Performance</a></li>
+</ul>
+<h3 id="psychrometrics">Psychrometrics</h3>
+<p>Psychrometric analysis determines air conditioning processes, humidity control strategies, and evaporative cooling potential. The psychrometric chart visualizes air property relationships and enables graphical process analysis.</p>
+<p><strong>Key topics:</strong></p>
+<ul>
+<li><strong>Moist Air Properties:</strong> Dry-bulb, wet-bulb, dew point temperatures</li>
+<li><strong>Humidity Ratio:</strong> Mass of water vapor per mass of dry air</li>
+<li><strong>Relative Humidity:</strong> Saturation percentage</li>
+<li><strong>Enthalpy:</strong> Total energy content of moist air</li>
+<li><strong>Psychrometric Processes:</strong> Heating, cooling, humidification, dehumidification, mixing</li>
+<li><strong>Psychrometric Chart:</strong> Graphical representation and process visualization</li>
+</ul>
+<p><strong>Related Technical Guides:</strong></p>
+<ul>
+<li><a href="/technical-guides/psychrometric-fundamentals/">Psychrometric Fundamentals</a></li>
+<li><a href="/technical-guides/psychrometric-processes/">Psychrometric Processes</a></li>
+</ul>
+<h3 id="material-properties">Material Properties</h3>
+<p>Thermal conductivity, specific heat, density, and moisture properties of building materials drive heat transfer calculations, insulation design, and thermal mass analysis.</p>
+<p><strong>Key topics:</strong></p>
+<ul>
+<li><strong>Thermal Conductivity:</strong> Heat conduction through materials</li>
+<li><strong>Specific Heat:</strong> Thermal energy storage capacity</li>
+<li><strong>Density:</strong> Mass per unit volume</li>
+<li><strong>R-values and U-values:</strong> Thermal resistance and overall heat transfer</li>
+<li><strong>Moisture Properties:</strong> Permeance, water vapor transmission</li>
+</ul>
+<p><strong>Related Technical Guides:</strong></p>
+<ul>
+<li><a href="/technical-guides/material-thermal-properties/">Material Thermal Properties</a></li>
+</ul>
+<h3 id="building-envelope">Building Envelope</h3>
+<p>Building envelope design controls heat transfer, moisture migration, and air leakage. Proper envelope construction minimizes thermal loads, prevents condensation, and ensures occupant comfort.</p>
+<p><strong>Key topics:</strong></p>
+<ul>
+<li><strong>Heat-Air-Moisture (HAM) Control:</strong> Integrated envelope design</li>
+<li><strong>Thermal Bridges:</strong> Conductive heat loss paths</li>
+<li><strong>Air Barriers:</strong> Controlling infiltration and exfiltration</li>
+<li><strong>Vapor Retarders:</strong> Managing moisture migration</li>
+<li><strong>Mold Prediction:</strong> Temperature, humidity, and surface conditions</li>
+</ul>
+<h3 id="energy-resources">Energy Resources</h3>
+<p>Understanding energy sources, consumption patterns, and efficiency metrics enables informed system selection and sustainability analysis.</p>
+<p><strong>Key topics:</strong></p>
+<ul>
+<li><strong>Fossil Fuels:</strong> Natural gas, fuel oil, propane characteristics</li>
+<li><strong>Electricity:</strong> Generation, transmission, peak demand</li>
+<li><strong>Renewable Energy:</strong> Solar, geothermal, biomass integration</li>
+<li><strong>Energy Consumption:</strong> Patterns, end-use breakdowns, benchmarking</li>
+<li><strong>Energy Efficiency:</strong> Metrics, standards, optimization strategies</li>
+</ul>
+<h2 id="applications">Applications</h2>
+<p>HVAC fundamentals apply across all building types and system configurations:</p>
+<ul>
+<li><strong>Load Calculations:</strong> Heat gain/loss analysis drives equipment sizing</li>
+<li><strong>System Design:</strong> Equipment selection based on thermodynamic performance</li>
+<li><strong>Energy Modeling:</strong> Predicting annual energy consumption</li>
+<li><strong>Troubleshooting:</strong> Understanding fundamentals enables root cause analysis</li>
+<li><strong>Optimization:</strong> Thermodynamic principles identify efficiency improvements</li>
+</ul>
+<h2 id="learning-path">Learning Path</h2>
+<p><strong>Foundation (start here):</strong></p>
+<ol>
+<li>Heat Transfer → understand thermal loads</li>
+<li>Fluid Mechanics → size distribution systems</li>
+<li>Thermodynamics → analyze refrigeration cycles</li>
+<li>Psychrometrics → design air conditioning processes</li>
+</ol>
+<p><strong>Application:</strong>
+5. Load Calculations → apply fundamentals to real buildings
+6. Equipment Selection → match equipment to calculated loads
+7. System Design → integrate components into complete systems</p>
+<h2 id="browse-topics">Browse Topics</h2>
+<p>Explore detailed subtopics within each fundamental discipline:</p>
+<ul>
+<li><strong><a href="./thermodynamics/">Thermodynamics</a></strong> - Cycles, exergy, properties, processes</li>
+<li><strong><a href="./heat-transfer/">Heat Transfer</a></strong> - Conduction, convection, radiation mechanisms</li>
+<li><strong><a href="./fluid-mechanics/">Fluid Mechanics</a></strong> - Flow equations, pipe sizing, pump/fan analysis</li>
+<li><strong><a href="./psychrometrics/">Psychrometrics</a></strong> - Moist air properties, chart usage, processes</li>
+<li><strong><a href="./material-properties/">Material Properties</a></strong> - Thermal, physical, moisture properties</li>
+<li><strong><a href="./building-envelope/">Building Envelope</a></strong> - HAM control, thermal bridges, air/vapor barriers</li>
+<li><strong><a href="./energy-resources/">Energy Resources</a></strong> - Fuels, electricity, renewables, consumption</li>
+</ul>
+<h2 id="reference-standards">Reference Standards</h2>
+<ul>
+<li><strong>ASHRAE Handbook of Fundamentals</strong> - Authoritative reference for all fundamental principles</li>
+<li><strong>Heat Transfer Textbooks:</strong> Incropera, DeWitt, Bergman, Lavine</li>
+<li><strong>Fluid Mechanics Textbooks:</strong> White, Munson, Young, Okiishi</li>
+<li><strong>Thermodynamics Textbooks:</strong> Cengel, Boles, Moran, Shapiro</li>
+</ul>
+<hr>
+<p><em>Master HVAC fundamentals to design efficient, comfortable, and sustainable building systems.</em></p>
 
 
     
@@ -190,6 +482,20 @@
             <h3><a href="/hvac-fundamentals/building-envelope-moisture/">Building Envelope Moisture</a></h3>
             
             <p><p>Comprehensive building envelope moisture analysis based on ASHRAE Fundamentals Ch 25-27, 37</p></p>
+            
+        </div>
+        
+        <div class="section-card">
+            <h3><a href="/hvac-fundamentals/humidification-systems/">Humidification Systems: Isothermal vs Adiabatic Methods</a></h3>
+            
+            <p>Comprehensive analysis of humidification methods in HVAC systems, including energy calculations, physical principles, and practical applications</p>
+            
+        </div>
+        
+        <div class="section-card">
+            <h3><a href="/hvac-fundamentals/thermal-comfort/">Thermal Comfort: PMV/PPD Analysis and ASHRAE Standards</a></h3>
+            
+            <p>Comprehensive thermal comfort analysis including PMV/PPD calculations, heat balance equations, adaptive models, and ASHRAE 55 compliance criteria</p>
             
         </div>
         

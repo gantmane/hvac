@@ -1,0 +1,552 @@
+research_specialized_knowledge:
+  version: "2.0_enhanced"
+  description: "Advanced research topics, emerging technologies, specialized knowledge domains, and cutting-edge developments in HVAC and building systems"
+
+  advanced_materials_research:
+    nanostructured_materials:
+      - carbon_nanotubes_heat_transfer
+      - graphene_thermal_conductivity
+      - nanoparticle_enhanced_fluids
+      - nanofluids_heat_transfer_enhancement
+      - nanostructured_surfaces_boiling
+      - nanocoatings_corrosion_resistance
+      - nano_pcm_enhanced_thermal_storage
+      - quantum_dots_solar_applications
+      - metallic_nanoparticles_refrigeration
+
+    aerogel_insulation:
+      - silica_aerogel_properties
+      - ultra_low_thermal_conductivity
+      - translucent_aerogel_windows
+      - aerogel_blankets_insulation
+      - hydrophobic_aerogel
+      - carbon_aerogel_applications
+      - aerogel_composite_materials
+      - vacuum_insulation_panels_aerogel
+
+    phase_change_materials_advanced:
+      - microencapsulated_pcm_slurries
+      - shape_stabilized_pcm
+      - pcm_composites_enhanced_conductivity
+      - metal_foam_pcm_composite
+      - graphite_enhanced_pcm
+      - form_stable_pcm_hdpe_matrix
+      - pcm_nanotechnology_integration
+      - bio_based_pcm_materials
+      - salt_hydrate_pcm_advanced
+      - organic_inorganic_eutectic_pcm
+
+    advanced_heat_exchanger_materials:
+      - graphene_coated_surfaces
+      - superhydrophobic_surfaces
+      - superhydrophilic_surfaces
+      - corrosion_resistant_alloys
+      - titanium_heat_exchangers
+      - polymer_heat_exchangers
+      - ceramic_heat_exchangers
+      - additive_manufactured_heat_exchangers
+      - 3d_printed_complex_geometries
+
+    smart_materials:
+      - shape_memory_alloys_actuators
+      - electrochromic_windows
+      - thermochromic_coatings
+      - photochromic_glazing
+      - piezoelectric_energy_harvesting
+      - thermoelectric_materials_advanced
+      - magnetocaloric_materials
+      - electrocaloric_materials
+
+  energy_storage_research:
+    thermal_energy_storage_advanced:
+      sensible_heat_storage:
+        - molten_salt_storage
+        - concrete_thermal_storage
+        - packed_bed_storage
+        - rock_bed_storage
+        - water_stratified_storage
+        - underground_thermal_storage_advanced
+
+      latent_heat_storage:
+        - pcm_selection_optimization
+        - cascaded_pcm_systems
+        - pcm_heat_pipe_integration
+        - pcm_thermal_diode
+        - shell_and_tube_pcm_storage
+        - plate_pcm_storage
+
+      thermochemical_storage:
+        - chemical_reaction_heat_storage
+        - metal_hydride_storage
+        - ammonia_synthesis_storage
+        - calcium_oxide_water_reaction
+        - sorption_storage_zeolites
+        - sorption_storage_silica_gel
+        - reversible_chemical_reactions
+
+    electrical_energy_storage:
+      battery_technologies:
+        - lithium_ion_batteries
+        - flow_batteries_vanadium
+        - zinc_bromine_batteries
+        - sodium_sulfur_batteries
+        - solid_state_batteries
+        - lithium_air_batteries_research
+
+      mechanical_storage:
+        - flywheel_energy_storage
+        - compressed_air_energy_storage_caes
+        - pumped_hydro_storage
+        - gravity_based_storage
+
+      hydrogen_storage:
+        - hydrogen_production_electrolysis
+        - hydrogen_fuel_cells
+        - hydrogen_compression_storage
+        - metal_hydride_hydrogen_storage
+        - liquid_hydrogen_cryogenic
+        - hydrogen_power_to_gas
+
+  alternative_refrigeration_cycles:
+    hybrid_compression_absorption:
+      - combined_cycle_advantages
+      - cop_enhancement_strategies
+      - low_temperature_applications
+      - industrial_heat_recovery_integration
+
+    ejector_refrigeration:
+      - ejector_cycle_fundamentals
+      - steam_ejector_cooling
+      - two_phase_ejector_systems
+      - ejector_coefficient_of_performance
+      - variable_geometry_ejectors
+      - solar_driven_ejector_systems
+
+    thermoacoustic_refrigeration:
+      - thermoacoustic_engine_principles
+      - standing_wave_thermoacoustic
+      - traveling_wave_thermoacoustic
+      - acoustic_resonators
+      - stack_regenerator_design
+      - noble_gas_working_fluids
+
+    thermoelastic_cooling:
+      - shape_memory_alloy_cooling
+      - nitinol_elastocaloric_effect
+      - mechanical_stress_induced_cooling
+      - solid_state_cooling_advantages
+
+    membrane_refrigeration:
+      - gas_membrane_separation
+      - vapor_permeation_cooling
+      - membrane_distillation
+      - selective_permeability_materials
+
+    vortex_tube_refrigeration:
+      - ranque_hilsch_effect
+      - compressed_air_temperature_separation
+      - spot_cooling_applications
+      - vortex_tube_efficiency
+
+  building_envelope_innovations:
+    advanced_glazing_systems:
+      - electrochromic_smart_windows
+      - thermochromic_windows
+      - suspended_particle_device_spd
+      - polymer_dispersed_liquid_crystal_pdlc
+      - vacuum_insulated_glazing
+      - aerogel_filled_windows
+      - triple_quadruple_glazing
+      - low_e_coating_advances
+      - spectrally_selective_coatings
+      - dynamic_solar_control
+
+    transparent_insulation:
+      - honeycomb_structures
+      - aerogel_translucent_insulation
+      - capillary_structures
+      - light_transmitting_insulation
+
+    phase_change_wallboard:
+      - gypsum_board_pcm_integration
+      - thermal_mass_enhancement
+      - peak_load_reduction
+      - temperature_swing_reduction
+
+    adaptive_building_envelopes:
+      - kinetic_facades
+      - responsive_shading_systems
+      - breathable_wall_systems
+      - moisture_adaptive_membranes
+      - biomimetic_building_skins
+
+    cool_roof_materials:
+      - high_solar_reflectance_coatings
+      - high_infrared_emittance
+      - radiative_cooling_materials
+      - photonic_radiative_coolers
+      - cool_colored_pigments
+
+  indoor_environment_research:
+    human_thermal_comfort_advanced:
+      - local_thermal_discomfort
+      - transient_thermal_comfort
+      - non_uniform_thermal_environments
+      - personalized_thermal_comfort
+      - thermal_comfort_prediction_ml
+      - comfort_preference_learning
+      - adaptive_setpoint_optimization
+
+    circadian_lighting_integration:
+      - melanopsin_response_curve
+      - circadian_stimulus_metrics
+      - equivalent_melanopic_lux
+      - tunable_white_lighting
+      - human_centric_lighting
+      - daylight_harvesting_circadian
+      - lighting_hvac_coordination
+
+    biophilic_design_integration:
+      - nature_connection_indoor_environment
+      - living_walls_green_walls
+      - indoor_plants_air_quality
+      - natural_ventilation_biophilia
+      - daylighting_nature_views
+      - biomimicry_hvac_design
+      - nature_inspired_airflow_patterns
+
+    personalized_ventilation:
+      - task_ambient_conditioning
+      - personal_micro_environments
+      - desk_mounted_ventilation
+      - wearable_cooling_heating
+      - individual_environmental_control
+      - occupant_centric_control
+
+    indoor_air_chemistry:
+      - secondary_organic_aerosol_formation
+      - ozone_indoor_chemistry
+      - volatile_organic_compound_reactions
+      - phthalate_emissions
+      - flame_retardant_emissions
+      - indoor_surface_chemistry
+      - hvac_material_emissions
+
+  artificial_intelligence_machine_learning:
+    deep_learning_applications:
+      - deep_neural_networks_energy_prediction
+      - convolutional_neural_networks_fault_detection
+      - recurrent_neural_networks_time_series
+      - lstm_networks_load_forecasting
+      - gru_gated_recurrent_units
+      - autoencoder_anomaly_detection
+      - variational_autoencoders
+
+    reinforcement_learning_control:
+      - q_learning_hvac_control
+      - deep_q_networks_dqn
+      - policy_gradient_methods
+      - actor_critic_algorithms
+      - model_free_reinforcement_learning
+      - model_based_reinforcement_learning
+      - multi_agent_reinforcement_learning
+
+    transfer_learning:
+      - pre_trained_model_adaptation
+      - domain_adaptation_buildings
+      - few_shot_learning_hvac
+      - zero_shot_learning_applications
+
+    generative_adversarial_networks:
+      - gan_synthetic_data_generation
+      - building_energy_profile_generation
+      - occupancy_pattern_synthesis
+      - weather_data_augmentation
+
+    explainable_ai:
+      - interpretable_machine_learning
+      - feature_importance_analysis
+      - shap_values_explanation
+      - lime_local_interpretability
+      - attention_mechanisms
+      - model_transparency
+
+    federated_learning:
+      - distributed_learning_privacy
+      - edge_device_training
+      - collaborative_model_training
+      - privacy_preserving_analytics
+
+  pandemic_response_hvac:
+    airborne_pathogen_control:
+      - sars_cov_2_transmission_mitigation
+      - aerosol_transmission_mechanisms
+      - droplet_vs_aerosol_distinction
+      - ventilation_rate_infection_risk
+      - wells_riley_equation_application
+      - quantum_generation_rate
+
+    enhanced_filtration_strategies:
+      - merv_13_minimum_recommendation
+      - hepa_filtration_retrofit
+      - upper_room_uvgi_systems
+      - in_duct_uvgi_installation
+      - bipolar_ionization_effectiveness
+      - plasma_air_purification
+      - photocatalytic_oxidation_pco
+
+    ventilation_strategies_pandemic:
+      - increased_outdoor_air_ventilation
+      - 100_percent_outdoor_air_operation
+      - demand_controlled_ventilation_override
+      - continuous_fan_operation
+      - negative_pressure_isolation
+      - portable_hepa_filtration_units
+      - natural_ventilation_enhancement
+
+    operational_modifications:
+      - extended_hvac_operating_hours
+      - pre_occupancy_purge
+      - post_occupancy_purge
+      - night_purge_ventilation
+      - humidity_control_viral_survival
+      - relative_humidity_40_to_60_percent
+      - temperature_setpoint_considerations
+
+  specialized_knowledge_domains:
+    acoustical_engineering_hvac:
+      sound_transmission:
+        - airborne_sound_transmission
+        - structure_borne_sound
+        - flanking_transmission_paths
+        - duct_borne_noise
+        - regenerated_noise_terminals
+
+      noise_control_strategies:
+        - source_path_receiver_control
+        - vibration_isolation_detailed
+        - acoustic_enclosures
+        - sound_absorbing_materials
+        - acoustic_treatment_rooms
+        - anechoic_chambers
+        - reverberation_time_control
+
+      measurement_techniques:
+        - sound_level_meter_measurements
+        - octave_band_analysis
+        - frequency_analyzer
+        - acoustic_intensity_measurement
+        - building_acoustics_testing
+        - field_sound_transmission_testing
+
+    building_physics:
+      heat_air_moisture_transport:
+        - hygrothermal_modeling
+        - moisture_diffusion_building_assemblies
+        - vapor_retarders_air_barriers
+        - interstitial_condensation_analysis
+        - wetting_drying_potential
+        - moisture_buffering_materials
+
+      thermal_bridging:
+        - linear_thermal_transmittance
+        - point_thermal_transmittance
+        - thermal_bridge_analysis_software
+        - infrared_thermography_detection
+        - detail_design_thermal_breaks
+
+      air_leakage_control:
+        - continuous_air_barrier_systems
+        - air_barrier_materials
+        - air_sealing_details
+        - blower_door_testing_protocol
+        - air_leakage_quantification
+        - pressure_testing_compartmentalization
+
+    fire_safety_engineering:
+      smoke_control_systems:
+        - pressurization_systems
+        - mechanical_smoke_exhaust
+        - natural_smoke_venting
+        - atrium_smoke_control
+        - stairwell_pressurization
+        - elevator_shaft_pressurization
+        - smoke_control_sequence
+
+      fire_damper_systems:
+        - fire_damper_rating_requirements
+        - combination_fire_smoke_dampers
+        - ceiling_radiation_dampers
+        - fusible_link_actuation
+        - electric_actuator_dampers
+        - fire_damper_inspection_requirements
+        - imc_nfpa_requirements
+
+      fire_resistance_rated_assemblies:
+        - ul_rated_floor_ceiling
+        - ul_rated_wall_assemblies
+        - penetration_firestopping
+        - through_penetration_firestop_systems
+        - membrane_penetration_firestop
+
+    water_systems_coordination:
+      plumbing_hvac_interface:
+        - domestic_hot_water_heating
+        - water_heater_types_selection
+        - recirculation_systems
+        - tempering_valves_scald_protection
+        - thermal_expansion_control
+        - backflow_prevention
+        - water_treatment_closed_systems
+
+      condensate_drainage:
+        - condensate_drain_sizing
+        - trap_requirements_positive_negative_pressure
+        - auxiliary_drain_pans
+        - condensate_pump_sizing
+        - drain_line_pitch_requirements
+        - air_gap_requirements
+
+      rainwater_management:
+        - roof_drainage_sizing
+        - rainwater_harvesting_hvac_applications
+        - cooling_tower_makeup_water
+        - greywater_systems_integration
+
+    electrical_systems_coordination:
+      power_requirements:
+        - electrical_load_calculations
+        - voltage_drop_calculations
+        - motor_circuit_sizing
+        - disconnect_requirements
+        - overcurrent_protection_sizing
+        - short_circuit_current_ratings
+
+      control_wiring:
+        - low_voltage_wiring
+        - control_circuit_design
+        - relay_logic_circuits
+        - shielded_cable_requirements
+        - separation_power_control_wiring
+        - emi_rfi_considerations
+
+      emergency_power:
+        - generator_sizing_hvac_loads
+        - automatic_transfer_switches
+        - emergency_power_distribution
+        - legally_required_standby_systems
+        - optional_standby_systems
+        - critical_hvac_equipment_backup
+
+    structural_coordination:
+      equipment_loads:
+        - static_load_calculations
+        - dynamic_load_considerations
+        - seismic_restraint_requirements
+        - wind_load_calculations_rooftop
+        - snow_load_effects_equipment
+
+      penetrations_openings:
+        - structural_beam_penetrations
+        - core_drilling_limitations
+        - load_bearing_wall_penetrations
+        - structural_reinforcement_requirements
+        - floor_opening_framing
+
+      vibration_structural_interaction:
+        - resonance_frequency_avoidance
+        - structural_damping
+        - equipment_isolation_design
+        - floor_deflection_limits
+        - structural_amplification_factors
+
+    architectural_coordination:
+      spatial_requirements:
+        - mechanical_room_sizing
+        - equipment_access_clearances
+        - maintenance_clearances
+        - ceiling_plenum_depth
+        - shaft_sizing_coordination
+        - equipment_rigging_paths
+
+      aesthetic_integration:
+        - exposed_ductwork_coordination
+        - grille_diffuser_selection_architecture
+        - equipment_screening
+        - louver_selection_aesthetics
+        - mechanical_equipment_visibility
+
+      building_envelope_integration:
+        - louver_locations_sizing
+        - curb_mounted_equipment_details
+        - roof_penetration_flashing
+        - wall_penetration_details
+        - condensate_drain_discharge
+
+  advanced_sensing_technologies:
+    wireless_sensor_networks:
+      - zigbee_protocol_building_automation
+      - bluetooth_low_energy_ble_sensors
+      - lorawan_long_range_sensors
+      - mesh_network_topology
+      - battery_powered_sensors
+      - energy_harvesting_sensors
+
+    mems_sensors:
+      - micro_electro_mechanical_systems
+      - mems_pressure_sensors
+      - mems_flow_sensors
+      - mems_accelerometers_vibration
+      - miniaturized_sensor_packages
+
+    optical_sensing:
+      - fiber_optic_temperature_sensing
+      - distributed_temperature_sensing
+      - laser_based_particle_counters
+      - optical_gas_detection
+      - infrared_co2_sensors
+
+    vision_based_sensing:
+      - occupancy_detection_cameras
+      - thermal_imaging_cameras
+      - people_counting_systems
+      - activity_recognition_computer_vision
+      - privacy_preserving_vision_sensors
+
+  quantum_computing_potential:
+    - quantum_algorithms_optimization
+    - quantum_annealing_scheduling
+    - quantum_machine_learning
+    - quantum_simulation_molecular_dynamics
+    - quantum_sensors_metrology
+
+  blockchain_energy_management:
+    - distributed_ledger_energy_trading
+    - peer_to_peer_energy_markets
+    - smart_contracts_demand_response
+    - transparent_energy_transactions
+    - renewable_energy_certificates_blockchain
+
+  augmented_virtual_reality:
+    - ar_maintenance_guidance
+    - vr_training_simulations
+    - remote_expert_assistance
+    - virtual_commissioning
+    - 3d_visualization_airflow
+    - mixed_reality_design_review
+
+  edge_computing_fog_computing:
+    - local_data_processing
+    - reduced_latency_control
+    - distributed_intelligence
+    - edge_analytics_real_time
+    - fog_nodes_architecture
+    - cloud_edge_coordination
+
+  cyber_physical_systems:
+    - physical_digital_integration
+    - real_time_monitoring_control
+    - embedded_systems_hvac
+    - system_of_systems_approach
+    - resilience_cyber_attacks
+    - safety_critical_systems

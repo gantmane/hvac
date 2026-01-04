@@ -1,0 +1,583 @@
+air_conditioning_cooling:
+  version: "2.0_enhanced"
+  description: "Comprehensive air conditioning and cooling systems - unitary, central, VRF, chillers, and cooling towers"
+
+  system_types:
+    unitary_systems:
+      split_systems:
+        - outdoor_condensing_unit
+        - indoor_air_handler
+        - indoor_coil_configurations
+        - a_coil
+        - n_coil
+        - slab_coil
+        - refrigerant_line_sets
+        - liquid_line
+        - suction_line
+        - precharged_linesets
+        - field_charged_systems
+        - line_set_length_limits
+        - elevation_change_limits
+        - oil_traps
+        - vertical_riser_design
+        - txv_sizing
+        - filter_drier_sizing
+        - sight_glass_installation
+      package_units:
+        - rooftop_packaged_units
+        - split_packaged_units
+        - gas_electric_packages
+        - heat_pump_packages
+        - economizer_integrated
+        - curb_adapters
+        - duct_connections
+        - gravity_ventilators
+        - power_ventilators
+      window_room_ac:
+        - single_package_design
+        - through_wall_installation
+        - sleeve_requirements
+        - eer_ratings
+        - ceer_combined_energy_efficiency
+      portable_ac:
+        - single_hose_design
+        - dual_hose_design
+        - evaporative_coolers
+        - spot_cooling_applications
+
+    central_air_conditioning:
+      all_air_systems:
+        single_duct:
+          constant_volume:
+            - single_zone_cav
+            - multi_zone_cav
+            - reheat_systems
+            - terminal_reheat
+            - zone_reheat
+            - dual_duct_cav
+            - three_deck_multizone
+          variable_volume:
+            - pressure_dependent_vav
+            - pressure_independent_vav
+            - vav_with_reheat
+            - fan_powered_vav_boxes
+            - series_fan_powered
+            - parallel_fan_powered
+            - bypass_vav_boxes
+            - dual_duct_vav
+            - static_pressure_control
+            - supply_air_temperature_reset
+            - trim_respond_logic
+            - demand_controlled_ventilation
+        dual_duct_systems:
+          - hot_deck_design
+          - cold_deck_design
+          - mixing_boxes
+          - constant_volume_dual_duct
+          - variable_volume_dual_duct
+      all_water_systems:
+        - two_pipe_systems
+        - three_pipe_systems
+        - four_pipe_systems
+        - fan_coil_units
+        - unit_ventilators
+        - induction_units
+        - chilled_beams
+        - active_chilled_beams
+        - passive_chilled_beams
+        - radiant_cooling_panels
+      air_water_systems:
+        - primary_air_systems
+        - secondary_water_systems
+        - induction_terminal_units
+        - air_change_rate_requirements
+
+    variable_refrigerant_flow:
+      system_configurations:
+        - heat_pump_vrf
+        - heat_recovery_vrf
+        - water_cooled_vrf
+        - outdoor_unit_types
+        - combination_units
+        - heat_recovery_units
+        - heat_pump_units
+      indoor_units:
+        - ducted_indoor_units
+        - wall_mounted_indoor
+        - ceiling_cassette_4_way
+        - ceiling_cassette_1_way
+        - ceiling_concealed
+        - floor_standing_units
+        - capacity_range
+        - connection_ratio
+      controls:
+        - individual_zone_control
+        - centralized_control
+        - building_automation_integration
+        - scheduling_capabilities
+        - energy_monitoring
+      piping:
+        - refrigerant_pipe_sizing
+        - branch_selector_boxes
+        - refnet_joints
+        - after_cooler
+        - oil_level_management
+        - maximum_piping_length
+        - maximum_elevation_difference
+        - equivalent_pipe_length
+      performance:
+        - seasonal_efficiency_eer
+        - part_load_performance
+        - simultaneous_heating_cooling
+        - heat_recovery_efficiency
+
+  chillers:
+    vapor_compression_chillers:
+      centrifugal:
+        - single_stage_centrifugal
+        - two_stage_centrifugal
+        - magnetic_bearing_technology
+        - oil_free_compressors
+        - variable_speed_drive
+        - inlet_guide_vane_control
+        - variable_geometry_diffuser
+        - impeller_trim
+        - surge_control
+        - hot_gas_bypass_deprecated
+        - capacity_range_100_to_10000_tons
+        - refrigerants_r134a_r1233zd_r513a
+        - water_cooled_condenser
+        - performance_maps
+        - surge_line
+        - choke_line
+      screw:
+        - twin_screw_rotors
+        - slide_valve_capacity_control
+        - variable_volume_ratio
+        - economizer_operation
+        - part_load_efficiency
+        - oil_cooling_injection
+        - oil_separation_coalescers
+        - capacity_10_to_1000_tons
+        - refrigerants_r134a_r513a
+        - air_cooled_option
+        - water_cooled_option
+      scroll:
+        - multiple_scroll_compressors
+        - digital_scroll_technology
+        - tandem_compressor_configuration
+        - capacity_2_to_200_tons
+        - modular_design
+        - refrigerant_r410a
+      reciprocating:
+        - cylinder_unloading
+        - hot_gas_bypass_control
+        - capacity_5_to_150_tons
+        - refrigerant_options
+
+    absorption_chillers:
+      single_effect_absorption:
+        - cop_approximately_07
+        - heat_source_steam_hot_water
+        - heat_source_temperature_230f_to_250f
+        - libr_solution_concentration
+        - crystallization_prevention_dilution_cycle
+        - purge_system_non_condensables
+        - capacity_100_to_1500_tons
+      double_effect_absorption:
+        - series_flow_configuration
+        - parallel_flow_configuration
+        - cop_approximately_12
+        - heat_source_temperature_350f_to_400f
+        - high_pressure_generator
+        - low_pressure_generator
+        - capacity_300_to_1500_tons
+      triple_effect_absorption:
+        - cop_approximately_17
+        - heat_source_gas_fired
+        - heat_source_temperature_500f_plus
+        - capacity_300_to_1000_tons
+      absorption_components:
+        - solution_pump_design
+        - solution_heat_exchanger
+        - refrigerant_pump_optional
+        - spray_nozzles_absorber
+        - spray_nozzles_generator
+        - corrosion_inhibitor_packages
+
+    chiller_performance:
+      efficiency_metrics:
+        - kilowatts_per_ton
+        - coefficient_of_performance
+        - energy_efficiency_ratio
+        - integrated_part_load_value_iplv
+        - non_standard_part_load_value_nplv
+        - ahri_550_590_standard
+        - part_load_points_100_75_50_25
+      operating_parameters:
+        - chilled_water_supply_temperature
+        - chilled_water_return_temperature
+        - chilled_water_flow_rate
+        - chilled_water_delta_t
+        - condenser_water_supply_temperature
+        - condenser_water_return_temperature
+        - condenser_water_flow_rate
+        - approach_temperature
+        - lift_temperature_difference
+        - evaporator_approach
+        - condenser_approach
+      fouling_factors:
+        - tube_fouling_chilled_water
+        - tube_fouling_condenser_water
+        - fouling_resistance_calculation
+        - cleaning_requirements
+        - performance_degradation
+      controls:
+        - chilled_water_temperature_reset
+        - condenser_water_temperature_reset
+        - demand_limiting
+        - load_limiting
+        - ice_buildup_prevention
+        - freeze_protection
+        - low_ambient_lockout
+        - capacity_staging
+        - lead_lag_control
+        - load_balancing
+        - optimal_start_stop
+        - predictive_control
+
+  cooling_towers:
+    tower_types:
+      mechanical_draft:
+        induced_draft:
+          - fan_location_top
+          - vertical_discharge
+          - counterflow_air_water
+          - crossflow_air_water
+          - fill_media_film_type
+          - fill_media_splash_type
+          - fan_cylinder
+          - drift_eliminators
+          - cold_water_basin
+          - blowdown_connection
+        forced_draft:
+          - fan_location_side_bottom
+          - horizontal_discharge
+          - air_recirculation_potential
+          - centrifugal_fan_design
+      natural_draft:
+        - hyperbolic_tower_shape
+        - tall_tower_construction
+        - density_difference_draft
+        - large_capacity_application
+
+    tower_performance:
+      - approach_to_wet_bulb
+      - range_temperature_difference
+      - cooling_tower_effectiveness
+      - tower_characteristic_curve
+      - gpm_per_ton_ratio
+      - typically_3_gpm_per_ton
+      - l_over_g_ratio
+      - air_to_water_ratio
+      - heat_rejection_capacity
+      - fan_power_consumption
+      - pumping_power
+      - total_tower_power
+
+    components:
+      - fill_media_pvc
+      - fill_media_wood
+      - fill_media_ceramic
+      - spray_nozzles
+      - distribution_system
+      - water_distribution_basin
+      - eliminator_design
+      - drift_loss_percentage
+      - louvers
+      - fan_selection
+      - axial_fans
+      - centrifugal_fans
+      - variable_speed_fan_drives
+      - gear_reducers
+      - fan_motors
+      - basin_heaters
+      - sump_design
+      - strainers
+
+    water_treatment:
+      - cycles_of_concentration
+      - blowdown_calculation
+      - makeup_water_requirements
+      - evaporation_loss
+      - drift_loss
+      - windage_loss
+      - chemical_treatment_programs
+      - scale_inhibitors
+      - corrosion_inhibitors
+      - biocides
+      - dispersants
+      - ph_control
+      - conductivity_monitoring
+      - total_dissolved_solids
+      - hardness_control
+      - alkalinity_control
+      - calcium_carbonate_scaling
+      - silica_scaling
+      - biological_growth_control
+      - legionella_control_strategies
+      - water_testing_schedule
+
+    free_cooling_operation:
+      - waterside_economizer
+      - direct_waterside_economizer
+      - indirect_waterside_economizer
+      - plate_frame_heat_exchanger
+      - strainer_protection
+      - free_cooling_hours
+      - transition_mode_operation
+      - chiller_assist_mode
+
+  condensers:
+    water_cooled_condensers:
+      - shell_and_tube_design
+      - tube_bundle_removable
+      - tube_bundle_fixed
+      - u_tube_configuration
+      - straight_tube_configuration
+      - tube_material_selection
+      - enhanced_tube_surfaces
+      - waterside_fouling
+      - tube_cleaning_methods
+      - brush_cleaning
+      - chemical_cleaning
+      - approach_temperature_3_to_5f
+      - log_mean_temperature_difference
+      - heat_transfer_coefficient
+
+    air_cooled_condensers:
+      - fin_tube_coils
+      - microchannel_coils
+      - v_coil_configuration
+      - flat_coil_configuration
+      - a_frame_configuration
+      - axial_fans
+      - multiple_fan_staging
+      - variable_speed_fan_control
+      - ambient_temperature_effects
+      - high_ambient_operation
+      - low_ambient_operation
+      - head_pressure_control_strategies
+      - fan_cycling
+      - damper_control
+      - condenser_flooding
+      - hot_gas_bypass_to_receiver
+
+    evaporative_condensers:
+      - combined_evaporative_air_cooling
+      - refrigerant_coil_design
+      - spray_water_system
+      - wet_bulb_effectiveness
+      - approach_5_to_10f
+      - makeup_water
+      - blowdown_requirements
+      - drift_eliminators
+      - water_treatment_evaporative
+
+  air_handling_units:
+    components:
+      - casing_construction
+      - thermal_break_design
+      - insulation_internal
+      - access_doors
+      - mixing_box_section
+      - filter_section
+      - heating_coil_section
+      - cooling_coil_section
+      - humidifier_section
+      - fan_section
+      - sound_attenuator_section
+      - heat_recovery_section
+
+    coil_configurations:
+      - draw_through_fan
+      - blow_through_fan
+      - chilled_water_coils
+      - hot_water_coils
+      - steam_coils
+      - electric_heating_coils
+      - dx_cooling_coils
+      - coil_face_velocity
+      - coil_rows
+      - coil_fins_per_inch
+      - coil_circuiting
+
+    fan_types_ahu:
+      - forward_curved_centrifugal
+      - backward_inclined_centrifugal
+      - airfoil_centrifugal
+      - plenum_fans
+      - plug_fans
+      - vaneaxial_fans
+      - variable_frequency_drives
+      - fan_array_systems
+
+    controls_ahu:
+      - discharge_air_temperature_control
+      - mixed_air_temperature_control
+      - supply_air_static_pressure
+      - building_static_pressure
+      - space_temperature_control
+      - humidity_control
+      - co2_control
+      - economizer_control
+      - minimum_outdoor_air_control
+      - demand_controlled_ventilation
+
+  humidifiers:
+    steam_humidifiers:
+      electrode_steam_humidifiers:
+        - submerged_electrode_design
+        - current_conductivity_based_control
+        - mineral_buildup_canister
+        - disposable_cylinder_replacement
+        - automatic_drain_flush
+        - steam_output_modulation
+        - low_maintenance_operation
+        - water_quality_requirements_electrode
+        - conductivity_range_100_to_1500_microsiemens
+        - efficiency_near_100_percent
+      gas_fired_steam_humidifiers:
+        - natural_gas_burner
+        - propane_capability
+        - heat_exchanger_stainless_steel
+        - condensing_design
+        - non_condensing_design
+        - atmospheric_burner_systems
+        - sealed_combustion_systems
+        - venting_requirements_b_vent
+        - outdoor_air_combustion
+        - efficiency_80_to_95_percent
+        - modulating_burner_capacity
+        - minimal_electrical_load
+      electric_resistance_steam:
+        - immersion_heating_elements
+        - resistance_heaters_stainless_steel
+        - water_fill_control
+        - steam_output_staging
+        - multiple_element_control
+        - automatic_drain_cycle
+        - scale_reduction_features
+        - water_treatment_requirements
+        - high_electrical_demand
+        - simple_installation_no_gas_vent
+      steam_to_steam_humidifiers:
+        - building_steam_source_required
+        - pressure_reducing_valve
+        - steam_distribution_manifold
+        - dispersion_tube_design
+        - stainless_steel_tubes_perforated
+        - condensate_separator
+        - steam_trap_installation
+        - low_operating_cost
+        - no_electric_no_gas_required
+        - institutional_hospital_applications
+    evaporative_humidifiers:
+      wetted_media_humidifiers:
+        - rigid_media_pad
+        - expanded_metal_mesh
+        - ceramic_coated_media
+        - water_distribution_system
+        - recirculation_pump
+        - sump_reservoir
+        - overflow_drain
+        - bleed_off_water_quality
+        - media_replacement_schedule
+        - evaporative_cooling_effect
+        - adiabatic_humidification
+        - legionella_prevention_measures
+      spray_nozzle_evaporative:
+        - atomizing_nozzles_compressed_air
+        - fine_mist_generation
+        - evaporation_in_airstream
+        - compressed_air_requirements
+        - air_pressure_60_to_100_psi
+        - water_filtration_required
+        - mineral_content_concerns
+        - quick_absorption_response
+      ultrasonic_humidifiers:
+        - high_frequency_vibration
+        - piezoelectric_transducers
+        - ultrasonic_nebulizer
+        - very_fine_droplet_size_1_to_5_microns
+        - minimal_energy_consumption
+        - demineralized_water_required
+        - reverse_osmosis_ro_water
+        - white_dust_prevention
+        - compact_size
+        - modulating_capacity
+    atomizing_humidifiers:
+      compressed_air_atomization:
+        - twin_fluid_atomization
+        - compressed_air_water_mixing
+        - fine_droplet_production
+        - droplet_size_10_to_50_microns
+        - air_compressor_required
+        - complete_evaporation_in_duct
+        - absorption_distance_requirements
+        - water_treatment_ro_di
+      hydraulic_atomization:
+        - high_pressure_water_pumps
+        - pressure_100_to_1000_psi
+        - nozzle_orifice_atomization
+        - modulating_pump_control
+        - staging_nozzle_manifolds
+        - no_compressed_air_required
+        - water_filtration_critical
+        - nozzle_maintenance_cleaning
+    control_strategies:
+      - relative_humidity_sensing
+      - space_humidity_sensor
+      - return_air_humidity_sensor
+      - duct_mounted_humidity_transmitter
+      - proportional_control_modulating
+      - on_off_staging_control
+      - high_limit_humidity_control
+      - condensation_prevention
+      - summer_humidity_control_disabled
+      - winter_humidity_setpoint_reset
+      - outdoor_temperature_compensation
+      - dew_point_temperature_monitoring
+    water_treatment:
+      - reverse_osmosis_ro_systems
+      - deionization_di_systems
+      - water_softening
+      - filtration_sediment_carbon
+      - conductivity_monitoring
+      - tds_total_dissolved_solids
+      - bleed_off_concentration_control
+      - mineral_scale_prevention
+      - biological_growth_prevention
+      - uv_sterilization
+      - chemical_treatment_biocides
+    health_safety_considerations:
+      - legionella_pneumophila_risk
+      - water_temperature_control_below_68f
+      - stagnant_water_prevention
+      - regular_maintenance_cleaning
+      - ashrae_188_legionella_standard
+      - air_quality_indoor_humidity
+      - mold_prevention_rh_below_60
+      - optimal_comfort_range_30_to_50_rh
+      - static_electricity_reduction
+      - respiratory_health_benefits
+    application_specific:
+      - comfort_humidification_offices
+      - process_humidification_manufacturing
+      - data_center_humidification
+      - hospital_humidification
+      - museum_archive_humidity_control
+      - pharmaceutical_cleanroom
+      - textile_manufacturing
+      - printing_paper_handling
+      - wood_working_furniture

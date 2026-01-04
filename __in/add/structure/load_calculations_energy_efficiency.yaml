@@ -1,0 +1,274 @@
+load_calculations_energy_efficiency:
+  version: "2.0_enhanced"
+  description: "Comprehensive load calculation methods and energy efficiency optimization strategies"
+
+  load_calculation_methods:
+    cooling_load_components:
+      external_heat_gains:
+        solar_radiation_gains:
+          - beam_solar_radiation
+          - diffuse_solar_radiation
+          - ground_reflected_radiation
+          - solar_angles_calculation
+          - shading_coefficient
+          - solar_heat_gain_coefficient_shgc
+          - fenestration_properties
+          - glass_transmission
+          - internal_shading_devices
+          - external_shading_devices
+          - shading_from_overhangs
+          - shading_from_fins
+          - window_orientation_effects
+          - glazing_layers_multiple
+        transmission_heat_gain:
+          - conduction_through_opaque_surfaces
+          - u_factor_overall
+          - thermal_bridging_effects
+          - sol_air_temperature
+          - surface_absorptance
+          - surface_emittance
+          - roof_heat_gain
+          - wall_heat_gain
+          - floor_slab_heat_gain
+          - below_grade_walls
+        infiltration_ventilation:
+          - air_change_method
+          - crack_method_infiltration
+          - effective_leakage_area
+          - blower_door_testing
+          - air_leakage_cfm50
+          - stack_effect_infiltration
+          - wind_effect_infiltration
+          - ventilation_outdoor_air
+          - mechanical_ventilation_load
+      internal_heat_gains:
+        - occupancy_heat_gain_sensible
+        - occupancy_heat_gain_latent
+        - metabolic_rate_activity_level
+        - people_diversity_factor
+        - lighting_heat_gain
+        - lighting_power_density
+        - ballast_factor
+        - use_factor_lighting
+        - special_allowance_factor
+        - equipment_heat_gain_appliances
+        - equipment_heat_gain_computers
+        - equipment_diversity_factor
+        - radiation_fraction_equipment
+        - motor_heat_gain
+        - motor_load_factor
+        - motor_efficiency
+        - elevator_heat_gain
+        - miscellaneous_loads
+      radiant_time_series_method:
+        - rts_coefficients
+        - conduction_time_series
+        - radiant_time_factors
+        - non_solar_rtf
+        - solar_rtf
+        - heat_gain_vs_cooling_load
+        - thermal_mass_effects_rts
+        - zone_response_factors
+
+    heating_load_components:
+      - design_heating_conditions
+      - outdoor_design_temperature_99_percent
+      - indoor_design_temperature
+      - transmission_heat_loss
+      - u_factor_heating_calculation
+      - infiltration_heat_loss_heating
+      - below_grade_heat_loss
+      - slab_on_grade_perimeter_loss
+      - basement_heat_loss
+      - crawl_space_heat_loss
+      - ventilation_heat_loss
+      - duct_heat_loss
+      - piping_heat_loss_distribution
+      - warm_up_load_pickup_load
+      - humidification_load_heating
+
+    calculation_software:
+      - ashrae_heat_balance_method
+      - carrier_hap_hourly_analysis
+      - trace_700_load_calculation
+      - energyplus_simulation
+      - designbuilder_software
+      - iesve_integrated_environmental_solutions
+      - equest_doe2_based
+      - right_suite_universal
+      - coolcalc_commercial_loads
+      - wrightsoft_right_j_residential
+      - elite_software_chvac
+
+    load_profiles:
+      - hourly_load_profiles
+      - peak_design_day_selection
+      - coincident_peak_load
+      - non_coincident_loads
+      - block_load_estimation
+      - diversity_factors_application
+      - load_duration_curves
+
+    design_conditions:
+      - ashrae_climatic_design_conditions
+      - 0_4_percent_design_conditions
+      - 1_0_percent_design_conditions
+      - 2_0_percent_design_conditions
+      - 99_percent_heating_conditions
+      - mean_coincident_wet_bulb
+      - mean_coincident_dry_bulb
+      - dehumidification_design_conditions
+      - wet_bulb_mcdb
+      - enthalpy_design_conditions
+
+    psychrometric_analysis_loads:
+      - sensible_heat_ratio_shr
+      - grand_sensible_heat_factor_gshf
+      - room_sensible_heat_factor_rshf
+      - effective_sensible_heat_factor
+      - bypass_factor_coil
+      - apparatus_dew_point_adp
+      - coil_leaving_air_conditions
+      - supply_air_conditions_required
+
+  energy_efficiency_optimization:
+    performance_metrics_detailed:
+      - seasonal_energy_efficiency_ratio_seer
+      - seer2_updated_rating
+      - energy_efficiency_ratio_eer
+      - eer2_updated_rating
+      - integrated_energy_efficiency_ratio_ieer
+      - coefficient_of_performance_cop
+      - seasonal_cop_scop
+      - heating_seasonal_performance_factor_hspf
+      - hspf2_updated_rating
+      - annual_fuel_utilization_efficiency_afue
+      - thermal_efficiency_boiler
+      - combustion_efficiency_furnace
+      - kilowatts_per_ton_chiller
+      - power_usage_effectiveness_pue_data_center
+      - energy_use_intensity_eui_building
+      - site_energy_vs_source_energy
+      - carbon_emissions_intensity
+
+    variable_speed_technology:
+      - variable_frequency_drives_motors
+      - pulse_width_modulation
+      - vfd_efficiency_curve
+      - inverter_driven_compressors
+      - electronically_commutated_motors_ecm
+      - permanent_magnet_motors
+      - motor_efficiency_classes
+      - ie1_ie2_ie3_ie4_ie5_motors
+      - premium_efficiency_motors
+      - affinity_laws_energy_savings
+      - fan_power_reduction_cubic_relationship
+      - pump_power_reduction
+      - vfd_harmonic_distortion
+      - vfd_power_factor
+
+    economizer_optimization:
+      - airside_economizer_control
+      - dry_bulb_economizer
+      - enthalpy_economizer
+      - differential_enthalpy_control
+      - integrated_economizer_operation
+      - economizer_damper_sequencing
+      - economizer_fault_detection
+      - stuck_damper_detection
+      - damper_not_modulating
+      - excess_outdoor_air
+      - waterside_economizer_strategies
+      - direct_waterside_economizer
+      - indirect_waterside_economizer_plate_hx
+      - strainer_economizer_protection
+      - economizer_hours_tracking
+
+    thermal_energy_storage:
+      ice_storage:
+        - full_storage_design
+        - partial_storage_design
+        - load_leveling_strategy
+        - demand_limiting_strategy
+        - ice_on_coil_storage
+        - ice_harvesting_storage
+        - encapsulated_ice_storage
+        - ice_slurry_systems
+        - charging_cycle_nighttime
+        - discharging_cycle_daytime
+        - storage_tank_sizing
+        - glycol_solution_ice_storage
+      chilled_water_storage:
+        - stratified_storage_tanks
+        - temperature_stratification_maintenance
+        - diffuser_design_inlet_outlet
+        - storage_capacity_ton_hours
+        - charging_discharging_modes
+      phase_change_materials:
+        - pcm_eutectic_salts
+        - pcm_paraffin_wax
+        - pcm_melting_point_selection
+        - pcm_encapsulation
+        - pcm_integration_building_materials
+
+    heat_recovery_systems:
+      - exhaust_air_heat_recovery
+      - condenser_heat_recovery
+      - hot_gas_heat_recovery
+      - heat_recovery_water_heating
+      - desuperheater_heat_recovery
+      - waste_heat_recovery_boilers
+      - economizer_feedwater_heating
+      - heat_recovery_steam_generator
+      - organic_rankine_cycle_waste_heat
+      - absorption_chiller_heat_driven
+
+    load_management:
+      - demand_response_programs
+      - load_shedding_strategies
+      - duty_cycling
+      - thermostat_setpoint_adjustment
+      - load_shifting_time_of_use
+      - thermal_mass_utilization
+      - precooling_strategies
+      - peak_demand_reduction
+      - demand_charge_minimization
+      - energy_arbitrage
+      - automated_demand_response
+
+    commissioning_optimization:
+      - monitoring_based_commissioning
+      - continuous_commissioning
+      - fault_detection_diagnostics_fdd
+      - automated_fault_detection
+      - whole_building_performance
+      - measurement_verification_m_and_v
+      - ipmvp_protocols
+      - energy_modeling_calibration
+      - performance_degradation_detection
+      - retro_commissioning_strategies
+
+    renewable_energy_systems:
+      solar_thermal_integration:
+        - flat_plate_collectors
+        - evacuated_tube_collectors
+        - concentrating_solar_collectors
+        - solar_thermal_storage
+        - solar_fraction_calculation
+        - hybrid_solar_conventional
+      photovoltaic_integration:
+        - grid_tied_pv_systems
+        - battery_storage_systems
+        - net_metering
+        - pv_powered_heat_pumps
+      geothermal_systems:
+        - geothermal_heat_pumps
+        - direct_use_geothermal
+        - ground_coupled_systems
+      wind_energy:
+        - small_wind_turbines
+        - hybrid_wind_solar_systems
+      biomass_integration:
+        - biomass_boilers
+        - biogas_cogeneration
+        - pellet_fuel_systems

@@ -35,3 +35,7 @@ hugo_stats.json
 # Logs
 logs
 *.log
+
+1/
+hvac.yaml
+req.txt

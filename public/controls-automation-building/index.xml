@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Controls Automation Building on HVAC Systems Encyclopedia</title>
+    <title>Controls &amp; Automation on HVAC Systems Encyclopedia</title>
     <link>/controls-automation-building/</link>
-    <description>Recent content in Controls Automation Building on HVAC Systems Encyclopedia</description>
+    <description>Recent content in Controls &amp; Automation on HVAC Systems Encyclopedia</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 04 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/controls-automation-building/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PID Controllers in HVAC Applications</title>
+      <link>/controls-automation-building/pid-controllers/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/controls-automation-building/pid-controllers/</guid>
+      <description>&lt;h2 id=&#34;control-fundamentals&#34;&gt;Control Fundamentals&lt;/h2&gt;&#xA;&lt;p&gt;PID controllers regulate HVAC processes through feedback loops. The algorithm combines three control actions—proportional, integral, and derivative—to minimize error between setpoint and measured value.&lt;/p&gt;&#xA;&lt;h2 id=&#34;mathematical-foundation&#34;&gt;Mathematical Foundation&lt;/h2&gt;&#xA;&lt;p&gt;The PID control equation in continuous form:&lt;/p&gt;&#xA;&lt;div class=&#34;formula&#34;&gt;&#xA;  &#xA;    &lt;div class=&#34;formula-display&#34;&gt;&#xA;      $$&#xA;u(t) = K_p e(t) + K_i \int_0^t e(\tau) d\tau + K_d \frac{de(t)}{dt}&#xA;$$&#xA;    &lt;/div&gt;&#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Where:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;$u(t)$ = controller output (0-100%)&lt;/li&gt;&#xA;&lt;li&gt;$e(t)$ = error signal = setpoint - measurement&lt;/li&gt;&#xA;&lt;li&gt;$K_p$ = proportional gain&lt;/li&gt;&#xA;&lt;li&gt;$K_i$ = integral gain&lt;/li&gt;&#xA;&lt;li&gt;$K_d$ = derivative gain&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;discrete-implementation&#34;&gt;Discrete Implementation&lt;/h3&gt;&#xA;&lt;p&gt;Digital controllers use discrete-time approximation:&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

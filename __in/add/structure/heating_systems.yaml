@@ -1,0 +1,1144 @@
+heating_systems:
+  version: "2.0_enhanced"
+  description: "Comprehensive heating systems taxonomy - combustion, furnaces, boilers, heat pumps, and radiant heating"
+
+  combustion_heating:
+    combustion_fundamentals:
+      - stoichiometric_combustion
+      - excess_air_requirements
+      - theoretical_air
+      - actual_air
+      - combustion_equations
+      - higher_heating_value
+      - lower_heating_value
+      - gross_heating_value
+      - net_heating_value
+      - adiabatic_flame_temperature
+      - combustion_products
+      - flue_gas_composition
+      - co2_percentage
+      - o2_percentage
+      - co_formation
+      - nox_formation
+      - thermal_nox
+      - prompt_nox
+      - fuel_nox
+      - particulate_emissions
+      - soot_formation
+      - incomplete_combustion
+
+    fuels:
+      natural_gas:
+        - composition_methane_content
+        - wobbe_index
+        - heating_value_variations
+        - specific_gravity
+        - gas_pressure_requirements
+        - interchangeability
+      propane_lpg:
+        - vapor_pressure
+        - storage_requirements
+        - vaporization_rate
+        - propane_air_mixtures
+      fuel_oil:
+        - no1_fuel_oil
+        - no2_fuel_oil
+        - no4_fuel_oil
+        - no5_fuel_oil
+        - no6_fuel_oil
+        - viscosity_requirements
+        - atomization
+        - preheating_requirements
+        - sulfur_content
+        - ash_content
+      coal:
+        - anthracite
+        - bituminous
+        - sub_bituminous
+        - lignite
+        - coal_analysis
+        - proximate_analysis
+        - ultimate_analysis
+        - ash_fusion_temperature
+      biomass:
+        - wood_pellets
+        - wood_chips
+        - agricultural_residues
+        - moisture_content_effects
+        - bulk_density
+
+    burners:
+      gas_burners:
+        - atmospheric_burners
+        - power_burners
+        - premix_burners
+        - nozzle_mix_burners
+        - induced_draft_burners
+        - forced_draft_burners
+        - modulating_gas_burners
+        - on_off_burners
+        - low_nox_burners
+        - ultra_low_nox
+        - flameless_combustion
+      oil_burners:
+        - gun_type_burners
+        - rotary_burners
+        - air_atomizing
+        - steam_atomizing
+        - pressure_atomizing
+        - mechanical_atomization
+        - low_pressure_air_atomization
+        - twin_fluid_atomization
+      dual_fuel_burners:
+        - gas_oil_combination
+        - automatic_fuel_changeover
+        - simultaneous_firing
+      coal_burners:
+        - stoker_fired
+        - pulverized_coal
+        - fluidized_bed_combustion
+        - cyclone_burners
+
+    ignition_systems:
+      - direct_spark_ignition
+      - hot_surface_ignition
+      - intermittent_pilot
+      - standing_pilot
+      - flame_rod_sensing
+      - flame_rectification
+      - uv_flame_detection
+      - infrared_flame_detection
+      - ignition_timing
+      - safety_lockout
+
+  furnaces:
+    residential_furnaces:
+      - upflow_configuration
+      - downflow_configuration
+      - horizontal_configuration
+      - counterflow_design
+      - natural_draft
+      - induced_draft
+      - forced_draft
+      - condensing_technology
+      - secondary_heat_exchanger
+      - primary_heat_exchanger
+      - afue_calculation
+      - thermal_efficiency
+      - combustion_efficiency
+      - steady_state_efficiency
+      - cycling_losses
+      - jacket_losses
+      - infiltration_losses
+
+    commercial_furnaces:
+      - unit_heaters
+      - cabinet_heaters
+      - duct_furnaces
+      - make_up_air_furnaces
+      - indirect_fired_heaters
+      - direct_fired_heaters
+      - radiant_tube_heaters
+      - high_intensity_infrared
+      - low_intensity_infrared
+
+    heat_exchangers_furnace:
+      - tubular_heat_exchangers
+      - clamshell_heat_exchangers
+      - drum_heat_exchangers
+      - serpentine_coil
+      - cellular_design
+      - aluminized_steel
+      - stainless_steel_exchangers
+      - corrosion_resistance
+      - condensate_drainage
+
+    controls:
+      - thermostat_control
+      - anticipator_settings
+      - fan_limit_controls
+      - flame_rollout_switches
+      - high_limit_switches
+      - auxiliary_limit_switches
+      - pressure_switches
+      - blocked_vent_switches
+
+  boilers:
+    boiler_types:
+      fire_tube:
+        - scotch_marine_boilers
+        - locomotive_boilers
+        - vertical_fire_tube
+        - horizontal_return_tubular
+        - firebox_boilers
+        - packaged_fire_tube
+      water_tube:
+        - straight_tube_boilers
+        - bent_tube_boilers
+        - d_type_boilers
+        - o_type_boilers
+        - a_type_boilers
+        - watertube_circulation
+        - natural_circulation
+        - forced_circulation
+        - once_through_boilers
+      cast_iron:
+        - sectional_cast_iron
+        - wet_base_design
+        - dry_base_design
+        - push_nipple_assembly
+      steel_boilers:
+        - welded_steel_construction
+        - steel_water_tube
+        - steel_fire_tube
+      condensing_boilers:
+        - full_condensing_mode
+        - partial_condensing_mode
+        - condensate_neutralization
+        - corrosion_resistant_materials
+        - stainless_steel_heat_exchanger
+        - aluminum_silicon_alloy
+      electric_boilers:
+        - resistance_element
+        - electrode_boilers
+        - electric_steam_generators
+
+    boiler_ratings:
+      - gross_output_rating
+      - net_rating_ibl
+      - doe_heating_capacity
+      - burner_input_rating
+      - thermal_efficiency_rating
+      - combustion_efficiency_rating
+      - afue_annual_fuel_utilization
+      - maximum_continuous_rating
+      - peak_rating
+      - turndown_ratio
+
+    steam_boilers:
+      - low_pressure_steam_15psi
+      - high_pressure_steam
+      - steam_quality
+      - steam_purity
+      - carryover_prevention
+      - steam_separator
+      - steam_drum
+      - superheater_design
+      - economizer_design
+      - deaerator_systems
+      - feedwater_heating
+      - blowdown_systems
+      - continuous_blowdown
+      - bottom_blowdown
+      - surface_blowdown
+
+    hot_water_boilers:
+      - low_temperature_water
+      - medium_temperature_water
+      - high_temperature_water
+      - design_pressure_ratings
+      - design_temperature_ratings
+      - expansion_tank_sizing
+      - compression_tank
+      - diaphragm_tank
+      - bladder_tank
+      - air_elimination_devices
+      - tangential_air_separator
+      - microbubble_separator
+      - backflow_preventer
+      - mixing_valves
+      - reset_controls
+
+    water_treatment:
+      - feedwater_quality
+      - dissolved_oxygen_removal
+      - chemical_deaeration
+      - mechanical_deaeration
+      - oxygen_scavengers
+      - sulfite_treatment
+      - hydrazine_treatment
+      - filming_amines
+      - neutralizing_amines
+      - phosphate_treatment
+      - chelant_treatment
+      - polymer_treatment
+      - scale_prevention
+      - corrosion_prevention
+      - blowdown_control
+      - conductivity_monitoring
+      - ph_control
+      - hardness_testing
+      - alkalinity_testing
+      - chloride_testing
+      - silica_testing
+
+    combustion_analysis:
+      - flue_gas_analysis
+      - oxygen_trim_control
+      - co2_optimization
+      - carbon_monoxide_monitoring
+      - stack_temperature
+      - draft_measurement
+      - combustion_air_temperature
+      - excess_air_calculation
+      - air_fuel_ratio
+      - stack_loss_calculation
+      - radiation_loss_calculation
+      - convection_loss
+      - unburned_fuel_loss
+      - sensible_heat_loss
+
+  heat_pumps:
+    air_source_heat_pumps:
+      components:
+        - reversing_valve
+        - four_way_valve
+        - check_valves
+        - bidirectional_filter_driers
+        - accumulator
+        - crankcase_heater
+      defrost_systems:
+        - time_temperature_defrost
+        - demand_defrost
+        - hot_gas_defrost_cycle
+        - reverse_cycle_defrost
+        - electric_defrost_supplemental
+        - defrost_termination_controls
+        - defrost_initiation_methods
+      cold_climate_performance:
+        - enhanced_vapor_injection
+        - flash_tank_economizer
+        - two_stage_compression
+        - variable_speed_compressor
+        - dual_fuel_integration
+        - balance_point_calculation
+        - supplementary_heat_staging
+        - low_ambient_operation
+        - capacity_at_47f
+        - capacity_at_17f
+        - capacity_at_5f
+      auxiliary_heating:
+        - electric_resistance_backup
+        - staging_sequence
+        - emergency_heat_mode
+        - lockout_controls
+
+    ground_source_heat_pumps:
+      ground_loop_types:
+        vertical_closed_loop:
+          - single_u_tube
+          - double_u_tube
+          - concentric_tube
+          - borehole_diameter
+          - borehole_depth
+          - borehole_spacing
+          - thermally_enhanced_grout
+          - standard_grout
+          - grout_thermal_conductivity
+          - drilling_methods
+          - rotary_drilling
+          - cable_tool_drilling
+          - down_hole_hammer
+        horizontal_closed_loop:
+          - single_pipe_trenches
+          - multiple_pipe_trenches
+          - slinky_coil_configuration
+          - spiral_coil_configuration
+          - trench_depth
+          - trench_spacing
+          - pipe_spacing
+          - backfill_material
+        pond_lake_loops:
+          - coil_submersion_depth
+          - coil_configuration
+          - antifreeze_requirements
+          - ice_formation_prevention
+        open_loop:
+          - well_water_systems
+          - supply_well
+          - injection_well
+          - standing_column_well
+          - bleed_rate
+          - well_yield_requirements
+          - water_quality_issues
+          - fouling_potential
+          - corrosion_potential
+          - heat_exchanger_isolation
+      heat_transfer_fluids:
+        - water_only_systems
+        - propylene_glycol_solutions
+        - ethylene_glycol_solutions
+        - methanol_solutions
+        - ethanol_solutions
+        - calcium_chloride_brine
+        - freeze_point_depression
+        - viscosity_effects
+        - specific_heat_effects
+        - pumping_power_requirements
+        - corrosion_inhibitors
+      design_considerations:
+        - ground_thermal_conductivity
+        - thermal_conductivity_testing
+        - soil_type_effects
+        - moisture_content_effects
+        - rock_thermal_properties
+        - undisturbed_ground_temperature
+        - ground_thermal_diffusivity
+        - entering_water_temperature
+        - leaving_water_temperature
+        - loop_temperature_differential
+        - ground_loop_sizing
+        - heating_dominated_loads
+        - cooling_dominated_loads
+        - balanced_loads
+        - hybrid_ground_loop_systems
+        - supplemental_heat_rejection
+        - cooling_tower_assist
+
+    water_source_heat_pumps:
+      - closed_loop_water_systems
+      - open_loop_water_systems
+      - cooling_tower_water_source
+      - lake_water_source
+      - river_water_source
+      - seawater_heat_pumps
+      - wastewater_heat_recovery
+      - condenser_water_loop
+      - loop_temperature_maintenance
+      - boiler_heat_addition
+      - fluid_cooler_heat_rejection
+
+    ductless_mini_split:
+      - single_zone_systems
+      - multi_zone_systems
+      - inverter_technology
+      - variable_refrigerant_temperature
+      - individual_zone_control
+      - wireless_controls
+      - branch_box_configuration
+      - indoor_unit_types
+      - wall_mounted_units
+      - ceiling_cassette_units
+      - floor_mounted_units
+      - concealed_duct_units
+      - refrigerant_piping_runs
+      - elevation_differences
+      - oil_return_requirements
+
+    performance_metrics:
+      - heating_seasonal_performance_factor
+      - hspf_calculation_regions
+      - region_iv_hspf
+      - region_v_hspf
+      - coefficient_of_performance_heating
+      - cop_at_47f
+      - cop_at_17f
+      - energy_efficiency_ratio_cooling
+      - seasonal_energy_efficiency_ratio
+      - integrated_part_load_value
+
+  radiant_heating:
+    hydronic_radiant:
+      floor_heating:
+        - embedded_tube_systems
+        - tube_spacing_design
+        - serpentine_layout
+        - counterflow_serpentine
+        - spiral_layout
+        - tube_materials_pex
+        - tube_materials_pert
+        - tube_materials_pb
+        - tube_materials_copper
+        - tube_diameter_selection
+        - tube_depth_placement
+        - slab_on_grade_installation
+        - thin_slab_installation
+        - above_floor_installation
+        - suspended_floor_installation
+        - staple_up_installation
+        - heat_transfer_plates
+        - insulation_requirements
+        - edge_insulation
+        - under_slab_insulation
+        - floor_covering_effects
+        - tile_flooring
+        - wood_flooring
+        - carpet_flooring
+        - surface_temperature_limits
+        - heat_flux_rates
+        - response_time_analysis
+        - thermal_mass_benefits
+      wall_heating:
+        - embedded_wall_tubes
+        - plaster_wall_systems
+        - drywall_systems
+        - surface_temperature_control
+      ceiling_heating:
+        - radiant_ceiling_panels
+        - embedded_ceiling_systems
+        - modular_panels
+        - metal_ceiling_panels
+        - plaster_ceiling_systems
+
+    electric_radiant:
+      - resistance_cable_systems
+      - heating_mats
+      - carbon_film_systems
+      - heating_cable_spacing
+      - power_density_watts_per_sqft
+      - voltage_options_120v_240v
+      - thermostat_control
+      - floor_sensor_placement
+      - gfci_protection
+
+    design_methodology:
+      - heat_loss_calculations
+      - supply_water_temperature
+      - return_water_temperature
+      - design_temperature_drop
+      - flow_rate_requirements
+      - pump_head_calculations
+      - manifold_design
+      - loop_balancing
+      - flow_meters
+      - circuit_balancing_valves
+      - mixing_valve_control
+      - outdoor_reset_control
+      - zone_control_strategies
+
+  cogeneration_chp_systems:
+    fundamentals:
+      - cogeneration_principles
+      - combined_heat_power_definition
+      - simultaneous_electricity_heat_generation
+      - energy_efficiency_benefits
+      - fuel_utilization_efficiency
+      - power_to_heat_ratio
+      - thermal_efficiency_overall
+      - first_law_efficiency
+      - second_law_efficiency
+      - capacity_sizing
+      - baseload_operation
+      - load_following_operation
+      - grid_parallel_operation
+      - grid_independent_operation
+    prime_movers:
+      reciprocating_engines:
+        gas_engines:
+          - natural_gas_engines
+          - landfill_gas_engines
+          - biogas_engines
+          - spark_ignition_engines
+          - compression_ratios
+          - turbocharging_supercharging
+          - intercooling
+          - electrical_efficiency_30_to_45_percent
+          - thermal_output_characteristics
+          - jacket_water_heat_recovery
+          - exhaust_gas_heat_recovery
+          - oil_cooler_heat_recovery
+          - maintenance_intervals
+          - emissions_control_gas_engines
+        diesel_engines:
+          - compression_ignition_engines
+          - diesel_fuel_heavy_oil
+          - electrical_efficiency_35_to_45_percent
+          - high_grade_heat_exhaust
+          - low_grade_heat_jacket_water
+          - nox_emissions_higher
+          - particulate_emissions
+          - emissions_after_treatment
+      combustion_gas_turbines:
+        - brayton_cycle_operation
+        - axial_flow_compressor
+        - combustion_chamber
+        - turbine_expansion
+        - electrical_efficiency_25_to_42_percent
+        - high_temperature_exhaust_900_to_1000f
+        - simple_cycle_turbines
+        - recuperated_cycle
+        - intercooled_cycle
+        - natural_gas_fuel_primary
+        - liquid_fuel_capability
+        - fast_start_capability
+        - low_nox_combustion
+        - dry_low_nox_burners
+      microturbines:
+        - small_scale_turbines_30_to_500_kw
+        - high_speed_operation
+        - single_shaft_design
+        - recuperator_heat_exchanger
+        - electrical_efficiency_26_to_33_percent
+        - exhaust_temperature_500_to_600f
+        - air_bearings
+        - permanent_magnet_generator
+        - power_electronics_inverter
+        - low_emissions_single_digit_ppm
+        - compact_footprint
+      steam_turbines:
+        - back_pressure_turbines
+        - extraction_condensing_turbines
+        - mechanical_drive_turbines
+        - steam_conditions_inlet
+        - condensing_pressure
+        - extraction_pressure
+        - isentropic_efficiency
+        - steam_rate
+      fuel_cells:
+        - proton_exchange_membrane_pem
+        - phosphoric_acid_pafc
+        - molten_carbonate_mcfc
+        - solid_oxide_sofc
+        - electrochemical_conversion
+        - electrical_efficiency_40_to_60_percent
+        - high_quality_heat_output
+        - low_emissions
+        - modular_design
+        - quiet_operation
+    heat_recovery_equipment:
+      exhaust_heat_recovery:
+        - heat_recovery_steam_generator_hrsg
+        - unfired_hrsg
+        - supplementary_fired_hrsg
+        - multiple_pressure_levels
+        - economizer_evaporator_superheater
+        - exhaust_gas_bypass
+        - stack_damper
+        - duct_burner
+      hot_water_heat_recovery:
+        - jacket_water_heat_exchangers
+        - plate_frame_exchangers
+        - ebullient_cooling_systems
+        - engine_coolant_circuits
+        - lube_oil_heat_recovery
+        - intercooler_heat_recovery
+        - aftercooler_heat_recovery
+      absorption_chiller_integration:
+        - waste_heat_driven_cooling
+        - single_effect_absorption_chiller
+        - double_effect_absorption_chiller
+        - hot_water_vs_steam_driven
+        - thermal_load_utilization
+    system_configurations:
+      - topping_cycle_chp
+      - bottoming_cycle_chp
+      - combined_cycle_configurations
+      - trigeneration_cchp
+      - district_energy_integration
+      - thermal_storage_integration
+      - electric_storage_batteries
+      - microgrid_applications
+    controls_integration:
+      - load_following_controls
+      - thermal_load_tracking
+      - electrical_load_tracking
+      - grid_synchronization
+      - power_quality_management
+      - automatic_transfer_switches
+      - paralleling_switchgear
+      - load_management_strategies
+    economic_analysis:
+      - spark_spread_analysis
+      - avoided_cost_calculations
+      - demand_charge_reduction
+      - standby_charges
+      - interconnection_costs
+      - net_metering_considerations
+      - thermal_utilization_factor
+      - simple_payback_period
+    emissions_environmental:
+      - nox_emissions_control
+      - co_emissions_control
+      - voc_emissions
+      - pm_particulate_matter
+      - selective_catalytic_reduction_scr
+      - oxidation_catalysts
+      - emissions_permits
+      - air_quality_compliance
+
+  infrared_radiant_heating:
+    gas_fired_infrared:
+      high_intensity_infrared:
+        - luminous_radiant_heaters
+        - ceramic_tile_burners
+        - porous_matrix_burners
+        - metal_fiber_burners
+        - surface_temperature_1400_to_1800f
+        - direct_gas_firing
+        - vented_to_outdoors
+        - reflector_systems
+        - parabolic_reflectors
+        - polished_aluminum_reflectors
+        - mounting_height_12_to_30_ft
+        - spot_heating_applications
+        - comfort_heating_efficiency
+        - energy_effectiveness_60_to_80_percent
+      low_intensity_infrared:
+        - tube_heaters_u_tube
+        - tube_heaters_straight_tube
+        - burner_box_location
+        - radiant_tube_material
+        - aluminized_steel_tubes
+        - stainless_steel_tubes
+        - tube_surface_temperature_600_to_1000f
+        - vacuum_negative_pressure_operation
+        - positive_pressure_operation
+        - reflector_placement_above_tube
+        - mounting_height_15_to_40_ft
+        - uniform_area_heating
+        - energy_effectiveness_50_to_70_percent
+    electric_infrared:
+      - resistance_element_heaters
+      - quartz_tube_heaters
+      - quartz_lamp_heaters
+      - metal_sheath_heaters
+      - surface_temperature_range
+      - low_intensity_electric_500_to_1000f
+      - medium_intensity_1000_to_1400f
+      - high_intensity_1400_to_2000f
+      - infrared_wavelength_spectrum
+      - near_infrared_short_wave
+      - medium_infrared_medium_wave
+      - far_infrared_long_wave
+      - reflector_efficiency
+      - mounting_configurations
+      - portable_electric_infrared
+    design_considerations:
+      comfort_radiant:
+        - mean_radiant_temperature_mrt
+        - asymmetric_radiation
+        - radiant_temperature_asymmetry
+        - comfort_equations_radiant
+        - operative_temperature
+        - radiant_heat_flux
+        - pattern_efficiency
+        - fixture_spacing
+      application_specific:
+        - warehouse_heating
+        - manufacturing_facilities
+        - aircraft_hangars
+        - loading_docks
+        - outdoor_spaces_partial_enclosures
+        - spot_heating_workstations
+        - freeze_protection_applications
+        - snow_melting_canopies
+      performance_factors:
+        - ceiling_height_effects
+        - emissivity_of_surfaces
+        - reflectance_of_surfaces
+        - air_stratification_reduction
+        - draft_reduction
+        - infiltration_heat_loss_reduced
+        - quick_warmup_response
+        - zoning_flexibility
+
+  residential_in_space_heating:
+    vented_gas_heaters:
+      - direct_vent_wall_furnaces
+      - b_vent_wall_furnaces
+      - floor_furnaces_gravity
+      - floor_furnaces_forced_air
+      - vented_room_heaters
+      - decorative_gas_fireplaces
+      - gas_fireplace_inserts
+      - vent_free_vs_vented
+      - oxygen_depletion_sensor_ods
+      - automatic_shutoff_safety
+      - millivolt_vs_electronic_ignition
+      - standing_pilot_systems
+      - intermittent_ignition_device
+      - efficiency_ratings_vented_heaters
+    unvented_gas_heaters:
+      - vent_free_gas_heaters
+      - catalytic_heaters
+      - blue_flame_heaters
+      - infrared_radiant_unvented
+      - combustion_products_indoor
+      - moisture_production
+      - oxygen_depletion_safety
+      - state_local_code_restrictions
+      - maximum_btu_input_limits
+      - room_volume_requirements
+      - ventilation_makeup_air
+      - safety_certifications_ansi
+    oil_kerosene_heaters:
+      - vented_oil_heaters
+      - pot_burner_heaters
+      - gun_burner_space_heaters
+      - portable_kerosene_heaters
+      - convective_kerosene_heaters
+      - radiant_kerosene_heaters
+      - wick_type_burners
+      - safety_shutoff_devices
+      - fuel_quality_requirements
+      - indoor_air_quality_concerns
+      - carbon_monoxide_production
+    wood_pellet_stoves:
+      - wood_burning_stoves
+      - epa_certified_wood_stoves
+      - catalytic_combustor_stoves
+      - non_catalytic_stoves
+      - pellet_stoves_automatic_feed
+      - pellet_fuel_specifications
+      - auger_feed_systems
+      - combustion_air_blowers
+      - convection_blowers
+      - hopper_capacity
+      - ash_removal
+      - efficiency_ratings_70_to_85_percent
+      - emissions_regulations
+    fireplace_systems:
+      - masonry_fireplaces
+      - rumford_fireplace_design
+      - fireplace_efficiency_poor
+      - glass_doors_efficiency
+      - outside_combustion_air
+      - fireplace_inserts_wood
+      - fireplace_inserts_gas
+      - fireplace_inserts_pellet
+      - zero_clearance_fireplaces
+      - factory_built_fireplaces
+      - direct_vent_gas_fireplaces
+      - vent_free_gas_logs
+      - electric_fireplaces
+    electric_resistance_heating:
+      baseboard_heaters:
+        - hydronic_baseboard_electric
+        - convection_baseboard_electric
+        - element_design
+        - watt_density
+        - thermostat_control_line_voltage
+        - multiple_zone_control
+        - sizing_calculations_watts_per_sqft
+      wall_heaters:
+        - fan_forced_wall_heaters
+        - radiant_wall_panels
+        - recessed_wall_heaters
+        - surface_mounted_heaters
+        - built_in_thermostat
+        - manual_vs_automatic_control
+      radiant_heating:
+        - radiant_ceiling_panels_electric
+        - radiant_ceiling_cable
+        - radiant_wall_panels
+        - radiant_floor_heating_cable
+        - radiant_floor_mats
+        - electric_radiant_design
+      unit_heaters_electric:
+        - cabinet_unit_heaters_electric
+        - wall_mounted_electric_heaters
+        - ceiling_mounted_electric
+        - fan_forced_convection
+        - wattage_ratings
+    safety_requirements:
+      - clearances_to_combustibles
+      - listing_certifications_ul
+      - installation_codes_nfpa_imc
+      - carbon_monoxide_detectors
+      - smoke_detectors
+      - ventilation_requirements_unvented
+      - emergency_shutoff_accessibility
+
+  chimney_venting_systems:
+    masonry_chimneys:
+      - brick_masonry_construction
+      - concrete_block_chimneys
+      - chimney_liner_requirements
+      - clay_tile_liners
+      - cast_in_place_liners
+      - stainless_steel_liners
+      - chimney_cap_design
+      - rain_cap
+      - spark_arrestor
+      - flue_sizing_masonry
+      - multiple_appliance_venting
+      - cleanout_door
+      - ash_dump
+      - chimney_height_requirements
+      - draft_inducement
+    factory_built_chimneys:
+      - class_a_chimneys
+      - solid_fuel_chimneys_ht
+      - double_wall_construction
+      - triple_wall_construction
+      - air_insulated_chimneys
+      - solid_insulated_chimneys
+      - clearance_to_combustibles_2_inch
+      - ul_103_standard
+      - ul_127_standard_factory_built
+      - chimney_support_requirements
+      - roof_penetration_flashing
+      - chimney_termination_height
+    gas_venting_systems:
+      type_b_vents:
+        - double_wall_aluminum_steel
+        - natural_draft_operation
+        - clearance_1_inch_combustibles
+        - draft_hood_appliances
+        - fan_assisted_combustion_restricted
+        - common_venting_multiple_appliances
+        - vent_connector_requirements
+        - slope_requirements_1_4_inch_per_ft
+      category_i_appliances:
+        - non_condensing_appliances
+        - draft_hood_equipped
+        - type_b_vent_material
+        - masonry_chimney_use
+        - positive_vent_pressure
+        - flue_gas_temperature_high
+      category_ii_appliances:
+        - non_condensing_fan_assisted
+        - positive_vent_pressure
+        - special_venting_materials
+        - stainless_steel_required
+      category_iii_appliances:
+        - condensing_appliances_draft_hood
+        - negative_vent_pressure
+        - condensate_production
+        - corrosion_resistant_materials
+      category_iv_appliances:
+        - condensing_fan_assisted
+        - positive_vent_pressure
+        - pvc_cpvc_venting_allowed
+        - polypropylene_venting
+        - abs_venting
+        - condensate_drainage_neutralization
+    direct_vent_systems:
+      - sealed_combustion_design
+      - concentric_vent_pipes
+      - separate_intake_exhaust_pipes
+      - horizontal_termination
+      - vertical_termination
+      - terminal_location_requirements
+      - clearance_to_openings
+      - through_wall_venting
+      - zero_clearance_capability
+      - outdoor_air_combustion
+    power_vent_systems:
+      - fan_assisted_draft
+      - induced_draft_fans
+      - forced_draft_fans
+      - pressure_proving_switches
+      - vent_dampers_automatic
+      - vent_safety_controls
+      - electrical_interlocks
+    venting_design:
+      draft_calculations:
+        - natural_draft_chimney_effect
+        - theoretical_draft_calculation
+        - available_draft
+        - required_draft_appliance
+        - stack_temperature
+        - ambient_temperature
+        - chimney_height_effect
+        - flow_resistance
+      sizing_methods:
+        - nfpa_54_sizing_tables
+        - fan_input_rating_method
+        - capacity_tables
+        - longest_vent_length
+        - number_of_elbows
+        - altitude_correction_factors
+        - manifold_sizing
+      condensate_management:
+        - condensate_formation_conditions
+        - condensate_drainage_provisions
+        - neutralization_requirements
+        - ph_testing
+        - condensate_pumps
+        - freeze_protection_drain_lines
+    safety_requirements:
+      - combustion_air_adequacy
+      - confined_space_combustion_air
+      - unconfined_space_air
+      - all_air_from_outdoors
+      - makeup_air_mechanical_ventilation
+      - spillage_testing_procedures
+      - carbon_monoxide_testing
+      - draft_testing
+      - clearances_vent_pipes
+
+  unit_ventilators_heaters_makeup_air:
+    unit_ventilators:
+      - classroom_application_primary
+      - heating_ventilating_function
+      - integral_outdoor_air_damper
+      - manual_outdoor_air_control
+      - automatic_outdoor_air_control
+      - face_bypass_dampers
+      - air_blend_dampers
+      - heating_coil_hot_water_steam
+      - cooling_coil_chilled_water_dx
+      - control_sequences_unit_ventilator
+      - cycle_i_heating_only
+      - cycle_ii_heating_economizer_cooling
+      - cycle_iii_heating_mechanical_cooling
+      - minimum_outdoor_air_ventilation
+    unit_heaters:
+      horizontal_unit_heaters:
+        - propeller_fan_design
+        - cabinet_unit_heaters
+        - suspended_horizontal_mounting
+        - wall_mounted_horizontal
+        - steam_coil_heating
+        - hot_water_coil_heating
+        - gas_fired_unit_heaters
+        - oil_fired_unit_heaters
+        - electric_unit_heaters
+        - capacity_range_typical
+        - throw_distance
+        - temperature_rise
+      vertical_unit_heaters:
+        - downward_discharge
+        - ceiling_suspended_mounting
+        - centrifugal_blower
+        - gravity_vented_gas
+        - power_vented_gas
+        - separated_combustion
+      duct_furnaces:
+        - in_duct_installation
+        - draw_through_configuration
+        - blow_through_configuration
+        - gas_fired_duct_furnaces
+        - electric_duct_furnaces
+        - staged_heating_capacity
+        - modulating_gas_valve
+        - high_limit_controls
+    makeup_air_units:
+      heated_makeup_air:
+        - gas_fired_indirect
+        - indirect_fired_design
+        - heat_exchanger_separation
+        - flue_products_isolated
+        - outdoor_air_tempering
+        - heating_capacity_sizing
+        - discharge_temperature_control
+        - modulating_burner_control
+      direct_fired_makeup_air:
+        - 100_percent_combustion_efficiency
+        - products_of_combustion_to_space
+        - flame_in_airstream
+        - no_heat_exchanger
+        - gas_fired_burners
+        - excess_air_control
+        - safety_controls_flame_safeguard
+        - application_restrictions_direct_fired
+        - warehouse_industrial_applications
+      tempered_makeup_air:
+        - minimal_temperature_rise
+        - freeze_protection_primary_purpose
+        - energy_recovery_preheat
+        - indirect_heating
+        - mixing_with_return_air
+      controls:
+        - outdoor_air_temperature_sensor
+        - discharge_air_temperature_control
+        - space_temperature_compensation
+        - building_pressure_control
+        - static_pressure_sensing
+        - airflow_measurement_stations
+        - vfd_fan_control
+    destratification_fans:
+      - ceiling_mounted_fans
+      - reversible_operation
+      - slow_speed_operation
+      - blade_pitch_optimization
+      - warm_air_recirculation
+      - energy_savings_reduced_heating
+
+  hydronic_heat_distributing_units:
+    baseboard_radiation:
+      - finned_tube_baseboard
+      - copper_tube_aluminum_fins
+      - element_ratings_btuh_per_ft
+      - enclosure_design
+      - damper_control_airflow
+      - baseboard_convector
+      - hydronic_baseboard_sizing
+      - series_loop_piping
+      - one_pipe_diverter_fittings
+      - two_pipe_systems_baseboard
+    radiators:
+      cast_iron_radiators:
+        - column_radiators
+        - tube_type_radiators
+        - sectional_construction
+        - edr_ratings_equivalent_direct_radiation
+        - free_standing_radiators
+        - wall_hung_radiators
+        - steam_vs_hot_water
+      steel_panel_radiators:
+        - single_panel_radiators
+        - double_panel_radiators
+        - triple_panel_radiators
+        - integral_convection_fins
+        - compact_radiator_design
+        - side_connections
+        - bottom_connections
+        - thermostatic_radiator_valves_trv
+    convectors:
+      - cabinet_convectors
+      - recessed_convectors
+      - free_standing_convectors
+      - finned_tube_elements
+      - enclosure_front_outlet
+      - damper_control_output
+      - institutional_convectors
+      - commercial_convectors
+    fan_coil_units:
+      - horizontal_fan_coil_units
+      - vertical_fan_coil_units
+      - ceiling_concealed_fan_coils
+      - cabinet_fan_coils
+      - heating_coil_hot_water
+      - cooling_coil_chilled_water
+      - multi_speed_fan_control
+      - low_medium_high_speed
+      - electric_reheat_option
+      - condensate_drain_pan
+      - filter_access
+      - two_pipe_four_pipe_systems
+    unit_heaters_hydronic:
+      - horizontal_propeller_fan
+      - vertical_downblow
+      - steam_coil_unit_heaters
+      - hot_water_coil_heaters
+      - cabinet_enclosure
+      - suspended_mounting
+      - wall_bracket_mounting
+    specialty_terminal_units:
+      - kickspace_heaters
+      - under_cabinet_heaters
+      - fan_forced_kickspace
+      - toe_kick_heaters
+      - trench_heaters
+      - in_floor_trench_convectors
+      - perimeter_heating_application
+      - valance_heating_units
+      - architectural_heating_units
+
+  district_heating:
+    - steam_distribution_networks
+    - high_temperature_hot_water
+    - medium_temperature_hot_water
+    - low_temperature_hot_water
+    - fourth_generation_district_heating
+    - supply_temperature_optimization
+    - return_temperature_optimization
+    - distribution_piping
+    - preinsulated_piping
+    - expansion_compensation
+    - pressure_control_stations
+    - heat_exchanger_substations
+    - indirect_connection
+    - direct_connection
+    - building_interface
+    - energy_metering
+    - heat_meters
+    - flow_measurement
+    - temperature_measurement
+    - combined_heat_power_chp
+    - waste_heat_recovery
+    - geothermal_district_heating
+    - solar_thermal_integration
+    - thermal_storage_integration

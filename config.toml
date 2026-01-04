@@ -4,7 +4,7 @@ title = 'HVAC Systems Encyclopedia'
 
 [params]
   description = 'A comprehensive encyclopedia of heating, ventilation, and air conditioning systems'
-  author = 'HVAC Encyclopedia'
+  author = 'Evgeniy Gantman'
 
 [markup]
   [markup.goldmark]

@@ -290,6 +290,312 @@ High-temperature exhaust from rethermalization hoods enables energy recovery:
 - Heat recovery potential: 8,000-15,000 BTU/hr
 - Application: Domestic hot water preheat, radiant floor heating
 
+## Advanced Load Calculation Methodology
+
+### Simultaneous Load Analysis
+
+Accurate HVAC sizing requires time-series analysis of overlapping heat sources:
+
+**Peak Load Determination:**
+
+Total sensible load (Btu/hr) = Equipment sensible + Lighting + Occupants + Envelope + Infiltration
+
+Total latent load (Btu/hr) = Equipment latent + Occupants + Infiltration + Process moisture
+
+**Equipment Load Calculation Example:**
+
+For a satellite kitchen with:
+- (3) 20-pan forced-air retherm carts @ 22,000 BTU/hr each
+- (2) Steam-injection retherm units @ 30,000 BTU/hr each
+- (1) Combi oven @ 38,000 BTU/hr
+- (4) Hot holding cabinets @ 3,500 BTU/hr each
+
+Peak sensible load = (3 × 22,000 × 0.7) + (2 × 30,000 × 0.35 × 0.7) + (38,000 × 0.7) + (4 × 3,500 × 0.9)
+= 46,200 + 14,700 + 26,600 + 12,600 = 100,100 BTU/hr
+
+Peak latent load = (2 × 30,000 × 0.65 × 0.7) + (38,000 × 0.3 × 0.5)
+= 27,300 + 5,700 = 33,000 BTU/hr
+
+**Diversity factors** applied: 0.7 for retherm equipment (lunch/dinner), 0.9 for holding cabinets (continuous operation), 0.5 for combi oven latent (intermittent steam mode).
+
+### Transient Load Response
+
+Rethermalization creates rapid load changes requiring responsive HVAC:
+
+| Time Period | Load Transition | Response Strategy |
+|-------------|-----------------|-------------------|
+| Pre-service (0-15 min) | Standby to 60% peak | Staged equipment startup, space pre-cooling |
+| Service ramp (15-30 min) | 60% to 100% peak | Full exhaust activation, maximum cooling |
+| Peak service (30-90 min) | Sustained 100% | Maintain design airflow and temperature |
+| Service decline (90-120 min) | 100% to 40% | Modulate exhaust to 50%, reduce cooling |
+| Post-service (120-150 min) | 40% to standby | Purge mode, return to standby settings |
+
+**Control Response Time:**
+- VAV exhaust system: 2-5 minute response to load change
+- Makeup air unit: 1-3 minute temperature/airflow adjustment
+- Space cooling: 5-10 minute temperature recovery from peak load
+
+## Psychrometric Analysis
+
+### Space Condition Management
+
+Rethermalization spaces experience wide-ranging psychrometric conditions:
+
+**Design Conditions:**
+
+| Parameter | Standby Mode | Active Retherm | Peak Service |
+|-----------|--------------|----------------|--------------|
+| Dry bulb temperature | 72°F | 74-76°F | 76-78°F |
+| Wet bulb temperature | 58°F | 62-64°F | 65-68°F |
+| Relative humidity | 45-50% | 55-65% | 65-75% |
+| Dew point | 51°F | 58-60°F | 63-67°F |
+| Specific humidity | 0.0078 lb/lb | 0.0105 lb/lb | 0.0135 lb/lb |
+
+**Moisture Removal Requirements:**
+
+Dehumidification capacity = Latent load (BTU/hr) ÷ 1,060 (BTU/lb moisture) × 7.5 (pints/lb)
+
+For 33,000 BTU/hr latent load: 33,000 ÷ 1,060 × 7.5 = 234 pints/hr removal capacity
+
+**Supply Air Conditions:**
+
+To maintain 75°F, 60% RH space with 33,000 BTU/hr latent load:
+- Supply air temperature: 52-55°F
+- Supply air relative humidity: 85-95% (leaving coil)
+- Sensible heat ratio (SHR): 0.75 (100,100 sensible ÷ 133,100 total)
+- Supply airflow: 100,100 ÷ (1.08 × 20°F ΔT) = 4,634 CFM
+
+## Specialty Exhaust Considerations
+
+### Effluent Characterization
+
+Rethermalization exhaust contains multiple contaminants requiring specific capture strategies:
+
+**Particulate Matter:**
+- Steam-entrained food particles: 0.5-50 microns
+- Aerosol droplets from uncovered foods: 1-10 microns
+- Grease vapor from browning operations: <1 micron
+
+**Gaseous Components:**
+- Water vapor (primary): 90-95% of total exhaust volume
+- Food volatiles (aldehydes, ketones): 3-7% of exhaust volume
+- Combustion gases (gas equipment): CO₂, NOₓ trace amounts
+
+**Thermal Conditions:**
+- Exhaust temperature at hood: 120-180°F
+- Exhaust temperature at fan inlet: 90-140°F (after duct heat loss)
+- Exhaust volumetric flow increase: 15-25% due to thermal expansion
+
+### Grease Extraction Efficiency
+
+Hood filters must achieve minimum grease removal for fire safety:
+
+| Filter Type | Grease Removal Efficiency | Pressure Drop | Application |
+|-------------|---------------------------|---------------|-------------|
+| Baffle filter (standard) | 70-85% | 0.3-0.5 in. w.c. | General retherm equipment |
+| Baffle filter (high-efficiency) | 85-95% | 0.5-0.8 in. w.c. | Steam-injection with browning |
+| Mesh filter | 60-75% | 0.2-0.4 in. w.c. | Light-duty applications only |
+| Cartridge filter | >95% | 0.8-1.2 in. w.c. | High-grease operations |
+
+**Filter Maintenance Impact:**
+
+Pressure drop increases 0.05-0.10 in. w.c. per week of operation. Monthly cleaning required to maintain exhaust airflow within ±10% of design. Automatic pressure monitoring with alarm at 150% design pressure drop.
+
+## Makeup Air Unit Design
+
+### Conditioning Strategy
+
+Makeup air units serving rethermalization areas require multi-stage conditioning:
+
+**Heating Season Operation:**
+
+1. **Preheat stage:** Outdoor air 0°F → 40°F (prevent coil freezing)
+2. **Primary heat:** 40°F → 60-65°F (tempered makeup air)
+3. **Final conditioning:** Optional boost to 70°F if space requires additional heating
+
+**Cooling Season Operation:**
+
+1. **Precool stage:** Outdoor air 95°F → 80°F (optional exhaust air heat recovery)
+2. **Cooling coil:** 80°F → 75-80°F (minimize overcooling)
+3. **Dehumidification:** Typically not required in makeup air (space dehumidification handles latent load)
+
+**Economizer Operation:**
+
+Mixed-mode economizer when outdoor temperature <65°F and <55°F dew point:
+- Damper modulation: 30-100% outdoor air
+- Energy savings: 25-40% cooling energy reduction during shoulder seasons
+- Interlock: Disable when exhaust hood not operating (prevent over-ventilation)
+
+### Discharge Configuration
+
+**Low-Velocity Displacement:**
+- Discharge velocity: 150-300 FPM
+- Discharge temperature: 65-75°F (minimize thermal discomfort)
+- Diffuser type: Perforated or fabric duct
+- Location: Floor or low wall (below 4 feet AFF)
+- Benefit: Reduces draft complaints, maintains stratification
+
+**High-Velocity Jet:**
+- Discharge velocity: 800-1,200 FPM
+- Discharge temperature: 55-65°F
+- Diffuser type: High-induction nozzles
+- Location: Ceiling-mounted, directed parallel to ceiling
+- Benefit: Rapid mixing, compact ductwork, effective cooling
+
+**Short-Circuit Prevention:**
+- Minimum 10-foot separation between makeup air discharge and exhaust hood
+- Avoid direct air streams across hood face
+- Computational fluid dynamics (CFD) modeling for complex layouts
+- Smoke testing during commissioning to verify proper airflow patterns
+
+## Distributed Satellite Kitchen Coordination
+
+### Multi-Zone Synchronization
+
+Large facilities with multiple satellite kitchens require coordinated HVAC operation:
+
+**Central Monitoring:**
+
+Building automation system tracks:
+- Individual satellite exhaust airflow (CFM)
+- Makeup air delivery temperature and flow
+- Space temperature and humidity
+- Equipment power consumption (kW)
+- Occupancy status (occupied/vacant)
+
+**Load Aggregation:**
+
+Total facility load = Σ (individual satellite loads × operating status)
+
+Central chiller plant sizing accounts for:
+- Maximum simultaneous operation: 60-80% of satellites during peak meal service
+- Load diversity factor: 0.65-0.75 across entire facility
+- Temporal diversity: Staggered meal schedules reduce peak by 15-25%
+
+### Pressure Management
+
+Coordinated exhaust from multiple satellites affects building pressurization:
+
+**Exhaust Impact Calculation:**
+
+Total building exhaust = Σ (satellite exhaust) + (other exhaust systems)
+
+For facility with 8 satellite kitchens @ 2,400 CFM each operating simultaneously:
+Total exhaust = 8 × 2,400 × 0.7 (diversity) = 13,440 CFM
+
+Required makeup air = 13,440 × 0.85 (85% replacement ratio) = 11,424 CFM
+
+Remaining 2,016 CFM from building infiltration or transfer air to prevent negative pressure.
+
+**Pressure Control Strategy:**
+- Building static pressure sensor in main corridor
+- Setpoint: -0.01 to +0.02 in. w.c. relative to outdoors
+- Makeup air VFD modulation to maintain setpoint
+- Alarm at -0.05 in. w.c. (excessive negative pressure)
+
+## Equipment Reliability and Redundancy
+
+### Critical System Approach
+
+Healthcare and correctional facility satellite kitchens require backup systems:
+
+**Exhaust System Redundancy:**
+
+| Component | Redundancy Strategy | Switchover Time | Justification |
+|-----------|---------------------|-----------------|---------------|
+| Exhaust fan | N+1 configuration | <5 minutes | Maintain code-required ventilation |
+| Makeup air unit | Dual 50% capacity units | <3 minutes | Prevent negative pressure |
+| Supply air fan | Single unit with 24-hr repair | N/A | Space temperature non-critical |
+| Fire suppression | Code-required redundancy | Immediate | Life safety requirement |
+
+**Equipment Service Life:**
+
+- Exhaust fans: 15-20 years with annual maintenance
+- Makeup air units: 15-25 years (depending on environmental exposure)
+- Hood filters: 5-10 years with monthly cleaning
+- Ductwork: 25-30 years (stainless steel), 20-25 years (carbon steel)
+- Controls: 10-15 years (sensors), 15-20 years (actuators)
+
+### Preventive Maintenance Requirements
+
+**Monthly Tasks:**
+- Hood filter removal and cleaning
+- Exhaust fan belt tension and alignment check
+- Makeup air filter inspection and replacement (if Δp >0.5 in. w.c.)
+- Control sensor calibration verification
+
+**Quarterly Tasks:**
+- Exhaust duct inspection through access panels
+- Fan motor vibration analysis
+- Damper operation and actuator function test
+- Fire suppression system inspection
+
+**Annual Tasks:**
+- Complete exhaust system cleaning per NFPA 96
+- Fan bearing lubrication and motor megger test
+- Coil cleaning (makeup air and space cooling)
+- Comprehensive control system functional test
+- Airflow verification and rebalancing
+
+## Energy Efficiency Optimization
+
+### Demand-Controlled Ventilation
+
+Variable exhaust based on equipment operation reduces energy consumption:
+
+**Control Modes:**
+
+1. **Off Mode (No Operation):**
+   - Exhaust: 0 CFM (fan off)
+   - Makeup air: 0 CFM
+   - Energy consumption: 0 kWh
+
+2. **Standby Mode (Equipment Idle):**
+   - Exhaust: 25% of design CFM (maintain slight negative pressure)
+   - Makeup air: 20% of design CFM
+   - Energy consumption: 15-20% of peak
+
+3. **Active Mode (Equipment Operating):**
+   - Exhaust: 100% of design CFM
+   - Makeup air: 85% of design CFM
+   - Energy consumption: 100% of peak
+
+**Annual Energy Savings:**
+
+Facility with 8 satellite kitchens, each operating 6 hours/day:
+
+Without demand control: 8 × 2.5 kW × 24 hr × 365 days = 175,200 kWh/year
+
+With demand control: 8 × 2.5 kW × [(6 hr × 1.0) + (18 hr × 0.2)] × 365 = 78,840 kWh/year
+
+Energy savings: 96,360 kWh/year (55% reduction)
+
+At $0.12/kWh: $11,563 annual savings
+
+### Heat Recovery Integration
+
+Exhaust air energy recovery viability analysis:
+
+**Economic Evaluation:**
+
+| Parameter | Without Heat Recovery | With Run-Around Loop |
+|-----------|----------------------|---------------------|
+| Exhaust airflow | 2,400 CFM | 2,400 CFM |
+| Exhaust temperature (winter) | 140°F | 140°F |
+| Makeup air temperature required | 60°F | 60°F |
+| Outdoor air temperature (design) | 0°F | 0°F |
+| Heating energy without HR | 2,400 × 60 × 1.08 × 8,760 = 1,366 MMBtu/yr | - |
+| Heat recovery effectiveness | - | 55% |
+| Heating energy with HR | - | 614 MMBtu/yr |
+| Energy savings | - | 752 MMBtu/yr |
+| Cost savings @ $15/MMBtu | - | $11,280/year |
+| System installed cost | - | $32,000 |
+| Simple payback | - | 2.8 years |
+
+**Installation Considerations:**
+
+Heat recovery effectiveness degrades with grease accumulation. Run-around loops preferred over air-to-air heat exchangers in commercial kitchen applications due to separation of airstreams and maintainability.
+
 ## Code Compliance and Safety
 
 ### Ventilation Code Requirements
@@ -316,3 +622,68 @@ HVAC components in rethermalization areas require cleanable construction:
 - Ductwork: Continuously welded, minimum 16 gauge stainless steel or 18 gauge carbon steel
 - Access panels: Minimum every 12 feet of horizontal run, at all changes of direction
 - Slope: Minimum 1/4" per foot toward hood for drainage
+
+## Commissioning and Performance Verification
+
+### Functional Testing Protocol
+
+Comprehensive commissioning ensures proper HVAC performance:
+
+**Pre-Functional Checklists:**
+1. Verify equipment installation per approved drawings
+2. Confirm electrical connections and voltage readings
+3. Check control wiring and I/O point mapping
+4. Inspect ductwork for leakage and proper sealing
+5. Test fire suppression system and HVAC interlocks
+
+**Functional Performance Tests:**
+
+| Test | Acceptance Criteria | Test Method |
+|------|---------------------|-------------|
+| Exhaust airflow | ±10% of design CFM | Pitot tube traverse per ASHRAE 111 |
+| Makeup air temperature | ±3°F of setpoint | Digital psychrometer at discharge |
+| Hood capture | No visible smoke escape | Smoke candle test per ASTM F2427 |
+| Space temperature control | ±2°F of setpoint during service | 2-hour monitoring during peak load |
+| Humidity control | ±5% RH of setpoint | 2-hour monitoring during peak load |
+| Fire suppression activation | All equipment shutoff, exhaust remains on | Simulated activation (dry test) |
+
+**Performance Documentation:**
+
+Test and balance report must include:
+- Measured airflow at each diffuser, grille, and hood
+- Fan motor amperage and voltage
+- Static pressure at fan inlet/outlet
+- Filter pressure drop across all filters
+- Control sequence verification
+- Deficiency list with resolution dates
+
+### Ongoing Performance Monitoring
+
+Continuous commissioning through building automation system:
+
+**Key Performance Indicators:**
+
+1. **Energy Efficiency Ratio (EER):** Total cooling output (BTU/hr) ÷ Total power input (W)
+   - Target: EER >10.0 for makeup air unit with economizer
+   - Alarm threshold: EER <8.0 (indicates degraded performance)
+
+2. **Ventilation Effectiveness:** CO₂ concentration space vs. outdoors
+   - Target: <700 ppm above outdoor ambient during peak occupancy
+   - Alarm threshold: >1,000 ppm above outdoor
+
+3. **Equipment Runtime Efficiency:** Actual operating hours ÷ Scheduled hours
+   - Target: 0.85-0.95 (indicates appropriate demand control)
+   - Alarm threshold: >0.98 (system not cycling off) or <0.70 (excessive cycling)
+
+4. **Maintenance Compliance:** Completed tasks ÷ Scheduled tasks
+   - Target: >95% on-time completion
+   - Review quarterly for trends
+
+**Fault Detection and Diagnostics:**
+
+Automated algorithms detect common failures:
+- Filter loading: Pressure drop increase >50% baseline
+- Fan degradation: Airflow decrease >15% at constant speed
+- Coil fouling: Heat transfer decrease >20% baseline
+- Damper failure: Position feedback differs from command >10%
+- Sensor drift: Reading outside expected range for given conditions

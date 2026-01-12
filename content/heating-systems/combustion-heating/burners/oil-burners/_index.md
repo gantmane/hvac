@@ -524,3 +524,542 @@ At 150 psig saturated steam: 870 lb/h steam consumption
 5. **Steam availability:**
    - Available: Steam atomizing advantageous for large sizes
    - Not available: Air atomizing or rotary cup
+
+## Nozzle Selection and Specification
+
+### Nozzle Flow Rating (GPH)
+
+Oil burner nozzles are rated at standard conditions: 100 psi pressure differential with No. 2 fuel oil at 60°F. The flow rate varies with pressure according to:
+
+$$GPH = GPH_{rated} \sqrt{\frac{P_{actual}}{100}}$$
+
+**Standard nozzle sizes (gph at 100 psi):**
+- Residential: 0.50, 0.65, 0.75, 0.85, 1.00, 1.25, 1.50, 1.75, 2.00, 2.50, 3.00
+- Commercial: 3.50, 4.00, 4.50, 5.00, 6.00, 7.00, 8.00, 10.0, 12.0, 15.0, 20.0
+
+**Sizing calculation:**
+
+Required firing rate converted to nozzle capacity:
+
+$$GPH = \frac{Q_{input}}{HHV \times 1.0}$$
+
+For No. 2 oil: $HHV = 140,000$ Btu/gal
+
+**Example:** 700,000 Btu/h input required:
+
+$$GPH = \frac{700,000}{140,000} = 5.0 \text{ gph}$$
+
+Select 5.0 gph nozzle (exact match) or 5.5 gph (next larger).
+
+**Pressure adjustment for fine-tuning:**
+
+Reduce flow 10% from 5.0 gph nozzle:
+
+$$P_{required} = 100 \times (0.90)^2 = 81 \text{ psi}$$
+
+Adjust pump pressure regulator to 81 psi to achieve 4.5 gph effective flow.
+
+### Spray Angle Selection
+
+Spray angle defines the cone geometry of the fuel spray pattern. Critical for proper air-fuel mixing and flame shape matching to combustion chamber geometry.
+
+**Standard spray angles:**
+- Solid cone: 30°, 45°, 60°, 70°, 80°, 90°
+- Hollow cone: 60°, 70°, 80°, 90°
+
+**Selection criteria:**
+
+| Combustion Chamber | Recommended Angle | Reason |
+|-------------------|-------------------|---------|
+| Short, wide | 80-90° | Wide spray fills chamber |
+| Long, narrow | 45-60° | Narrow spray prevents impingement |
+| Standard residential | 60-80° | Balanced flame shape |
+| Retention head burner | 60-70° | Head stabilizes wide spray |
+| Industrial box furnace | 30-45° | Long flame travel distance |
+
+**Spray angle impact on combustion:**
+
+Narrow angle (30-45°):
+- Longer flame length
+- Higher flame temperature at core
+- Reduced wall impingement risk
+- May require longer combustion chamber
+
+Wide angle (80-90°):
+- Shorter, bushy flame
+- Faster air entrainment
+- Better for compact chambers
+- Risk of wall wetting if chamber too small
+
+### Spray Pattern Type
+
+**Solid cone pattern:**
+- Fuel distributed throughout cone volume
+- Better atomization at center
+- Uniform heat release
+- Standard for most applications
+
+**Hollow cone pattern:**
+- Fuel concentrated at cone periphery
+- Air flows through cone center
+- Enhanced air-fuel mixing
+- Better for high excess air applications
+- Common in industrial burners
+
+**Semi-solid pattern:**
+- Intermediate distribution
+- Fuel concentrated near cone surface with some center distribution
+- Compromise between solid and hollow
+- Used for specific combustion chamber geometries
+
+**Pattern selection:**
+
+Standard residential/commercial: Solid cone 60-80°
+
+Heavy commercial/industrial: Hollow cone 45-70°
+
+Process heating: Semi-solid 60-80°
+
+### Nozzle Spray Quality
+
+**Delavan nozzle designations:**
+- A: Hollow cone
+- B: Solid cone (standard)
+- AR: Auxiliary return (special flow pattern)
+- PL: Special angle (15-30°)
+- NS: Non-standard angle
+- W: Wide angle (90°)
+- H: Hollow cone with center solid stream
+
+**Example nozzle specification:**
+
+Delavan 3.00 gph 60° B
+
+Interpretation:
+- 3.00 gph flow at 100 psi
+- 60° spray angle
+- B = Solid cone pattern
+
+### Dual-Orifice and Special Nozzles
+
+**Dual-orifice nozzles:**
+
+Two concentric spray patterns for improved turndown:
+- Primary orifice: 30-40% of total flow (low fire)
+- Secondary orifice: 60-70% of total flow (high fire)
+- Total turndown: 3:1 to 4:1 (vs. 2:1 single nozzle)
+
+**Operation:**
+- Low fire: Primary orifice only (e.g., 2.0 gph)
+- High fire: Both orifices (e.g., 5.0 gph total)
+- Better atomization at low fire improves efficiency
+
+**Return-flow nozzles:**
+
+Portion of fuel returns to tank:
+- Total pump flow > nozzle discharge
+- Excess oil circulates through nozzle body
+- Reduces oil temperature rise in gun assembly
+- Improves heavy oil atomization
+- Requires special pump with bypass
+
+## Fuel Preheating for Heavy Oils
+
+### Heavy Fuel Oil Characteristics
+
+**Fuel oil grades and viscosity:**
+
+| Grade | Viscosity at 100°F (SSU) | Pour Point (°F) | Preheat Required |
+|-------|-------------------------|----------------|------------------|
+| No. 2 | 32-38 | -10 to 20 | None |
+| No. 4 | 45-125 | 20-40 | 100-120°F |
+| No. 5 Light | 150-300 | 40-60 | 150-180°F |
+| No. 5 Heavy | 300-900 | 50-75 | 180-220°F |
+| No. 6 | 900-9000 | 60-90 | 200-240°F |
+
+**Viscosity-temperature relationship:**
+
+Walther equation for fuel oil:
+
+$$\log \log(\nu + 0.7) = A - B \log T$$
+
+Where:
+- $\nu$ = Kinematic viscosity (centistokes)
+- $T$ = Absolute temperature (°R)
+- $A, B$ = Fuel-specific constants
+
+**Target viscosity for atomization:**
+
+Proper atomization requires:
+- Pressure atomizing: 150-250 SSU (35-55 cSt)
+- Rotary cup: 100-200 SSU (20-45 cSt)
+- Steam atomizing: 100-150 SSU (20-35 cSt)
+
+### Preheating System Design
+
+**Tank heating:**
+
+Maintain bulk storage temperature above pour point + 10-20°F:
+- Steam coils in tank bottom
+- Electric immersion heaters
+- Heat tracing on tank walls
+- Insulation to minimize losses
+
+**Transfer line heating:**
+
+Heat tracing maintains pumping viscosity:
+- Electric heat tracing: 5-15 W/ft
+- Steam tracing: 1/2" tube parallel to fuel line
+- Insulation over tracing
+- Temperature control at 20-40°F above pour point
+
+**Burner preheater:**
+
+Final heating to atomization viscosity:
+- Steam-to-oil heater: Shell-and-tube design
+- Electric preheater: Immersion elements in fuel chamber
+- Temperature control: ±5°F of setpoint
+- Safety: High-limit cutout at 250°F
+
+**Preheater sizing:**
+
+Heat required to raise oil temperature:
+
+$$Q = \dot{m}_{oil} c_p \Delta T$$
+
+Where:
+- $\dot{m}_{oil}$ = Oil mass flow (lb/h)
+- $c_p$ = Specific heat ≈ 0.45 Btu/(lb·°F) for fuel oil
+- $\Delta T$ = Temperature rise (°F)
+
+**Example:** 100 gph No. 6 oil, 70°F ambient, 220°F final temperature
+
+Mass flow: $\dot{m} = 100 \times 7.8 = 780$ lb/h
+
+Heat required: $Q = 780 \times 0.45 \times (220-70) = 52,650$ Btu/h
+
+Select 60,000 Btu/h preheater (safety factor 1.15).
+
+### Preheating Control Strategy
+
+**Temperature sensing:**
+- RTD sensor in oil stream downstream of preheater
+- Response time: <10 seconds
+- Accuracy: ±2°F
+
+**Modulating control:**
+- PID controller adjusts steam valve or electric power
+- Setpoint: Target atomization temperature
+- Prevents temperature overshoot (coking risk)
+
+**Interlocks:**
+- Burner permissive: Oil temperature >minimum setpoint
+- High-limit shutdown: Oil temperature >maximum safe limit (250°F)
+- Low flow shutdown: Prevents overheating at low fire
+
+## Combustion Air Requirements
+
+### Stoichiometric Air Calculation
+
+**Theoretical air for complete combustion:**
+
+For hydrocarbon fuel:
+
+$$\text{Stoich Air} = \frac{11.5 \times C + 34.5(H - O/8) + 4.3S}{0.232}$$
+
+Where C, H, O, S are weight fractions.
+
+**Simplified for typical fuel oils:**
+
+No. 2 oil composition: C=87%, H=13%
+
+$$\text{Stoich Air} = \frac{11.5 \times 0.87 + 34.5 \times 0.13}{0.232} = 62.3 \text{ lb air/lb fuel}$$
+
+Or: 1547 ft³ air/gal at 60°F (assuming air density 0.075 lb/ft³)
+
+**Actual air requirement:**
+
+$$\text{Actual Air} = \text{Stoich Air} \times (1 + \frac{EA}{100})$$
+
+Where EA = Excess air percentage
+
+**Example:** 5.0 gph burner with 25% excess air:
+
+Stoichiometric: $5.0 \times 1547 = 7735$ ft³/h
+
+Actual: $7735 \times 1.25 = 9669$ ft³/h = 161 cfm at 60°F
+
+At combustion air temperature 70°F: $161 \times (530/520) = 164$ cfm
+
+### Primary and Secondary Air Distribution
+
+**Primary air (delivered by burner fan):**
+- 80-100% of stoichiometric requirement
+- High velocity (2000-4000 fpm at nozzle)
+- Atomizes and mixes with fuel spray
+- Creates flame pattern
+
+**Secondary air (natural draft or induced):**
+- 0-20% of stoichiometric plus all excess air
+- Lower velocity (<1000 fpm)
+- Completes combustion
+- Provided by draft or entrained naturally
+
+**Air distribution impact:**
+
+High primary air percentage:
+- Better initial mixing
+- Shorter flame
+- Higher fan power
+- Reduced secondary air flexibility
+
+Low primary air percentage:
+- Longer flame
+- May cause smoking if insufficient
+- Lower fan power
+- Greater secondary air control needed
+
+### Combustion Air Temperature Effects
+
+**Density correction:**
+
+Air volume varies inversely with absolute temperature:
+
+$$CFM_2 = CFM_1 \times \frac{T_2}{T_1}$$
+
+Where T in °R (°F + 460)
+
+**Cold ambient operation:**
+
+Winter air at 0°F vs. 70°F:
+- Density increase: 15%
+- Volume flow decrease: 13% for same mass
+- Over-airing tendency requires damper adjustment
+- Improved combustion efficiency (denser air)
+
+**Hot ambient operation:**
+
+Mechanical room at 120°F:
+- Density decrease: 11%
+- Under-airing risk
+- Reduced fan performance
+- May require combustion air ducted from outdoors
+
+**Preheated combustion air:**
+
+Intentional air preheat (heat recovery):
+- Every 100°F air preheat ≈ 1% efficiency gain
+- Reduces fuel consumption
+- Requires NOx consideration (higher flame temperature)
+- Used in large industrial installations
+
+## Flame Retention Heads
+
+### Operating Principle
+
+Flame retention head stabilizes combustion by creating:
+- Recirculation zone of hot combustion products
+- Low-velocity region for flame anchoring
+- Enhanced air-fuel mixing through turbulence
+- Continuous ignition source for incoming fuel-air mixture
+
+**Mechanism:**
+1. Primary air flows through head vanes (swirling)
+2. Head creates wake region behind burner
+3. Hot combustion products recirculate in wake
+4. Incoming fuel-air mixture ignited by recirculation zone
+5. Flame anchored at retention head face
+
+### Design Configurations
+
+**Vane patterns:**
+- Straight vanes: Radial airflow, simple design
+- Curved vanes: Swirling airflow, enhanced mixing
+- Louvered vanes: Multiple air jets, high turbulence
+
+**Head geometry:**
+- Flat face: Standard retention
+- Recessed face: Deeper recirculation zone
+- Extended cone: Long flame applications
+- Stabilizer ring: Enhanced low-fire retention
+
+### Performance Benefits
+
+**Improved combustion quality:**
+- Smoke reduction: 30-50% lower smoke number
+- CO reduction: 20-40% lower CO emissions
+- Excess air reduction: Can operate at 15-25% vs. 30-50%
+- Efficiency improvement: 1-3% combustion efficiency gain
+
+**Turndown improvement:**
+- Low-fire stability: Down to 40% of rated capacity
+- Wider operating range without smoking
+- Better modulating burner performance
+
+**Flame characteristics:**
+- Shorter, more compact flame
+- Cooler flame tips (reduced NOx)
+- Better flame pattern consistency
+- Reduced combustion noise
+
+### Selection and Adjustment
+
+**Head sizing:**
+
+Match retention head diameter to burner capacity:
+- Small residential (0.5-2.0 gph): 2.5-3.5" diameter
+- Medium commercial (2.0-5.0 gph): 3.5-4.5" diameter
+- Large commercial (5.0-15 gph): 4.5-6.0" diameter
+
+**Air pattern adjustment:**
+- Vane angle: Controls swirl intensity
+- Head position: Distance from nozzle affects mixing
+- Air shutter: Modulates total primary air
+
+**Nozzle positioning:**
+
+Critical dimension - nozzle tip to head face:
+- Too close (<1/4"): Flame impingement, sooting
+- Optimal (5/16" to 3/8"): Proper mixing, clean flame
+- Too far (>1/2"): Loss of retention benefit, smoking
+
+## Efficiency Optimization
+
+### Combustion Efficiency Fundamentals
+
+**Total efficiency equation:**
+
+$$\eta_{combustion} = \frac{Q_{released}}{Q_{input}} = 1 - \frac{Q_{losses}}{Q_{input}}$$
+
+**Primary heat losses:**
+
+1. **Dry flue gas loss:**
+
+$$L_{dry} = \frac{K(T_{stack} - T_{ambient})}{CO_2}$$
+
+Where K ≈ 0.48 for fuel oil
+
+Typical: 12-18% loss at 400°F stack, 10% CO₂
+
+2. **Moisture loss (H₂O from combustion):**
+
+$$L_{H_2O} = 0.09 \times H \times (1 + \frac{EA}{100})$$
+
+Where H = hydrogen fraction (0.13 for No. 2 oil)
+
+Typical: 6-8% loss
+
+3. **Incomplete combustion loss:**
+
+From CO, smoke, unburned hydrocarbons: 0-5% if properly tuned
+
+4. **Radiation and convection:** 1-2% for insulated equipment
+
+**Achievable combustion efficiency:**
+
+Optimized conditions: 82-86% combustion efficiency
+
+### Excess Air Optimization
+
+**Excess air determination:**
+
+From flue gas O₂ measurement:
+
+$$EA = \frac{O_2}{20.9 - O_2} \times 100$$
+
+**Example:** Measured O₂ = 5%:
+
+$$EA = \frac{5}{20.9-5} \times 100 = 31\%$$
+
+**Optimal excess air range:**
+
+| Burner Type | Optimal EA | O₂ Range |
+|-------------|-----------|----------|
+| Gun-type | 25-40% | 4-6% |
+| Gun-type with retention head | 20-30% | 3-5% |
+| Rotary cup | 15-25% | 2.5-4.5% |
+| Air/steam atomizing | 10-20% | 1.5-3.5% |
+
+**Effects of excess air deviation:**
+
+Too low (<15%):
+- Incomplete combustion
+- CO formation
+- Smoke and soot
+- Efficiency loss from unburned fuel
+
+Too high (>50%):
+- Excessive stack heat loss
+- Every 15% excess air ≈ 1% efficiency loss
+- Increased fan power
+- Lower flame temperature
+
+### Stack Temperature Control
+
+**Target stack temperatures:**
+
+| Application | Target T_stack | Condensation Risk |
+|-------------|---------------|-------------------|
+| Non-condensing boiler | 350-450°F | Minimal |
+| Hot water boiler | 300-400°F | Low |
+| Steam boiler | 400-500°F | None |
+| Condensing boiler | 120-160°F | Intentional |
+
+**Stack temperature impact:**
+
+Every 40°F stack temperature reduction ≈ 1% efficiency improvement
+
+**Example calculation:**
+
+Baseline: 450°F stack, 82% efficiency
+Improved: 370°F stack (80°F reduction)
+
+Efficiency gain: $80/40 \times 1\% = 2\%$
+
+New efficiency: 84%
+
+Annual savings for 5 MMBtu/h boiler at $15/MMBtu:
+
+$$\text{Savings} = 5 \times 8760 \times \frac{2}{100} \times 15 = \$131,400/\text{year}$$
+
+### Combustion Testing and Tuning
+
+**Required measurements:**
+- Stack temperature (°F)
+- Flue gas O₂ or CO₂ (%)
+- Carbon monoxide (ppm)
+- Smoke number (Bacharach scale)
+- Draft (in w.c.)
+
+**Tuning procedure:**
+
+1. **Initial settings:**
+   - Set fuel pressure to rated value (100-150 psi gun-type)
+   - Open air shutter fully
+   - Start burner and allow warm-up (5-10 minutes)
+
+2. **Reduce excess air:**
+   - Close air shutter incrementally
+   - Monitor CO and smoke
+   - Target: CO <100 ppm, smoke trace 0-1
+   - Final O₂: 3-5% for retention head burners
+
+3. **Verify operation:**
+   - Check flame pattern (no impingement, orange tips)
+   - Confirm draft adequate (-0.02 to -0.04 in w.c. over fire)
+   - Measure combustion efficiency
+
+4. **Load variation test:**
+   - Test at low fire and high fire (modulating burners)
+   - Ensure clean combustion across operating range
+   - Adjust linkages if necessary
+
+**Optimization results:**
+
+Properly tuned oil burner:
+- Combustion efficiency: 82-85%
+- Stack temperature: 350-450°F
+- Excess air: 25-35% (4-5.5% O₂)
+- CO: <100 ppm
+- Smoke: Trace 0
+- NOx: 80-120 ppm (No. 2 oil)

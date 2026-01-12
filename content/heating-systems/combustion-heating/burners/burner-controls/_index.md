@@ -589,3 +589,635 @@ Each interlock provides discrete input to PLC. PLC logic determines burner enabl
 - Flame scanner cleaning: Quarterly to annually
 - Linkage lubrication: Annually
 - Full re-commissioning: Every 2-5 years
+
+## Programming Controllers
+
+### Burner Management System Architecture
+
+**Programmable flame safeguard controllers (PFSC):**
+
+Modern burner management systems utilize microprocessor-based programming controllers that integrate flame safeguard sequencing, safety interlocks, modulation control, and diagnostic functions. These controllers replace traditional relay-based logic with software-defined sequences meeting NFPA 86 and CSD-1 requirements.
+
+**Controller classifications:**
+
+**Class A controllers:**
+- Self-checking design with continuous internal diagnostics
+- Dual microprocessor architecture with cross-checking
+- Diagnostic fault detection within 1 second
+- Automatic lockout on internal fault
+- Required for systems >12.5 MMBtu/h per NFPA 86
+
+**Class B controllers:**
+- Single microprocessor with self-checking routines
+- Periodic diagnostic testing (every startup cycle)
+- Suitable for smaller systems <12.5 MMBtu/h
+- Lower cost than Class A
+- Manual verification of safety functions during commissioning
+
+**Programming methodology:**
+
+**Timing diagram development:**
+
+Controllers execute preprogrammed timing sequences with discrete outputs for each controlled device:
+
+**Sequence timing table:**
+
+| Event | Start Time | Duration | Outputs Energized | Interlocks Required |
+|-------|-----------|----------|-------------------|---------------------|
+| Pre-start check | 0 s | 2-5 s | None | All safety devices proven |
+| Pre-purge | 5 s | 60 s | Fan, damper 100% | Air pressure proven |
+| Pilot trial | 65 s | 10 s | Pilot valve, ignitor | Scanner clear |
+| Main trial | 75 s | 10 s | Main valve, ignitor | Pilot flame proven |
+| Flame stabilization | 85 s | 10 s | Main valve | Main flame proven |
+| Modulation enabled | 95 s | Continuous | Per demand | Continuous flame supervision |
+
+**Custom sequence programming:**
+
+Advanced controllers allow field programming of timing parameters:
+- Pre-purge duration: 15-300 seconds (must meet code minimums)
+- Trial for ignition: 4-15 seconds (fuel-dependent)
+- Flame stabilization hold: 5-60 seconds
+- Interlocks bypass conditions: Controlled shutdown only
+- Alarm response delays: 1-10 seconds (nuisance prevention)
+
+**Parameter storage:**
+- Non-volatile memory retains settings during power loss
+- Password protection prevents unauthorized changes
+- Audit trail logs all parameter modifications
+- Remote programming capability via network interface
+
+### Advanced Control Features
+
+**Adaptive control algorithms:**
+
+Modern programming controllers incorporate adaptive features optimizing performance:
+
+**Load-based purge time:**
+- Standard purge: Fixed duration per code requirements
+- Adaptive purge: Extended duration after high-fire operation
+- Calculation: Purge time proportional to previous firing rate × time
+
+$$t_{purge,adaptive} = t_{purge,min} + K_{adapt} \times \int_{0}^{t_{off}} FiringRate(\tau) d\tau$$
+
+Where $K_{adapt}$ scales accumulated heat input to additional purge time.
+
+**Self-tuning combustion:**
+- O₂ trim setpoint optimization based on efficiency calculations
+- Automatic fuel characterization (heating value compensation)
+- Seasonal adjustment for air density changes
+- Efficiency tracking with alarm on degradation >5%
+
+**Predictive diagnostics:**
+- Flame signal trending to predict scanner maintenance needs
+- Ignition trial statistics identifying marginal ignition
+- Interlock nuisance trip logging
+- Cycle counting for planned maintenance scheduling
+
+## Fuel Valve Proving Systems
+
+### Valve Proving Methodology
+
+Fuel valve proving systems verify automatic safety shutoff valves (ASSO) achieve complete closure and gas-tight seal before permitting burner startup. NFPA 86 and ASME CSD-1 mandate valve proving for systems >400,000 Btu/h.
+
+**Proving system configuration:**
+
+**Dual valve with vent proving:**
+
+Standard configuration per NFPA 86:
+- Two automatic shutoff valves in series
+- Vent valve between safety shutoff valves
+- Pressure switch monitoring vent section
+- Test sequence proves both valves seal
+
+**Component layout:**
+
+```
+[Gas supply] → [Manual cock] → [ASSO #1] → [Vent valve + Pressure switch] → [ASSO #2] → [Burner]
+```
+
+**Valve proving sequence:**
+
+**Pre-startup proving:**
+
+**Step 1 - Valve closure verification:**
+1. Both ASSO valves confirmed closed (de-energized)
+2. Vent valve opens to atmosphere
+3. Monitor vent section pressure
+4. Pressure must decay to <0.5 in. w.c. within proving time (5-60 seconds)
+5. Decay confirms at least one valve sealed
+
+**Step 2 - Valve #1 leak test:**
+1. Close vent valve
+2. Open ASSO #1 (upstream valve)
+3. Monitor pressure rise in vent section
+4. Pressure must remain <50% of supply pressure for leak test period (5-60 seconds)
+5. Pass indicates ASSO #2 sealed gas-tight
+
+**Step 3 - Valve #2 leak test:**
+1. Close ASSO #1
+2. Open vent valve momentarily to relieve vent section
+3. Close vent valve
+4. Open ASSO #2 (downstream valve)
+5. Monitor pressure decay in vent section
+6. Pressure must decay below threshold (proves ASSO #1 sealed)
+
+**Acceptance criteria:**
+
+**Leak rate calculation:**
+
+Maximum allowable leakage through closed valve:
+
+$$Q_{leak,max} = 0.01 \times Q_{burner,max}$$
+
+For 10 MMBtu/h burner: Maximum valve leakage = 100,000 Btu/h
+
+**Pressure-based leak detection:**
+
+Vent section volume and pressure change indicate leak rate:
+
+$$Q_{leak} = \frac{V_{vent} \times \Delta P}{t_{test} \times P_{atm}} \times Q_{supply}$$
+
+Where:
+- $V_{vent}$ = Vent section volume (ft³)
+- $\Delta P$ = Pressure change during test (in. w.c.)
+- $t_{test}$ = Test duration (seconds)
+- $P_{atm}$ = Atmospheric pressure (407 in. w.c.)
+- $Q_{supply}$ = Available gas flow rate
+
+**Proving system components:**
+
+**Pressure switch specifications:**
+- Sensing range: 0-10 in. w.c. typical
+- Accuracy: ±0.1 in. w.c.
+- Response time: <1 second
+- Adjustability: Fixed factory setting (tamper-proof)
+- Enclosure: NEMA 4 minimum (outdoor/washdown environments)
+
+**Vent valve sizing:**
+- Flow capacity: Sufficient to relieve vent section in <5 seconds
+- Seal class: Bubble-tight shutoff
+- Actuator: Fail-open (spring return to vent position)
+
+**Proving time parameters:**
+- Minimum test duration: 5 seconds (adequate pressure response)
+- Maximum test duration: 60 seconds (startup delay limitation)
+- Typical setting: 10-15 seconds per valve test
+
+### Proving System Failures
+
+**Lockout conditions:**
+
+**Both valves leaking:**
+- Vent section pressure fails to decay (Step 1 failure)
+- Indicates both valves passing gas
+- Potential furnace flooding hazard
+- Replace both valves before operation permitted
+
+**Upstream valve leaking:**
+- Step 2 passes, Step 3 fails
+- ASSO #1 not sealing
+- Gas accumulation in vent section when downstream valve opens
+- Replace upstream valve
+
+**Downstream valve leaking:**
+- Step 2 fails, vent section pressure rises
+- ASSO #2 passing gas with upstream valve open
+- Most common failure mode
+- Replace downstream valve
+
+**Pressure switch failure:**
+- Erratic proving results
+- Nuisance lockouts on good valves
+- Switch stuck or out of calibration
+- Annual calibration verification required
+
+## Air Proving Switches
+
+### Air Pressure Proving
+
+Air proving switches verify combustion air fan operation and adequate airflow before fuel valve opening. These critical safety devices prevent fuel-rich operation causing fires or explosions.
+
+**Pressure switch installation:**
+
+**Sensing location:**
+- Install in burner windbox (after combustion air fan)
+- Location must sense actual burner air pressure
+- Avoid dead-end taps (dirt accumulation, condensation)
+- Install sensing line sloped for condensate drainage
+
+**Typical pressure ranges:**
+
+| Burner Type | Normal Pressure | Switch Setpoint | Application |
+|-------------|-----------------|------------------|-------------|
+| Atmospheric | 0.1-0.5 in. w.c. | 0.05-0.1 in. w.c. | Residential furnaces |
+| Low pressure | 1-5 in. w.c. | 0.8-4 in. w.c. | Commercial burners |
+| High pressure | 5-20 in. w.c. | 4-18 in. w.c. | Industrial burners |
+| Forced draft | 10-50 in. w.c. | 8-45 in. w.c. | Large industrial |
+
+**Setpoint determination:**
+
+Set air proving switch at 80-90% of normal operating pressure:
+
+$$P_{switch} = 0.80 \times P_{operating,normal}$$
+
+This provides margin for:
+- Filter loading (pressure drop increase over time)
+- Damper position variation
+- Atmospheric pressure changes
+- Fan performance degradation
+
+**Response time requirements:**
+
+**Startup proving:**
+- Fan starts
+- Pressure must rise above switch setpoint within 10-30 seconds
+- Proving establishes before fuel permitted
+- Excessive delay indicates fan, damper, or ductwork problem
+
+**Running supervision:**
+- Continuous monitoring during operation
+- Pressure loss triggers immediate fuel shutoff
+- Typical trip delay: 1-2 seconds (prevents nuisance trips)
+- Fan failure, damper closure, or ductwork collapse detected
+
+**Switch selection criteria:**
+
+**Differential vs. gage pressure:**
+- Differential: Compares burner pressure to atmosphere
+- Gage: Measures absolute pressure (draft applications)
+- Burners typically use differential sensing
+
+**SPDT vs. DPDT contacts:**
+- SPDT: Single pole, adequate for most applications
+- DPDT: Double pole, required for redundant safety circuits
+- Contact rating: Minimum 5A at 120VAC (pilot duty)
+
+**Adjustable vs. fixed:**
+- Adjustable: Field setting of trip point (commission flexibility)
+- Fixed: Factory-set (tamper-proof, certified applications)
+- Adjustment range: Typically 2:1 to 10:1 span
+
+### Air Switch Testing and Maintenance
+
+**Functional testing procedure:**
+
+**Startup test:**
+1. Initiate burner startup sequence
+2. Observe fan start
+3. Measure time to air pressure switch closure
+4. Verify switch closes before fuel valves open
+5. Document proving time
+
+**Running test:**
+1. With burner operating at high fire
+2. Manually close combustion air damper slightly
+3. Observe pressure decrease
+4. Switch should trip at setpoint pressure
+5. Fuel valves should close immediately
+6. Return damper to normal position and restart
+
+**Annual calibration:**
+- Remove switch from service
+- Connect to calibrated pressure source
+- Verify trip point within ±5% of setpoint
+- Check contact operation (continuity test)
+- Document results, recalibrate if drift >5%
+
+**Common failure modes:**
+
+**Condensate blockage:**
+- Sensing line fills with water
+- Gives false pressure reading (high or erratic)
+- Install moisture trap or slope lines for drainage
+- Winterization: Heat trace in freezing environments
+
+**Diaphragm deterioration:**
+- Switch becomes sluggish or inoperative
+- Age-related rubber/elastomer degradation
+- Replace switch every 5-10 years as preventive maintenance
+
+**Contact corrosion:**
+- Switch fails to make or break circuit
+- Caused by low current (pilot duty) and environmental exposure
+- Use gold-plated contacts for low-current applications
+
+## High Limit Controls
+
+### Temperature and Pressure Limiting
+
+High limit controls provide independent overheat protection separate from operating controls. ASME Boiler and Pressure Vessel Code Section IV requires high limits on all automatically fired boilers.
+
+**Limit control types:**
+
+**Steam boiler pressure limit:**
+
+**Installation:**
+- Senses steam pressure directly from boiler steam space
+- Independent sensing from operating pressure control
+- Manual reset required after trip
+
+**Settings:**
+
+| Boiler MAWP | Operating Pressure | Limit Setting | Operating Control |
+|-------------|-------------------|---------------|-------------------|
+| 15 psig | 5-10 psig | 15 psig | 8 psig |
+| 50 psig | 20-40 psig | 50 psig | 35 psig |
+| 150 psig | 100-125 psig | 150 psig | 115 psig |
+
+High limit must not exceed boiler MAWP (Maximum Allowable Working Pressure).
+
+**Hot water boiler temperature limit:**
+
+**Installation:**
+- Immersion well in boiler outlet header
+- Sensor must contact water directly (proper well installation)
+- Manual reset typically required
+
+**Settings:**
+
+| Boiler Type | Operating Range | Limit Setting |
+|-------------|-----------------|---------------|
+| Low temperature | 120-160°F | 180-200°F |
+| Standard | 160-200°F | 220-240°F |
+| High temperature | 200-240°F | 250-260°F |
+
+Limit setpoint 20-40°F above normal operating temperature provides safety margin without nuisance trips.
+
+**Process heater limits:**
+
+**Multiple limit strategy:**
+- Process temperature limit (product protection)
+- Heater tube skin temperature limit (equipment protection)
+- Stack temperature limit (fire detection)
+
+Each limit independently capable of shutting fuel supply.
+
+### Limit Control Installation Standards
+
+**Sensor placement:**
+
+**Critical requirements:**
+- Immersion wells: Minimum 4-inch insertion into fluid
+- Well fill: Conductive paste or oil (eliminates air gaps)
+- Location: Representative of maximum temperature/pressure
+- Avoid stratified zones, dead-end connections
+
+**Capillary tube considerations:**
+- Maximum length: 6-12 feet (manufacturer-specified)
+- Protection: Metal conduit in traffic areas
+- Bending radius: Minimum 3-inch radius (avoid kinking)
+- Temperature rating: Ambient temperature along entire length
+
+**Electrical wiring:**
+
+**Safety circuit integration:**
+
+Limit controls wired to interrupt fuel valve circuit directly:
+
+```
+[Line] → [High limit] → [Operating control] → [Flame safeguard] → [Fuel valve]
+```
+
+Breaking any device in series string stops fuel flow immediately.
+
+**Manual reset requirement:**
+
+ASME code mandates manual reset high limits:
+- Prevents automatic restart after overheat condition
+- Forces operator investigation of trip cause
+- Reset button located at boiler (not remote panel)
+- Trip indication: Visible alarm light or flag
+
+**Limit control testing:**
+
+**Functional test procedure:**
+
+**Method 1 - Controlled heat:**
+1. With burner firing, disable operating control
+2. Allow boiler temperature/pressure to rise slowly
+3. Observe limit trip at setpoint
+4. Verify fuel valves close immediately
+5. Record trip point, compare to setting (±2% tolerance)
+
+**Method 2 - Simulated trip:**
+1. Disconnect limit control sensor
+2. Apply test signal simulating over-temperature/pressure
+3. Verify trip and fuel shutoff
+4. Reconnect sensor and verify proper reading
+
+**Test frequency:**
+- Operating test: Monthly (observe normal operation)
+- Functional trip test: Annually
+- Calibration verification: Every 2-5 years
+
+## Modulating Control Systems
+
+### Proportional-Integral-Derivative Control
+
+Modulating burner controls maintain process variables within tight tolerances using PID algorithms adjusting firing rate continuously. Modern systems achieve ±1-2°F control with proper tuning.
+
+**Control loop components:**
+
+**Sensor (measurement):**
+- Temperature: RTD (Pt100, Pt1000) or thermocouple
+- Pressure: 4-20 mA transmitter
+- Accuracy requirement: ±0.25-0.5% of span
+
+**Controller (computation):**
+- Microprocessor-based PID algorithm
+- Update rate: 0.1-1 second intervals
+- Auto-tune capability: Automatic PID parameter determination
+
+**Actuator (final control element):**
+- Modulating damper actuator (air control)
+- Modulating fuel valve (fuel control)
+- Travel time: 15-60 seconds full stroke
+- Position feedback: 4-20 mA or 0-10 VDC signal
+
+**PID algorithm implementation:**
+
+**Discrete PID equation:**
+
+For digital controllers with sampling interval $\Delta t$:
+
+$$u_n = K_p e_n + K_i \sum_{k=0}^{n} e_k \Delta t + K_d \frac{e_n - e_{n-1}}{\Delta t}$$
+
+Where:
+- $u_n$ = Control output at sample $n$ (firing rate %)
+- $e_n$ = Error at sample $n$ (setpoint - measurement)
+- $K_p, K_i, K_d$ = PID gains
+
+**Anti-windup protection:**
+
+Integral windup occurs when actuator saturates (0% or 100%) but error continues accumulating:
+
+**Conditional integration:**
+
+$$\int e dt =
+\begin{cases}
+\text{Accumulate} & \text{if } 0\% < u < 100\% \\
+\text{Freeze} & \text{if } u = 0\% \text{ or } u = 100\%
+\end{cases}$$
+
+Prevents overshoot on setpoint changes or load disturbances.
+
+**Tuning methodology:**
+
+**Ziegler-Nichols closed-loop method:**
+
+1. Set $K_i = 0$, $K_d = 0$ (proportional only)
+2. Increase $K_p$ until sustained oscillation occurs
+3. Record ultimate gain $K_u$ and oscillation period $T_u$
+4. Calculate PID parameters:
+
+$$K_p = 0.6 K_u$$
+$$K_i = \frac{1.2 K_u}{T_u}$$
+$$K_d = 0.075 K_u T_u$$
+
+**Lambda tuning (process-specific):**
+
+For first-order plus dead time processes (typical thermal systems):
+
+$$K_p = \frac{\tau}{\lambda K_{process}}$$
+$$K_i = \frac{1}{\lambda}$$
+
+Where $\lambda$ = desired closed-loop time constant (1-3× process time constant).
+
+**Practical tuning tips:**
+
+**Start conservative:**
+- $K_p$: Set for 20-30°F proportional band initially
+- $K_i$: 0.1-0.2 (reset time 5-10 minutes)
+- $K_d$: 0 initially (add only if needed for fast processes)
+
+**Observe response:**
+- Step setpoint change ±10°F
+- Measure overshoot, settling time, oscillations
+- Quarter-decay ratio: Peak overshoot = 25% of step
+
+**Adjust iteratively:**
+- Reduce overshoot: Decrease $K_p$, increase $K_i$
+- Reduce settling time: Increase $K_p$, decrease $K_i$
+- Reduce oscillations: Decrease all gains, add $K_d$ carefully
+
+## Lockout Procedures and Reset Protocols
+
+### Safety Lockout Classification
+
+Burner management systems employ multiple lockout categories based on fault severity and required corrective action.
+
+**Hard lockout (manual reset required):**
+
+Conditions requiring operator investigation before restart:
+
+1. **Flame failure during operation**
+   - Main flame lost while burner firing
+   - Indicates fuel supply, ignition, or combustion problem
+   - Potential unburned fuel accumulation
+   - Investigation required: Check fuel supply, scanner, air-fuel ratio
+
+2. **Ignition failure**
+   - Flame not established within trial-for-ignition period
+   - Indicates ignition system, fuel supply, or air-fuel ratio fault
+   - Multiple retries create explosion hazard
+   - Investigation required: Verify spark, fuel pressure, air damper position
+
+3. **Unsafe flame signal**
+   - Flame detected during pre-purge (before fuel commanded)
+   - Flame signal with all fuel valves closed
+   - Scanner self-check failure
+   - Indicates scanner malfunction or flame rectification
+   - Investigation required: Verify scanner operation, check for hot refractory false signal
+
+4. **Critical interlock failure**
+   - Low combustion air pressure
+   - Fuel pressure out of range
+   - High temperature/pressure limit trip
+   - Low water condition (steam boilers)
+   - Investigation required: Resolve interlock condition, verify safe operation
+
+**Soft lockout (automatic retry permitted):**
+
+Transient conditions allowing limited automatic restart attempts:
+
+1. **Momentary power loss**
+   - Controller loses power briefly
+   - Burner sequence interrupted
+   - Automatic restart after power restoration and pre-purge
+   - Limit: 3 retries, then hard lockout
+
+2. **Nuisance interlock trip**
+   - Brief pressure fluctuations
+   - Transient electrical noise
+   - Delay timers prevent nuisance lockout
+   - Automatic restart if condition clears within 5-10 seconds
+
+### Reset and Restart Procedures
+
+**Manual reset protocol:**
+
+**Required operator actions:**
+
+1. **Identify lockout cause**
+   - Read fault code or alarm display
+   - Note which interlock or safety device tripped
+   - Record operating conditions at time of lockout
+
+2. **Investigate and correct root cause**
+   - Verify fuel supply adequate
+   - Check air fan operation
+   - Inspect flame scanner cleanliness
+   - Test interlock devices
+   - Correct identified deficiency
+
+3. **Verify safe conditions**
+   - Confirm no gas accumulation in furnace
+   - Check that all interlocks satisfied
+   - Verify manual fuel cock open
+   - Ensure proper burner configuration
+
+4. **Execute controlled restart**
+   - Press manual reset button (at burner location)
+   - Observe pre-purge completion
+   - Monitor ignition sequence
+   - Verify stable operation at low-fire
+   - Allow modulation to operating setpoint
+
+**Lockout persistence:**
+
+**Recycle limit:**
+
+Controllers limit restart attempts preventing repeated ignition failures:
+
+**Standard recycling logic:**
+- First lockout: Manual reset, immediate restart permitted
+- Second lockout within 1 hour: Manual reset, 5-minute delay before restart
+- Third lockout within 1 hour: Manual reset disabled, service required
+- Reset condition after 1 hour of successful operation
+
+**Service lockout conditions:**
+
+Faults requiring qualified technician:
+- Repeated flame failures (>3 in 24 hours)
+- Scanner self-check failures
+- Internal controller faults
+- Valve proving system failures
+
+Service lockout requires password or physical reset (key switch) accessible only to authorized personnel.
+
+**Documentation requirements:**
+
+**Lockout logging:**
+
+Modern controllers maintain event logs:
+- Date/time of lockout
+- Fault code and description
+- Operating conditions (firing rate, temperatures, pressures)
+- Number of occurrences
+- Operator actions taken
+
+Review lockout history to identify:
+- Recurring problems requiring corrective maintenance
+- Seasonal issues (outdoor temperature effects)
+- Operator training needs
+- Equipment degradation trends

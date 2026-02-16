@@ -2,9 +2,9 @@
   {{ if .Get "title" }}
     <h4 class="diagram-title">{{ .Get "title" }}</h4>
   {{ end }}
-  <div class="mermaid">
+  <pre class="mermaid">
 {{ .Inner | safeHTML }}
-  </div>
+  </pre>
   {{ if .Get "caption" }}
     <p class="diagram-caption">{{ .Get "caption" }}</p>
   {{ end }}

@@ -66,6 +66,24 @@
         header p {
             opacity: 0.9;
         }
+        header .header-menu {
+            margin-top: 1rem;
+            display: flex;
+            gap: 1.25rem;
+            flex-wrap: wrap;
+        }
+        header .header-menu a {
+            color: white;
+            text-decoration: none;
+            font-weight: 600;
+            opacity: 0.95;
+            border-bottom: 1px solid rgba(255,255,255,0.4);
+            padding-bottom: 2px;
+        }
+        header .header-menu a:hover {
+            opacity: 1;
+            border-bottom-color: white;
+        }
         nav {
             background: white;
             padding: 1rem 0;
@@ -277,6 +295,13 @@
         <div class="container">
             <h1>{{ .Site.Title }}</h1>
             <p>{{ .Site.Params.description }}</p>
+            {{ with .Site.Menus.main }}
+            <div class="header-menu">
+                {{ range . }}
+                <a href="{{ .URL }}">{{ .Name }}</a>
+                {{ end }}
+            </div>
+            {{ end }}
         </div>
     </header>
 

@@ -1,5 +1,6 @@
 ---
 title: "Dimensioning Standards"
+aliases: ["Dimensioning Standards"]
 weight: 4
 ---
 

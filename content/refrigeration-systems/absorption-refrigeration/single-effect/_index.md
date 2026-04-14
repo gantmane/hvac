@@ -1,5 +1,6 @@
 ---
 title: "Single-Effect Absorption Refrigeration Systems"
+aliases: ["Single-Effect Absorption Refrigeration Systems"]
 description: "Technical analysis of single-effect absorption chillers including LiBr-water and ammonia-water cycles, COP calculations (0.6-0.7), heat source requirements (80-120°C), solution circulation, and waste heat applications."
 weight: 1
 ---

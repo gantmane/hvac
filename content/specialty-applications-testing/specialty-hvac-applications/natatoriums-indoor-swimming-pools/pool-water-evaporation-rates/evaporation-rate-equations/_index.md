@@ -1,7 +1,9 @@
 ---
 title: "Pool Water Evaporation Rate Equations"
+aliases: ["Pool Water Evaporation Rate Equations"]
 description: "Master pool evaporation calculations using ASHRAE, Shah, and Carrier equations. Understand partial pressure differentials, activity factors, and latent load conversion methods."
 keywords: ["pool evaporation rate", "ASHRAE evaporation equation", "Shah equation", "natatorium calculations", "partial pressure differential", "activity factor", "latent heat evaporation", "pool dehumidification"]
+tags: ["pool evaporation rate", "ASHRAE evaporation equation", "Shah equation", "natatorium calculations", "partial pressure differential", "activity factor", "latent heat evaporation", "pool dehumidification"]
 weight: 1
 ---
 

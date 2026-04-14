@@ -1,5 +1,6 @@
 ---
 title: "HVAC Retrofit Programs and Government Incentives"
+aliases: ["HVAC Retrofit Programs and Government Incentives"]
 description: "Government HVAC retrofit programs provide financial incentives for equipment upgrades. Analysis of energy savings calculations, program structures, and ROI metrics."
 weight: 1
 ---

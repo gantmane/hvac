@@ -1,10 +1,12 @@
 ---
 title: "Cold Climate HVAC Strategies"
+aliases: ["Cold Climate HVAC Strategies"]
 description: "Engineering principles and system design strategies for HVAC in cold climates, covering heat recovery, envelope integration, and equipment selection for sub-zero operation."
 date: 2025-01-05
 draft: false
 weight: 2
 keywords: ["cold climate HVAC", "heat recovery", "frost protection", "cold weather design", "Arctic HVAC", "heat pump cold climate", "ventilation cold climate", "ASHRAE design temperatures"]
+tags: ["cold climate HVAC", "heat recovery", "frost protection", "cold weather design", "Arctic HVAC", "heat pump cold climate", "ventilation cold climate", "ASHRAE design temperatures"]
 ---
 
 Cold climate HVAC design requires strategies that address extreme outdoor temperatures, extended heating seasons, high heating loads, and equipment operation in sub-zero conditions. Systems must maintain comfort while managing moisture, preventing freeze damage, and operating efficiently when outdoor temperatures drop below -20°F (-29°C).

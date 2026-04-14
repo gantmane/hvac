@@ -1,5 +1,6 @@
 ---
 title: "Forklifts"
+aliases: ["Forklifts"]
 weight: 2
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Makeup Air Systems for Hotel Commercial Kitchens"
+aliases: ["Makeup Air Systems for Hotel Commercial Kitchens"]
 description: "Engineering analysis of makeup air delivery methods, volume calculations, hood integration, temperature conditioning, and pressure balancing for hotel kitchen HVAC systems."
 keywords: ["makeup air", "kitchen ventilation", "commercial kitchen HVAC", "exhaust hood", "air balance", "short-circuit hood", "negative pressure", "kitchen air curtain"]
+tags: ["makeup air", "kitchen ventilation", "commercial kitchen HVAC", "exhaust hood", "air balance", "short-circuit hood", "negative pressure", "kitchen air curtain"]
 date: 2025-01-11
 draft: false
 weight: 2

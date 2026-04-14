@@ -1,5 +1,6 @@
 ---
 title: "Solar Thermal Systems for HVAC Applications"
+aliases: ["Solar Thermal Systems for HVAC Applications"]
 weight: 2
 description: "Comprehensive analysis of solar thermal heating systems including flat plate collectors, evacuated tube collectors, system sizing methodologies, and integration strategies with conventional HVAC equipment."
 keywords:

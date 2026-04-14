@@ -1,5 +1,6 @@
 ---
 title: "Duct Traverse Procedures for Airflow Measurement"
+aliases: ["Duct Traverse Procedures for Airflow Measurement"]
 description: "Technical guide to pitot tube and hot-wire anemometer traverse methods including log-Tchebycheff and equal area point selection for accurate duct airflow measurement."
 date: 2025-01-05
 weight: 2

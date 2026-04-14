@@ -1,8 +1,10 @@
 ---
 title: "Hotel Bathroom Exhaust Systems"
+aliases: ["Hotel Bathroom Exhaust Systems"]
 weight: 2
 description: "Detailed engineering analysis of hotel bathroom exhaust including continuous vs intermittent strategies, code-required exhaust rates, centralized vs decentralized systems, makeup air pathways, acoustic design for guest comfort, and energy recovery opportunities."
 keywords: "bathroom exhaust, hotel ventilation, IMC exhaust rates, centralized exhaust, makeup air, noise criteria, energy recovery, ASHRAE 62.1"
+tags: ["bathroom exhaust", "hotel ventilation", "IMC exhaust rates", "centralized exhaust", "makeup air", "noise criteria", "energy recovery", "ASHRAE 62.1"]
 ---
 
 # Hotel Bathroom Exhaust Systems

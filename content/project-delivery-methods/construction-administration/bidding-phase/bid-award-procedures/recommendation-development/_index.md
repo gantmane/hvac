@@ -1,5 +1,6 @@
 ---
 title: "Recommendation Development"
+aliases: ["Recommendation Development"]
 weight: 1
 ---
 

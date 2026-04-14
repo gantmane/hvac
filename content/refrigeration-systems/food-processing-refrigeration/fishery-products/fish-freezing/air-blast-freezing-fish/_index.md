@@ -1,7 +1,9 @@
 ---
 title: "Air Blast Freezing for Fish Products"
+aliases: ["Air Blast Freezing for Fish Products"]
 description: "Technical analysis of air blast freezing systems for fish, including air temperature requirements, velocity optimization, freezing time calculations, and quality preservation."
 keywords: ["air blast freezing", "fish freezing", "freezing time calculation", "convective heat transfer", "ice crystal formation", "fish quality preservation", "blast freezer design", "FDA fish processing"]
+tags: ["air blast freezing", "fish freezing", "freezing time calculation", "convective heat transfer", "ice crystal formation", "fish quality preservation", "blast freezer design", "FDA fish processing"]
 weight: 2
 ---
 

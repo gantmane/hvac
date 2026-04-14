@@ -1,5 +1,6 @@
 ---
 title: "Advanced Refrigeration Technologies"
+aliases: ["Advanced Refrigeration Technologies"]
 description: "Physics-based analysis of advanced refrigeration cycles, magnetic cooling, thermoelectric systems, and next-generation vapor compression innovations."
 date: 2025-01-05
 tags: ["refrigeration", "advanced-technologies", "magnetic-cooling", "thermoelectric", "ejector-cycles", "transcritical-refrigeration"]

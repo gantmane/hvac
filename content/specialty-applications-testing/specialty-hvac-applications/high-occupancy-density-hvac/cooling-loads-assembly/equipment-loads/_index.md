@@ -1,7 +1,9 @@
 ---
 title: "Equipment Loads in Assembly Spaces"
+aliases: ["Equipment Loads in Assembly Spaces"]
 description: "Calculate equipment heat gain from AV systems, production equipment, concessions, and exhibits in high-occupancy venues. Includes diversity factors and load estimation methods."
 keywords: ["equipment heat gain", "AV equipment loads", "concession equipment HVAC", "production equipment cooling", "scoreboard loads", "equipment diversity factor", "assembly space equipment", "theater equipment loads"]
+tags: ["equipment heat gain", "AV equipment loads", "concession equipment HVAC", "production equipment cooling", "scoreboard loads", "equipment diversity factor", "assembly space equipment", "theater equipment loads"]
 weight: 3
 ---
 

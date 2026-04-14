@@ -1,8 +1,10 @@
 ---
 title: "Air Distribution Systems for Indoor Swimming Pools"
+aliases: ["Air Distribution Systems for Indoor Swimming Pools"]
 seo_title: "Natatorium Air Distribution: Design & Best Practices"
 description: "Comprehensive guide to air distribution strategies for indoor pools including supply/exhaust placement, velocity calculations, air curtains, and swimmer comfort optimization."
 keywords: ["natatorium air distribution", "pool HVAC design", "air curtain systems", "displacement ventilation pools", "indoor pool ventilation", "swimmer comfort HVAC", "perimeter air distribution", "pool deck airflow"]
+tags: ["natatorium air distribution", "pool HVAC design", "air curtain systems", "displacement ventilation pools", "indoor pool ventilation", "swimmer comfort HVAC", "perimeter air distribution", "pool deck airflow"]
 weight: 6
 ---
 

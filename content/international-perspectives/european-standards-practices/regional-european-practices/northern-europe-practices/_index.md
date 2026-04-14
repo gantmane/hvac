@@ -1,9 +1,11 @@
 ---
 title: "Northern European HVAC Standards and Practices"
+aliases: ["Northern European HVAC Standards and Practices"]
 description: "Technical analysis of Nordic and Baltic HVAC standards including extreme cold climate design, advanced heat recovery systems, and district heating integration."
 date: 2025-01-05
 weight: 1
 keywords: "Nordic HVAC, Scandinavian building standards, extreme cold climate design, Finnish building code, Swedish energy efficiency, Norwegian passive house, Baltic HVAC, district heating, heat recovery, cold climate heat pumps"
+tags: ["Nordic HVAC", "Scandinavian building standards", "extreme cold climate design", "Finnish building code", "Swedish energy efficiency", "Norwegian passive house", "Baltic HVAC", "district heating", "heat recovery", "cold climate heat pumps"]
 ---
 
 # Northern European HVAC Standards and Practices

@@ -1,5 +1,6 @@
 ---
 title: "Freezing Vegetables"
+aliases: ["Freezing Vegetables"]
 description: "HVAC design requirements for vegetable freezing operations including IQF, blast, and spiral freezers with temperature, velocity, and freezing time calculations for food processing facilities"
 weight: 2
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Electric Cable Spacing Design"
+aliases: ["Electric Cable Spacing Design"]
 description: "Technical analysis of heating cable spacing for snow melting systems including watt density calculations, thermal distribution physics, spacing optimization, and edge zone design."
 keywords: ["cable spacing", "heating cable layout", "power density calculation", "watt density", "snow melting design", "thermal distribution", "edge zone heating", "cable spacing formulas"]
+tags: ["cable spacing", "heating cable layout", "power density calculation", "watt density", "snow melting design", "thermal distribution", "edge zone heating", "cable spacing formulas"]
 weight: 5
 ---
 

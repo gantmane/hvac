@@ -1,8 +1,10 @@
 ---
 title: "Dormitory and Residence Hall HVAC Systems"
+aliases: ["Dormitory and Residence Hall HVAC Systems"]
 weight: 5
 description: "Engineering guidance for dormitory and residence hall HVAC design including individual room temperature control, exhaust ventilation requirements, common area conditioning, system type comparisons, and energy management strategies for 24-hour residential occupancy patterns."
 keywords: "dormitory HVAC, residence hall HVAC, student housing HVAC, individual room control, PTAC units, 4-pipe fan coil, bathroom exhaust, ASHRAE 62.1, student housing ventilation, dormitory energy management"
+tags: ["dormitory HVAC", "residence hall HVAC", "student housing HVAC", "individual room control", "PTAC units", "4-pipe fan coil", "bathroom exhaust", "ASHRAE 62.1", "student housing ventilation", "dormitory energy management"]
 ---
 
 # Dormitory and Residence Hall HVAC Systems

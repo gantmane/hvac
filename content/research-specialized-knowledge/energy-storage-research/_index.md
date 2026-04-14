@@ -1,5 +1,6 @@
 ---
 title: "Energy Storage Research"
+aliases: ["Energy Storage Research"]
 description: "Advanced research in thermal energy storage systems, ice storage, chilled water storage, phase change materials, and battery integration for HVAC load shifting and demand response applications."
 weight: 2
 ---

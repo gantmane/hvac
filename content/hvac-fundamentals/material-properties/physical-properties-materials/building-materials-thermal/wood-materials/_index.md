@@ -1,5 +1,6 @@
 ---
 title: "Wood Materials"
+aliases: ["Wood Materials"]
 description: "Thermal properties of softwood, hardwood, and engineered wood products including conductivity, specific heat, moisture effects, and temperature-density relationships for HVAC load calculations"
 weight: 2
 ---

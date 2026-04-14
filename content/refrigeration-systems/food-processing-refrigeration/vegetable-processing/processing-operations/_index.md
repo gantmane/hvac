@@ -1,5 +1,6 @@
 ---
 title: "Processing Operations"
+aliases: ["Processing Operations"]
 weight: 4
 ---
 

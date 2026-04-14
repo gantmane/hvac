@@ -1,5 +1,6 @@
 ---
 title: "Demand Response Programs"
+aliases: ["Demand Response Programs"]
 weight: 1
 ---
 

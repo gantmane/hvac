@@ -1,5 +1,6 @@
 ---
 title: "Biomass Integration"
+aliases: ["Biomass Integration"]
 description: "Comprehensive technical analysis of biomass fuel integration in HVAC systems including fuel characteristics, heating values, combustion equipment, boiler design, emissions control, fuel handling systems, and thermal system sizing for building heating applications"
 weight: 30
 ---

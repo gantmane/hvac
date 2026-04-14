@@ -1,7 +1,9 @@
 ---
 title: "University Laboratory HVAC Systems and Ventilation"
+aliases: ["University Laboratory HVAC Systems and Ventilation"]
 description: "Comprehensive technical guide to research and teaching laboratory ventilation, fume hood calculations, chemical storage requirements, and compliance with ANSI Z9.5 and NFPA 45."
 keywords: ["university laboratory HVAC", "fume hood ventilation", "laboratory air changes", "ANSI Z9.5", "NFPA 45", "chemical storage ventilation", "research lab HVAC", "teaching lab requirements"]
+tags: ["university laboratory HVAC", "fume hood ventilation", "laboratory air changes", "ANSI Z9.5", "NFPA 45", "chemical storage ventilation", "research lab HVAC", "teaching lab requirements"]
 weight: 3
 ---
 

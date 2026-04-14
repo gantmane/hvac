@@ -1,7 +1,9 @@
 ---
 title: "Correctional Facilities HVAC Systems Design"
+aliases: ["Correctional Facilities HVAC Systems Design"]
 description: "Technical overview of HVAC design for correctional facilities including security-level classifications, airflow control, and system redundancy requirements."
 keywords: ["correctional HVAC", "prison ventilation", "security level HVAC", "detention facility climate control", "ACA standards", "correctional airflow", "prison temperature control", "secure facility HVAC"]
+tags: ["correctional HVAC", "prison ventilation", "security level HVAC", "detention facility climate control", "ACA standards", "correctional airflow", "prison temperature control", "secure facility HVAC"]
 weight: 2
 ---
 

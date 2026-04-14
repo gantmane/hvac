@@ -1,5 +1,6 @@
 ---
 title: "Professional HVAC Certifications and Credentials"
+aliases: ["Professional HVAC Certifications and Credentials"]
 description: "Comprehensive guide to HVAC industry certifications covering technician credentials, engineering licenses, energy management, and building commissioning qualifications."
 weight: 1
 ---

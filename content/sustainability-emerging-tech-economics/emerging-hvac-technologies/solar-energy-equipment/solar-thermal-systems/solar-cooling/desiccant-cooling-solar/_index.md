@@ -1,5 +1,6 @@
 ---
 title: "Solar Desiccant Cooling Systems"
+aliases: ["Solar Desiccant Cooling Systems"]
 description: "Solar-driven desiccant cooling technology combining solid or liquid desiccants with solar thermal regeneration for low-humidity cooling applications."
 date: 2025-01-05
 draft: false

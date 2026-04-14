@@ -1,5 +1,6 @@
 ---
 title: "Pump Types Hydronic"
+aliases: ["Pump Types Hydronic"]
 weight: 1
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Petroleum Distillate Products for HVAC Applications"
+aliases: ["Petroleum Distillate Products for HVAC Applications"]
 description: "Technical analysis of diesel fuel, heating oil, and kerosene distillates including heating values, combustion properties, and ASTM specifications for HVAC systems."
 keywords: ["distillate fuel oil", "diesel fuel heating", "kerosene burners", "heating oil specifications", "fuel oil grades", "distillation process", "ASTM D396", "fuel heating value"]
+tags: ["distillate fuel oil", "diesel fuel heating", "kerosene burners", "heating oil specifications", "fuel oil grades", "distillation process", "ASTM D396", "fuel heating value"]
 weight: 4
 ---
 

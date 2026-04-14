@@ -1,5 +1,6 @@
 ---
 title: "Milk"
+aliases: ["Milk"]
 weight: 1
 ---
 

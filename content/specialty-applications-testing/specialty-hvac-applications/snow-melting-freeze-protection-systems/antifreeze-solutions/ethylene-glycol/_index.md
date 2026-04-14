@@ -1,5 +1,6 @@
 ---
 title: "Ethylene Glycol in HVAC Freeze Protection Systems"
+aliases: ["Ethylene Glycol in HVAC Freeze Protection Systems"]
 description: "Technical analysis of ethylene glycol antifreeze solutions for snow melting and freeze protection. Superior heat transfer performance, concentration selection, toxicity management, and industrial applications."
 keywords:
   - ethylene glycol

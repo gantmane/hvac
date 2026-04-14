@@ -1,5 +1,6 @@
 ---
 title: "Duct Attenuation in HVAC Systems"
+aliases: ["Duct Attenuation in HVAC Systems"]
 description: "Comprehensive guide to sound attenuation in HVAC ductwork including octave band calculations, lined vs unlined performance, and attenuation factors for elbows and branches."
 weight: 1
 date: 2025-01-05

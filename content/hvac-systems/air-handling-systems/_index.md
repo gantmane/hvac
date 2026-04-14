@@ -1,5 +1,6 @@
 ---
 title: "Air Handling Systems: Design and Performance"
+aliases: ["Air Handling Systems: Design and Performance"]
 description: "Comprehensive guide to air handling unit design, psychrometric processes, fan performance, and system optimization for commercial HVAC applications."
 date: 2025-01-05
 tags: ["air handling units", "AHU design", "psychrometrics", "fan systems", "HVAC equipment"]

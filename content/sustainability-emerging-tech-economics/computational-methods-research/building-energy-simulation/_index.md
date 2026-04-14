@@ -1,5 +1,6 @@
 ---
 title: "Building Energy Simulation"
+aliases: ["Building Energy Simulation"]
 weight: 2
 ---
 

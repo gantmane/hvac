@@ -1,7 +1,9 @@
 ---
 title: "Demand Controlled Ventilation for High-Density Spaces"
+aliases: ["Demand Controlled Ventilation for High-Density Spaces"]
 description: "Engineering principles of DCV systems using CO₂ sensors for dynamic outdoor air modulation. Covers ASHRAE 62.1 compliance, energy savings calculations, and implementation strategies."
 keywords: ["demand controlled ventilation", "DCV systems", "CO2 sensors", "ASHRAE 62.1", "ventilation energy savings", "high occupancy HVAC", "IAQ controls", "building automation"]
+tags: ["demand controlled ventilation", "DCV systems", "CO2 sensors", "ASHRAE 62.1", "ventilation energy savings", "high occupancy HVAC", "IAQ controls", "building automation"]
 weight: 6
 ---
 

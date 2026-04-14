@@ -1,5 +1,6 @@
 ---
 title: "Demand Controlled Ventilation"
+aliases: ["Demand Controlled Ventilation"]
 weight: 5
 ---
 

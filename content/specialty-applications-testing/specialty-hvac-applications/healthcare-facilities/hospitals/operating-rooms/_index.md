@@ -1,7 +1,9 @@
 ---
 title: "Operating Room HVAC Systems"
+aliases: ["Operating Room HVAC Systems"]
 description: "Engineering analysis of surgical suite HVAC including laminar flow systems, positive pressure control, HEPA filtration, temperature and humidity specifications per ASHRAE 170."
 keywords: "operating room HVAC, surgical suite ventilation, laminar flow OR, ASHRAE 170, positive pressure operating rooms, HEPA filtration surgery, ISO Class 5 cleanroom, operating room temperature humidity"
+tags: ["operating room HVAC", "surgical suite ventilation", "laminar flow OR", "ASHRAE 170", "positive pressure operating rooms", "HEPA filtration surgery", "ISO Class 5 cleanroom", "operating room temperature humidity"]
 weight: 1
 ---
 

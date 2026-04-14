@@ -1,5 +1,6 @@
 ---
 title: "Refrigerants"
+aliases: ["Refrigerants"]
 weight: 8
 ---
 

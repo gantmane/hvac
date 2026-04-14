@@ -1,7 +1,9 @@
 ---
 title: "Hood Exhaust Systems for Hotel Commercial Kitchens"
+aliases: ["Hood Exhaust Systems for Hotel Commercial Kitchens"]
 description: "Comprehensive guide to commercial kitchen hood exhaust systems for hotels including Type I and Type II hoods, exhaust rate calculations, demand-controlled ventilation, and fire suppression integration per NFPA 96."
 keywords: ["commercial kitchen exhaust", "Type I hood", "Type II hood", "kitchen ventilation", "NFPA 96", "fire suppression", "demand controlled kitchen ventilation", "exhaust rate calculations"]
+tags: ["commercial kitchen exhaust", "Type I hood", "Type II hood", "kitchen ventilation", "NFPA 96", "fire suppression", "demand controlled kitchen ventilation", "exhaust rate calculations"]
 weight: 1
 ---
 

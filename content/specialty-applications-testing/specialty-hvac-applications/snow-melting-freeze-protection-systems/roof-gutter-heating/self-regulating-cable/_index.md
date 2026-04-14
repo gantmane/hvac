@@ -1,8 +1,10 @@
 ---
 title: "Self-Regulating Heating Cable Systems"
+aliases: ["Self-Regulating Heating Cable Systems"]
 seo_title: "Self-Regulating Heat Cable: PTC Technology & Design"
 description: "Technical analysis of self-regulating heating cables using PTC technology for roof and gutter heating, including power adjustment physics and energy efficiency."
 keywords: ["self-regulating cable", "PTC heating", "heat trace", "roof heating cable", "gutter deicing", "positive temperature coefficient", "automatic power adjustment", "energy efficient heating"]
+tags: ["self-regulating cable", "PTC heating", "heat trace", "roof heating cable", "gutter deicing", "positive temperature coefficient", "automatic power adjustment", "energy efficient heating"]
 weight: 1
 ---
 

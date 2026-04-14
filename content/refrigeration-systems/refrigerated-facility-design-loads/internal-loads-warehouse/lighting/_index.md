@@ -1,5 +1,6 @@
 ---
 title: "Lighting"
+aliases: ["Lighting"]
 weight: 1
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "HVAC Redundancy Requirements for Nuclear Safety"
+aliases: ["HVAC Redundancy Requirements for Nuclear Safety"]
 description: "Technical analysis of redundancy requirements for nuclear facility HVAC systems including single failure criterion, train separation, system availability calculations, and NRC compliance."
 keywords: ["nuclear HVAC redundancy", "single failure criterion", "redundant trains", "10 CFR 50 Appendix A", "GDC 17", "N+1 redundancy", "train separation", "nuclear safety systems"]
+tags: ["nuclear HVAC redundancy", "single failure criterion", "redundant trains", "10 CFR 50 Appendix A", "GDC 17", "N+1 redundancy", "train separation", "nuclear safety systems"]
 weight: 2
 ---
 

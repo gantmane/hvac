@@ -1,5 +1,6 @@
 ---
 title: "Hot Humid Wall Systems"
+aliases: ["Hot Humid Wall Systems"]
 description: "Engineering design principles for wall assemblies in hot-humid climates, including vapor diffusion control, moisture management strategies, material specifications, and assembly configurations to prevent inward vapor drive and condensation"
 weight: 4
 ---

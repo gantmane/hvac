@@ -1,7 +1,9 @@
 ---
 title: "Engine Coolant Heating Systems"
+aliases: ["Engine Coolant Heating Systems"]
 description: "Technical analysis of automotive engine coolant heating, covering waste heat recovery, thermostat operation, heater core sizing, coolant flow control, and warmup calculations."
 keywords: ["engine coolant heating", "waste heat recovery", "heater core", "thermostat operation", "coolant flow", "automotive HVAC", "warmup time", "heat transfer"]
+tags: ["engine coolant heating", "waste heat recovery", "heater core", "thermostat operation", "coolant flow", "automotive HVAC", "warmup time", "heat transfer"]
 weight: 2
 ---
 

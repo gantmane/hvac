@@ -2,6 +2,7 @@
 title: "Owner's Project Requirements (OPR) Documentation"
 description: "Comprehensive guide to developing Owner's Project Requirements for HVAC commissioning per ASHRAE Guideline 0, including performance criteria, operational needs, and documentation structure."
 keywords: ["owner's project requirements", "OPR documentation", "ASHRAE Guideline 0", "commissioning basis of design", "HVAC performance criteria", "operational requirements", "project objectives", "building performance"]
+tags: ["owner's project requirements", "OPR documentation", "ASHRAE Guideline 0", "commissioning basis of design", "HVAC performance criteria", "operational requirements", "project objectives", "building performance"]
 weight: 1
 ---
 

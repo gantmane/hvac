@@ -1,5 +1,6 @@
 ---
 title: "Cargo Temperature Control Systems"
+aliases: ["Cargo Temperature Control Systems"]
 description: "Technical guide to marine cargo temperature control including precooling strategies, continuous monitoring systems, controlled atmosphere integration, and cold chain compliance"
 date: 2025-01-11
 draft: false

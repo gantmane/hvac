@@ -1,7 +1,9 @@
 ---
 title: "Thermal Storage for Transit HVAC Systems"
+aliases: ["Thermal Storage for Transit HVAC Systems"]
 description: "Engineering analysis of thermal storage technologies for mass transit including phase change materials, ice storage, overnight pre-conditioning strategies, peak shaving, and battery integration."
 keywords: "thermal storage transit, PCM phase change material, ice storage buses, overnight pre-conditioning, peak shaving HVAC, thermal battery, transit energy storage, cold storage transit, thermal mass vehicle, pre-cooling strategies"
+tags: ["thermal storage transit", "PCM phase change material", "ice storage buses", "overnight pre-conditioning", "peak shaving HVAC", "thermal battery", "transit energy storage", "cold storage transit", "thermal mass vehicle", "pre-cooling strategies"]
 weight: 3
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Laboratory HVAC Control Systems"
+aliases: ["Laboratory HVAC Control Systems"]
 weight: 4
 description: "Engineering analysis of laboratory HVAC control systems including pressure tracking algorithms, VAV fume hood sash position control, supply-exhaust coordination, room pressurization sequences, and safety interlocks per ASHRAE and ANSI Z9.5 standards."
 keywords: "laboratory HVAC controls, pressure tracking control, VAV hood control, sash position control, room pressurization, supply exhaust tracking, laboratory safety interlocks, ANSI Z9.5 controls"
+tags: ["laboratory HVAC controls", "pressure tracking control", "VAV hood control", "sash position control", "room pressurization", "supply exhaust tracking", "laboratory safety interlocks", "ANSI Z9.5 controls"]
 ---
 
 # Laboratory HVAC Control Systems

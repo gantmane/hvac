@@ -1,7 +1,9 @@
 ---
 title: "Petroleum Resources for HVAC Heating Systems"
+aliases: ["Petroleum Resources for HVAC Heating Systems"]
 description: "Comprehensive guide to petroleum-based heating fuels including crude oil types, refining processes, heating oil grades, and distribution infrastructure for HVAC applications."
 keywords: ["heating oil", "petroleum refining", "fuel oil grades", "crude oil", "HVAC fuel", "No. 2 heating oil", "distillate fuel", "petroleum distribution"]
+tags: ["heating oil", "petroleum refining", "fuel oil grades", "crude oil", "HVAC fuel", "No. 2 heating oil", "distillate fuel", "petroleum distribution"]
 weight: 3
 ---
 

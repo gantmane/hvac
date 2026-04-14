@@ -1,5 +1,6 @@
 ---
 title: "Wood and Pellet Stoves"
+aliases: ["Wood and Pellet Stoves"]
 description: "Comprehensive guide to wood and pellet stoves covering EPA certification, efficiency ratings, combustion air requirements, and installation clearances."
 date: "2026-01-04"
 weight: 4

@@ -1,5 +1,6 @@
 ---
 title: "Surface Tension"
+aliases: ["Surface Tension"]
 weight: 8
 ---
 

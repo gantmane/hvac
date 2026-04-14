@@ -1,7 +1,9 @@
 ---
 title: "EMS Ambulance Bay HVAC Design and Requirements"
+aliases: ["EMS Ambulance Bay HVAC Design and Requirements"]
 description: "Technical HVAC design for EMS ambulance bays covering vehicle exhaust capture, medication storage climate control, rapid response ventilation, decontamination integration."
 keywords: ["ambulance bay HVAC", "EMS facility design", "vehicle exhaust removal", "medication storage temperature", "decontamination HVAC", "paramedic station", "quick response ventilation", "bay door infiltration"]
+tags: ["ambulance bay HVAC", "EMS facility design", "vehicle exhaust removal", "medication storage temperature", "decontamination HVAC", "paramedic station", "quick response ventilation", "bay door infiltration"]
 weight: 1
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Viscosity"
+aliases: ["Viscosity"]
 weight: 1
 ---
 

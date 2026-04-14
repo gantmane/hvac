@@ -1,5 +1,6 @@
 ---
 title: "Magnetic Refrigeration"
+aliases: ["Magnetic Refrigeration"]
 weight: 5
 ---
 

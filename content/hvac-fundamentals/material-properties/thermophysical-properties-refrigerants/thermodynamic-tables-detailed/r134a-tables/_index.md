@@ -1,5 +1,6 @@
 ---
 title: "R134a Tables"
+aliases: ["R134a Tables"]
 weight: 1
 ---
 

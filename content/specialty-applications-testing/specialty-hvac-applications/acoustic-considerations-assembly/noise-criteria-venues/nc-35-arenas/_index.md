@@ -1,5 +1,6 @@
 ---
 title: "NC-35 Arena HVAC: Large-Scale Acoustic Design"
+aliases: ["NC-35 Arena HVAC: Large-Scale Acoustic Design"]
 description: "Technical guidance for achieving NC-35 noise criteria in sports arenas and multipurpose venues using high-capacity air handling, large-scale cooling systems, and acoustic control strategies."
 keywords: ["NC-35 arenas", "sports facility HVAC", "arena acoustics", "large venue cooling", "high-capacity air handling", "multipurpose venue HVAC", "arena noise control", "spectator comfort"]
 tags: ["acoustics", "arenas", "sports facilities", "noise control", "large venues"]

@@ -1,7 +1,9 @@
 ---
 title: "Courthouse HVAC Systems: Design & Security Integration"
+aliases: ["Courthouse HVAC Systems: Design & Security Integration"]
 description: "Comprehensive guide to courthouse HVAC design including zone separation, acoustic control, security integration, and ventilation requirements per ASHRAE standards."
 keywords: ["courthouse HVAC", "courtroom ventilation", "justice facility climate control", "acoustic HVAC design", "security HVAC integration", "courtroom air distribution", "judicial building systems", "legal facility mechanical systems"]
+tags: ["courthouse HVAC", "courtroom ventilation", "justice facility climate control", "acoustic HVAC design", "security HVAC integration", "courtroom air distribution", "judicial building systems", "legal facility mechanical systems"]
 weight: 3
 ---
 

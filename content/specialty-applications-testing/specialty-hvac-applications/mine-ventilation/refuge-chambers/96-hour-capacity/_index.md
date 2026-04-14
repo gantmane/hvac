@@ -1,7 +1,9 @@
 ---
 title: "96-Hour Capacity Requirements for Mine Refuge Chambers"
+aliases: ["96-Hour Capacity Requirements for Mine Refuge Chambers"]
 description: "MINER Act mandates for 96-hour refuge chamber survival: oxygen consumption rates, CO2 generation calculations, consumables storage, and life support system sizing."
 keywords: ["refuge chamber capacity", "MINER Act", "oxygen consumption rate", "CO2 scrubbing", "mine safety", "survival calculations", "consumables storage", "mine emergency"]
+tags: ["refuge chamber capacity", "MINER Act", "oxygen consumption rate", "CO2 scrubbing", "mine safety", "survival calculations", "consumables storage", "mine emergency"]
 weight: 4
 ---
 

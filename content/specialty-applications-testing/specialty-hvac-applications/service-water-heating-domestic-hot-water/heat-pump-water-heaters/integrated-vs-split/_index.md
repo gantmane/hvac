@@ -1,5 +1,6 @@
 ---
 title: "Integrated vs Split Heat Pump Water Heaters"
+aliases: ["Integrated vs Split Heat Pump Water Heaters"]
 description: "Comparison of integrated and split-system heat pump water heater configurations including system design, installation requirements, performance characteristics, and application suitability."
 weight: 2
 ---

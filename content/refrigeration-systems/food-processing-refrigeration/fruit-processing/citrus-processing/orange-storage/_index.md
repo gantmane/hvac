@@ -1,5 +1,6 @@
 ---
 title: "Orange Storage"
+aliases: ["Orange Storage"]
 description: "Engineering specifications for orange cold storage facilities including temperature control, humidity management, degreening processes, and controlled atmosphere parameters for extended shelf life and quality preservation"
 weight: 2
 ---

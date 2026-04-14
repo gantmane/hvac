@@ -1,5 +1,6 @@
 ---
 title: "Lateral and Longitudinal Bracing for HVAC Equipment"
+aliases: ["Lateral and Longitudinal Bracing for HVAC Equipment"]
 description: "Engineering principles for lateral and longitudinal seismic bracing of HVAC equipment, including force distribution, center of gravity calculations, and ASCE 7 compliance."
 date: 2025-01-05
 keywords:

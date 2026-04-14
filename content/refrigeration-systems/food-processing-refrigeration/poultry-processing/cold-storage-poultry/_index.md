@@ -1,5 +1,6 @@
 ---
 title: "Cold Storage for Poultry Processing Facilities"
+aliases: ["Cold Storage for Poultry Processing Facilities"]
 description: "Technical guidance on refrigeration system design, load calculations, and temperature control for poultry cold storage including chill coolers and freezer rooms."
 date: 2025-01-05
 draft: false

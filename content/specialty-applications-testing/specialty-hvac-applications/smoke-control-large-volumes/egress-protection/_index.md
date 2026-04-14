@@ -1,8 +1,10 @@
 ---
 title: "Egress Protection in Smoke Control Systems"
+aliases: ["Egress Protection in Smoke Control Systems"]
 weight: 4
 description: "Technical requirements for egress protection in large volume spaces, including NFPA 92 design criteria, tenability limits, egress time calculations, and smoke layer management strategies."
 keywords: ["egress protection", "smoke control", "tenability limits", "NFPA 92", "egress time", "smoke layer", "life safety", "evacuation"]
+tags: ["egress protection", "smoke control", "tenability limits", "NFPA 92", "egress time", "smoke layer", "life safety", "evacuation"]
 ---
 
 ## Overview

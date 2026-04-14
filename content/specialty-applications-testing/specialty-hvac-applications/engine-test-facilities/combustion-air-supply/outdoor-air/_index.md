@@ -1,7 +1,9 @@
 ---
 title: "Outdoor Air Systems for Engine Test Combustion Supply"
+aliases: ["Outdoor Air Systems for Engine Test Combustion Supply"]
 description: "Design of outdoor air intake systems for engine test cells including weather protection, filtration, and air density correction for accurate performance testing."
 keywords: ["outdoor air intake", "combustion air supply", "air density correction", "engine test ventilation", "barometric pressure effects", "ambient air filtration", "test cell air intake", "weather protection"]
+tags: ["outdoor air intake", "combustion air supply", "air density correction", "engine test ventilation", "barometric pressure effects", "ambient air filtration", "test cell air intake", "weather protection"]
 weight: 1
 ---
 

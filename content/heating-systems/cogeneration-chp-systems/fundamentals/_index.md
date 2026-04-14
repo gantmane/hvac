@@ -1,5 +1,6 @@
 ---
 title: "CHP Fundamentals and Thermodynamic Principles"
+aliases: ["CHP Fundamentals and Thermodynamic Principles"]
 description: "Detailed thermodynamic analysis of combined heat and power systems including first and second law efficiencies, power-to-heat ratios, fuel utilization effectiveness, capacity sizing methods, and operational modes for distributed generation applications."
 date: 2026-01-04
 weight: 1

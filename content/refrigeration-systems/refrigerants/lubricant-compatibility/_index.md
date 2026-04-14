@@ -1,5 +1,6 @@
 ---
 title: "Lubricant Compatibility"
+aliases: ["Lubricant Compatibility"]
 weight: 5
 description: "Refrigerant-lubricant miscibility, oil return mechanisms, compatibility requirements for mineral oil, POE, PAG, and specialized lubricants across different refrigerant classes"
 tags: ["refrigeration", "lubricants", "compatibility", "miscibility", "oil-return"]

@@ -1,5 +1,6 @@
 ---
 title: "Food Processing Refrigeration"
+aliases: ["Food Processing Refrigeration"]
 weight: 15
 ---
 

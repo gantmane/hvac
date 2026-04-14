@@ -1,5 +1,6 @@
 ---
 title: "Moisture Content Targets: 6-19% for Dried Lumber"
+aliases: ["Moisture Content Targets: 6-19% for Dried Lumber"]
 description: "Technical guide to lumber moisture content targets from 6-19%, equilibrium moisture principles, measurement methods, and industry standards for kiln-dried wood."
 date: 2025-01-05
 keywords:

@@ -1,5 +1,6 @@
 ---
 title: "Phase Change Materials"
+aliases: ["Phase Change Materials"]
 description: "Phase change material thermal storage systems including PCM types, encapsulation methods, melting point selection, and building integration for passive and active thermal management."
 weight: 3
 ---

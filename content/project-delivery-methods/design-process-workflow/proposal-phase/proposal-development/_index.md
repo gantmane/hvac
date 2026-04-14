@@ -1,5 +1,6 @@
 ---
 title: "Proposal Development"
+aliases: ["Proposal Development"]
 weight: 1
 ---
 

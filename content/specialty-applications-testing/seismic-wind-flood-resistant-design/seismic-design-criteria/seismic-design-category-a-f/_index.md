@@ -1,8 +1,10 @@
 ---
 title: "Seismic Design Categories A-F for HVAC Systems"
+aliases: ["Seismic Design Categories A-F for HVAC Systems"]
 weight: 1
 description: "Comprehensive guide to determining Seismic Design Categories A through F for HVAC equipment using ASCE 7 and IBC procedures including spectral acceleration, site class determination, and regional seismic mapping."
 keywords: ["seismic design category", "SDC determination", "spectral acceleration", "site class", "ASCE 7 seismic", "IBC seismic design", "mapped acceleration", "design response spectrum", "risk category seismic"]
+tags: ["seismic design category", "SDC determination", "spectral acceleration", "site class", "ASCE 7 seismic", "IBC seismic design", "mapped acceleration", "design response spectrum", "risk category seismic"]
 seo_title: "Seismic Design Categories A-F: ASCE 7 & IBC Determination"
 seo_description: "Technical guide to determining HVAC equipment Seismic Design Categories A-F using ASCE 7 spectral acceleration parameters, site class classification, and risk category correlation per IBC requirements."
 ---

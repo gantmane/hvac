@@ -1,5 +1,6 @@
 ---
 title: "Cd Deliverables"
+aliases: ["Cd Deliverables"]
 weight: 1
 ---
 

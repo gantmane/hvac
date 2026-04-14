@@ -1,5 +1,6 @@
 ---
 title: "Off-Grid HVAC Systems"
+aliases: ["Off-Grid HVAC Systems"]
 description: "Engineering design for solar-powered cooling systems, DC inverter technology, battery storage sizing, and thermal storage integration for off-grid applications."
 keywords:
   - off-grid HVAC

@@ -1,5 +1,6 @@
 ---
 title: "Solar Radiation Gains"
+aliases: ["Solar Radiation Gains"]
 weight: 1
 ---
 

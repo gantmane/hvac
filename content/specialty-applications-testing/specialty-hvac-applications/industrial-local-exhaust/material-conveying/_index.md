@@ -1,8 +1,10 @@
 ---
 title: "Pneumatic Material Conveying Systems"
+aliases: ["Pneumatic Material Conveying Systems"]
 weight: 5
 description: "Engineering fundamentals of pneumatic conveying systems including dilute and dense phase transport, saltation velocity calculations, pickup velocity design, and pressure drop estimation."
 keywords: "pneumatic conveying, dilute phase conveying, dense phase conveying, saltation velocity, pickup velocity, transport velocity, pressure drop conveying, material handling"
+tags: ["pneumatic conveying", "dilute phase conveying", "dense phase conveying", "saltation velocity", "pickup velocity", "transport velocity", "pressure drop conveying", "material handling"]
 ---
 
 # Pneumatic Material Conveying Systems

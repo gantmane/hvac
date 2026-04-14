@@ -1,5 +1,6 @@
 ---
 title: "Apple Juice Processing"
+aliases: ["Apple Juice Processing"]
 description: "Refrigeration system design for apple juice production including pressing room conditions, pasteurization cooling, concentrate evaporation, and cold storage requirements for fresh and frozen juice products"
 weight: 3
 ---

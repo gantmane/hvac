@@ -1,7 +1,9 @@
 ---
 title: "Residential and Commercial Heating Energy Use"
+aliases: ["Residential and Commercial Heating Energy Use"]
 description: "Comprehensive analysis of heating energy consumption patterns, fuel type distribution, regional variations, efficiency metrics, and electrification trends in HVAC systems."
 keywords: ["heating energy consumption", "natural gas heating", "heating degree days", "AFUE efficiency", "heat pump electrification", "heating fuel distribution", "space heating load", "residential heating"]
+tags: ["heating energy consumption", "natural gas heating", "heating degree days", "AFUE efficiency", "heat pump electrification", "heating fuel distribution", "space heating load", "residential heating"]
 weight: 1
 ---
 

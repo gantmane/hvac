@@ -1,7 +1,9 @@
 ---
 title: "Ventilation Principles and Fundamentals"
+aliases: ["Ventilation Principles and Fundamentals"]
 description: "Core principles of dilution ventilation, contaminant removal equations, air change methods, and ASHRAE 62.1 ventilation rate procedures for indoor air quality."
 keywords: ["dilution ventilation", "ventilation effectiveness", "air change rate", "ASHRAE 62.1", "contaminant removal", "ventilation rate procedure", "outdoor air requirements", "indoor air quality"]
+tags: ["dilution ventilation", "ventilation effectiveness", "air change rate", "ASHRAE 62.1", "contaminant removal", "ventilation rate procedure", "outdoor air requirements", "indoor air quality"]
 date: 2025-01-05
 weight: 1
 draft: false

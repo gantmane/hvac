@@ -1,5 +1,6 @@
 ---
 title: "Occupancy Sensors for Classroom Ventilation Control"
+aliases: ["Occupancy Sensors for Classroom Ventilation Control"]
 description: "Technical analysis of PIR, ultrasonic, and hybrid occupancy sensors for demand-controlled ventilation in educational facilities including integration strategies."
 date: 2025-01-05
 weight: 2

@@ -1,5 +1,6 @@
 ---
 title: "Filleting Operations"
+aliases: ["Filleting Operations"]
 description: "HVAC design requirements for seafood filleting rooms including temperature control, air distribution, sanitation considerations, and humidity management for fish processing operations"
 weight: 1
 ---

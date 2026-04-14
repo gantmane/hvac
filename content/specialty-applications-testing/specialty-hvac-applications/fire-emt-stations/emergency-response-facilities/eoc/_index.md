@@ -1,5 +1,6 @@
 ---
 title: "Emergency Operations Center HVAC Design"
+aliases: ["Emergency Operations Center HVAC Design"]
 description: "HVAC design for Emergency Operations Centers (EOC) addressing extended activation periods, variable occupancy loads, communications equipment cooling, and shelter-in-place."
 date: "2026-01-11"
 weight: 2

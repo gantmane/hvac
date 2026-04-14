@@ -1,5 +1,6 @@
 ---
 title: "Lamb Chilling and Aging"
+aliases: ["Lamb Chilling and Aging"]
 description: "Comprehensive technical guide to lamb carcass chilling and aging refrigeration systems, including rapid chilling protocols, aging room design, temperature and humidity control, cold shortening prevention, and HVAC system specifications for optimal meat quality development."
 weight: 1
 ---

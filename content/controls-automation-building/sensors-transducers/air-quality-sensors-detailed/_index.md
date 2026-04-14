@@ -1,7 +1,9 @@
 ---
 title: "Air Quality Sensors: CO2, VOC, and Particulate Matter"
+aliases: ["Air Quality Sensors: CO2, VOC, and Particulate Matter"]
 description: "Comprehensive analysis of indoor air quality sensors including NDIR CO2 detection, metal oxide VOC sensing, and optical particle counters for demand-controlled ventilation systems."
 keywords: ["air quality sensors", "CO2 sensors", "VOC sensors", "particulate matter sensors", "NDIR technology", "IAQ monitoring", "demand controlled ventilation", "ASHRAE 62.1"]
+tags: ["air quality sensors", "CO2 sensors", "VOC sensors", "particulate matter sensors", "NDIR technology", "IAQ monitoring", "demand controlled ventilation", "ASHRAE 62.1"]
 weight: 4
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Bid Evaluation"
+aliases: ["Bid Evaluation"]
 description: "Comprehensive HVAC bid evaluation procedures including responsiveness review, contractor qualification verification, scope completeness analysis, alternates assessment, value engineering proposals, and systematic contractor selection criteria for mechanical construction projects"
 weight: 2
 ---

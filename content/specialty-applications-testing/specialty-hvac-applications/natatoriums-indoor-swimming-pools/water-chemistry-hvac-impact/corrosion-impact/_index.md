@@ -1,7 +1,9 @@
 ---
 title: "Corrosion Impact on Natatorium HVAC Systems"
+aliases: ["Corrosion Impact on Natatorium HVAC Systems"]
 description: "Pool water chemistry drives accelerated corrosion in natatorium HVAC equipment. Chloramines, chlorides, and pH extremes attack metals through electrochemical and chemical pathways."
 keywords: ["natatorium corrosion", "pool HVAC corrosion", "chloramine corrosion", "chloride attack HVAC", "galvanic corrosion pools", "pool equipment materials", "HVAC corrosion resistance", "natatorium material selection"]
+tags: ["natatorium corrosion", "pool HVAC corrosion", "chloramine corrosion", "chloride attack HVAC", "galvanic corrosion pools", "pool equipment materials", "HVAC corrosion resistance", "natatorium material selection"]
 weight: 2
 ---
 

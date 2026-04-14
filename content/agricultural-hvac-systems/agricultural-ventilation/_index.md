@@ -1,5 +1,6 @@
 ---
 title: "Agricultural Ventilation Systems"
+aliases: ["Agricultural Ventilation Systems"]
 description: "Comprehensive engineering guide to livestock ventilation including natural, mechanical, tunnel, and hybrid systems with airflow calculations and design methodologies."
 date: 2026-01-04
 tags: ["agricultural ventilation", "livestock HVAC", "barn ventilation", "natural ventilation", "tunnel ventilation", "animal environmental control"]

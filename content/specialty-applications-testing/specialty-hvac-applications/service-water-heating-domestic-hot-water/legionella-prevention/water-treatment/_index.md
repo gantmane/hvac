@@ -1,7 +1,9 @@
 ---
 title: "Water Treatment for Legionella Control"
+aliases: ["Water Treatment for Legionella Control"]
 description: "Comprehensive analysis of supplemental disinfection methods for Legionella prevention including chemical dosing calculations, biofilm penetration, and continuous monitoring."
 keywords: ["legionella prevention", "water treatment", "supplemental disinfection", "chlorine dioxide", "copper silver ionization", "monochloramine", "biofilm control", "ASHRAE 188"]
+tags: ["legionella prevention", "water treatment", "supplemental disinfection", "chlorine dioxide", "copper silver ionization", "monochloramine", "biofilm control", "ASHRAE 188"]
 weight: 5
 ---
 

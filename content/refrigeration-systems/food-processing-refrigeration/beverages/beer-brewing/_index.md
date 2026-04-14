@@ -1,5 +1,6 @@
 ---
 title: "Beer Brewing"
+aliases: ["Beer Brewing"]
 weight: 1
 ---
 

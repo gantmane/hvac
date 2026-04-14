@@ -1,5 +1,6 @@
 ---
 title: "Yeast Viability in Frozen Dough"
+aliases: ["Yeast Viability in Frozen Dough"]
 description: "Technical analysis of yeast cell survival mechanisms, freezing injury prevention, cryoprotectant strategies, and refrigeration system design for maintaining yeast viability in frozen dough production and storage"
 weight: 2
 ---

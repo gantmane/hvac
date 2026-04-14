@@ -1,5 +1,6 @@
 ---
 title: "Light Control and UV Protection for Wine Cellars"
+aliases: ["Light Control and UV Protection for Wine Cellars"]
 description: "Technical analysis of photochemical wine degradation, UV protection strategies, lighting system design for cellar access, and architectural darkness control for wine storage."
 keywords:
   - wine cellar lighting

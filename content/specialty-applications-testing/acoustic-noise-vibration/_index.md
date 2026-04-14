@@ -1,7 +1,9 @@
 ---
 title: "HVAC Acoustic, Noise & Vibration Control"
+aliases: ["HVAC Acoustic, Noise & Vibration Control"]
 description: "Comprehensive guide to HVAC acoustics covering sound power and pressure calculations, noise criteria, vibration isolation, and sound attenuation strategies per ASHRAE standards."
 keywords: ["HVAC acoustics", "noise control", "vibration isolation", "sound attenuation", "NC curves", "sound power level", "duct silencers", "equipment vibration"]
+tags: ["HVAC acoustics", "noise control", "vibration isolation", "sound attenuation", "NC curves", "sound power level", "duct silencers", "equipment vibration"]
 weight: 4
 ---
 

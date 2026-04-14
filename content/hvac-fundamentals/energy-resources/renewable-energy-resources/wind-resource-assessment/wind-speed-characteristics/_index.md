@@ -1,7 +1,9 @@
 ---
 title: "Wind Speed Characteristics for HVAC Applications"
+aliases: ["Wind Speed Characteristics for HVAC Applications"]
 description: "Comprehensive analysis of wind speed parameters including mean wind speed, turbulence intensity, wind shear, and Weibull distribution for renewable energy integration."
 keywords: ["wind speed", "turbulence intensity", "wind shear", "Weibull distribution", "wind resource assessment", "NREL wind data", "power law exponent", "wind profile"]
+tags: ["wind speed", "turbulence intensity", "wind shear", "Weibull distribution", "wind resource assessment", "NREL wind data", "power law exponent", "wind profile"]
 weight: 1
 ---
 

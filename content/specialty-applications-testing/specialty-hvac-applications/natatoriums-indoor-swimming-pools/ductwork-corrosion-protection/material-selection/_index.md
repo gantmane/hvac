@@ -1,8 +1,10 @@
 ---
 title: "Duct Material Selection for Natatoriums"
+aliases: ["Duct Material Selection for Natatoriums"]
 seo_title: "Natatorium HVAC Duct Material Selection Guide"
 description: "Engineering guide to selecting corrosion-resistant ductwork materials for indoor pool environments. Compare FRP, PVC, stainless steel, and coated options for chlorinated air."
 keywords: ["natatorium ductwork", "corrosion resistant ducts", "FRP duct", "stainless steel HVAC", "PVC coated ductwork", "pool dehumidification", "chlorine resistant materials", "SMACNA natatorium"]
+tags: ["natatorium ductwork", "corrosion resistant ducts", "FRP duct", "stainless steel HVAC", "PVC coated ductwork", "pool dehumidification", "chlorine resistant materials", "SMACNA natatorium"]
 weight: 1
 ---
 

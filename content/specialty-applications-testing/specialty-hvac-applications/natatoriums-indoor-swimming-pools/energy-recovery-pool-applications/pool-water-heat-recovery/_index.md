@@ -1,7 +1,9 @@
 ---
 title: "Pool Water Heat Recovery for HVAC Applications"
+aliases: ["Pool Water Heat Recovery for HVAC Applications"]
 description: "Heat recovery from pool water systems including heat pump desuperheaters, filter backwash recovery, and heat exchanger design for pool heating, DHW preheat, and space heating."
 keywords: ["pool water heat recovery", "heat pump desuperheater", "pool heating", "filter backwash heat recovery", "refrigerant to water heat exchanger", "pool dehumidification", "energy recovery", "natatorium HVAC"]
+tags: ["pool water heat recovery", "heat pump desuperheater", "pool heating", "filter backwash heat recovery", "refrigerant to water heat exchanger", "pool dehumidification", "energy recovery", "natatorium HVAC"]
 weight: 1
 ---
 

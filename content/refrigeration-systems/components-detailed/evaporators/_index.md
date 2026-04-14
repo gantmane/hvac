@@ -1,5 +1,6 @@
 ---
 title: "Evaporators"
+aliases: ["Evaporators"]
 weight: 3
 description: "Comprehensive technical guide to refrigeration evaporators including DX and flooded types, heat transfer analysis, superheat control, fin configurations, defrost methods, and capacity calculations using LMTD and effectiveness-NTU methods."
 ---

@@ -1,5 +1,6 @@
 ---
 title: "T-Method Duct Design"
+aliases: ["T-Method Duct Design"]
 description: "Mathematical optimization approach for duct sizing using life-cycle cost minimization, balancing first cost and operating cost through total pressure basis optimization for HVAC air distribution systems"
 weight: 4
 ---

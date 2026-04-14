@@ -1,7 +1,9 @@
 ---
 title: "Cleanroom HVAC Systems Overview"
+aliases: ["Cleanroom HVAC Systems Overview"]
 description: "Comprehensive guide to cleanroom HVAC design, including contamination control, air change rates, filtration systems, and industry-specific requirements for pharmaceutical and semiconductor applications."
 keywords: ["cleanroom HVAC", "contamination control", "HEPA filtration", "pharmaceutical cleanrooms", "semiconductor manufacturing", "ISO cleanroom standards", "laminar airflow", "particle control"]
+tags: ["cleanroom HVAC", "contamination control", "HEPA filtration", "pharmaceutical cleanrooms", "semiconductor manufacturing", "ISO cleanroom standards", "laminar airflow", "particle control"]
 weight: 1
 ---
 

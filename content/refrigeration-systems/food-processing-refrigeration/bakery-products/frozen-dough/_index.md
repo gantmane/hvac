@@ -1,5 +1,6 @@
 ---
 title: "Frozen Dough"
+aliases: ["Frozen Dough"]
 weight: 2
 ---
 

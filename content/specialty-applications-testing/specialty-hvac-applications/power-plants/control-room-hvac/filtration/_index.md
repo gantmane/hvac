@@ -1,5 +1,6 @@
 ---
 title: "Control Room HVAC Filtration Systems"
+aliases: ["Control Room HVAC Filtration Systems"]
 linkTitle: "Filtration"
 description: "Technical analysis of multi-stage filtration for power plant control rooms, including particulate removal efficiency calculations, ASHRAE 52.2 testing methods, and filter selection criteria."
 keywords:

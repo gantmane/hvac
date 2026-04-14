@@ -1,5 +1,6 @@
 ---
 title: "Butter Production"
+aliases: ["Butter Production"]
 weight: 3
 ---
 

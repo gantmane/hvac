@@ -1,5 +1,6 @@
 ---
 title: "Corrosion Inhibitors"
+aliases: ["Corrosion Inhibitors"]
 description: "Comprehensive technical analysis of corrosion inhibitors for secondary coolant systems including chemistry, mechanisms, testing protocols, and compatibility requirements for HVAC applications"
 weight: 7
 ---

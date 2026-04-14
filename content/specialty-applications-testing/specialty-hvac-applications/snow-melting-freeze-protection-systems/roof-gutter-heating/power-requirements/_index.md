@@ -1,8 +1,10 @@
 ---
 title: "Power Requirements for Roof & Gutter Heating Systems"
+aliases: ["Power Requirements for Roof & Gutter Heating Systems"]
 seo_title: "Roof Heating Power Requirements & Electrical Design"
 description: "Physics-based electrical power calculations for roof and gutter de-icing systems. Includes heat cable power density, circuit design, voltage drop, and transformer sizing."
 keywords: ["roof heating power density", "heat cable wattage", "gutter heating electrical requirements", "ice dam prevention power", "roof de-icing ampacity", "heat trace circuit design", "snow melting electrical load", "roof heating transformer sizing"]
+tags: ["roof heating power density", "heat cable wattage", "gutter heating electrical requirements", "ice dam prevention power", "roof de-icing ampacity", "heat trace circuit design", "snow melting electrical load", "roof heating transformer sizing"]
 weight: 6
 ---
 

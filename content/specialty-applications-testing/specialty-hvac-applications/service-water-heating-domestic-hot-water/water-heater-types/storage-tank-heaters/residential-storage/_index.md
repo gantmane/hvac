@@ -1,7 +1,9 @@
 ---
 title: "Residential Storage Water Heaters: Types & Sizing"
+aliases: ["Residential Storage Water Heaters: Types & Sizing"]
 description: "Comprehensive guide to residential storage water heaters covering gas and electric models, efficiency ratings, DOE standards, sizing calculations, and installation."
 keywords: ["residential water heaters", "storage tank water heaters", "energy factor", "first hour rating", "DOE water heater standards", "gas water heater", "electric water heater", "water heater sizing"]
+tags: ["residential water heaters", "storage tank water heaters", "energy factor", "first hour rating", "DOE water heater standards", "gas water heater", "electric water heater", "water heater sizing"]
 weight: 1
 ---
 

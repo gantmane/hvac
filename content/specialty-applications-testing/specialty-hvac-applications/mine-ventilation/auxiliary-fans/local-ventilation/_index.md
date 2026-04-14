@@ -1,7 +1,9 @@
 ---
 title: "Local Ventilation Systems in Underground Mines"
+aliases: ["Local Ventilation Systems in Underground Mines"]
 description: "Engineering analysis of mine face ventilation requirements, blasting fume clearance calculations, line brattice design, dust suppression integration, and MSHA compliance."
 keywords: ["mine local ventilation", "face ventilation", "blasting fume clearance", "line brattice", "dead-end ventilation", "MSHA ventilation", "heading ventilation", "mine dust control"]
+tags: ["mine local ventilation", "face ventilation", "blasting fume clearance", "line brattice", "dead-end ventilation", "MSHA ventilation", "heading ventilation", "mine dust control"]
 weight: 3
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Legend Symbol Conventions"
+aliases: ["Legend Symbol Conventions"]
 description: "Comprehensive guide to HVAC drawing symbols, legend conventions, and graphic standards including ASHRAE and AIA standards for equipment, ductwork, piping, controls, line types, and abbreviations in mechanical construction documents"
 weight: 2
 ---

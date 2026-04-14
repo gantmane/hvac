@@ -1,5 +1,6 @@
 ---
 title: "Cost Plus Fee"
+aliases: ["Cost Plus Fee"]
 description: "Comprehensive examination of cost-plus-fee contracts for HVAC construction including cost reimbursement structures, fee types, open-book accounting, and allowable cost definitions."
 weight: 3
 ---

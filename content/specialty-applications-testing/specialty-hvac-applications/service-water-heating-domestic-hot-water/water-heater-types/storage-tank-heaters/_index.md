@@ -1,7 +1,9 @@
 ---
 title: "Storage Tank Water Heaters: Design & Performance"
+aliases: ["Storage Tank Water Heaters: Design & Performance"]
 description: "Comprehensive guide to storage tank water heater design, efficiency standards, recovery rates, and sizing methods for gas and electric systems with thermal analysis."
 keywords: ["storage tank water heater", "water heater efficiency", "first hour rating", "recovery rate", "standby loss", "DOE efficiency standards", "water heater sizing", "temperature stratification"]
+tags: ["storage tank water heater", "water heater efficiency", "first hour rating", "recovery rate", "standby loss", "DOE efficiency standards", "water heater sizing", "temperature stratification"]
 weight: 1
 ---
 

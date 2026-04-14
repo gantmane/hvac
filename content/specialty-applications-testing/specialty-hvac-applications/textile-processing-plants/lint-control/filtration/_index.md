@@ -1,8 +1,10 @@
 ---
 title: "Lint Filtration Systems for Textile Plants"
+aliases: ["Lint Filtration Systems for Textile Plants"]
 weight: 1
 description: "Technical guide to lint filtration systems in textile processing including baghouse filters, drum filters, efficiency calculations, and cleaning mechanisms for industrial HVAC applications."
 keywords: ["lint filtration", "baghouse filters", "drum filters", "textile HVAC", "filter efficiency", "pulse jet cleaning", "cartridge filters", "lint collection"]
+tags: ["lint filtration", "baghouse filters", "drum filters", "textile HVAC", "filter efficiency", "pulse jet cleaning", "cartridge filters", "lint collection"]
 ---
 
 ## Filtration System Requirements

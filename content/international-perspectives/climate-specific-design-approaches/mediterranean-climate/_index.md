@@ -1,5 +1,6 @@
 ---
 title: "Mediterranean Climate HVAC Design"
+aliases: ["Mediterranean Climate HVAC Design"]
 description: "Comprehensive guide to HVAC system design for Mediterranean climates, featuring seasonal load analysis, hybrid system strategies, natural ventilation integration, and thermal mass utilization for optimal year-round comfort."
 keywords:
   - Mediterranean climate HVAC

@@ -1,7 +1,9 @@
 ---
 title: "Temperature Control for Rare Book Library Preservation"
+aliases: ["Temperature Control for Rare Book Library Preservation"]
 description: "Precision temperature control systems for rare book libraries maintain 65-70°F with ±2°F stability to minimize chemical degradation and extend collection lifespan."
 keywords: ["rare book temperature control", "library climate control", "archival storage temperature", "collection preservation HVAC", "temperature stability", "cool storage systems", "degradation prevention", "heritage conservation"]
+tags: ["rare book temperature control", "library climate control", "archival storage temperature", "collection preservation HVAC", "temperature stability", "cool storage systems", "degradation prevention", "heritage conservation"]
 weight: 1
 ---
 

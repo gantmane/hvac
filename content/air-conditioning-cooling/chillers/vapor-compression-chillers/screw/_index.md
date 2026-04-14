@@ -1,8 +1,10 @@
 ---
 title: "Screw Compressor Chillers"
+aliases: ["Screw Compressor Chillers"]
 weight: 2
 description: "Twin-screw and single-screw chillers with slide valve capacity control, oil management systems, and efficient mid-range tonnage cooling applications from 10-1000 tons."
 keywords: ["screw compressor", "twin-screw chiller", "slide valve control", "oil injection cooling", "capacity modulation", "economizer cycle", "variable volume ratio", "mid-range chillers"]
+tags: ["screw compressor", "twin-screw chiller", "slide valve control", "oil injection cooling", "capacity modulation", "economizer cycle", "variable volume ratio", "mid-range chillers"]
 ---
 
 Screw compressor chillers dominate the mid-range capacity segment (10-1000 tons) through positive displacement compression that achieves superior part-load efficiency, continuous capacity modulation, and exceptional reliability. The helical rotor geometry enables oil injection cooling that reduces discharge temperatures below those of reciprocating compressors while maintaining volumetric efficiency across wide operating ranges.

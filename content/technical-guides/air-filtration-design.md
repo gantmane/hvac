@@ -2,6 +2,7 @@
 title: "Air Filtration Design for HVAC Engineers"
 description: "MERV ratings, pressure drop calculations, filter sizing, and service life estimation for particle and gaseous contaminant control."
 keywords: ["air filtration", "MERV rating", "filter pressure drop", "filter sizing", "HEPA filter", "carbon filter"]
+tags: ["air filtration", "MERV rating", "filter pressure drop", "filter sizing", "HEPA filter", "carbon filter"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 23
@@ -117,9 +118,9 @@ $$t_{service} = \frac{Capacity_{grams}}{Dust_{loading,g/h}}$$
 ---
 
 **Related Technical Guides:**
-- [Ventilation Rate Calculations](/technical-guides/ventilation-rate-calculations/)
-- [Indoor Air Quality Management](/technical-guides/indoor-air-quality-management/)
-- [Fan Selection & Performance](/technical-guides/fan-selection-performance/)
+- Ventilation Rate Calculations
+- Indoor Air Quality Management
+- Fan Selection & Performance
 
 **References:**
 - ASHRAE Standard 52.2: Method of Testing General Ventilation Air-Cleaning Devices for Removal Efficiency by Particle Size

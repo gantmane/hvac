@@ -1,5 +1,6 @@
 ---
 title: "Instrument-Specific Environmental Requirements"
+aliases: ["Instrument-Specific Environmental Requirements"]
 weight: 3
 description: "Physics-based analysis of environmental control requirements for strings, woodwinds, brass, and percussion instruments, including hygroscopic behavior and material-specific sensitivities."
 keywords:

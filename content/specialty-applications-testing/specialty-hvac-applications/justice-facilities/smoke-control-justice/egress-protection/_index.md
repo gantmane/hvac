@@ -1,8 +1,10 @@
 ---
 title: "Egress Protection in Justice Facility Smoke Control"
+aliases: ["Egress Protection in Justice Facility Smoke Control"]
 weight: 3
 description: "Technical requirements for egress smoke protection in justice facilities including corridor pressurization, defend-in-place strategies, and NFPA compliance for safe evacuation paths."
 keywords: ["egress protection", "corridor pressurization", "defend-in-place", "smoke control egress", "justice facility evacuation", "NFPA 92", "pressurization systems", "smoke free egress"]
+tags: ["egress protection", "corridor pressurization", "defend-in-place", "smoke control egress", "justice facility evacuation", "NFPA 92", "pressurization systems", "smoke free egress"]
 ---
 
 ## Overview

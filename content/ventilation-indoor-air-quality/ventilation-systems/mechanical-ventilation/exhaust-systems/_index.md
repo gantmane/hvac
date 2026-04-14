@@ -1,5 +1,6 @@
 ---
 title: "Exhaust Systems Design and Implementation"
+aliases: ["Exhaust Systems Design and Implementation"]
 description: "Comprehensive guide to HVAC exhaust systems including general, spot, and process exhaust with airflow calculations, fan selection, and ductwork sizing principles."
 date: 2025-01-05
 weight: 2

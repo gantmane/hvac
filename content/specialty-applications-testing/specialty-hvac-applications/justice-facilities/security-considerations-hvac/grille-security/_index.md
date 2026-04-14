@@ -1,7 +1,9 @@
 ---
 title: "HVAC Grille Security for Correctional Facilities"
+aliases: ["HVAC Grille Security for Correctional Facilities"]
 description: "Technical specifications for detention-grade security grilles, anti-ligature designs, tamper-proof fasteners, and bar spacing requirements per correctional standards."
 keywords: ["security grilles", "detention-grade HVAC", "anti-ligature grilles", "tamper-proof fasteners", "correctional facility HVAC", "security bar spacing", "welded grille frames", "detention grille testing"]
+tags: ["security grilles", "detention-grade HVAC", "anti-ligature grilles", "tamper-proof fasteners", "correctional facility HVAC", "security bar spacing", "welded grille frames", "detention grille testing"]
 weight: 3
 ---
 

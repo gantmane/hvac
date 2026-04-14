@@ -1,5 +1,6 @@
 ---
 title: "Direct-Fired Makeup Air Units"
+aliases: ["Direct-Fired Makeup Air Units"]
 description: "Technical guide to direct-fired makeup air systems with combustion products in supply air, efficiency analysis, CO2 dilution calculations, and code requirements."
 date: "2026-01-04"
 weight: 2

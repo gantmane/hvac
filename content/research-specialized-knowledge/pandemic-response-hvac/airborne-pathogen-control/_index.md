@@ -1,5 +1,6 @@
 ---
 title: "Airborne Pathogen Control"
+aliases: ["Airborne Pathogen Control"]
 weight: 1
 ---
 

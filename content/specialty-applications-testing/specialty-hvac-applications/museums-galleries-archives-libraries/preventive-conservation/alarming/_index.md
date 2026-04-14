@@ -1,7 +1,9 @@
 ---
 title: "Environmental Alarming Systems for Collection Protection"
+aliases: ["Environmental Alarming Systems for Collection Protection"]
 description: "Technical design of museum HVAC alarm systems including setpoint configuration, rate-of-change detection, prioritization hierarchies, and alarm fatigue prevention strategies."
 keywords: ["museum environmental alarms", "HVAC alarm setpoints", "rate of change detection", "alarm prioritization", "conservation alarming", "false alarm reduction", "environmental monitoring alerts", "collection protection alarms"]
+tags: ["museum environmental alarms", "HVAC alarm setpoints", "rate of change detection", "alarm prioritization", "conservation alarming", "false alarm reduction", "environmental monitoring alerts", "collection protection alarms"]
 weight: 3
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Patient Room HVAC Design Standards"
+aliases: ["Patient Room HVAC Design Standards"]
 weight: 4
 description: "Technical guide to patient room HVAC systems covering ASHRAE 170 air change requirements, temperature control strategies, humidity management, and individual room controls for optimal healing."
 keywords: ["patient room HVAC", "ASHRAE 170", "hospital air changes", "medical air quality", "patient comfort control", "healthcare ventilation", "recovery room climate"]
+tags: ["patient room HVAC", "ASHRAE 170", "hospital air changes", "medical air quality", "patient comfort control", "healthcare ventilation", "recovery room climate"]
 ---
 
 ## Overview

@@ -1,7 +1,9 @@
 ---
 title: "Cooling Towers: Types, Design, and Performance"
+aliases: ["Cooling Towers: Types, Design, and Performance"]
 description: "Comprehensive guide to cooling tower types, heat rejection calculations, approach and range principles, counterflow vs crossflow designs, and CTI standards for HVAC applications."
 keywords: ["cooling towers", "heat rejection", "counterflow", "crossflow", "induced draft", "approach temperature", "cooling tower efficiency", "CTI standards"]
+tags: ["cooling towers", "heat rejection", "counterflow", "crossflow", "induced draft", "approach temperature", "cooling tower efficiency", "CTI standards"]
 weight: 3
 ---
 

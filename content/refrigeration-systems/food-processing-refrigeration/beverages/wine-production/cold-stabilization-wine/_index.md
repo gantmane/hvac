@@ -1,5 +1,6 @@
 ---
 title: "Cold Stabilization Wine"
+aliases: ["Cold Stabilization Wine"]
 description: "HVAC engineering guide to wine cold stabilization systems including tartrate precipitation temperatures, contact cooling vs jacketed tank refrigeration, stabilization duration by wine type, and energy efficiency optimization for winery refrigeration design."
 weight: 3
 ---

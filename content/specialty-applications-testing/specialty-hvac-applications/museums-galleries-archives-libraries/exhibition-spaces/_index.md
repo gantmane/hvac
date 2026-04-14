@@ -1,7 +1,9 @@
 ---
 title: "Exhibition Space HVAC: Visitor & Art Protection"
+aliases: ["Exhibition Space HVAC: Visitor & Art Protection"]
 description: "Technical guidance for exhibition hall climate control including visitor load calculations, CO2 management, flexible temperature/humidity control, and zoning strategies."
 keywords: ["exhibition HVAC", "museum visitor loads", "CO2 ventilation", "art protection climate", "temporary exhibit climate", "gallery HVAC zoning", "museum occupancy", "exhibition humidity control"]
+tags: ["exhibition HVAC", "museum visitor loads", "CO2 ventilation", "art protection climate", "temporary exhibit climate", "gallery HVAC zoning", "museum occupancy", "exhibition humidity control"]
 weight: 11
 ---
 

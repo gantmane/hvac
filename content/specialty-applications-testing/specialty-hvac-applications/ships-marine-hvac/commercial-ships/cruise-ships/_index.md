@@ -1,7 +1,9 @@
 ---
 title: "Cruise Ship HVAC Systems"
+aliases: ["Cruise Ship HVAC Systems"]
 description: "Technical guide to cruise ship climate control including central chilled water systems, cabin HVAC, public space conditioning, galley ventilation, and passenger comfort zone management."
 keywords: "cruise ship HVAC, marine air conditioning, chilled water systems, cabin climate control, galley ventilation, passenger comfort zones, ship HVAC design, maritime climate systems"
+tags: ["cruise ship HVAC", "marine air conditioning", "chilled water systems", "cabin climate control", "galley ventilation", "passenger comfort zones", "ship HVAC design", "maritime climate systems"]
 weight: 1
 ---
 

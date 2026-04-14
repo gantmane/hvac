@@ -1,7 +1,9 @@
 ---
 title: "ASHRAE 62.1 Assembly Occupancy Ventilation"
+aliases: ["ASHRAE 62.1 Assembly Occupancy Ventilation"]
 description: "Technical analysis of ASHRAE 62.1 ventilation requirements for assembly spaces including theaters, arenas, and auditoriums with VRP calculations and Ez factors."
 keywords: ["ASHRAE 62.1", "assembly ventilation", "VRP calculation", "ventilation rate procedure", "Ez factor", "high occupancy density", "theater ventilation", "arena HVAC"]
+tags: ["ASHRAE 62.1", "assembly ventilation", "VRP calculation", "ventilation rate procedure", "Ez factor", "high occupancy density", "theater ventilation", "arena HVAC"]
 weight: 1
 ---
 

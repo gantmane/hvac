@@ -1,5 +1,6 @@
 ---
 title: "Radiant Time Series Method"
+aliases: ["Radiant Time Series Method"]
 description: "Advanced cooling load calculation using radiant time series (RTS) method with time-dependent response factors for accurate modeling of thermal mass effects and radiant heat transfer."
 weight: 3
 ---

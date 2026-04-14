@@ -1,5 +1,6 @@
 ---
 title: "ICC-ES Approval for HVAC Equipment"
+aliases: ["ICC-ES Approval for HVAC Equipment"]
 description: "ICC Evaluation Service approval process for HVAC equipment, covering ESR reports, AC156 acceptance criteria, seismic certification, and code compliance documentation."
 date: 2025-01-05
 keywords:

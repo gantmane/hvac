@@ -1,7 +1,9 @@
 ---
 title: "Condensing Boilers: High-Efficiency Heating Systems"
+aliases: ["Condensing Boilers: High-Efficiency Heating Systems"]
 description: "Technical analysis of condensing boilers including latent heat recovery, flue gas condensation physics, stainless steel heat exchangers, and return water temperature requirements."
 keywords: ["condensing boilers", "latent heat recovery", "flue gas condensation", "stainless steel heat exchanger", "high efficiency boilers", "boiler efficiency", "AFUE", "condensate neutralization"]
+tags: ["condensing boilers", "latent heat recovery", "flue gas condensation", "stainless steel heat exchanger", "high efficiency boilers", "boiler efficiency", "AFUE", "condensate neutralization"]
 weight: 5
 ---
 

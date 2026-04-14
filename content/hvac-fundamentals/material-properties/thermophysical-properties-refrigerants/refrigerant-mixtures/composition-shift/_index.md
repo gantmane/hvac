@@ -1,5 +1,6 @@
 ---
 title: "Composition Shift"
+aliases: ["Composition Shift"]
 weight: 4
 ---
 

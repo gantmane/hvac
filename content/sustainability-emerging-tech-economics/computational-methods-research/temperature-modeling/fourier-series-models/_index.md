@@ -1,5 +1,6 @@
 ---
 title: "Fourier Series Models for Temperature Analysis"
+aliases: ["Fourier Series Models for Temperature Analysis"]
 description: "Master Fourier series techniques for periodic temperature modeling in HVAC systems. Learn harmonic analysis methods for thermal response prediction."
 date: 2025-01-05
 draft: false

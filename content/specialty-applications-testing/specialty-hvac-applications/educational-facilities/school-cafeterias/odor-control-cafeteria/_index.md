@@ -1,7 +1,9 @@
 ---
 title: "Odor Control in School Cafeterias"
+aliases: ["Odor Control in School Cafeterias"]
 description: "Kitchen exhaust hood sizing, makeup air balance, activated carbon filtration, and pressure relationships for effective odor control in educational facility cafeterias."
 keywords: ["cafeteria odor control", "kitchen exhaust hood", "makeup air balance", "activated carbon filtration", "kitchen pressure control", "grease capture efficiency", "transfer air design", "school kitchen ventilation"]
+tags: ["cafeteria odor control", "kitchen exhaust hood", "makeup air balance", "activated carbon filtration", "kitchen pressure control", "grease capture efficiency", "transfer air design", "school kitchen ventilation"]
 weight: 4
 ---
 

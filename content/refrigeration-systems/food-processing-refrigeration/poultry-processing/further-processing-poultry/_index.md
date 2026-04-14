@@ -1,5 +1,6 @@
 ---
 title: "Further Processing Poultry Refrigeration"
+aliases: ["Further Processing Poultry Refrigeration"]
 description: "Refrigeration requirements for marinating, breading, cooking, and packaging poultry products. Covers temperature control, air velocity, and equipment design."
 date: 2025-01-05
 weight: 3

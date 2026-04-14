@@ -1,7 +1,9 @@
 ---
 title: "Legionella Prevention in Domestic Hot Water Systems"
+aliases: ["Legionella Prevention in Domestic Hot Water Systems"]
 description: "Engineering strategies for Legionella control in service water heating systems including thermal inactivation, water management programs, and ASHRAE 188 compliance."
 keywords: ["legionella prevention", "domestic hot water", "ASHRAE 188", "thermal disinfection", "water management program", "biofilm control", "legionella pneumophila", "hot water temperature"]
+tags: ["legionella prevention", "domestic hot water", "ASHRAE 188", "thermal disinfection", "water management program", "biofilm control", "legionella pneumophila", "hot water temperature"]
 weight: 7
 ---
 

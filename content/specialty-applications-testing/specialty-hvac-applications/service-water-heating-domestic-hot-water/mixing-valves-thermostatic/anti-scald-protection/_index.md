@@ -1,7 +1,9 @@
 ---
 title: "Anti-Scald Protection Systems & Burn Prevention"
+aliases: ["Anti-Scald Protection Systems & Burn Prevention"]
 description: "Comprehensive analysis of anti-scald devices, time-temperature burn relationships, thermostatic mixing valves, and maximum delivery temperature requirements."
 keywords: ["anti-scald protection", "thermostatic mixing valves", "burn prevention", "ASSE 1017", "pressure-balancing valves", "healthcare water temperature", "scald injury prevention", "domestic hot water safety"]
+tags: ["anti-scald protection", "thermostatic mixing valves", "burn prevention", "ASSE 1017", "pressure-balancing valves", "healthcare water temperature", "scald injury prevention", "domestic hot water safety"]
 weight: 3
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Single-Effect Absorption Chillers"
+aliases: ["Single-Effect Absorption Chillers"]
 weight: 1
 description: "Single-effect absorption chillers utilize low-grade heat sources at 230-250°F to produce cooling with COP ~0.7, offering waste heat recovery and solar thermal integration opportunities."
 keywords: ["single-effect absorption", "lithium bromide chiller", "low-grade heat", "COP 0.7", "solar thermal cooling", "waste heat recovery", "hot water chiller", "absorption cycle"]
+tags: ["single-effect absorption", "lithium bromide chiller", "low-grade heat", "COP 0.7", "solar thermal cooling", "waste heat recovery", "hot water chiller", "absorption cycle"]
 ---
 
 Single-effect absorption chillers represent the most common configuration of absorption cooling technology, utilizing low-grade thermal energy to produce refrigeration with minimal electrical input. These systems operate on a single stage of heat addition, making them ideal for applications where waste heat, solar thermal energy, or low-pressure steam is available.

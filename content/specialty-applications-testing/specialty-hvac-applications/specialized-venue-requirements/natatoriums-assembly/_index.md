@@ -1,8 +1,10 @@
 ---
 title: "HVAC for Natatoriums with Assembly Spectator Areas"
+aliases: ["HVAC for Natatoriums with Assembly Spectator Areas"]
 weight: 2
 description: "Design requirements for HVAC systems serving competitive aquatic facilities with spectator seating, addressing zone separation, combined load calculations, and variable occupancy control."
 keywords: ["natatorium HVAC", "pool spectator areas", "competitive aquatic facilities", "natatorium dehumidification", "assembly occupancy", "pool ventilation", "championship pool design", "aquatic facility HVAC"]
+tags: ["natatorium HVAC", "pool spectator areas", "competitive aquatic facilities", "natatorium dehumidification", "assembly occupancy", "pool ventilation", "championship pool design", "aquatic facility HVAC"]
 ---
 
 ## Overview

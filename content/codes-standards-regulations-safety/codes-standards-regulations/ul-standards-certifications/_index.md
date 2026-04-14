@@ -1,8 +1,10 @@
 ---
 title: "UL Standards & Certifications for HVAC"
+aliases: ["UL Standards & Certifications for HVAC"]
 linkTitle: "UL Standards Certifications"
 description: "Comprehensive guide to UL safety standards and certification processes for HVAC equipment, including UL 1995, UL 2043, UL 555, fire testing, and product listing requirements."
 keywords: ["UL certification", "UL 1995", "UL 2043", "fire testing", "HVAC safety standards", "equipment listing", "UL 555", "flame spread rating"]
+tags: ["UL certification", "UL 1995", "UL 2043", "fire testing", "HVAC safety standards", "equipment listing", "UL 555", "flame spread rating"]
 weight: 4
 ---
 

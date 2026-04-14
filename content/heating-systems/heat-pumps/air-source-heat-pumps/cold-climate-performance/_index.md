@@ -1,8 +1,10 @@
 ---
 title: "Cold Climate Air Source Heat Pump Performance"
+aliases: ["Cold Climate Air Source Heat Pump Performance"]
 weight: 3
 description: "Technical analysis of air source heat pump capacity degradation, enhanced vapor injection systems, defrost cycle losses, and balance point calculations for cold climate operation."
 keywords: ["cold climate heat pump", "vapor injection", "heat pump capacity degradation", "defrost cycle", "balance point calculation", "low ambient performance", "ccASHP", "dual fuel system"]
+tags: ["cold climate heat pump", "vapor injection", "heat pump capacity degradation", "defrost cycle", "balance point calculation", "low ambient performance", "ccASHP", "dual fuel system"]
 ---
 
 Air source heat pump performance degrades substantially as outdoor ambient temperature decreases due to fundamental thermodynamic limitations. Understanding capacity reduction mechanisms, enhanced refrigeration cycles, and defrost losses enables accurate system sizing and economic analysis for cold climate applications.

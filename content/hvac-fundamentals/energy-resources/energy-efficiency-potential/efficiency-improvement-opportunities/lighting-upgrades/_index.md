@@ -1,5 +1,6 @@
 ---
 title: "Lighting Upgrades"
+aliases: ["Lighting Upgrades"]
 weight: 3
 ---
 

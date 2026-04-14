@@ -1,5 +1,6 @@
 ---
 title: "Ethylene Glycol"
+aliases: ["Ethylene Glycol"]
 description: "Comprehensive technical reference for ethylene glycol secondary coolants in HVAC applications including thermophysical properties, freeze protection, toxicity considerations, and system design requirements"
 weight: 1
 ---

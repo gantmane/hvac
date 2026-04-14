@@ -1,5 +1,6 @@
 ---
 title: "Basic Formulation"
+aliases: ["Basic Formulation"]
 weight: 1
 ---
 

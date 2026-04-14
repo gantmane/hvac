@@ -1,5 +1,6 @@
 ---
 title: "Submersible Pumps for Flood-Prone HVAC Systems"
+aliases: ["Submersible Pumps for Flood-Prone HVAC Systems"]
 description: "Engineering submersible pumps for HVAC applications in flood zones. Motor protection, NEMA ratings, hydraulic calculations, and electrical safety standards."
 date: 2025-01-05
 weight: 4

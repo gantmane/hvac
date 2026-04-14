@@ -2,6 +2,7 @@
 title: "Dehumidification Strategies for HVAC Engineers"
 description: "Cooling-based dehumidification, desiccant systems, subcooling coils, and humidity control sequences for maintaining comfort and IAQ."
 keywords: ["dehumidification", "desiccant", "subcooling", "humidity control", "latent cooling", "moisture removal"]
+tags: ["dehumidification", "desiccant", "subcooling", "humidity control", "latent cooling", "moisture removal"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 18
@@ -110,9 +111,9 @@ $$SHR = \frac{q_{sensible}}{q_{total}}$$
 ---
 
 **Related Technical Guides:**
-- [Psychrometric Processes](/technical-guides/psychrometric-processes/)
-- [Cooling Load Calculations](/technical-guides/cooling-load-calculations/)
-- [Air Conditioning System Selection](/technical-guides/air-conditioning-system-selection/)
+- Psychrometric Processes
+- Cooling Load Calculations
+- Air Conditioning System Selection
 
 **References:**
 - ASHRAE Handbook of HVAC Systems and Equipment, Chapter 24: Desiccant Dehumidification and Pressure Drying Equipment

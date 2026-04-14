@@ -1,5 +1,6 @@
 ---
 title: "Access and Maintenance for Elevated HVAC Equipment"
+aliases: ["Access and Maintenance for Elevated HVAC Equipment"]
 description: "Engineering standards for safe access to elevated HVAC equipment including catwalks, ladders, platforms, fall protection systems, and maintenance clearances per OSHA requirements."
 date: 2025-01-05
 weight: 4

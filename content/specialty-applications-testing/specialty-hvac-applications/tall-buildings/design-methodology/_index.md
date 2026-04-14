@@ -1,5 +1,6 @@
 ---
 title: "Design Methodology for Tall Building HVAC"
+aliases: ["Design Methodology for Tall Building HVAC"]
 description: "Comprehensive design process, analysis tools, performance-based design, CFD modeling, and integration with architectural systems for high-rise buildings."
 date: "2026-01-04"
 weight: 11

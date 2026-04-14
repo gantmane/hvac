@@ -1,5 +1,6 @@
 ---
 title: "Internal Heat Gains"
+aliases: ["Internal Heat Gains"]
 weight: 2
 ---
 

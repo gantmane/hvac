@@ -1,5 +1,6 @@
 ---
 title: "Refrigerant Property Tables"
+aliases: ["Refrigerant Property Tables"]
 description: "Comprehensive refrigerant property tables for saturation, superheat, and subcooled conditions. Essential thermodynamic data for HVAC system design, refrigeration cycle analysis, and equipment performance calculations."
 weight: 1
 ---

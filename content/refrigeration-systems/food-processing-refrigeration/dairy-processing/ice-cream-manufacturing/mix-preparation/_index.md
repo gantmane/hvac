@@ -1,5 +1,6 @@
 ---
 title: "Mix Preparation"
+aliases: ["Mix Preparation"]
 description: "Ice cream mix preparation thermal processes including pasteurization, homogenization, cooling systems, aging requirements, equipment heat loads, and process room HVAC design for commercial ice cream manufacturing"
 weight: 1
 ---

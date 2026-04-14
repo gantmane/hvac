@@ -1,7 +1,9 @@
 ---
 title: "CO and Visibility Monitoring in Vehicle Tunnels"
+aliases: ["CO and Visibility Monitoring in Vehicle Tunnels"]
 description: "Technical guide to carbon monoxide sensor networks, visibility transmissometers, and air quality monitoring systems for tunnel ventilation control per NFPA 502."
 keywords: ["CO monitoring tunnels", "visibility transmissometer", "tunnel air quality", "NFPA 502", "nitrogen dioxide NO2", "pollutant ventilation control", "tunnel sensors", "opacity measurement"]
+tags: ["CO monitoring tunnels", "visibility transmissometer", "tunnel air quality", "NFPA 502", "nitrogen dioxide NO2", "pollutant ventilation control", "tunnel sensors", "opacity measurement"]
 weight: 5
 ---
 

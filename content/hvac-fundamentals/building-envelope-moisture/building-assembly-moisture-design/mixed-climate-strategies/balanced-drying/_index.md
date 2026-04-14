@@ -1,5 +1,6 @@
 ---
 title: "Balanced Drying"
+aliases: ["Balanced Drying"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Paper Mill Heat Recovery Systems"
+aliases: ["Paper Mill Heat Recovery Systems"]
 description: "Technical analysis of heat recovery in paper mills including dryer exhaust recovery, steam system optimization, condensate recovery, and HRSG applications with efficiency calculations."
 keywords:
   - paper mill heat recovery

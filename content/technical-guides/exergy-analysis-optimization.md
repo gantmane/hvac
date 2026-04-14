@@ -2,6 +2,7 @@
 title: "Exergy Analysis & Thermodynamic Optimization for HVAC Systems"
 description: "Engineering guide to exergy (available energy) analysis for identifying irreversibilities, optimizing HVAC system efficiency, and minimizing thermodynamic losses in chillers, boilers, and heat exchangers."
 keywords: ["exergy analysis", "second law efficiency", "irreversibility", "thermodynamic optimization", "HVAC efficiency", "entropy generation", "exergy destruction"]
+tags: ["exergy analysis", "second law efficiency", "irreversibility", "thermodynamic optimization", "HVAC efficiency", "entropy generation", "exergy destruction"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 41
@@ -361,11 +362,11 @@ $$\eta_{ex,CHP} = \frac{500 \times 3,412 + 483,000}{5,826,500} = 0.37 = 37\%$$
 ---
 
 **Related Technical Guides:**
-- [Thermodynamic Cycles](/technical-guides/thermodynamic-cycles/)
-- [Heat Transfer Fundamentals](/technical-guides/heat-transfer-fundamentals/)
-- [Chiller Performance Analysis](/technical-guides/chiller-performance-analysis/)
-- [Energy Modeling Methodology](/technical-guides/energy-modeling-methodology/)
-- [Heat Pump Technology](/technical-guides/heat-pump-technology/)
+- Thermodynamic Cycles
+- Heat Transfer Fundamentals
+- Chiller Performance Analysis
+- Energy Modeling Methodology
+- Heat Pump Technology
 
 **References:**
 - Bejan, A., "Advanced Engineering Thermodynamics"

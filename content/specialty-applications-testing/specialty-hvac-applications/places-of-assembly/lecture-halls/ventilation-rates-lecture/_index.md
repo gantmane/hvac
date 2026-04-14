@@ -1,7 +1,9 @@
 ---
 title: "Ventilation Rates for Lecture Halls"
+aliases: ["Ventilation Rates for Lecture Halls"]
 description: "Technical analysis of ASHRAE 62.1 ventilation requirements for lecture halls including 7.5 CFM/person breathing zone calculations, CO2-based demand control strategies, and effectiveness factors."
 keywords: ["lecture hall ventilation", "ASHRAE 62.1", "breathing zone effectiveness", "demand controlled ventilation", "CO2 sensors", "air changes per hour", "educational HVAC", "occupancy-based ventilation"]
+tags: ["lecture hall ventilation", "ASHRAE 62.1", "breathing zone effectiveness", "demand controlled ventilation", "CO2 sensors", "air changes per hour", "educational HVAC", "occupancy-based ventilation"]
 weight: 4
 ---
 

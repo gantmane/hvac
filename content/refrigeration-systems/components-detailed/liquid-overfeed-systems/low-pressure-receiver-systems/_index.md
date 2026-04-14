@@ -1,5 +1,6 @@
 ---
 title: "Low Pressure Receiver Systems"
+aliases: ["Low Pressure Receiver Systems"]
 description: "Technical analysis of low-pressure receiver design, sizing, and operation in liquid overfeed refrigeration systems including level control strategies, vapor-liquid separation, and safety protocols"
 weight: 3
 ---

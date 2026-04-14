@@ -2,6 +2,7 @@
 title: "Building Envelope Heat Transfer & Thermal Performance Analysis"
 description: "Engineering guide to heat transfer through walls, roofs, floors, windows, and thermal bridges including U-value calculations, thermal mass effects, and moisture control."
 keywords: ["building envelope", "heat transfer", "U-value", "R-value", "thermal bridge", "infiltration", "thermal mass", "fenestration"]
+tags: ["building envelope", "heat transfer", "U-value", "R-value", "thermal bridge", "infiltration", "thermal mass", "fenestration"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 38
@@ -364,11 +365,11 @@ If $T_{interface} < T_{dewpoint}$, condensation occurs.
 ---
 
 **Related Technical Guides:**
-- [Material Thermal Properties](/technical-guides/material-thermal-properties/)
-- [Heat Transfer Fundamentals](/technical-guides/heat-transfer-fundamentals/)
-- [Heating Load Calculations](/technical-guides/heating-load-calculations/)
-- [Cooling Load Calculations](/technical-guides/cooling-load-calculations/)
-- [Psychrometric Fundamentals](/technical-guides/psychrometric-fundamentals/)
+- Material Thermal Properties
+- Heat Transfer Fundamentals
+- Heating Load Calculations
+- Cooling Load Calculations
+- Psychrometric Fundamentals
 
 **References:**
 - ASHRAE Fundamentals Handbook, Chapter 26: Heat, Air, and Moisture Control in Building Assemblies

@@ -1,7 +1,9 @@
 ---
 title: "Hydronic Snow Melt Tube Spacing Design"
+aliases: ["Hydronic Snow Melt Tube Spacing Design"]
 description: "Engineering guide to tube spacing in hydronic snow melting systems including heat output relationships, slab depth effects, spacing calculations, and methods for uniform surface temperature achievement."
 keywords: ["tube spacing", "hydronic snow melting", "heat flux", "spacing calculation", "surface temperature uniformity", "slab depth", "thermal conductivity", "serpentine pattern"]
+tags: ["tube spacing", "hydronic snow melting", "heat flux", "spacing calculation", "surface temperature uniformity", "slab depth", "thermal conductivity", "serpentine pattern"]
 weight: 2
 ---
 

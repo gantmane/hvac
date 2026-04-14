@@ -1,8 +1,10 @@
 ---
 title: "Combustion Air Requirements"
+aliases: ["Combustion Air Requirements"]
 weight: 5
 description: "Engineering analysis of combustion air requirements including stoichiometric air calculations, excess air determination, combustion air fan sizing, air temperature effects on combustion, infiltration air vs. ducted air, and makeup air system design for commercial and industrial burners."
 keywords: "combustion air, stoichiometric air, excess air, combustion air fan, air temperature effects, makeup air, ventilation air, NFPA 54, combustion air openings"
+tags: ["combustion air", "stoichiometric air", "excess air", "combustion air fan", "air temperature effects", "makeup air", "ventilation air", "NFPA 54", "combustion air openings"]
 ---
 
 # Combustion Air Requirements

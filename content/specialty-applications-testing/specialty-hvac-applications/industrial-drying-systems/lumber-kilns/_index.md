@@ -1,7 +1,9 @@
 ---
 title: "Lumber Kiln Drying Systems: Physics & Design"
+aliases: ["Lumber Kiln Drying Systems: Physics & Design"]
 description: "Technical analysis of lumber kiln HVAC systems including moisture diffusion calculations, psychrometric control, and kiln design principles for commercial wood drying operations."
 keywords: ["lumber kiln", "wood drying", "moisture diffusion", "kiln control", "EMC calculation", "drying schedule", "kiln psychrometrics", "timber seasoning"]
+tags: ["lumber kiln", "wood drying", "moisture diffusion", "kiln control", "EMC calculation", "drying schedule", "kiln psychrometrics", "timber seasoning"]
 seo_title: "Lumber Kiln Drying: HVAC Design & Calculations"
 weight: 5
 ---

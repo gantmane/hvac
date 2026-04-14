@@ -1,7 +1,9 @@
 ---
 title: "HVAC Technical Webinars and Virtual Training"
+aliases: ["HVAC Technical Webinars and Virtual Training"]
 description: "Comprehensive guide to HVAC webinar platforms including ASHRAE, manufacturer, and industry training programs. Compare live and on-demand options for continuing education."
 keywords: ["HVAC webinars", "ASHRAE webinars", "live technical training", "on-demand HVAC courses", "manufacturer webinars", "PDH webinars", "virtual HVAC training", "AHRI webinars"]
+tags: ["HVAC webinars", "ASHRAE webinars", "live technical training", "on-demand HVAC courses", "manufacturer webinars", "PDH webinars", "virtual HVAC training", "AHRI webinars"]
 weight: 2
 ---
 

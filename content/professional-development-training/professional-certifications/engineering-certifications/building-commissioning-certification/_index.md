@@ -1,5 +1,6 @@
 ---
 title: "Building Commissioning Certification Programs"
+aliases: ["Building Commissioning Certification Programs"]
 description: "Comprehensive guide to building commissioning certifications including CxA, CEM, and LEED credentials. Physics-based approach to system verification and performance."
 date: 2025-01-05
 tags: ["commissioning", "certification", "professional development", "system verification", "building performance"]

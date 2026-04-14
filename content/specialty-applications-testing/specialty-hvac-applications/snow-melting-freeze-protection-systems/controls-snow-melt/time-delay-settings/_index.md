@@ -1,7 +1,9 @@
 ---
 title: "Time Delay Settings for Snow Melting Controls"
+aliases: ["Time Delay Settings for Snow Melting Controls"]
 description: "Engineering analysis of on-delay and off-delay timer settings for hydronic and electric snow melting systems, including slab thermal response calculations."
 keywords: ["snow melting time delay", "slab thermal mass", "heat-up time calculation", "control delay settings", "false start prevention", "complete drying cycle", "snow melt timing", "thermal response"]
+tags: ["snow melting time delay", "slab thermal mass", "heat-up time calculation", "control delay settings", "false start prevention", "complete drying cycle", "snow melt timing", "thermal response"]
 weight: 5
 ---
 

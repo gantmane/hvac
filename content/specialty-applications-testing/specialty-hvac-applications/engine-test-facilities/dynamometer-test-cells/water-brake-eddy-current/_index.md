@@ -1,7 +1,9 @@
 ---
 title: "Water Brake and Eddy Current Dynamometer HVAC"
+aliases: ["Water Brake and Eddy Current Dynamometer HVAC"]
 description: "HVAC design for water brake and eddy current dynamometer test cells including cooling water systems, ventilation, humidity control, and electrical room cooling."
 keywords: ["dynamometer cooling", "water brake HVAC", "eddy current cooling", "test cell ventilation", "dynamometer heat rejection", "engine testing HVAC", "absorption dynamometer", "electrical cooling"]
+tags: ["dynamometer cooling", "water brake HVAC", "eddy current cooling", "test cell ventilation", "dynamometer heat rejection", "engine testing HVAC", "absorption dynamometer", "electrical cooling"]
 weight: 3
 ---
 

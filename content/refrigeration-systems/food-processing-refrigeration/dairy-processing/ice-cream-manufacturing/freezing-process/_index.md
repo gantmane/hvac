@@ -1,5 +1,6 @@
 ---
 title: "Freezing Process"
+aliases: ["Freezing Process"]
 description: "Technical analysis of ice cream freezing processes including continuous and batch freezer operation, scraped surface heat transfer, overrun control, draw temperature optimization, and refrigeration system design for commercial ice cream production"
 weight: 2
 ---

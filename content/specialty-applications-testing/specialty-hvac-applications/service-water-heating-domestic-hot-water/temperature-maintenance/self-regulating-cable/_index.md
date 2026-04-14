@@ -1,7 +1,9 @@
 ---
 title: "Self-Regulating Heat Trace Cable Systems"
+aliases: ["Self-Regulating Heat Trace Cable Systems"]
 description: "Technical guide to self-regulating heat trace cable for hot water temperature maintenance. Covers PTC polymer technology, power modulation, NEC compliance, and sizing."
 keywords: ["self-regulating cable", "heat trace", "PTC polymer", "temperature maintenance", "domestic hot water", "NEC Article 427", "energy efficiency", "heat trace sizing"]
+tags: ["self-regulating cable", "heat trace", "PTC polymer", "temperature maintenance", "domestic hot water", "NEC Article 427", "energy efficiency", "heat trace sizing"]
 weight: 3
 ---
 

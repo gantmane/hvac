@@ -1,7 +1,9 @@
 ---
 title: "Fire Suppression Systems for Cultural Heritage"
+aliases: ["Fire Suppression Systems for Cultural Heritage"]
 description: "Clean agent fire suppression integration with HVAC systems for museums and archives. FM-200, Novec 1230, inert gas, and water mist systems designed to protect collections."
 keywords: ["fire suppression HVAC", "clean agent systems", "FM-200", "Novec 1230", "water mist suppression", "museum fire protection", "NFPA 909", "gaseous suppression"]
+tags: ["fire suppression HVAC", "clean agent systems", "FM-200", "Novec 1230", "water mist suppression", "museum fire protection", "NFPA 909", "gaseous suppression"]
 weight: 2
 ---
 

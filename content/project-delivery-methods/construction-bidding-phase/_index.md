@@ -1,7 +1,9 @@
 ---
 title: "Construction Bidding Phase"
+aliases: ["Construction Bidding Phase"]
 description: "Guide to the HVAC construction bidding phase including bid document preparation, contractor qualification, and award procedures."
 keywords: ["construction bidding", "bid phase", "contractor selection", "HVAC procurement", "bid documents", "contract award"]
+tags: ["construction bidding", "bid phase", "contractor selection", "HVAC procurement", "bid documents", "contract award"]
 weight: 30
 ---
 

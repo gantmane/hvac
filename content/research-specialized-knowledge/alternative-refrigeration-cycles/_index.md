@@ -1,5 +1,6 @@
 ---
 title: "Alternative Refrigeration Cycles"
+aliases: ["Alternative Refrigeration Cycles"]
 description: "Comprehensive analysis of non-vapor-compression refrigeration technologies including magnetocaloric, thermoelectric, thermoacoustic, ejector, Stirling cycle, and vortex tube systems with research status and commercialization prospects."
 weight: 3
 ---

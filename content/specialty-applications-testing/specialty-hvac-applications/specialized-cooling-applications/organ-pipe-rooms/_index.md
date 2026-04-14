@@ -1,8 +1,10 @@
 ---
 title: "Organ Pipe Room HVAC"
+aliases: ["Organ Pipe Room HVAC"]
 weight: 3
 description: "Engineering analysis of HVAC systems for pipe organ installations including humidity stability requirements for tuning, temperature control 68-72°F, air distribution without drafts, wind pressure effects, and organ builders' environmental standards for mechanical and tonal stability."
 keywords: "organ pipe room HVAC, organ chamber climate control, pipe organ humidity control, organ tuning stability, organ room temperature, wind pressure interference, draft-free air distribution, organ builders standards"
+tags: ["organ pipe room HVAC", "organ chamber climate control", "pipe organ humidity control", "organ tuning stability", "organ room temperature", "wind pressure interference", "draft-free air distribution", "organ builders standards"]
 ---
 
 # Organ Pipe Room HVAC

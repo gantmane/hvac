@@ -1,7 +1,9 @@
 ---
 title: "Courtroom HVAC Design and Acoustic Control"
+aliases: ["Courtroom HVAC Design and Acoustic Control"]
 description: "Technical guide to courtroom HVAC systems covering noise criteria NC-25, variable occupancy loads, judicial comfort zones, and acoustic performance requirements."
 keywords: ["courtroom HVAC", "noise criteria NC-25", "judicial ventilation", "courtroom acoustics", "variable occupancy design", "justice facility HVAC", "witness stand ventilation", "jury box climate control"]
+tags: ["courtroom HVAC", "noise criteria NC-25", "judicial ventilation", "courtroom acoustics", "variable occupancy design", "justice facility HVAC", "witness stand ventilation", "jury box climate control"]
 weight: 1
 ---
 

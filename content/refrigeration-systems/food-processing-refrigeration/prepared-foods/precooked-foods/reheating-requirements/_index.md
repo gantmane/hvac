@@ -1,5 +1,6 @@
 ---
 title: "Reheating Requirements"
+aliases: ["Reheating Requirements"]
 description: "Comprehensive technical requirements for reheating precooked foods including temperature targets, time constraints, equipment specifications, HVAC system design for rethermalization areas, and HACCP compliance for food safety."
 weight: 3
 ---

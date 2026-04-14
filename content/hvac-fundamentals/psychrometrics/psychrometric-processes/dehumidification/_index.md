@@ -1,5 +1,6 @@
 ---
 title: "Dehumidification"
+aliases: ["Dehumidification"]
 description: "Comprehensive analysis of HVAC dehumidification processes including cooling-based moisture removal, desiccant systems, latent heat calculations, sensible heat ratio optimization, and equipment selection criteria for precise humidity control"
 weight: 5
 ---

@@ -1,9 +1,11 @@
 ---
 title: "HVAC Equipment Hardening for Critical Infrastructure"
+aliases: ["HVAC Equipment Hardening for Critical Infrastructure"]
 description: "Physical hardening strategies for HVAC systems including protective enclosures, blast-resistant design, ballistic protection, and security barriers for critical facilities."
 weight: 4
 date: 2025-01-05
 keywords: ["HVAC hardening", "equipment protection", "blast-resistant HVAC", "ballistic protection", "protective enclosures", "critical infrastructure", "physical security", "threat mitigation"]
+tags: ["HVAC hardening", "equipment protection", "blast-resistant HVAC", "ballistic protection", "protective enclosures", "critical infrastructure", "physical security", "threat mitigation"]
 ---
 
 # HVAC Equipment Hardening for Critical Infrastructure

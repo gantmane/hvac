@@ -1,7 +1,9 @@
 ---
 title: "Air Terminals: Diffusers, Grilles & Registers"
+aliases: ["Air Terminals: Diffusers, Grilles & Registers"]
 description: "Comprehensive guide to HVAC air terminals including diffusers, grilles, registers, and VAV terminals. Covers throw and drop calculations, selection criteria, and ASHRAE standards."
 keywords: ["air terminals", "diffusers", "grilles", "registers", "VAV terminals", "throw calculation", "air distribution", "ASHRAE 70"]
+tags: ["air terminals", "diffusers", "grilles", "registers", "VAV terminals", "throw calculation", "air distribution", "ASHRAE 70"]
 weight: 8
 ---
 

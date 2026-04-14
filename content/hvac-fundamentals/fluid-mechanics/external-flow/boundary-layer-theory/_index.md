@@ -1,5 +1,6 @@
 ---
 title: "Boundary Layer Theory"
+aliases: ["Boundary Layer Theory"]
 description: "Comprehensive analysis of boundary layer development, transition mechanisms, and heat transfer implications for HVAC external flow applications including cooling towers, condensers, and heat exchangers"
 weight: 2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Cooling Time Calculations"
+aliases: ["Cooling Time Calculations"]
 weight: 2
 ---
 

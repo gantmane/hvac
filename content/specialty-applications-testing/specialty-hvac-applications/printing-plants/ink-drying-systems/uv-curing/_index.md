@@ -1,5 +1,6 @@
 ---
 title: "UV Curing Systems: Thermal Management and Cooling"
+aliases: ["UV Curing Systems: Thermal Management and Cooling"]
 description: "HVAC engineering for UV curing systems in printing including mercury and LED lamp cooling requirements, radiant heat loads, ozone control, and lamp chamber ventilation."
 keywords:
   - UV curing systems

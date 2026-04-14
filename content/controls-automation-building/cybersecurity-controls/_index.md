@@ -1,7 +1,9 @@
 ---
 title: "Cybersecurity Controls for Building Automation Systems"
+aliases: ["Cybersecurity Controls for Building Automation Systems"]
 description: "Comprehensive cybersecurity framework for HVAC and BAS networks including network segmentation, access control, encryption protocols, and threat monitoring aligned with ASHRAE and NIST standards."
 keywords: ["BAS cybersecurity", "HVAC network security", "building automation security", "industrial control systems", "network segmentation", "access control", "SCADA security", "OT security"]
+tags: ["BAS cybersecurity", "HVAC network security", "building automation security", "industrial control systems", "network segmentation", "access control", "SCADA security", "OT security"]
 weight: 9
 ---
 

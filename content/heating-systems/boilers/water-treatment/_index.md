@@ -1,8 +1,10 @@
 ---
 title: "Water Treatment"
+aliases: ["Water Treatment"]
 weight: 5
 description: "Comprehensive guide to boiler water treatment including scale prevention, oxygen scavenging, pH control, blowdown calculations, deaeration, and chemical treatment programs."
 keywords: ["boiler water treatment", "scale prevention", "oxygen scavenger", "sulfite treatment", "hydrazine", "pH control", "blowdown calculation", "water softening", "deaeration", "condensate treatment"]
+tags: ["boiler water treatment", "scale prevention", "oxygen scavenger", "sulfite treatment", "hydrazine", "pH control", "blowdown calculation", "water softening", "deaeration", "condensate treatment"]
 ---
 
 Proper water treatment prevents scale formation, corrosion, and carryover in boiler systems. Untreated water contains dissolved minerals, gases, and impurities that cause tube failures, efficiency losses, and equipment damage. Treatment programs maintain water chemistry within acceptable limits based on operating pressure and system configuration.

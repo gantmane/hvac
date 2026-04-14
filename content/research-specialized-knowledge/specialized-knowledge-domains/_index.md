@@ -1,5 +1,6 @@
 ---
 title: "Specialized Knowledge Domains"
+aliases: ["Specialized Knowledge Domains"]
 description: "Interdisciplinary HVAC engineering expertise spanning building physics, thermodynamics, fluid mechanics, psychrometrics, acoustics, materials science, controls engineering, and system integration with electrical, plumbing, fire protection, and structural systems for comprehensive mechanical system design."
 weight: 8
 ---

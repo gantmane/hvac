@@ -1,8 +1,10 @@
 ---
 title: "Boiler Types and Selection Criteria"
+aliases: ["Boiler Types and Selection Criteria"]
 weight: 1
 description: "Comprehensive analysis of boiler classifications including fire-tube, water-tube, cast iron, steel, condensing, and non-condensing designs with physics-based selection criteria."
 keywords: ["fire-tube boiler", "water-tube boiler", "condensing boiler", "cast iron boiler", "steel boiler", "boiler selection", "boiler efficiency", "ASME boilers"]
+tags: ["fire-tube boiler", "water-tube boiler", "condensing boiler", "cast iron boiler", "steel boiler", "boiler selection", "boiler efficiency", "ASME boilers"]
 ---
 
 ## Fundamental Classification Systems

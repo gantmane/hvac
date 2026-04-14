@@ -1,5 +1,6 @@
 ---
 title: "HVAC Financing Mechanisms for Energy Projects"
+aliases: ["HVAC Financing Mechanisms for Energy Projects"]
 description: "Engineering analysis of PACE, ESAs, power purchase agreements, and on-bill financing structures for commercial HVAC system upgrades and efficiency projects."
 date: 2025-01-05
 tags: ["financing", "energy efficiency", "PACE", "ESA", "PPA", "economics", "government incentives"]

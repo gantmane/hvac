@@ -1,5 +1,6 @@
 ---
 title: "System Configurations"
+aliases: ["System Configurations"]
 weight: 3
 ---
 

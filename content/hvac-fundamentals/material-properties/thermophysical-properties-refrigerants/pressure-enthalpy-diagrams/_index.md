@@ -1,5 +1,6 @@
 ---
 title: "Pressure-Enthalpy Diagrams"
+aliases: ["Pressure-Enthalpy Diagrams"]
 description: "Pressure-enthalpy P-h diagrams for refrigeration cycle analysis including saturation dome, isentropic lines, constant quality lines, subcooling superheat regions, and refrigerant property determination for HVAC system design and troubleshooting"
 weight: 3
 ---

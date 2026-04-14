@@ -1,7 +1,9 @@
 ---
 title: "Exhaust Air Volumes for Natatorium Design"
+aliases: ["Exhaust Air Volumes for Natatorium Design"]
 description: "Engineering calculations for natatorium exhaust air quantities, deck and ceiling exhaust strategies, velocity requirements, chloramine removal, and exhaust-to-supply ratios."
 keywords: ["natatorium exhaust air", "pool ventilation CFM", "chloramine removal", "deck level exhaust", "exhaust velocity calculations", "natatorium air balance", "pool area negative pressure", "swimming pool HVAC"]
+tags: ["natatorium exhaust air", "pool ventilation CFM", "chloramine removal", "deck level exhaust", "exhaust velocity calculations", "natatorium air balance", "pool area negative pressure", "swimming pool HVAC"]
 weight: 2
 ---
 

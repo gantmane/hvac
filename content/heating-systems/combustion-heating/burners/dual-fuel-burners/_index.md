@@ -1,8 +1,10 @@
 ---
 title: "Dual-Fuel Burners"
+aliases: ["Dual-Fuel Burners"]
 weight: 3
 description: "Engineering analysis of dual-fuel burner systems for gas-oil combustion including combination burner design, automatic fuel changeover systems, fuel interchangeability calculations, simultaneous firing capabilities, and burner sizing for fuel flexibility in commercial and industrial heating applications."
 keywords: "dual-fuel burners, combination burners, gas-oil burners, automatic fuel changeover, fuel interchangeability, simultaneous firing, backup fuel systems"
+tags: ["dual-fuel burners", "combination burners", "gas-oil burners", "automatic fuel changeover", "fuel interchangeability", "simultaneous firing", "backup fuel systems"]
 ---
 
 # Dual-Fuel Burners

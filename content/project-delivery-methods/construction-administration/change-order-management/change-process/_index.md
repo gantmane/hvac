@@ -1,5 +1,6 @@
 ---
 title: "Change Process"
+aliases: ["Change Process"]
 weight: 2
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Maintenance and Water Quality"
+aliases: ["Maintenance and Water Quality"]
 description: "Maintenance procedures and water quality management for evaporative cooling systems to ensure performance, efficiency, and equipment longevity."
 keywords: ["evaporative cooler maintenance", "water quality", "water treatment", "scale control", "legionella prevention", "cooling system maintenance"]
+tags: ["evaporative cooler maintenance", "water quality", "water treatment", "scale control", "legionella prevention", "cooling system maintenance"]
 weight: 5
 ---
 

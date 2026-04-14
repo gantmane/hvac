@@ -1,5 +1,6 @@
 ---
 title: "Feedforward Control Theory"
+aliases: ["Feedforward Control Theory"]
 description: "Anticipatory feedforward control for HVAC systems using disturbance measurement, compensation models, dynamic feedforward design, and integrated feedback-feedforward strategies."
 date: 2026-01-04
 weight: 6

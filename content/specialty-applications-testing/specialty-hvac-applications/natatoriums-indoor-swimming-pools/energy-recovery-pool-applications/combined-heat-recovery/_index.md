@@ -1,7 +1,9 @@
 ---
 title: "Combined Heat Recovery for Natatoriums"
+aliases: ["Combined Heat Recovery for Natatoriums"]
 description: "Integrated exhaust air and pool water heat recovery systems for natatoriums, covering dual-stream recovery, system efficiency, and combined energy savings analysis."
 keywords: ["combined heat recovery", "dual heat recovery", "natatorium energy recovery", "pool water heat recovery", "exhaust air recovery", "integrated HVAC systems", "pool dehumidification", "energy efficiency"]
+tags: ["combined heat recovery", "dual heat recovery", "natatorium energy recovery", "pool water heat recovery", "exhaust air recovery", "integrated HVAC systems", "pool dehumidification", "energy efficiency"]
 weight: 3
 ---
 

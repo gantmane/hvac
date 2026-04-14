@@ -1,8 +1,10 @@
 ---
 title: "Compartmentalization Strategies for High-Rise HVAC"
+aliases: ["Compartmentalization Strategies for High-Rise HVAC"]
 description: "Comprehensive analysis of high-rise compartmentalization strategies including smoke barriers, fire zones, HVAC zoning, interfloor leakage control, and code compliance."
 date: 2025-01-11
 keywords: ["high-rise compartmentalization", "smoke barriers", "fire zones", "interfloor leakage", "HVAC zoning", "smoke control", "NFPA 92", "IBC requirements"]
+tags: ["high-rise compartmentalization", "smoke barriers", "fire zones", "interfloor leakage", "HVAC zoning", "smoke control", "NFPA 92", "IBC requirements"]
 weight: 5
 ---
 

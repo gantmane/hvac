@@ -1,5 +1,6 @@
 ---
 title: "Storage Life by Species"
+aliases: ["Storage Life by Species"]
 description: "Species-specific cold storage life for fish and shellfish including temperature effects, fat content impact, quality degradation mechanisms, and ASHRAE-based storage recommendations for commercial refrigeration system design and operation"
 weight: 4
 ---

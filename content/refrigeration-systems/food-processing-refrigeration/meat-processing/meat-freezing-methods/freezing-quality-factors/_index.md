@@ -1,5 +1,6 @@
 ---
 title: "Freezing Quality Factors"
+aliases: ["Freezing Quality Factors"]
 description: "Comprehensive analysis of freezing quality factors in meat processing including ice crystal formation, cellular damage mechanisms, freezing rate impact on texture and drip loss, temperature fluctuation effects, protein denaturation, and ASHRAE/USDA quality standards"
 weight: 4
 ---

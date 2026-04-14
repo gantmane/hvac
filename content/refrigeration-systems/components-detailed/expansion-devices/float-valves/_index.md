@@ -1,5 +1,6 @@
 ---
 title: "Float Valves"
+aliases: ["Float Valves"]
 description: "Comprehensive guide to refrigeration float valves including high-side and low-side configurations, liquid level control mechanisms, flooded evaporator applications, and sizing criteria for HVAC systems."
 weight: 4
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Beet and Turnip Storage"
+aliases: ["Beet and Turnip Storage"]
 description: "Technical requirements for refrigerated storage of beets, turnips, and rutabagas including temperature control, humidity management, curing protocols, air circulation design, and long-term storage system specifications for maintaining quality in commercial processing facilities."
 weight: 4
 ---

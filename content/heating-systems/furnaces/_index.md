@@ -1,8 +1,10 @@
 ---
 title: "Furnaces"
+aliases: ["Furnaces"]
 weight: 2
 description: "Comprehensive analysis of gas furnace technology, AFUE ratings, heat exchanger design, and capacity sizing for residential and commercial applications"
 keywords: ["gas furnace", "furnace efficiency", "AFUE", "heat exchanger", "residential furnace", "commercial furnace", "condensing furnace"]
+tags: ["gas furnace", "furnace efficiency", "AFUE", "heat exchanger", "residential furnace", "commercial furnace", "condensing furnace"]
 ---
 
 Furnaces represent forced-air heating equipment that generates thermal energy through combustion processes, transferring heat to airstreams via metallic heat exchangers. These systems dominate North American space heating markets due to rapid temperature response, distributed air delivery capabilities, and integration potential with central air conditioning infrastructure.

@@ -1,5 +1,6 @@
 ---
 title: "Thermal Oxidation for VOC Destruction in Printing"
+aliases: ["Thermal Oxidation for VOC Destruction in Printing"]
 description: "Engineering analysis of thermal, catalytic, and regenerative thermal oxidizers including destruction efficiency calculations, autothermal operation, and EPA compliance."
 date: 2025-01-11
 category: "Specialty HVAC Applications"

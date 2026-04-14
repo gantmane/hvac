@@ -1,5 +1,6 @@
 ---
 title: "Coil Configurations"
+aliases: ["Coil Configurations"]
 weight: 2
 ---
 

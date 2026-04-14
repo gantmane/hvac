@@ -1,7 +1,9 @@
 ---
 title: "Tamper-Proof HVAC Requirements for Correctional Facilities"
+aliases: ["Tamper-Proof HVAC Requirements for Correctional Facilities"]
 description: "Engineering specifications for detention-grade HVAC equipment, tamper-resistant fasteners, security grilles, and access prevention in prisons and jails per ACA standards."
 keywords: ["tamper-proof HVAC", "detention-grade equipment", "security grilles", "tamper-resistant fasteners", "correctional facility HVAC", "vandal-resistant components", "prison HVAC security", "jail HVAC hardening"]
+tags: ["tamper-proof HVAC", "detention-grade equipment", "security grilles", "tamper-resistant fasteners", "correctional facility HVAC", "vandal-resistant components", "prison HVAC security", "jail HVAC hardening"]
 weight: 3
 ---
 

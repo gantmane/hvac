@@ -1,8 +1,10 @@
 ---
 title: "HVAC Impact on Electric Vehicle Driving Range"
+aliases: ["HVAC Impact on Electric Vehicle Driving Range"]
 seo_title: "EV HVAC Range Impact: Cold Weather Energy Loss Analysis"
 description: "Technical analysis of HVAC power consumption effects on EV range. Heating loads consume 3-6 kW, reducing cold weather range 30-50%. Physics-based energy management strategies."
 keywords: ["EV HVAC range", "electric vehicle heating", "cold weather range loss", "EV climate control efficiency", "battery thermal management", "EV preconditioning", "resistive heating power", "heat pump efficiency EV"]
+tags: ["EV HVAC range", "electric vehicle heating", "cold weather range loss", "EV climate control efficiency", "battery thermal management", "EV preconditioning", "resistive heating power", "heat pump efficiency EV"]
 weight: 3
 ---
 

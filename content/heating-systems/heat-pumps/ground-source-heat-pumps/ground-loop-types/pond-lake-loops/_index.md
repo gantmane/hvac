@@ -1,8 +1,10 @@
 ---
 title: "Pond and Lake Loop Heat Exchangers"
+aliases: ["Pond and Lake Loop Heat Exchangers"]
 weight: 3
 description: "Technical analysis of submerged coil heat exchangers in water bodies, thermal capacity requirements, seasonal stratification effects, and design considerations for pond and lake loops."
 keywords: ["pond loop", "lake loop", "submerged heat exchanger", "water body thermal capacity", "IGSHPA", "thermocline", "coil submersion", "aquatic ecosystem impact"]
+tags: ["pond loop", "lake loop", "submerged heat exchanger", "water body thermal capacity", "IGSHPA", "thermocline", "coil submersion", "aquatic ecosystem impact"]
 ---
 
 ## Fundamental Heat Transfer Principles

@@ -1,5 +1,6 @@
 ---
 title: "Chinese HVAC Standards and Market Practices"
+aliases: ["Chinese HVAC Standards and Market Practices"]
 description: "Comprehensive analysis of GB national standards, efficiency grading systems, district heating infrastructure in northern China, VRF market dominance, and China's position as the world's largest HVAC market."
 date: 2025-01-05
 weight: 2

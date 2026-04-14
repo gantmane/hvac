@@ -1,7 +1,9 @@
 ---
 title: "Embedded Hydronic Tubing Systems"
+aliases: ["Embedded Hydronic Tubing Systems"]
 description: "Technical analysis of embedded tubing for snow melting including PEX vs EPDM material selection, oxygen barrier requirements, installation depth optimization, and thermal mass effects on response time."
 keywords: ["embedded tubing", "PEX tubing", "EPDM tubing", "oxygen barrier", "thermal mass", "concrete slab", "tubing installation", "snow melt tubing"]
+tags: ["embedded tubing", "PEX tubing", "EPDM tubing", "oxygen barrier", "thermal mass", "concrete slab", "tubing installation", "snow melt tubing"]
 weight: 1
 ---
 

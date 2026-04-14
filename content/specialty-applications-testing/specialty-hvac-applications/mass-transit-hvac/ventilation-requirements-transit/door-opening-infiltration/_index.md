@@ -1,7 +1,9 @@
 ---
 title: "Door Opening Infiltration Effects in Transit HVAC"
+aliases: ["Door Opening Infiltration Effects in Transit HVAC"]
 description: "Air exchange dynamics during door openings, infiltration loads, vestibule strategies, and energy impacts on mass transit vehicles serving high-frequency routes."
 keywords: ["door infiltration", "transit air exchange", "station dwell time", "air curtain", "vestibule design", "transit energy loads", "door cycling", "infiltration calculation"]
+tags: ["door infiltration", "transit air exchange", "station dwell time", "air curtain", "vestibule design", "transit energy loads", "door cycling", "infiltration calculation"]
 weight: 2
 ---
 

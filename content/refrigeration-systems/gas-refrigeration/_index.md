@@ -1,5 +1,6 @@
 ---
 title: "Gas Refrigeration"
+aliases: ["Gas Refrigeration"]
 weight: 6
 ---
 

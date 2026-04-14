@@ -1,5 +1,6 @@
 ---
 title: "Sorption Isotherms"
+aliases: ["Sorption Isotherms"]
 description: "Sorption isotherm characteristics in building materials including adsorption and desorption curves, hysteresis effects, temperature dependence, and material-specific moisture storage relationships."
 weight: 3
 ---

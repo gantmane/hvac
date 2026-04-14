@@ -1,7 +1,9 @@
 ---
 title: "First Hour Rating (FHR) for Water Heater Sizing"
+aliases: ["First Hour Rating (FHR) for Water Heater Sizing"]
 description: "Technical guide to First Hour Rating calculations, DOE test procedures, storage and recovery components, and sizing water heaters to peak demand using FHR methodology."
 keywords: ["first hour rating", "FHR calculation", "water heater sizing", "DOE test procedure", "peak demand", "recovery rate", "storage capacity", "domestic hot water"]
+tags: ["first hour rating", "FHR calculation", "water heater sizing", "DOE test procedure", "peak demand", "recovery rate", "storage capacity", "domestic hot water"]
 weight: 2
 ---
 

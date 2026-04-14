@@ -1,7 +1,9 @@
 ---
 title: "Global HVAC Professional Organizations & Standards"
+aliases: ["Global HVAC Professional Organizations & Standards"]
 description: "Comprehensive guide to worldwide HVAC professional organizations including ASHRAE, REHVA, CIBSE, AIRAH, and regional bodies driving standards development and industry advancement."
 keywords: ["ASHRAE", "REHVA", "CIBSE", "AIRAH", "HVAC professional organizations", "international HVAC standards", "HVAC membership benefits", "global HVAC collaboration"]
+tags: ["ASHRAE", "REHVA", "CIBSE", "AIRAH", "HVAC professional organizations", "international HVAC standards", "HVAC membership benefits", "global HVAC collaboration"]
 weight: 7
 ---
 

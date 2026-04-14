@@ -1,8 +1,10 @@
 ---
 title: "Life Cycle Cost Analysis for Snow Melting Systems"
+aliases: ["Life Cycle Cost Analysis for Snow Melting Systems"]
 weight: 6
 description: "Comprehensive life cycle cost analysis for snow melting systems including NPV calculations, economic comparisons, and long-term investment optimization strategies."
 keywords: ["life cycle cost", "NPV analysis", "snow melting economics", "HVAC investment analysis", "system payback period", "total cost of ownership", "economic optimization"]
+tags: ["life cycle cost", "NPV analysis", "snow melting economics", "HVAC investment analysis", "system payback period", "total cost of ownership", "economic optimization"]
 ---
 
 ## Economic Framework for Snow Melting Systems

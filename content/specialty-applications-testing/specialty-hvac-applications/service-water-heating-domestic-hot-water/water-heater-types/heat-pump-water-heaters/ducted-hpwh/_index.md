@@ -1,8 +1,10 @@
 ---
 title: "Ducted Heat Pump Water Heater Installations"
+aliases: ["Ducted Heat Pump Water Heater Installations"]
 weight: 3
 description: "Engineering guide to ducted HPWH systems covering duct sizing, static pressure calculations, outdoor air connections, and noise attenuation strategies for optimal performance."
 keywords: ["ducted heat pump water heater", "HPWH duct sizing", "outdoor air intake", "exhaust air ducting", "duct static pressure", "HPWH noise reduction", "remote air source", "HPWH ventilation"]
+tags: ["ducted heat pump water heater", "HPWH duct sizing", "outdoor air intake", "exhaust air ducting", "duct static pressure", "HPWH noise reduction", "remote air source", "HPWH ventilation"]
 ---
 
 ## Overview

@@ -1,7 +1,9 @@
 ---
 title: "Corrective Maintenance and Failure Analysis"
+aliases: ["Corrective Maintenance and Failure Analysis"]
 description: "Comprehensive guide to HVAC corrective maintenance including systematic troubleshooting methodologies, root cause analysis, repair procedures, and documentation standards."
 keywords: ["corrective maintenance", "HVAC troubleshooting", "failure analysis", "root cause analysis", "equipment repair", "diagnostic procedures", "maintenance documentation", "repair standards"]
+tags: ["corrective maintenance", "HVAC troubleshooting", "failure analysis", "root cause analysis", "equipment repair", "diagnostic procedures", "maintenance documentation", "repair standards"]
 weight: 3
 ---
 

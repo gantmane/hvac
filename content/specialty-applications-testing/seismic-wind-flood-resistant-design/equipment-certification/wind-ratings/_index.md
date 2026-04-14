@@ -1,5 +1,6 @@
 ---
 title: "Wind Ratings for HVAC Equipment Certification"
+aliases: ["Wind Ratings for HVAC Equipment Certification"]
 description: "Comprehensive guide to FM Global, UL, and ASTM wind testing standards for HVAC equipment, including wind uplift calculations and ASCE 7 risk categories."
 date: 2025-01-05
 keywords:

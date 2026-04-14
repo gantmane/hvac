@@ -1,7 +1,9 @@
 ---
 title: "Active Generation Capture Velocity (200-500 fpm)"
+aliases: ["Active Generation Capture Velocity (200-500 fpm)"]
 description: "Design criteria for local exhaust ventilation serving active contaminant sources including grinding, welding, and machining with 200-500 fpm capture velocity."
 keywords: ["capture velocity", "active generation", "grinding ventilation", "welding exhaust", "machining ventilation", "cross-draft compensation", "hood positioning", "ACGIH ventilation"]
+tags: ["capture velocity", "active generation", "grinding ventilation", "welding exhaust", "machining ventilation", "cross-draft compensation", "hood positioning", "ACGIH ventilation"]
 date: 2025-01-11
 draft: false
 weight: 2

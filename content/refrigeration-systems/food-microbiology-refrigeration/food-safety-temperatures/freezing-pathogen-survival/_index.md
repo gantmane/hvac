@@ -1,5 +1,6 @@
 ---
 title: "Freezing Pathogen Survival"
+aliases: ["Freezing Pathogen Survival"]
 weight: 3
 ---
 

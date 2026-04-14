@@ -1,7 +1,9 @@
 ---
 title: "Annual HVAC Maintenance Tasks and Equipment Overhaul"
+aliases: ["Annual HVAC Maintenance Tasks and Equipment Overhaul"]
 description: "Comprehensive guide to annual preventive maintenance including heat exchanger cleaning, bearing replacement, efficiency testing, and major equipment overhaul procedures."
 keywords: ["annual HVAC maintenance", "heat exchanger cleaning", "bearing replacement", "efficiency testing", "equipment overhaul", "warranty requirements", "motor insulation testing", "refrigerant charge verification"]
+tags: ["annual HVAC maintenance", "heat exchanger cleaning", "bearing replacement", "efficiency testing", "equipment overhaul", "warranty requirements", "motor insulation testing", "refrigerant charge verification"]
 weight: 3
 ---
 

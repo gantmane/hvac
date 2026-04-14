@@ -1,5 +1,6 @@
 ---
 title: "Turkey"
+aliases: ["Turkey"]
 weight: 5
 ---
 

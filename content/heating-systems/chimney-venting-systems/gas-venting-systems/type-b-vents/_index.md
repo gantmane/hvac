@@ -1,5 +1,6 @@
 ---
 title: "Type B Gas Vents"
+aliases: ["Type B Gas Vents"]
 description: "Detailed technical guide to Type B double-wall gas vents per UL 441, including construction, clearances, sizing, installation requirements, and applications for Category I gas appliances."
 weight: 1
 ---

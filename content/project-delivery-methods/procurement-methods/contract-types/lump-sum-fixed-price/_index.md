@@ -1,5 +1,6 @@
 ---
 title: "Lump Sum Fixed Price"
+aliases: ["Lump Sum Fixed Price"]
 description: "Detailed analysis of lump sum fixed-price contracts for HVAC construction including stipulated sum structures, scope definition requirements, change order processes, and risk allocation."
 weight: 1
 ---

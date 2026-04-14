@@ -1,5 +1,6 @@
 ---
 title: "Vibration Isolation in Engine Test Facilities"
+aliases: ["Vibration Isolation in Engine Test Facilities"]
 description: "Design principles for vibration isolation systems in engine test cells including natural frequency calculations, transmissibility requirements, and integration with HVAC."
 keywords:
   - vibration isolation

@@ -1,7 +1,9 @@
 ---
 title: "HVAC Equipment Access Security in Justice Facilities"
+aliases: ["HVAC Equipment Access Security in Justice Facilities"]
 description: "Comprehensive guide to securing HVAC equipment access in correctional facilities including enclosures, key control, maintenance procedures, and perimeter security."
 keywords: ["HVAC security", "correctional facilities HVAC", "equipment access control", "mechanical room security", "justice facility maintenance", "HVAC key control", "secure equipment enclosures", "prison HVAC"]
+tags: ["HVAC security", "correctional facilities HVAC", "equipment access control", "mechanical room security", "justice facility maintenance", "HVAC key control", "secure equipment enclosures", "prison HVAC"]
 weight: 1
 ---
 

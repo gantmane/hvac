@@ -1,7 +1,9 @@
 ---
 title: "Healthcare Facility HVAC Design Standards"
+aliases: ["Healthcare Facility HVAC Design Standards"]
 description: "Technical guide to healthcare HVAC covering pressure relationships, ventilation requirements, filtration standards, operating room design, isolation rooms, and infection control per ASHRAE 170."
 keywords: "healthcare HVAC, hospital ventilation, ASHRAE 170, operating room HVAC, isolation room pressurization, medical air quality, surgical suite design, healthcare filtration, hospital infection control"
+tags: ["healthcare HVAC", "hospital ventilation", "ASHRAE 170", "operating room HVAC", "isolation room pressurization", "medical air quality", "surgical suite design", "healthcare filtration", "hospital infection control"]
 weight: 28
 ---
 

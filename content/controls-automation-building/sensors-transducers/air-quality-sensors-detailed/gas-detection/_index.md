@@ -1,7 +1,9 @@
 ---
 title: "Gas Detection Sensors for HVAC Safety Systems"
+aliases: ["Gas Detection Sensors for HVAC Safety Systems"]
 description: "Comprehensive guide to electrochemical, catalytic bead, and infrared gas detection sensors for refrigerant leaks, carbon monoxide, and combustible gases per ASHRAE 15."
 keywords: ["gas detection sensors", "refrigerant leak detection", "electrochemical sensors", "catalytic bead sensors", "carbon monoxide detection", "LEL sensors", "ASHRAE 15", "combustible gas monitoring"]
+tags: ["gas detection sensors", "refrigerant leak detection", "electrochemical sensors", "catalytic bead sensors", "carbon monoxide detection", "LEL sensors", "ASHRAE 15", "combustible gas monitoring"]
 weight: 4
 ---
 

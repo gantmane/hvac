@@ -1,5 +1,6 @@
 ---
 title: "Flat Plate Collectors"
+aliases: ["Flat Plate Collectors"]
 weight: 1
 ---
 

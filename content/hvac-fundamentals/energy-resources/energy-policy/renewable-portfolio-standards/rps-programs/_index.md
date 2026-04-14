@@ -1,7 +1,9 @@
 ---
 title: "State RPS Programs and Compliance Mechanisms"
+aliases: ["State RPS Programs and Compliance Mechanisms"]
 description: "State renewable portfolio standards mandate electricity generation from renewable sources. Explore RPS targets, renewable energy credits, compliance mechanisms, and HVAC impacts."
 keywords: ["renewable portfolio standards", "RPS compliance", "renewable energy credits", "RECs", "state mandates", "clean energy targets", "SREC programs", "alternative compliance payment"]
+tags: ["renewable portfolio standards", "RPS compliance", "renewable energy credits", "RECs", "state mandates", "clean energy targets", "SREC programs", "alternative compliance payment"]
 weight: 1
 ---
 

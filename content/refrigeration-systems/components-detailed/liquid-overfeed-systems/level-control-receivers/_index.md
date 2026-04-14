@@ -1,5 +1,6 @@
 ---
 title: "Level Control Receivers"
+aliases: ["Level Control Receivers"]
 description: "Comprehensive analysis of level control receivers in liquid overfeed refrigeration systems, including receiver design principles, float valve systems, electronic level sensors, control strategies, and safety interlocks for maintaining optimal liquid management."
 weight: 12
 ---

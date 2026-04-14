@@ -1,8 +1,10 @@
 ---
 title: "Duct Losses in Industrial Exhaust Systems"
+aliases: ["Duct Losses in Industrial Exhaust Systems"]
 seo_title: "Duct Pressure Loss Calculation Methods & Coefficients"
 description: "Calculate duct friction and fitting losses in industrial local exhaust systems using ASHRAE and ACGIH methods. Includes loss coefficients, formulas, and design tables."
 keywords: ["duct friction loss", "fitting loss coefficient", "pressure drop calculation", "Darcy-Weisbach equation", "industrial exhaust design", "duct velocity pressure", "ASHRAE duct design", "ACGIH ventilation"]
+tags: ["duct friction loss", "fitting loss coefficient", "pressure drop calculation", "Darcy-Weisbach equation", "industrial exhaust design", "duct velocity pressure", "ASHRAE duct design", "ACGIH ventilation"]
 weight: 3
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Drying Potential"
+aliases: ["Drying Potential"]
 description: "Building envelope drying potential analysis including evaporation mechanisms, ventilation drying, diffusion drying, and factors controlling moisture removal rates from building assemblies."
 weight: 6
 ---

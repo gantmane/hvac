@@ -2,6 +2,7 @@
 title: "Code Compliance Analysis for HVAC Engineers"
 description: "IMC, IBC, ASHRAE 90.1, and ASHRAE 62.1 compliance verification procedures, prescriptive and performance paths, and documentation requirements."
 keywords: ["code compliance", "IMC", "ASHRAE 90.1", "ASHRAE 62.1", "energy code", "ventilation code", "building codes"]
+tags: ["code compliance", "IMC", "ASHRAE 90.1", "ASHRAE 62.1", "energy code", "ventilation code", "building codes"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 30
@@ -277,9 +278,9 @@ $$Cost_{proposed} \leq Cost_{budget}$$
 ---
 
 **Related Technical Guides:**
-- [Ventilation Rate Calculations](/technical-guides/ventilation-rate-calculations/)
-- [Energy Modeling Methodology](/technical-guides/energy-modeling-methodology/)
-- [Commissioning Procedures](/technical-guides/commissioning-procedures/)
+- Ventilation Rate Calculations
+- Energy Modeling Methodology
+- Commissioning Procedures
 
 **References:**
 - International Mechanical Code (IMC), 2021 Edition

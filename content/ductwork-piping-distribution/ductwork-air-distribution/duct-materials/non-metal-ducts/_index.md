@@ -1,7 +1,9 @@
 ---
 title: "Non-Metal Ducts: Materials, Applications & Standards"
+aliases: ["Non-Metal Ducts: Materials, Applications & Standards"]
 description: "Technical guide to non-metal ductwork including fiberglass duct board, fabric ducts, and FRP systems. Compare properties, installation methods, and compliance with SMACNA standards."
 keywords: ["fiberglass duct board", "fabric ducts", "FRP ductwork", "non-metal HVAC ducts", "flexible ductwork", "duct board fabrication", "textile air distribution", "phenolic ducts"]
+tags: ["fiberglass duct board", "fabric ducts", "FRP ductwork", "non-metal HVAC ducts", "flexible ductwork", "duct board fabrication", "textile air distribution", "phenolic ducts"]
 weight: 2
 ---
 

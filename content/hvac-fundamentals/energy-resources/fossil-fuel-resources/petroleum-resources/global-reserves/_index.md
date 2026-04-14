@@ -1,7 +1,9 @@
 ---
 title: "Global Petroleum Reserves Distribution"
+aliases: ["Global Petroleum Reserves Distribution"]
 description: "Analysis of worldwide proven oil reserves by region, production rates, reserve-to-production ratios, and depletion projections based on EIA and OPEC data for HVAC energy planning."
 keywords: ["oil reserves", "petroleum resources", "proven reserves", "reserve depletion", "oil production rates", "global energy supply", "fossil fuel availability", "HVAC energy planning"]
+tags: ["oil reserves", "petroleum resources", "proven reserves", "reserve depletion", "oil production rates", "global energy supply", "fossil fuel availability", "HVAC energy planning"]
 weight: 2
 ---
 

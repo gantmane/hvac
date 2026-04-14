@@ -1,5 +1,6 @@
 ---
 title: "Natural Draft"
+aliases: ["Natural Draft"]
 weight: 2
 ---
 

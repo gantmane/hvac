@@ -1,5 +1,6 @@
 ---
 title: "Short Tube Orifice Expansion Devices"
+aliases: ["Short Tube Orifice Expansion Devices"]
 description: "Technical analysis of short tube orifice expansion devices in refrigeration systems, including flow characteristics, pressure-flow relationships, sizing methods, and heat pump applications"
 weight: 5
 ---

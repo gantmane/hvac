@@ -1,7 +1,9 @@
 ---
 title: "Bar Reinforcement for Secure Ductwork Systems"
+aliases: ["Bar Reinforcement for Secure Ductwork Systems"]
 description: "Steel bar reinforcement specifications for correctional HVAC ductwork including spacing, welding, penetration resistance, and anti-escape installation standards."
 keywords: ["bar reinforcement", "secure ductwork", "correctional HVAC", "steel bars", "anti-escape barriers", "duct penetration resistance", "welded bar grilles", "justice facility HVAC"]
+tags: ["bar reinforcement", "secure ductwork", "correctional HVAC", "steel bars", "anti-escape barriers", "duct penetration resistance", "welded bar grilles", "justice facility HVAC"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Expansion Tanks"
+aliases: ["Expansion Tanks"]
 weight: 12
 ---
 

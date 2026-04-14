@@ -1,5 +1,6 @@
 ---
 title: "Biomass"
+aliases: ["Biomass"]
 weight: 5
 ---
 

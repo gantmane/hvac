@@ -1,5 +1,6 @@
 ---
 title: "Diesel Exhaust Hose Reel Systems for Fire Stations"
+aliases: ["Diesel Exhaust Hose Reel Systems for Fire Stations"]
 description: "Engineering design guide for fire station diesel exhaust hose reel systems, including overhead configurations, spring vs motorized retraction, tailpipe connections, and NFPA-compliant installation requirements."
 keywords:
   - exhaust hose reels

@@ -1,5 +1,6 @@
 ---
 title: "Water Treatment"
+aliases: ["Water Treatment"]
 weight: 4
 ---
 

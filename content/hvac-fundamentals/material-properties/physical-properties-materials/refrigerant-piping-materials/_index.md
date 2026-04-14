@@ -1,5 +1,6 @@
 ---
 title: "Refrigerant Piping Materials"
+aliases: ["Refrigerant Piping Materials"]
 description: "Comprehensive analysis of refrigerant piping materials including copper tubing types, pressure ratings, material compatibility, and installation requirements for HVAC refrigeration systems"
 weight: 5
 ---

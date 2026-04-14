@@ -1,5 +1,6 @@
 ---
 title: "Inorganic Natural Refrigerants"
+aliases: ["Inorganic Natural Refrigerants"]
 description: "Comprehensive technical analysis of inorganic natural refrigerants including ammonia (R-717), carbon dioxide (R-744), water (R-718), and air (R-729). Covers thermodynamic properties, safety requirements, equipment specifications, and industrial applications for zero-ODP, zero-GWP refrigerants."
 weight: 2
 ---

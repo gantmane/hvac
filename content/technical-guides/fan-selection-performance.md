@@ -2,6 +2,7 @@
 title: "Fan Selection & Performance for HVAC Engineers"
 description: "Fan laws, system curves, operating point determination, and variable speed drive application for energy optimization and proper fan sizing."
 keywords: ["fan selection", "fan laws", "system curve", "fan performance", "VFD", "fan efficiency"]
+tags: ["fan selection", "fan laws", "system curve", "fan performance", "VFD", "fan efficiency"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 22
@@ -111,9 +112,9 @@ $$Power_{60\%} = 0.6^3 = 0.216 = 21.6\%$$ of full speed power
 ---
 
 **Related Technical Guides:**
-- [Fluid Mechanics for HVAC](/technical-guides/fluid-mechanics-hvac/)
-- [Duct Static Pressure Calculations](/technical-guides/duct-static-pressure-calculations/)
-- [Variable Flow System Design](/technical-guides/variable-flow-system-design/)
+- Fluid Mechanics for HVAC
+- Duct Static Pressure Calculations
+- Variable Flow System Design
 
 **References:**
 - ASHRAE Handbook of HVAC Systems and Equipment, Chapter 21: Fans

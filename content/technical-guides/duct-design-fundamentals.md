@@ -2,6 +2,7 @@
 title: "Duct Design Fundamentals for HVAC Engineers"
 description: "Equal friction, static regain, and T-method design approaches with fan selection and system pressure analysis for air distribution systems."
 keywords: ["duct design", "equal friction method", "static regain", "duct sizing", "pressure drop", "fan selection", "air distribution"]
+tags: ["duct design", "equal friction method", "static regain", "duct sizing", "pressure drop", "fan selection", "air distribution"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 6
@@ -106,9 +107,9 @@ Typical fan efficiencies:
 ---
 
 **Related Technical Guides:**
-- [Fluid Mechanics for HVAC](/technical-guides/fluid-mechanics-hvac/)
-- [Fan Selection & Performance](/technical-guides/fan-selection-performance/)
-- [Duct Static Pressure Calculations](/technical-guides/duct-static-pressure-calculations/)
+- Fluid Mechanics for HVAC
+- Fan Selection & Performance
+- Duct Static Pressure Calculations
 
 **References:**
 - ASHRAE Handbook of Fundamentals, Chapter 21: Duct Design

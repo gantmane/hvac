@@ -1,5 +1,6 @@
 ---
 title: "Safety Classifications"
+aliases: ["Safety Classifications"]
 description: "Comprehensive guide to ASHRAE Standard 34 refrigerant safety classifications including toxicity classes, flammability ratings, exposure limits, and equipment room requirements for HVAC and refrigeration systems"
 weight: 4
 ---

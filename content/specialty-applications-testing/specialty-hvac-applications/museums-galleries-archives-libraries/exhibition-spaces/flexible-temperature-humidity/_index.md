@@ -1,7 +1,9 @@
 ---
 title: "Flexible Temperature & Humidity Control for Exhibitions"
+aliases: ["Flexible Temperature & Humidity Control for Exhibitions"]
 description: "Technical design strategies for adaptive environmental control systems in museum exhibition spaces with varying artifact requirements and zoned climate management."
 keywords: ["museum HVAC zoning", "flexible climate control", "exhibition environmental systems", "adaptive setpoints", "artifact preservation", "gallery climate zones", "museum loan conditions", "temporary exhibition control"]
+tags: ["museum HVAC zoning", "flexible climate control", "exhibition environmental systems", "adaptive setpoints", "artifact preservation", "gallery climate zones", "museum loan conditions", "temporary exhibition control"]
 weight: 1
 ---
 

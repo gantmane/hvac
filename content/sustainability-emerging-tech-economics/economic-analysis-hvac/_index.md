@@ -1,7 +1,9 @@
 ---
 title: "Economic Analysis of HVAC Systems"
+aliases: ["Economic Analysis of HVAC Systems"]
 description: "Comprehensive economic evaluation methods for HVAC investments including life cycle cost analysis, payback periods, and NPV calculations with practical examples."
 keywords: ["HVAC economics", "life cycle cost analysis", "HVAC ROI", "energy cost savings", "HVAC payback period", "net present value", "total cost of ownership", "economic optimization"]
+tags: ["HVAC economics", "life cycle cost analysis", "HVAC ROI", "energy cost savings", "HVAC payback period", "net present value", "total cost of ownership", "economic optimization"]
 weight: 4
 ---
 

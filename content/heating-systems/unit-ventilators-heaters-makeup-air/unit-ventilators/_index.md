@@ -1,5 +1,6 @@
 ---
 title: "Unit Ventilators"
+aliases: ["Unit Ventilators"]
 description: "Detailed coverage of unit ventilator design, control sequences, face-bypass dampers, and classroom ventilation applications with psychrometric analysis."
 date: "2026-01-04"
 weight: 1

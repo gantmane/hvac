@@ -1,5 +1,6 @@
 ---
 title: "Natural Convection"
+aliases: ["Natural Convection"]
 weight: 2
 ---
 

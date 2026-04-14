@@ -1,5 +1,6 @@
 ---
 title: "Electrical Safety Training"
+aliases: ["Electrical Safety Training"]
 weight: 4
 ---
 

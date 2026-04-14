@@ -1,5 +1,6 @@
 ---
 title: "Commercial Laundry Facilities HVAC Design"
+aliases: ["Commercial Laundry Facilities HVAC Design"]
 description: "Engineering guidelines for HVAC systems in commercial laundries including heat load calculations, humidity control, makeup air requirements, and lint filtration strategies for high-heat production environments."
 date: "2026-01-05"
 weight: 5

@@ -1,5 +1,6 @@
 ---
 title: "HVAC Apprenticeship Programs & Career Training"
+aliases: ["HVAC Apprenticeship Programs & Career Training"]
 description: "Complete guide to HVAC apprenticeship programs including curriculum structure, competency development, on-the-job training requirements, and career progression pathways."
 weight: 4
 date: 2025-01-05

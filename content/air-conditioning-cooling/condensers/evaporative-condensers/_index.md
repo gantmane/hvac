@@ -1,5 +1,6 @@
 ---
 title: "Evaporative Condensers"
+aliases: ["Evaporative Condensers"]
 weight: 3
 ---
 

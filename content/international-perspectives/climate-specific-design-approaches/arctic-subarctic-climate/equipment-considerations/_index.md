@@ -1,5 +1,6 @@
 ---
 title: "Arctic Climate HVAC Equipment Selection"
+aliases: ["Arctic Climate HVAC Equipment Selection"]
 description: "Technical guide to HVAC equipment for arctic and subarctic climates covering low-temperature heat pumps, cold-weather compressors, freeze protection, and material considerations."
 date: 2026-01-05
 keywords:

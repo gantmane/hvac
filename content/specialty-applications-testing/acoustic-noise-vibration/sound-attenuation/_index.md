@@ -1,8 +1,10 @@
 ---
 title: "Sound Attenuation in HVAC Systems"
+aliases: ["Sound Attenuation in HVAC Systems"]
 weight: 4
 description: "Comprehensive guide to sound attenuation methods including duct silencers, sound plenums, lined ductwork, barriers, enclosures, and regenerated noise control for HVAC applications"
 keywords: ["sound attenuation", "duct silencers", "acoustic treatment", "HVAC noise control", "sound plenums", "lined ductwork", "insertion loss", "transmission loss", "regenerated noise", "acoustic barriers"]
+tags: ["sound attenuation", "duct silencers", "acoustic treatment", "HVAC noise control", "sound plenums", "lined ductwork", "insertion loss", "transmission loss", "regenerated noise", "acoustic barriers"]
 ---
 
 Sound attenuation in HVAC systems reduces noise transmission from mechanical equipment to occupied spaces through passive and active treatments applied to air distribution systems and equipment enclosures. Proper attenuation design balances acoustic performance with airflow requirements, pressure drop constraints, and spatial limitations.

@@ -1,9 +1,11 @@
 ---
 title: "Registration Accuracy Through Humidity Control"
+aliases: ["Registration Accuracy Through Humidity Control"]
 linkTitle: "Registration"
 weight: 3
 description: "Physics-based analysis of multi-color print registration, paper dimensional change effects, humidity-induced registration errors, and tight environmental control for precision printing."
 keywords: ["print registration accuracy", "multi-color registration", "humidity registration error", "paper dimensional tolerance", "printing registration control", "hygroexpansion registration", "tight RH control printing", "color-to-color alignment"]
+tags: ["print registration accuracy", "multi-color registration", "humidity registration error", "paper dimensional tolerance", "printing registration control", "hygroexpansion registration", "tight RH control printing", "color-to-color alignment"]
 ---
 
 Registration accuracy represents the most demanding requirement in multi-color printing operations. Each successive color impression must align precisely with previous colors to produce sharp, clear images without visible misregistration. Paper dimensional changes from humidity variations constitute the dominant source of registration error, requiring tight environmental control to achieve modern printing quality standards.

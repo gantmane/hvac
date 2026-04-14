@@ -1,7 +1,9 @@
 ---
 title: "TABB Testing, Adjusting, and Balancing Certification"
+aliases: ["TABB Testing, Adjusting, and Balancing Certification"]
 description: "Comprehensive guide to TABB certification for HVAC system balancing, air and hydronic system testing, certification requirements, and professional testing standards."
 keywords: ["TABB certification", "testing adjusting balancing", "HVAC system balancing", "air balancing certification", "hydronic balancing", "TABB supervisor", "TABB technician", "TAB certification", "HVAC testing standards"]
+tags: ["TABB certification", "testing adjusting balancing", "HVAC system balancing", "air balancing certification", "hydronic balancing", "TABB supervisor", "TABB technician", "TAB certification", "HVAC testing standards"]
 date: 2026-01-05
 weight: 4
 seo_title: "TABB Certification Guide - Testing Adjusting Balancing"

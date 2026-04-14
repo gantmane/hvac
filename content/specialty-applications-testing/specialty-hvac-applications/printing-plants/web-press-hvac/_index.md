@@ -1,5 +1,6 @@
 ---
 title: "Web Press HVAC Systems"
+aliases: ["Web Press HVAC Systems"]
 description: "Comprehensive engineering guide to HVAC design for high-speed web offset printing facilities including heat-set dryer exhaust, solvent vapor control, and environmental requirements per NFPA standards."
 keywords:
   - web press HVAC

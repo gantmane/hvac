@@ -1,5 +1,6 @@
 ---
 title: "Rigid vs Flexible Bracing Systems for HVAC Equipment"
+aliases: ["Rigid vs Flexible Bracing Systems for HVAC Equipment"]
 description: "Engineering analysis of rigid and flexible seismic bracing systems for HVAC equipment, including stiffness calculations, natural frequency considerations, and application criteria per ASCE 7."
 date: 2025-01-05
 weight: 2

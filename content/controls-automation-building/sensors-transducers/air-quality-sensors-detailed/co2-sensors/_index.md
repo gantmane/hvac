@@ -1,7 +1,9 @@
 ---
 title: "CO2 Sensors for HVAC Demand Control Ventilation"
+aliases: ["CO2 Sensors for HVAC Demand Control Ventilation"]
 description: "Technical guide to CO2 sensors in HVAC systems: NDIR principles, calibration methods, accuracy classes, mounting requirements, and ASHRAE 62.1 compliance for demand control ventilation."
 keywords: ["CO2 sensors", "NDIR sensors", "demand control ventilation", "ASHRAE 62.1", "air quality monitoring", "building automation", "sensor calibration", "indoor air quality"]
+tags: ["CO2 sensors", "NDIR sensors", "demand control ventilation", "ASHRAE 62.1", "air quality monitoring", "building automation", "sensor calibration", "indoor air quality"]
 weight: 1
 ---
 

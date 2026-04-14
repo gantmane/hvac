@@ -1,5 +1,6 @@
 ---
 title: "Finfish"
+aliases: ["Finfish"]
 weight: 1
 ---
 

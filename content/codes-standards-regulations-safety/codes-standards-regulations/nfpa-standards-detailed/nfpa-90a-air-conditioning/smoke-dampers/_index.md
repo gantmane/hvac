@@ -1,10 +1,12 @@
 ---
 title: "Smoke Dampers: UL 555S Requirements and Control Logic"
+aliases: ["Smoke Dampers: UL 555S Requirements and Control Logic"]
 linkTitle: "Smoke Dampers"
 weight: 2
 date: 2026-01-04
 description: "Comprehensive guide to smoke damper requirements per UL 555S and NFPA standards, including leakage classifications, control logic design, actuator specifications, smoke detector integration, and testing procedures for smoke management systems."
 keywords: ["smoke dampers", "UL 555S", "smoke control", "leakage class", "smoke damper actuators", "smoke detector integration", "smoke barrier penetrations", "smoke management systems", "damper control logic"]
+tags: ["smoke dampers", "UL 555S", "smoke control", "leakage class", "smoke damper actuators", "smoke detector integration", "smoke barrier penetrations", "smoke management systems", "damper control logic"]
 ---
 
 ## Smoke Damper Fundamentals

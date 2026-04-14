@@ -1,8 +1,10 @@
 ---
 title: "Clean-to-Dirty Airflow Patterns in Nuclear Facilities"
+aliases: ["Clean-to-Dirty Airflow Patterns in Nuclear Facilities"]
 weight: 4
 description: "Physics-based analysis of cascading pressure differentials, directional airflow control, and contamination prevention in nuclear facility HVAC systems through zone boundaries and airlocks."
 keywords: ["pressure cascade ventilation", "radiological zone airflow", "contamination control HVAC", "nuclear facility pressure differential", "airlock design", "clean-to-dirty airflow", "zone pressure monitoring", "leakage rate calculations"]
+tags: ["pressure cascade ventilation", "radiological zone airflow", "contamination control HVAC", "nuclear facility pressure differential", "airlock design", "clean-to-dirty airflow", "zone pressure monitoring", "leakage rate calculations"]
 ---
 
 ## Fundamental Principle of Directional Airflow Control

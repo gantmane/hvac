@@ -1,5 +1,6 @@
 ---
 title: "Clarification Requests"
+aliases: ["Clarification Requests"]
 weight: 3
 ---
 

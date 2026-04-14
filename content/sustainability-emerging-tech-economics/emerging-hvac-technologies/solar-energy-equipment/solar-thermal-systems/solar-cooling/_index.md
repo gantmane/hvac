@@ -1,5 +1,6 @@
 ---
 title: "Solar Cooling Systems for HVAC Applications"
+aliases: ["Solar Cooling Systems for HVAC Applications"]
 linkTitle: "Solar Cooling"
 description: "Technical analysis of solar-driven cooling technologies including absorption, adsorption, and desiccant systems, with performance calculations, collector integration strategies, and economic evaluation methods."
 keywords:

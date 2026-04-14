@@ -1,7 +1,9 @@
 ---
 title: "Transportation Sector Energy & HVAC Impact"
+aliases: ["Transportation Sector Energy & HVAC Impact"]
 description: "Mobile HVAC systems consume 10-30% of vehicle energy. Analysis of air conditioning impact on fuel economy, EV range reduction, and fleet efficiency strategies."
 keywords: ["mobile HVAC", "vehicle air conditioning", "EV range impact", "automotive climate control", "fleet energy efficiency", "transport refrigeration", "cabin thermal load", "electric vehicle HVAC"]
+tags: ["mobile HVAC", "vehicle air conditioning", "EV range impact", "automotive climate control", "fleet energy efficiency", "transport refrigeration", "cabin thermal load", "electric vehicle HVAC"]
 weight: 4
 ---
 

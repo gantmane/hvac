@@ -1,7 +1,9 @@
 ---
 title: "Central Plant Advantages for High-Rise HVAC"
+aliases: ["Central Plant Advantages for High-Rise HVAC"]
 description: "Economies of scale, centralized maintenance, high-efficiency equipment, and simultaneous heating/cooling recovery make central plants optimal for tall buildings."
 keywords: ["central plant HVAC", "high-rise chiller plant", "economies of scale HVAC", "heat recovery chiller", "thermal energy storage", "centralized maintenance", "load diversity factor", "high-rise mechanical room"]
+tags: ["central plant HVAC", "high-rise chiller plant", "economies of scale HVAC", "heat recovery chiller", "thermal energy storage", "centralized maintenance", "load diversity factor", "high-rise mechanical room"]
 weight: 1
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Automotive Refrigerant System Performance Testing"
+aliases: ["Automotive Refrigerant System Performance Testing"]
 description: "Comprehensive guide to automotive A/C performance testing per SAE J2765 including cooling capacity measurement, pulldown testing, COP analysis, and charge optimization."
 keywords: ["SAE J2765", "automotive HVAC testing", "cooling capacity test", "pulldown time", "refrigerant charge optimization", "COP measurement", "automotive air conditioning", "thermal performance"]
+tags: ["SAE J2765", "automotive HVAC testing", "cooling capacity test", "pulldown time", "refrigerant charge optimization", "COP measurement", "automotive air conditioning", "thermal performance"]
 weight: 2
 ---
 

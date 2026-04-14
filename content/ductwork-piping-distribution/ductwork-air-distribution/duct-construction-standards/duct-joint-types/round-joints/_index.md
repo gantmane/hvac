@@ -1,5 +1,6 @@
 ---
 title: "Round Duct Joints"
+aliases: ["Round Duct Joints"]
 description: "Technical guide to round and spiral duct joint connections, longitudinal seams, coupling methods, and flange systems for circular HVAC ductwork applications."
 weight: 2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Contact Freezing Principles"
+aliases: ["Contact Freezing Principles"]
 description: "Comprehensive analysis of conduction-based heat transfer in plate freezers, including contact resistance, pressure application effects, heat transfer coefficients, and freezing time calculations for flat food products"
 weight: 1
 ---

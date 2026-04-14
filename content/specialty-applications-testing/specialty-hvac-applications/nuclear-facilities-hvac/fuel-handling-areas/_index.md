@@ -1,7 +1,9 @@
 ---
 title: "Nuclear Fuel Handling Area HVAC Systems"
+aliases: ["Nuclear Fuel Handling Area HVAC Systems"]
 description: "Technical guide to fuel handling area ventilation including spent fuel pool cooling and ventilation, dry cask storage climate control, radiation protection systems, contamination control, and NRC regulatory compliance for nuclear power plants."
 keywords: ["spent fuel pool ventilation", "nuclear fuel handling", "radiation protection HVAC", "contamination control", "dry cask storage", "fuel building ventilation", "NRC regulations", "ALARA ventilation", "radioactive material handling", "fuel transfer operations", "airborne radioactivity control", "nuclear safety systems"]
+tags: ["spent fuel pool ventilation", "nuclear fuel handling", "radiation protection HVAC", "contamination control", "dry cask storage", "fuel building ventilation", "NRC regulations", "ALARA ventilation", "radioactive material handling", "fuel transfer operations"]
 weight: 3
 ---
 

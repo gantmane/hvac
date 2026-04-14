@@ -1,7 +1,9 @@
 ---
 title: "Stairwell & Elevator Pressurization Systems"
+aliases: ["Stairwell & Elevator Pressurization Systems"]
 description: "Engineering analysis of stairwell and elevator shaft pressurization for smoke control in high-rise buildings, including pressure differential design, stack effect compensation."
 keywords: ["stairwell pressurization", "elevator shaft pressurization", "smoke control design", "pressure differential", "stack effect compensation", "door opening force", "NFPA 92", "high-rise smoke control"]
+tags: ["stairwell pressurization", "elevator shaft pressurization", "smoke control design", "pressure differential", "stack effect compensation", "door opening force", "NFPA 92", "high-rise smoke control"]
 weight: 2
 ---
 

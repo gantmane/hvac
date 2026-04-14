@@ -1,8 +1,10 @@
 ---
 title: "Convectors"
+aliases: ["Convectors"]
 weight: 3
 description: "Engineering analysis of hydronic convectors including cabinet convectors, recessed convectors, free-standing convectors, finned-tube element design, enclosure configurations, damper control, output ratings, institutional and commercial applications, and natural convection airflow optimization."
 keywords: "convectors, cabinet convectors, recessed convectors, fin-tube convectors, hydronic convectors, enclosure convectors, damper control, convective heating, natural convection"
+tags: ["convectors", "cabinet convectors", "recessed convectors", "fin-tube convectors", "hydronic convectors", "enclosure convectors", "damper control", "convective heating", "natural convection"]
 ---
 
 # Convectors

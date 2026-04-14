@@ -2,6 +2,7 @@
 title: "Material Thermal Properties for HVAC Engineers"
 description: "Comprehensive reference tables of thermal conductivity, specific heat, density, and thermal diffusivity for building materials, insulation, and HVAC components."
 keywords: ["thermal conductivity", "specific heat", "thermal properties", "insulation R-value", "material properties", "building envelope"]
+tags: ["thermal conductivity", "specific heat", "thermal properties", "insulation R-value", "material properties", "building envelope"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 31
@@ -191,9 +192,9 @@ $$Q = m \cdot c \cdot \Delta T = \rho \cdot V \cdot c \cdot \Delta T$$
 ---
 
 **Related Technical Guides:**
-- [Heat Transfer Fundamentals](/technical-guides/heat-transfer-fundamentals/)
-- [Building Envelope Heat Transfer](/technical-guides/building-envelope-heat-transfer/)
-- [Heating Load Calculations](/technical-guides/heating-load-calculations/)
+- Heat Transfer Fundamentals
+- Building Envelope Heat Transfer
+- Heating Load Calculations
 
 **References:**
 - ASHRAE Handbook of Fundamentals, Chapter 26: Heat, Air, and Moisture Control in Building Assemblies

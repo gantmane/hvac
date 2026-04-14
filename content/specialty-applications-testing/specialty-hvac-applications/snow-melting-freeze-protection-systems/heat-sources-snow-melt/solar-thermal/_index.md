@@ -1,7 +1,9 @@
 ---
 title: "Solar Thermal Snow Melting Systems"
+aliases: ["Solar Thermal Snow Melting Systems"]
 description: "Engineering analysis of solar thermal collectors for snow melting including evacuated tube and flat plate designs, thermal storage integration, solar fraction calculations"
 keywords: ["solar thermal snow melt", "evacuated tube collectors", "flat plate collectors", "solar fraction", "seasonal thermal storage", "hybrid solar heating", "solar collector sizing", "SRCC certification"]
+tags: ["solar thermal snow melt", "evacuated tube collectors", "flat plate collectors", "solar fraction", "seasonal thermal storage", "hybrid solar heating", "solar collector sizing", "SRCC certification"]
 weight: 5
 ---
 

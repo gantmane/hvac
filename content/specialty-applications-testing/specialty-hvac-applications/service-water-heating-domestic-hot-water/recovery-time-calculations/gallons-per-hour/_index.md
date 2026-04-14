@@ -1,7 +1,9 @@
 ---
 title: "Water Heater Gallons Per Hour Recovery Rate"
+aliases: ["Water Heater Gallons Per Hour Recovery Rate"]
 description: "Calculate GPH recovery rates for water heaters using BTU input, efficiency, and temperature rise. Includes formulas, tables, and sizing methods per ASHRAE standards."
 keywords: ["gallons per hour", "GPH recovery rate", "water heater sizing", "recovery capacity", "BTU to GPH conversion", "temperature rise", "first hour rating", "storage tank capacity"]
+tags: ["gallons per hour", "GPH recovery rate", "water heater sizing", "recovery capacity", "BTU to GPH conversion", "temperature rise", "first hour rating", "storage tank capacity"]
 weight: 1
 ---
 

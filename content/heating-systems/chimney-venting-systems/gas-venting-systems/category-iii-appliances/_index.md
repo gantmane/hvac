@@ -1,5 +1,6 @@
 ---
 title: "Category III Appliances"
+aliases: ["Category III Appliances"]
 description: "Engineering analysis of Category III condensing appliances with draft hood operating under negative vent pressure, condensate production characteristics, corrosion-resistant material requirements, and unique venting challenges combining condensing operation with atmospheric draft in rare specialty applications."
 weight: 4
 ---

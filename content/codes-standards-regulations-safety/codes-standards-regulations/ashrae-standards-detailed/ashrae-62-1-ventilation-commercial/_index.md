@@ -1,7 +1,9 @@
 ---
 title: "ASHRAE 62.1 Ventilation for Acceptable Indoor Air Quality"
+aliases: ["ASHRAE 62.1 Ventilation for Acceptable Indoor Air Quality"]
 description: "Comprehensive analysis of ASHRAE 62.1 standard for commercial ventilation design including ventilation rate procedure, breathing zone calculations, and system efficiency."
 keywords: ["ASHRAE 62.1", "commercial ventilation", "ventilation rate procedure", "outdoor air", "IAQ", "breathing zone", "ventilation efficiency", "VRP"]
+tags: ["ASHRAE 62.1", "commercial ventilation", "ventilation rate procedure", "outdoor air", "IAQ", "breathing zone", "ventilation efficiency", "VRP"]
 date: 2026-01-04
 ---
 

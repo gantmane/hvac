@@ -1,7 +1,9 @@
 ---
 title: "High-Volume Mine Ventilation Fans (100,000+ cfm)"
+aliases: ["High-Volume Mine Ventilation Fans (100,000+ cfm)"]
 description: "Technical analysis of large mine ventilation fans exceeding 100,000 cfm, including flow calculations, system resistance matching, multiple fan configurations, and energy optimization strategies for deep underground mining operations."
 keywords: ["mine ventilation fans", "high volume airflow", "main fan systems", "mine resistance", "fan pressure calculations", "underground ventilation", "fan arrays", "mine air quality"]
+tags: ["mine ventilation fans", "high volume airflow", "main fan systems", "mine resistance", "fan pressure calculations", "underground ventilation", "fan arrays", "mine air quality"]
 date: 2025-01-11
 weight: 4
 draft: false

@@ -1,8 +1,10 @@
 ---
 title: "Refrigerated Trucks Trailers"
+aliases: ["Refrigerated Trucks Trailers"]
 weight: 2
 description: "Comprehensive guide to truck and trailer refrigeration systems including TRUs, insulation requirements, power sources, multi-temperature zones, and regulatory compliance for transport refrigeration applications."
 keywords: "refrigerated trucks, trailer refrigeration units, TRU systems, transport refrigeration, reefer trucks, multi-temperature zones, truck insulation, diesel standby, electric standby, temperature monitoring"
+tags: ["refrigerated trucks", "trailer refrigeration units", "TRU systems", "transport refrigeration", "reefer trucks", "multi-temperature zones", "truck insulation", "diesel standby", "electric standby", "temperature monitoring"]
 ---
 
 Refrigerated trucks and trailers provide mobile cold chain preservation for temperature-sensitive cargo during transport operations. These systems maintain precise environmental control from loading dock to final delivery, ensuring product integrity across distribution networks.

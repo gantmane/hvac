@@ -1,7 +1,9 @@
 ---
 title: "Heat Pump Water Heaters"
+aliases: ["Heat Pump Water Heaters"]
 description: "Technical analysis of heat pump water heater technology, ambient air heat transfer, COP performance advantages, installation requirements, and space conditioning integration."
 keywords: ["heat pump water heater", "HPWH", "coefficient of performance", "vapor compression cycle", "energy star water heater", "hybrid water heater", "COP water heating", "electric resistance alternative"]
+tags: ["heat pump water heater", "HPWH", "coefficient of performance", "vapor compression cycle", "energy star water heater", "hybrid water heater", "COP water heating", "electric resistance alternative"]
 weight: 9
 ---
 

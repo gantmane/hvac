@@ -1,5 +1,6 @@
 ---
 title: "Economizer Optimization"
+aliases: ["Economizer Optimization"]
 weight: 3
 ---
 

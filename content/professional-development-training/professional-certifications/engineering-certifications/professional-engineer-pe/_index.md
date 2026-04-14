@@ -1,5 +1,6 @@
 ---
 title: "Professional Engineer (PE) HVAC Certification"
+aliases: ["Professional Engineer (PE) HVAC Certification"]
 description: "Professional Engineer licensure requirements, exam structure, thermodynamics principles, and career advancement for HVAC mechanical engineers."
 date: 2025-01-05
 draft: false

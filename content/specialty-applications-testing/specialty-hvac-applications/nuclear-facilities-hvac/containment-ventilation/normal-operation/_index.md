@@ -1,7 +1,9 @@
 ---
 title: "Normal Operation Containment Ventilation Systems"
+aliases: ["Normal Operation Containment Ventilation Systems"]
 description: "Containment ventilation during normal reactor operation including fan cooler units, atmosphere monitoring, hydrogen control, and equipment heat removal."
 keywords: ["containment cooling", "fan cooler units", "hydrogen control", "containment atmosphere", "heat load removal", "nuclear ventilation", "reactor containment", "atmosphere monitoring"]
+tags: ["containment cooling", "fan cooler units", "hydrogen control", "containment atmosphere", "heat load removal", "nuclear ventilation", "reactor containment", "atmosphere monitoring"]
 weight: 1
 ---
 

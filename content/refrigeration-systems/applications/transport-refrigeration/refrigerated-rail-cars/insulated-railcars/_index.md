@@ -1,5 +1,6 @@
 ---
 title: "Insulated Railcars"
+aliases: ["Insulated Railcars"]
 weight: 2
 ---
 

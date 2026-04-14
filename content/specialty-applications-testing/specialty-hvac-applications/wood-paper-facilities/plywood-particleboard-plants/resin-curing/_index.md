@@ -1,5 +1,6 @@
 ---
 title: "Resin Curing HVAC Systems for Wood Panel Manufacturing"
+aliases: ["Resin Curing HVAC Systems for Wood Panel Manufacturing"]
 description: "Technical requirements for HVAC systems supporting urea-formaldehyde and phenolic resin curing in plywood and particleboard plants with formaldehyde control."
 date: 2025-01-05
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Musical Instrument Storage HVAC Systems"
+aliases: ["Musical Instrument Storage HVAC Systems"]
 linkTitle: "Musical Instrument Storage"
 weight: 4
 description: "Technical design of HVAC systems for musical instrument preservation, including humidity control for wood instruments, temperature stability requirements, and museum-grade environmental control"

@@ -1,5 +1,6 @@
 ---
 title: "Air Transport Refrigeration"
+aliases: ["Air Transport Refrigeration"]
 weight: 5
 ---
 

@@ -2,6 +2,7 @@
 title: "Cooling Load Calculations for HVAC Engineers"
 description: "Heat gain methodology, CLTD/CLF procedures, radiant time series method, and internal load diversity for accurate cooling system sizing and energy analysis."
 keywords: ["cooling load", "CLTD", "CLF", "solar heat gain", "radiant time series", "heat gain calculations"]
+tags: ["cooling load", "CLTD", "CLF", "solar heat gain", "radiant time series", "heat gain calculations"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 13
@@ -122,9 +123,9 @@ Where:
 ---
 
 **Related Technical Guides:**
-- [Load Calculation Methodology](/technical-guides/load-calculation-methodology/)
-- [Psychrometric Processes](/technical-guides/psychrometric-processes/)
-- [Solar heat Gain Calculations](/technical-guides/solar-heat-gain/)
+- Load Calculation Methodology
+- Psychrometric Processes
+- Solar heat Gain Calculations
 
 **References:**
 - ASHRAE Handbook of Fundamentals, Chapter 18: Nonresidential Cooling and Heating Load Calculations

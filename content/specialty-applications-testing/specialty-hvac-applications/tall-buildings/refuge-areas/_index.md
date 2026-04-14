@@ -1,5 +1,6 @@
 ---
 title: "Refuge Areas and Safe Havens"
+aliases: ["Refuge Areas and Safe Havens"]
 description: "Pressurization requirements, air supply systems, elevator lobbies as refuge areas, and life safety design for protected spaces in tall buildings."
 date: "2026-01-04"
 weight: 8

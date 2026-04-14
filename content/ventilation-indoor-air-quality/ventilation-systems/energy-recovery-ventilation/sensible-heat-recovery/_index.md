@@ -1,5 +1,6 @@
 ---
 title: "Sensible Heat Recovery Systems"
+aliases: ["Sensible Heat Recovery Systems"]
 description: "Technical analysis of sensible heat recovery including fixed plate, rotary wheel, and run-around coil exchangers with effectiveness calculations per ASHRAE Standard 84."
 keywords:
   - sensible heat recovery

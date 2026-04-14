@@ -1,7 +1,9 @@
 ---
 title: "Marine Mess & Dining Hall HVAC Systems"
+aliases: ["Marine Mess & Dining Hall HVAC Systems"]
 description: "Engineering design for ship dining space ventilation, galley coordination, odor control, and air distribution with calculations for crew and passenger mess halls."
 keywords: ["marine dining HVAC", "mess hall ventilation", "ship galley ventilation", "marine odor control", "dining space air conditioning", "crew mess climate", "ship food service HVAC", "marine sanitation"]
+tags: ["marine dining HVAC", "mess hall ventilation", "ship galley ventilation", "marine odor control", "dining space air conditioning", "crew mess climate", "ship food service HVAC", "marine sanitation"]
 weight: 2
 ---
 

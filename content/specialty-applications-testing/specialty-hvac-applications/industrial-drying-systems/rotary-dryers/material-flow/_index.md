@@ -1,10 +1,12 @@
 ---
 title: "Material Flow Dynamics in Rotary Dryers"
+aliases: ["Material Flow Dynamics in Rotary Dryers"]
 description: "Physics-based analysis of material flow patterns, residence time distribution, and transport mechanisms in industrial rotary dryers with design calculations."
 date: 2025-01-11
 weight: 3
 draft: false
 keywords: ["rotary dryer material flow", "residence time calculation", "flight design", "material holdup", "cascading flow", "dryer kinematics", "bulk solids transport", "industrial drying"]
+tags: ["rotary dryer material flow", "residence time calculation", "flight design", "material holdup", "cascading flow", "dryer kinematics", "bulk solids transport", "industrial drying"]
 ---
 
 ## Fundamental Flow Mechanisms

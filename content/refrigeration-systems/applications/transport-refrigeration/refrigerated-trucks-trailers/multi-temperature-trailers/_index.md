@@ -1,5 +1,6 @@
 ---
 title: "Multi Temperature Trailers"
+aliases: ["Multi Temperature Trailers"]
 weight: 4
 ---
 

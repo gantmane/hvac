@@ -1,5 +1,6 @@
 ---
 title: "Drilling Platform HVAC Systems"
+aliases: ["Drilling Platform HVAC Systems"]
 description: "HVAC design for offshore drilling platforms including drill floor ventilation, mud room exhaust, accommodation climate control, hazardous area compliance, and API standards."
 date: "2026-01-11"
 weight: 2

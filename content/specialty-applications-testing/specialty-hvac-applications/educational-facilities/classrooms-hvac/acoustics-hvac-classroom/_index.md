@@ -1,5 +1,6 @@
 ---
 title: "HVAC Acoustics in Classrooms"
+aliases: ["HVAC Acoustics in Classrooms"]
 description: "Technical guidance on HVAC noise control for classrooms per ANSI S12.60, including NC criteria, duct velocity limits, diffuser selection, and equipment placement strategies."
 date: 2025-01-05
 weight: 3

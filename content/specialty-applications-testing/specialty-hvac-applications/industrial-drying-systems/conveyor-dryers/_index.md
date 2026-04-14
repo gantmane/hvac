@@ -1,5 +1,6 @@
 ---
 title: "Conveyor Dryers: Belt Speed & Temperature Control"
+aliases: ["Conveyor Dryers: Belt Speed & Temperature Control"]
 description: "Technical analysis of conveyor dryer heat transfer, belt speed calculations, air temperature zones, and residence time optimization for industrial drying processes."
 date: 2025-01-05
 draft: false

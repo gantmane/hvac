@@ -1,7 +1,9 @@
 ---
 title: "Air Quality Challenges"
+aliases: ["Air Quality Challenges"]
 description: "Understanding and addressing air quality challenges in natatoriums including chloramine control, ventilation strategies, and monitoring requirements."
 keywords: ["natatorium air quality", "chloramine", "pool air quality", "DBP", "indoor air quality", "swimming pool"]
+tags: ["natatorium air quality", "chloramine", "pool air quality", "DBP", "indoor air quality", "swimming pool"]
 weight: 5
 ---
 

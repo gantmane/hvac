@@ -1,8 +1,10 @@
 ---
 title: "Container Ship Cargo Hold Ventilation"
+aliases: ["Container Ship Cargo Hold Ventilation"]
 seo_title: "Container Ship HVAC: Reefer & Ventilation Systems"
 description: "Technical guide to container ship cargo hold ventilation, reefer container power distribution, below-deck ventilation design, and monitoring systems per SOLAS."
 keywords: ["container ship ventilation", "reefer container power", "cargo hold HVAC", "ISO container standards", "marine ventilation systems", "below-deck ventilation", "container ship electrical", "cargo monitoring systems"]
+tags: ["container ship ventilation", "reefer container power", "cargo hold HVAC", "ISO container standards", "marine ventilation systems", "below-deck ventilation", "container ship electrical", "cargo monitoring systems"]
 weight: 1
 ---
 

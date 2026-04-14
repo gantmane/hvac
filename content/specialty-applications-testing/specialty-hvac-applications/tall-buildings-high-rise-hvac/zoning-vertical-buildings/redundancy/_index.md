@@ -1,8 +1,10 @@
 ---
 title: "Redundancy in High-Rise HVAC Zoning Systems"
+aliases: ["Redundancy in High-Rise HVAC Zoning Systems"]
 seo_title: "High-Rise HVAC Redundancy: N+1 Sizing & Backup Systems"
 description: "Engineering redundant HVAC systems for tall buildings including N+1 equipment configurations, cross-zone connections, standby capacity calculations, and mission-critical design strategies."
 keywords: ["high-rise HVAC redundancy", "N+1 equipment sizing", "dual riser systems", "cross-zone connections", "mission-critical HVAC", "standby capacity", "vertical distribution redundancy", "tall building backup systems"]
+tags: ["high-rise HVAC redundancy", "N+1 equipment sizing", "dual riser systems", "cross-zone connections", "mission-critical HVAC", "standby capacity", "vertical distribution redundancy", "tall building backup systems"]
 weight: 4
 ---
 

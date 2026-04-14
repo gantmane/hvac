@@ -1,8 +1,10 @@
 ---
 title: "Direct Expansion Evaporators"
+aliases: ["Direct Expansion Evaporators"]
 weight: 1
 description: "Comprehensive technical guide to direct expansion (DX) evaporators covering fin-tube coil design, superheat control, refrigerant distribution, defrost methods, and applications in air conditioning and refrigeration systems."
 keywords: ["direct expansion evaporator", "DX coil", "fin-tube coil", "superheat control", "TXV", "refrigerant distribution", "defrost methods", "hot gas defrost", "face velocity", "fin spacing"]
+tags: ["direct expansion evaporator", "DX coil", "fin-tube coil", "superheat control", "TXV", "refrigerant distribution", "defrost methods", "hot gas defrost", "face velocity", "fin spacing"]
 ---
 
 Direct expansion (DX) evaporators absorb heat from air or fluids by evaporating liquid refrigerant directly within the heat exchanger tubes. Unlike flooded evaporators, DX coils meter refrigerant flow through expansion devices to match system load, achieving complete evaporation before refrigerant exits the coil.

@@ -1,5 +1,6 @@
 ---
 title: "HVAC Incentives in Developing Countries"
+aliases: ["HVAC Incentives in Developing Countries"]
 description: "Government programs supporting efficient HVAC deployment in developing nations through subsidies, carbon finance, and technical assistance mechanisms."
 date: 2025-01-05
 tags: ["incentives", "developing countries", "efficiency programs", "carbon finance", "subsidies"]
@@ -192,7 +193,7 @@ Limited metering infrastructure complicates energy savings verification. Statist
 
 ## Related Topics
 
-- [International Efficiency Metrics](/international-perspectives/international-efficiency-metrics/cooling-efficiency-global/)
-- [Net Zero Energy Buildings](/sustainability-emerging-tech-economics/sustainability-green-building/net-zero-energy-buildings/)
-- [Economic Analysis Methods](/sustainability-emerging-tech-economics/economic-analysis-hvac/lifecycle-cost-analysis/)
-- [Green Building Rating Systems](/sustainability-emerging-tech-economics/sustainability-green-building/green-building-rating-systems/leed-certification/)
+- [International Efficiency Metrics](../../../../international-perspectives/international-efficiency-metrics/cooling-efficiency-global/_index.md)
+- [Net Zero Energy Buildings](../../../../sustainability-emerging-tech-economics/sustainability-green-building/net-zero-energy-buildings/_index.md)
+- Economic Analysis Methods
+- [Green Building Rating Systems](../../../../sustainability-emerging-tech-economics/sustainability-green-building/green-building-rating-systems/leed-certification/_index.md)

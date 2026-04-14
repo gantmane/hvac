@@ -1,8 +1,10 @@
 ---
 title: "Emergency Ventilation Systems for Tunnels"
+aliases: ["Emergency Ventilation Systems for Tunnels"]
 seo_title: "Tunnel Emergency Ventilation: Life Safety Systems"
 description: "Comprehensive guide to tunnel emergency ventilation systems including smoke control strategies, NFPA 502 requirements, fire detection integration, and critical control system design."
 keywords: ["tunnel ventilation", "smoke control", "emergency HVAC", "NFPA 502", "fire life safety", "tunnel fire", "critical velocity", "smoke extraction"]
+tags: ["tunnel ventilation", "smoke control", "emergency HVAC", "NFPA 502", "fire life safety", "tunnel fire", "critical velocity", "smoke extraction"]
 weight: 3
 ---
 

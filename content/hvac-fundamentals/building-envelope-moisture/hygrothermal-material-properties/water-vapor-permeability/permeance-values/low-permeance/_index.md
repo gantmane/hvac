@@ -1,5 +1,6 @@
 ---
 title: "Low Permeance Materials"
+aliases: ["Low Permeance Materials"]
 description: "Technical specifications for Class II vapor retarders with permeance 0.1 to 1.0 perm, including coatings, membranes, and insulation facings for moisture control in building envelope assemblies."
 weight: 2
 ---

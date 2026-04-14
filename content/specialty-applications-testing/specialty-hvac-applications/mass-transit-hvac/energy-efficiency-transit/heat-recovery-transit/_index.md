@@ -1,7 +1,9 @@
 ---
 title: "Heat Recovery in Transit HVAC Systems"
+aliases: ["Heat Recovery in Transit HVAC Systems"]
 description: "Technical analysis of heat recovery methods for mass transit including traction motor heat, regenerative braking energy, and exhaust recovery with effectiveness calculations."
 keywords: "transit heat recovery, traction motor heat, brake energy recovery, transit waste heat, regenerative braking HVAC, inverter heat recovery, transit energy efficiency, rail car heat pump"
+tags: ["transit heat recovery", "traction motor heat", "brake energy recovery", "transit waste heat", "regenerative braking HVAC", "inverter heat recovery", "transit energy efficiency", "rail car heat pump"]
 weight: 2
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Mold Prevention Strategies in School HVAC Systems"
+aliases: ["Mold Prevention Strategies in School HVAC Systems"]
 description: "Comprehensive humidity control, condensation prevention, drainage maintenance, and inspection protocols for preventing mold growth in educational facilities."
 keywords: ["mold prevention", "humidity control schools", "condensation prevention", "drain pan maintenance", "building envelope moisture", "HVAC inspection protocols", "school air quality", "moisture management"]
+tags: ["mold prevention", "humidity control schools", "condensation prevention", "drain pan maintenance", "building envelope moisture", "HVAC inspection protocols", "school air quality", "moisture management"]
 date: 2025-01-11
 weight: 4
 draft: false

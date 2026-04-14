@@ -1,5 +1,6 @@
 ---
 title: "Indoor Air Pollutant Sources and Control"
+aliases: ["Indoor Air Pollutant Sources and Control"]
 description: "Comprehensive analysis of indoor air pollutant sources including building materials, occupants, equipment, and outdoor air infiltration with source control strategies."
 date: 2025-01-05
 draft: false

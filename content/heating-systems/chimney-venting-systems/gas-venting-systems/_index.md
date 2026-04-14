@@ -1,5 +1,6 @@
 ---
 title: "Gas Venting Systems"
+aliases: ["Gas Venting Systems"]
 description: "Complete technical guide to gas appliance venting including Type B vents, appliance categorization (Category I-IV), vent materials, sizing methods, and NFPA 54 compliance requirements."
 weight: 3
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Bleed Air Distribution Systems in Aircraft HVAC"
+aliases: ["Bleed Air Distribution Systems in Aircraft HVAC"]
 description: "Comprehensive guide to aircraft bleed air distribution manifolds, cross-bleed and isolation valves, duct sizing, thermal insulation, and leak detection systems."
 keywords: ["bleed air distribution", "cross-bleed valve", "isolation valve", "aircraft ducts", "thermal insulation", "leak detection", "manifold design", "bleed air routing"]
+tags: ["bleed air distribution", "cross-bleed valve", "isolation valve", "aircraft ducts", "thermal insulation", "leak detection", "manifold design", "bleed air routing"]
 date: 2025-01-11
 draft: false
 weight: 3

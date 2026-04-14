@@ -1,5 +1,6 @@
 ---
 title: "Steel Pipe"
+aliases: ["Steel Pipe"]
 description: "Carbon steel and stainless steel pipe specifications, schedule ratings, pressure-temperature limits, ASTM/ASME standards, and design considerations for HVAC hydronic and steam systems"
 weight: 2
 ---

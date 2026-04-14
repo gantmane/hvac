@@ -1,7 +1,9 @@
 ---
 title: "Power Density Requirements for Electric Snow Melting"
+aliases: ["Power Density Requirements for Electric Snow Melting"]
 description: "Technical guide to electric snow melting power density requirements including climate-based design values, electrical service sizing calculations, and performance optimization."
 keywords: ["power density", "watts per square foot", "electric snow melting", "heat flux", "electrical sizing", "climate design", "ASHRAE 90416", "cable wattage"]
+tags: ["power density", "watts per square foot", "electric snow melting", "heat flux", "electrical sizing", "climate design", "ASHRAE 90416", "cable wattage"]
 weight: 1
 ---
 

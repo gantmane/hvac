@@ -1,7 +1,9 @@
 ---
 title: "Building Energy Codes"
+aliases: ["Building Energy Codes"]
 description: "Technical analysis of building energy code development, adoption, and enforcement with focus on HVAC system requirements, compliance pathways, and state-level implementation strategies."
 keywords: ["building energy codes", "ASHRAE 90.1", "IECC compliance", "HVAC code requirements", "energy code enforcement", "DOE building codes", "prescriptive path", "performance path"]
+tags: ["building energy codes", "ASHRAE 90.1", "IECC compliance", "HVAC code requirements", "energy code enforcement", "DOE building codes", "prescriptive path", "performance path"]
 weight: 1
 ---
 

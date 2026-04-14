@@ -1,5 +1,6 @@
 ---
 title: "Aging Coolers"
+aliases: ["Aging Coolers"]
 description: "Technical design and control requirements for meat aging coolers including dry aging and wet aging systems, precise environmental control, microbial management, and USDA FSIS compliance for optimal tenderization and flavor development."
 weight: 3
 ---

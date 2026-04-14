@@ -1,7 +1,9 @@
 ---
 title: "Virgin Rock Temperature in Deep Mine Ventilation"
+aliases: ["Virgin Rock Temperature in Deep Mine Ventilation"]
 description: "Technical analysis of virgin rock temperature (VRT) and geothermal gradient in deep mines, heat transfer mechanisms, auto-compression effects, and VRT impact on ventilation design."
 keywords: ["virgin rock temperature", "geothermal gradient", "mine heat stress", "auto-compression heating", "rock heat transfer", "mine ventilation design", "deep mine cooling", "MSHA heat regulations"]
+tags: ["virgin rock temperature", "geothermal gradient", "mine heat stress", "auto-compression heating", "rock heat transfer", "mine ventilation design", "deep mine cooling", "MSHA heat regulations"]
 weight: 2
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Spectator Area HVAC Design for Gymnasiums"
+aliases: ["Spectator Area HVAC Design for Gymnasiums"]
 description: "Engineering analysis of bleacher and seating ventilation including intermittent high-occupancy cooling loads, separate zone control, and ASHRAE assembly space requirements."
 keywords: ["spectator area HVAC", "bleacher ventilation", "gymnasium seating cooling", "assembly space HVAC", "intermittent occupancy loads", "spectator thermal comfort", "high-density seating ventilation", "ASHRAE 62.1 assembly"]
+tags: ["spectator area HVAC", "bleacher ventilation", "gymnasium seating cooling", "assembly space HVAC", "intermittent occupancy loads", "spectator thermal comfort", "high-density seating ventilation", "ASHRAE 62.1 assembly"]
 weight: 3
 ---
 

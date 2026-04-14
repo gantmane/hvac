@@ -1,5 +1,6 @@
 ---
 title: "Compressors"
+aliases: ["Compressors"]
 weight: 1
 description: "Technical analysis of refrigeration compressors including reciprocating, scroll, screw, and centrifugal types. Covers compression thermodynamics, volumetric and isentropic efficiency, capacity control methods, performance characteristics, and maintenance requirements."
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Poultry Freezing Systems and Refrigeration Design"
+aliases: ["Poultry Freezing Systems and Refrigeration Design"]
 description: "Engineering guide to poultry freezing operations covering blast freezers, spiral systems, cryogenic freezing, heat load calculations, and system design per ASHRAE standards."
 date: 2025-01-05
 tags: ["poultry freezing", "blast freezers", "cryogenic freezing", "food processing", "refrigeration loads", "freezer design"]

@@ -1,5 +1,6 @@
 ---
 title: "Stairwell Pressurization (Smoke Control)"
+aliases: ["Stairwell Pressurization (Smoke Control)"]
 description: "Positive pressure stairwell systems, NFPA 92 requirements, pressure differential targets, supply fan sizing, and door opening force analysis."
 date: "2026-01-04"
 weight: 4

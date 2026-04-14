@@ -1,5 +1,6 @@
 ---
 title: "Basic Cycle"
+aliases: ["Basic Cycle"]
 weight: 1
 ---
 

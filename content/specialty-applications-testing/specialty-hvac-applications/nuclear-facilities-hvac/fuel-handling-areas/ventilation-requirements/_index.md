@@ -1,8 +1,10 @@
 ---
 title: "Fuel Handling Area Ventilation Requirements"
+aliases: ["Fuel Handling Area Ventilation Requirements"]
 seo_title: "Nuclear Fuel Handling Area Ventilation Standards"
 description: "Technical requirements for fuel handling area ventilation including air change rates, negative pressure maintenance, HEPA filtration, and NRC regulatory compliance."
 keywords: ["fuel handling ventilation", "spent fuel pool ventilation", "nuclear HVAC", "HEPA filtration nuclear", "negative pressure confinement", "airborne contamination control", "NRC ventilation requirements", "iodine adsorbers"]
+tags: ["fuel handling ventilation", "spent fuel pool ventilation", "nuclear HVAC", "HEPA filtration nuclear", "negative pressure confinement", "airborne contamination control", "NRC ventilation requirements", "iodine adsorbers"]
 weight: 3
 ---
 

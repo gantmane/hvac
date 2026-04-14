@@ -1,7 +1,9 @@
 ---
 title: "Humidity Stability for Art Preservation Environments"
+aliases: ["Humidity Stability for Art Preservation Environments"]
 description: "Engineering precision humidity control systems for museums and galleries. Covers RH fluctuation limits, material sensitivity, seasonal drift management, and microclimate strategies."
 keywords: ["humidity stability museums", "RH control art preservation", "museum HVAC design", "Getty Conservation standards", "microclimate control galleries", "hygroscopic material protection", "collection humidity monitoring", "museum dehumidification"]
+tags: ["humidity stability museums", "RH control art preservation", "museum HVAC design", "Getty Conservation standards", "microclimate control galleries", "hygroscopic material protection", "collection humidity monitoring", "museum dehumidification"]
 weight: 2
 ---
 

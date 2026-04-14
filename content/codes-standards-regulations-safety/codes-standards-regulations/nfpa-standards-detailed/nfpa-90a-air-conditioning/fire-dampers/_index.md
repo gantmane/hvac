@@ -1,10 +1,12 @@
 ---
 title: "Fire Dampers: UL 555 Requirements and Installation"
+aliases: ["Fire Dampers: UL 555 Requirements and Installation"]
 linkTitle: "Fire Dampers"
 weight: 1
 date: 2026-01-04
 description: "Comprehensive guide to fire damper requirements per UL 555 and NFPA 90A, including installation details, fusible link selection, inspection procedures, and testing requirements for HVAC fire protection systems."
 keywords: ["fire dampers", "UL 555", "fusible link", "fire damper installation", "fire barrier penetrations", "fire damper testing", "static fire dampers", "dynamic fire dampers", "curtain-type dampers"]
+tags: ["fire dampers", "UL 555", "fusible link", "fire damper installation", "fire barrier penetrations", "fire damper testing", "static fire dampers", "dynamic fire dampers", "curtain-type dampers"]
 ---
 
 ## Fire Damper Fundamentals

@@ -1,5 +1,6 @@
 ---
 title: "Thermoacoustic Refrigeration"
+aliases: ["Thermoacoustic Refrigeration"]
 description: "Advanced thermoacoustic refrigeration systems using acoustic wave energy for solid-state cooling, covering standing wave and traveling wave configurations, stack design, and noble gas working fluids."
 weight: 3
 ---

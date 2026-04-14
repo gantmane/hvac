@@ -1,5 +1,6 @@
 ---
 title: "Tiered Seating Ventilation Design"
+aliases: ["Tiered Seating Ventilation Design"]
 date: 2025-01-05
 draft: false
 description: "Advanced ventilation strategies for tiered seating in lecture halls and auditoriums, including underfloor air distribution, seat-based delivery, and displacement ventilation."

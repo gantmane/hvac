@@ -1,5 +1,6 @@
 ---
 title: "Smoke Control Pressurization Systems"
+aliases: ["Smoke Control Pressurization Systems"]
 weight: 2
 description: "Technical guide to smoke control pressurization systems including stairwell, elevator shaft, and zoned pressurization with pressure differentials, modulation, and NFPA 92 requirements."
 keywords:

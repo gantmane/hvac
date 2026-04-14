@@ -1,7 +1,9 @@
 ---
 title: "Variable Speed HVAC Systems for Mass Transit"
+aliases: ["Variable Speed HVAC Systems for Mass Transit"]
 description: "Technical analysis of variable-speed compressors, EC motors, and inverter drives for transit vehicle HVAC efficiency. Includes VFD energy savings calculations and demand-based control."
 keywords: "variable speed transit HVAC, VFD compressor control, inverter HVAC transit, EC motor transit, demand-based cooling, variable speed blower, transit HVAC efficiency, passenger counting control"
+tags: ["variable speed transit HVAC", "VFD compressor control", "inverter HVAC transit", "EC motor transit", "demand-based cooling", "variable speed blower", "transit HVAC efficiency", "passenger counting control"]
 weight: 1
 ---
 

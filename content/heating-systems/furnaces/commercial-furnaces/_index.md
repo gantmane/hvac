@@ -1,7 +1,9 @@
 ---
 title: "Commercial Furnaces: Design and Applications"
+aliases: ["Commercial Furnaces: Design and Applications"]
 description: "Technical analysis of commercial warm air furnaces, rooftop unit integration, high-efficiency models, modulating burners, and make-up air heating applications."
 keywords: ["commercial furnace", "rooftop unit", "modulating burner", "make-up air heating", "high-efficiency furnace", "commercial HVAC", "condensing furnace", "furnace capacity"]
+tags: ["commercial furnace", "rooftop unit", "modulating burner", "make-up air heating", "high-efficiency furnace", "commercial HVAC", "condensing furnace", "furnace capacity"]
 weight: 2
 ---
 

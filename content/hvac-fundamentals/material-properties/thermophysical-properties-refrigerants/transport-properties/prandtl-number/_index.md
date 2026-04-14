@@ -1,5 +1,6 @@
 ---
 title: "Prandtl Number"
+aliases: ["Prandtl Number"]
 weight: 3
 ---
 

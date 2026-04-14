@@ -1,7 +1,9 @@
 ---
 title: "ASHRAE 55: Thermal Comfort Standard"
+aliases: ["ASHRAE 55: Thermal Comfort Standard"]
 description: "Comprehensive guide to ASHRAE Standard 55 thermal comfort criteria, PMV/PPD calculations, metabolic rates, clothing insulation, and operative temperature requirements."
 keywords: ["ASHRAE 55", "thermal comfort", "PMV PPD", "metabolic rate", "clothing insulation", "operative temperature", "adaptive comfort", "ISO 7730"]
+tags: ["ASHRAE 55", "thermal comfort", "PMV PPD", "metabolic rate", "clothing insulation", "operative temperature", "adaptive comfort", "ISO 7730"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Power Vent Systems"
+aliases: ["Power Vent Systems"]
 description: "Technical guide to power venting systems including fan-assisted draft, induced and forced draft fan configurations, pressure proving switches, automatic vent dampers, safety controls, electrical interlocks, and installation requirements for mechanically-vented heating appliances."
 weight: 5
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Cold Storage Juice"
+aliases: ["Cold Storage Juice"]
 description: "Refrigeration system design for citrus juice cold storage including fresh juice, NFC juice, frozen concentrate, and aseptic storage requirements with precise temperature control parameters"
 weight: 5
 ---

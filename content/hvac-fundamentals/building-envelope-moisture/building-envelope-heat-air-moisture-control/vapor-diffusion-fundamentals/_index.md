@@ -1,5 +1,6 @@
 ---
 title: "Vapor Diffusion Fundamentals"
+aliases: ["Vapor Diffusion Fundamentals"]
 description: "Comprehensive analysis of vapor diffusion physics, Fick's Law, permeance ratings, vapor retarder classifications, and dewpoint analysis for building envelope moisture control in HVAC systems."
 weight: 2
 ---

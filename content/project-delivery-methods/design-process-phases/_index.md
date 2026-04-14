@@ -1,7 +1,9 @@
 ---
 title: "Design Process Phases"
+aliases: ["Design Process Phases"]
 description: "Overview of HVAC design phases from programming through construction documents, including deliverables and coordination requirements."
 keywords: ["design phases", "schematic design", "design development", "construction documents", "HVAC design process"]
+tags: ["design phases", "schematic design", "design development", "construction documents", "HVAC design process"]
 weight: 10
 ---
 

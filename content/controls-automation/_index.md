@@ -1,5 +1,6 @@
 ---
 title: "HVAC Controls & Automation Systems"
+aliases: ["HVAC Controls & Automation Systems"]
 description: "Comprehensive guide to HVAC control theory, sensors, actuators, building automation systems, and control strategies for optimized performance and energy efficiency."
 weight: 3
 ---

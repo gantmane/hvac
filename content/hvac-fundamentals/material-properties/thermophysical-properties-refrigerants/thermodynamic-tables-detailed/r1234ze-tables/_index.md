@@ -1,5 +1,6 @@
 ---
 title: "R1234ze Tables"
+aliases: ["R1234ze Tables"]
 weight: 7
 ---
 

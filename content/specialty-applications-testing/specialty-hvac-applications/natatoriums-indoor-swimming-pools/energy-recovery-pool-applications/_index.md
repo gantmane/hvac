@@ -1,8 +1,10 @@
 ---
 title: "Energy Recovery Applications"
+aliases: ["Energy Recovery Applications"]
 weight: 7
 description: "Technical analysis of energy recovery systems for natatoriums including heat recovery from dehumidification, exhaust air heat recovery, pool water heat reclaim, and integrated energy management strategies for indoor pool facilities."
 keywords: "energy recovery natatorium, pool heat recovery, dehumidifier heat reclaim, exhaust air recovery, pool energy efficiency, natatorium COP"
+tags: ["energy recovery natatorium", "pool heat recovery", "dehumidifier heat reclaim", "exhaust air recovery", "pool energy efficiency", "natatorium COP"]
 ---
 
 Energy recovery represents the single most effective strategy for reducing operating costs in natatorium facilities. The massive energy consumption required for dehumidification, pool water heating, space heating, and ventilation air conditioning creates numerous opportunities to capture and reuse waste heat that would otherwise be rejected. Well-designed energy recovery systems can reduce overall energy consumption by 50-70% compared to conventional approaches.

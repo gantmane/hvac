@@ -1,7 +1,9 @@
 ---
 title: "Noise Criteria for Engine Test Cell HVAC Systems"
+aliases: ["Noise Criteria for Engine Test Cell HVAC Systems"]
 description: "NC rating targets, octave band analysis, HVAC equipment specifications, background noise requirements, and measurement protocols for engine test facility acoustics."
 keywords: ["noise criteria", "NC curves", "octave band analysis", "test cell acoustics", "HVAC noise control", "sound measurement", "acoustic verification", "background noise"]
+tags: ["noise criteria", "NC curves", "octave band analysis", "test cell acoustics", "HVAC noise control", "sound measurement", "acoustic verification", "background noise"]
 weight: 3
 ---
 

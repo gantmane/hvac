@@ -1,5 +1,6 @@
 ---
 title: "Control Valve and Damper Characteristics"
+aliases: ["Control Valve and Damper Characteristics"]
 description: "Analysis of control valve and damper flow characteristics including linear, equal percentage, and quick-opening types, valve authority, installed characteristics, and actuator selection for HVAC applications."
 date: 2026-01-04
 weight: 7

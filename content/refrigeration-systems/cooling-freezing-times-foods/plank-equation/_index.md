@@ -1,5 +1,6 @@
 ---
 title: "Plank Equation"
+aliases: ["Plank Equation"]
 description: "Comprehensive analysis of Plank's equation for food freezing time calculation including shape factors, assumptions, limitations, Cleland-Earle modifications, and practical engineering applications for industrial refrigeration systems."
 weight: 1
 ---

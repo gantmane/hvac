@@ -1,7 +1,9 @@
 ---
 title: "HVAC Interface Devices & Operator Workstations"
+aliases: ["HVAC Interface Devices & Operator Workstations"]
 description: "Comprehensive guide to HVAC building automation interface devices including operator workstations, HMI systems, thermostats, touchscreens, web interfaces, and mobile applications."
 keywords: ["HVAC interface devices", "operator workstations", "building automation HMI", "HVAC thermostats", "touchscreen controls", "web-based HVAC interfaces", "HVAC mobile apps", "building management interface"]
+tags: ["HVAC interface devices", "operator workstations", "building automation HMI", "HVAC thermostats", "touchscreen controls", "web-based HVAC interfaces", "HVAC mobile apps", "building management interface"]
 weight: 7
 ---
 

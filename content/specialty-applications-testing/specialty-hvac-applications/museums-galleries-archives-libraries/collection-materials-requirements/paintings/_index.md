@@ -1,7 +1,9 @@
 ---
 title: "Environmental Requirements for Painting Collections"
+aliases: ["Environmental Requirements for Painting Collections"]
 description: "Climate control specifications for paintings including temperature and humidity limits, dimensional change calculations, and preservation strategies."
 keywords: ["painting preservation", "canvas dimensional stability", "humidity control art", "museum climate control", "paint layer cracking", "art conservation HVAC", "varnish environmental sensitivity", "painting storage conditions"]
+tags: ["painting preservation", "canvas dimensional stability", "humidity control art", "museum climate control", "paint layer cracking", "art conservation HVAC", "varnish environmental sensitivity", "painting storage conditions"]
 weight: 1
 ---
 

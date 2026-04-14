@@ -1,5 +1,6 @@
 ---
 title: "Filtered Exhaust from Nuclear Containment Systems"
+aliases: ["Filtered Exhaust from Nuclear Containment Systems"]
 description: "Engineering guide to nuclear containment filtered exhaust systems covering HEPA filtration, charcoal adsorbers, pre-filter design, testing protocols, stack monitoring, and NRC effluent limits."
 keywords:
   - nuclear filtered exhaust

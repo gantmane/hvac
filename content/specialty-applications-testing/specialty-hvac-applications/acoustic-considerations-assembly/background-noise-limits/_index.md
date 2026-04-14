@@ -1,5 +1,6 @@
 ---
 title: "Background Noise Limits for Assembly Spaces"
+aliases: ["Background Noise Limits for Assembly Spaces"]
 description: "Technical guidance on establishing background noise limits for assembly spaces using NC/RC curves, speech privacy criteria, and masking principles per ASHRAE standards."
 date: 2026-01-11
 tags: ["acoustics", "noise criteria", "NC curves", "RC curves", "background noise", "speech privacy", "sound masking", "assembly spaces", "ASHRAE standards"]

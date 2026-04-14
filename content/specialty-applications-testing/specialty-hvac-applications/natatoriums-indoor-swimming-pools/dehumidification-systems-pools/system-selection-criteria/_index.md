@@ -1,7 +1,9 @@
 ---
 title: "Pool Dehumidification System Selection Criteria"
+aliases: ["Pool Dehumidification System Selection Criteria"]
 description: "Engineering guide to selecting refrigerant, desiccant, or outdoor air dehumidification systems for natatoriums based on climate, pool type, energy costs, and capacity requirements."
 keywords: ["pool dehumidification selection", "natatorium HVAC design", "refrigerant vs desiccant dehumidifier", "pool system sizing", "ASHRAE natatorium standards", "indoor pool climate control", "dehumidification capacity calculations", "pool energy efficiency"]
+tags: ["pool dehumidification selection", "natatorium HVAC design", "refrigerant vs desiccant dehumidifier", "pool system sizing", "ASHRAE natatorium standards", "indoor pool climate control", "dehumidification capacity calculations", "pool energy efficiency"]
 weight: 4
 ---
 

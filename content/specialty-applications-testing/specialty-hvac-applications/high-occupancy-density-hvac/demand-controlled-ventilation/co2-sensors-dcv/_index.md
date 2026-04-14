@@ -1,7 +1,9 @@
 ---
 title: "CO2 Sensors for Demand-Controlled Ventilation"
+aliases: ["CO2 Sensors for Demand-Controlled Ventilation"]
 description: "Technical guide to CO2 sensor technology, calibration, placement strategies, and control integration for ASHRAE 62.1-compliant demand-controlled ventilation systems."
 keywords: ["CO2 sensors", "NDIR sensors", "demand controlled ventilation", "sensor calibration", "ASHRAE 62.1", "indoor air quality", "ventilation control", "sensor placement"]
+tags: ["CO2 sensors", "NDIR sensors", "demand controlled ventilation", "sensor calibration", "ASHRAE 62.1", "indoor air quality", "ventilation control", "sensor placement"]
 weight: 1
 ---
 

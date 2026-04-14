@@ -1,5 +1,6 @@
 ---
 title: "Spray Nozzle Evaporative"
+aliases: ["Spray Nozzle Evaporative"]
 weight: 2
 ---
 

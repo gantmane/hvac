@@ -1,5 +1,6 @@
 ---
 title: "Hotel Commercial Kitchen HVAC Systems: Exhaust Hood Design and Makeup Air"
+aliases: ["Hotel Commercial Kitchen HVAC Systems: Exhaust Hood Design and Makeup Air"]
 description: "Complete technical guide to hotel commercial kitchen HVAC: Type I/II exhaust hood design, grease removal efficiency, makeup air systems, NFPA 96 compliance, fire suppression coordination, and worker comfort solutions."
 date: "2026-01-05"
 weight: 6

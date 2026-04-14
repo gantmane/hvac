@@ -1,5 +1,6 @@
 ---
 title: "Variable Volume"
+aliases: ["Variable Volume"]
 weight: 2
 ---
 

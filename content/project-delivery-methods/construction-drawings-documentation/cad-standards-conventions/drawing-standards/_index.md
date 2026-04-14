@@ -1,5 +1,6 @@
 ---
 title: "Drawing Standards"
+aliases: ["Drawing Standards"]
 weight: 1
 ---
 

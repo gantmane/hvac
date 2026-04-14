@@ -1,5 +1,6 @@
 ---
 title: "Fish Smoking Operations"
+aliases: ["Fish Smoking Operations"]
 description: "HVAC requirements for fish smoking facilities including cold and hot smoking processes, temperature and humidity control, smoke distribution systems, and ventilation design for commercial seafood smoking operations"
 weight: 2
 ---

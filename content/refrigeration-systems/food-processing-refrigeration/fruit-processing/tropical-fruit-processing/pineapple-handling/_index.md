@@ -1,5 +1,6 @@
 ---
 title: "Pineapple Handling Refrigeration Systems"
+aliases: ["Pineapple Handling Refrigeration Systems"]
 description: "HVAC engineering specifications for pineapple handling facilities including temperature control, humidity management, chilling injury prevention, and internal browning control in tropical fruit processing operations"
 weight: 2
 ---

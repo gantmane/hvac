@@ -1,8 +1,10 @@
 ---
 title: "Homerun Manifold DHW Distribution Systems"
+aliases: ["Homerun Manifold DHW Distribution Systems"]
 weight: 2
 description: "Homerun manifold systems deliver hot water through dedicated PEX lines from a central manifold to each fixture, offering faster delivery, individual fixture isolation, and reduced fittings."
 keywords: ["homerun manifold", "PEX tubing", "DHW distribution", "manifold plumbing", "domestic hot water", "fixture isolation", "parallel distribution", "residential plumbing"]
+tags: ["homerun manifold", "PEX tubing", "DHW distribution", "manifold plumbing", "domestic hot water", "fixture isolation", "parallel distribution", "residential plumbing"]
 ---
 
 Homerun manifold systems represent a parallel distribution approach where each plumbing fixture receives hot water through a dedicated line running directly from a central manifold. This architecture eliminates the complex branching networks of traditional trunk-and-branch systems, providing superior control, faster delivery, and simplified troubleshooting.

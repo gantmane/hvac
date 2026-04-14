@@ -1,5 +1,6 @@
 ---
 title: "Vibration Isolation for Assembly Space HVAC Equipment"
+aliases: ["Vibration Isolation for Assembly Space HVAC Equipment"]
 description: "Technical guidance on vibration isolation design for assembly spaces including transmissibility calculations, natural frequency requirements, isolator selection, and seismic coordination."
 date: 2026-01-11
 tags: ["vibration isolation", "acoustic design", "assembly spaces", "spring isolators", "natural frequency", "transmissibility", "seismic restraints", "equipment isolation"]

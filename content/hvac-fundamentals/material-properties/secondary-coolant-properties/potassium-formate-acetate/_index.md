@@ -1,5 +1,6 @@
 ---
 title: "Potassium Formate and Acetate Solutions"
+aliases: ["Potassium Formate and Acetate Solutions"]
 description: "Comprehensive technical analysis of potassium formate (HCOOK) and potassium acetate (CH₃COOK) secondary coolants including thermophysical properties, environmental benefits, corrosion characteristics, and design considerations for HVAC applications"
 weight: 10
 ---

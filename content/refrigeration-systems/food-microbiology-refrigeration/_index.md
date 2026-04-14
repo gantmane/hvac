@@ -1,5 +1,6 @@
 ---
 title: "Food Microbiology and Refrigeration"
+aliases: ["Food Microbiology and Refrigeration"]
 description: "Microbial growth kinetics, thermal death time relationships, pathogen control through refrigeration, danger zone management, and critical temperature limits for food safety in refrigerated storage systems"
 weight: 13
 ---

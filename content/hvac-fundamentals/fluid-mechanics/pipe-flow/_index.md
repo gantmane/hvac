@@ -1,5 +1,6 @@
 ---
 title: "Pipe Flow"
+aliases: ["Pipe Flow"]
 description: "Comprehensive analysis of pipe flow including Reynolds number, friction factors, Darcy-Weisbach equation, minor losses, and pressure drop calculations for HVAC hydronic systems"
 weight: 6
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Danger Zone 4 60c"
+aliases: ["Danger Zone 4 60c"]
 weight: 1
 ---
 

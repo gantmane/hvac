@@ -1,7 +1,9 @@
 ---
 title: "Hotel Guest Room Ventilation Systems"
+aliases: ["Hotel Guest Room Ventilation Systems"]
 description: "Ventilation strategies for hotel guest rooms balancing energy efficiency with indoor air quality, pressure control, bathroom exhaust, and smoke management."
 keywords: ["hotel ventilation", "guest room HVAC", "bathroom exhaust", "pressure control", "IAQ hospitality", "makeup air", "smoke control", "hotel air quality"]
+tags: ["hotel ventilation", "guest room HVAC", "bathroom exhaust", "pressure control", "IAQ hospitality", "makeup air", "smoke control", "hotel air quality"]
 weight: 8
 date: 2025-01-11
 draft: false

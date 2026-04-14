@@ -1,5 +1,6 @@
 ---
 title: "Cryogenic Advantages"
+aliases: ["Cryogenic Advantages"]
 description: "Technical analysis of cryogenic freezing advantages including ultra-rapid freezing rates, superior product quality, minimal drip loss, individual quick freezing capability, compact footprint, operational flexibility, and economic benefits for food processing applications"
 weight: 3
 ---

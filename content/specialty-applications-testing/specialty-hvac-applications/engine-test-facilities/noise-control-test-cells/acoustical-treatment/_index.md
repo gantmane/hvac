@@ -1,7 +1,9 @@
 ---
 title: "Acoustical Treatment for Engine Test Cells"
+aliases: ["Acoustical Treatment for Engine Test Cells"]
 description: "Comprehensive acoustical treatment strategies for engine test facilities including absorptive materials, duct silencers, vibration isolation, and fire-rated solutions."
 keywords: ["acoustical treatment", "sound absorption", "duct silencers", "vibration isolation", "fire-rated acoustics", "test cell noise control", "high-temperature acoustics", "engine test facilities"]
+tags: ["acoustical treatment", "sound absorption", "duct silencers", "vibration isolation", "fire-rated acoustics", "test cell noise control", "high-temperature acoustics", "engine test facilities"]
 weight: 2
 ---
 

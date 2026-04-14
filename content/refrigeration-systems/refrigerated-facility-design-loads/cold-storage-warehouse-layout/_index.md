@@ -1,5 +1,6 @@
 ---
 title: "Cold Storage Warehouse Layout"
+aliases: ["Cold Storage Warehouse Layout"]
 weight: 1
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Bacterial Growth and Temperature"
+aliases: ["Bacterial Growth and Temperature"]
 description: "Temperature effects on bacterial growth rates in refrigeration systems including danger zone temperatures, psychrophilic and mesophilic organisms, generation times, and Arrhenius relationships for food safety"
 weight: 1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Outdoor Air Delivery Methods for Hotel Guest Rooms"
+aliases: ["Outdoor Air Delivery Methods for Hotel Guest Rooms"]
 linkTitle: "Outdoor Air Delivery"
 description: "Engineering analysis of outdoor air delivery systems for hotel guest rooms including DOAS, mixed air economizers, corridor pressurization, and direct delivery methods."
 weight: 3

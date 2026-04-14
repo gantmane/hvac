@@ -1,7 +1,9 @@
 ---
 title: "Hospital Patient Room HVAC Design and Requirements"
+aliases: ["Hospital Patient Room HVAC Design and Requirements"]
 description: "Technical guide to patient room HVAC systems covering ASHRAE 170 requirements, air change rates, pressure relationships, filtration, humidity control, and thermal comfort per FGI guidelines."
 keywords: "patient room HVAC, ASHRAE 170 patient rooms, hospital ventilation requirements, patient room air changes, medical air filtration, healthcare humidity control, patient thermal comfort, FGI Guidelines"
+tags: ["patient room HVAC", "ASHRAE 170 patient rooms", "hospital ventilation requirements", "patient room air changes", "medical air filtration", "healthcare humidity control", "patient thermal comfort", "FGI Guidelines"]
 weight: 1
 ---
 

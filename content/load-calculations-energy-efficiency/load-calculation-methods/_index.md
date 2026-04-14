@@ -1,5 +1,6 @@
 ---
 title: "Load Calculation Methods"
+aliases: ["Load Calculation Methods"]
 description: "Comprehensive guide to HVAC load calculation methodologies including heat balance, radiant time series, and transfer function methods for accurate system sizing and energy analysis."
 weight: 1
 ---

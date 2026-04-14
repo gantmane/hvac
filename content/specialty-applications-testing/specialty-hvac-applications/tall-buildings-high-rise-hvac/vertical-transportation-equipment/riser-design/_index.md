@@ -1,7 +1,9 @@
 ---
 title: "HVAC Riser Design for High-Rise Buildings"
+aliases: ["HVAC Riser Design for High-Rise Buildings"]
 description: "Engineering principles for hydronic riser design in tall buildings including pressure calculations, shaft allocation, balancing strategies, and isolation valve placement."
 keywords: ["riser design", "hydronic risers", "high-rise HVAC", "pressure drop calculation", "riser balancing", "chilled water riser", "condenser water riser", "vertical piping"]
+tags: ["riser design", "hydronic risers", "high-rise HVAC", "pressure drop calculation", "riser balancing", "chilled water riser", "condenser water riser", "vertical piping"]
 weight: 2
 ---
 

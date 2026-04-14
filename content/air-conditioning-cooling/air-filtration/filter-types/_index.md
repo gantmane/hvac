@@ -1,7 +1,9 @@
 ---
 title: "Filter Types"
+aliases: ["Filter Types"]
 description: "Comprehensive overview of HVAC air filter types including panel, pleated, bag, cartridge, HEPA, and electronic air cleaners."
 keywords: ["filter types", "panel filter", "pleated filter", "bag filter", "HEPA filter", "electronic air cleaner", "HVAC filtration"]
+tags: ["filter types", "panel filter", "pleated filter", "bag filter", "HEPA filter", "electronic air cleaner", "HVAC filtration"]
 weight: 4
 ---
 

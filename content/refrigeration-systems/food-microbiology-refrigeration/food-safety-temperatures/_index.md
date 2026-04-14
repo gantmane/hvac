@@ -1,5 +1,6 @@
 ---
 title: "Food Safety Temperatures"
+aliases: ["Food Safety Temperatures"]
 description: "Critical temperature control requirements for food safety including FDA regulations, HACCP compliance, danger zone limits, cold chain management, and storage temperatures for perishable foods in commercial refrigeration systems."
 weight: 4
 ---

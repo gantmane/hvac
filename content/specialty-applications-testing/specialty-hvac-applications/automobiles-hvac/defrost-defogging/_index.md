@@ -1,5 +1,6 @@
 ---
 title: "Automotive Defrost and Defogging Systems"
+aliases: ["Automotive Defrost and Defogging Systems"]
 description: "Comprehensive analysis of automotive defrost and defogging systems, including physics of condensation, ice formation, heated glass technologies, HVAC air distribution strategies, and FMVSS regulatory compliance."
 keywords:
   - automotive defrost systems

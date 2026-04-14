@@ -1,7 +1,9 @@
 ---
 title: "Controlled Zone HVAC in Nuclear Facilities"
+aliases: ["Controlled Zone HVAC in Nuclear Facilities"]
 description: "Engineering analysis of controlled zone ventilation including negative pressure requirements, HEPA filtration systems, contamination monitoring, glove box integration, and high-activity area HVAC design."
 keywords: ["controlled zone HVAC", "negative pressure ventilation", "HEPA filtration", "contamination monitoring", "glove box ventilation", "hot cell HVAC", "nuclear containment", "radiological control"]
+tags: ["controlled zone HVAC", "negative pressure ventilation", "HEPA filtration", "contamination monitoring", "glove box ventilation", "hot cell HVAC", "nuclear containment", "radiological control"]
 weight: 3
 ---
 

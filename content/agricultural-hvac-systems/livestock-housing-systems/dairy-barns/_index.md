@@ -1,5 +1,6 @@
 ---
 title: "Dairy Barns"
+aliases: ["Dairy Barns"]
 description: "Environmental control design for dairy housing systems including free-stall barns, tie-stall facilities, compost bedded pack barns, and specialized areas for lactating cows, dry cows, calves, and maternity operations."
 weight: 2
 ---

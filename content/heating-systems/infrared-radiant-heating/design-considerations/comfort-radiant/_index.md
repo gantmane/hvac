@@ -1,5 +1,6 @@
 ---
 title: "Comfort Radiant"
+aliases: ["Comfort Radiant"]
 weight: 1
 ---
 

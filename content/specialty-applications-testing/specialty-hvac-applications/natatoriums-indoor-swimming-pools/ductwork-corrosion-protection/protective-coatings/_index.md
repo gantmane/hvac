@@ -1,8 +1,10 @@
 ---
 title: "Protective Coatings for Natatorium Ductwork"
+aliases: ["Protective Coatings for Natatorium Ductwork"]
 weight: 2
 description: "Engineering guide to protective coating systems for indoor pool HVAC ductwork covering epoxy, polyurethane, zinc-rich, and phenolic coatings with application standards and performance criteria."
 keywords: ["natatorium ductwork coatings", "HVAC corrosion protection", "epoxy duct coating", "SSPC coating standards", "pool dehumidifier ductwork", "phenolic coating systems", "ductwork surface preparation", "NACE coating specifications"]
+tags: ["natatorium ductwork coatings", "HVAC corrosion protection", "epoxy duct coating", "SSPC coating standards", "pool dehumidifier ductwork", "phenolic coating systems", "ductwork surface preparation", "NACE coating specifications"]
 ---
 
 ## Protective Coatings for Natatorium Ductwork

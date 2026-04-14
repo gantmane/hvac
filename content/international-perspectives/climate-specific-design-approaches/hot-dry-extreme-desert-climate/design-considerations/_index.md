@@ -1,5 +1,6 @@
 ---
 title: "Hot-Dry Desert Climate HVAC Design Considerations"
+aliases: ["Hot-Dry Desert Climate HVAC Design Considerations"]
 description: "Physics-based design strategies for HVAC systems in extreme desert environments, including solar load mitigation, evaporative cooling potential, and thermal mass."
 date: 2025-01-05
 tags: ["desert climate", "hot-dry climate", "extreme heat", "solar radiation", "evaporative cooling", "thermal mass", "psychrometrics"]

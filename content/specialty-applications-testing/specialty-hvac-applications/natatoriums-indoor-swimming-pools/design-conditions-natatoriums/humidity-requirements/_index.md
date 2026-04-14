@@ -1,7 +1,9 @@
 ---
 title: "Humidity Requirements for Natatoriums"
+aliases: ["Humidity Requirements for Natatoriums"]
 description: "Technical guide to natatorium humidity control: 50-60% RH design range, dew point analysis, evaporation calculations, and condensation prevention strategies."
 keywords: ["natatorium humidity control", "pool dehumidification", "dew point control", "condensation prevention", "evaporation rate calculation", "indoor pool HVAC", "humidity requirements", "corrosion prevention"]
+tags: ["natatorium humidity control", "pool dehumidification", "dew point control", "condensation prevention", "evaporation rate calculation", "indoor pool HVAC", "humidity requirements", "corrosion prevention"]
 weight: 2
 ---
 

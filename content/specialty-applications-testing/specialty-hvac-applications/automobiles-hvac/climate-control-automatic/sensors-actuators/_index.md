@@ -1,8 +1,10 @@
 ---
 title: "Automotive Climate Control Sensors & Actuators"
+aliases: ["Automotive Climate Control Sensors & Actuators"]
 weight: 3
 description: "Technical analysis of temperature sensors, sunload detection, humidity sensing, and electromechanical actuators in automatic climate control systems with CAN bus integration."
 keywords: ["automotive HVAC sensors", "blend door actuators", "NTC thermistors", "sunload sensor", "CAN bus climate control", "HVAC stepper motors", "cabin temperature sensing", "automotive humidity sensor"]
+tags: ["automotive HVAC sensors", "blend door actuators", "NTC thermistors", "sunload sensor", "CAN bus climate control", "HVAC stepper motors", "cabin temperature sensing", "automotive humidity sensor"]
 ---
 
 Automatic climate control systems achieve precision thermal regulation through integrated sensor networks and electromechanical actuators that continuously adjust airflow distribution and temperature mixing. The control algorithm processes multiple environmental inputs to maintain cabin comfort while compensating for solar radiation, ambient conditions, and occupant heat loads.

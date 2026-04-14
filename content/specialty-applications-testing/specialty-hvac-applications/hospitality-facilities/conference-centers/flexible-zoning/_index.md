@@ -1,7 +1,9 @@
 ---
 title: "Flexible HVAC Zoning for Conference Centers"
+aliases: ["Flexible HVAC Zoning for Conference Centers"]
 description: "Design strategies for HVAC systems serving conference spaces with operable partitions, including VAV integration, zone reconfiguration, and control sequences."
 keywords: ["flexible zoning", "operable partitions", "conference center HVAC", "VAV systems", "zone reconfiguration", "dynamic controls", "room combinations", "balancing strategies"]
+tags: ["flexible zoning", "operable partitions", "conference center HVAC", "VAV systems", "zone reconfiguration", "dynamic controls", "room combinations", "balancing strategies"]
 date: 2025-01-11
 weight: 1
 draft: false

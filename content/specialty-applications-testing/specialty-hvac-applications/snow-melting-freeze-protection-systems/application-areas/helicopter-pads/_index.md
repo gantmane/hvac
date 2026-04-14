@@ -1,7 +1,9 @@
 ---
 title: "Helipad Snow Melting Systems"
+aliases: ["Helipad Snow Melting Systems"]
 description: "Engineering guide for helicopter pad hydronic and electric snow melting systems covering FAA helipad classifications, heat load calculations, and safety-critical design."
 keywords: ["helipad snow melting", "helicopter pad heating", "FAA helipad standards", "hydronic helipad systems", "electric helipad heating", "rooftop helipad design", "helipad heat load", "aviation snow melting"]
+tags: ["helipad snow melting", "helicopter pad heating", "FAA helipad standards", "hydronic helipad systems", "electric helipad heating", "rooftop helipad design", "helipad heat load", "aviation snow melting"]
 weight: 4
 ---
 

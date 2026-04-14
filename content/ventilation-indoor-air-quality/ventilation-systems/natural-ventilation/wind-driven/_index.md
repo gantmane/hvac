@@ -1,5 +1,6 @@
 ---
 title: "Wind-Driven Natural Ventilation Systems"
+aliases: ["Wind-Driven Natural Ventilation Systems"]
 description: "Engineering principles of wind-driven ventilation including pressure coefficients, flow calculations, cross-ventilation design, and ASHRAE standards."
 date: 2025-01-05
 tags: ["natural ventilation", "wind pressure", "cross-ventilation", "pressure coefficients", "ventilation design"]

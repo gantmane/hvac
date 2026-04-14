@@ -1,5 +1,6 @@
 ---
 title: "HVAC Design for Resort and Spa Facilities"
+aliases: ["HVAC Design for Resort and Spa Facilities"]
 description: "Specialized climate control for resort spa environments including pool dehumidification, treatment room conditioning, sauna ventilation, and aromatherapy integration."
 date: "2026-01-11"
 weight: 2

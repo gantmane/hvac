@@ -1,5 +1,6 @@
 ---
 title: "Venting Design"
+aliases: ["Venting Design"]
 description: "Engineering fundamentals of combustion venting system design including draft theory, sizing methodology, capacity calculations, material selection, configuration optimization, and performance verification for safe and efficient removal of combustion products from heating appliances."
 weight: 6
 ---

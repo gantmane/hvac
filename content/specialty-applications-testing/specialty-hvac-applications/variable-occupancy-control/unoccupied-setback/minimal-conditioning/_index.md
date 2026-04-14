@@ -1,7 +1,9 @@
 ---
 title: "Minimal Conditioning Strategies for Unoccupied Spaces"
+aliases: ["Minimal Conditioning Strategies for Unoccupied Spaces"]
 description: "Engineered minimal conditioning setpoints for unoccupied periods. Covers extreme setback temperatures, equipment cycling strategies, and energy savings per ASHRAE 90.1."
 keywords: ["minimal conditioning", "unoccupied setpoints", "extreme setback", "equipment cycling", "energy savings", "ASHRAE 90.1", "temperature deadband", "building protection"]
+tags: ["minimal conditioning", "unoccupied setpoints", "extreme setback", "equipment cycling", "energy savings", "ASHRAE 90.1", "temperature deadband", "building protection"]
 weight: 2
 ---
 

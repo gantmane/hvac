@@ -1,5 +1,6 @@
 ---
 title: "Acoustic Barriers and Equipment Enclosures"
+aliases: ["Acoustic Barriers and Equipment Enclosures"]
 description: "Technical guidance on acoustic barriers and equipment enclosures for HVAC noise control, including mass law transmission loss, STC ratings, and ventilation design."
 date: 2025-01-05
 weight: 3

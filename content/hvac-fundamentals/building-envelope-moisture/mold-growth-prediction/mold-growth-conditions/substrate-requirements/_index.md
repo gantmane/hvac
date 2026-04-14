@@ -1,5 +1,6 @@
 ---
 title: "Substrate Requirements"
+aliases: ["Substrate Requirements"]
 weight: 3
 ---
 

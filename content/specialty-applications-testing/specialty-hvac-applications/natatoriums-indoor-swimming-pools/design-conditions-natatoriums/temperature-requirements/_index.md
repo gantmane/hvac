@@ -1,7 +1,9 @@
 ---
 title: "Natatorium Temperature Requirements"
+aliases: ["Natatorium Temperature Requirements"]
 description: "Engineering principles for natatorium temperature control. Covers air-water temperature relationships, pool type specifications, evaporation control, and thermal comfort standards."
 keywords: ["natatorium temperature", "pool water temperature", "indoor pool HVAC", "evaporation control", "thermal comfort", "pool air temperature", "ASHRAE natatorium design"]
+tags: ["natatorium temperature", "pool water temperature", "indoor pool HVAC", "evaporation control", "thermal comfort", "pool air temperature", "ASHRAE natatorium design"]
 weight: 1
 ---
 

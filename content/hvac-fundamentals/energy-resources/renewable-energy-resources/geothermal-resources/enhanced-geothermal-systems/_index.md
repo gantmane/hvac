@@ -1,7 +1,9 @@
 ---
 title: "Enhanced Geothermal Systems Engineering"
+aliases: ["Enhanced Geothermal Systems Engineering"]
 description: "Technical analysis of EGS technology including hot dry rock reservoirs, hydraulic stimulation, closed-loop systems, and heat extraction modeling for baseload power generation."
 keywords: ["enhanced geothermal systems", "hot dry rock", "hydraulic stimulation", "EGS power generation", "closed-loop geothermal", "engineered reservoirs", "geothermal energy", "renewable baseload power"]
+tags: ["enhanced geothermal systems", "hot dry rock", "hydraulic stimulation", "EGS power generation", "closed-loop geothermal", "engineered reservoirs", "geothermal energy", "renewable baseload power"]
 weight: 5
 ---
 

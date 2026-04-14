@@ -1,5 +1,6 @@
 ---
 title: "Recirculation Ratio"
+aliases: ["Recirculation Ratio"]
 description: "Comprehensive analysis of recirculation ratio in liquid overfeed refrigeration systems including optimal ratio selection, heat transfer relationships, energy optimization, and application-specific design criteria for industrial refrigeration systems."
 weight: 2
 ---

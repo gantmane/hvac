@@ -1,5 +1,6 @@
 ---
 title: "Legend Development"
+aliases: ["Legend Development"]
 weight: 3
 ---
 

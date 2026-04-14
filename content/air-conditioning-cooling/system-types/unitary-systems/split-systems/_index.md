@@ -1,5 +1,6 @@
 ---
 title: "Split Systems"
+aliases: ["Split Systems"]
 weight: 1
 ---
 

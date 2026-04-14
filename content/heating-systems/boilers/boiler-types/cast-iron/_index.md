@@ -1,8 +1,10 @@
 ---
 title: "Cast Iron Sectional Boilers"
+aliases: ["Cast Iron Sectional Boilers"]
 weight: 3
 description: "Cast iron boilers assembled from sections provide corrosion resistance, thermal mass, and longevity for residential and light commercial low-pressure heating applications."
 keywords: ["cast iron boiler", "sectional boiler", "push nipple assembly", "wet base boiler", "dry base boiler", "corrosion resistance", "thermal mass", "low pressure steam"]
+tags: ["cast iron boiler", "sectional boiler", "push nipple assembly", "wet base boiler", "dry base boiler", "corrosion resistance", "thermal mass", "low pressure steam"]
 ---
 
 ## Overview

@@ -1,7 +1,9 @@
 ---
 title: "Exhaust Duct Design for Industrial Ventilation Systems"
+aliases: ["Exhaust Duct Design for Industrial Ventilation Systems"]
 description: "Engineering principles for industrial exhaust duct sizing, material selection, velocity calculations, and pressure loss analysis based on ACGIH standards and fluid mechanics."
 keywords: "exhaust duct design, industrial ventilation duct, transport velocity, duct sizing calculation, ACGIH duct design, friction loss, velocity pressure, duct materials, exhaust system design"
+tags: ["exhaust duct design", "industrial ventilation duct", "transport velocity", "duct sizing calculation", "ACGIH duct design", "friction loss", "velocity pressure", "duct materials", "exhaust system design"]
 weight: 4
 ---
 

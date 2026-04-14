@@ -1,5 +1,6 @@
 ---
 title: "Wireless Sensor Networks"
+aliases: ["Wireless Sensor Networks"]
 weight: 1
 ---
 

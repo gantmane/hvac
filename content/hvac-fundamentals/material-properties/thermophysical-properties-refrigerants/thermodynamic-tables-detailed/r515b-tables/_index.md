@@ -1,5 +1,6 @@
 ---
 title: "R515b Tables"
+aliases: ["R515b Tables"]
 weight: 8
 ---
 

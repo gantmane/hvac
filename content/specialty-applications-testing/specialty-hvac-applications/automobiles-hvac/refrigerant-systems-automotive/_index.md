@@ -1,7 +1,9 @@
 ---
 title: "Automotive Refrigerant Systems Overview"
+aliases: ["Automotive Refrigerant Systems Overview"]
 description: "Evolution of automotive refrigerants from R-12 to R-1234yf, system components, thermodynamic performance requirements, and EPA environmental regulations."
 keywords: ["automotive refrigerant", "R-1234yf", "R-134a", "mobile air conditioning", "SAE J2843", "vapor compression cycle", "GWP regulations", "MAC systems"]
+tags: ["automotive refrigerant", "R-1234yf", "R-134a", "mobile air conditioning", "SAE J2843", "vapor compression cycle", "GWP regulations", "MAC systems"]
 weight: 8
 ---
 

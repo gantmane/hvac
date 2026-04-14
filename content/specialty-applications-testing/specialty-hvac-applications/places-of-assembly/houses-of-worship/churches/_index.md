@@ -1,7 +1,9 @@
 ---
 title: "HVAC Systems for Church Buildings"
+aliases: ["HVAC Systems for Church Buildings"]
 description: "Engineering guide to church HVAC design covering thermal stratification, organ humidity control, stained glass protection, and zoning for nave, sanctuary, and choir areas."
 keywords: ["church HVAC", "nave thermal stratification", "pipe organ humidity", "stained glass climate control", "worship space ventilation", "sanctuary zoning", "historic church preservation", "pew zone heating"]
+tags: ["church HVAC", "nave thermal stratification", "pipe organ humidity", "stained glass climate control", "worship space ventilation", "sanctuary zoning", "historic church preservation", "pew zone heating"]
 weight: 1
 ---
 

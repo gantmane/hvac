@@ -1,5 +1,6 @@
 ---
 title: "Human Thermal Comfort Advanced"
+aliases: ["Human Thermal Comfort Advanced"]
 weight: 1
 ---
 

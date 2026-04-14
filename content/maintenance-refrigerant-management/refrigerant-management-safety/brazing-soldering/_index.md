@@ -1,5 +1,6 @@
 ---
 title: "Brazing Soldering"
+aliases: ["Brazing Soldering"]
 weight: 3
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Vibration Control for Wine Cellar HVAC Systems"
+aliases: ["Vibration Control for Wine Cellar HVAC Systems"]
 description: "Technical analysis of vibration isolation for wine storage including equipment mounting, sediment disturbance physics, low-vibration compressor selection, and isolation system design."
 keywords:
   - wine cellar vibration control

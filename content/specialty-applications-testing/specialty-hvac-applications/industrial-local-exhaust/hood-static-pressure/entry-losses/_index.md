@@ -1,7 +1,9 @@
 ---
 title: "Hood Entry Losses in Industrial Exhaust Systems"
+aliases: ["Hood Entry Losses in Industrial Exhaust Systems"]
 description: "Technical analysis of hood entry loss coefficients, vena contracta effects, and streamlined vs. sharp-edge entry design for industrial local exhaust ventilation."
 keywords: ["hood entry loss", "vena contracta", "entry loss coefficient", "industrial exhaust", "ACGIH hood design", "local exhaust ventilation", "pressure loss calculation", "hood static pressure"]
+tags: ["hood entry loss", "vena contracta", "entry loss coefficient", "industrial exhaust", "ACGIH hood design", "local exhaust ventilation", "pressure loss calculation", "hood static pressure"]
 weight: 1
 ---
 

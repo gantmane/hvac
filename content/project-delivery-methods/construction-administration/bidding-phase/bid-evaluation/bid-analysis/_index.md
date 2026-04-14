@@ -1,5 +1,6 @@
 ---
 title: "Bid Analysis"
+aliases: ["Bid Analysis"]
 description: "Detailed procedures for HVAC bid analysis including bid tabulation, mathematical verification, bid leveling, alternate evaluation, and contractor qualification assessment."
 weight: 2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Sensible Heating"
+aliases: ["Sensible Heating"]
 description: "Comprehensive analysis of sensible heating processes in HVAC systems including thermodynamic principles, heating coil design, heat transfer calculations, and psychrometric analysis for air conditioning applications"
 weight: 1
 ---

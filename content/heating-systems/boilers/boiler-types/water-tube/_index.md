@@ -1,8 +1,10 @@
 ---
 title: "Water-Tube Boilers: High-Pressure Steam Generation"
+aliases: ["Water-Tube Boilers: High-Pressure Steam Generation"]
 weight: 2
 description: "Comprehensive analysis of water-tube boiler design including natural and forced circulation, steam drum separation, tube configurations, and high-pressure industrial applications."
 keywords: ["water-tube boiler", "steam drum design", "natural circulation", "forced circulation", "ASME Section I", "high-pressure boiler", "industrial steam", "boiler circulation"]
+tags: ["water-tube boiler", "steam drum design", "natural circulation", "forced circulation", "ASME Section I", "high-pressure boiler", "industrial steam", "boiler circulation"]
 ---
 
 ## Fundamental Operating Principles

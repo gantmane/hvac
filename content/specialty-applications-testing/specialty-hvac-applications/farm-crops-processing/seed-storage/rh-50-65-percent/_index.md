@@ -1,9 +1,11 @@
 ---
 title: "Seed Storage Humidity Control: 50-65% RH Systems"
+aliases: ["Seed Storage Humidity Control: 50-65% RH Systems"]
 description: "Engineering guide to maintaining 50-65% RH for seed storage facilities. Physics-based analysis of moisture equilibrium, HVAC design, and preservation systems."
 date: 2026-01-11
 weight: 3
 keywords: ["seed storage humidity", "50-65 percent RH", "seed moisture equilibrium", "grain storage HVAC", "agricultural humidity control", "seed preservation systems", "moisture sorption isotherms", "dehumidification seed storage"]
+tags: ["seed storage humidity", "50-65 percent RH", "seed moisture equilibrium", "grain storage HVAC", "agricultural humidity control", "seed preservation systems", "moisture sorption isotherms", "dehumidification seed storage"]
 ---
 
 ## Physical Principles of Seed Storage Humidity Control

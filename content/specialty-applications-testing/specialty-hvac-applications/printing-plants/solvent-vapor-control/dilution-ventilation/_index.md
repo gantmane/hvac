@@ -1,5 +1,6 @@
 ---
 title: "Dilution Ventilation for Solvent Vapor Control"
+aliases: ["Dilution Ventilation for Solvent Vapor Control"]
 description: "Engineering analysis of dilution ventilation calculations, makeup air requirements, LEL concentration management, and safety factors for printing facility solvent vapor control."
 date: 2025-01-11
 category: "Specialty HVAC Applications"

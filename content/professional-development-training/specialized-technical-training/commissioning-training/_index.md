@@ -1,7 +1,9 @@
 ---
 title: "HVAC Commissioning Training"
+aliases: ["HVAC Commissioning Training"]
 description: "Professional training in HVAC commissioning process, functional performance testing, trend analysis, and retro-commissioning techniques aligned with ASHRAE Guideline 0 standards."
 keywords: ["hvac commissioning", "commissioning training", "functional performance testing", "ASHRAE Guideline 0", "building commissioning", "retro-commissioning", "trend analysis", "commissioning process", "system verification", "performance testing"]
+tags: ["hvac commissioning", "commissioning training", "functional performance testing", "ASHRAE Guideline 0", "building commissioning", "retro-commissioning", "trend analysis", "commissioning process", "system verification", "performance testing"]
 draft: false
 weight: 3
 ---

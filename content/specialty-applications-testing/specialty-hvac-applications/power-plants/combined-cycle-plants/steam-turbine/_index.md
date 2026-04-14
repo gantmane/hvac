@@ -1,5 +1,6 @@
 ---
 title: "Steam Turbine Building HVAC Design"
+aliases: ["Steam Turbine Building HVAC Design"]
 description: "Technical design for steam turbine building HVAC systems including turbine hall ventilation, heat load calculations, condenser area cooling, and auxiliary equipment climate control."
 keywords:
   - steam turbine building HVAC

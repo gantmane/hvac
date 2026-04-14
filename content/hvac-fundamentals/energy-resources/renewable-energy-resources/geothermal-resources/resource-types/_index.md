@@ -1,5 +1,6 @@
 ---
 title: "Geothermal Resource Types"
+aliases: ["Geothermal Resource Types"]
 description: "Classification of geothermal resources by enthalpy, temperature, and extraction methods including low, medium, and high enthalpy systems for HVAC applications."
 date: 2026-01-11
 weight: 1

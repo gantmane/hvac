@@ -1,7 +1,9 @@
 ---
 title: "Pipe Insulation for Domestic Hot Water Systems"
+aliases: ["Pipe Insulation for Domestic Hot Water Systems"]
 description: "Technical guide to pipe insulation for DHW systems covering heat loss calculations, R-value requirements, material selection, and ASHRAE 90.1 code compliance."
 keywords: ["pipe insulation", "R-value", "heat loss calculation", "ASHRAE 90.1", "domestic hot water insulation", "fiberglass insulation", "elastomeric foam", "thermal conductivity"]
+tags: ["pipe insulation", "R-value", "heat loss calculation", "ASHRAE 90.1", "domestic hot water insulation", "fiberglass insulation", "elastomeric foam", "thermal conductivity"]
 weight: 4
 ---
 

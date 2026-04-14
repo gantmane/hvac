@@ -1,7 +1,9 @@
 ---
 title: "Spray Dryer Chamber Design Principles"
+aliases: ["Spray Dryer Chamber Design Principles"]
 description: "Engineering fundamentals of spray dryer chamber design including geometry optimization, residence time calculations, and particle trajectory analysis for industrial drying."
 keywords: ["spray dryer chamber design", "drying chamber geometry", "particle residence time", "cyclone separation", "spray dryer sizing", "industrial drying systems", "atomization chamber", "evaporation chamber"]
+tags: ["spray dryer chamber design", "drying chamber geometry", "particle residence time", "cyclone separation", "spray dryer sizing", "industrial drying systems", "atomization chamber", "evaporation chamber"]
 date: 2025-01-11
 weight: 2
 draft: false

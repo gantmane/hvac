@@ -1,5 +1,6 @@
 ---
 title: "Advanced Sensing Technologies"
+aliases: ["Advanced Sensing Technologies"]
 description: "Advanced sensing technologies for HVAC systems including IoT sensors, wireless monitoring networks, fault detection diagnostics, indoor environmental quality sensing, MEMS devices, and emerging sensor platforms for predictive maintenance and optimal building performance."
 weight: 9
 ---

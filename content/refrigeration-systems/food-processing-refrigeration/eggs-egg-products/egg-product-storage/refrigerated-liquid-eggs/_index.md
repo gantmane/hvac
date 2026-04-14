@@ -1,5 +1,6 @@
 ---
 title: "Refrigerated Liquid Eggs"
+aliases: ["Refrigerated Liquid Eggs"]
 description: "Technical design and operation requirements for refrigerated liquid egg product storage systems, including temperature control, tank design, agitation systems, CIP integration, and USDA regulatory compliance for commercial egg processing facilities."
 weight: 3
 ---

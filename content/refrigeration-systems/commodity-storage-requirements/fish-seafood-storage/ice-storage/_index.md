@@ -1,5 +1,6 @@
 ---
 title: "Ice Storage"
+aliases: ["Ice Storage"]
 weight: 3
 ---
 

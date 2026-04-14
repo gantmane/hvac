@@ -1,7 +1,9 @@
 ---
 title: "Ground Source Heat Pump Design Considerations"
+aliases: ["Ground Source Heat Pump Design Considerations"]
 description: "Comprehensive technical guide covering ground loop sizing, load calculations, antifreeze selection, pumping energy, entering water temperature design, and annual energy balance for geothermal heat pump systems."
 keywords: "ground source heat pump design, geothermal loop sizing, GSHP load calculations, ground loop antifreeze, entering water temperature, annual energy balance, geothermal heat exchanger design"
+tags: ["ground source heat pump design", "geothermal loop sizing", "GSHP load calculations", "ground loop antifreeze", "entering water temperature", "annual energy balance", "geothermal heat exchanger design"]
 weight: 3
 ---
 

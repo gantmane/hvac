@@ -1,8 +1,10 @@
 ---
 title: "Humidity Control for Static Prevention"
+aliases: ["Humidity Control for Static Prevention"]
 weight: 1
 description: "Physics-based analysis of humidity control as static electricity mitigation in printing, covering surface resistivity-RH relationships, optimal humidity ranges for paper and film substrates, and humidification system selection for printing plant applications."
 keywords: ["printing humidity control", "surface resistivity humidity", "static prevention RH", "paper moisture conductivity", "humidification printing", "static dissipation humidity", "printing plant humidity", "charge decay time"]
+tags: ["printing humidity control", "surface resistivity humidity", "static prevention RH", "paper moisture conductivity", "humidification printing", "static dissipation humidity", "printing plant humidity", "charge decay time"]
 seo_title: "Humidity Control for Static Prevention in Printing Plants"
 seo_description: "Engineering guide to humidity control for static electricity prevention in printing, analyzing surface resistivity vs RH, optimal ranges 45-55% RH, and humidification system selection."
 ---

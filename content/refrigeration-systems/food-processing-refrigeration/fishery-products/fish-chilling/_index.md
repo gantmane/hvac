@@ -1,5 +1,6 @@
 ---
 title: "Fish Chilling"
+aliases: ["Fish Chilling"]
 description: "Fish chilling methods including ice chilling, slurry ice systems, and refrigerated seawater RSW for rapid temperature reduction. Chilling rate calculations, heat transfer analysis, and equipment selection for fishery processing and vessel applications."
 weight: 1
 ---

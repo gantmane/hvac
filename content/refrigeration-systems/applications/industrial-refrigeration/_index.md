@@ -1,8 +1,10 @@
 ---
 title: "Industrial Refrigeration"
+aliases: ["Industrial Refrigeration"]
 weight: 2
 description: "Comprehensive guide to industrial refrigeration systems including ammonia systems, cascade refrigeration, process cooling, cold storage warehouses, blast freezing, ice production, and IIAR standards compliance for large-scale refrigeration applications."
 keywords: ["industrial refrigeration", "ammonia refrigeration", "cascade refrigeration systems", "cold storage warehouse design", "blast freezing systems", "ice production equipment", "brewery cooling", "IIAR standards", "PSM compliance", "industrial refrigeration sizing"]
+tags: ["industrial refrigeration", "ammonia refrigeration", "cascade refrigeration systems", "cold storage warehouse design", "blast freezing systems", "ice production equipment", "brewery cooling", "IIAR standards", "PSM compliance", "industrial refrigeration sizing"]
 ---
 
 ## Overview of Industrial Refrigeration

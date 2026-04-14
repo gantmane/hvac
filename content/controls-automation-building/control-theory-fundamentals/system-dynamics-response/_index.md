@@ -1,5 +1,6 @@
 ---
 title: "System Dynamics and Response"
+aliases: ["System Dynamics and Response"]
 description: "Analysis of HVAC system dynamic behavior including first-order and second-order responses, time constants, damping ratios, dead time effects, and transient performance characterization."
 date: 2026-01-04
 weight: 9

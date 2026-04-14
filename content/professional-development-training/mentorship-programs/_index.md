@@ -1,7 +1,9 @@
 ---
 title: "HVAC Mentorship Programs and Career Development"
+aliases: ["HVAC Mentorship Programs and Career Development"]
 description: "Structured mentorship frameworks for HVAC professionals including formal programs, knowledge transfer methods, and career advancement pathways."
 keywords: ["HVAC mentorship", "technician training", "knowledge transfer", "career development", "ASHRAE mentorship", "professional development", "apprenticeship programs", "technical mentoring"]
+tags: ["HVAC mentorship", "technician training", "knowledge transfer", "career development", "ASHRAE mentorship", "professional development", "apprenticeship programs", "technical mentoring"]
 date: 2025-01-05
 draft: false
 weight: 8

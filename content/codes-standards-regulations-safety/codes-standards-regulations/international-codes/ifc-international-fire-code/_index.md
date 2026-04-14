@@ -1,7 +1,9 @@
 ---
 title: "International Fire Code HVAC Requirements"
+aliases: ["International Fire Code HVAC Requirements"]
 description: "Comprehensive guide to IFC fire protection requirements for HVAC systems including fire dampers, smoke control, emergency ventilation, and hazardous materials handling."
 keywords: ["international fire code", "fire dampers", "smoke control systems", "emergency ventilation", "IFC HVAC requirements", "fire protection HVAC", "NFPA coordination", "hazardous materials HVAC"]
+tags: ["international fire code", "fire dampers", "smoke control systems", "emergency ventilation", "IFC HVAC requirements", "fire protection HVAC", "NFPA coordination", "hazardous materials HVAC"]
 weight: 4
 ---
 

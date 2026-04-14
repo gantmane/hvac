@@ -1,7 +1,9 @@
 ---
 title: "Humidity Control for Paper Dimensional Stability"
+aliases: ["Humidity Control for Paper Dimensional Stability"]
 description: "Engineering analysis of humidity control in sheet-fed printing covering paper hygroexpansion physics, dimensional change calculations, RH tolerance requirements, and precision humidity control systems."
 keywords: ["paper dimensional stability", "humidity control printing", "hygroexpansion coefficient", "paper moisture content", "sheet-fed humidity", "registration tolerance", "RH control precision", "paper conditioning HVAC"]
+tags: ["paper dimensional stability", "humidity control printing", "hygroexpansion coefficient", "paper moisture content", "sheet-fed humidity", "registration tolerance", "RH control precision", "paper conditioning HVAC"]
 weight: 1
 ---
 

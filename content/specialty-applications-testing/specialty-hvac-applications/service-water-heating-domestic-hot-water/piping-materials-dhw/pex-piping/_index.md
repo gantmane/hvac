@@ -1,7 +1,9 @@
 ---
 title: "PEX Piping for Domestic Hot Water Systems"
+aliases: ["PEX Piping for Domestic Hot Water Systems"]
 description: "Technical analysis of cross-linked polyethylene (PEX) piping for DHW applications including thermal expansion, pressure ratings, and connection methods per ASTM standards."
 keywords: ["PEX piping", "cross-linked polyethylene", "domestic hot water", "PEX-A PEX-B PEX-C", "thermal expansion", "plumbing codes", "ASTM F876", "DHW distribution"]
+tags: ["PEX piping", "cross-linked polyethylene", "domestic hot water", "PEX-A PEX-B PEX-C", "thermal expansion", "plumbing codes", "ASTM F876", "DHW distribution"]
 weight: 3
 ---
 

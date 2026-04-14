@@ -1,7 +1,9 @@
 ---
 title: "Microfilm Storage HVAC Requirements"
+aliases: ["Microfilm Storage HVAC Requirements"]
 description: "Precision environmental control for microfilm preservation including silver halide, diazo, and vesicular film formats with ANSI/AIIM storage standards compliance."
 keywords: ["microfilm storage", "silver halide preservation", "diazo microfilm", "vesicular film", "archive HVAC", "microfilm vault", "film preservation", "ANSI AIIM standards"]
+tags: ["microfilm storage", "silver halide preservation", "diazo microfilm", "vesicular film", "archive HVAC", "microfilm vault", "film preservation", "ANSI AIIM standards"]
 weight: 4
 ---
 

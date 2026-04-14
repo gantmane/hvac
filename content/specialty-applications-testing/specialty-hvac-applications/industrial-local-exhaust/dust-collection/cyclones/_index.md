@@ -1,7 +1,9 @@
 ---
 title: "Cyclone Dust Collectors"
+aliases: ["Cyclone Dust Collectors"]
 description: "Cyclone dust collectors use centrifugal force to separate particles from airstreams. Covers operating principles, efficiency curves, pressure drop, and applications."
 keywords: ["cyclone dust collector", "centrifugal separation", "particle collection efficiency", "cyclone pressure drop", "industrial dust control", "inertial separator", "multicyclone", "high efficiency cyclone"]
+tags: ["cyclone dust collector", "centrifugal separation", "particle collection efficiency", "cyclone pressure drop", "industrial dust control", "inertial separator", "multicyclone", "high efficiency cyclone"]
 weight: 1
 ---
 

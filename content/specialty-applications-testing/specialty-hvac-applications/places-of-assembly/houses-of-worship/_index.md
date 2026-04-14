@@ -1,7 +1,9 @@
 ---
 title: "HVAC for Houses of Worship: Design Considerations"
+aliases: ["HVAC for Houses of Worship: Design Considerations"]
 description: "Comprehensive guide to HVAC system design for churches, synagogues, mosques, and temples addressing high ceilings, intermittent occupancy, and acoustic requirements."
 keywords: ["houses of worship HVAC", "church HVAC systems", "intermittent occupancy", "high ceiling ventilation", "acoustic HVAC design", "thermal mass effects", "variable occupancy loads", "worship space climate control"]
+tags: ["houses of worship HVAC", "church HVAC systems", "intermittent occupancy", "high ceiling ventilation", "acoustic HVAC design", "thermal mass effects", "variable occupancy loads", "worship space climate control"]
 weight: 7
 ---
 

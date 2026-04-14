@@ -1,7 +1,9 @@
 ---
 title: "Renewable Portfolio Standards and HVAC Systems"
+aliases: ["Renewable Portfolio Standards and HVAC Systems"]
 description: "State RPS requirements mandating renewable electricity percentages directly impact HVAC energy costs, equipment selection, and building electrification strategies."
 keywords: ["renewable portfolio standards", "RPS compliance", "renewable energy credits", "building electrification", "state energy mandates", "HVAC renewable energy", "clean energy standards", "electricity decarbonization"]
+tags: ["renewable portfolio standards", "RPS compliance", "renewable energy credits", "building electrification", "state energy mandates", "HVAC renewable energy", "clean energy standards", "electricity decarbonization"]
 weight: 3
 ---
 

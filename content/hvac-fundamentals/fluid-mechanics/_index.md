@@ -1,5 +1,6 @@
 ---
 title: "Fluid Mechanics"
+aliases: ["Fluid Mechanics"]
 description: "Engineering fundamentals of fluid mechanics for HVAC systems, including fluid statics, kinematics, conservation equations, pipe flow analysis, dimensional analysis, and pump-fan performance characteristics."
 weight: 3
 ---

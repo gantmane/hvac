@@ -1,7 +1,9 @@
 ---
 title: "Petroleum Distribution Infrastructure"
+aliases: ["Petroleum Distribution Infrastructure"]
 description: "Comprehensive overview of petroleum distribution systems including pipelines, marine transport, storage terminals, and local delivery methods for heating oil supply."
 keywords: ["petroleum distribution", "pipeline infrastructure", "heating oil delivery", "fuel storage tanks", "petroleum transport", "fuel terminal operations", "oil supply chain", "petroleum logistics"]
+tags: ["petroleum distribution", "pipeline infrastructure", "heating oil delivery", "fuel storage tanks", "petroleum transport", "fuel terminal operations", "oil supply chain", "petroleum logistics"]
 weight: 6
 ---
 

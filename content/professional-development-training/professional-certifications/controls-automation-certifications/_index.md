@@ -1,7 +1,9 @@
 ---
 title: "HVAC Controls and Automation Certifications"
+aliases: ["HVAC Controls and Automation Certifications"]
 description: "Comprehensive guide to building automation certifications including BACnet, Niagara Framework, and manufacturer-specific credentials for HVAC control systems professionals."
 keywords: ["building automation certification", "BACnet certification", "Niagara Framework", "HVAC controls training", "DDC certification", "BMS certification", "control system programming", "building automation systems"]
+tags: ["building automation certification", "BACnet certification", "Niagara Framework", "HVAC controls training", "DDC certification", "BMS certification", "control system programming", "building automation systems"]
 date: 2026-01-05
 weight: 4
 seo_title: "HVAC Controls & Automation Certification Guide - BACnet, Niagara"

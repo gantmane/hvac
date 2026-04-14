@@ -1,8 +1,10 @@
 ---
 title: "Collection-Specific Environmental Requirements"
+aliases: ["Collection-Specific Environmental Requirements"]
 seo_title: "Museum Collection Climate Control Requirements"
 description: "Environmental parameters for organic, inorganic, and mixed museum collections. ASHRAE-based temperature and humidity specifications, risk assessment methods, and zoning strategies."
 keywords: ["museum environmental control", "collection preservation", "organic materials climate", "inorganic artifacts storage", "mixed collection HVAC", "ASHRAE museum standards", "relative humidity control", "collection risk assessment"]
+tags: ["museum environmental control", "collection preservation", "organic materials climate", "inorganic artifacts storage", "mixed collection HVAC", "ASHRAE museum standards", "relative humidity control", "collection risk assessment"]
 weight: 1
 ---
 

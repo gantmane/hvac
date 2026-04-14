@@ -1,5 +1,6 @@
 ---
 title: "Lumber Drying Kilns: Moisture Control and HVAC Systems"
+aliases: ["Lumber Drying Kilns: Moisture Control and HVAC Systems"]
 description: "Technical guide to lumber kiln HVAC systems including conventional, dehumidification, vacuum, and solar kilns. Covers drying schedules, moisture content calculations, and defect prevention strategies."
 keywords:
   - lumber drying kilns

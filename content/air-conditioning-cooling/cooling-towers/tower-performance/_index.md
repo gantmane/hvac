@@ -1,8 +1,10 @@
 ---
 title: "Cooling Tower Performance Metrics and Rating Standards"
+aliases: ["Cooling Tower Performance Metrics and Rating Standards"]
 weight: 2
 description: "Technical analysis of cooling tower performance including approach temperature, range, wet-bulb effects, fill media effectiveness, and CTI rating conditions for capacity determination."
 keywords: ["cooling tower performance", "approach temperature", "wet-bulb temperature", "fill media effectiveness", "tower range", "CTI rating", "cooling capacity", "tower efficiency"]
+tags: ["cooling tower performance", "approach temperature", "wet-bulb temperature", "fill media effectiveness", "tower range", "CTI rating", "cooling capacity", "tower efficiency"]
 ---
 
 ## Fundamental Performance Parameters

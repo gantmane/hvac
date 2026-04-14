@@ -1,5 +1,6 @@
 ---
 title: "HVAC Fans and Blowers"
+aliases: ["HVAC Fans and Blowers"]
 description: "Comprehensive guide to HVAC fans including types, performance characteristics, fan laws, selection criteria, and applications in air conditioning systems."
 date: "2026-01-04"
 weight: 30

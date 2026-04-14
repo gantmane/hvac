@@ -1,5 +1,6 @@
 ---
 title: "Proportional Control"
+aliases: ["Proportional Control"]
 description: "Detailed analysis of proportional control including gain calculation, throttling range, offset characteristics, direct and reverse acting modes, and HVAC applications for temperature and pressure control."
 date: 2026-01-04
 weight: 1

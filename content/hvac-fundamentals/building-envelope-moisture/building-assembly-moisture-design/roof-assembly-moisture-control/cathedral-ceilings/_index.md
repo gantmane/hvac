@@ -1,5 +1,6 @@
 ---
 title: "Cathedral Ceilings"
+aliases: ["Cathedral Ceilings"]
 description: "Engineering principles, vapor control strategies, thermal performance analysis, and moisture-safe construction methods for vented and unvented cathedral ceiling assemblies in conditioned spaces"
 weight: 3
 ---

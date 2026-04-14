@@ -1,7 +1,9 @@
 ---
 title: "Tunnel Purge Ventilation Modes"
+aliases: ["Tunnel Purge Ventilation Modes"]
 description: "Technical analysis of post-incident purge ventilation for tunnels including air change calculations, smoke clearance physics, contaminant monitoring, and visibility restoration criteria."
 keywords: ["tunnel purge ventilation", "smoke clearance calculation", "air change rate", "post-incident ventilation", "tunnel contaminant removal", "visibility restoration", "NFPA 502 purge", "tunnel reopening criteria"]
+tags: ["tunnel purge ventilation", "smoke clearance calculation", "air change rate", "post-incident ventilation", "tunnel contaminant removal", "visibility restoration", "NFPA 502 purge", "tunnel reopening criteria"]
 weight: 4
 ---
 

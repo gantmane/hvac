@@ -1,7 +1,9 @@
 ---
 title: "Data Center Liquid Cooling Systems"
+aliases: ["Data Center Liquid Cooling Systems"]
 description: "Technical analysis of liquid cooling technologies for high-density data centers including direct-to-chip, immersion cooling, and hybrid architectures per ASHRAE TC 9.9."
 keywords: ["liquid cooling", "direct-to-chip cooling", "immersion cooling", "rear door heat exchanger", "data center thermal management", "cold plate cooling", "two-phase cooling", "coolant distribution unit"]
+tags: ["liquid cooling", "direct-to-chip cooling", "immersion cooling", "rear door heat exchanger", "data center thermal management", "cold plate cooling", "two-phase cooling", "coolant distribution unit"]
 weight: 3
 ---
 

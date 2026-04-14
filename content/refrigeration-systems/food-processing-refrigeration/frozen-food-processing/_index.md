@@ -1,5 +1,6 @@
 ---
 title: "Frozen Food Processing"
+aliases: ["Frozen Food Processing"]
 weight: 7
 ---
 

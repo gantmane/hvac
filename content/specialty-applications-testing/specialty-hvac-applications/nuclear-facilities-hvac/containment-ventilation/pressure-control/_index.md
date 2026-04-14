@@ -1,7 +1,9 @@
 ---
 title: "Pressure Control in Nuclear Containment Buildings"
+aliases: ["Pressure Control in Nuclear Containment Buildings"]
 description: "Critical pressure control systems for nuclear containment including negative pressure maintenance, differential monitoring, leak rate testing, and emergency relief protocols."
 keywords: ["containment pressure control", "negative pressure maintenance", "pressure differential monitoring", "containment leak testing", "air lock systems", "nuclear HVAC safety", "pressure relief systems", "containment isolation"]
+tags: ["containment pressure control", "negative pressure maintenance", "pressure differential monitoring", "containment leak testing", "air lock systems", "nuclear HVAC safety", "pressure relief systems", "containment isolation"]
 weight: 4
 ---
 

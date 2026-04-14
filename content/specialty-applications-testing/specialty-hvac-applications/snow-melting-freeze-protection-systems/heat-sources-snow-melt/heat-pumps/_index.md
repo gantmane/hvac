@@ -1,7 +1,9 @@
 ---
 title: "Heat Pumps for Snow Melting Systems"
+aliases: ["Heat Pumps for Snow Melting Systems"]
 description: "Engineering analysis of heat pump applications in snow melting systems including COP performance, thermodynamic limitations, and comparison of air-source versus ground-source heat pumps."
 keywords: ["heat pump snow melting", "ground source heat pump snow melt", "air source heat pump COP", "geothermal snow melting", "heat pump performance cold weather", "GSHP snow melt", "ASHP limitations", "heat pump sizing"]
+tags: ["heat pump snow melting", "ground source heat pump snow melt", "air source heat pump COP", "geothermal snow melting", "heat pump performance cold weather", "GSHP snow melt", "ASHP limitations", "heat pump sizing"]
 weight: 2
 ---
 

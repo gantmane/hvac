@@ -1,7 +1,9 @@
 ---
 title: "Portable Classroom HVAC Systems: Design and IAQ Solutions"
+aliases: ["Portable Classroom HVAC Systems: Design and IAQ Solutions"]
 description: "Technical guide to HVAC design for portable classrooms including self-contained systems, ventilation challenges, moisture control, and indoor air quality strategies for modular educational buildings per ASHRAE 62.1."
 keywords: ["portable classroom HVAC", "modular building ventilation", "self-contained HVAC units", "classroom IAQ", "ASHRAE 62.1 portable buildings", "moisture control modular", "packaged rooftop units", "temporary classroom ventilation"]
+tags: ["portable classroom HVAC", "modular building ventilation", "self-contained HVAC units", "classroom IAQ", "ASHRAE 62.1 portable buildings", "moisture control modular", "packaged rooftop units", "temporary classroom ventilation"]
 weight: 11
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Commissioning Integration in HVAC Project Delivery"
+aliases: ["Commissioning Integration in HVAC Project Delivery"]
 description: "Comprehensive commissioning process integration covering OPR, BOD, commissioning plans, and construction phase verification for HVAC systems."
 date: "2026-01-04"
 author: "Evgeniy Gantman"

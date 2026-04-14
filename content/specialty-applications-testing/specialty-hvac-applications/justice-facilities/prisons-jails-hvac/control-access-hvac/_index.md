@@ -1,7 +1,9 @@
 ---
 title: "HVAC Access Control in Correctional Facilities"
+aliases: ["HVAC Access Control in Correctional Facilities"]
 description: "Technical requirements for HVAC equipment access control in prisons and jails including mechanical room security, escort protocols, tool control, and integration with facility security systems."
 keywords: ["correctional HVAC access", "mechanical room security", "prison HVAC maintenance", "jail equipment access", "HVAC security integration", "sally port HVAC", "controlled access zones", "detention facility HVAC"]
+tags: ["correctional HVAC access", "mechanical room security", "prison HVAC maintenance", "jail equipment access", "HVAC security integration", "sally port HVAC", "controlled access zones", "detention facility HVAC"]
 weight: 2
 ---
 

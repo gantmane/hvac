@@ -1,7 +1,9 @@
 ---
 title: "HVAC Systems for Mosques and Islamic Prayer Spaces"
+aliases: ["HVAC Systems for Mosques and Islamic Prayer Spaces"]
 description: "Technical design for mosque HVAC including floor-level conditioning, ablution ventilation, dome thermal management, intermittent occupancy, and Friday peak loads."
 keywords: ["mosque HVAC", "prayer hall ventilation", "ablution area ventilation", "dome thermal stratification", "intermittent occupancy HVAC", "Islamic architecture climate control", "floor-level air distribution", "Friday congregation loads"]
+tags: ["mosque HVAC", "prayer hall ventilation", "ablution area ventilation", "dome thermal stratification", "intermittent occupancy HVAC", "Islamic architecture climate control", "floor-level air distribution", "Friday congregation loads"]
 weight: 3
 ---
 

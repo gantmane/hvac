@@ -1,7 +1,9 @@
 ---
 title: "Wind Resource Data Collection and Analysis"
+aliases: ["Wind Resource Data Collection and Analysis"]
 description: "Comprehensive analysis of wind resource data including NREL wind maps, meteorological measurements, wind speed classification systems, and statistical methods for HVAC wind energy applications."
 keywords: ["wind resource data", "NREL wind maps", "wind speed classification", "meteorological data", "Weibull distribution", "wind atlas", "site assessment", "wind power density"]
+tags: ["wind resource data", "NREL wind maps", "wind speed classification", "meteorological data", "Weibull distribution", "wind atlas", "site assessment", "wind power density"]
 weight: 3
 ---
 

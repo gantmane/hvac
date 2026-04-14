@@ -1,5 +1,6 @@
 ---
 title: "Automotive Evaporators: Design and Performance"
+aliases: ["Automotive Evaporators: Design and Performance"]
 linkTitle: "Evaporators Automotive"
 weight: 4
 description: "Technical analysis of automotive evaporator designs including plate-fin and tube-fin configurations, heat transfer physics, condensate management, and microbial contamination prevention strategies."

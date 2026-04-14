@@ -1,7 +1,9 @@
 ---
 title: "Carbon Pricing Impact on Building Operations"
+aliases: ["Carbon Pricing Impact on Building Operations"]
 description: "Analysis of carbon pricing mechanisms affecting HVAC system economics, operational carbon costs, fuel switching incentives, and electrification strategies for buildings."
 keywords: ["carbon pricing buildings", "operational carbon HVAC", "embodied carbon", "electrification economics", "fuel switching", "carbon tax impact", "building decarbonization", "lifecycle carbon assessment"]
+tags: ["carbon pricing buildings", "operational carbon HVAC", "embodied carbon", "electrification economics", "fuel switching", "carbon tax impact", "building decarbonization", "lifecycle carbon assessment"]
 weight: 2
 ---
 

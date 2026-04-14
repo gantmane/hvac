@@ -1,8 +1,10 @@
 ---
 title: "Theater Air Conditioning Systems & Equipment Selection"
+aliases: ["Theater Air Conditioning Systems & Equipment Selection"]
 weight: 4
 description: "Engineering analysis of rooftop units versus central plants for movie theaters, packaged versus split configurations, low-velocity distribution for acoustic control."
 keywords: ["theater HVAC", "rooftop units", "central plant", "low velocity air", "packaged systems", "pre-cooling", "cinema air conditioning", "acoustic HVAC"]
+tags: ["theater HVAC", "rooftop units", "central plant", "low velocity air", "packaged systems", "pre-cooling", "cinema air conditioning", "acoustic HVAC"]
 ---
 
 ## System Architecture Selection

@@ -1,8 +1,10 @@
 ---
 title: "Heat Pump Water Heaters: Efficiency & Applications"
+aliases: ["Heat Pump Water Heaters: Efficiency & Applications"]
 weight: 3
 description: "Comprehensive guide to heat pump water heater technology, performance metrics, system configurations, and design considerations for maximum efficiency and cost savings."
 keywords: ["heat pump water heater", "HPWH efficiency", "COP water heating", "hybrid water heater", "Energy Star water heater", "thermodynamic water heating", "domestic hot water heat pump", "HPWH refrigeration cycle"]
+tags: ["heat pump water heater", "HPWH efficiency", "COP water heating", "hybrid water heater", "Energy Star water heater", "thermodynamic water heating", "domestic hot water heat pump", "HPWH refrigeration cycle"]
 ---
 
 ## Overview

@@ -1,5 +1,6 @@
 ---
 title: "Individual Room Control Systems"
+aliases: ["Individual Room Control Systems"]
 description: "Guest room thermostat design, setpoint adjustment, deadband control, and integration with property management systems for hotel HVAC."
 date: "2026-01-04"
 weight: 3

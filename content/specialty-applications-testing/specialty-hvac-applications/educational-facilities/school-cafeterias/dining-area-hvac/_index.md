@@ -1,7 +1,9 @@
 ---
 title: "School Cafeteria Dining Area HVAC Design Strategies"
+aliases: ["School Cafeteria Dining Area HVAC Design Strategies"]
 description: "Comprehensive HVAC design for school cafeteria dining areas including high occupancy load calculations, variable occupancy strategies, pressure control, odor prevention."
 keywords: ["cafeteria dining HVAC", "high occupancy design", "school lunch ventilation", "odor control dining", "pressure relationships cafeteria", "thermal stratification dining", "acoustical HVAC design", "variable occupancy control"]
+tags: ["cafeteria dining HVAC", "high occupancy design", "school lunch ventilation", "odor control dining", "pressure relationships cafeteria", "thermal stratification dining", "acoustical HVAC design", "variable occupancy control"]
 date: 2025-01-05
 draft: false
 weight: 2

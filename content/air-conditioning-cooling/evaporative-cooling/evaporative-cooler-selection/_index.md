@@ -1,7 +1,9 @@
 ---
 title: "Evaporative Cooler Selection"
+aliases: ["Evaporative Cooler Selection"]
 description: "Guidelines for selecting evaporative cooling equipment including system sizing, type selection, and performance verification methods."
 keywords: ["evaporative cooler selection", "sizing", "equipment selection", "cooling capacity", "HVAC design", "swamp cooler"]
+tags: ["evaporative cooler selection", "sizing", "equipment selection", "cooling capacity", "HVAC design", "swamp cooler"]
 weight: 4
 ---
 

@@ -1,10 +1,12 @@
 ---
 title: "Ventilation Effectiveness"
+aliases: ["Ventilation Effectiveness"]
 date: 2026-01-05
 draft: false
 weight: 7
 description: "Comprehensive technical analysis of ventilation effectiveness including zone air distribution effectiveness (Ez), air change effectiveness, age of air theory, displacement vs mixing ventilation comparison, and measurement methods per ASHRAE 62.1."
 keywords: ["ventilation effectiveness", "zone air distribution effectiveness", "Ez factor", "air change effectiveness", "age of air", "displacement ventilation", "mixing ventilation", "ASHRAE 62.1", "ventilation measurement", "breathing zone", "air distribution patterns"]
+tags: ["ventilation effectiveness", "zone air distribution effectiveness", "Ez factor", "air change effectiveness", "age of air", "displacement ventilation", "mixing ventilation", "ASHRAE 62.1", "ventilation measurement", "breathing zone"]
 ---
 
 # Ventilation Effectiveness

@@ -1,8 +1,10 @@
 ---
 title: "Ship Cabin & Stateroom HVAC Systems"
+aliases: ["Ship Cabin & Stateroom HVAC Systems"]
 weight: 1
 description: "Comprehensive engineering guide to marine accommodation HVAC design covering cabin heat loads, ventilation requirements, and system selection for passenger and crew spaces."
 keywords: ["marine HVAC", "ship cabin air conditioning", "stateroom ventilation", "marine comfort standards", "fan coil units", "through-wall AC units", "cabin heat load", "maritime HVAC design"]
+tags: ["marine HVAC", "ship cabin air conditioning", "stateroom ventilation", "marine comfort standards", "fan coil units", "through-wall AC units", "cabin heat load", "maritime HVAC design"]
 ---
 
 ## Physical Principles of Marine Cabin Climatization

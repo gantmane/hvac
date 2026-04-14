@@ -1,5 +1,6 @@
 ---
 title: "Liquid Egg Products"
+aliases: ["Liquid Egg Products"]
 description: "Refrigeration and HVAC requirements for liquid egg product processing including immediate chilling, cold chain maintenance, processing room environmental control, and regulatory temperature compliance for whole eggs, whites, and yolks"
 weight: 2
 ---

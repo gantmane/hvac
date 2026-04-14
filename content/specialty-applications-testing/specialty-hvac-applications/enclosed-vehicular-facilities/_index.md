@@ -1,8 +1,10 @@
 ---
 title: "Enclosed Vehicular Facilities"
+aliases: ["Enclosed Vehicular Facilities"]
 seo_title: "Enclosed Vehicular Facilities HVAC Design"
 description: "Comprehensive guide to ventilation requirements for tunnels, parking garages, and bus terminals including pollutant control, emergency ventilation, and ASHRAE/NFPA 502 standards."
 keywords: ["vehicular ventilation", "tunnel ventilation", "parking garage HVAC", "CO detection", "NFPA 502", "emergency ventilation", "vehicle emissions", "contaminant dilution"]
+tags: ["vehicular ventilation", "tunnel ventilation", "parking garage HVAC", "CO detection", "NFPA 502", "emergency ventilation", "vehicle emissions", "contaminant dilution"]
 weight: 6
 ---
 

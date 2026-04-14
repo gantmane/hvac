@@ -1,5 +1,6 @@
 ---
 title: "Frozen Storage Life"
+aliases: ["Frozen Storage Life"]
 description: "Technical analysis of frozen storage life including quality degradation kinetics, temperature coefficients, TTT relationships, and product-specific shelf life requirements for refrigeration system design"
 weight: 3
 ---

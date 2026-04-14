@@ -1,8 +1,10 @@
 ---
 title: "IPC International Plumbing Code HVAC Requirements"
+aliases: ["IPC International Plumbing Code HVAC Requirements"]
 weight: 2
 description: "International Plumbing Code provisions for HVAC systems including condensate drainage, hydronic piping, water heaters, and cooling towers with code compliance requirements."
 keywords: ["IPC", "International Plumbing Code", "condensate drainage", "hydronic piping", "HVAC plumbing", "cooling tower code", "water heater code", "condensate trap"]
+tags: ["IPC", "International Plumbing Code", "condensate drainage", "hydronic piping", "HVAC plumbing", "cooling tower code", "water heater code", "condensate trap"]
 ---
 
 ## Overview

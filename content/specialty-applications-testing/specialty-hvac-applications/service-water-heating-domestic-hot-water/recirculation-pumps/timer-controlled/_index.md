@@ -1,7 +1,9 @@
 ---
 title: "Timer-Controlled Recirculation Pumps for DHW Systems"
+aliases: ["Timer-Controlled Recirculation Pumps for DHW Systems"]
 description: "Technical analysis of timer-controlled domestic hot water recirculation pumps, including scheduling strategies, energy calculations, and performance optimization."
 keywords: ["timer controlled recirculation", "DHW pump scheduling", "hot water circulation timer", "recirculation energy savings", "pump cycling control", "occupancy-based circulation", "standby heat loss", "domestic hot water optimization"]
+tags: ["timer controlled recirculation", "DHW pump scheduling", "hot water circulation timer", "recirculation energy savings", "pump cycling control", "occupancy-based circulation", "standby heat loss", "domestic hot water optimization"]
 weight: 2
 ---
 

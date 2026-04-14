@@ -1,5 +1,6 @@
 ---
 title: "Pipe Networks"
+aliases: ["Pipe Networks"]
 description: "Comprehensive analysis of HVAC piping networks including series and parallel configurations, loop analysis methods, Hardy-Cross iteration, nodal analysis, and system balancing techniques for hydronic distribution systems"
 weight: 4
 ---

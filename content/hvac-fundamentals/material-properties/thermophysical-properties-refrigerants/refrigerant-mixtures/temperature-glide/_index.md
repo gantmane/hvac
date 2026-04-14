@@ -1,5 +1,6 @@
 ---
 title: "Temperature Glide"
+aliases: ["Temperature Glide"]
 weight: 3
 ---
 

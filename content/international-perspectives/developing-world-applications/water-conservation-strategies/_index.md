@@ -1,5 +1,6 @@
 ---
 title: "Water Conservation Strategies for HVAC Systems"
+aliases: ["Water Conservation Strategies for HVAC Systems"]
 description: "Water conservation techniques for HVAC systems in water-scarce regions including dry cooling, water reuse, and evaporative alternatives for sustainable operation."
 date: 2025-01-05
 tags: ["water conservation", "developing world", "dry cooling", "evaporative cooling", "water recycling", "sustainable HVAC"]

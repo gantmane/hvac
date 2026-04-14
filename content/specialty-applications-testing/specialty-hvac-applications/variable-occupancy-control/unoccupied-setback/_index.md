@@ -1,7 +1,9 @@
 ---
 title: "Unoccupied Setback: Energy-Saving HVAC Strategies"
+aliases: ["Unoccupied Setback: Energy-Saving HVAC Strategies"]
 description: "Technical guide to unoccupied setback control strategies, energy savings calculations, setpoint optimization, and equipment protection per ASHRAE 90.1 standards."
 keywords: ["unoccupied setback", "HVAC energy savings", "setpoint temperature control", "building automation", "ASHRAE 90.1", "thermal mass recovery", "demand reduction", "occupancy scheduling"]
+tags: ["unoccupied setback", "HVAC energy savings", "setpoint temperature control", "building automation", "ASHRAE 90.1", "thermal mass recovery", "demand reduction", "occupancy scheduling"]
 weight: 5
 ---
 

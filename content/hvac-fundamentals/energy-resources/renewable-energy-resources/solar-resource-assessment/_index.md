@@ -1,7 +1,9 @@
 ---
 title: "Solar Resource Assessment for HVAC Applications"
+aliases: ["Solar Resource Assessment for HVAC Applications"]
 description: "Comprehensive solar resource assessment methods for HVAC design, covering radiation measurement, solar geometry, irradiance calculations, and resource data for thermal and PV applications."
 keywords: ["solar resource assessment", "solar radiation", "NREL solar data", "irradiance calculation", "solar energy HVAC", "photovoltaic potential", "solar thermal assessment", "DNI GHI DHI"]
+tags: ["solar resource assessment", "solar radiation", "NREL solar data", "irradiance calculation", "solar energy HVAC", "photovoltaic potential", "solar thermal assessment", "DNI GHI DHI"]
 weight: 1
 seo:
   title: "Solar Resource Assessment for HVAC Applications"

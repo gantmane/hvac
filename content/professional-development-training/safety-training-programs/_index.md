@@ -1,7 +1,9 @@
 ---
 title: "HVAC Safety Training Programs"
+aliases: ["HVAC Safety Training Programs"]
 description: "Comprehensive guide to OSHA compliance, refrigerant safety, electrical hazards, confined space entry, and lockout/tagout training requirements for HVAC professionals."
 keywords: ["HVAC safety training", "OSHA certification", "refrigerant safety", "lockout tagout", "confined space entry", "electrical safety", "fall protection", "PPE requirements", "hazard communication", "respiratory protection"]
+tags: ["HVAC safety training", "OSHA certification", "refrigerant safety", "lockout tagout", "confined space entry", "electrical safety", "fall protection", "PPE requirements", "hazard communication", "respiratory protection"]
 weight: 3
 ---
 

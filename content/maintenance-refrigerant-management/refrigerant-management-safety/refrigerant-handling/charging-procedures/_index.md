@@ -1,5 +1,6 @@
 ---
 title: "Charging Procedures"
+aliases: ["Charging Procedures"]
 weight: 4
 ---
 

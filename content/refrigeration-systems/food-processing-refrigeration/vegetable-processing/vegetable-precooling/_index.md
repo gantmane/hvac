@@ -1,5 +1,6 @@
 ---
 title: "Vegetable Precooling"
+aliases: ["Vegetable Precooling"]
 weight: 1
 ---
 

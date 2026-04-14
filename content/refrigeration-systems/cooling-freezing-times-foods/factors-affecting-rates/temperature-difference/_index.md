@@ -1,5 +1,6 @@
 ---
 title: "Temperature Difference"
+aliases: ["Temperature Difference"]
 weight: 3
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Acoustical Design Integration for Concert Hall HVAC"
+aliases: ["Acoustical Design Integration for Concert Hall HVAC"]
 description: "Engineering HVAC systems for concert halls requires coordination with acousticians to achieve NC 15-20 targets through vibration isolation, duct breakout control, and silent diffusers."
 keywords: ["concert hall HVAC", "acoustical design integration", "NC 15 criteria", "vibration isolation", "duct breakout noise", "diffuser radiated noise", "mechanical room isolation", "HVAC acoustics"]
+tags: ["concert hall HVAC", "acoustical design integration", "NC 15 criteria", "vibration isolation", "duct breakout noise", "diffuser radiated noise", "mechanical room isolation", "HVAC acoustics"]
 weight: 3
 ---
 

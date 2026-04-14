@@ -1,7 +1,9 @@
 ---
 title: "Drying Curves: Rate Analysis and Characterization"
+aliases: ["Drying Curves: Rate Analysis and Characterization"]
 description: "Physics-based analysis of drying curves, constant and falling rate periods, moisture migration mechanisms, and critical moisture content determination."
 keywords: ["drying curves", "constant rate period", "falling rate period", "critical moisture content", "drying kinetics", "moisture ratio", "psychrometric drying", "diffusion limited drying"]
+tags: ["drying curves", "constant rate period", "falling rate period", "critical moisture content", "drying kinetics", "moisture ratio", "psychrometric drying", "diffusion limited drying"]
 date: 2026-01-11
 weight: 2
 draft: false

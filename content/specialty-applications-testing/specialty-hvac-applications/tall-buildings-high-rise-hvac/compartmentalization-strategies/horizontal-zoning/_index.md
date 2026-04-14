@@ -1,8 +1,10 @@
 ---
 title: "Horizontal Zoning in High-Rise HVAC Systems"
+aliases: ["Horizontal Zoning in High-Rise HVAC Systems"]
 weight: 2
 description: "Floor-by-floor compartmentalization strategies for tall buildings including horizontal smoke barriers, HVAC zoning, fire compartment sizing, and refuge floor design per IBC codes."
 keywords: ["horizontal zoning", "floor compartmentalization", "smoke barriers", "high-rise HVAC", "fire compartments", "refuge floors", "tenant separation", "smoke control"]
+tags: ["horizontal zoning", "floor compartmentalization", "smoke barriers", "high-rise HVAC", "fire compartments", "refuge floors", "tenant separation", "smoke control"]
 ---
 
 ## Physical Basis of Horizontal Compartmentalization

@@ -1,5 +1,6 @@
 ---
 title: "Unoccupied Room Setback in Hotels"
+aliases: ["Unoccupied Room Setback in Hotels"]
 description: "Temperature setback strategies for unoccupied hotel rooms including occupancy detection methods, recovery time calculations, energy code compliance, and guest comfort optimization for hospitality HVAC systems."
 date: "2026-01-05"
 weight: 4

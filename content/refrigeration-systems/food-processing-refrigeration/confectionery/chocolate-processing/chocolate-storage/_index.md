@@ -1,5 +1,6 @@
 ---
 title: "Chocolate Storage HVAC Systems"
+aliases: ["Chocolate Storage HVAC Systems"]
 description: "Technical specifications for chocolate storage environmental control including temperature, humidity, and air quality requirements to prevent fat bloom, sugar bloom, and flavor degradation in finished chocolate products."
 weight: 3
 ---

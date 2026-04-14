@@ -1,5 +1,6 @@
 ---
 title: "Ultrasonic Humidifiers"
+aliases: ["Ultrasonic Humidifiers"]
 weight: 3
 ---
 

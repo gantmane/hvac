@@ -1,5 +1,6 @@
 ---
 title: "Gravity Recirculation Systems"
+aliases: ["Gravity Recirculation Systems"]
 description: "Thermosiphon liquid overfeed refrigeration systems using natural circulation driven by density differences, including static head requirements, two-phase flow analysis, and design criteria for gravity-driven refrigerant circulation"
 weight: 5
 ---

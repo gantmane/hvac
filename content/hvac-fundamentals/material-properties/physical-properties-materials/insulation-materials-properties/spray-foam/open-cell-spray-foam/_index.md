@@ -1,5 +1,6 @@
 ---
 title: "Open Cell Spray Foam"
+aliases: ["Open Cell Spray Foam"]
 weight: 1
 ---
 

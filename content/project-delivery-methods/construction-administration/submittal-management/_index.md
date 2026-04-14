@@ -1,5 +1,6 @@
 ---
 title: "Submittal Management"
+aliases: ["Submittal Management"]
 description: "Comprehensive guide to HVAC submittal management including shop drawing review, product data requirements, submittal schedules, resubmittal procedures, approval stamps, and contractor submittal obligations during construction administration"
 weight: 2
 ---

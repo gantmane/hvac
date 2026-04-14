@@ -1,5 +1,6 @@
 ---
 title: "Seismic Importance Factor for HVAC Equipment"
+aliases: ["Seismic Importance Factor for HVAC Equipment"]
 description: "Understand seismic importance factor (Ip) values for HVAC systems across Risk Categories I-IV per ASCE 7 and IBC. Includes calculation methods and tables."
 date: 2025-01-05
 weight: 2

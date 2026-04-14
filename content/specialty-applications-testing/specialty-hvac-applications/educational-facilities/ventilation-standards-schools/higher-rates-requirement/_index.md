@@ -1,7 +1,9 @@
 ---
 title: "Enhanced Ventilation Rates: School Requirements"
+aliases: ["Enhanced Ventilation Rates: School Requirements"]
 description: "Analysis of jurisdictions requiring higher-than-ASHRAE ventilation rates for schools, including California Title 24, New York State requirements, and post-pandemic standards."
 keywords: "enhanced school ventilation, California Title 24 schools, New York ventilation requirements, post-pandemic ventilation, higher ventilation rates, school air changes, classroom outdoor air, state ventilation codes, enhanced IAQ standards"
+tags: ["enhanced school ventilation", "California Title 24 schools", "New York ventilation requirements", "post-pandemic ventilation", "higher ventilation rates", "school air changes", "classroom outdoor air", "state ventilation codes", "enhanced IAQ standards"]
 date: 2025-01-05
 weight: 1
 ---

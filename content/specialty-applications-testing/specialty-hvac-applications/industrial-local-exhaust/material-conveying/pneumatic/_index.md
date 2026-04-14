@@ -1,8 +1,10 @@
 ---
 title: "Pneumatic Conveying Systems for Industrial HVAC"
+aliases: ["Pneumatic Conveying Systems for Industrial HVAC"]
 description: "Engineering guide to pneumatic material transport: dilute and dense phase conveying principles, pressure drop calculations, system design, and particle saltation velocity."
 date: 2026-01-11
 keywords: ["pneumatic conveying", "dilute phase transport", "dense phase conveying", "saltation velocity", "material handling", "pressure drop calculation", "industrial exhaust", "particle transport"]
+tags: ["pneumatic conveying", "dilute phase transport", "dense phase conveying", "saltation velocity", "material handling", "pressure drop calculation", "industrial exhaust", "particle transport"]
 weight: 1
 ---
 

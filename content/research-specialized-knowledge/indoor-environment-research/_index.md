@@ -1,8 +1,10 @@
 ---
 title: "Indoor Environment Research"
+aliases: ["Indoor Environment Research"]
 weight: 5
 description: "Advanced research in thermal comfort modeling, indoor air chemistry, personalized ventilation systems, circadian lighting integration, and emerging comfort metrics for optimized indoor environmental quality."
 keywords: ["PMV PPD thermal comfort", "indoor air quality research", "personalized ventilation", "circadian lighting HVAC", "biophilic design", "adaptive comfort model", "indoor chemistry", "occupant-centered design"]
+tags: ["PMV PPD thermal comfort", "indoor air quality research", "personalized ventilation", "circadian lighting HVAC", "biophilic design", "adaptive comfort model", "indoor chemistry", "occupant-centered design"]
 ---
 
 # Indoor Environment Research

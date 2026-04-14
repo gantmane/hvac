@@ -1,7 +1,9 @@
 ---
 title: "Airflow Velocity Limits in Duct Silencers"
+aliases: ["Airflow Velocity Limits in Duct Silencers"]
 description: "Technical analysis of velocity limits for duct silencers including self-noise generation formulas, breakout prevention criteria, and sizing guidelines for optimal acoustic performance."
 keywords: "duct silencer velocity limits, self-noise generation, regenerated noise, silencer sizing, breakout noise, face velocity limits, turbulence noise, ASHRAE silencer design"
+tags: ["duct silencer velocity limits", "self-noise generation", "regenerated noise", "silencer sizing", "breakout noise", "face velocity limits", "turbulence noise", "ASHRAE silencer design"]
 weight: 1
 ---
 

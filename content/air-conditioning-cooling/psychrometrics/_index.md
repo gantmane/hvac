@@ -1,5 +1,6 @@
 ---
 title: "Psychrometrics"
+aliases: ["Psychrometrics"]
 description: "Comprehensive guide to psychrometric principles, air-water vapor mixture properties, and thermodynamic processes for HVAC system design."
 date: "2026-01-04"
 weight: 10

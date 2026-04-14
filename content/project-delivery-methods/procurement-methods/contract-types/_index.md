@@ -1,5 +1,6 @@
 ---
 title: "Contract Types"
+aliases: ["Contract Types"]
 description: "Comprehensive overview of HVAC construction contract types including lump sum, cost-plus, GMP, unit price, and time-and-materials structures with risk allocation analysis."
 weight: 2
 ---

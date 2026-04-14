@@ -1,7 +1,9 @@
 ---
 title: "Expansion Tank Sizing Methods for Domestic Hot Water"
+aliases: ["Expansion Tank Sizing Methods for Domestic Hot Water"]
 description: "Engineering methodology for thermal expansion tank sizing in DHW systems. Includes acceptance volume calculations, system volume determination, and ASME standards."
 keywords: ["expansion tank sizing", "thermal expansion calculation", "acceptance volume", "system volume DHW", "ASME BPV code", "domestic hot water expansion", "water heater expansion tank", "DHW tank sizing"]
+tags: ["expansion tank sizing", "thermal expansion calculation", "acceptance volume", "system volume DHW", "ASME BPV code", "domestic hot water expansion", "water heater expansion tank", "DHW tank sizing"]
 weight: 2
 ---
 

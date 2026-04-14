@@ -1,5 +1,6 @@
 ---
 title: "Underground Mine Cooling Strategies"
+aliases: ["Underground Mine Cooling Strategies"]
 description: "Technical analysis of mine cooling systems including spot coolers, refrigeration plants, ice slurry systems, and ventilation air conditioning for heat stress control."
 keywords:
   - mine cooling systems

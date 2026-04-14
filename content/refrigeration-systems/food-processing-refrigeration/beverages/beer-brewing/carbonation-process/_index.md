@@ -1,5 +1,6 @@
 ---
 title: "Carbonation Process Temperature Control"
+aliases: ["Carbonation Process Temperature Control"]
 description: "HVAC engineering principles for beer carbonation systems including CO2 solubility relationships, forced and natural carbonation methods, temperature control requirements, and carbonation stone systems for brewery applications."
 weight: 3
 ---

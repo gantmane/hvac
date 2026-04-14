@@ -1,5 +1,6 @@
 ---
 title: "Dairy Products Storage"
+aliases: ["Dairy Products Storage"]
 description: "Technical requirements for refrigerated storage of milk, cheese, ice cream, butter, and yogurt including temperature control, humidity management, and pasteurization cooling systems"
 weight: 5
 ---

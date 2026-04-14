@@ -1,7 +1,9 @@
 ---
 title: "Judges Chambers HVAC Design and Environmental Control"
+aliases: ["Judges Chambers HVAC Design and Environmental Control"]
 description: "Engineering guidance for HVAC systems in judges chambers with individual temperature control, acoustic privacy, security separation, and book storage humidity control."
 keywords: ["judges chambers HVAC", "judicial office climate control", "acoustic isolation HVAC", "security zone separation", "library humidity control", "individual temperature control", "courthouse private office", "judicial suite design"]
+tags: ["judges chambers HVAC", "judicial office climate control", "acoustic isolation HVAC", "security zone separation", "library humidity control", "individual temperature control", "courthouse private office", "judicial suite design"]
 weight: 3
 ---
 

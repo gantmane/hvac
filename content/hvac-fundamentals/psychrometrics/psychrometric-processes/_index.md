@@ -1,5 +1,6 @@
 ---
 title: "Psychrometric Processes"
+aliases: ["Psychrometric Processes"]
 description: "Detailed analysis of psychrometric processes including sensible heating, cooling, humidification, dehumidification, evaporative cooling, and mixed air calculations with process plotting methods for HVAC system design"
 weight: 3
 ---

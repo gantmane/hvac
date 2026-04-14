@@ -1,8 +1,10 @@
 ---
 title: "Tunnel Fire Scenarios and Critical Velocity Design"
+aliases: ["Tunnel Fire Scenarios and Critical Velocity Design"]
 weight: 1
 description: "Fire scenarios for tunnel ventilation including design fire HRR, passenger vs HGV fires, t-squared growth curves, smoke production rates, and critical velocity calculations."
 keywords: ["tunnel fire scenarios", "heat release rate", "critical velocity", "smoke control", "NFPA 502", "design fire", "backlayering", "tunnel ventilation"]
+tags: ["tunnel fire scenarios", "heat release rate", "critical velocity", "smoke control", "NFPA 502", "design fire", "backlayering", "tunnel ventilation"]
 ---
 
 ## Design Fire Heat Release Rate

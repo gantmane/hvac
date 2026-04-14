@@ -1,5 +1,6 @@
 ---
 title: "Turbulent Flow"
+aliases: ["Turbulent Flow"]
 description: "Comprehensive analysis of turbulent flow in HVAC piping systems including Reynolds transition, friction factor correlations, velocity profiles, and pressure drop calculations for water and refrigerant distribution"
 weight: 2
 ---

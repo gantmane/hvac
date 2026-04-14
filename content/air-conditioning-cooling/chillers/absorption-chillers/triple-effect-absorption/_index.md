@@ -1,5 +1,6 @@
 ---
 title: "Triple-Effect Absorption Chillers"
+aliases: ["Triple-Effect Absorption Chillers"]
 description: "Technical analysis of triple-effect absorption chiller technology including three-stage thermal compression, gas-fired heat sources, COP 1.7 performance, high-temperature operation, and 300-1000 ton capacity applications."
 weight: 3
 ---

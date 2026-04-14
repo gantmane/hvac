@@ -1,5 +1,6 @@
 ---
 title: "Water Content"
+aliases: ["Water Content"]
 weight: 5
 ---
 

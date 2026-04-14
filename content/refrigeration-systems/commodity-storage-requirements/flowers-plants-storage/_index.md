@@ -1,8 +1,10 @@
 ---
 title: "Flowers and Plants Storage Requirements"
+aliases: ["Flowers and Plants Storage Requirements"]
 weight: 6
 description: "Technical specifications for refrigerated storage of cut flowers, potted plants, bulbs, and foliage including temperature control, ethylene management, and humidity requirements for optimal cold chain preservation."
 keywords: "flower storage, cut flower refrigeration, ethylene sensitivity, flower cold chain, bulb storage, potted plant storage, floral cooler design, flower humidity requirements"
+tags: ["flower storage", "cut flower refrigeration", "ethylene sensitivity", "flower cold chain", "bulb storage", "potted plant storage", "floral cooler design", "flower humidity requirements"]
 ---
 
 Refrigerated storage of flowers and plants requires precise environmental control to extend vase life, prevent premature senescence, and maintain aesthetic quality throughout the distribution chain. Unlike produce storage, floral products exhibit extreme sensitivity to ethylene exposure and require specific temperature-humidity combinations matched to botanical characteristics.

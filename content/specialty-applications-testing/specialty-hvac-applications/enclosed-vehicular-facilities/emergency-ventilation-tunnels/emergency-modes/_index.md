@@ -1,7 +1,9 @@
 ---
 title: "Emergency Ventilation Modes for Tunnel Fire Events"
+aliases: ["Emergency Ventilation Modes for Tunnel Fire Events"]
 description: "Emergency ventilation modes for tunnel fires including longitudinal and transverse smoke extraction, fire location detection, fan reversal capabilities, and automatic control strategies."
 keywords: ["tunnel emergency ventilation", "smoke extraction systems", "longitudinal ventilation", "transverse ventilation", "fire detection tunnel", "emergency fan control", "tunnel fire safety", "NFPA 502"]
+tags: ["tunnel emergency ventilation", "smoke extraction systems", "longitudinal ventilation", "transverse ventilation", "fire detection tunnel", "emergency fan control", "tunnel fire safety", "NFPA 502"]
 weight: 3
 ---
 

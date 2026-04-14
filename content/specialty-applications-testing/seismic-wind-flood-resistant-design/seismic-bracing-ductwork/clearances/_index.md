@@ -1,5 +1,6 @@
 ---
 title: "Seismic Clearances for Ductwork Bracing Systems"
+aliases: ["Seismic Clearances for Ductwork Bracing Systems"]
 description: "Technical requirements for ductwork seismic clearances including minimum separation distances by SDC, flexible connections at equipment, building joints, and SMACNA standards."
 weight: 3
 date: 2026-01-05

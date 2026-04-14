@@ -1,7 +1,9 @@
 ---
 title: "Advanced Control Theory for HVAC Systems"
+aliases: ["Advanced Control Theory for HVAC Systems"]
 description: "Comprehensive guide to model predictive control, adaptive control, fuzzy logic, and neural network applications in modern HVAC systems with performance optimization strategies."
 keywords: ["model predictive control", "adaptive control", "fuzzy logic control", "neural network control", "MPC HVAC", "optimal control", "intelligent control systems", "building automation"]
+tags: ["model predictive control", "adaptive control", "fuzzy logic control", "neural network control", "MPC HVAC", "optimal control", "intelligent control systems", "building automation"]
 weight: 7
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Cut Flowers"
+aliases: ["Cut Flowers"]
 weight: 1
 ---
 

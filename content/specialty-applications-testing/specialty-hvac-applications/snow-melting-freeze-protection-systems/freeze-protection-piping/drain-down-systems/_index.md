@@ -1,5 +1,6 @@
 ---
 title: "Drain-Down Freeze Protection Systems"
+aliases: ["Drain-Down Freeze Protection Systems"]
 description: "Engineering guide for automatic drain-down systems including valve selection, piping slope calculations, air vent placement, refill procedures, and gravity drainage physics."
 keywords: ["drain-down systems", "automatic drain valves", "freeze protection", "piping slope", "gravity drainage", "air vents", "vacuum breakers", "refill procedures", "zero energy freeze protection"]
 tags: ["Freeze Protection", "Drain-Down", "Automatic Valves", "Piping Design", "Gravity Drainage", "IPC", "Energy Efficiency"]

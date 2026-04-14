@@ -1,8 +1,10 @@
 ---
 title: "Prison and Jail HVAC Systems: Design and Control"
+aliases: ["Prison and Jail HVAC Systems: Design and Control"]
 seo_title: "Prison & Jail HVAC: Security-Integrated Climate Control"
 description: "Comprehensive guide to HVAC system design for correctional facilities. Covers security integration, ventilation requirements, tamper-resistant equipment, and system types."
 keywords: ["prison HVAC", "jail ventilation", "correctional facility climate control", "security HVAC systems", "detention center air systems", "tamper-resistant HVAC", "inmate housing ventilation", "justice facility mechanical systems"]
+tags: ["prison HVAC", "jail ventilation", "correctional facility climate control", "security HVAC systems", "detention center air systems", "tamper-resistant HVAC", "inmate housing ventilation", "justice facility mechanical systems"]
 weight: 1
 ---
 

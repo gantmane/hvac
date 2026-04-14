@@ -1,5 +1,6 @@
 ---
 title: "Ice Cream Storage"
+aliases: ["Ice Cream Storage"]
 description: "Technical requirements for ice cream hardening room design, storage temperature control, heat shock prevention, and refrigeration load calculations for maintaining product quality throughout distribution"
 weight: 4
 ---

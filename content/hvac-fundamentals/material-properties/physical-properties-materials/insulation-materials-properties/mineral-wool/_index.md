@@ -1,5 +1,6 @@
 ---
 title: "Mineral Wool"
+aliases: ["Mineral Wool"]
 weight: 2
 ---
 

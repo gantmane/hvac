@@ -1,7 +1,9 @@
 ---
 title: "Electric Vehicle HVAC Systems"
+aliases: ["Electric Vehicle HVAC Systems"]
 description: "Technical analysis of EV HVAC challenges, heat pump integration, battery thermal management, and energy efficiency strategies without engine waste heat recovery."
 keywords: ["electric vehicle HVAC", "EV heat pump", "battery thermal management", "resistive heating", "thermal management system", "EV energy efficiency", "cabin conditioning", "PTC heater"]
+tags: ["electric vehicle HVAC", "EV heat pump", "battery thermal management", "resistive heating", "thermal management system", "EV energy efficiency", "cabin conditioning", "PTC heater"]
 weight: 6
 ---
 

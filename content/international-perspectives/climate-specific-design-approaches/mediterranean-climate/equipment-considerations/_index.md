@@ -1,5 +1,6 @@
 ---
 title: "Mediterranean Climate HVAC Equipment Selection"
+aliases: ["Mediterranean Climate HVAC Equipment Selection"]
 description: "Technical guide to equipment selection for Mediterranean climates, including heat pump configurations, evaporative cooling systems, economizer design, and variable-capacity equipment sizing."
 keywords:
   - Mediterranean HVAC equipment

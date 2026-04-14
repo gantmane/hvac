@@ -1,5 +1,6 @@
 ---
 title: "Foam Boards"
+aliases: ["Foam Boards"]
 description: "Comprehensive analysis of foam board insulation materials for HVAC applications including EPS, XPS, and polyisocyanurate thermal performance characteristics, R-values, moisture resistance, fire ratings, and installation considerations for mechanical system insulation."
 weight: 3
 ---

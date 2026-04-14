@@ -1,9 +1,11 @@
 ---
 title: "Healthcare HVAC Systems Design & Control"
+aliases: ["Healthcare HVAC Systems Design & Control"]
 seo_title: "Healthcare HVAC: Infection Control & Ventilation"
 description: "Comprehensive guide to healthcare HVAC systems covering ASHRAE 170 standards, pressure relationships, air change requirements, infection control through ventilation."
 seo_description: "Healthcare HVAC design covering ASHRAE 170 standards, pressure control, air change rates, filtration, and infection control through proper ventilation strategies."
 keywords: ["healthcare HVAC", "ASHRAE 170", "hospital ventilation", "infection control", "pressure relationships", "critical care environments", "air change rates", "medical HVAC"]
+tags: ["healthcare HVAC", "ASHRAE 170", "hospital ventilation", "infection control", "pressure relationships", "critical care environments", "air change rates", "medical HVAC"]
 weight: 3
 ---
 

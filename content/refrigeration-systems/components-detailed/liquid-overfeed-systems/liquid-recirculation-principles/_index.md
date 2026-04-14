@@ -1,5 +1,6 @@
 ---
 title: "Liquid Recirculation Principles"
+aliases: ["Liquid Recirculation Principles"]
 description: "Thermodynamic principles of liquid overfeed refrigeration systems including wet evaporator operation, heat transfer enhancement, recirculation ratios, and efficiency advantages over direct expansion systems"
 weight: 1
 ---

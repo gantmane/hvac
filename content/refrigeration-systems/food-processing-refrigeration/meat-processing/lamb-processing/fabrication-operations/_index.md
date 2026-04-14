@@ -1,5 +1,6 @@
 ---
 title: "Fabrication Operations"
+aliases: ["Fabrication Operations"]
 description: "HVAC requirements for lamb fabrication and cutting operations including temperature control, air quality management, USDA FSIS compliance, and environmental specifications for processing rooms."
 weight: 2
 ---

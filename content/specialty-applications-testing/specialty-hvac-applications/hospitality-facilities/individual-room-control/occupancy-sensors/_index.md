@@ -1,5 +1,6 @@
 ---
 title: "Occupancy Sensors for Hotel HVAC Control Systems"
+aliases: ["Occupancy Sensors for Hotel HVAC Control Systems"]
 description: "PIR, ultrasonic, and dual-technology occupancy sensors for guest room HVAC control, including placement strategies, time delays, and energy savings."
 date: "2026-01-11"
 weight: 2

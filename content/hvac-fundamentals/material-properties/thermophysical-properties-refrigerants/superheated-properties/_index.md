@@ -1,5 +1,6 @@
 ---
 title: "Superheated Properties"
+aliases: ["Superheated Properties"]
 weight: 6
 ---
 

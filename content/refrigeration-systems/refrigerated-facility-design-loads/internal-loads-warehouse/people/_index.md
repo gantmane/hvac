@@ -1,5 +1,6 @@
 ---
 title: "People"
+aliases: ["People"]
 weight: 3
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Backup Power Systems for Emergency Facility HVAC"
+aliases: ["Backup Power Systems for Emergency Facility HVAC"]
 description: "Generator sizing, transfer switch integration, load prioritization, and fuel storage considerations for maintaining critical HVAC systems during power outages."
 keywords: ["emergency generator", "backup power HVAC", "transfer switch", "load prioritization", "generator sizing", "fuel storage", "emergency facilities", "critical loads"]
+tags: ["emergency generator", "backup power HVAC", "transfer switch", "load prioritization", "generator sizing", "fuel storage", "emergency facilities", "critical loads"]
 date: 2025-01-11
 weight: 4
 draft: false

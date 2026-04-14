@@ -1,5 +1,6 @@
 ---
 title: "Greek Yogurt Production"
+aliases: ["Greek Yogurt Production"]
 description: "HVAC and refrigeration requirements for Greek yogurt manufacturing including straining processes, whey separation, acid whey cooling, and process room environmental control for concentrated dairy products"
 weight: 3
 ---

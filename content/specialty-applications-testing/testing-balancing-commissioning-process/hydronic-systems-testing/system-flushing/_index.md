@@ -1,5 +1,6 @@
 ---
 title: "Hydronic System Flushing Procedures"
+aliases: ["Hydronic System Flushing Procedures"]
 description: "Technical requirements for flushing hydronic systems including velocity criteria, chemical cleaning procedures, strainer inspection, and debris removal protocols."
 keywords:
   - hydronic system flushing

@@ -1,5 +1,6 @@
 ---
 title: "Safety Practices"
+aliases: ["Safety Practices"]
 weight: 4
 ---
 

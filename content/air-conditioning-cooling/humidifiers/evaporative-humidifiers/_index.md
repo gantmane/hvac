@@ -1,7 +1,9 @@
 ---
 title: "Evaporative Humidifiers: Wetted Media Systems"
+aliases: ["Evaporative Humidifiers: Wetted Media Systems"]
 description: "Technical analysis of evaporative humidifiers including wetted media types, adiabatic saturation efficiency, psychrometric calculations, and system performance characteristics."
 keywords: ["evaporative humidifiers", "wetted media", "adiabatic humidification", "saturation efficiency", "rigid media", "drip pan humidifiers", "evaporative cooling", "ASHRAE humidification"]
+tags: ["evaporative humidifiers", "wetted media", "adiabatic humidification", "saturation efficiency", "rigid media", "drip pan humidifiers", "evaporative cooling", "ASHRAE humidification"]
 weight: 2
 ---
 

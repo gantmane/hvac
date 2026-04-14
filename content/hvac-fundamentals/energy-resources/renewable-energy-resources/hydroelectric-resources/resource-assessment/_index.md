@@ -1,7 +1,9 @@
 ---
 title: "Hydroelectric Resource Assessment Methods"
+aliases: ["Hydroelectric Resource Assessment Methods"]
 description: "Technical methodology for hydroelectric resource evaluation including flow duration analysis, head determination, and site selection criteria for HVAC power generation applications."
 keywords: ["hydroelectric resource assessment", "flow duration curves", "head measurement", "stream flow analysis", "USGS gauge data", "hydropower potential", "site selection", "drainage basin analysis"]
+tags: ["hydroelectric resource assessment", "flow duration curves", "head measurement", "stream flow analysis", "USGS gauge data", "hydropower potential", "site selection", "drainage basin analysis"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Flat Roof Systems"
+aliases: ["Flat Roof Systems"]
 description: "Comprehensive analysis of flat and low-slope roof assemblies including membrane types, insulation strategies, vapor control, and moisture management to prevent interstitial condensation and ensure long-term performance."
 weight: 4
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Containment Principles in Industrial Hood Design"
+aliases: ["Containment Principles in Industrial Hood Design"]
 description: "Physical containment strategies for industrial exhaust hoods including enclosure types, effectiveness factors, air curtains, baffles, and work practice integration."
 keywords: ["hood containment", "enclosing hoods", "capturing hoods", "partial enclosure", "air curtains", "booth ventilation", "hood baffles", "containment effectiveness"]
+tags: ["hood containment", "enclosing hoods", "capturing hoods", "partial enclosure", "air curtains", "booth ventilation", "hood baffles", "containment effectiveness"]
 date: 2025-01-11
 weight: 3
 draft: false

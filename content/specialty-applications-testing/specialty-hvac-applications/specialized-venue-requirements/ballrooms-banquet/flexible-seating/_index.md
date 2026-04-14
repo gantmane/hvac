@@ -1,8 +1,10 @@
 ---
 title: "HVAC for Flexible Seating Arrangements"
+aliases: ["HVAC for Flexible Seating Arrangements"]
 seo_title: "HVAC Design for Flexible Seating Ballroom Configurations"
 description: "Engineering flexible HVAC systems for variable seating layouts including theater, banquet, and classroom configurations with dynamic occupant density control."
 keywords: ["flexible seating HVAC", "variable occupancy ventilation", "ballroom air distribution", "dynamic load response", "seating configuration cooling", "banquet HVAC design", "theater seating ventilation", "classroom layout HVAC"]
+tags: ["flexible seating HVAC", "variable occupancy ventilation", "ballroom air distribution", "dynamic load response", "seating configuration cooling", "banquet HVAC design", "theater seating ventilation", "classroom layout HVAC"]
 weight: 1
 ---
 

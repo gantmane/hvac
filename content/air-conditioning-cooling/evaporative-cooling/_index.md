@@ -1,7 +1,9 @@
 ---
 title: "Evaporative Cooling Systems"
+aliases: ["Evaporative Cooling Systems"]
 description: "Comprehensive guide to evaporative cooling technologies including direct, indirect, and two-stage systems for energy-efficient HVAC applications."
 keywords: ["evaporative cooling", "swamp cooler", "direct evaporative", "indirect evaporative", "adiabatic cooling", "HVAC"]
+tags: ["evaporative cooling", "swamp cooler", "direct evaporative", "indirect evaporative", "adiabatic cooling", "HVAC"]
 weight: 20
 ---
 

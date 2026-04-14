@@ -1,5 +1,6 @@
 ---
 title: "Positive Pressure System Applications"
+aliases: ["Positive Pressure System Applications"]
 description: "Applications of positive pressure systems including cleanrooms, pharmaceutical manufacturing, agricultural biosecurity facilities, hospital protective environments, and semiconductor production."
 weight: 1
 ---

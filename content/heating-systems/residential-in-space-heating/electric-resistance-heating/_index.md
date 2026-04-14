@@ -1,5 +1,6 @@
 ---
 title: "Electric Resistance Heating"
+aliases: ["Electric Resistance Heating"]
 description: "Technical analysis of electric resistance heating systems including baseboard heaters, wall units, and radiant panels with sizing calculations and control strategies."
 date: "2026-01-04"
 weight: 6

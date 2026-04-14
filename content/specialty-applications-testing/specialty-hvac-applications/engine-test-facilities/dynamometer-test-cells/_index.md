@@ -1,7 +1,9 @@
 ---
 title: "Dynamometer Test Cells HVAC Design"
+aliases: ["Dynamometer Test Cells HVAC Design"]
 description: "HVAC design for engine dynamometer test cells including ventilation requirements, heat load management, air balance, temperature control, and safety systems."
 keywords: ["dynamometer test cells", "engine test ventilation", "dyno heat loads", "test cell HVAC", "engine testing safety", "test cell air balance", "combustion air supply", "test cell cooling"]
+tags: ["dynamometer test cells", "engine test ventilation", "dyno heat loads", "test cell HVAC", "engine testing safety", "test cell air balance", "combustion air supply", "test cell cooling"]
 weight: 1
 ---
 

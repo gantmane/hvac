@@ -1,7 +1,9 @@
 ---
 title: "Environmental Control Systems for Mine Refuge Chambers"
+aliases: ["Environmental Control Systems for Mine Refuge Chambers"]
 description: "Technical analysis of refuge chamber life support systems including CO2 scrubbing, oxygen supply, temperature control, and life support duration calculations per MSHA standards."
 keywords: ["refuge chamber HVAC", "mine emergency life support", "CO2 scrubbing systems", "oxygen supply calculations", "MSHA refuge chamber requirements", "emergency shelter environmental control", "mine safety life support", "refuge chamber atmosphere control"]
+tags: ["refuge chamber HVAC", "mine emergency life support", "CO2 scrubbing systems", "oxygen supply calculations", "MSHA refuge chamber requirements", "emergency shelter environmental control", "mine safety life support", "refuge chamber atmosphere control"]
 weight: 1
 ---
 

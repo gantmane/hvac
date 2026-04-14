@@ -1,5 +1,6 @@
 ---
 title: "Fan Configurations"
+aliases: ["Fan Configurations"]
 weight: 3
 ---
 

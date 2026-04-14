@@ -1,5 +1,6 @@
 ---
 title: "Auxiliary Fans"
+aliases: ["Auxiliary Fans"]
 description: "Mine auxiliary ventilation systems including forcing and exhausting configurations, duct design, methane dilution calculations, and MSHA regulatory requirements for underground mining operations."
 keywords:
   - mine ventilation

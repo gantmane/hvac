@@ -1,7 +1,9 @@
 ---
 title: "Security-Driven HVAC Design for Correctional Facilities"
+aliases: ["Security-Driven HVAC Design for Correctional Facilities"]
 description: "Engineering tamper-resistant HVAC systems for prisons and jails with security zoning, contraband prevention, and controlled access following ASHRAE and ACA standards."
 keywords: ["prison HVAC security", "jail ventilation security", "tamper-resistant HVAC", "correctional facility air systems", "secure HVAC zones", "contraband prevention HVAC", "detention center climate control", "justice facility HVAC design"]
+tags: ["prison HVAC security", "jail ventilation security", "tamper-resistant HVAC", "correctional facility air systems", "secure HVAC zones", "contraband prevention HVAC", "detention center climate control", "justice facility HVAC design"]
 weight: 1
 ---
 

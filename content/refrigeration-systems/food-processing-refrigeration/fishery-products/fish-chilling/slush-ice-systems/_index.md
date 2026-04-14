@@ -1,5 +1,6 @@
 ---
 title: "Slush Ice Systems"
+aliases: ["Slush Ice Systems"]
 description: "Comprehensive technical analysis of slush ice refrigeration systems for rapid fish chilling, including ice generation technology, heat transfer mechanisms, ice fraction control, and pumpable ice slurry applications in marine and processing environments"
 weight: 2
 ---

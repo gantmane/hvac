@@ -1,5 +1,6 @@
 ---
 title: "Haccp Principles Refrigeration"
+aliases: ["Haccp Principles Refrigeration"]
 weight: 5
 ---
 

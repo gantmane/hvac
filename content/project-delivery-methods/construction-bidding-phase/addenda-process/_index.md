@@ -1,5 +1,6 @@
 ---
 title: "Addenda Process"
+aliases: ["Addenda Process"]
 description: "Comprehensive guide to HVAC construction addenda including preparation procedures, timing requirements, distribution methods, clarification responses, specification modifications, drawing revisions, and documentation practices during the bidding phase"
 weight: 3
 ---

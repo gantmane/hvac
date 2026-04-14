@@ -1,5 +1,6 @@
 ---
 title: "Dd Deliverables"
+aliases: ["Dd Deliverables"]
 weight: 1
 ---
 

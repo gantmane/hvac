@@ -1,5 +1,6 @@
 ---
 title: "Middle East & Africa HVAC Incentive Programs"
+aliases: ["Middle East & Africa HVAC Incentive Programs"]
 description: "Government incentive programs for HVAC energy efficiency in Middle East and Africa including UAE, Saudi Arabia, South Africa, and Kenya climate-specific initiatives."
 weight: 5
 ---

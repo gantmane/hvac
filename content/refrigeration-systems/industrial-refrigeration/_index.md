@@ -1,5 +1,6 @@
 ---
 title: "Industrial Refrigeration Systems Design & Engineering"
+aliases: ["Industrial Refrigeration Systems Design & Engineering"]
 description: "Comprehensive guide to industrial refrigeration systems including ammonia and CO2 systems, compressor configurations, heat rejection, and ASHRAE design standards."
 date: 2024-01-05
 tags: ["industrial refrigeration", "ammonia systems", "CO2 refrigeration", "screw compressors", "evaporative condensers", "ASHRAE 15"]

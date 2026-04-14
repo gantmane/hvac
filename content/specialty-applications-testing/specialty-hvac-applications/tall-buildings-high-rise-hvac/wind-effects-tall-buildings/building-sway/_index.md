@@ -1,8 +1,10 @@
 ---
 title: "Building Sway Impact on HVAC Systems"
+aliases: ["Building Sway Impact on HVAC Systems"]
 weight: 3
 description: "Engineering flexible connections, equipment mounting, and drift accommodation for HVAC systems in tall buildings subject to wind-induced sway and seismic movement."
 keywords: ["building sway", "interstory drift", "flexible connections", "pipe expansion joints", "duct flexible connectors", "seismic HVAC", "equipment isolation", "high-rise movement"]
+tags: ["building sway", "interstory drift", "flexible connections", "pipe expansion joints", "duct flexible connectors", "seismic HVAC", "equipment isolation", "high-rise movement"]
 ---
 
 ## Overview

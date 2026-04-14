@@ -1,5 +1,6 @@
 ---
 title: "Container Refrigeration Units"
+aliases: ["Container Refrigeration Units"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Category I Appliances"
+aliases: ["Category I Appliances"]
 description: "Technical overview of Category I gas appliances featuring natural draft, negative vent pressure, non-condensing operation, and compatibility with Type B vents and masonry chimneys."
 weight: 2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Syrup Preparation"
+aliases: ["Syrup Preparation"]
 description: "Refrigeration and temperature control requirements for soft drink syrup preparation, including dissolution, pasteurization, cooling, and storage processes with microbial control considerations."
 weight: 1
 ---

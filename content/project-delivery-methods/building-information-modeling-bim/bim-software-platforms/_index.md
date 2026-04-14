@@ -1,5 +1,6 @@
 ---
 title: "BIM Software Platforms"
+aliases: ["BIM Software Platforms"]
 description: "Comprehensive guide to BIM software platforms for HVAC design including authoring tools like Revit MEP, analysis platforms, coordination software, and fabrication tools for mechanical system modeling and documentation."
 weight: 4
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Fan Types"
+aliases: ["Fan Types"]
 description: "Comprehensive analysis of HVAC fan types including centrifugal, axial, and mixed flow configurations with performance characteristics, selection criteria, and sizing methods"
 weight: 3
 ---

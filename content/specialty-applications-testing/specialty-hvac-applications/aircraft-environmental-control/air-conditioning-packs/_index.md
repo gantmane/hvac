@@ -1,5 +1,6 @@
 ---
 title: "Aircraft Air Conditioning Packs"
+aliases: ["Aircraft Air Conditioning Packs"]
 description: "Technical analysis of aircraft environmental control system air conditioning packs including air cycle machine operation, bootstrap and simple cycle configurations, pack control systems, and redundancy design for commercial and military aircraft."
 keywords:
   - aircraft air conditioning pack

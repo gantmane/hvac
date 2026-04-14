@@ -1,7 +1,9 @@
 ---
 title: "Variable Air Volume Fume Hoods"
+aliases: ["Variable Air Volume Fume Hoods"]
 description: "VAV fume hood systems with sash position sensing, face velocity control algorithms, energy savings analysis, and safety interlock design per ANSI/AIHA Z9.5 standards."
 keywords: ["VAV fume hoods", "sash position sensors", "face velocity control", "laboratory energy savings", "fume hood interlocks", "variable volume exhaust", "low flow hoods", "hood airflow control"]
+tags: ["VAV fume hoods", "sash position sensors", "face velocity control", "laboratory energy savings", "fume hood interlocks", "variable volume exhaust", "low flow hoods", "hood airflow control"]
 weight: 3
 ---
 

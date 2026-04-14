@@ -1,7 +1,9 @@
 ---
 title: "Automotive Refrigerant System Design"
+aliases: ["Automotive Refrigerant System Design"]
 description: "Engineering principles for automotive A/C system design including component selection, refrigerant charge calculations, pressure analysis, and R-134a vs R-1234yf considerations."
 keywords: ["automotive HVAC design", "refrigerant system automotive", "R-1234yf", "compressor selection", "refrigerant charge calculation", "SAE J639", "automotive condenser", "expansion valve sizing"]
+tags: ["automotive HVAC design", "refrigerant system automotive", "R-1234yf", "compressor selection", "refrigerant charge calculation", "SAE J639", "automotive condenser", "expansion valve sizing"]
 weight: 1
 ---
 

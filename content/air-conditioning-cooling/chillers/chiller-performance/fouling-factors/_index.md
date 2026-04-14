@@ -1,5 +1,6 @@
 ---
 title: "Fouling Factors in Chiller Performance"
+aliases: ["Fouling Factors in Chiller Performance"]
 description: "Engineering analysis of tube fouling in chiller evaporators and condensers including fouling resistance calculation methods, performance degradation impacts, cleaning requirements, and thermal design considerations."
 weight: 3
 ---

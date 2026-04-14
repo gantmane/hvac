@@ -1,7 +1,9 @@
 ---
 title: "Educational Facilities HVAC Systems"
+aliases: ["Educational Facilities HVAC Systems"]
 description: "Comprehensive guide to HVAC design for K-12 schools and universities including ventilation rates, indoor air quality requirements, system selection, noise control, and energy efficiency strategies per ASHRAE standards."
 keywords: "educational facility HVAC, school ventilation rates, classroom air quality, ASHRAE 62.1 schools, university HVAC systems, classroom noise control, school energy efficiency, educational building ventilation"
+tags: ["educational facility HVAC", "school ventilation rates", "classroom air quality", "ASHRAE 62.1 schools", "university HVAC systems", "classroom noise control", "school energy efficiency", "educational building ventilation"]
 weight: 27
 ---
 

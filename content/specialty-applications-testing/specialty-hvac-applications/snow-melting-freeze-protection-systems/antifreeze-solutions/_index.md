@@ -1,5 +1,6 @@
 ---
 title: "Antifreeze Solutions for HVAC Systems"
+aliases: ["Antifreeze Solutions for HVAC Systems"]
 description: "Technical analysis of antifreeze solutions for snow melting and freeze protection systems. Comprehensive coverage of glycol properties, freezing point depression calculations, viscosity effects, and corrosion inhibitor requirements."
 keywords:
   - antifreeze solutions

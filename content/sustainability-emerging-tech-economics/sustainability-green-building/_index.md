@@ -1,5 +1,6 @@
 ---
 title: "Sustainable HVAC and Green Building Integration"
+aliases: ["Sustainable HVAC and Green Building Integration"]
 description: "Physics-based approach to sustainable HVAC design in green buildings, integrating energy efficiency, carbon reduction, and environmental performance metrics."
 keywords: ["sustainable HVAC", "green building", "energy efficiency", "ASHRAE 90.1", "building decarbonization", "HVAC environmental impact", "sustainable design", "energy modeling", "green building certification", "HVAC life cycle analysis"]
 tags: ["sustainability", "energy-efficiency", "green-building", "ASHRAE-90.1", "carbon-reduction", "life-cycle-assessment"]

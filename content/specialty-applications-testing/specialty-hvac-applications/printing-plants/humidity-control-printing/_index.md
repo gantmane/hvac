@@ -1,9 +1,11 @@
 ---
 title: "Humidity Control for Printing Operations"
+aliases: ["Humidity Control for Printing Operations"]
 linkTitle: "Humidity Control"
 weight: 3
 description: "Technical guidance on humidity control for printing plants covering paper conditioning, dimensional stability, curl control, registration accuracy, and humidification system design."
 keywords: ["printing humidity control", "paper dimensional stability", "printing plant HVAC", "curl control", "paper conditioning", "registration accuracy", "printing humidification", "hygroscopic paper", "printing standards", "web offset printing"]
+tags: ["printing humidity control", "paper dimensional stability", "printing plant HVAC", "curl control", "paper conditioning", "registration accuracy", "printing humidification", "hygroscopic paper", "printing standards", "web offset printing"]
 ---
 
 Humidity control represents the most critical environmental parameter in printing operations. Paper's hygroscopic nature causes dimensional changes with moisture content variations, directly affecting print registration, color consistency, and product quality. Precise relative humidity maintenance prevents paper curl, dimensional distortion, and electrostatic discharge that compromise multi-color registration accuracy.

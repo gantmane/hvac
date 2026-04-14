@@ -1,7 +1,9 @@
 ---
 title: "AV Equipment Heat Loads in Ballrooms"
+aliases: ["AV Equipment Heat Loads in Ballrooms"]
 description: "Engineering analysis of audio-visual equipment heat loads for ballroom HVAC design including projection systems, sound amplifiers, lighting rigs, and equipment rack cooling strategies."
 keywords: ["ballroom AV cooling", "projection system heat load", "amplifier heat dissipation", "stage lighting HVAC", "equipment rack cooling", "temporary AV loads", "display screen heat gain", "sound system cooling"]
+tags: ["ballroom AV cooling", "projection system heat load", "amplifier heat dissipation", "stage lighting HVAC", "equipment rack cooling", "temporary AV loads", "display screen heat gain", "sound system cooling"]
 weight: 4
 ---
 

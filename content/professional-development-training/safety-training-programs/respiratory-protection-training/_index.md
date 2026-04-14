@@ -1,5 +1,6 @@
 ---
 title: "Respiratory Protection Training for HVAC Technicians"
+aliases: ["Respiratory Protection Training for HVAC Technicians"]
 description: "Technical training on respiratory protection for HVAC work including respirator selection, fit testing, filtration physics, and OSHA compliance requirements."
 date: 2025-01-05
 keywords: ["respiratory protection", "HVAC safety", "respirator training", "fit testing", "OSHA 1910.134", "air-purifying respirators", "SCBA", "filtration efficiency"]

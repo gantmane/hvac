@@ -1,7 +1,9 @@
 ---
 title: "Control System Performance Metrics"
+aliases: ["Control System Performance Metrics"]
 description: "Quantitative metrics for evaluating HVAC control system performance including settling time, overshoot, integral error measures, and ASHRAE standards compliance."
 keywords: ["control system performance", "settling time", "overshoot", "integral error", "IAE ISE ITAE", "HVAC control metrics", "ASHRAE Guideline 36", "controller assessment"]
+tags: ["control system performance", "settling time", "overshoot", "integral error", "IAE ISE ITAE", "HVAC control metrics", "ASHRAE Guideline 36", "controller assessment"]
 weight: 12
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Heat from Dryers in Web Press HVAC"
+aliases: ["Heat from Dryers in Web Press HVAC"]
 description: "Engineering analysis of dryer heat loads in web offset printing including heat-set and UV dryer thermal calculations, exhaust system design, and heat recovery strategies."
 keywords:
   - web press dryer heat loads

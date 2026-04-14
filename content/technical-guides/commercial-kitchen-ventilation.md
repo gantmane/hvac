@@ -2,6 +2,7 @@
 title: "Commercial Kitchen Ventilation & Exhaust Hood Design"
 description: "Engineering guide to commercial kitchen HVAC including Type I/II hood design, exhaust rates, makeup air requirements, grease control, and demand-controlled kitchen ventilation systems."
 keywords: ["commercial kitchen", "exhaust hood", "makeup air", "Type I hood", "grease control", "kitchen ventilation", "demand ventilation", "NFPA 96"]
+tags: ["commercial kitchen", "exhaust hood", "makeup air", "Type I hood", "grease control", "kitchen ventilation", "demand ventilation", "NFPA 96"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 40
@@ -390,11 +391,11 @@ $$CFM_{exhaust} > CFM_{makeup} + CFM_{transfer}$$
 ---
 
 **Related Technical Guides:**
-- [Ventilation Rate Calculations](/technical-guides/ventilation-rate-calculations/)
-- [Building Pressurization Control](/technical-guides/building-pressurization-control/)
-- [Fan Selection & Performance](/technical-guides/fan-selection-performance/)
-- [Air Filtration Design](/technical-guides/air-filtration-design/)
-- [HVAC Control Strategies](/technical-guides/hvac-control-strategies/)
+- Ventilation Rate Calculations
+- Building Pressurization Control
+- Fan Selection & Performance
+- Air Filtration Design
+- HVAC Control Strategies
 
 **References:**
 - ASHRAE Handbook HVAC Applications, Chapter 35: Kitchen Ventilation

@@ -1,7 +1,9 @@
 ---
 title: "Nuclear Safety-Related HVAC Systems"
+aliases: ["Nuclear Safety-Related HVAC Systems"]
 description: "Comprehensive guide to safety-related HVAC systems in nuclear facilities including redundancy requirements, seismic qualification, emergency power, safety classification, and single failure criterion compliance per NRC regulations."
 keywords: ["nuclear HVAC", "safety-related systems", "seismic qualification", "redundancy requirements", "NRC regulations", "single failure criterion", "emergency power", "safety classification", "nuclear ventilation", "10 CFR 50 Appendix A", "IEEE 323", "Regulatory Guide 1.52"]
+tags: ["nuclear HVAC", "safety-related systems", "seismic qualification", "redundancy requirements", "NRC regulations", "single failure criterion", "emergency power", "safety classification", "nuclear ventilation", "10 CFR 50 Appendix A"]
 weight: 1
 ---
 

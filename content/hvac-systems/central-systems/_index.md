@@ -1,5 +1,6 @@
 ---
 title: "Central HVAC Systems: Design and Performance"
+aliases: ["Central HVAC Systems: Design and Performance"]
 description: "Comprehensive analysis of central HVAC systems including all-air, all-water, and air-water configurations with physics-based design principles and performance metrics."
 date: 2026-01-05
 type: docs

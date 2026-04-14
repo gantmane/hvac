@@ -1,7 +1,9 @@
 ---
 title: "Automotive Heater Core Systems"
+aliases: ["Automotive Heater Core Systems"]
 description: "Technical analysis of heater core heat exchangers including tube-and-fin construction, coolant flow dynamics, air-side heat transfer, and temperature control mechanisms."
 keywords: ["heater core", "automotive HVAC", "tube and fin heat exchanger", "coolant flow", "blend door", "defrost mode", "SAE J2765", "air-side heat transfer"]
+tags: ["heater core", "automotive HVAC", "tube and fin heat exchanger", "coolant flow", "blend door", "defrost mode", "SAE J2765", "air-side heat transfer"]
 weight: 1
 ---
 

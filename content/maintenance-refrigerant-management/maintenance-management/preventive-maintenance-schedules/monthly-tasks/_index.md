@@ -1,7 +1,9 @@
 ---
 title: "Monthly Preventive Maintenance Tasks for HVAC Systems"
+aliases: ["Monthly Preventive Maintenance Tasks for HVAC Systems"]
 description: "Comprehensive monthly HVAC maintenance checklists covering filter changes, belt inspection, control checks, and equipment-specific tasks to ensure optimal system performance."
 keywords: ["monthly HVAC maintenance", "filter replacement schedule", "belt inspection", "preventive maintenance checklist", "HVAC control checks", "equipment inspection", "condensate drain", "thermostat calibration"]
+tags: ["monthly HVAC maintenance", "filter replacement schedule", "belt inspection", "preventive maintenance checklist", "HVAC control checks", "equipment inspection", "condensate drain", "thermostat calibration"]
 weight: 1
 ---
 

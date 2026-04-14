@@ -1,8 +1,10 @@
 ---
 title: "Ice-Based Cooling Systems for Deep Mines"
+aliases: ["Ice-Based Cooling Systems for Deep Mines"]
 weight: 4
 description: "Ice cooling technology for underground mining heat stress control using latent heat of fusion, ice slurry distribution systems, and phase change thermal energy storage for deep mine applications."
 keywords: ["ice cooling mines", "ice slurry systems", "latent heat fusion cooling", "deep mine refrigeration", "thermal energy storage mining", "South African mine cooling", "ice plant underground", "mine heat stress control"]
+tags: ["ice cooling mines", "ice slurry systems", "latent heat fusion cooling", "deep mine refrigeration", "thermal energy storage mining", "South African mine cooling", "ice plant underground", "mine heat stress control"]
 ---
 
 Ice-based cooling systems exploit the latent heat of fusion to provide efficient thermal energy storage and distribution for deep underground mining operations. These systems deliver cooling capacity by transporting ice or ice slurry to working areas where the phase change from solid to liquid absorbs heat at constant temperature, providing superior heat removal compared to sensible cooling alone.

@@ -1,5 +1,6 @@
 ---
 title: "Temperature Stratification Holds"
+aliases: ["Temperature Stratification Holds"]
 weight: 6
 ---
 

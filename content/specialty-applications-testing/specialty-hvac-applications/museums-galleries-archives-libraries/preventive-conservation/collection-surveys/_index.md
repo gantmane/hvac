@@ -1,7 +1,9 @@
 ---
 title: "Collection Surveys for Preventive Conservation"
+aliases: ["Collection Surveys for Preventive Conservation"]
 description: "Comprehensive guide to condition assessment, environmental impact documentation, and risk analysis for establishing climate control priorities in cultural heritage institutions."
 keywords: ["collection surveys", "condition assessment", "environmental monitoring", "risk analysis", "preventive conservation", "baseline documentation", "climate control priorities", "conservation surveys"]
+tags: ["collection surveys", "condition assessment", "environmental monitoring", "risk analysis", "preventive conservation", "baseline documentation", "climate control priorities", "conservation surveys"]
 weight: 4
 ---
 

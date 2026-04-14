@@ -1,5 +1,6 @@
 ---
 title: "Elevated Equipment Installation"
+aliases: ["Elevated Equipment Installation"]
 description: "Structural design for rooftop and elevated HVAC equipment installations including platform supports, access requirements, and load calculations per ASCE 7 and IBC."
 date: 2025-01-05
 draft: false

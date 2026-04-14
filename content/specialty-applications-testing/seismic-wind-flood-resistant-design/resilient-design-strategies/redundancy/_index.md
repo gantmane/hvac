@@ -1,5 +1,6 @@
 ---
 title: "HVAC System Redundancy Configurations"
+aliases: ["HVAC System Redundancy Configurations"]
 description: "Engineering principles for N+1, 2N, and 2N+1 redundancy in critical HVAC systems, eliminating single points of failure for data centers and mission-critical facilities."
 keywords:
   - N+1 redundancy HVAC

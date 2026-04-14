@@ -1,5 +1,6 @@
 ---
 title: "Insulation Materials Properties"
+aliases: ["Insulation Materials Properties"]
 description: "Thermal conductivity, R-values, density, and moisture resistance of fibrous, foam, and reflective insulation materials for HVAC applications"
 weight: 3
 ---

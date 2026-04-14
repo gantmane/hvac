@@ -1,8 +1,10 @@
 ---
 title: "Data Center Cooling Redundancy & Reliability"
+aliases: ["Data Center Cooling Redundancy & Reliability"]
 seo_title: "Data Center HVAC Redundancy: N+1, 2N, Tier Standards"
 description: "Comprehensive guide to data center cooling redundancy configurations including N+1, 2N, 2N+1 architectures, Uptime Institute tier classifications, and availability calculations."
 keywords: ["data center redundancy", "N+1 cooling", "2N configuration", "Uptime Institute tiers", "concurrent maintainability", "fault tolerance", "CRAC redundancy", "availability calculation"]
+tags: ["data center redundancy", "N+1 cooling", "2N configuration", "Uptime Institute tiers", "concurrent maintainability", "fault tolerance", "CRAC redundancy", "availability calculation"]
 weight: 5
 ---
 

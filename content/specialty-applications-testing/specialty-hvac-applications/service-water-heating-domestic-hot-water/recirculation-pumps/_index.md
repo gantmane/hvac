@@ -1,8 +1,10 @@
 ---
 title: "DHW Recirculation Pumps: Design & Energy Analysis"
+aliases: ["DHW Recirculation Pumps: Design & Energy Analysis"]
 weight: 5
 description: "Technical analysis of domestic hot water recirculation pump systems including continuous vs demand operation, energy consumption calculations, pipe heat loss physics, and system sizing methods."
 keywords: ["DHW recirculation pumps", "hot water circulation systems", "demand recirculation", "pipe heat loss", "recirculation pump sizing", "hot water loop design", "DHW energy consumption", "aquastat control"]
+tags: ["DHW recirculation pumps", "hot water circulation systems", "demand recirculation", "pipe heat loss", "recirculation pump sizing", "hot water loop design", "DHW energy consumption", "aquastat control"]
 ---
 
 Recirculation pump systems maintain hot water temperature throughout distribution piping by continuously or intermittently circulating water from remote fixtures back to the water heater. These systems eliminate the wait time for hot water delivery but introduce parasitic energy losses and pumping energy consumption that require careful engineering analysis.

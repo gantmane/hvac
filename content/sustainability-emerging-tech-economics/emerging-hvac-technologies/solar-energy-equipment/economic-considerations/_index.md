@@ -1,5 +1,6 @@
 ---
 title: "Solar HVAC Economic Analysis & ROI Calculations"
+aliases: ["Solar HVAC Economic Analysis & ROI Calculations"]
 description: "Economics of solar thermal and PV-powered HVAC systems. Lifecycle cost analysis, payback periods, incentives, and financial metrics for solar energy applications."
 date: 2025-01-05
 tags: ["solar economics", "lifecycle cost", "ROI analysis", "payback period", "energy economics", "solar thermal economics", "PV economics", "LCOE"]

@@ -1,7 +1,9 @@
 ---
 title: "Comfort Considerations in Hotel Room Setback"
+aliases: ["Comfort Considerations in Hotel Room Setback"]
 description: "Guest comfort expectations, temperature and humidity limits during setback, preventing extreme conditions, mold prevention, and VIP suite considerations."
 keywords: ["hotel comfort", "room setback limits", "guest satisfaction", "humidity control", "temperature recovery", "VIP suites", "mold prevention", "complaint prevention"]
+tags: ["hotel comfort", "room setback limits", "guest satisfaction", "humidity control", "temperature recovery", "VIP suites", "mold prevention", "complaint prevention"]
 date: 2025-01-11
 draft: false
 weight: 4

@@ -1,5 +1,6 @@
 ---
 title: "Regulations Compliance"
+aliases: ["Regulations Compliance"]
 weight: 5
 ---
 

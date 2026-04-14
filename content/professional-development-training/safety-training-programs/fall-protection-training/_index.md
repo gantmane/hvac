@@ -1,5 +1,6 @@
 ---
 title: "Fall Protection Training for HVAC Technicians"
+aliases: ["Fall Protection Training for HVAC Technicians"]
 description: "Comprehensive fall protection training covering OSHA regulations, anchor point calculations, fall arrest physics, and equipment selection for rooftop HVAC work."
 date: 2025-01-05
 tags: ["fall protection", "safety training", "OSHA", "rooftop work", "personal protective equipment", "fall arrest systems"]

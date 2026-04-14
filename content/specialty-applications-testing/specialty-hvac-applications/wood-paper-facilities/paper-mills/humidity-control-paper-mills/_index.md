@@ -1,5 +1,6 @@
 ---
 title: "Humidity Control in Paper Mill Operations"
+aliases: ["Humidity Control in Paper Mill Operations"]
 description: "Engineering guide to humidity control systems for paper manufacturing including moisture equilibrium relationships, zone control strategies, and dimensional stability requirements."
 keywords:
   - paper mill humidity control

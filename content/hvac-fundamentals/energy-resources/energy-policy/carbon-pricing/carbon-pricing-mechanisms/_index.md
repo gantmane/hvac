@@ -1,7 +1,9 @@
 ---
 title: "Carbon Pricing Mechanisms for HVAC Systems"
+aliases: ["Carbon Pricing Mechanisms for HVAC Systems"]
 description: "Comprehensive analysis of carbon tax and cap-and-trade systems affecting HVAC energy costs, including comparison tables and implementation strategies."
 keywords: ["carbon tax", "cap-and-trade", "emissions trading", "carbon offsets", "HVAC carbon pricing", "greenhouse gas policy", "energy policy HVAC", "carbon credits"]
+tags: ["carbon tax", "cap-and-trade", "emissions trading", "carbon offsets", "HVAC carbon pricing", "greenhouse gas policy", "energy policy HVAC", "carbon credits"]
 weight: 1
 ---
 

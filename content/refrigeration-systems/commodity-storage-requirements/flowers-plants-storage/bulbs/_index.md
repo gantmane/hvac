@@ -1,5 +1,6 @@
 ---
 title: "Bulbs"
+aliases: ["Bulbs"]
 weight: 3
 ---
 

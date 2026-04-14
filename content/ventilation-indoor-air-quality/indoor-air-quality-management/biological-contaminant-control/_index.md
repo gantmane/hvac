@@ -1,7 +1,9 @@
 ---
 title: "Biological Contaminant Control in HVAC Systems"
+aliases: ["Biological Contaminant Control in HVAC Systems"]
 description: "Comprehensive guide to controlling airborne biological contaminants including bacteria, viruses, mold, and pollen through filtration, UVGI, and ventilation strategies per ASHRAE 62.1."
 keywords: ["biological contaminants", "UVGI disinfection", "HEPA filtration", "airborne pathogens", "mold control", "indoor air quality", "biosecurity", "air disinfection"]
+tags: ["biological contaminants", "UVGI disinfection", "HEPA filtration", "airborne pathogens", "mold control", "indoor air quality", "biosecurity", "air disinfection"]
 weight: 5
 draft: false
 ---

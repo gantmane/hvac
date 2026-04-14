@@ -1,7 +1,9 @@
 ---
 title: "Livestock Environmental Control Systems"
+aliases: ["Livestock Environmental Control Systems"]
 description: "Comprehensive guide to HVAC design for livestock facilities covering thermoneutral zones, ventilation requirements, heat stress management, and ammonia control."
 keywords: ["livestock ventilation", "animal environmental control", "thermoneutral zone", "heat stress management", "ammonia control HVAC", "agricultural climate control", "livestock facility design", "barn ventilation systems"]
+tags: ["livestock ventilation", "animal environmental control", "thermoneutral zone", "heat stress management", "ammonia control HVAC", "agricultural climate control", "livestock facility design", "barn ventilation systems"]
 weight: 3
 ---
 

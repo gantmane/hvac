@@ -1,8 +1,10 @@
 ---
 title: "Air Source Heat Pump Components"
+aliases: ["Air Source Heat Pump Components"]
 weight: 1
 description: "Comprehensive technical analysis of air source heat pump components including compressors, reversing valves, heat exchangers, expansion devices, defrost controls, and refrigerant charge requirements."
 keywords: ["heat pump compressor", "reversing valve operation", "heat pump coils", "expansion valve", "defrost control", "auxiliary heat", "refrigerant charge"]
+tags: ["heat pump compressor", "reversing valve operation", "heat pump coils", "expansion valve", "defrost control", "auxiliary heat", "refrigerant charge"]
 ---
 
 ## Air Source Heat Pump Components

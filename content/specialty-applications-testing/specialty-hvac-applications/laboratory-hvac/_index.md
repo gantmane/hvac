@@ -1,8 +1,10 @@
 ---
 title: "Laboratory HVAC Systems"
+aliases: ["Laboratory HVAC Systems"]
 weight: 2
 description: "Comprehensive engineering analysis of laboratory HVAC systems including fume hood exhaust requirements, makeup air coordination, building pressure relationships, variable air volume control strategies, and air change rate specifications per ASHRAE and ANSI Z9.5 standards for research, clinical, and teaching laboratories."
 keywords: "laboratory HVAC, fume hood exhaust, VAV lab systems, laboratory air changes, ANSI Z9.5, laboratory ventilation, makeup air systems, lab pressure control, constant volume fume hoods, laboratory safety ventilation"
+tags: ["laboratory HVAC", "fume hood exhaust", "VAV lab systems", "laboratory air changes", "ANSI Z9.5", "laboratory ventilation", "makeup air systems", "lab pressure control", "constant volume fume hoods", "laboratory safety ventilation"]
 ---
 
 # Laboratory HVAC Systems

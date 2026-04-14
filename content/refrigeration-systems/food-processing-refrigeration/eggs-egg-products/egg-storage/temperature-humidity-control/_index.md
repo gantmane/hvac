@@ -1,5 +1,6 @@
 ---
 title: "Temperature Humidity Control"
+aliases: ["Temperature Humidity Control"]
 description: "Advanced temperature and humidity control strategies for egg storage facilities including psychrometric analysis, sensor placement, control system design, and ASHRAE compliance for optimal shell egg preservation and quality maintenance"
 weight: 2
 ---

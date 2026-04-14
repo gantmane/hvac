@@ -1,7 +1,9 @@
 ---
 title: "Derivative Control: Rate Action in PID Systems"
+aliases: ["Derivative Control: Rate Action in PID Systems"]
 description: "Comprehensive analysis of derivative control action in PID systems, covering rate response, noise filtering, tuning parameters Kd and Td, and practical implementation limitations."
 keywords: ["derivative control", "rate action", "PID tuning", "derivative time", "noise filtering", "derivative kick", "HVAC controls", "anticipatory control"]
+tags: ["derivative control", "rate action", "PID tuning", "derivative time", "noise filtering", "derivative kick", "HVAC controls", "anticipatory control"]
 weight: 3
 ---
 

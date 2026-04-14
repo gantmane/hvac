@@ -1,8 +1,10 @@
 ---
 title: "Pressure Balance Mixing Valves for Domestic Hot Water"
+aliases: ["Pressure Balance Mixing Valves for Domestic Hot Water"]
 seo_title: "Pressure Balance Valves: Thermal Shock Prevention"
 description: "Technical analysis of pressure balance mixing valves for domestic hot water systems. Covers pressure compensation mechanisms, flow balancing, scald prevention, and valve selection per ASSE 1016."
 keywords: ["pressure balance valve", "thermal shock prevention", "scald protection", "ASSE 1016", "shower valve", "pressure compensation", "mixing valve selection", "domestic hot water safety"]
+tags: ["pressure balance valve", "thermal shock prevention", "scald protection", "ASSE 1016", "shower valve", "pressure compensation", "mixing valve selection", "domestic hot water safety"]
 weight: 4
 ---
 

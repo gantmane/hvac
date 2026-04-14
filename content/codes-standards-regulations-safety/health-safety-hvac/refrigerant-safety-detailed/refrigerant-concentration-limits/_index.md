@@ -1,8 +1,10 @@
 ---
 title: "Refrigerant Concentration Limits (RCL) and ASHRAE 15 Calculations"
+aliases: ["Refrigerant Concentration Limits (RCL) and ASHRAE 15 Calculations"]
 date: 2026-01-04
 description: "Detailed technical guide to refrigerant concentration limit (RCL) calculations per ASHRAE Standard 15, including probability factors, occupied space requirements, machinery room charge limits, and compliance verification procedures."
 keywords: ["RCL calculation", "refrigerant concentration limit", "ASHRAE 15", "refrigerant charge limit", "probability factor", "machinery room requirements", "occupied space safety", "refrigerant leak scenarios"]
+tags: ["RCL calculation", "refrigerant concentration limit", "ASHRAE 15", "refrigerant charge limit", "probability factor", "machinery room requirements", "occupied space safety", "refrigerant leak scenarios"]
 ---
 
 ## Refrigerant Concentration Limit Fundamentals

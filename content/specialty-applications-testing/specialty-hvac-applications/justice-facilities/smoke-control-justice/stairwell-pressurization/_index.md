@@ -1,7 +1,9 @@
 ---
 title: "Stairwell Pressurization for Justice Facilities"
+aliases: ["Stairwell Pressurization for Justice Facilities"]
 description: "Technical guide to stairwell pressurization systems in correctional facilities covering pressure differentials, fan sizing, security integration, and code compliance."
 keywords: ["stairwell pressurization", "correctional HVAC", "smoke control", "NFPA 92", "egress pressurization", "justice facility ventilation", "door opening forces", "security integration"]
+tags: ["stairwell pressurization", "correctional HVAC", "smoke control", "NFPA 92", "egress pressurization", "justice facility ventilation", "door opening forces", "security integration"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Solar Kilns for Lumber Drying"
+aliases: ["Solar Kilns for Lumber Drying"]
 description: "Engineering guide to solar kiln design for wood drying including collector sizing, thermal storage, passive and active configurations, and solar heat gain calculations."
 keywords:
   - solar kiln design

@@ -1,5 +1,6 @@
 ---
 title: "Temperature Recovery Time in Hotel Setback Systems"
+aliases: ["Temperature Recovery Time in Hotel Setback Systems"]
 description: "Recovery time calculation methods, equipment sizing for rapid response, pre-arrival notification integration, guest arrival prediction, and optimal setback depth tradeoffs."
 date: "2026-01-11"
 weight: 3

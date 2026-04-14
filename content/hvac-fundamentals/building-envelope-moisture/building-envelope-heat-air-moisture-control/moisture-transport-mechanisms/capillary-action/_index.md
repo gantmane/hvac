@@ -1,5 +1,6 @@
 ---
 title: "Capillary Action"
+aliases: ["Capillary Action"]
 description: "Physics of capillary moisture transport in porous building materials including wicking mechanisms, capillary pressure calculations, and transport coefficients for HVAC envelope design"
 weight: 3
 ---

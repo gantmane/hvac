@@ -1,5 +1,6 @@
 ---
 title: "Dedicated Outdoor Air Systems (DOAS)"
+aliases: ["Dedicated Outdoor Air Systems (DOAS)"]
 linkTitle: "DOAS"
 weight: 6
 description: "Comprehensive analysis of dedicated outdoor air systems including decoupled ventilation strategies, dehumidification approaches, parallel and series configurations, and energy recovery integration for optimized indoor air quality and energy performance."

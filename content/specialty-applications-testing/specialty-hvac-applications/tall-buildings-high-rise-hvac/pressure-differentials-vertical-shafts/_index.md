@@ -1,8 +1,10 @@
 ---
 title: "Pressure Differentials in Vertical Shafts"
+aliases: ["Pressure Differentials in Vertical Shafts"]
 weight: 2
 description: "Physics-based analysis of stack effect, neutral pressure plane location, and seasonal pressure variations in high-rise building vertical shafts with calculation methods."
 keywords: ["stack effect", "neutral pressure plane", "vertical shaft pressure", "high-rise pressure differential", "thermal buoyancy", "shaft pressurization", "elevator shaft pressure", "stairwell pressurization"]
+tags: ["stack effect", "neutral pressure plane", "vertical shaft pressure", "high-rise pressure differential", "thermal buoyancy", "shaft pressurization", "elevator shaft pressure", "stairwell pressurization"]
 ---
 
 Vertical shafts in tall buildings create unique pressure differential challenges driven by thermal buoyancy forces. Understanding the physics of stack effect, neutral pressure plane dynamics, and seasonal variations is essential for designing high-rise HVAC systems that maintain occupant comfort, control air infiltration, and ensure proper building pressurization.

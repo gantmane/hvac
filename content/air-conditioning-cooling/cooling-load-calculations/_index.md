@@ -1,5 +1,6 @@
 ---
 title: "Cooling Load Calculations"
+aliases: ["Cooling Load Calculations"]
 description: "Comprehensive guide to HVAC cooling load calculation methods including heat gain analysis, CLTD/CLF, RTS, and heat balance approaches per ASHRAE standards."
 date: "2026-01-04"
 weight: 15

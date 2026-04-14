@@ -1,5 +1,6 @@
 ---
 title: "Seismic Bracing for HVAC Ductwork Systems"
+aliases: ["Seismic Bracing for HVAC Ductwork Systems"]
 description: "Comprehensive guide to seismic bracing design for HVAC ductwork including SMACNA requirements, lateral and longitudinal bracing configurations, load calculations, and spacing criteria per ASCE 7 and IBC standards."
 date: 2026-01-05
 weight: 4

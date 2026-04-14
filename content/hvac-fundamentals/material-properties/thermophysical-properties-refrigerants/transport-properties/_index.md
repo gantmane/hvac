@@ -1,5 +1,6 @@
 ---
 title: "Transport Properties"
+aliases: ["Transport Properties"]
 description: "Refrigerant transport properties including dynamic and kinematic viscosity, thermal conductivity, and surface tension - critical parameters for heat transfer coefficient calculation, pressure drop analysis, and refrigeration system design"
 weight: 7
 ---

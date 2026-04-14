@@ -1,5 +1,6 @@
 ---
 title: "Gaseous Contaminant Control Systems"
+aliases: ["Gaseous Contaminant Control Systems"]
 description: "Technical analysis of activated carbon adsorption, potassium permanganate oxidation, photocatalytic systems, and VOC removal strategies for HVAC applications with adsorption isotherms and breakthrough analysis."
 keywords:
   - gaseous contaminant control

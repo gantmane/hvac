@@ -1,7 +1,9 @@
 ---
 title: "Heat Sources for Snow Melting Systems"
+aliases: ["Heat Sources for Snow Melting Systems"]
 description: "Comprehensive analysis of heat sources for snow melting applications including boilers, heat pumps, geothermal, solar thermal, and waste heat recovery with sizing criteria and performance comparison"
 keywords: ["snow melt heat source", "boiler snow melting", "heat pump snow melt", "geothermal snow melting", "waste heat recovery", "solar thermal snow melt", "heat source selection", "ASHRAE snow melting"]
+tags: ["snow melt heat source", "boiler snow melting", "heat pump snow melt", "geothermal snow melting", "waste heat recovery", "solar thermal snow melt", "heat source selection", "ASHRAE snow melting"]
 weight: 9
 ---
 

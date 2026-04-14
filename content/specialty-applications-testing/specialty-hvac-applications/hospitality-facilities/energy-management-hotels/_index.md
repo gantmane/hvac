@@ -1,5 +1,6 @@
 ---
 title: "Hotel HVAC Energy Management Systems"
+aliases: ["Hotel HVAC Energy Management Systems"]
 description: "Comprehensive guide to hotel energy optimization including room automation, occupancy-based controls, central system optimization, load shedding strategies, and night setback protocols for maximum efficiency."
 date: "2026-01-05"
 weight: 8

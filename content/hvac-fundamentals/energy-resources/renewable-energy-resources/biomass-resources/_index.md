@@ -1,7 +1,9 @@
 ---
 title: "Biomass Energy Resources for HVAC Applications"
+aliases: ["Biomass Energy Resources for HVAC Applications"]
 description: "Technical analysis of biomass resources for HVAC heating. Covers feedstocks, conversion technologies, energy calculations, and boiler system integration."
 keywords: ["biomass energy", "biomass heating", "wood pellets", "biogas", "biomass boilers", "renewable heating", "combustion efficiency", "biomass feedstocks"]
+tags: ["biomass energy", "biomass heating", "wood pellets", "biogas", "biomass boilers", "renewable heating", "combustion efficiency", "biomass feedstocks"]
 weight: 4
 ---
 

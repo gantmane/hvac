@@ -1,7 +1,9 @@
 ---
 title: "Pressure Differential Calculation Methods"
+aliases: ["Pressure Differential Calculation Methods"]
 description: "Engineering calculation methods for stack effect, wind pressure, and combined thermal-wind analysis in high-rise HVAC systems with computational tools and design procedures."
 keywords: ["stack effect calculation", "neutral pressure plane", "wind pressure analysis", "shaft pressure differential", "thermal buoyancy", "CFD HVAC", "high-rise pressure", "vertical shaft airflow"]
+tags: ["stack effect calculation", "neutral pressure plane", "wind pressure analysis", "shaft pressure differential", "thermal buoyancy", "CFD HVAC", "high-rise pressure", "vertical shaft airflow"]
 weight: 4
 ---
 

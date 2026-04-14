@@ -1,8 +1,10 @@
 ---
 title: "Stainless Steel Piping for Domestic Hot Water"
+aliases: ["Stainless Steel Piping for Domestic Hot Water"]
 weight: 4
 description: "Engineering guide to stainless steel piping in DHW systems covering Type 304/316 selection, press-fit connections, chloride stress corrosion, pressure ratings, and code compliance."
 keywords: ["stainless steel piping", "domestic hot water", "Type 316 stainless", "press-fit connections", "chloride stress corrosion", "CSST", "DHW piping materials", "corrosion resistance"]
+tags: ["stainless steel piping", "domestic hot water", "Type 316 stainless", "press-fit connections", "chloride stress corrosion", "CSST", "DHW piping materials", "corrosion resistance"]
 ---
 
 ## Overview

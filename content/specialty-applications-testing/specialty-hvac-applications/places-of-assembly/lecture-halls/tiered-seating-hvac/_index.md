@@ -1,7 +1,9 @@
 ---
 title: "HVAC Design for Tiered Seating in Lecture Halls"
+aliases: ["HVAC Design for Tiered Seating in Lecture Halls"]
 description: "Technical analysis of underfloor air distribution, displacement ventilation, and thermal stratification management in tiered lecture hall seating with stepped floors."
 keywords: ["tiered seating HVAC", "underfloor air distribution", "displacement ventilation", "thermal stratification", "lecture hall ventilation", "seat plenum diffusers", "stepped floor HVAC"]
+tags: ["tiered seating HVAC", "underfloor air distribution", "displacement ventilation", "thermal stratification", "lecture hall ventilation", "seat plenum diffusers", "stepped floor HVAC"]
 weight: 1
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Moisture Content Control in Hay Drying and Storage"
+aliases: ["Moisture Content Control in Hay Drying and Storage"]
 description: "Safe storage moisture levels for hay preservation, measurement methods, equilibrium moisture concepts, and drying rate factors for quality control."
 keywords: ["hay moisture content", "safe storage moisture", "hay drying rate", "equilibrium moisture content", "moisture measurement", "hay preservation", "mold prevention", "spontaneous combustion"]
+tags: ["hay moisture content", "safe storage moisture", "hay drying rate", "equilibrium moisture content", "moisture measurement", "hay preservation", "mold prevention", "spontaneous combustion"]
 weight: 4
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Air Source Heat Pumps"
+aliases: ["Air Source Heat Pumps"]
 description: "Air source heat pump systems fundamentals: reversing valve operation, heating and cooling modes, capacity-temperature relationships, and efficiency ratings HSPF, SEER."
 weight: 1
 keywords:

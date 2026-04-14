@@ -1,5 +1,6 @@
 ---
 title: "Enthalpy and Entropy of Water"
+aliases: ["Enthalpy and Entropy of Water"]
 description: "Thermodynamic properties of water and steam including enthalpy, entropy, property tables, and applications in HVAC system design and analysis"
 weight: 5
 ---

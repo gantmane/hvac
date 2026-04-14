@@ -1,5 +1,6 @@
 ---
 title: "Vapor Compression Cycles"
+aliases: ["Vapor Compression Cycles"]
 description: "Comprehensive analysis of vapor compression refrigeration cycles including ideal vs actual cycles, P-h diagram analysis, COP calculations, multi-stage compression, cascade systems, economizers, subcooling and superheat effects, and performance optimization for HVAC professionals."
 weight: 1
 ---

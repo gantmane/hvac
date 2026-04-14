@@ -1,5 +1,6 @@
 ---
 title: "Psychrophilic"
+aliases: ["Psychrophilic"]
 weight: 1
 ---
 

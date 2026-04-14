@@ -1,5 +1,6 @@
 ---
 title: "Flow Control Devices"
+aliases: ["Flow Control Devices"]
 description: "Hydronic system flow control devices including balancing valves, isolation valves, check valves, pressure relief valves, and automatic flow limiting valves for heating and cooling systems."
 weight: 8
 ---

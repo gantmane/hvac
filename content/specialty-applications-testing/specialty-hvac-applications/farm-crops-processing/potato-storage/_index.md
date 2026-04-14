@@ -1,7 +1,9 @@
 ---
 title: "Potato Storage HVAC Systems Engineering"
+aliases: ["Potato Storage HVAC Systems Engineering"]
 description: "Comprehensive engineering guide to potato storage HVAC design including respiration heat calculations, curing phase control, suberization requirements, and sprout suppression strategies per ASABE standards."
 keywords: ["potato storage HVAC", "tuber respiration heat", "curing phase", "suberization", "sprout suppression", "ASABE D272.3", "forced ventilation design", "wound healing climate"]
+tags: ["potato storage HVAC", "tuber respiration heat", "curing phase", "suberization", "sprout suppression", "ASABE D272.3", "forced ventilation design", "wound healing climate"]
 weight: 2
 ---
 

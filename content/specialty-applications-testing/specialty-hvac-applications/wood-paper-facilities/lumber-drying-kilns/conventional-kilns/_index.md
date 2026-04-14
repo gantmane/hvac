@@ -1,5 +1,6 @@
 ---
 title: "Conventional Lumber Kilns: Steam and Direct-Fired Systems"
+aliases: ["Conventional Lumber Kilns: Steam and Direct-Fired Systems"]
 description: "Technical analysis of conventional kiln HVAC systems including steam-heated, direct-fired configurations, air circulation patterns, drying schedules, and EMC control."
 keywords:
   - conventional lumber kilns

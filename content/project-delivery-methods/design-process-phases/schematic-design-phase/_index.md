@@ -1,5 +1,6 @@
 ---
 title: "Schematic Design Phase"
+aliases: ["Schematic Design Phase"]
 description: "Comprehensive guide to HVAC schematic design phase including system concept development, preliminary load calculations, equipment space allocation, major equipment selection, energy analysis, and schematic drawings for HVAC professionals"
 weight: 1
 ---

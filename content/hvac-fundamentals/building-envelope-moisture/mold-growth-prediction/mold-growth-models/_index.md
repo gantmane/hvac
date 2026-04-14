@@ -1,5 +1,6 @@
 ---
 title: "Mold Growth Models"
+aliases: ["Mold Growth Models"]
 description: "Mathematical models for predicting mold growth including VTT model, biohygrothermal isopleth systems, time-of-wetness criteria, ASHRAE 160 standards, and material-specific sensitivity classifications for building envelope design."
 weight: 3
 ---

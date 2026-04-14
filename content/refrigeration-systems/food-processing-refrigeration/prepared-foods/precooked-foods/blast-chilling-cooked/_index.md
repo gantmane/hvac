@@ -1,5 +1,6 @@
 ---
 title: "Blast Chilling Cooked Foods"
+aliases: ["Blast Chilling Cooked Foods"]
 description: "Engineering requirements for blast chilling systems serving cooked food production facilities including FDA Food Code compliance, chiller design criteria, air velocity specifications, temperature monitoring protocols, and HACCP integration for bacterial growth prevention in the temperature danger zone"
 weight: 1
 ---

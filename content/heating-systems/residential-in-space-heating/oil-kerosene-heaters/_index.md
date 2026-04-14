@@ -1,5 +1,6 @@
 ---
 title: "Oil and Kerosene Heaters"
+aliases: ["Oil and Kerosene Heaters"]
 description: "Technical guide to vented oil heaters and portable kerosene heaters including safety requirements, combustion analysis, and fuel specifications."
 date: "2026-01-04"
 weight: 3

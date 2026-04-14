@@ -1,5 +1,6 @@
 ---
 title: "Butter"
+aliases: ["Butter"]
 weight: 3
 ---
 

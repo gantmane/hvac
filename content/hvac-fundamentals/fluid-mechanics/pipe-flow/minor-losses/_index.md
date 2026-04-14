@@ -1,5 +1,6 @@
 ---
 title: "Minor Losses in Pipe Flow"
+aliases: ["Minor Losses in Pipe Flow"]
 description: "Comprehensive analysis of pressure losses in pipe fittings, valves, and components using resistance coefficients and equivalent length methods for HVAC system design"
 weight: 3
 ---

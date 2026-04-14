@@ -1,5 +1,6 @@
 ---
 title: "Surface Ship HVAC Systems"
+aliases: ["Surface Ship HVAC Systems"]
 description: "Technical analysis of naval surface ship HVAC including CBR protection, shock hardening, battle damage tolerance, zone pressurization, and MIL-STD compliance."
 keywords:
   - surface ship HVAC

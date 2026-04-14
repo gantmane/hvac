@@ -1,7 +1,9 @@
 ---
 title: "HVAC Energy End-Use Profiles and Breakdown Analysis"
+aliases: ["HVAC Energy End-Use Profiles and Breakdown Analysis"]
 description: "Comprehensive analysis of HVAC energy consumption by end use including heating, cooling, ventilation, and water heating with EIA survey data and breakdown formulas."
 keywords: ["end-use profiles", "HVAC energy consumption", "heating energy", "cooling energy", "EIA end-use survey", "building energy breakdown", "ventilation energy", "water heating energy"]
+tags: ["end-use profiles", "HVAC energy consumption", "heating energy", "cooling energy", "EIA end-use survey", "building energy breakdown", "ventilation energy", "water heating energy"]
 weight: 2
 ---
 

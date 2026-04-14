@@ -1,7 +1,9 @@
 ---
 title: "Sound Attenuation in HVAC Systems"
+aliases: ["Sound Attenuation in HVAC Systems"]
 description: "Comprehensive guide to HVAC sound attenuation methods including duct lining, silencers, plenums, and distance attenuation with calculation formulas and design values."
 keywords: ["sound attenuation", "duct silencers", "duct lining", "plenum attenuation", "acoustic design", "insertion loss", "HVAC noise control", "distance attenuation"]
+tags: ["sound attenuation", "duct silencers", "duct lining", "plenum attenuation", "acoustic design", "insertion loss", "HVAC noise control", "distance attenuation"]
 weight: 3
 ---
 

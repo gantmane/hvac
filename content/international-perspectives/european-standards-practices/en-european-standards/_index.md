@@ -1,5 +1,6 @@
 ---
 title: "EN European Standards for HVAC Systems"
+aliases: ["EN European Standards for HVAC Systems"]
 description: "Comprehensive guide to European Norm (EN) standards governing HVAC design, testing, and performance. Covers EN 12831, EN 15241, and key CEN technical specifications."
 date: 2025-01-05
 tags: ["european-standards", "en-standards", "cen", "international-codes", "hvac-compliance", "european-regulations"]

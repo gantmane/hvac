@@ -1,5 +1,6 @@
 ---
 title: "Roasting and Cooling Systems for Nuts"
+aliases: ["Roasting and Cooling Systems for Nuts"]
 description: "Post-roast cooling systems for nuts including air cooling tunnels, temperature reduction rates, moisture control, oil migration prevention, and rapid cooling specifications for quality retention."
 weight: 1
 ---

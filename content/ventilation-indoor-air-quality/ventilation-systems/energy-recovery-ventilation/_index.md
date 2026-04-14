@@ -1,5 +1,6 @@
 ---
 title: "Energy Recovery Ventilation Systems"
+aliases: ["Energy Recovery Ventilation Systems"]
 description: "Technical analysis of ERV and HRV systems including effectiveness calculations, NTU method, enthalpy wheels, fixed plate exchangers, and climate-specific selection criteria per ASHRAE 90.1."
 keywords:
   - energy recovery ventilation

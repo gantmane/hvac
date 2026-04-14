@@ -1,7 +1,9 @@
 ---
 title: "Sound Isolation Design for Engine Test Cells"
+aliases: ["Sound Isolation Design for Engine Test Cells"]
 description: "Comprehensive acoustic isolation strategies including STC-rated construction, duct penetration sealing, floating floors, and structure-borne sound control."
 keywords: ["sound isolation", "STC ratings", "acoustic sealing", "floating floor", "structure-borne noise", "transmission loss", "test cell acoustics", "noise control"]
+tags: ["sound isolation", "STC ratings", "acoustic sealing", "floating floor", "structure-borne noise", "transmission loss", "test cell acoustics", "noise control"]
 weight: 1
 ---
 

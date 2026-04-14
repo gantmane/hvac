@@ -1,8 +1,10 @@
 ---
 title: "Mine Airway Resistance Analysis"
+aliases: ["Mine Airway Resistance Analysis"]
 weight: 4
 description: "Physics-based analysis of airway resistance in underground mines using Atkinson equation, friction factors, shock losses, and ventilation network modeling per MSHA standards."
 keywords: ["mine ventilation resistance", "Atkinson equation", "mine friction factor", "airway K-factor", "ventilation network analysis", "shock losses", "mine airflow resistance", "MSHA ventilation"]
+tags: ["mine ventilation resistance", "Atkinson equation", "mine friction factor", "airway K-factor", "ventilation network analysis", "shock losses", "mine airflow resistance", "MSHA ventilation"]
 ---
 
 ## Fundamental Physics of Mine Airway Resistance

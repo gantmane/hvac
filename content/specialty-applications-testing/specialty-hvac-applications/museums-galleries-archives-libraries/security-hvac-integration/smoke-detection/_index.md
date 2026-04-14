@@ -1,8 +1,10 @@
 ---
 title: "Smoke Detection Systems for Museum HVAC Integration"
+aliases: ["Smoke Detection Systems for Museum HVAC Integration"]
 seo_title: "Museum HVAC Smoke Detection: VESDA & Fire Systems"
 description: "Technical guidance for integrating aspirating smoke detection (VESDA), beam detectors, and spot detectors with museum HVAC systems per NFPA 72 for early warning protection of collections."
 keywords: ["aspirating smoke detection", "VESDA systems", "museum fire protection", "duct smoke detectors", "NFPA 72", "collection preservation", "beam smoke detectors", "early warning fire detection"]
+tags: ["aspirating smoke detection", "VESDA systems", "museum fire protection", "duct smoke detectors", "NFPA 72", "collection preservation", "beam smoke detectors", "early warning fire detection"]
 weight: 1
 ---
 

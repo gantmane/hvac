@@ -1,5 +1,6 @@
 ---
 title: "CAD Standards and Conventions"
+aliases: ["CAD Standards and Conventions"]
 description: "Comprehensive CAD standards for HVAC construction documentation including NCS layer naming conventions, file organization, xref management, block libraries, plotting standards, and mechanical-specific drafting practices for coordinated project delivery"
 weight: 1
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Automotive Blower Systems"
+aliases: ["Automotive Blower Systems"]
 description: "Technical analysis of automotive HVAC blower systems including centrifugal design, motor technologies, speed control methods, performance curves, and optimization strategies."
 keywords: ["automotive blower", "centrifugal blower", "brushless motor", "PWM control", "blower performance curves", "cabin ventilation", "HVAC motor control", "blower noise reduction"]
+tags: ["automotive blower", "centrifugal blower", "brushless motor", "PWM control", "blower performance curves", "cabin ventilation", "HVAC motor control", "blower noise reduction"]
 weight: 3
 ---
 

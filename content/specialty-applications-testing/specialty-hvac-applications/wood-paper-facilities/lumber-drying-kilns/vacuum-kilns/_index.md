@@ -1,5 +1,6 @@
 ---
 title: "Vacuum Kilns for Accelerated Lumber Drying"
+aliases: ["Vacuum Kilns for Accelerated Lumber Drying"]
 description: "Vacuum kiln technology reduces drying time through boiling point depression, featuring superheated steam and RF systems for enhanced wood quality and faster processing."
 date: 2025-01-05
 weight: 3

@@ -1,5 +1,6 @@
 ---
 title: "Natural Gas Proven Reserves"
+aliases: ["Natural Gas Proven Reserves"]
 description: "Global natural gas proven reserves analysis including regional distribution, reserve-to-production ratios, technically recoverable resources, and implications for long-term HVAC fuel supply."
 weight: 2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "BIM Analysis Tools"
+aliases: ["BIM Analysis Tools"]
 description: "BIM analysis software for HVAC including energy modeling tools like Insight and Green Building Studio, thermal analysis platforms, CFD simulation, and IES Virtual Environment for system performance evaluation."
 weight: 2
 ---

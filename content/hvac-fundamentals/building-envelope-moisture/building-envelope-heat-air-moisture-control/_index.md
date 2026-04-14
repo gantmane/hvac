@@ -1,5 +1,6 @@
 ---
 title: "Building Envelope Heat Air Moisture Control"
+aliases: ["Building Envelope Heat Air Moisture Control"]
 description: "Comprehensive HAM control principles, vapor retarder classifications, air barrier requirements, moisture transport mechanisms, and climate-specific design strategies for building envelope performance."
 weight: 1
 ---

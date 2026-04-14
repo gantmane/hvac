@@ -1,7 +1,9 @@
 ---
 title: "Hydroelectric Environmental Considerations"
+aliases: ["Hydroelectric Environmental Considerations"]
 description: "Environmental impacts of hydroelectric power for HVAC systems including fish passage, water quality, flow requirements, and FERC licensing standards."
 keywords: ["hydroelectric environmental impact", "fish passage requirements", "minimum instream flow", "water quality dissolved oxygen", "FERC licensing", "hydropower ecosystem effects", "sediment transport", "habitat alteration"]
+tags: ["hydroelectric environmental impact", "fish passage requirements", "minimum instream flow", "water quality dissolved oxygen", "FERC licensing", "hydropower ecosystem effects", "sediment transport", "habitat alteration"]
 weight: 4
 ---
 

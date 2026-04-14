@@ -1,5 +1,6 @@
 ---
 title: "Cooking Process in Cook-Chill Systems"
+aliases: ["Cooking Process in Cook-Chill Systems"]
 description: "Comprehensive analysis of cooking processes in industrial cook-chill food production including time-temperature requirements, equipment specifications, HACCP control points, heat rejection calculations, and kitchen ventilation design for HVAC integration."
 weight: 1
 ---

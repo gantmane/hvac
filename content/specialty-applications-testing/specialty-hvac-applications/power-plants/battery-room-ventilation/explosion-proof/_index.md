@@ -1,7 +1,9 @@
 ---
 title: "Explosion-Proof Battery Ventilation Equipment"
+aliases: ["Explosion-Proof Battery Ventilation Equipment"]
 description: "Engineering requirements for Class I Division 2 explosion-proof equipment in battery rooms including NEC hazardous location compliance, LEL calculations, and sparkproof construction per NFPA 70."
 keywords: ["explosion-proof ventilation", "Class I Division 2", "NEC Article 500", "sparkproof fans", "hydrogen LEL", "NFPA 70", "hazardous location", "intrinsically safe"]
+tags: ["explosion-proof ventilation", "Class I Division 2", "NEC Article 500", "sparkproof fans", "hydrogen LEL", "NFPA 70", "hazardous location", "intrinsically safe"]
 weight: 3
 ---
 

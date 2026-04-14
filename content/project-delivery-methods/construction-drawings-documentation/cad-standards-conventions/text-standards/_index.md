@@ -1,5 +1,6 @@
 ---
 title: "Text Standards"
+aliases: ["Text Standards"]
 weight: 3
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Demand-Controlled Ventilation (DCV)"
+aliases: ["Demand-Controlled Ventilation (DCV)"]
 description: "Demand-controlled ventilation strategies for educational facilities including CO2-based control, occupancy sensing, and energy optimization."
 keywords: ["demand-controlled ventilation", "DCV", "CO2 sensing", "school ventilation", "educational facilities", "energy efficiency"]
+tags: ["demand-controlled ventilation", "DCV", "CO2 sensing", "school ventilation", "educational facilities", "energy efficiency"]
 weight: 5
 ---
 

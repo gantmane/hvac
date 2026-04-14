@@ -1,8 +1,10 @@
 ---
 title: "Integrated Heat Pump Water Heaters"
+aliases: ["Integrated Heat Pump Water Heaters"]
 seo_title: "Integrated HPWH: Design, Performance & Applications"
 description: "Comprehensive guide to integrated heat pump water heaters covering system design, COP calculations, capacity sizing, operating modes, noise levels, and installation requirements."
 keywords: ["integrated HPWH", "heat pump water heater", "COP calculation", "energy factor", "domestic hot water efficiency", "HPWH sizing", "air source water heating", "uniform energy factor"]
+tags: ["integrated HPWH", "heat pump water heater", "COP calculation", "energy factor", "domestic hot water efficiency", "HPWH sizing", "air source water heating", "uniform energy factor"]
 weight: 1
 ---
 

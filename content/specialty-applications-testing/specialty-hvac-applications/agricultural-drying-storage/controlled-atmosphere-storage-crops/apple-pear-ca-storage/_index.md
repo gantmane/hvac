@@ -1,7 +1,9 @@
 ---
 title: "Controlled Atmosphere Storage for Apples and Pears"
+aliases: ["Controlled Atmosphere Storage for Apples and Pears"]
 description: "Optimal CA storage conditions for apples and pears including temperature control, O2/CO2 management, ethylene removal, and humidity maintenance for extended shelf life."
 keywords: ["controlled atmosphere storage", "apple storage", "pear storage", "CA storage HVAC", "fruit preservation", "ethylene control", "respiration management", "cold storage"]
+tags: ["controlled atmosphere storage", "apple storage", "pear storage", "CA storage HVAC", "fruit preservation", "ethylene control", "respiration management", "cold storage"]
 date: 2025-01-11
 draft: false
 weight: 1

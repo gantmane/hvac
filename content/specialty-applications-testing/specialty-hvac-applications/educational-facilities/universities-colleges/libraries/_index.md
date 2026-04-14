@@ -1,9 +1,11 @@
 ---
 title: "Library HVAC Systems for Universities and Colleges"
+aliases: ["Library HVAC Systems for Universities and Colleges"]
 description: "Environmental control for academic libraries including preservation requirements for rare books, archives, and special collections with precise temperature and humidity control."
 date: 2025-01-05
 weight: 4
 keywords: ["library HVAC", "book preservation", "archive climate control", "humidity control libraries", "rare book storage", "library environmental systems", "collection preservation", "stack ventilation"]
+tags: ["library HVAC", "book preservation", "archive climate control", "humidity control libraries", "rare book storage", "library environmental systems", "collection preservation", "stack ventilation"]
 ---
 
 ## Overview

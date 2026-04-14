@@ -1,5 +1,6 @@
 ---
 title: "Building Envelope Innovations"
+aliases: ["Building Envelope Innovations"]
 description: "Advanced building envelope technologies including dynamic facades, electrochromic glazing, vacuum insulation panels, phase change materials, aerogel insulation, air barrier systems, and intelligent building skins for HVAC load reduction"
 weight: 4
 ---

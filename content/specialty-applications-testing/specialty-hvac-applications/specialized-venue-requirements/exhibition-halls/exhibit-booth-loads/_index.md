@@ -1,7 +1,9 @@
 ---
 title: "Exhibition Booth Heat Loads"
+aliases: ["Exhibition Booth Heat Loads"]
 description: "Physics-based analysis of exhibition booth thermal loads including electrical equipment, lighting, computers, displays, cooking demonstrations, and diversity factors."
 keywords: ["exhibition booth loads", "trade show HVAC", "booth heat gain", "diversity factor", "temporary power loads", "exhibit hall cooling", "demonstration equipment loads", "booth electrical loads"]
+tags: ["exhibition booth loads", "trade show HVAC", "booth heat gain", "diversity factor", "temporary power loads", "exhibit hall cooling", "demonstration equipment loads", "booth electrical loads"]
 weight: 4
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "NATE - North American Technician Excellence Certification"
+aliases: ["NATE - North American Technician Excellence Certification"]
 description: "Comprehensive guide to NATE HVAC certification programs, specialty certifications, exam preparation, continuing education requirements, and industry recognition for technician excellence."
 keywords: ["NATE certification", "HVAC technician certification", "North American Technician Excellence", "NATE exam", "HVAC specialty certification", "technician training", "HVAC career advancement", "NATE core exam", "NATE specialty exam"]
+tags: ["NATE certification", "HVAC technician certification", "North American Technician Excellence", "NATE exam", "HVAC specialty certification", "technician training", "HVAC career advancement", "NATE core exam", "NATE specialty exam"]
 date: 2026-01-05
 weight: 1
 seo_title: "NATE HVAC Certification Guide - North American Technician Excellence"

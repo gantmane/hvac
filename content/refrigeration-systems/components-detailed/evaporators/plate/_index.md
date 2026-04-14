@@ -1,5 +1,6 @@
 ---
 title: "Plate Evaporators"
+aliases: ["Plate Evaporators"]
 description: "Comprehensive technical guide to plate evaporators including brazed and gasketed designs, heat transfer calculations, flow arrangements, pressure drop analysis, and applications in chillers and heat pumps for HVAC systems."
 weight: 3
 ---

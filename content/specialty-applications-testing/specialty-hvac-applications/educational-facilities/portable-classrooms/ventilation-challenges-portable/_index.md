@@ -1,7 +1,9 @@
 ---
 title: "Ventilation Challenges in Portable Classrooms"
+aliases: ["Ventilation Challenges in Portable Classrooms"]
 description: "Technical analysis of ventilation challenges in portable classrooms including ASHRAE 62.1 compliance, air intake placement, envelope leakage, CO2 control, and energy recovery solutions."
 keywords: ["portable classroom ventilation", "ASHRAE 62.1 compliance", "modular construction air leakage", "CO2 control classrooms", "energy recovery portable units", "outdoor air intake placement", "ductwork limitations", "classroom air quality"]
+tags: ["portable classroom ventilation", "ASHRAE 62.1 compliance", "modular construction air leakage", "CO2 control classrooms", "energy recovery portable units", "outdoor air intake placement", "ductwork limitations", "classroom air quality"]
 date: 2025-01-11
 draft: false
 weight: 2

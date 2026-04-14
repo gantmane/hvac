@@ -1,7 +1,9 @@
 ---
 title: "Automotive Fresh Air Systems"
+aliases: ["Automotive Fresh Air Systems"]
 description: "Engineering analysis of automotive fresh air intake systems including cowl design, water separation physics, cabin filtration mechanisms, and ventilation rate calculations."
 keywords: ["automotive ventilation", "cowl air intake", "cabin air filter", "water separation", "fresh air damper", "vehicle air quality", "SAE J1503", "particulate filtration"]
+tags: ["automotive ventilation", "cowl air intake", "cabin air filter", "water separation", "fresh air damper", "vehicle air quality", "SAE J1503", "particulate filtration"]
 weight: 1
 ---
 

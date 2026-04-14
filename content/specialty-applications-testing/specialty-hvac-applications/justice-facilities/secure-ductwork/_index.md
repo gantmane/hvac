@@ -1,8 +1,10 @@
 ---
 title: "Secure Ductwork for Correctional Facilities"
+aliases: ["Secure Ductwork for Correctional Facilities"]
 seo_title: "Secure HVAC Ductwork Design for Justice Facilities"
 description: "Technical guide to secure ductwork construction, access prevention, and testing for correctional facilities. Includes specifications, sizing calculations, and security features."
 keywords: ["secure ductwork", "correctional HVAC", "justice facility ductwork", "tamper-proof ducts", "detention center ventilation", "security grilles", "escape prevention", "SMACNA security standards"]
+tags: ["secure ductwork", "correctional HVAC", "justice facility ductwork", "tamper-proof ducts", "detention center ventilation", "security grilles", "escape prevention", "SMACNA security standards"]
 weight: 5
 ---
 

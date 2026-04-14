@@ -1,5 +1,6 @@
 ---
 title: "Geothermal Heat Pump Systems"
+aliases: ["Geothermal Heat Pump Systems"]
 description: "Ground source heat pump technology, ground loop design methods, vertical and horizontal heat exchanger configurations, ground thermal properties, loop sizing calculations, antifreeze selection, system performance metrics, and ASHRAE design standards for geothermal HVAC systems."
 weight: 10
 ---

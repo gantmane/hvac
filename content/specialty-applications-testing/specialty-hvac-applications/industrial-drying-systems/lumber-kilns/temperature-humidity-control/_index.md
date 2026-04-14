@@ -1,7 +1,9 @@
 ---
 title: "Lumber Kiln Temperature & Humidity Control"
+aliases: ["Lumber Kiln Temperature & Humidity Control"]
 description: "Physics-based analysis of lumber kiln temperature and humidity control systems, including psychrometric relationships, kiln schedules, and equilibrium moisture content calculations."
 keywords: ["lumber kiln control", "kiln drying schedules", "equilibrium moisture content", "wood drying physics", "kiln temperature control", "kiln humidity control", "lumber drying HVAC", "kiln psychrometrics"]
+tags: ["lumber kiln control", "kiln drying schedules", "equilibrium moisture content", "wood drying physics", "kiln temperature control", "kiln humidity control", "lumber drying HVAC", "kiln psychrometrics"]
 weight: 3
 ---
 

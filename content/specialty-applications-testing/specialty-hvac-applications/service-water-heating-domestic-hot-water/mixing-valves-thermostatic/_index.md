@@ -1,7 +1,9 @@
 ---
 title: "Thermostatic Mixing Valves for DHW Systems"
+aliases: ["Thermostatic Mixing Valves for DHW Systems"]
 description: "Comprehensive guide to thermostatic mixing valves for domestic hot water systems, covering scald prevention, ASSE 1017 standards, Legionella control strategies, and code requirements."
 keywords: ["thermostatic mixing valve", "TMV", "ASSE 1017", "scald prevention", "Legionella control", "DHW temperature regulation", "domestic hot water safety", "anti-scald valve"]
+tags: ["thermostatic mixing valve", "TMV", "ASSE 1017", "scald prevention", "Legionella control", "DHW temperature regulation", "domestic hot water safety", "anti-scald valve"]
 weight: 13
 ---
 

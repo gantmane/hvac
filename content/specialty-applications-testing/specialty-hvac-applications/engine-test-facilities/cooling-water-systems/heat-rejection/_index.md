@@ -1,7 +1,9 @@
 ---
 title: "Heat Rejection Systems for Engine Test Facilities"
+aliases: ["Heat Rejection Systems for Engine Test Facilities"]
 description: "Heat rejection methods for engine test cell cooling water systems including cooling towers, dry coolers, hybrid systems, and water conservation strategies."
 keywords: ["cooling tower", "dry cooler", "heat rejection", "engine test cooling", "evaporative cooling", "water consumption", "hybrid cooling systems", "approach temperature"]
+tags: ["cooling tower", "dry cooler", "heat rejection", "engine test cooling", "evaporative cooling", "water consumption", "hybrid cooling systems", "approach temperature"]
 weight: 3
 ---
 

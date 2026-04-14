@@ -1,7 +1,9 @@
 ---
 title: "High-Density Occupancy HVAC Systems"
+aliases: ["High-Density Occupancy HVAC Systems"]
 description: "Engineering HVAC systems for high-occupancy spaces: ventilation requirements, load calculations, and control strategies for auditoriums, theaters, and assembly areas."
 keywords: ["high-density HVAC", "occupancy ventilation", "assembly space conditioning", "ASHRAE 62.1", "latent load management", "demand controlled ventilation", "CO2 monitoring", "theater HVAC"]
+tags: ["high-density HVAC", "occupancy ventilation", "assembly space conditioning", "ASHRAE 62.1", "latent load management", "demand controlled ventilation", "CO2 monitoring", "theater HVAC"]
 weight: 31
 ---
 

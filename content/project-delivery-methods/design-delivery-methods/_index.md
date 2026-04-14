@@ -1,5 +1,6 @@
 ---
 title: "Design Delivery Methods for HVAC Projects"
+aliases: ["Design Delivery Methods for HVAC Projects"]
 description: "Comprehensive comparison of project delivery methods including Design-Bid-Build, Design-Build, CM-at-Risk, and IPD for HVAC system implementation."
 date: "2026-01-04"
 author: "Evgeniy Gantman"

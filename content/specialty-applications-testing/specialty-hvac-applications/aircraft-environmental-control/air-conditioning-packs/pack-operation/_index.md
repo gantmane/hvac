@@ -1,5 +1,6 @@
 ---
 title: "Aircraft Pack Operation and Control"
+aliases: ["Aircraft Pack Operation and Control"]
 description: "Detailed analysis of aircraft air conditioning pack operational modes, control strategies, thermodynamic cycles, and system integration for environmental control systems."
 keywords:
   - pack operation modes

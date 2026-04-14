@@ -1,5 +1,6 @@
 ---
 title: "Arctic-Subarctic Climate Characteristics for HVAC"
+aliases: ["Arctic-Subarctic Climate Characteristics for HVAC"]
 description: "Technical analysis of arctic and subarctic climate thermal properties, extreme cold mechanics, permafrost interaction, and atmospheric conditions critical to HVAC design."
 date: 2026-01-05
 weight: 1

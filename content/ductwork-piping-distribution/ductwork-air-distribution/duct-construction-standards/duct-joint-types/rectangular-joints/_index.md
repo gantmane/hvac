@@ -1,5 +1,6 @@
 ---
 title: "Rectangular Duct Joints"
+aliases: ["Rectangular Duct Joints"]
 description: "Comprehensive guide to rectangular duct joint types, construction methods, and SMACNA standards for HVAC air distribution systems including transverse and longitudinal joint connections."
 weight: 1
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Ventilation Rate Procedure (VRP)"
+aliases: ["Ventilation Rate Procedure (VRP)"]
 description: "Detailed analysis of ASHRAE 62.1 Ventilation Rate Procedure methodology including calculation sequence, critical zone determination, and system outdoor air intake."
 keywords: ["ventilation rate procedure", "VRP", "ASHRAE 62.1", "outdoor air calculation", "critical zone method", "system ventilation efficiency", "breathing zone"]
+tags: ["ventilation rate procedure", "VRP", "ASHRAE 62.1", "outdoor air calculation", "critical zone method", "system ventilation efficiency", "breathing zone"]
 date: 2026-01-04
 weight: 1
 ---

@@ -1,8 +1,10 @@
 ---
 title: "Active Solar Water Heating Systems"
+aliases: ["Active Solar Water Heating Systems"]
 weight: 1
 description: "Technical analysis of active solar water heating systems including circulation pumps, differential controllers, heat exchangers, and freeze protection methods for optimal performance."
 keywords: ["active solar water heating", "differential controller", "circulation pump", "heat exchanger", "freeze protection", "solar thermal", "SRCC certification", "glycol systems"]
+tags: ["active solar water heating", "differential controller", "circulation pump", "heat exchanger", "freeze protection", "solar thermal", "SRCC certification", "glycol systems"]
 ---
 
 ## System Overview

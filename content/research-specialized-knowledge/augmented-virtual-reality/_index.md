@@ -1,5 +1,6 @@
 ---
 title: "Augmented Virtual Reality"
+aliases: ["Augmented Virtual Reality"]
 weight: 12
 ---
 

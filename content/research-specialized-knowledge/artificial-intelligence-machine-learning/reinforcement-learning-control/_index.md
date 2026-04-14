@@ -1,8 +1,10 @@
 ---
 title: "Reinforcement Learning Control"
+aliases: ["Reinforcement Learning Control"]
 weight: 2
 description: "Advanced HVAC control using reinforcement learning algorithms including Q-learning, deep Q-networks, and actor-critic methods for autonomous optimization and energy savings of 10-40%."
 keywords: ["reinforcement learning HVAC", "Q-learning building control", "deep Q-networks", "actor-critic methods", "autonomous HVAC optimization", "RL control framework", "energy savings machine learning"]
+tags: ["reinforcement learning HVAC", "Q-learning building control", "deep Q-networks", "actor-critic methods", "autonomous HVAC optimization", "RL control framework", "energy savings machine learning"]
 ---
 
 Reinforcement learning represents a paradigm shift in HVAC control, enabling systems to learn optimal control policies through interaction with building environments. RL-based controllers achieve energy savings of 10-40% compared to conventional control strategies while maintaining or improving occupant comfort.

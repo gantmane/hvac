@@ -1,5 +1,6 @@
 ---
 title: "Beverages"
+aliases: ["Beverages"]
 weight: 9
 ---
 

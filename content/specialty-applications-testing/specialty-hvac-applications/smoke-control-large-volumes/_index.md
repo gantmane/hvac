@@ -1,7 +1,9 @@
 ---
 title: "Smoke Control in Large Volume Spaces"
+aliases: ["Smoke Control in Large Volume Spaces"]
 description: "Engineering smoke control systems for atriums, warehouses, and large assembly spaces using NFPA 92 principles, mass exhaust calculations, and natural smoke filling."
 keywords: ["smoke control", "NFPA 92", "atrium smoke management", "large volume spaces", "smoke exhaust", "smoke layer interface", "mass exhaust method", "warehouse smoke control"]
+tags: ["smoke control", "NFPA 92", "atrium smoke management", "large volume spaces", "smoke exhaust", "smoke layer interface", "mass exhaust method", "warehouse smoke control"]
 weight: 33
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Tropical Fruit Processing"
+aliases: ["Tropical Fruit Processing"]
 description: "Refrigeration engineering for tropical fruit processing including chilling injury prevention, pulp production cooling, temperature management strategies, and quality preservation systems for mango, pineapple, papaya, and specialty tropical fruits."
 weight: 6
 ---

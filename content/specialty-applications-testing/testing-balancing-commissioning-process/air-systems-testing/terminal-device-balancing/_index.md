@@ -1,5 +1,6 @@
 ---
 title: "Terminal Device Balancing Procedures"
+aliases: ["Terminal Device Balancing Procedures"]
 description: "Comprehensive guide to balancing diffusers, registers, and grilles using Ak factors, capture hoods, and flow traverse methods per AABC and NEBB standards."
 date: 2025-01-05
 weight: 3

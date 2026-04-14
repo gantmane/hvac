@@ -1,8 +1,10 @@
 ---
 title: "Response Modification Factor (Rp) for HVAC Systems"
+aliases: ["Response Modification Factor (Rp) for HVAC Systems"]
 weight: 3
 description: "Technical analysis of response modification factors (Rp) for HVAC equipment seismic design including ductility coefficients, energy dissipation capacity, and Rp values per ASCE 7."
 keywords: ["response modification factor", "Rp factor", "component ductility", "seismic ductility", "ASCE 7 Table 13.5-1", "HVAC seismic design", "nonstructural components", "energy dissipation"]
+tags: ["response modification factor", "Rp factor", "component ductility", "seismic ductility", "ASCE 7 Table 13.5-1", "HVAC seismic design", "nonstructural components", "energy dissipation"]
 seo_title: "Response Modification Factor Rp: HVAC Seismic Design"
 seo_description: "Comprehensive guide to response modification factors (Rp) for HVAC equipment seismic design covering ductility, energy dissipation, and Rp values per ASCE 7."
 ---

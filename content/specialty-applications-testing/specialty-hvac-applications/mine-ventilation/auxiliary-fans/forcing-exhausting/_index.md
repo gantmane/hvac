@@ -1,7 +1,9 @@
 ---
 title: "Forcing vs Exhausting Auxiliary Ventilation"
+aliases: ["Forcing vs Exhausting Auxiliary Ventilation"]
 description: "Technical comparison of forcing and exhausting auxiliary ventilation systems in underground mining, analyzing airflow physics, duct placement, overlap methods, and scrubber integration."
 keywords: ["forcing ventilation", "exhausting ventilation", "auxiliary fan systems", "mine ventilation overlap", "duct placement", "scrubber integration", "recirculation control", "MSHA ventilation"]
+tags: ["forcing ventilation", "exhausting ventilation", "auxiliary fan systems", "mine ventilation overlap", "duct placement", "scrubber integration", "recirculation control", "MSHA ventilation"]
 weight: 1
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Methane Dilution Ventilation in Coal Mines"
+aliases: ["Methane Dilution Ventilation in Coal Mines"]
 description: "Physics-based analysis of methane dilution ventilation: liberation rate calculations, minimum airflow requirements, MSHA compliance, layering prevention, and monitoring."
 keywords: ["methane dilution", "mine ventilation", "gas liberation rate", "MSHA regulations", "coal mine safety", "face ventilation", "methane monitoring", "auxiliary ventilation"]
+tags: ["methane dilution", "mine ventilation", "gas liberation rate", "MSHA regulations", "coal mine safety", "face ventilation", "methane monitoring", "auxiliary ventilation"]
 weight: 4
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Heat Trace Systems for Pipe Freeze Protection"
+aliases: ["Heat Trace Systems for Pipe Freeze Protection"]
 description: "Engineering design for electric heat trace cables, steam tracing, and hot water systems including heat loss calculations, NEC compliance, and control strategies."
 keywords: ["heat trace systems", "electric heat trace", "self-regulating cable", "constant wattage cable", "steam tracing", "heat loss calculations", "NEC 427", "IEEE 515", "freeze protection"]
+tags: ["heat trace systems", "electric heat trace", "self-regulating cable", "constant wattage cable", "steam tracing", "heat loss calculations", "NEC 427", "IEEE 515", "freeze protection"]
 weight: 1
 ---
 

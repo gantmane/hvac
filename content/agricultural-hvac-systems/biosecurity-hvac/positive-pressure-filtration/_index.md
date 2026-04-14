@@ -1,5 +1,6 @@
 ---
 title: "Positive Pressure Filtration"
+aliases: ["Positive Pressure Filtration"]
 description: "Design principles for positive pressure biosecurity filtration systems including supply fan configurations, building pressurization strategies, and moisture management for new construction livestock facility applications."
 weight: 3
 ---

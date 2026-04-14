@@ -1,5 +1,6 @@
 ---
 title: "Naval Vessel HVAC Systems"
+aliases: ["Naval Vessel HVAC Systems"]
 description: "Technical guide to HVAC systems for naval vessels including NBC protection, collective protection systems, redundancy design, and combat survivability requirements for surface ships, submarines, and aircraft carriers."
 keywords:
   - naval HVAC systems

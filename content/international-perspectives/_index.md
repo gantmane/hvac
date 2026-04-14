@@ -1,5 +1,6 @@
 ---
 title: "International HVAC Standards and Global Practices"
+aliases: ["International HVAC Standards and Global Practices"]
 description: "Comprehensive analysis of worldwide HVAC standards, regional climate design approaches, and international efficiency metrics with comparative technical evaluation."
 date: 2025-01-05
 draft: false
@@ -7,6 +8,7 @@ weight: 7
 seo_title: "International HVAC Standards & Global Design Practices"
 seo_description: "Expert guide to international HVAC standards including European directives, Asian practices, climate-specific designs, and global efficiency metrics."
 keywords: ["international HVAC standards", "global HVAC practices", "ASHRAE international", "European HVAC", "Asian HVAC standards", "climate-specific design", "international efficiency metrics", "worldwide HVAC codes"]
+tags: ["international HVAC standards", "global HVAC practices", "ASHRAE international", "European HVAC", "Asian HVAC standards", "climate-specific design", "international efficiency metrics", "worldwide HVAC codes"]
 ---
 
 # International HVAC Standards and Global Practices

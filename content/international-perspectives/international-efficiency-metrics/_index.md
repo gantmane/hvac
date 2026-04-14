@@ -1,5 +1,6 @@
 ---
 title: "International HVAC Efficiency Metrics"
+aliases: ["International HVAC Efficiency Metrics"]
 description: "Comprehensive analysis of global HVAC efficiency rating systems including EER, SEER, COP, and regional standards across North America, Europe, and Asia."
 date: 2025-01-05
 tags: ["efficiency metrics", "international standards", "energy ratings", "performance coefficients", "ASHRAE", "COP", "SEER", "EER"]

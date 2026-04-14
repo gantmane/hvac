@@ -1,7 +1,9 @@
 ---
 title: "DHW Recirculation Systems: Design & Balancing"
+aliases: ["DHW Recirculation Systems: Design & Balancing"]
 description: "Technical guide to domestic hot water recirculation loop design, balancing valve selection, pump sizing calculations, and energy optimization strategies."
 keywords: ["DHW recirculation", "hot water loop design", "balancing valves", "recirculation pump sizing", "pipe heat loss", "water heating energy", "ASHRAE 90.1", "domestic hot water"]
+tags: ["DHW recirculation", "hot water loop design", "balancing valves", "recirculation pump sizing", "pipe heat loss", "water heating energy", "ASHRAE 90.1", "domestic hot water"]
 weight: 3
 ---
 

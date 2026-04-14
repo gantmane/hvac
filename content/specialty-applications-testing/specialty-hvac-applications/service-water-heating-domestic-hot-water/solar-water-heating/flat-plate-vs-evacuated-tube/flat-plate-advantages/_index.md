@@ -1,7 +1,9 @@
 ---
 title: "Flat Plate Solar Collector Advantages"
+aliases: ["Flat Plate Solar Collector Advantages"]
 description: "Technical analysis of flat plate solar collector benefits including robust construction, cost-effectiveness, durability, and optimal performance in moderate climates."
 keywords: ["flat plate collectors", "solar thermal advantages", "absorber plate design", "glazing options", "SRCC certification", "cost-effective solar", "solar durability", "selective surface coating"]
+tags: ["flat plate collectors", "solar thermal advantages", "absorber plate design", "glazing options", "SRCC certification", "cost-effective solar", "solar durability", "selective surface coating"]
 weight: 1
 ---
 

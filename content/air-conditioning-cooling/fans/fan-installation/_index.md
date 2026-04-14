@@ -1,7 +1,9 @@
 ---
 title: "Fan Installation"
+aliases: ["Fan Installation"]
 description: "Best practices for HVAC fan installation including mounting, alignment, ductwork connections, and startup procedures."
 keywords: ["fan installation", "HVAC installation", "fan mounting", "shaft alignment", "duct connections", "system effect"]
+tags: ["fan installation", "HVAC installation", "fan mounting", "shaft alignment", "duct connections", "system effect"]
 weight: 5
 ---
 

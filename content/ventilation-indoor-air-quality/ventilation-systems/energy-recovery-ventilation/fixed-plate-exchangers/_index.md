@@ -1,5 +1,6 @@
 ---
 title: "Fixed Plate Heat Exchangers for Energy Recovery"
+aliases: ["Fixed Plate Heat Exchangers for Energy Recovery"]
 description: "Technical analysis of fixed plate heat exchangers in ERV systems: cross-flow, counter-flow, and parallel-flow designs with effectiveness calculations and frost control."
 date: 2026-01-05
 keywords: ["fixed plate heat exchanger", "energy recovery ventilation", "NTU effectiveness", "counter-flow heat exchanger", "frost control", "ASHRAE Standard 84", "cross-flow exchanger", "sensible heat recovery"]
@@ -205,4 +206,4 @@ Properly maintained fixed plate heat exchangers provide 15-25 years of reliable 
 
 ---
 
-**Related Topics:** [Energy Recovery Ventilation](/ventilation-indoor-air-quality/ventilation-systems/energy-recovery-ventilation), [Heat Transfer Modeling](/sustainability-emerging-tech-economics/computational-methods-research/heat-transfer-modeling)
+**Related Topics:** [Energy Recovery Ventilation](../../../../ventilation-indoor-air-quality/ventilation-systems/energy-recovery-ventilation/_index.md), [Heat Transfer Modeling](../../../../sustainability-emerging-tech-economics/computational-methods-research/heat-transfer-modeling/_index.md)

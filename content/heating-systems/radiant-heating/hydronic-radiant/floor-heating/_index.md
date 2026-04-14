@@ -1,7 +1,9 @@
 ---
 title: "Hydronic Radiant Floor Heating Systems"
+aliases: ["Hydronic Radiant Floor Heating Systems"]
 description: "Technical guide to hydronic radiant floor heating design including tube layouts, spacing calculations, floor covering R-value limits, installation methods, water temperature control, and heat output analysis."
 keywords: "radiant floor heating, hydronic heating, PEX tubing, serpentine layout, spiral layout, floor heating design, slab-on-grade, suspended floor heating, radiant heat output"
+tags: ["radiant floor heating", "hydronic heating", "PEX tubing", "serpentine layout", "spiral layout", "floor heating design", "slab-on-grade", "suspended floor heating", "radiant heat output"]
 weight: 1
 ---
 

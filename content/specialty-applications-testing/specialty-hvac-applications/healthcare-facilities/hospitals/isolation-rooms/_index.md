@@ -1,5 +1,6 @@
 ---
 title: "Isolation Rooms: Airborne Infection Control HVAC"
+aliases: ["Isolation Rooms: Airborne Infection Control HVAC"]
 description: "Engineering principles for isolation room HVAC systems including differential pressure control, air change rates, HEPA filtration, and airflow patterns per ASHRAE 170."
 date: 2025-01-05
 tags: ["isolation rooms", "airborne infection control", "negative pressure", "positive pressure", "healthcare HVAC", "ASHRAE 170", "differential pressure"]

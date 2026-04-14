@@ -1,8 +1,10 @@
 ---
 title: "CO2 Control in Controlled Atmosphere Storage"
+aliases: ["CO2 Control in Controlled Atmosphere Storage"]
 weight: 2
 description: "Technical guide to carbon dioxide management in CA storage including scrubbing methods, respiration-generated CO2, commodity-specific target levels, and monitoring systems for optimal produce preservation."
 keywords: "CO2 scrubbing, activated carbon CO2 removal, hydrated lime scrubber, controlled atmosphere storage, respiration CO2, produce storage gas control"
+tags: ["CO2 scrubbing", "activated carbon CO2 removal", "hydrated lime scrubber", "controlled atmosphere storage", "respiration CO2", "produce storage gas control"]
 ---
 
 ## CO2 Generation and Management

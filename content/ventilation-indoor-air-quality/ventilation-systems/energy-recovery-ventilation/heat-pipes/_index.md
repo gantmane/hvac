@@ -1,5 +1,6 @@
 ---
 title: "Heat Pipes in Energy Recovery Ventilation Systems"
+aliases: ["Heat Pipes in Energy Recovery Ventilation Systems"]
 description: "Heat pipe design, two-phase heat transfer principles, effectiveness calculations, and applications in HVAC energy recovery ventilation systems."
 date: 2025-01-05
 keywords:

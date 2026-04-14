@@ -1,5 +1,6 @@
 ---
 title: "Intermodal Reefer Containers"
+aliases: ["Intermodal Reefer Containers"]
 weight: 1
 ---
 

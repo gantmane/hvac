@@ -1,8 +1,10 @@
 ---
 title: "Thermal Energy Storage Advanced"
+aliases: ["Thermal Energy Storage Advanced"]
 weight: 1
 description: "Advanced thermal energy storage systems for HVAC applications including sensible heat storage, latent heat storage, phase change materials, ice storage, and thermochemical storage with system sizing and economic analysis."
 keywords: ["thermal energy storage", "TES systems", "ice storage", "phase change materials", "PCM", "chilled water storage", "hot water storage", "thermochemical storage", "load shifting", "peak demand reduction"]
+tags: ["thermal energy storage", "TES systems", "ice storage", "phase change materials", "PCM", "chilled water storage", "hot water storage", "thermochemical storage", "load shifting", "peak demand reduction"]
 ---
 
 Thermal energy storage (TES) systems decouple energy production from consumption, enabling equipment operation during off-peak periods when electricity costs are lower and utility demand charges can be minimized. These systems store thermal energy in sensible, latent, or thermochemical form for later use in heating or cooling applications.

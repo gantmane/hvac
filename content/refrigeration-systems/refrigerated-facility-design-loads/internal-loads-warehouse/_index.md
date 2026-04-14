@@ -1,5 +1,6 @@
 ---
 title: "Internal Loads Warehouse"
+aliases: ["Internal Loads Warehouse"]
 description: "Comprehensive technical analysis of internal heat loads in refrigerated warehouses including lighting, forklift equipment, personnel, electric motors, and defrost systems with ASHRAE calculation methods and design values"
 weight: 5
 ---

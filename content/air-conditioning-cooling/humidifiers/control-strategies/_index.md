@@ -1,5 +1,6 @@
 ---
 title: "Control Strategies"
+aliases: ["Control Strategies"]
 weight: 4
 ---
 

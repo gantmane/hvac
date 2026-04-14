@@ -1,9 +1,11 @@
 ---
 title: "Heat Trace Pipe Insulation Design & Sizing"
+aliases: ["Heat Trace Pipe Insulation Design & Sizing"]
 description: "Engineering guide to insulation selection and thermal sizing for freeze protection piping with heat trace systems. Includes heat loss calculations and material comparisons."
 date: 2025-01-11
 weight: 2
 keywords: ["heat trace insulation", "pipe freeze protection", "insulation thermal resistance", "heat loss calculation", "freeze protection insulation", "heat trace design", "pipe insulation thickness", "thermal conductivity"]
+tags: ["heat trace insulation", "pipe freeze protection", "insulation thermal resistance", "heat loss calculation", "freeze protection insulation", "heat trace design", "pipe insulation thickness", "thermal conductivity"]
 ---
 
 ## Physical Principles of Heat Trace Insulation

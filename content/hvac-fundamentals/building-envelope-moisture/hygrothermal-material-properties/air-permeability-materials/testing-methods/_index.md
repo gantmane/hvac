@@ -1,5 +1,6 @@
 ---
 title: "Testing Methods"
+aliases: ["Testing Methods"]
 description: "Air permeability testing methods for building materials including ASTM E2178 and E283 procedures, laboratory and field testing protocols, measurement equipment, and data interpretation for hygrothermal analysis"
 weight: 3
 ---

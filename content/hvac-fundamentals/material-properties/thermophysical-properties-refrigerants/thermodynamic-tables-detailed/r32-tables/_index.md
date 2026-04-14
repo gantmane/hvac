@@ -1,5 +1,6 @@
 ---
 title: "R32 Tables"
+aliases: ["R32 Tables"]
 weight: 3
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Containment Ventilation During Accident Conditions"
+aliases: ["Containment Ventilation During Accident Conditions"]
 description: "Analysis of nuclear containment ventilation during accident conditions including isolation, hydrogen control, cooling, filtered venting, and recovery."
 keywords: ["containment isolation", "post-accident ventilation", "hydrogen control", "containment cooling", "filtered venting", "severe accident management", "recovery ventilation", "accident mitigation"]
+tags: ["containment isolation", "post-accident ventilation", "hydrogen control", "containment cooling", "filtered venting", "severe accident management", "recovery ventilation", "accident mitigation"]
 weight: 2
 ---
 

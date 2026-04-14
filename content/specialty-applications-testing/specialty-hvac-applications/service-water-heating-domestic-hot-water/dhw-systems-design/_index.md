@@ -1,8 +1,10 @@
 ---
 title: "DHW Systems Design Fundamentals"
+aliases: ["DHW Systems Design Fundamentals"]
 weight: 1
 description: "Comprehensive guide to domestic hot water system design including centralized vs point-of-use configurations, load calculations, storage versus instantaneous heating, and distribution layouts."
 keywords: ["domestic hot water", "DHW system design", "water heater sizing", "centralized water heating", "point-of-use heaters", "hot water load calculations", "recirculation systems", "DHW distribution"]
+tags: ["domestic hot water", "DHW system design", "water heater sizing", "centralized water heating", "point-of-use heaters", "hot water load calculations", "recirculation systems", "DHW distribution"]
 ---
 
 Domestic hot water (DHW) system design requires careful analysis of thermal energy transfer, fluid dynamics, and usage patterns to deliver heated water efficiently while minimizing energy waste and maintaining safe temperatures. The design process integrates heat generation capacity, thermal storage considerations, distribution network hydraulics, and control strategies to meet peak demands with acceptable recovery times.

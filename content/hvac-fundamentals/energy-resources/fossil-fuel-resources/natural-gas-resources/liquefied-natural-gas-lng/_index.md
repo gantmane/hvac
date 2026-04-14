@@ -1,5 +1,6 @@
 ---
 title: "Liquefied Natural Gas (LNG)"
+aliases: ["Liquefied Natural Gas (LNG)"]
 description: "Comprehensive examination of LNG liquefaction, storage, transportation, regasification, and safety considerations for natural gas supply infrastructure and peak shaving applications."
 weight: 6
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Professional Development and Training in HVAC"
+aliases: ["Professional Development and Training in HVAC"]
 description: "Comprehensive guide to HVAC professional development, technical certifications, safety training, and continuing education requirements for engineers and technicians."
 date: 2025-01-05
 draft: false

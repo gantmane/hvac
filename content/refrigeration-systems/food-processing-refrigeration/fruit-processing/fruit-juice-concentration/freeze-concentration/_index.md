@@ -1,5 +1,6 @@
 ---
 title: "Freeze Concentration"
+aliases: ["Freeze Concentration"]
 description: "Technical guide to freeze concentration systems for fruit juice processing, including crystallization principles, separation equipment, refrigeration requirements, and energy efficiency compared to thermal evaporation methods"
 weight: 2
 ---

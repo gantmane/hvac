@@ -1,7 +1,9 @@
 ---
 title: "Exhaust Scrubbing Systems for Engine Test Facilities"
+aliases: ["Exhaust Scrubbing Systems for Engine Test Facilities"]
 description: "Comprehensive wet scrubber designs, catalytic converters, NOx/SOx treatment, particulate filtration, and emission control systems for engine test applications."
 keywords: ["exhaust scrubbing", "wet scrubbers", "catalytic converters", "NOx treatment", "particulate filtration", "emission control", "engine test facilities", "scrubber efficiency"]
+tags: ["exhaust scrubbing", "wet scrubbers", "catalytic converters", "NOx treatment", "particulate filtration", "emission control", "engine test facilities", "scrubber efficiency"]
 weight: 4
 ---
 

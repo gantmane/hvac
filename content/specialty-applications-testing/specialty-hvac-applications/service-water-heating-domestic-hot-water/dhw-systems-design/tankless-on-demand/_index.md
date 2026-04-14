@@ -1,8 +1,10 @@
 ---
 title: "Tankless On-Demand Water Heaters"
+aliases: ["Tankless On-Demand Water Heaters"]
 weight: 5
 description: "Technical analysis of tankless water heater design, including flow rate capacity calculations, temperature rise performance, gas versus electric efficiency, and sizing methodologies."
 keywords: ["tankless water heater", "instantaneous water heating", "flow rate capacity", "temperature rise", "modulating burner", "condensing gas", "electric tankless", "DHW efficiency"]
+tags: ["tankless water heater", "instantaneous water heating", "flow rate capacity", "temperature rise", "modulating burner", "condensing gas", "electric tankless", "DHW efficiency"]
 ---
 
 Tankless water heaters eliminate standby thermal losses by heating water only when demand occurs. These systems pass water through a heat exchanger activated by flow detection, delivering continuous hot water without storage tank limitations.

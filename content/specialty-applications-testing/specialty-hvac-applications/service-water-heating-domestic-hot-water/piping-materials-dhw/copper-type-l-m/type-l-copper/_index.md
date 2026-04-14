@@ -1,8 +1,10 @@
 ---
 title: "Type L Copper Piping for Domestic Hot Water Systems"
+aliases: ["Type L Copper Piping for Domestic Hot Water Systems"]
 weight: 1
 description: "Type L copper tubing specifications, pressure ratings, and applications for DHW systems including underground installations, wall thickness calculations, and ASTM B88 compliance."
 keywords: ["type L copper", "copper tubing DHW", "ASTM B88", "underground water piping", "copper pressure rating", "DHW piping materials", "type L vs type M", "copper wall thickness"]
+tags: ["type L copper", "copper tubing DHW", "ASTM B88", "underground water piping", "copper pressure rating", "DHW piping materials", "type L vs type M", "copper wall thickness"]
 ---
 
 ## Overview

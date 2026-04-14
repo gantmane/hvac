@@ -1,5 +1,6 @@
 ---
 title: "Packaging Frozen Foods"
+aliases: ["Packaging Frozen Foods"]
 description: "Technical requirements for frozen food packaging materials, barrier properties, thermal characteristics, and package integrity at cryogenic temperatures for HVAC system design"
 weight: 4
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Destratification Fans"
+aliases: ["Destratification Fans"]
 description: "Engineering guide to destratification fan systems for high-bay facilities including energy savings calculations, sizing methodology, and circulation strategies."
 date: "2026-01-04"
 weight: 4

@@ -1,7 +1,9 @@
 ---
 title: "Temple HVAC Systems: Design and Engineering"
+aliases: ["Temple HVAC Systems: Design and Engineering"]
 description: "Engineering guide for HVAC in Hindu, Buddhist, and other temples. Covers incense smoke management, ceremonial fire ventilation, artifact preservation, and floor seating comfort."
 keywords: ["temple HVAC", "incense smoke ventilation", "ceremonial fire exhaust", "meditation hall conditioning", "artifact preservation climate", "homa fire ventilation", "Buddhist temple HVAC", "Hindu temple climate control"]
+tags: ["temple HVAC", "incense smoke ventilation", "ceremonial fire exhaust", "meditation hall conditioning", "artifact preservation climate", "homa fire ventilation", "Buddhist temple HVAC", "Hindu temple climate control"]
 weight: 4
 ---
 

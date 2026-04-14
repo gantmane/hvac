@@ -1,5 +1,6 @@
 ---
 title: "BIM Authoring Tools"
+aliases: ["BIM Authoring Tools"]
 description: "BIM authoring software for HVAC design including Revit MEP, AutoCAD MEP, MicroStation AECOSim, and other platforms for creating three-dimensional mechanical system models with intelligent parametric components."
 weight: 1
 ---

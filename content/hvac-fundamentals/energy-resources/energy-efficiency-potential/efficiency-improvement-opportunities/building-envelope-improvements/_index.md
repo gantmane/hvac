@@ -1,5 +1,6 @@
 ---
 title: "Building Envelope Improvements"
+aliases: ["Building Envelope Improvements"]
 weight: 2
 ---
 

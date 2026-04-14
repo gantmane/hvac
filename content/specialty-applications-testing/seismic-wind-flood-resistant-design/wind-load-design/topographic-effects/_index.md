@@ -1,5 +1,6 @@
 ---
 title: "Topographic Effects on Wind Loads"
+aliases: ["Topographic Effects on Wind Loads"]
 description: "Engineering analysis of topographic wind speed-up effects on HVAC equipment including hills, ridges, escarpments, and ASCE 7 topographic factor calculations."
 date: 2025-01-05
 weight: 3

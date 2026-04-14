@@ -2,6 +2,7 @@
 title: "Vapor Compression Refrigeration Cycle Analysis"
 description: "Thermodynamic analysis of vapor compression cycle, P-h diagrams, COP calculations, superheat and subcooling control, and performance optimization for refrigeration systems."
 keywords: ["vapor compression", "refrigeration cycle", "COP", "P-h diagram", "superheat", "subcooling", "compressor", "thermodynamics"]
+tags: ["vapor compression", "refrigeration cycle", "COP", "P-h diagram", "superheat", "subcooling", "compressor", "thermodynamics"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 32
@@ -240,9 +241,9 @@ $$Tons = \frac{Q_e}{12,000}$$
 ---
 
 **Related Technical Guides:**
-- [Refrigerant Selection & Properties](/technical-guides/refrigerant-selection-properties/)
-- [Compressor Selection & Performance](/technical-guides/compressor-selection-performance/)
-- [Thermodynamic Cycles](/technical-guides/thermodynamic-cycles/)
+- Refrigerant Selection & Properties
+- Compressor Selection & Performance
+- Thermodynamic Cycles
 
 **References:**
 - ASHRAE Handbook of Refrigeration, Chapter 1: Thermodynamics and Refrigeration Cycles

@@ -1,7 +1,9 @@
 ---
 title: "Agricultural Waste HVAC Integration Systems"
+aliases: ["Agricultural Waste HVAC Integration Systems"]
 description: "Comprehensive guide to integrating waste management with agricultural HVAC systems including odor control, biofilters, scrubbers, ventilation strategies, and gas dilution for livestock facilities."
 keywords: ["agricultural waste ventilation", "manure storage HVAC", "odor control systems", "biofilter design", "ammonia scrubbers", "pit ventilation", "livestock waste management", "exhaust positioning"]
+tags: ["agricultural waste ventilation", "manure storage HVAC", "odor control systems", "biofilter design", "ammonia scrubbers", "pit ventilation", "livestock waste management", "exhaust positioning"]
 weight: 5
 ---
 

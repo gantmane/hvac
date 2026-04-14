@@ -1,5 +1,6 @@
 ---
 title: "Construction Manager At Risk"
+aliases: ["Construction Manager At Risk"]
 weight: 3
 ---
 

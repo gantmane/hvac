@@ -1,7 +1,9 @@
 ---
 title: "Heat Pump Defrost Systems"
+aliases: ["Heat Pump Defrost Systems"]
 description: "Technical analysis of reverse cycle defrost, demand and time-temperature controls, frost accumulation physics, defrost energy penalty, and termination strategies for ASHP systems."
 keywords: ["defrost systems", "reverse cycle defrost", "frost accumulation", "demand defrost", "heat pump efficiency", "defrost controls", "hot gas bypass", "defrost energy penalty"]
+tags: ["defrost systems", "reverse cycle defrost", "frost accumulation", "demand defrost", "heat pump efficiency", "defrost controls", "hot gas bypass", "defrost energy penalty"]
 weight: 2
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Cryogenic Transport"
+aliases: ["Cryogenic Transport"]
 weight: 6
 description: "Comprehensive guide to cryogenic transport refrigeration systems including liquid nitrogen, dry ice, and ultra-low temperature transport for vaccines, biologics, and temperature-sensitive materials with regulatory compliance requirements."
 keywords: "cryogenic transport, liquid nitrogen shipping, dry ice transport, vaccine cold chain, biologics transport, ultra-low temperature, cryogenic refrigeration, temperature maintenance"
+tags: ["cryogenic transport", "liquid nitrogen shipping", "dry ice transport", "vaccine cold chain", "biologics transport", "ultra-low temperature", "cryogenic refrigeration", "temperature maintenance"]
 ---
 
 Cryogenic transport systems maintain temperatures below -150°F (-101°C) for specialized cargo requiring ultra-low temperature preservation. These systems utilize liquid nitrogen (LN₂), dry ice (solid CO₂), or mechanical ultra-low temperature refrigeration to transport pharmaceuticals, biologics, vaccines, research specimens, and cryogenically preserved materials.

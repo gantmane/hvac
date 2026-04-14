@@ -1,5 +1,6 @@
 ---
 title: "Compressible Flow"
+aliases: ["Compressible Flow"]
 description: "Gas dynamics fundamentals for HVAC applications including high-velocity duct systems, refrigerant flow through expansion devices, and pneumatic control systems"
 weight: 9
 ---

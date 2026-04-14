@@ -1,7 +1,9 @@
 ---
 title: "Industrial Dust Collection Systems Design"
+aliases: ["Industrial Dust Collection Systems Design"]
 description: "Engineering principles for dust collection system design, sizing calculations, collector type selection, and performance optimization per ACGIH and NFPA standards."
 keywords: ["dust collection systems", "baghouse design", "cyclone separators", "industrial air filtration", "particulate collection", "ACGIH ventilation", "NFPA 654 compliance", "dust collector sizing"]
+tags: ["dust collection systems", "baghouse design", "cyclone separators", "industrial air filtration", "particulate collection", "ACGIH ventilation", "NFPA 654 compliance", "dust collector sizing"]
 weight: 2
 ---
 

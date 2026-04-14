@@ -1,5 +1,6 @@
 ---
 title: "Diesel Exhaust Removal Systems"
+aliases: ["Diesel Exhaust Removal Systems"]
 description: "Engineering design guide for source capture diesel exhaust removal systems in fire stations, including magnetic nozzle systems, tailpipe connections, hose reels, and NIOSH-compliant health hazard mitigation strategies."
 keywords:
   - diesel exhaust removal

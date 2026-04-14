@@ -1,7 +1,9 @@
 ---
 title: "Paper Storage HVAC Requirements for Archives"
+aliases: ["Paper Storage HVAC Requirements for Archives"]
 description: "Technical requirements for HVAC systems serving paper document storage in archives. Includes temperature and RH specifications per NARA standards for preservation."
 keywords: ["paper storage conditions", "archive HVAC", "document preservation", "NARA standards", "acidic paper storage", "parchment storage", "archival temperature control", "relative humidity paper"]
+tags: ["paper storage conditions", "archive HVAC", "document preservation", "NARA standards", "acidic paper storage", "parchment storage", "archival temperature control", "relative humidity paper"]
 weight: 1
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Methane Control in Mine Ventilation"
+aliases: ["Methane Control in Mine Ventilation"]
 weight: 4
 description: "Technical guide to methane control in underground coal mines including explosive limits, dilution ventilation calculations, methane drainage systems, continuous monitoring, and MSHA safety protocols."
 keywords:

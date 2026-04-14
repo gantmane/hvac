@@ -1,5 +1,6 @@
 ---
 title: "Fruits Storage"
+aliases: ["Fruits Storage"]
 description: "Comprehensive refrigeration requirements for commercial fruit storage including precooling methods, optimal storage conditions, controlled atmosphere parameters, and chilling injury prevention"
 weight: 1
 ---

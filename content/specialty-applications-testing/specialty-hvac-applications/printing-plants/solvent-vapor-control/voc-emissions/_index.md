@@ -1,5 +1,6 @@
 ---
 title: "VOC Emissions Control in Printing Operations"
+aliases: ["VOC Emissions Control in Printing Operations"]
 description: "Comprehensive analysis of VOC emission calculations, EPA regulatory limits, capture efficiency testing, control device performance, and air permit requirements."
 date: 2025-01-11
 category: "Specialty HVAC Applications"

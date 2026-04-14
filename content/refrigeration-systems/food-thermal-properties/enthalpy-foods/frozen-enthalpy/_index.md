@@ -1,5 +1,6 @@
 ---
 title: "Frozen Enthalpy"
+aliases: ["Frozen Enthalpy"]
 weight: 2
 ---
 

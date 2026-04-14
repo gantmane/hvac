@@ -1,5 +1,6 @@
 ---
 title: "Consultant Coordination"
+aliases: ["Consultant Coordination"]
 description: "Multi-discipline consultant coordination for HVAC design including mechanical-electrical integration, structural coordination, architectural interfaces, civil utilities coordination, and specialty consultant collaboration."
 weight: 3
 ---

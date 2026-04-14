@@ -1,5 +1,6 @@
 ---
 title: "Indoor Units"
+aliases: ["Indoor Units"]
 weight: 2
 ---
 

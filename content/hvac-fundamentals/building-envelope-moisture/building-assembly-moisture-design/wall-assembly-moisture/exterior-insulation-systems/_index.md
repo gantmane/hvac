@@ -1,5 +1,6 @@
 ---
 title: "Exterior Insulation Systems"
+aliases: ["Exterior Insulation Systems"]
 description: "Engineering analysis of continuous exterior insulation systems for wall assemblies including thermal bridge reduction, sheathing temperature control, condensation prevention, and moisture management strategies"
 weight: 4
 ---

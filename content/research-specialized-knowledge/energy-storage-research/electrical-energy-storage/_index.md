@@ -1,5 +1,6 @@
 ---
 title: "Electrical Energy Storage"
+aliases: ["Electrical Energy Storage"]
 description: "Advanced electrical energy storage systems for HVAC applications including battery technologies, lithium-ion and LFP chemistry, flow batteries, grid integration strategies, demand response optimization, economic sizing analysis, and control algorithms for peak shaving and load shifting in commercial buildings"
 weight: 2
 ---

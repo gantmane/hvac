@@ -2,6 +2,7 @@
 title: "Heat Exchangers in HVAC Applications: Design, Selection & Performance Analysis"
 description: "Comprehensive engineering guide to heat exchanger design for HVAC systems including LMTD and ε-NTU methods, effectiveness calculations, fouling analysis, and pressure drop sizing for shell-and-tube, plate, finned-tube, and plate-fin configurations."
 keywords: ["heat exchanger", "LMTD", "effectiveness", "NTU method", "shell and tube", "plate heat exchanger", "finned tube", "fouling factor", "pressure drop", "counterflow", "parallel flow", "crossflow"]
+tags: ["heat exchanger", "LMTD", "effectiveness", "NTU method", "shell and tube", "plate heat exchanger", "finned tube", "fouling factor", "pressure drop", "counterflow"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 15
@@ -1523,12 +1524,12 @@ Proper heat exchanger selection and sizing ensures energy-efficient HVAC system 
 ---
 
 **Related Technical Guides:**
-- [Heat Transfer Fundamentals](/technical-guides/heat-transfer-fundamentals/)
-- [Building Envelope Heat Transfer](/technical-guides/building-envelope-heat-transfer/)
-- [Fluid Mechanics for HVAC](/technical-guides/fluid-mechanics-hvac/)
-- [Energy Recovery Systems](/technical-guides/energy-recovery-systems/)
-- [Cooling Tower Performance](/technical-guides/cooling-tower-performance/)
-- [Chiller Performance Analysis](/technical-guides/chiller-performance-analysis/)
+- Heat Transfer Fundamentals
+- Building Envelope Heat Transfer
+- Fluid Mechanics for HVAC
+- Energy Recovery Systems
+- Cooling Tower Performance
+- Chiller Performance Analysis
 
 **References:**
 - ASHRAE Handbook of Fundamentals, Chapter 4: Heat Transfer

@@ -1,5 +1,6 @@
 ---
 title: "Composition Effects"
+aliases: ["Composition Effects"]
 description: "Comprehensive analysis of how food composition affects thermal properties for refrigeration load calculations. Includes predictive equations, component property values, and calculation methods for water, fat, protein, carbohydrate, fiber, and ash content based on ASHRAE methodology."
 weight: 10
 ---

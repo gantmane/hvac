@@ -1,8 +1,10 @@
 ---
 title: "Domestic Water Heater Types: Selection & Performance"
+aliases: ["Domestic Water Heater Types: Selection & Performance"]
 weight: 2
 description: "Comprehensive analysis of water heater technologies including storage tank, tankless, heat pump, indirect, and solar systems. Covers energy factors, recovery rates, and efficiency standards."
 keywords: ["water heater types", "tankless water heater", "heat pump water heater", "energy factor", "first hour rating", "DOE efficiency standards", "ASHRAE 90.1", "domestic hot water"]
+tags: ["water heater types", "tankless water heater", "heat pump water heater", "energy factor", "first hour rating", "DOE efficiency standards", "ASHRAE 90.1", "domestic hot water"]
 ---
 
 ## Overview

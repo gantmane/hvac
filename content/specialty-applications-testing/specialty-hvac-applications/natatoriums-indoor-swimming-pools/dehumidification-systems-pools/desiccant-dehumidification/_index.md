@@ -1,9 +1,11 @@
 ---
 title: "Desiccant Dehumidification for Indoor Pool Systems"
+aliases: ["Desiccant Dehumidification for Indoor Pool Systems"]
 date: 2026-01-11
 weight: 3
 description: "Engineering analysis of desiccant dehumidification systems for natatoriums including solid and liquid desiccant technologies, regeneration requirements, and deep drying capabilities."
 keywords: ["desiccant dehumidification", "natatorium humidity control", "desiccant wheel", "liquid desiccant systems", "pool dehumidification", "regeneration energy", "deep drying", "hybrid dehumidification"]
+tags: ["desiccant dehumidification", "natatorium humidity control", "desiccant wheel", "liquid desiccant systems", "pool dehumidification", "regeneration energy", "deep drying", "hybrid dehumidification"]
 ---
 
 Desiccant dehumidification systems provide specialized moisture control for natatorium environments by adsorbing water vapor directly from air streams through chemical affinity rather than condensation. These systems achieve extremely low dew points and operate effectively across wide temperature ranges, making them valuable for specific pool facility applications where conventional refrigerant-based systems reach performance limitations.

@@ -1,5 +1,6 @@
 ---
 title: "Specialty HVAC Applications & Testing"
+aliases: ["Specialty HVAC Applications & Testing"]
 linkTitle: "Specialty Applications & Testing"
 date: 2026-01-05
 description: "Advanced HVAC engineering for specialized environments, performance testing protocols, commissioning procedures, and environmental resilience design for critical applications."

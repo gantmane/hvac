@@ -1,7 +1,9 @@
 ---
 title: "Electric Actuators for HVAC Damper and Valve Control"
+aliases: ["Electric Actuators for HVAC Damper and Valve Control"]
 description: "Comprehensive guide to electric actuator types, motor technologies, torque calculations, and selection criteria for HVAC damper and valve control applications."
 keywords: ["electric actuators", "modulating actuators", "spring return actuators", "actuator torque", "HVAC control actuators", "actuator sizing", "non-spring return", "damper actuators"]
+tags: ["electric actuators", "modulating actuators", "spring return actuators", "actuator torque", "HVAC control actuators", "actuator sizing", "non-spring return", "damper actuators"]
 weight: 1
 ---
 

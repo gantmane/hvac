@@ -1,5 +1,6 @@
 ---
 title: "Phenolic Foam"
+aliases: ["Phenolic Foam"]
 weight: 4
 ---
 

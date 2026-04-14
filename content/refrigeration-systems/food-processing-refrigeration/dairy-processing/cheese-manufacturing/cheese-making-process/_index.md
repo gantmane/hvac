@@ -1,5 +1,6 @@
 ---
 title: "Cheese Making Process"
+aliases: ["Cheese Making Process"]
 description: "HVAC and refrigeration requirements for cheese manufacturing processes including vat temperature control, curd processing, cooling systems, brine refrigeration, and process room environmental control"
 weight: 1
 ---

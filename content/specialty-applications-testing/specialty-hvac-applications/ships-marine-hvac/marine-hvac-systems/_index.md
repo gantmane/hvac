@@ -1,8 +1,10 @@
 ---
 title: "Marine HVAC Systems: Ship Climate Control Architectures"
+aliases: ["Marine HVAC Systems: Ship Climate Control Architectures"]
 linkTitle: "Marine HVAC Systems"
 description: "Comprehensive guide to marine HVAC system architectures including central chilled water, packaged units, and split systems for ship climate control applications."
 keywords: ["marine HVAC", "ship air conditioning", "chilled water systems", "marine climate control", "vessel HVAC", "maritime systems", "seawater cooling", "ship ventilation"]
+tags: ["marine HVAC", "ship air conditioning", "chilled water systems", "marine climate control", "vessel HVAC", "maritime systems", "seawater cooling", "ship ventilation"]
 weight: 1
 ---
 

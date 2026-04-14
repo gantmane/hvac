@@ -1,7 +1,9 @@
 ---
 title: "HVAC for Weaving Processes in Textile Mills"
+aliases: ["HVAC for Weaving Processes in Textile Mills"]
 description: "Comprehensive guide to HVAC design for weaving operations including humidity control, temperature stability, and air quality requirements for optimal fabric production."
 keywords: ["weaving HVAC", "textile humidity control", "loom room climate", "fabric production environment", "weaving temperature control", "textile mill HVAC", "weaving process conditions", "loom room design"]
+tags: ["weaving HVAC", "textile humidity control", "loom room climate", "fabric production environment", "weaving temperature control", "textile mill HVAC", "weaving process conditions", "loom room design"]
 weight: 3
 ---
 

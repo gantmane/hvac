@@ -1,5 +1,6 @@
 ---
 title: "Unit Heaters"
+aliases: ["Unit Heaters"]
 description: "Complete guide to unit heater types, configurations, throw patterns, and applications including horizontal propeller, vertical centrifugal, and suspended models."
 date: "2026-01-04"
 weight: 2

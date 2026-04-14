@@ -1,5 +1,6 @@
 ---
 title: "Strawberry Handling and Cooling Systems"
+aliases: ["Strawberry Handling and Cooling Systems"]
 description: "Technical requirements for strawberry refrigeration including forced-air cooling design, rapid field heat removal, storage temperature and humidity specifications, decay prevention strategies, and HVAC system design for extended shelf life."
 weight: 1
 ---

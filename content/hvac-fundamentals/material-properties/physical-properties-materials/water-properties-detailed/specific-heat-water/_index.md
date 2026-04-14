@@ -1,5 +1,6 @@
 ---
 title: "Specific Heat of Water"
+aliases: ["Specific Heat of Water"]
 description: "Comprehensive analysis of water specific heat properties, temperature dependencies, and applications in hydronic HVAC system design including thermal storage and load calculations"
 weight: 3
 ---

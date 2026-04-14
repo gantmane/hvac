@@ -1,5 +1,6 @@
 ---
 title: "Infiltration Loads Methods"
+aliases: ["Infiltration Loads Methods"]
 description: "Advanced calculation methods for infiltration loads in refrigerated facilities including door opening frequency, air curtain effectiveness, strip curtains, vestibule design, Gosney-Olama equation, and infiltration reduction strategies for cold storage and freezer applications"
 weight: 6
 ---

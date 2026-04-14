@@ -1,5 +1,6 @@
 ---
 title: "Masonry Materials"
+aliases: ["Masonry Materials"]
 description: "Thermal properties of masonry materials including brick, concrete, CMU, and stone for HVAC load calculations and building envelope analysis"
 weight: 1
 ---

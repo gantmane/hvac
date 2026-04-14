@@ -1,5 +1,6 @@
 ---
 title: "Heat Transfer"
+aliases: ["Heat Transfer"]
 weight: 2
 description: "Comprehensive overview of heat transfer principles in HVAC systems including conduction, convection, and radiation with governing equations, thermal properties, and engineering applications."
 ---

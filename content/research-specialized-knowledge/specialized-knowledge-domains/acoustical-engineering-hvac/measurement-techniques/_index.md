@@ -1,5 +1,6 @@
 ---
 title: "Measurement Techniques"
+aliases: ["Measurement Techniques"]
 description: "Sound level measurement methods, octave band analysis, acoustic intensity measurement, and field testing procedures for HVAC acoustical performance"
 weight: 3
 ---

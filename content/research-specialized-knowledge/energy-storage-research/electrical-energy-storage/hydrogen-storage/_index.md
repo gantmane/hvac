@@ -1,5 +1,6 @@
 ---
 title: "Hydrogen Storage"
+aliases: ["Hydrogen Storage"]
 weight: 3
 ---
 

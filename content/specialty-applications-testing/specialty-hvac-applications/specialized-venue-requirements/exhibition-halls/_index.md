@@ -1,7 +1,9 @@
 ---
 title: "Exhibition Hall HVAC Systems"
+aliases: ["Exhibition Hall HVAC Systems"]
 description: "Engineering analysis of exhibition hall climate control: variable load management, large open volumes, forklift exhaust handling, and trade show operational requirements."
 keywords: ["exhibition hall HVAC", "trade show ventilation", "variable occupancy loads", "large volume conditioning", "forklift exhaust ventilation", "event space climate control", "high ceiling HVAC"]
+tags: ["exhibition hall HVAC", "trade show ventilation", "variable occupancy loads", "large volume conditioning", "forklift exhaust ventilation", "event space climate control", "high ceiling HVAC"]
 seo_title: "Exhibition Hall HVAC: Engineering & Design Guide"
 weight: 4
 ---

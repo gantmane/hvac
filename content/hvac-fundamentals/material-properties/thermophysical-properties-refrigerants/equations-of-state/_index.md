@@ -1,5 +1,6 @@
 ---
 title: "Equations Of State"
+aliases: ["Equations Of State"]
 weight: 2
 ---
 

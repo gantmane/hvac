@@ -1,8 +1,10 @@
 ---
 title: "On-Demand DHW Recirculation Systems"
+aliases: ["On-Demand DHW Recirculation Systems"]
 weight: 3
 description: "On-demand domestic hot water recirculation systems using push-button, sensor, or timer activation to eliminate wait times while reducing energy consumption by 50-70% compared to continuous operation."
 keywords: ["on-demand recirculation", "push-button DHW pump", "sensor-activated recirculation", "hot water wait time", "recirculation energy savings", "timer-controlled DHW", "demand-controlled pumping", "recirculation pump sizing"]
+tags: ["on-demand recirculation", "push-button DHW pump", "sensor-activated recirculation", "hot water wait time", "recirculation energy savings", "timer-controlled DHW", "demand-controlled pumping", "recirculation pump sizing"]
 ---
 
 ## Overview

@@ -1,5 +1,6 @@
 ---
 title: "CD Coordination"
+aliases: ["CD Coordination"]
 description: "Construction Documents coordination procedures for HVAC systems including final clash detection, multi-discipline integration, BIM coordination protocols, and resolution of spatial conflicts before bid issuance."
 weight: 2
 ---

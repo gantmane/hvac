@@ -1,5 +1,6 @@
 ---
 title: "Freezing Time Predictions"
+aliases: ["Freezing Time Predictions"]
 weight: 3
 ---
 

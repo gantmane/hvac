@@ -1,5 +1,6 @@
 ---
 title: "Air Filtration Systems"
+aliases: ["Air Filtration Systems"]
 description: "Comprehensive guide to HVAC air filtration including filter types, efficiency ratings, MERV, HEPA, particulate removal, and gaseous contaminant control."
 date: "2026-01-04"
 weight: 70

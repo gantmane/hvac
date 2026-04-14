@@ -1,5 +1,6 @@
 ---
 title: "Enabling Technologies"
+aliases: ["Enabling Technologies"]
 weight: 2
 ---
 

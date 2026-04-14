@@ -1,7 +1,9 @@
 ---
 title: "Air Handling Units: Design and Configuration"
+aliases: ["Air Handling Units: Design and Configuration"]
 description: "Comprehensive guide to AHU design, sizing calculations, and configurations including single zone, VAV, multizone, and dual duct systems per ASHRAE standards."
 keywords: ["air handling unit", "AHU sizing", "VAV systems", "dual duct AHU", "multizone AHU", "HVAC airflow", "fan selection", "ASHRAE 90.1"]
+tags: ["air handling unit", "AHU sizing", "VAV systems", "dual duct AHU", "multizone AHU", "HVAC airflow", "fan selection", "ASHRAE 90.1"]
 weight: 5
 ---
 

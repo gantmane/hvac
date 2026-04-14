@@ -1,7 +1,9 @@
 ---
 title: "Automotive Recirculation Mode"
+aliases: ["Automotive Recirculation Mode"]
 description: "Physics-based analysis of automotive HVAC recirculation mode including thermal performance, CO2 accumulation dynamics, automatic control strategies, and air quality management."
 keywords: ["recirculation mode", "automotive HVAC", "CO2 buildup", "air quality sensor", "max AC mode", "pollution protection", "cabin air quality", "ventilation control"]
+tags: ["recirculation mode", "automotive HVAC", "CO2 buildup", "air quality sensor", "max AC mode", "pollution protection", "cabin air quality", "ventilation control"]
 weight: 2
 ---
 

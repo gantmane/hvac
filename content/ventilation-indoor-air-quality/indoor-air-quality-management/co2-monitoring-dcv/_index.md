@@ -1,5 +1,6 @@
 ---
 title: "CO₂ Monitoring and Demand-Controlled Ventilation"
+aliases: ["CO₂ Monitoring and Demand-Controlled Ventilation"]
 description: "Technical principles of CO₂-based demand-controlled ventilation including sensor technology, control strategies, energy savings, and ASHRAE design requirements."
 date: 2025-01-05
 tags: ["CO2 monitoring", "demand-controlled ventilation", "DCV", "indoor air quality", "ventilation control", "energy efficiency", "ASHRAE 62.1"]

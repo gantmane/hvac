@@ -1,7 +1,9 @@
 ---
 title: "Mine Cooling Systems: Refrigeration & Heat Rejection"
+aliases: ["Mine Cooling Systems: Refrigeration & Heat Rejection"]
 description: "Surface and underground refrigeration plants, bulk air cooling, spot coolers, cooling towers, spray chambers, and chilled water distribution for deep mine thermal control."
 keywords: ["mine refrigeration", "underground cooling", "bulk air cooler", "spot cooling", "cascade refrigeration", "mine cooling tower", "chilled water distribution", "spray chamber"]
+tags: ["mine refrigeration", "underground cooling", "bulk air cooler", "spot cooling", "cascade refrigeration", "mine cooling tower", "chilled water distribution", "spray chamber"]
 weight: 3
 ---
 

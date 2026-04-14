@@ -1,5 +1,6 @@
 ---
 title: "Building Energy Modeling Professional Certifications"
+aliases: ["Building Energy Modeling Professional Certifications"]
 description: "Comprehensive guide to building energy modeling certifications including BEMP and ASHRAE BEAP credentials, covering simulation methodologies, ASHRAE 90.1 Appendix G compliance modeling, and career advancement for energy modelers"
 keywords: ["building energy modeling", "BEMP certification", "ASHRAE BEAP", "energy simulation", "Appendix G modeling", "performance rating method", "baseline building", "calibrated simulation", "DOE-2", "EnergyPlus", "energy modeling career", "LEED energy modeling"]
 tags: ["certification", "energy-modeling", "simulation", "ASHRAE", "professional-development", "building-performance", "energy-analysis"]

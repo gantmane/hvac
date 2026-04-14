@@ -1,7 +1,9 @@
 ---
 title: "Aspirating Smoke Detection Systems for HVAC"
+aliases: ["Aspirating Smoke Detection Systems for HVAC"]
 description: "Technical guide to air sampling smoke detection systems including VESDA technology, sensitivity levels, sampling design, and HVAC integration per NFPA 72."
 keywords: ["aspirating smoke detection", "VESDA systems", "air sampling detection", "high sensitivity smoke detection", "HVAC smoke integration", "incipient fire detection", "early warning systems", "NFPA 72"]
+tags: ["aspirating smoke detection", "VESDA systems", "air sampling detection", "high sensitivity smoke detection", "HVAC smoke integration", "incipient fire detection", "early warning systems", "NFPA 72"]
 weight: 3
 ---
 

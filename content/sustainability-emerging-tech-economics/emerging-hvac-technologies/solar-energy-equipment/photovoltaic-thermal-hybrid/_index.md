@@ -1,5 +1,6 @@
 ---
 title: "Photovoltaic-Thermal Hybrid Systems"
+aliases: ["Photovoltaic-Thermal Hybrid Systems"]
 description: "Comprehensive analysis of PVT hybrid collectors combining electricity generation with thermal energy capture for enhanced solar conversion efficiency."
 date: 2025-01-05
 tags: ["solar energy", "photovoltaic", "hybrid systems", "renewable energy", "heat recovery", "cogeneration"]

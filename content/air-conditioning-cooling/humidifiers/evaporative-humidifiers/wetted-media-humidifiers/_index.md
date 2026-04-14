@@ -1,5 +1,6 @@
 ---
 title: "Wetted Media Evaporative Humidifiers"
+aliases: ["Wetted Media Evaporative Humidifiers"]
 description: "Comprehensive analysis of wetted media humidifiers featuring rigid media pads, expanded metal mesh, ceramic coatings, recirculation pump systems, adiabatic humidification principles, and Legionella prevention protocols."
 weight: 1
 ---

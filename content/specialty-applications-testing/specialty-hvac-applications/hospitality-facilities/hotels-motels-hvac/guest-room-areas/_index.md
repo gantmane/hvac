@@ -1,7 +1,9 @@
 ---
 title: "HVAC Design for Hotel Guest Room Areas"
+aliases: ["HVAC Design for Hotel Guest Room Areas"]
 description: "Guest room HVAC systems providing individual temperature control, low-noise operation, effective air distribution, and energy management for optimal comfort."
 keywords: ["hotel guest rooms", "PTAC units", "room temperature control", "noise criteria NC-35", "bathroom exhaust", "occupancy sensors", "infiltration control", "guest comfort"]
+tags: ["hotel guest rooms", "PTAC units", "room temperature control", "noise criteria NC-35", "bathroom exhaust", "occupancy sensors", "infiltration control", "guest comfort"]
 weight: 1
 ---
 

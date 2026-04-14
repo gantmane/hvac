@@ -1,8 +1,10 @@
 ---
 title: "Variable Occupancy Control Strategies"
+aliases: ["Variable Occupancy Control Strategies"]
 seo_title: "Variable Occupancy HVAC Control Systems"
 description: "Comprehensive guide to HVAC control strategies for spaces with fluctuating occupancy including assembly facilities, event spaces, and scheduled load management techniques."
 keywords: ["variable occupancy control", "demand control ventilation", "event space HVAC", "assembly facility", "occupancy sensors", "scheduled ventilation", "load diversity", "CO2 control"]
+tags: ["variable occupancy control", "demand control ventilation", "event space HVAC", "assembly facility", "occupancy sensors", "scheduled ventilation", "load diversity", "CO2 control"]
 weight: 34
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Deep Learning Applications"
+aliases: ["Deep Learning Applications"]
 weight: 1
 description: "Neural network architectures for HVAC systems including LSTM, CNN, and autoencoders for building energy prediction, fault detection, occupancy estimation, and load forecasting"
 keywords: "deep learning HVAC, neural networks building energy, LSTM load forecasting, CNN fault detection, occupancy prediction, training data requirements, autoencoder anomaly detection"
+tags: ["deep learning HVAC", "neural networks building energy", "LSTM load forecasting", "CNN fault detection", "occupancy prediction", "training data requirements", "autoencoder anomaly detection"]
 ---
 
 Deep learning techniques apply multi-layer neural networks to extract complex patterns from HVAC system data. These methods excel at modeling nonlinear relationships between building loads, weather conditions, occupancy, and equipment performance that exceed the capabilities of traditional regression approaches.

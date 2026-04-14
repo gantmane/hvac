@@ -1,5 +1,6 @@
 ---
 title: "Negative Pressure Filtration"
+aliases: ["Negative Pressure Filtration"]
 description: "Engineering principles and design considerations for negative pressure filtration systems in agricultural biosecurity applications, including exhaust fan driven configurations and infiltration control strategies."
 weight: 2
 ---

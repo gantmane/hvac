@@ -1,7 +1,9 @@
 ---
 title: "On-Demand vs Idling Snow Melting Operation"
+aliases: ["On-Demand vs Idling Snow Melting Operation"]
 description: "Energy analysis comparing on-demand and idling snow melting strategies with response time calculations, seasonal energy consumption, and control mode optimization."
 keywords: ["on-demand snow melting", "idling mode", "energy comparison", "response time", "slab warmup", "operating cost", "control strategy", "thermal mass"]
+tags: ["on-demand snow melting", "idling mode", "energy comparison", "response time", "slab warmup", "operating cost", "control strategy", "thermal mass"]
 date: 2026-01-11
 weight: 3
 ---

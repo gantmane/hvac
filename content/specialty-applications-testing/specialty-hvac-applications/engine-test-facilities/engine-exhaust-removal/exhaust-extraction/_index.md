@@ -1,7 +1,9 @@
 ---
 title: "Exhaust Extraction Systems for Engine Test Cells"
+aliases: ["Exhaust Extraction Systems for Engine Test Cells"]
 description: "Design of exhaust extraction systems for engine test facilities including direct-connect and dilution methods, high-temperature fans, and safety interlocks."
 keywords: ["exhaust extraction", "engine test cell", "dilution ventilation", "high temperature fans", "exhaust stack", "heat recovery", "safety interlocks", "variable speed drives"]
+tags: ["exhaust extraction", "engine test cell", "dilution ventilation", "high temperature fans", "exhaust stack", "heat recovery", "safety interlocks", "variable speed drives"]
 weight: 1
 ---
 

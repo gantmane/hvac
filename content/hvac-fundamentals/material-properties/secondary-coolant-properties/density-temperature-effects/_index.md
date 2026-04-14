@@ -1,5 +1,6 @@
 ---
 title: "Density Temperature Effects"
+aliases: ["Density Temperature Effects"]
 description: "Comprehensive analysis of density-temperature relationships in secondary coolants including thermal expansion coefficients, volumetric effects, system design implications, and engineering calculations for glycol and brine solutions"
 weight: 6
 ---

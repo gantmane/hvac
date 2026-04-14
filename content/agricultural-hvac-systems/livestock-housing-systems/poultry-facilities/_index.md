@@ -1,5 +1,6 @@
 ---
 title: "Poultry Facilities"
+aliases: ["Poultry Facilities"]
 description: "Environmental control design for poultry housing including broiler houses, layer facilities, turkey barns, breeder operations, and pullet growing houses with focus on ventilation strategies, temperature control, and air quality management."
 weight: 3
 ---

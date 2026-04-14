@@ -1,5 +1,6 @@
 ---
 title: "BIM Coordination Tools"
+aliases: ["BIM Coordination Tools"]
 description: "BIM coordination software including Navisworks Manage, Solibri Model Checker, BIM 360 Glue, Synchro 4D, and coordination platforms for clash detection, model federation, and multi-discipline integration."
 weight: 3
 ---

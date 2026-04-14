@@ -1,8 +1,10 @@
 ---
 title: "Refrigerant Safety - Comprehensive Guide"
+aliases: ["Refrigerant Safety - Comprehensive Guide"]
 date: 2026-01-04
 description: "Detailed technical guide to refrigerant safety including toxicity classifications, exposure limits, concentration calculations, detection systems, and emergency procedures per ASHRAE 15 and OSHA requirements."
 keywords: ["refrigerant safety", "ASHRAE 15", "refrigerant toxicity", "RCL calculations", "refrigerant exposure", "machinery room safety", "refrigerant detection", "EPA 608", "refrigerant handling"]
+tags: ["refrigerant safety", "ASHRAE 15", "refrigerant toxicity", "RCL calculations", "refrigerant exposure", "machinery room safety", "refrigerant detection", "EPA 608", "refrigerant handling"]
 weight: 3
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Biosecurity HVAC: Pathogen Control Systems"
+aliases: ["Biosecurity HVAC: Pathogen Control Systems"]
 description: "Engineering biosecurity HVAC systems with HEPA filtration, pressure differentials, and air treatment for livestock facilities. Prevent airborne disease transmission."
 keywords: ["biosecurity HVAC", "HEPA filtration agricultural", "pressure differential control", "livestock ventilation", "pathogen filtration", "agricultural air treatment", "disease prevention HVAC", "biosecure facilities"]
+tags: ["biosecurity HVAC", "HEPA filtration agricultural", "pressure differential control", "livestock ventilation", "pathogen filtration", "agricultural air treatment", "disease prevention HVAC", "biosecure facilities"]
 weight: 4
 ---
 

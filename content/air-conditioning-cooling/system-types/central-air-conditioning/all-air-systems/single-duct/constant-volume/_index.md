@@ -1,5 +1,6 @@
 ---
 title: "Constant Volume"
+aliases: ["Constant Volume"]
 weight: 1
 ---
 

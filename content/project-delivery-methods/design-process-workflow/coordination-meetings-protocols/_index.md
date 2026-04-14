@@ -1,5 +1,6 @@
 ---
 title: "Coordination Meetings and Protocols"
+aliases: ["Coordination Meetings and Protocols"]
 description: "Comprehensive guide to design coordination meetings including team meeting protocols, client review procedures, consultant coordination strategies, and effective communication practices for HVAC design projects."
 weight: 5
 ---

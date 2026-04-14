@@ -1,7 +1,9 @@
 ---
 title: "DHW Distribution Losses"
+aliases: ["DHW Distribution Losses"]
 description: "Technical analysis of domestic hot water distribution heat losses, pipe insulation requirements, dead leg waste, and layout optimization per ASHRAE 90.1 standards."
 keywords: ["DHW distribution losses", "pipe heat loss calculations", "water heater insulation", "dead leg piping", "recirculation systems", "ASHRAE 90.1 DHW", "domestic hot water efficiency", "pipe sizing optimization"]
+tags: ["DHW distribution losses", "pipe heat loss calculations", "water heater insulation", "dead leg piping", "recirculation systems", "ASHRAE 90.1 DHW", "domestic hot water efficiency", "pipe sizing optimization"]
 weight: 2
 ---
 

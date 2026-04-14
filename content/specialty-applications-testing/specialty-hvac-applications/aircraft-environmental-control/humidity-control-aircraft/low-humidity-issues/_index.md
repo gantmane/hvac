@@ -1,5 +1,6 @@
 ---
 title: "Low Humidity Issues in Aircraft Cabins"
+aliases: ["Low Humidity Issues in Aircraft Cabins"]
 description: "Technical analysis of low cabin humidity effects, physiological impacts, moisture generation rates, and engineering solutions for commercial and military aircraft."
 date: 2025-01-05
 draft: false

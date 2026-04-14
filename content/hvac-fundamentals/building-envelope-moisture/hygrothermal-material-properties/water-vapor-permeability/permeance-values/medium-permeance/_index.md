@@ -1,5 +1,6 @@
 ---
 title: "Medium Permeance Materials"
+aliases: ["Medium Permeance Materials"]
 description: "Building materials with permeance 1.0 to 10 perm, including wood structural panels, coated finishes, and semi-permeable membranes providing balanced vapor control and drying capacity."
 weight: 3
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Solar Heat Gain in Transit Vehicle HVAC Design"
+aliases: ["Solar Heat Gain in Transit Vehicle HVAC Design"]
 description: "Engineering analysis of solar radiation loads through transit glazing including SHGC values, orientation effects, solar control films, and load calculation methods for buses and rail cars."
 keywords:
   - solar heat gain transit

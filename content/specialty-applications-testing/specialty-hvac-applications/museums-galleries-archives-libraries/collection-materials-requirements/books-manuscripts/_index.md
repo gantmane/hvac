@@ -1,7 +1,9 @@
 ---
 title: "Environmental Requirements for Books and Manuscripts"
+aliases: ["Environmental Requirements for Books and Manuscripts"]
 description: "Temperature, humidity, and air quality specifications for preserving paper, leather, and vellum materials in library and archival collections with HVAC systems."
 keywords: ["paper preservation", "manuscript storage", "humidity control books", "archival environment", "leather binding preservation", "vellum storage", "acid paper degradation", "library HVAC"]
+tags: ["paper preservation", "manuscript storage", "humidity control books", "archival environment", "leather binding preservation", "vellum storage", "acid paper degradation", "library HVAC"]
 date: 2025-01-11
 draft: false
 weight: 6

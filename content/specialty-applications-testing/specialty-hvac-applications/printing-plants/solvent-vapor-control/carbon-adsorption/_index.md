@@ -1,5 +1,6 @@
 ---
 title: "Carbon Adsorption for Solvent Vapor Recovery"
+aliases: ["Carbon Adsorption for Solvent Vapor Recovery"]
 description: "Engineering analysis of activated carbon adsorption systems including isotherm theory, bed sizing calculations, regeneration cycles, and breakthrough time prediction."
 date: 2025-01-11
 category: "Specialty HVAC Applications"

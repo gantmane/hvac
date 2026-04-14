@@ -1,8 +1,10 @@
 ---
 title: "High-Intensity Infrared Heaters"
+aliases: ["High-Intensity Infrared Heaters"]
 weight: 1
 description: "Engineering analysis of high-intensity luminous gas infrared heaters including ceramic tile burners, porous matrix technology, metal fiber burners, radiant intensity calculations, spot heating applications, and performance optimization for loading docks, outdoor areas, and high-bay facilities."
 keywords: "high-intensity infrared, luminous heaters, ceramic burner, porous matrix, metal fiber burner, spot heating, radiant intensity, loading dock heating, outdoor radiant heating"
+tags: ["high-intensity infrared", "luminous heaters", "ceramic burner", "porous matrix", "metal fiber burner", "spot heating", "radiant intensity", "loading dock heating", "outdoor radiant heating"]
 ---
 
 # High-Intensity Infrared Heaters

@@ -1,7 +1,9 @@
 ---
 title: "Natatorium Design Conditions & Temperature Control"
+aliases: ["Natatorium Design Conditions & Temperature Control"]
 description: "Technical guide to natatorium HVAC design conditions including air-water temperature differentials, relative humidity control, and psychrometric relationships per ASHRAE standards."
 keywords: ["natatorium design conditions", "pool air temperature", "humidity control natatorium", "ASHRAE pool design", "air water temperature differential", "indoor pool HVAC", "pool dehumidification", "natatorium psychrometrics"]
+tags: ["natatorium design conditions", "pool air temperature", "humidity control natatorium", "ASHRAE pool design", "air water temperature differential", "indoor pool HVAC", "pool dehumidification", "natatorium psychrometrics"]
 weight: 2
 ---
 

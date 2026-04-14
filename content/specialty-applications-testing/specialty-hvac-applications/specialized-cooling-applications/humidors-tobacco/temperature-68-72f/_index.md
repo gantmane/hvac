@@ -1,5 +1,6 @@
 ---
 title: "Temperature Control 68-72°F for Humidor Systems"
+aliases: ["Temperature Control 68-72°F for Humidor Systems"]
 linkTitle: "Temperature 68-72°F"
 description: "Physics-based analysis of precise temperature control at 68-72°F in humidor HVAC systems including tobacco beetle prevention, aging chemistry optimization, and stability requirements."
 keywords:

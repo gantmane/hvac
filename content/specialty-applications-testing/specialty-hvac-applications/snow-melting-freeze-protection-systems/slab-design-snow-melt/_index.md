@@ -1,5 +1,6 @@
 ---
 title: "Slab Design for Snow Melting Systems"
+aliases: ["Slab Design for Snow Melting Systems"]
 description: "Technical specifications for concrete slab design in hydronic snow melting systems including concrete thickness, tubing placement, reinforcement requirements, expansion joints, and below-slab insulation standards."
 keywords:
   - snow melting slab design

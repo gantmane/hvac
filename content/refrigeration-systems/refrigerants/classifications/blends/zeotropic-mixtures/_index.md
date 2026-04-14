@@ -1,5 +1,6 @@
 ---
 title: "Zeotropic Refrigerant Mixtures"
+aliases: ["Zeotropic Refrigerant Mixtures"]
 description: "Comprehensive technical analysis of zeotropic refrigerant blends including temperature glide phenomena, fractionation behavior, charging requirements, and heat exchanger design considerations for HVAC applications"
 weight: 1
 ---

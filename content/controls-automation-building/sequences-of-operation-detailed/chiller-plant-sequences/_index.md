@@ -1,5 +1,6 @@
 ---
 title: "Chiller Plant Sequences"
+aliases: ["Chiller Plant Sequences"]
 weight: 3
 ---
 

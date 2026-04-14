@@ -1,7 +1,9 @@
 ---
 title: "Health Hazards of Diesel Particulate Matter"
+aliases: ["Health Hazards of Diesel Particulate Matter"]
 description: "Comprehensive analysis of DPM health hazards in underground mines including respiratory effects, IARC Group 1 carcinogenic classification, and MSHA exposure limits."
 keywords: ["diesel particulate matter", "DPM health hazards", "mine ventilation safety", "MSHA regulations", "elemental carbon exposure", "lung deposition", "occupational exposure limits", "IARC Group 1 carcinogen"]
+tags: ["diesel particulate matter", "DPM health hazards", "mine ventilation safety", "MSHA regulations", "elemental carbon exposure", "lung deposition", "occupational exposure limits", "IARC Group 1 carcinogen"]
 weight: 2
 ---
 

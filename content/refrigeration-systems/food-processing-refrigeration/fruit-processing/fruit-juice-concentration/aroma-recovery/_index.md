@@ -1,5 +1,6 @@
 ---
 title: "Aroma Recovery Systems in Fruit Juice Concentration"
+aliases: ["Aroma Recovery Systems in Fruit Juice Concentration"]
 description: "Comprehensive technical guide to aroma recovery systems for fruit juice processing including essence capture, fractional condensation, cold trap design, and volatile compound preservation in evaporative concentration operations"
 weight: 3
 ---

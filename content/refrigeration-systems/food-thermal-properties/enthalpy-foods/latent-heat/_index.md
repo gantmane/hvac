@@ -1,5 +1,6 @@
 ---
 title: "Latent Heat"
+aliases: ["Latent Heat"]
 weight: 3
 ---
 

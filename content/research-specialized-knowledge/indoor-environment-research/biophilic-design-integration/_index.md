@@ -1,5 +1,6 @@
 ---
 title: "Biophilic Design Integration"
+aliases: ["Biophilic Design Integration"]
 weight: 3
 ---
 

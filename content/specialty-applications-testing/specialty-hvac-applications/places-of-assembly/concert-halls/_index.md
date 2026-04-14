@@ -1,7 +1,9 @@
 ---
 title: "Concert Hall HVAC: Silent Systems for Acoustic Venues"
+aliases: ["Concert Hall HVAC: Silent Systems for Acoustic Venues"]
 description: "Engineering HVAC for concert halls requires balancing NC-15 noise criteria, 40-50% RH control for instruments, and thermal comfort with minimal airflow during performances."
 keywords: ["concert hall HVAC", "acoustic venue climate control", "silent HVAC systems", "instrument humidity control", "performance hall conditioning", "NC-15 design", "intermission load management", "displacement ventilation"]
+tags: ["concert hall HVAC", "acoustic venue climate control", "silent HVAC systems", "instrument humidity control", "performance hall conditioning", "NC-15 design", "intermission load management", "displacement ventilation"]
 weight: 4
 ---
 

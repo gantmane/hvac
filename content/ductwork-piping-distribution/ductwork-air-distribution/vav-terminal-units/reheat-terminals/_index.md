@@ -1,5 +1,6 @@
 ---
 title: "Reheat Terminals"
+aliases: ["Reheat Terminals"]
 weight: 4
 ---
 

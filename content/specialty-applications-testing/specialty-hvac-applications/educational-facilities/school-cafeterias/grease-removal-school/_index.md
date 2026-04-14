@@ -1,7 +1,9 @@
 ---
 title: "Grease Removal Systems for School Kitchen Exhaust"
+aliases: ["Grease Removal Systems for School Kitchen Exhaust"]
 description: "Technical guide to grease extraction, filtration technologies, NFPA 96 compliance, and fire protection for school cafeteria commercial kitchen exhaust systems."
 keywords: ["grease removal systems", "school kitchen exhaust", "NFPA 96 compliance", "baffle filters", "grease extraction", "fire suppression systems", "UL 1046 filters", "grease duct cleaning", "commercial kitchen filtration", "Type I hood filters"]
+tags: ["grease removal systems", "school kitchen exhaust", "NFPA 96 compliance", "baffle filters", "grease extraction", "fire suppression systems", "UL 1046 filters", "grease duct cleaning", "commercial kitchen filtration", "Type I hood filters"]
 weight: 3
 ---
 

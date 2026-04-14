@@ -1,5 +1,6 @@
 ---
 title: "Research and Specialized Knowledge"
+aliases: ["Research and Specialized Knowledge"]
 description: "Advanced HVAC research topics including emerging technologies, AI-driven systems, quantum materials, advanced refrigerants, machine learning applications, sustainability research, and cutting-edge developments in building environmental systems"
 weight: 13
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Ice Surface Quality Control Systems"
+aliases: ["Ice Surface Quality Control Systems"]
 description: "Technical guide to ice surface temperature control, humidity management, and refrigeration load calculations for hockey, figure skating, and curling venues."
 keywords: ["ice rink HVAC", "ice surface temperature", "refrigeration load", "radiant heat load", "ice quality control", "arena dehumidification", "ice resurfacing", "ice temperature control"]
+tags: ["ice rink HVAC", "ice surface temperature", "refrigeration load", "radiant heat load", "ice quality control", "arena dehumidification", "ice resurfacing", "ice temperature control"]
 weight: 3
 ---
 

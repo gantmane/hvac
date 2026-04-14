@@ -1,5 +1,6 @@
 ---
 title: "Room Cooling"
+aliases: ["Room Cooling"]
 description: "Room cooling precooling systems for vegetables using conventional cold storage, air circulation strategies, humidity control, and loading patterns for slow-cooling hardy commodities."
 weight: 4
 ---

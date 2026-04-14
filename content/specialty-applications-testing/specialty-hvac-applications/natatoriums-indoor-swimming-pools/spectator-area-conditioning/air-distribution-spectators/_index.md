@@ -1,8 +1,10 @@
 ---
 title: "Spectator Area Air Distribution for Indoor Pools"
+aliases: ["Spectator Area Air Distribution for Indoor Pools"]
 weight: 2
 description: "Engineering guidelines for HVAC air distribution systems serving natatorium spectator seating, including throw calculations, draft control, and thermal comfort design for tiered assembly occupancies."
 keywords: ["natatorium air distribution", "spectator seating HVAC", "tiered seating ventilation", "indoor pool spectator comfort", "assembly occupancy ventilation", "displacement ventilation", "underfloor air distribution", "draft-free design"]
+tags: ["natatorium air distribution", "spectator seating HVAC", "tiered seating ventilation", "indoor pool spectator comfort", "assembly occupancy ventilation", "displacement ventilation", "underfloor air distribution", "draft-free design"]
 ---
 
 ## Air Distribution Systems for Natatorium Spectator Areas

@@ -1,8 +1,10 @@
 ---
 title: "Gas-Fired Infrared Systems"
+aliases: ["Gas-Fired Infrared Systems"]
 weight: 1
 description: "Engineering analysis of gas-fired infrared heaters including high-intensity luminous burners and low-intensity tube systems, combustion processes, burner technologies, venting requirements, and performance characteristics for industrial radiant heating applications."
 keywords: "gas infrared heaters, luminous burners, radiant tube heaters, porous matrix burner, ceramic tile burner, U-tube heaters, infrared combustion, radiant efficiency"
+tags: ["gas infrared heaters", "luminous burners", "radiant tube heaters", "porous matrix burner", "ceramic tile burner", "U-tube heaters", "infrared combustion", "radiant efficiency"]
 ---
 
 # Gas-Fired Infrared Systems

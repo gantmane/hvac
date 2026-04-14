@@ -1,7 +1,9 @@
 ---
 title: "Weather Sealing in Tall Buildings"
+aliases: ["Weather Sealing in Tall Buildings"]
 description: "Physics-based analysis of air barrier systems, sealant performance, curtain wall integration, and pressure-driven infiltration control in high-rise building envelopes."
 keywords: ["air barrier continuity", "curtain wall systems", "elevator shaft pressurization", "revolving door design", "stack effect mitigation", "wind-driven infiltration", "sealant joint design", "building envelope performance"]
+tags: ["air barrier continuity", "curtain wall systems", "elevator shaft pressurization", "revolving door design", "stack effect mitigation", "wind-driven infiltration", "sealant joint design", "building envelope performance"]
 weight: 4
 ---
 

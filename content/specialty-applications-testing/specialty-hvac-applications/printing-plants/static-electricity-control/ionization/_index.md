@@ -1,7 +1,9 @@
 ---
 title: "Ionization Systems for Static Control"
+aliases: ["Ionization Systems for Static Control"]
 description: "Physics-based analysis of air ionization for static neutralization in printing plants including corona discharge mechanisms, ion transport theory, and effectiveness calculations"
 keywords: ["air ionization printing", "corona discharge ionizers", "static neutralization", "bipolar ionization", "ion balance", "ionizer effectiveness", "nuclear ionizers", "photoelectric ionizers"]
+tags: ["air ionization printing", "corona discharge ionizers", "static neutralization", "bipolar ionization", "ion balance", "ionizer effectiveness", "nuclear ionizers", "photoelectric ionizers"]
 date: 2026-01-11
 weight: 2
 seo_title: "Air Ionization Systems: Static Control for Printing Plants"

@@ -1,5 +1,6 @@
 ---
 title: "Membrane Refrigeration"
+aliases: ["Membrane Refrigeration"]
 description: "Membrane-based separation cooling systems using selective gas permeation, vapor separation, and membrane distillation for novel refrigeration and dehumidification applications."
 weight: 5
 ---

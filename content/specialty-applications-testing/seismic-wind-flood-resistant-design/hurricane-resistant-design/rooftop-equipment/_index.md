@@ -1,5 +1,6 @@
 ---
 title: "Hurricane-Resistant Rooftop Equipment Design"
+aliases: ["Hurricane-Resistant Rooftop Equipment Design"]
 description: "Engineering specifications for rooftop HVAC equipment hurricane resistance including wind uplift calculations, anchorage design, curb attachments, and FM Global testing."
 date: 2025-01-05
 weight: 4

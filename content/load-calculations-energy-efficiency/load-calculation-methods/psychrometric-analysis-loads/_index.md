@@ -1,5 +1,6 @@
 ---
 title: "Psychrometric Analysis for Load Calculations"
+aliases: ["Psychrometric Analysis for Load Calculations"]
 description: "Application of psychrometric principles to HVAC load analysis including sensible heat ratio, apparatus dew point, bypass factor, and coil performance determination for cooling system design."
 weight: 6
 ---

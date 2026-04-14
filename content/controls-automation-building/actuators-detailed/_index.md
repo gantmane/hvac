@@ -1,7 +1,9 @@
 ---
 title: "HVAC Actuators: Electric, Pneumatic & Hydraulic"
+aliases: ["HVAC Actuators: Electric, Pneumatic & Hydraulic"]
 description: "Technical analysis of electric, pneumatic, and hydraulic actuators for dampers and valves. Physics-based performance equations, force calculations, and ASHRAE control standards."
 keywords: ["HVAC actuators", "damper actuators", "valve actuators", "pneumatic actuators", "electric actuators", "hydraulic actuators", "building automation", "ASHRAE control"]
+tags: ["HVAC actuators", "damper actuators", "valve actuators", "pneumatic actuators", "electric actuators", "hydraulic actuators", "building automation", "ASHRAE control"]
 weight: 6
 ---
 

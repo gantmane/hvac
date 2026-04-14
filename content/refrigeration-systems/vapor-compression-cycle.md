@@ -1484,12 +1484,12 @@ Modern vapor-compression systems achieve 50-70% of Carnot COP through careful de
 ---
 
 **Related Technical Guides:**
-- [Refrigerant Selection & Properties](/technical-guides/refrigerant-selection-properties/)
-- [Compressor Selection & Performance](/technical-guides/compressor-selection-performance/)
-- [Refrigeration Cycle Design](/technical-guides/refrigeration-cycle-design/)
-- [Thermodynamic Cycles](/technical-guides/thermodynamic-cycles/)
-- [Heat Transfer Fundamentals](/technical-guides/heat-transfer-fundamentals/)
-- [Psychrometric Fundamentals](/technical-guides/psychrometric-fundamentals/)
+- Refrigerant Selection & Properties
+- Compressor Selection & Performance
+- Refrigeration Cycle Design
+- Thermodynamic Cycles
+- Heat Transfer Fundamentals
+- Psychrometric Fundamentals
 
 **References:**
 - ASHRAE Handbook of Refrigeration, Chapter 1: Thermodynamics and Refrigeration Cycles

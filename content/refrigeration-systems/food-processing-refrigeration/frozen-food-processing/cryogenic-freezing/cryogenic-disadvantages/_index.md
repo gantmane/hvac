@@ -1,5 +1,6 @@
 ---
 title: "Cryogenic Disadvantages"
+aliases: ["Cryogenic Disadvantages"]
 description: "Comprehensive analysis of operational, economic, safety, and technical limitations of cryogenic freezing systems including cost analysis, hazard assessment, and comparative evaluation against mechanical refrigeration"
 weight: 4
 ---

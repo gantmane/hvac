@@ -1,7 +1,9 @@
 ---
 title: "Fume Hoods"
+aliases: ["Fume Hoods"]
 description: "HVAC design for laboratory fume hood systems including face velocity requirements, exhaust configurations, and control strategies."
 keywords: ["fume hood", "chemical fume hood", "laboratory exhaust", "face velocity", "VAV fume hood", "containment"]
+tags: ["fume hood", "chemical fume hood", "laboratory exhaust", "face velocity", "VAV fume hood", "containment"]
 weight: 3
 ---
 

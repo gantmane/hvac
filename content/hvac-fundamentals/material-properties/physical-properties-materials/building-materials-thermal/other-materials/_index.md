@@ -1,5 +1,6 @@
 ---
 title: "Other Building Materials"
+aliases: ["Other Building Materials"]
 description: "Thermal properties of glass, ceramics, composites, membranes, gypsum, and earth materials used in HVAC load calculations and envelope design"
 weight: 5
 ---

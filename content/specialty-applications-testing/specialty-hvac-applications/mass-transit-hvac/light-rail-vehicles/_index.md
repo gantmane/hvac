@@ -1,5 +1,6 @@
 ---
 title: "Light Rail Vehicle HVAC Systems"
+aliases: ["Light Rail Vehicle HVAC Systems"]
 linkTitle: "Light Rail Vehicles"
 description: "Technical analysis of HVAC systems for light rail vehicles including trams and streetcars, covering climate control configurations, low-floor vehicle challenges, equipment integration with vehicle design, and standards compliance."
 keywords:

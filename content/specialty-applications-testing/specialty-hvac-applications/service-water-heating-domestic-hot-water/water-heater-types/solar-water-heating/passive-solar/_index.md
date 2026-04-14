@@ -1,8 +1,10 @@
 ---
 title: "Passive Solar Water Heating: Thermosiphon & ICS Systems"
+aliases: ["Passive Solar Water Heating: Thermosiphon & ICS Systems"]
 seo_title: "Passive Solar Water Heating Systems Guide | HVAC"
 description: "Technical guide to passive solar water heating including thermosiphon systems, integral collector storage (ICS), natural convection principles, and climate-specific design."
 keywords: ["passive solar water heating", "thermosiphon system", "integral collector storage", "ICS water heater", "natural convection", "batch water heater", "solar thermal", "freeze protection"]
+tags: ["passive solar water heating", "thermosiphon system", "integral collector storage", "ICS water heater", "natural convection", "batch water heater", "solar thermal", "freeze protection"]
 weight: 2
 ---
 

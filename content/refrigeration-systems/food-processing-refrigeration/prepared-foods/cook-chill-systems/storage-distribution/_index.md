@@ -1,5 +1,6 @@
 ---
 title: "Storage and Distribution"
+aliases: ["Storage and Distribution"]
 description: "Cold storage requirements, shelf life management, and refrigerated distribution systems for cook-chill products. Covers temperature control specifications, packaging systems, and cold chain logistics for prepared food operations."
 weight: 3
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Belt Dryers for Industrial Material Processing"
+aliases: ["Belt Dryers for Industrial Material Processing"]
 description: "Comprehensive engineering analysis of belt dryers covering heat and mass transfer principles, capacity calculations, multi-stage configurations, and design standards."
 keywords: ["belt dryer", "continuous drying", "conveyor dryer", "through circulation drying", "multi-stage dryer", "industrial drying", "perforated belt", "material drying"]
+tags: ["belt dryer", "continuous drying", "conveyor dryer", "through circulation drying", "multi-stage dryer", "industrial drying", "perforated belt", "material drying"]
 weight: 1
 ---
 

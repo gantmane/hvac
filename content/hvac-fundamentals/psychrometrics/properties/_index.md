@@ -1,5 +1,6 @@
 ---
 title: "Psychrometric Properties"
+aliases: ["Psychrometric Properties"]
 description: "Comprehensive treatment of psychrometric properties including dry bulb, wet bulb, dew point temperatures, humidity ratio, enthalpy, and vapor pressure with engineering equations and interrelationships"
 weight: 1
 ---

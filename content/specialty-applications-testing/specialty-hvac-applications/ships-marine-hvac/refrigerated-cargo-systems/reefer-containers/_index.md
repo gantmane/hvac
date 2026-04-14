@@ -1,9 +1,11 @@
 ---
 title: "Refrigerated Container Systems"
+aliases: ["Refrigerated Container Systems"]
 linkTitle: "Reefer Containers"
 weight: 1
 description: "Technical analysis of refrigerated shipping container systems including integral refrigeration units, controlled atmosphere technology, power requirements, capacity calculations, and ISO cold chain compliance standards."
 keywords: ["reefer containers", "refrigerated shipping containers", "controlled atmosphere", "container refrigeration", "cold chain logistics", "ISO containers", "maritime refrigeration", "reefer monitoring"]
+tags: ["reefer containers", "refrigerated shipping containers", "controlled atmosphere", "container refrigeration", "cold chain logistics", "ISO containers", "maritime refrigeration", "reefer monitoring"]
 ---
 
 ## Integral Refrigeration Units

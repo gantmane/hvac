@@ -1,5 +1,6 @@
 ---
 title: "Parallel Fan-Powered VAV Terminals"
+aliases: ["Parallel Fan-Powered VAV Terminals"]
 description: "Comprehensive technical guide to parallel fan-powered VAV terminal units including operating sequences, fan sizing methodology, heating capacity calculations, energy performance analysis, and design parameters for HVAC professionals"
 weight: 2
 ---

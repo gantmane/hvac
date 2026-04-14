@@ -1,5 +1,6 @@
 ---
 title: "Residential In-Space Heating Equipment"
+aliases: ["Residential In-Space Heating Equipment"]
 description: "Comprehensive guide to residential space heaters including gas, electric, wood, and oil equipment with efficiency ratings and installation requirements."
 date: "2026-01-04"
 weight: 8

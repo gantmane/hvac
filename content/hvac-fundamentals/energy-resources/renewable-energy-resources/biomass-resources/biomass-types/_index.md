@@ -1,7 +1,9 @@
 ---
 title: "Biomass Fuel Types for HVAC Heating Systems"
+aliases: ["Biomass Fuel Types for HVAC Heating Systems"]
 description: "Technical analysis of woody, herbaceous, waste, and aquatic biomass types for HVAC heating. Includes energy density calculations, classification, and properties."
 keywords: ["biomass types", "woody biomass", "herbaceous biomass", "waste biomass", "aquatic biomass", "biomass energy density", "biomass heating", "biomass classification"]
+tags: ["biomass types", "woody biomass", "herbaceous biomass", "waste biomass", "aquatic biomass", "biomass energy density", "biomass heating", "biomass classification"]
 weight: 1
 ---
 

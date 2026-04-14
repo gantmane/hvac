@@ -1,5 +1,6 @@
 ---
 title: "Steady State Conduction"
+aliases: ["Steady State Conduction"]
 weight: 1
 ---
 

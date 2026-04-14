@@ -1,8 +1,10 @@
 ---
 title: "Protective Environment Rooms"
+aliases: ["Protective Environment Rooms"]
 SEOTitle: "Protective Environment Rooms: HEPA & Positive Pressure"
 description: "Engineering protective environment rooms for immunocompromised patients with positive pressure design, HEPA filtration, sealed construction per ASHRAE 170."
 keywords: ["protective environment", "PE rooms", "positive pressure", "HEPA filtration healthcare", "immunocompromised patient rooms", "ASHRAE 170", "bone marrow transplant", "anteroom design"]
+tags: ["protective environment", "PE rooms", "positive pressure", "HEPA filtration healthcare", "immunocompromised patient rooms", "ASHRAE 170", "bone marrow transplant", "anteroom design"]
 weight: 3
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Eggs"
+aliases: ["Eggs"]
 weight: 4
 ---
 

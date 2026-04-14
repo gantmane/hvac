@@ -1,5 +1,6 @@
 ---
 title: "Sound Fundamentals"
+aliases: ["Sound Fundamentals"]
 weight: 1
 ---
 

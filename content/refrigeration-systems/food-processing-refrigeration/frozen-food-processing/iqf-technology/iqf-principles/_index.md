@@ -1,5 +1,6 @@
 ---
 title: "IQF Principles"
+aliases: ["IQF Principles"]
 description: "Comprehensive analysis of Individual Quick Freezing principles including rapid heat removal mechanisms, product separation requirements, freezing curve thermodynamics, and fluidization fundamentals for industrial food processing applications"
 weight: 1
 ---

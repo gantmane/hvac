@@ -1,5 +1,6 @@
 ---
 title: "Ink Drying Systems"
+aliases: ["Ink Drying Systems"]
 description: "HVAC design for printing plant ink drying systems including heat-set dryers, UV curing, oxidation drying, exhaust requirements, and heat recovery strategies."
 keywords:
   - ink drying systems

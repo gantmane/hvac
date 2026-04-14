@@ -1,8 +1,10 @@
 ---
 title: "Air Change Rates for Natatoriums"
+aliases: ["Air Change Rates for Natatoriums"]
 weight: 1
 description: "Technical analysis of air change rate requirements for indoor swimming pools including outdoor air calculations, activity-based ventilation rates, and zone-specific requirements."
 keywords: "natatorium air changes, pool ventilation rates, ASHRAE 62.1 pools, outdoor air calculation, pool deck ventilation, spectator area ventilation, swimming pool ACH, natatorium airflow"
+tags: ["natatorium air changes", "pool ventilation rates", "ASHRAE 62.1 pools", "outdoor air calculation", "pool deck ventilation", "spectator area ventilation", "swimming pool ACH", "natatorium airflow"]
 ---
 
 Air change rates in natatorium design serve two distinct but overlapping purposes: dilution of airborne contaminants (primarily chloramines) and humidity control through ventilation. Unlike conventional occupied spaces where ventilation primarily addresses metabolic CO₂ and odors, natatorium ventilation must manage chemical off-gassing from water treatment processes while supporting mechanical dehumidification systems. Understanding the physics of contaminant generation, dispersion, and removal guides proper air change rate selection.

@@ -1,5 +1,6 @@
 ---
 title: "Gas Monitoring and Control in Livestock Facilities"
+aliases: ["Gas Monitoring and Control in Livestock Facilities"]
 description: "Comprehensive guide to hazardous gas monitoring and control in agricultural facilities including ammonia, hydrogen sulfide, methane, and carbon dioxide detection with ventilation-based dilution strategies and alarm systems."
 weight: 4
 ---

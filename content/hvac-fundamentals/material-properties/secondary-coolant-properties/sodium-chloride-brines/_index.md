@@ -1,5 +1,6 @@
 ---
 title: "Sodium Chloride Brines"
+aliases: ["Sodium Chloride Brines"]
 description: "Thermophysical properties and applications of sodium chloride (NaCl) brine solutions for ice rinks, industrial refrigeration, and marine cooling systems including eutectic composition and corrosion considerations."
 weight: 9
 ---

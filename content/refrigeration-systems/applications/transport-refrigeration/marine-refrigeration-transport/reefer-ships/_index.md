@@ -1,5 +1,6 @@
 ---
 title: "Reefer Ships"
+aliases: ["Reefer Ships"]
 weight: 1
 ---
 

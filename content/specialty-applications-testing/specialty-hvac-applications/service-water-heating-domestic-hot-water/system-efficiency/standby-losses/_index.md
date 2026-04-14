@@ -1,7 +1,9 @@
 ---
 title: "Water Heater Standby Heat Losses"
+aliases: ["Water Heater Standby Heat Losses"]
 description: "Technical analysis of storage water heater standby losses, thermal insulation R-value requirements, ambient temperature effects, and Energy Factor ratings per DOE standards."
 keywords: ["standby losses", "water heater insulation", "R-value", "Energy Factor", "thermal losses", "tank insulation", "DOE efficiency", "ambient temperature"]
+tags: ["standby losses", "water heater insulation", "R-value", "Energy Factor", "thermal losses", "tank insulation", "DOE efficiency", "ambient temperature"]
 weight: 1
 ---
 

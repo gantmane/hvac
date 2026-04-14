@@ -1,5 +1,6 @@
 ---
 title: "HVAC for Further-Processed Poultry Product Types"
+aliases: ["HVAC for Further-Processed Poultry Product Types"]
 description: "Temperature control and refrigeration requirements for breaded products, cooked items, and marinated poultry with heat load calculations and system design."
 date: 2025-01-05
 tags: ["poultry processing", "food refrigeration", "further processing", "breading systems", "cooking equipment"]

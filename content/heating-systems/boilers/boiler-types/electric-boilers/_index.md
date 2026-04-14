@@ -1,7 +1,9 @@
 ---
 title: "Electric Boilers: Resistance & Electrode Heating Systems"
+aliases: ["Electric Boilers: Resistance & Electrode Heating Systems"]
 description: "Technical analysis of electric boilers covering resistance heating elements, electrode boilers, efficiency calculations, and electrification applications."
 keywords: ["electric boiler", "resistance heating", "electrode boiler", "electric steam generator", "boiler electrification", "ASHRAE heating", "electric hydronic", "100% thermal efficiency"]
+tags: ["electric boiler", "resistance heating", "electrode boiler", "electric steam generator", "boiler electrification", "ASHRAE heating", "electric hydronic", "100% thermal efficiency"]
 weight: 6
 ---
 

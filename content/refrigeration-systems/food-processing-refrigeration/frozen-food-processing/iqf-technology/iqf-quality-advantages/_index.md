@@ -1,5 +1,6 @@
 ---
 title: "IQF Quality Advantages"
+aliases: ["IQF Quality Advantages"]
 description: "Technical analysis of individual quick freezing quality benefits including ice crystal formation, cell structure preservation, texture retention, drip loss reduction, and nutritional preservation compared to conventional freezing methods"
 weight: 4
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Transit Vehicle Heating and Cooling Load Calculations"
+aliases: ["Transit Vehicle Heating and Cooling Load Calculations"]
 description: "Comprehensive analysis of thermal loads in mass transit vehicles including passenger loads, solar gains, traction equipment heat, lighting, and infiltration losses for rail and bus applications."
 keywords:
   - transit HVAC loads

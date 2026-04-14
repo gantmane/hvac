@@ -1,5 +1,6 @@
 ---
 title: "Pool Dehumidifier Components & System Architecture"
+aliases: ["Pool Dehumidifier Components & System Architecture"]
 seo_title: "Pool Dehumidifier Components: Technical Guide"
 description: "Comprehensive guide to pool dehumidification system components including evaporator coils, condensers, compressors, heat recovery, and control systems with sizing calculations."
 keywords:

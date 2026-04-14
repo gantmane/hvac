@@ -1,7 +1,9 @@
 ---
 title: "Seasonal Variations in HVAC Energy Consumption"
+aliases: ["Seasonal Variations in HVAC Energy Consumption"]
 description: "Analysis of seasonal HVAC energy patterns including heating season, cooling season, and shoulder months with load calculations and climate zone comparisons."
 keywords: ["seasonal energy patterns", "heating season", "cooling season", "shoulder months", "degree days", "seasonal load calculations", "climate zones", "annual energy consumption"]
+tags: ["seasonal energy patterns", "heating season", "cooling season", "shoulder months", "degree days", "seasonal load calculations", "climate zones", "annual energy consumption"]
 weight: 2
 ---
 

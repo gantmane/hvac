@@ -1,7 +1,9 @@
 ---
 title: "Outdoor Air Requirements for Mass Transit HVAC Systems"
+aliases: ["Outdoor Air Requirements for Mass Transit HVAC Systems"]
 description: "Per-passenger outdoor air standards, high occupancy design, intake locations, filtration systems, and variable outdoor air strategies for transit vehicles."
 keywords: ["outdoor air standards", "transit ventilation", "per-passenger airflow", "outdoor air intake", "transit air filtration", "variable outdoor air", "tunnel ventilation", "occupancy ventilation"]
+tags: ["outdoor air standards", "transit ventilation", "per-passenger airflow", "outdoor air intake", "transit air filtration", "variable outdoor air", "tunnel ventilation", "occupancy ventilation"]
 weight: 1
 date: 2025-01-11
 draft: false

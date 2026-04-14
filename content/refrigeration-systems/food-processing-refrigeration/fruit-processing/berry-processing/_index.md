@@ -1,5 +1,6 @@
 ---
 title: "Berry Processing Refrigeration"
+aliases: ["Berry Processing Refrigeration"]
 description: "Advanced refrigeration systems for berry processing including IQF freezing, precooling methods, temperature control for strawberries, blueberries, raspberries, and blackberries with quality preservation strategies."
 weight: 4
 ---

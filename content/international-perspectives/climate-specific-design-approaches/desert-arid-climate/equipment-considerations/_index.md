@@ -1,7 +1,9 @@
 ---
 title: "Desert Climate HVAC Equipment Considerations"
+aliases: ["Desert Climate HVAC Equipment Considerations"]
 description: "Equipment selection and protection strategies for desert climates including dust-resistant condensers, evaporative media, coil coatings, and thermal protection systems."
 keywords: ["desert HVAC equipment", "dust resistant condensers", "evaporative cooler media", "coil protection desert", "hail guards", "thermal cycling equipment", "desert heat exchangers", "condenser coil spacing"]
+tags: ["desert HVAC equipment", "dust resistant condensers", "evaporative cooler media", "coil protection desert", "hail guards", "thermal cycling equipment", "desert heat exchangers", "condenser coil spacing"]
 weight: 2
 ---
 

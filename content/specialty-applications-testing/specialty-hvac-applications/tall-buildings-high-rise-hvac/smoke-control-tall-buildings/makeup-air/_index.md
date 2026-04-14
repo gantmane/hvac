@@ -1,7 +1,9 @@
 ---
 title: "Makeup Air Systems for Smoke Control in Tall Buildings"
+aliases: ["Makeup Air Systems for Smoke Control in Tall Buildings"]
 description: "Technical analysis of makeup air supply systems for maintaining pressure differentials during smoke control, including volumetric coordination, air handler modes, and depressurization prevention."
 keywords: ["makeup air smoke control", "pressure differential control", "smoke exhaust coordination", "building depressurization", "air handler smoke modes", "makeup air volume calculation", "tempered makeup air", "emergency makeup air systems"]
+tags: ["makeup air smoke control", "pressure differential control", "smoke exhaust coordination", "building depressurization", "air handler smoke modes", "makeup air volume calculation", "tempered makeup air", "emergency makeup air systems"]
 weight: 3
 ---
 

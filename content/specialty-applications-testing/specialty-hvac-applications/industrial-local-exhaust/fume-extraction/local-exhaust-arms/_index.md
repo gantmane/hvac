@@ -1,7 +1,9 @@
 ---
 title: "Local Exhaust Arms for Industrial Fume Extraction"
+aliases: ["Local Exhaust Arms for Industrial Fume Extraction"]
 description: "Technical guide to articulating exhaust arms for welding and fume extraction. Covers arm design, flow rates, capture velocities, hood configurations, positioning systems, and maintenance requirements."
 keywords: ["exhaust arms", "articulating arms", "fume extraction arms", "flexible exhaust", "welding fume arms", "source capture", "local exhaust ventilation", "self-supporting arms"]
+tags: ["exhaust arms", "articulating arms", "fume extraction arms", "flexible exhaust", "welding fume arms", "source capture", "local exhaust ventilation", "self-supporting arms"]
 weight: 4
 ---
 

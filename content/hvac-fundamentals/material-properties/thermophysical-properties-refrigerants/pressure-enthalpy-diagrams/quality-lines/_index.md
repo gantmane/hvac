@@ -1,5 +1,6 @@
 ---
 title: "Quality Lines"
+aliases: ["Quality Lines"]
 weight: 4
 ---
 

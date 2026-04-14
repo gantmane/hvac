@@ -1,5 +1,6 @@
 ---
 title: "Acoustic Considerations for Assembly Space HVAC Systems"
+aliases: ["Acoustic Considerations for Assembly Space HVAC Systems"]
 description: "Comprehensive technical guidance on HVAC acoustic design for theaters, concert halls, and lecture halls including NC curve requirements, sound power analysis, and low-velocity strategies."
 date: 2026-01-05
 tags: ["acoustics", "assembly spaces", "noise criteria", "duct silencers", "sound design", "theaters", "concert halls", "lecture halls", "NC curves", "sound power levels"]

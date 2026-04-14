@@ -1,7 +1,9 @@
 ---
 title: "HVAC Financial Incentives and Tax Credits"
+aliases: ["HVAC Financial Incentives and Tax Credits"]
 description: "Federal tax credits, utility rebates, and financing programs for HVAC systems. Coverage of IRS Section 25C/45L credits, state incentives, and PACE financing options."
 keywords: ["tax credits HVAC", "utility rebates", "Section 25C", "Section 45L", "HVAC financing", "energy efficiency incentives", "PACE financing", "IRS HVAC credits"]
+tags: ["tax credits HVAC", "utility rebates", "Section 25C", "Section 45L", "HVAC financing", "energy efficiency incentives", "PACE financing", "IRS HVAC credits"]
 weight: 1
 ---
 

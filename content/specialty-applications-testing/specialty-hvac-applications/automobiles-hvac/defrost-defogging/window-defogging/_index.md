@@ -1,7 +1,9 @@
 ---
 title: "Automotive Window Defogging Systems"
+aliases: ["Automotive Window Defogging Systems"]
 description: "Physics-based analysis of automotive window defogging systems, including dew point control, AC dehumidification, automatic humidity sensing, and heated glass technology."
 keywords: ["window defogging", "dew point control", "automotive HVAC", "humidity sensors", "AC dehumidification", "heated glass", "condensation prevention", "SAE J902"]
+tags: ["window defogging", "dew point control", "automotive HVAC", "humidity sensors", "AC dehumidification", "heated glass", "condensation prevention", "SAE J902"]
 weight: 2
 ---
 

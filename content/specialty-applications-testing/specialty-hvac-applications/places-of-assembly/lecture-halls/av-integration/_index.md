@@ -1,7 +1,9 @@
 ---
 title: "AV Equipment Integration with HVAC Systems"
+aliases: ["AV Equipment Integration with HVAC Systems"]
 description: "Technical requirements for integrating audiovisual equipment with HVAC in lecture halls, including projector cooling, rack ventilation, and noise coordination."
 keywords: ["projector cooling", "AV rack ventilation", "equipment heat load", "HVAC noise control", "control room conditioning", "cable tray coordination"]
+tags: ["projector cooling", "AV rack ventilation", "equipment heat load", "HVAC noise control", "control room conditioning", "cable tray coordination"]
 weight: 2
 ---
 

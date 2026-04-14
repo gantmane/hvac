@@ -1,9 +1,11 @@
 ---
 title: "Dehumidification Systems for Natatoriums"
+aliases: ["Dehumidification Systems for Natatoriums"]
 date: 2026-01-11
 draft: false
 description: "Technical analysis of refrigerant-based and desiccant dehumidification systems for indoor pools, including evaporation rate calculations, energy recovery, and pool cover effects."
 keywords: ["natatorium dehumidification", "pool evaporation rate", "refrigerant dehumidifier", "desiccant dehumidifier", "natatorium humidity control", "pool cover efficiency", "HVAC energy recovery", "indoor pool design"]
+tags: ["natatorium dehumidification", "pool evaporation rate", "refrigerant dehumidifier", "desiccant dehumidifier", "natatorium humidity control", "pool cover efficiency", "HVAC energy recovery", "indoor pool design"]
 ---
 
 ## Fundamental Physics of Pool Evaporation

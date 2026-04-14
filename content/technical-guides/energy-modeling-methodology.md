@@ -2,6 +2,7 @@
 title: "Energy Modeling Methodology for HVAC Engineers"
 description: "Degree-day method, bin method, detailed simulation, and calibration procedures for HVAC energy analysis and consumption prediction."
 keywords: ["energy modeling", "degree days", "bin method", "building simulation", "energy analysis", "eQUEST", "EnergyPlus"]
+tags: ["energy modeling", "degree days", "bin method", "building simulation", "energy analysis", "eQUEST", "EnergyPlus"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 28
@@ -245,9 +246,9 @@ $$Improvement = \frac{Cost_{baseline} - Cost_{proposed}}{Cost_{baseline}} \times
 ---
 
 **Related Technical Guides:**
-- [Load Calculation Methodology](/technical-guides/load-calculation-methodology/)
-- [Heating Load Calculations](/technical-guides/heating-load-calculations/)
-- [Cooling Load Calculations](/technical-guides/cooling-load-calculations/)
+- Load Calculation Methodology
+- Heating Load Calculations
+- Cooling Load Calculations
 
 **References:**
 - ASHRAE Handbook of Fundamentals, Chapter 19: Energy Estimating and Modeling Methods

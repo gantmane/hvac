@@ -1,5 +1,6 @@
 ---
 title: "Thermophysical Properties"
+aliases: ["Thermophysical Properties"]
 description: "Comprehensive analysis of refrigerant thermophysical properties including critical point data, saturation properties, transport properties, and property relationships for refrigeration cycle design and analysis"
 weight: 2
 ---

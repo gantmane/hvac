@@ -1,5 +1,6 @@
 ---
 title: "Blockchain Energy Management"
+aliases: ["Blockchain Energy Management"]
 weight: 11
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Fire Damper Systems"
+aliases: ["Fire Damper Systems"]
 weight: 2
 ---
 

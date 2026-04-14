@@ -1,5 +1,6 @@
 ---
 title: "Insulated Holds Marine Refrigeration Systems"
+aliases: ["Insulated Holds Marine Refrigeration Systems"]
 description: "Technical guide to insulated cargo hold construction for marine refrigerated transport including polyurethane foam insulation, vapor barriers, R-values, and thermal bridging control."
 date: 2025-01-11
 draft: false

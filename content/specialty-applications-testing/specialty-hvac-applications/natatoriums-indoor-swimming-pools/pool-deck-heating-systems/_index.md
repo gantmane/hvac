@@ -1,8 +1,10 @@
 ---
 title: "Pool Deck Heating Systems"
+aliases: ["Pool Deck Heating Systems"]
 weight: 10
 description: "Engineering design of pool deck heating systems including radiant floor heating, forced air warming, design calculations, control strategies, and integration with natatorium HVAC for comfort and condensation prevention."
 keywords: "pool deck heating, radiant floor heating pools, hydronic deck heating, natatorium floor warming, pool comfort heating, barefoot comfort"
+tags: ["pool deck heating", "radiant floor heating pools", "hydronic deck heating", "natatorium floor warming", "pool comfort heating", "barefoot comfort"]
 ---
 
 Pool deck heating represents an essential component of natatorium comfort and safety design. Swimmers exiting warm pool water onto cold decks experience thermal discomfort and potential hypothermia risk. Additionally, unheated decks in high-humidity environments become condensation collection surfaces, creating slip hazards and material degradation. Properly designed deck heating maintains comfortable barefoot surface temperatures while preventing condensation.

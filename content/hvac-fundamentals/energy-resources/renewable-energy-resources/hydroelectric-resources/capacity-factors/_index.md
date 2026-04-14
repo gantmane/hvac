@@ -1,7 +1,9 @@
 ---
 title: "Hydroelectric Capacity Factors"
+aliases: ["Hydroelectric Capacity Factors"]
 description: "Comprehensive analysis of hydroelectric capacity factors including run-of-river, reservoir storage systems, seasonal variation impacts, and efficiency calculations."
 keywords: ["hydroelectric capacity factor", "run-of-river efficiency", "reservoir storage capacity", "seasonal hydropower variation", "hydropower performance", "water flow availability", "hydroelectric generation", "power plant utilization"]
+tags: ["hydroelectric capacity factor", "run-of-river efficiency", "reservoir storage capacity", "seasonal hydropower variation", "hydropower performance", "water flow availability", "hydroelectric generation", "power plant utilization"]
 weight: 3
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Transfer Learning"
+aliases: ["Transfer Learning"]
 weight: 3
 ---
 

@@ -1,10 +1,12 @@
 ---
 title: "Equipment Placement Strategies for Transit HVAC"
+aliases: ["Equipment Placement Strategies for Transit HVAC"]
 date: 2025-01-11
 weight: 7
 draft: false
 description: "Engineering analysis of HVAC equipment placement in mass transit vehicles covering rooftop, underfloor, and end-of-car configurations with structural and clearance considerations."
 keywords: ["transit HVAC placement", "rooftop HVAC units", "underfloor equipment", "vehicle clearance", "structural loading", "transit equipment configuration", "rail car HVAC", "bus HVAC mounting"]
+tags: ["transit HVAC placement", "rooftop HVAC units", "underfloor equipment", "vehicle clearance", "structural loading", "transit equipment configuration", "rail car HVAC", "bus HVAC mounting"]
 ---
 
 ## Equipment Placement Requirements

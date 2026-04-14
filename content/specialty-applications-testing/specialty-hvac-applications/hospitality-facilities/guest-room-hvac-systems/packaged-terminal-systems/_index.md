@@ -1,7 +1,9 @@
 ---
 title: "Packaged Terminal Systems for Hotel Guest Rooms"
+aliases: ["Packaged Terminal Systems for Hotel Guest Rooms"]
 description: "PTAC and PTHP units for hotel applications including installation requirements, sound ratings, DOE efficiency standards, maintenance strategies, and selection by hotel class."
 keywords: ["PTAC", "PTHP", "packaged terminal air conditioner", "hotel HVAC", "wall sleeve", "DOE efficiency", "guest room comfort", "hotel maintenance"]
+tags: ["PTAC", "PTHP", "packaged terminal air conditioner", "hotel HVAC", "wall sleeve", "DOE efficiency", "guest room comfort", "hotel maintenance"]
 date: 2025-01-11
 draft: false
 weight: 1

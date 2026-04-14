@@ -1,7 +1,9 @@
 ---
 title: "Berry Storage Requirements"
+aliases: ["Berry Storage Requirements"]
 description: "Technical specifications for refrigerated storage of strawberries, blueberries, raspberries, and other berries including rapid cooling, temperature control, and humidity management for decay prevention."
 keywords: ["berry storage", "strawberry refrigeration", "blueberry cold storage", "raspberry cooling", "forced-air cooling berries", "berry preservation", "fruit cold chain"]
+tags: ["berry storage", "strawberry refrigeration", "blueberry cold storage", "raspberry cooling", "forced-air cooling berries", "berry preservation", "fruit cold chain"]
 weight: 3
 ---
 

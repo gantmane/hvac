@@ -1,7 +1,9 @@
 ---
 title: "Computational Methods in HVAC Research"
+aliases: ["Computational Methods in HVAC Research"]
 description: "Advanced numerical methods for HVAC analysis including finite element, CFD, optimization algorithms, and machine learning applications in building energy simulation and system design."
 keywords: ["computational HVAC", "numerical methods", "building energy modeling", "CFD simulation", "optimization algorithms", "machine learning HVAC", "finite element analysis", "heat transfer modeling", "airflow simulation"]
+tags: ["computational HVAC", "numerical methods", "building energy modeling", "CFD simulation", "optimization algorithms", "machine learning HVAC", "finite element analysis", "heat transfer modeling", "airflow simulation"]
 date: 2025-01-05
 draft: false
 type: docs

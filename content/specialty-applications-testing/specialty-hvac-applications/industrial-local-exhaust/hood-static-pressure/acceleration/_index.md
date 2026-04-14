@@ -1,7 +1,9 @@
 ---
 title: "Acceleration Pressure Loss in Hood Entry"
+aliases: ["Acceleration Pressure Loss in Hood Entry"]
 description: "Physics-based analysis of acceleration losses as air accelerates from rest into industrial exhaust hoods, including velocity pressure calculations and hood entry loss coefficients."
 keywords: ["acceleration loss", "hood entry pressure", "velocity pressure", "ACGIH hood design", "exhaust hood losses", "industrial ventilation", "hood static pressure", "LEV system design"]
+tags: ["acceleration loss", "hood entry pressure", "velocity pressure", "ACGIH hood design", "exhaust hood losses", "industrial ventilation", "hood static pressure", "LEV system design"]
 weight: 2
 ---
 

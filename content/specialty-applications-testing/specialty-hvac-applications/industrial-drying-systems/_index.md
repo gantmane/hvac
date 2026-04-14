@@ -1,5 +1,6 @@
 ---
 title: "Industrial Drying Systems HVAC Design Engineering"
+aliases: ["Industrial Drying Systems HVAC Design Engineering"]
 description: "Industrial drying systems guide: psychrometric analysis, drying rate fundamentals, dryer classification, energy efficiency, and process integration."
 keywords:
   - industrial drying systems

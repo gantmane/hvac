@@ -1,5 +1,6 @@
 ---
 title: "Dehumidification Kilns: Heat Pump Drying Technology"
+aliases: ["Dehumidification Kilns: Heat Pump Drying Technology"]
 description: "Technical analysis of heat pump dehumidification kilns for lumber drying. Covers refrigeration cycle principles, moisture removal calculations, energy efficiency, and performance comparison."
 keywords:
   - dehumidification kilns

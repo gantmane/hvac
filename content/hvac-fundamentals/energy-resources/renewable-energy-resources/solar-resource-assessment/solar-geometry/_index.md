@@ -1,7 +1,9 @@
 ---
 title: "Solar Geometry for HVAC System Design"
+aliases: ["Solar Geometry for HVAC System Design"]
 description: "Master solar angle calculations including altitude, azimuth, declination, and hour angle for accurate HVAC solar heat gain analysis and renewable energy system design."
 keywords: ["solar geometry", "solar altitude angle", "solar azimuth angle", "solar declination", "hour angle", "solar angles", "ASHRAE solar calculations", "sun path diagram"]
+tags: ["solar geometry", "solar altitude angle", "solar azimuth angle", "solar declination", "hour angle", "solar angles", "ASHRAE solar calculations", "sun path diagram"]
 weight: 2
 ---
 

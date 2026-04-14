@@ -1,7 +1,9 @@
 ---
 title: "HVAC Emergency Procedures and Response Protocols"
+aliases: ["HVAC Emergency Procedures and Response Protocols"]
 description: "Comprehensive emergency action plans for HVAC operations covering refrigerant leaks, electrical incidents, fire response, and OSHA-compliant emergency procedures."
 keywords: ["HVAC emergency procedures", "refrigerant leak response", "electrical incident protocol", "fire safety HVAC", "OSHA emergency action plan", "emergency response procedures", "HVAC safety protocols", "incident management"]
+tags: ["HVAC emergency procedures", "refrigerant leak response", "electrical incident protocol", "fire safety HVAC", "OSHA emergency action plan", "emergency response procedures", "HVAC safety protocols", "incident management"]
 weight: 9
 ---
 

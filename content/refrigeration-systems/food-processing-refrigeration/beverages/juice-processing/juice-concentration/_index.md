@@ -1,5 +1,6 @@
 ---
 title: "Juice Concentration HVAC Systems"
+aliases: ["Juice Concentration HVAC Systems"]
 description: "Refrigeration and HVAC requirements for juice concentration processes including evaporator cooling, freeze concentration, aroma recovery systems, and concentrate storage temperature control for beverage processing facilities"
 weight: 3
 ---

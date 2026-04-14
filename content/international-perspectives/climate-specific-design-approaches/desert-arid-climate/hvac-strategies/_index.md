@@ -1,7 +1,9 @@
 ---
 title: "Desert Climate HVAC Strategies"
+aliases: ["Desert Climate HVAC Strategies"]
 description: "Comprehensive HVAC strategies for desert climates including evaporative cooling effectiveness, thermal mass utilization, night ventilation, and solar control techniques."
 keywords: ["evaporative cooling", "desert HVAC", "thermal mass cooling", "night ventilation", "indirect evaporative", "two-stage cooling", "solar shading", "economizer operation"]
+tags: ["evaporative cooling", "desert HVAC", "thermal mass cooling", "night ventilation", "indirect evaporative", "two-stage cooling", "solar shading", "economizer operation"]
 weight: 2
 ---
 

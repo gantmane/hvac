@@ -1,7 +1,9 @@
 ---
 title: "RH 45-55% Control for Sheet-Fed Press Operations"
+aliases: ["RH 45-55% Control for Sheet-Fed Press Operations"]
 description: "Technical analysis of 45-55% RH control specification for sheet-fed lithographic presses covering dimensional stability requirements, control system design, and equipment selection."
 keywords: ["45-55 RH printing", "sheet-fed press humidity", "paper dimensional stability", "humidity control printing", "RH control band", "hygroexpansion control", "printing press HVAC", "lithographic press environment"]
+tags: ["45-55 RH printing", "sheet-fed press humidity", "paper dimensional stability", "humidity control printing", "RH control band", "hygroexpansion control", "printing press HVAC", "lithographic press environment"]
 weight: 1
 ---
 

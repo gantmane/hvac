@@ -1,7 +1,9 @@
 ---
 title: "Specialized Venue Requirements"
+aliases: ["Specialized Venue Requirements"]
 description: "Engineering HVAC systems for specialized venues with variable occupancy, event-driven loads, and flexible space configurations requiring rapid response and multi-mode operation."
 keywords: ["specialized venue HVAC", "variable occupancy control", "event-driven cooling", "multi-use space conditioning", "flexible venue design", "occupancy-responsive systems", "venue load management", "temporary load HVAC"]
+tags: ["specialized venue HVAC", "variable occupancy control", "event-driven cooling", "multi-use space conditioning", "flexible venue design", "occupancy-responsive systems", "venue load management", "temporary load HVAC"]
 weight: 35
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Controlled Atmosphere Storage for Crops"
+aliases: ["Controlled Atmosphere Storage for Crops"]
 description: "Technical guide to controlled atmosphere storage systems for post-harvest crop preservation including oxygen control, CO2 management, ethylene scrubbing, and respiration rate calculations for apples, pears, and other produce."
 keywords:
   - controlled atmosphere storage

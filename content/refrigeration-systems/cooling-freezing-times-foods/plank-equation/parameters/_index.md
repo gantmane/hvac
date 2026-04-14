@@ -1,5 +1,6 @@
 ---
 title: "Parameters"
+aliases: ["Parameters"]
 weight: 2
 ---
 

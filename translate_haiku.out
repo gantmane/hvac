@@ -1,0 +1,16 @@
+START: 2993 files, model=qwen3.5:35b, single_shot≤6000B, chunk_target=4000B
+[1/2993] heating-systems/combustion-heating/burners/coal-burners/_index.md (134B)
+  ✓ single(134B) in 4.4s
+[2/2993] air-conditioning-cooling/system-types/unitary-systems/portable-ac/_index.md (145B)
+  ✓ single(145B) in 20.2s
+[3/2993] heating-systems/combustion-heating/fuels/biomass/_index.md (145B)
+  ✓ single(145B) in 17.8s
+[4/2993] ductwork-piping-distribution/ductwork-air-distribution/vav-terminal-units/fan-powered-terminals/series-fan-powered/_index.md (152B)
+  ✓ single(152B) in 18.6s
+[5/2993] load-calculations-energy-efficiency/energy-efficiency-optimization/renewable-energy-systems/photovoltaic-integration/_index.md (156B)
+START: 2989 files, model=qwen3.5:35b, single_shot≤6000B, chunk_target=4000B
+[1/2989] load-calculations-energy-efficiency/energy-efficiency-optimization/renewable-energy-systems/photovoltaic-integration/_index.md (156B)
+  ✓ single(156B) in 21.9s
+[2/2989] air-conditioning-cooling/cooling-towers/tower-types/mechanical-draft/forced-draft/_index.md (161B)
+  ✓ single(161B) in 19.4s
+[3/2989] refrigeration-systems/food-thermal-properties/enthalpy-foods/frozen-enthalpy/_index.md (161B)

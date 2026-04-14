@@ -1,7 +1,9 @@
 ---
 title: "Oxygen Control in Controlled Atmosphere Storage Systems"
+aliases: ["Oxygen Control in Controlled Atmosphere Storage Systems"]
 description: "Low-oxygen atmosphere generation, monitoring, and control for crop preservation including PSA and membrane systems, respiration reduction, and safety protocols."
 keywords: ["oxygen control", "controlled atmosphere storage", "PSA nitrogen generator", "membrane separation", "respiration rate", "crop preservation", "oxygen monitoring", "CA storage safety"]
+tags: ["oxygen control", "controlled atmosphere storage", "PSA nitrogen generator", "membrane separation", "respiration rate", "crop preservation", "oxygen monitoring", "CA storage safety"]
 weight: 2
 ---
 

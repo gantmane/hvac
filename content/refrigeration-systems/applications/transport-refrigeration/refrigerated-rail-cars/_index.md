@@ -1,8 +1,10 @@
 ---
 title: "Refrigerated Rail Cars"
+aliases: ["Refrigerated Rail Cars"]
 weight: 3
 description: "Technical guide to refrigerated rail car systems including mechanical refrigeration units, insulated car design, airflow patterns, temperature monitoring, and freight railroad requirements for perishable cargo transport."
 keywords: ["refrigerated rail cars", "reefer cars", "mechanical refrigeration railcars", "insulated rail cars", "intermodal rail transport", "rail temperature monitoring", "freight railroad refrigeration"]
+tags: ["refrigerated rail cars", "reefer cars", "mechanical refrigeration railcars", "insulated rail cars", "intermodal rail transport", "rail temperature monitoring", "freight railroad refrigeration"]
 ---
 
 Refrigerated rail cars (reefer cars) provide temperature-controlled transport for perishable commodities over long distances via freight railroad networks. These specialized cars maintain precise temperature conditions through mechanical refrigeration systems or passive insulation designs, enabling coast-to-coast distribution of food products, pharmaceuticals, and temperature-sensitive materials.

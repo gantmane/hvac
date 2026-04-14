@@ -1,5 +1,6 @@
 ---
 title: "Pipe and Duct Materials"
+aliases: ["Pipe and Duct Materials"]
 description: "Comprehensive analysis of pipe and duct material properties including steel, copper, PVC, aluminum thermal expansion coefficients, pressure ratings, wall thickness specifications, and material selection criteria for HVAC distribution systems."
 weight: 4
 ---

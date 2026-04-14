@@ -2,6 +2,7 @@
 title: "Fluid Mechanics for HVAC Engineers"
 description: "Bernoulli's equation, friction losses in pipes and ducts, Reynolds numbers, and flow regimes with practical sizing applications for air and water distribution systems."
 keywords: ["fluid mechanics", "Bernoulli equation", "friction loss", "Reynolds number", "Darcy-Weisbach", "Hazen-Williams", "duct sizing", "pipe sizing"]
+tags: ["fluid mechanics", "Bernoulli equation", "friction loss", "Reynolds number", "Darcy-Weisbach", "Hazen-Williams", "duct sizing", "pipe sizing"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 2
@@ -379,10 +380,10 @@ Accurate pressure drop calculations enable proper fan and pump selection, duct a
 ---
 
 **Related Technical Guides:**
-- [Duct Design Fundamentals](/technical-guides/duct-design-fundamentals/)
-- [Hydronic System Fundamentals](/technical-guides/hydronic-system-fundamentals/)
-- [Pump Selection & Performance](/technical-guides/pump-selection-performance/)
-- [Fan Selection & Performance](/technical-guides/fan-selection-performance/)
+- Duct Design Fundamentals
+- Hydronic System Fundamentals
+- Pump Selection & Performance
+- Fan Selection & Performance
 
 **References:**
 - ASHRAE Handbook of Fundamentals, Chapter 3: Fluid Flow

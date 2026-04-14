@@ -1,7 +1,9 @@
 ---
 title: "Minimum Ventilation Rates for High-Occupancy Spaces"
+aliases: ["Minimum Ventilation Rates for High-Occupancy Spaces"]
 description: "Calculate minimum outdoor air ventilation rates using ASHRAE 62.1 ventilation rate procedure including per-person rates, area rates, breathing zone requirements, and system efficiency factors."
 keywords: ["minimum ventilation rates", "ASHRAE 62.1", "outdoor air calculation", "breathing zone ventilation", "ventilation rate procedure", "per-person ventilation", "area ventilation", "ventilation effectiveness"]
+tags: ["minimum ventilation rates", "ASHRAE 62.1", "outdoor air calculation", "breathing zone ventilation", "ventilation rate procedure", "per-person ventilation", "area ventilation", "ventilation effectiveness"]
 weight: 2
 ---
 

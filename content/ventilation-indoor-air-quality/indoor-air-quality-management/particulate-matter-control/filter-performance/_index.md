@@ -1,5 +1,6 @@
 ---
 title: "Filter Performance and Efficiency Metrics"
+aliases: ["Filter Performance and Efficiency Metrics"]
 description: "Technical analysis of air filter performance characteristics including efficiency curves, pressure drop calculations, dust holding capacity, and life cycle cost evaluation."
 date: 2025-01-05
 draft: false

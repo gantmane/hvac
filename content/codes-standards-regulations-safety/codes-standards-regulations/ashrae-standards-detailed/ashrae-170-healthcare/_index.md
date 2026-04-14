@@ -1,8 +1,10 @@
 ---
 title: "ASHRAE 170: Ventilation of Healthcare Facilities"
+aliases: ["ASHRAE 170: Ventilation of Healthcare Facilities"]
 weight: 6
 description: "Comprehensive guide to ASHRAE Standard 170 covering pressure relationships, air change requirements, filtration standards, and room-by-room design parameters for healthcare facilities."
 keywords: ["ASHRAE 170", "healthcare HVAC", "hospital ventilation", "pressure relationships", "air changes per hour", "HEPA filtration", "operating room HVAC", "isolation room design"]
+tags: ["ASHRAE 170", "healthcare HVAC", "hospital ventilation", "pressure relationships", "air changes per hour", "HEPA filtration", "operating room HVAC", "isolation room design"]
 ---
 
 ASHRAE Standard 170, *Ventilation of Health Care Facilities*, establishes minimum ventilation requirements for healthcare spaces to minimize infection transmission, control odors, and maintain appropriate environmental conditions. This standard works in conjunction with the Facility Guidelines Institute (FGI) Guidelines for Design and Construction of Hospitals and Outpatient Facilities.

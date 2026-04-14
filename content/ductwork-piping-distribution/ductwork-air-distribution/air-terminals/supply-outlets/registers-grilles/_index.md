@@ -1,5 +1,6 @@
 ---
 title: "Registers and Grilles"
+aliases: ["Registers and Grilles"]
 description: "Technical guide to sidewall registers, floor registers, ceiling registers, and grilles including single and double deflection types for HVAC air distribution applications."
 weight: 2
 ---

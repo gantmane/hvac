@@ -1,7 +1,9 @@
 ---
 title: "Pressure Control in Cleanrooms"
+aliases: ["Pressure Control in Cleanrooms"]
 description: "Comprehensive analysis of cleanroom pressure control systems including cascade principles, differential requirements, airlocks, monitoring strategies, and recovery procedures."
 keywords: ["cleanroom pressure", "pressure cascade", "differential pressure", "airlock systems", "pressure monitoring", "contamination control", "cleanroom HVAC", "ISO classification"]
+tags: ["cleanroom pressure", "pressure cascade", "differential pressure", "airlock systems", "pressure monitoring", "contamination control", "cleanroom HVAC", "ISO classification"]
 weight: 4
 ---
 

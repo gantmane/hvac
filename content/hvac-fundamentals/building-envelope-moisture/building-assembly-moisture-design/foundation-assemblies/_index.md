@@ -1,5 +1,6 @@
 ---
 title: "Foundation Assemblies"
+aliases: ["Foundation Assemblies"]
 description: "Technical analysis of foundation moisture control including below-grade waterproofing, dampproofing, drainage systems, vapor retarder placement, and insulation strategies for basement and crawlspace assemblies"
 weight: 6
 ---

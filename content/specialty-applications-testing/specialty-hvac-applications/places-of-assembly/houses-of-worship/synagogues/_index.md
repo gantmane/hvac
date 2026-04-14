@@ -1,7 +1,9 @@
 ---
 title: "HVAC Design for Synagogues and Jewish Worship Spaces"
+aliases: ["HVAC Design for Synagogues and Jewish Worship Spaces"]
 description: "Technical guide to synagogue HVAC systems covering sanctuary conditioning, Torah ark humidity control, Sabbath pre-conditioning, High Holy Days peak loads, and multi-use spaces."
 keywords: ["synagogue HVAC", "Torah ark humidity control", "Sabbath HVAC systems", "High Holy Days ventilation", "sanctuary climate control", "religious facility HVAC", "multi-use hall conditioning", "worship space design"]
+tags: ["synagogue HVAC", "Torah ark humidity control", "Sabbath HVAC systems", "High Holy Days ventilation", "sanctuary climate control", "religious facility HVAC", "multi-use hall conditioning", "worship space design"]
 weight: 2
 ---
 

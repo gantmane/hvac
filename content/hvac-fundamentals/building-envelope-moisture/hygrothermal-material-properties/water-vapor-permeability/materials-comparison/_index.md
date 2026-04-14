@@ -1,5 +1,6 @@
 ---
 title: "Materials Comparison"
+aliases: ["Materials Comparison"]
 description: "Comparative analysis of water vapor permeability across building material categories, including quantitative permeance tables, climate-specific selection criteria, and assembly design implications."
 weight: 3
 ---

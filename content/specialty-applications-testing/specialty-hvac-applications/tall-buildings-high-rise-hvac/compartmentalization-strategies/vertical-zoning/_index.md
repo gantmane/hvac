@@ -1,7 +1,9 @@
 ---
 title: "Vertical Zoning Strategies for High-Rise HVAC"
+aliases: ["Vertical Zoning Strategies for High-Rise HVAC"]
 description: "Comprehensive analysis of vertical zoning in tall buildings covering mechanical floor placement, pressure break floors, water system zones, and smoke control integration."
 keywords: ["vertical zoning", "mechanical floors", "pressure break floors", "high-rise HVAC", "stack effect", "water pressure zones", "smoke control", "tall building systems"]
+tags: ["vertical zoning", "mechanical floors", "pressure break floors", "high-rise HVAC", "stack effect", "water pressure zones", "smoke control", "tall building systems"]
 weight: 1
 ---
 

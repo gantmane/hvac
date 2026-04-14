@@ -1,5 +1,6 @@
 ---
 title: "Marine Galley Dishwashing Area HVAC Systems"
+aliases: ["Marine Galley Dishwashing Area HVAC Systems"]
 seo_title: "Dishwashing Area HVAC for Marine Galleys & Ships"
 description: "Comprehensive guide to HVAC design for marine dishwashing areas covering steam extraction, condensation control, moisture removal, and sanitation standards."
 keywords:

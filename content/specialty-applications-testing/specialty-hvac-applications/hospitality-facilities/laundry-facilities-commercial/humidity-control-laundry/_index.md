@@ -1,7 +1,9 @@
 ---
 title: "Humidity Control in Commercial Hotel Laundries"
+aliases: ["Humidity Control in Commercial Hotel Laundries"]
 description: "Engineering strategies for controlling moisture in hotel laundry facilities including dehumidification systems, ventilation design, and condensation prevention."
 keywords: ["laundry humidity control", "commercial laundry HVAC", "dehumidification", "moisture removal", "laundry ventilation", "condensation prevention", "linen quality", "laundry facility design"]
+tags: ["laundry humidity control", "commercial laundry HVAC", "dehumidification", "moisture removal", "laundry ventilation", "condensation prevention", "linen quality", "laundry facility design"]
 date: 2025-01-11
 weight: 4
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Controlled Atmosphere Storage for Eggs"
+aliases: ["Controlled Atmosphere Storage for Eggs"]
 description: "Engineering principles, gas composition specifications, and equipment design for controlled atmosphere egg storage systems including CO2 enrichment, nitrogen atmosphere applications, and quality preservation mechanisms"
 weight: 3
 ---

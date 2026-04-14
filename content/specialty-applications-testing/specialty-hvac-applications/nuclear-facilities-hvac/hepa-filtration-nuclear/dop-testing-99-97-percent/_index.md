@@ -1,5 +1,6 @@
 ---
 title: "DOP Testing 99.97% Nuclear HEPA Filter Verification"
+aliases: ["DOP Testing 99.97% Nuclear HEPA Filter Verification"]
 description: "Engineering guide to dioctyl phthalate aerosol testing for nuclear-grade HEPA filters including penetration calculations, photometer measurement, and ASME AG-1 testing protocols."
 keywords:
   - DOP testing HEPA

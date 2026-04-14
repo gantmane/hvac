@@ -1,5 +1,6 @@
 ---
 title: "Ethylene Control Scrubbing"
+aliases: ["Ethylene Control Scrubbing"]
 weight: 9
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Split System Heat Pump Water Heaters"
+aliases: ["Split System Heat Pump Water Heaters"]
 weight: 2
 description: "Technical guide to split HPWH systems covering outdoor unit placement, refrigerant line sizing, capacity calculations, and installation requirements for cold climate applications."
 keywords: ["split heat pump water heater", "outdoor HPWH", "refrigerant line sizing", "cold climate water heating", "split system configuration", "HPWH installation", "heat pump COP", "domestic hot water efficiency"]
+tags: ["split heat pump water heater", "outdoor HPWH", "refrigerant line sizing", "cold climate water heating", "split system configuration", "HPWH installation", "heat pump COP", "domestic hot water efficiency"]
 ---
 
 ## Overview

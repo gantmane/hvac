@@ -1,5 +1,6 @@
 ---
 title: "Solvent Vapor Control in Printing Plants"
+aliases: ["Solvent Vapor Control in Printing Plants"]
 description: "Engineering analysis of LEL monitoring systems, local exhaust ventilation design, vapor recovery technologies, and EPA compliance for printing plant solvent management."
 date: 2025-01-05
 category: "Specialty HVAC Applications"

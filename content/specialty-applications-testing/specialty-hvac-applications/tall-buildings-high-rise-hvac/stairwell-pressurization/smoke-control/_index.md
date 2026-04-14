@@ -1,8 +1,10 @@
 ---
 title: "Smoke Control Through Stairwell Pressurization"
+aliases: ["Smoke Control Through Stairwell Pressurization"]
 weight: 1
 description: "Comprehensive analysis of stairwell pressurization for smoke control including design pressure differentials, open door scenarios, injection strategies, and NFPA 92 acceptance testing protocols."
 keywords: ["stairwell pressurization", "smoke control design", "NFPA 92", "pressure differential", "open door scenario", "acceptance testing", "injection points", "egress safety"]
+tags: ["stairwell pressurization", "smoke control design", "NFPA 92", "pressure differential", "open door scenario", "acceptance testing", "injection points", "egress safety"]
 ---
 
 ## Fundamental Smoke Control Objectives

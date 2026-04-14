@@ -1,5 +1,6 @@
 ---
 title: "Design Conditions"
+aliases: ["Design Conditions"]
 description: "ASHRAE climatic design conditions for HVAC load calculations including percentile-based outdoor design temperatures, humidity parameters, and selection criteria for heating and cooling system sizing."
 weight: 5
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Elevator Machine Room Cooling Systems"
+aliases: ["Elevator Machine Room Cooling Systems"]
 description: "Technical analysis of elevator machine room cooling including heat load calculations, temperature limits, ventilation vs AC systems, and emergency operation requirements."
 keywords: ["elevator machine room cooling", "elevator motor heat load", "machine room ventilation", "MRL elevators", "elevator equipment temperature limits", "HVAC elevator code", "emergency elevator cooling", "traction motor cooling"]
+tags: ["elevator machine room cooling", "elevator motor heat load", "machine room ventilation", "MRL elevators", "elevator equipment temperature limits", "HVAC elevator code", "emergency elevator cooling", "traction motor cooling"]
 weight: 2
 ---
 

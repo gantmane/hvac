@@ -1,5 +1,6 @@
 ---
 title: "Plumbing Hvac Interface"
+aliases: ["Plumbing Hvac Interface"]
 weight: 1
 ---
 

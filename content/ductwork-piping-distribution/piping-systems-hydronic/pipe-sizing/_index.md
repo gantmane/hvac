@@ -1,5 +1,6 @@
 ---
 title: "Pipe Sizing"
+aliases: ["Pipe Sizing"]
 weight: 5
 ---
 

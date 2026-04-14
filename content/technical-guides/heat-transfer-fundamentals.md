@@ -2,6 +2,7 @@
 title: "Heat Transfer Fundamentals for HVAC Engineers"
 description: "Comprehensive guide to conduction, convection, and radiation heat transfer with thermal resistance calculations, U-values, and heat exchanger effectiveness for HVAC system design."
 keywords: ["heat transfer", "thermal conductivity", "convection coefficient", "radiation heat transfer", "thermal resistance", "U-value", "heat exchanger effectiveness"]
+tags: ["heat transfer", "thermal conductivity", "convection coefficient", "radiation heat transfer", "thermal resistance", "U-value", "heat exchanger effectiveness"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 1
@@ -385,10 +386,10 @@ Accurate heat transfer calculations enable proper equipment sizing, energy code 
 ---
 
 **Related Technical Guides:**
-- [Psychrometric Fundamentals](/technical-guides/psychrometric-fundamentals/)
-- [Heating Load Calculations](/technical-guides/heating-load-calculations/)
-- [Cooling Load Calculations](/technical-guides/cooling-load-calculations/)
-- [Building Envelope Heat Transfer](/technical-guides/building-envelope-heat-transfer/)
+- Psychrometric Fundamentals
+- Heating Load Calculations
+- Cooling Load Calculations
+- Building Envelope Heat Transfer
 
 **References:**
 - ASHRAE Handbook of Fundamentals, Chapter 4: Heat Transfer

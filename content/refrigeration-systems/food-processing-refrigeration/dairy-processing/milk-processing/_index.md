@@ -1,5 +1,6 @@
 ---
 title: "Milk Processing"
+aliases: ["Milk Processing"]
 description: "Refrigeration systems for milk processing including raw milk receiving and cooling, pasteurization heat exchange, storage tank temperature control, and cold chain management with specifications for dairy plant cooling loads."
 weight: 1
 ---

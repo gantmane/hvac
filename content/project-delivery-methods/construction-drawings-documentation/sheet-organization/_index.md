@@ -1,5 +1,6 @@
 ---
 title: "Sheet Organization"
+aliases: ["Sheet Organization"]
 description: "Technical standards for HVAC construction drawing sheet organization including NCS numbering systems, mechanical drawing sequence, title block requirements, revision management protocols, sheet indexing, and cross-referencing methods for coordinated project documentation."
 weight: 5
 ---

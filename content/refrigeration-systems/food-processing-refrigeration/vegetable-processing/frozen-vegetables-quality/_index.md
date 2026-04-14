@@ -1,5 +1,6 @@
 ---
 title: "Frozen Vegetables Quality"
+aliases: ["Frozen Vegetables Quality"]
 weight: 5
 ---
 

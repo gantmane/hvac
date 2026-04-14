@@ -1,8 +1,10 @@
 ---
 title: "Personal Protective Equipment for HVAC Technicians"
+aliases: ["Personal Protective Equipment for HVAC Technicians"]
 weight: 8
 description: "Comprehensive guide to PPE selection and use in HVAC work, covering respiratory protection, eye and hand protection, hearing safety, and OSHA compliance requirements."
 keywords: ["PPE HVAC", "respiratory protection", "safety equipment", "OSHA PPE requirements", "eye protection", "hearing protection", "hand protection", "refrigerant safety"]
+tags: ["PPE HVAC", "respiratory protection", "safety equipment", "OSHA PPE requirements", "eye protection", "hearing protection", "hand protection", "refrigerant safety"]
 ---
 
 Personal protective equipment represents the final barrier between HVAC technicians and workplace hazards. OSHA requires employers to assess workplace hazards and provide appropriate PPE at no cost to employees per 29 CFR 1910.132. HVAC work presents unique exposure risks including refrigerant contact, brazing operations, confined space entry, noise exposure, and electrical hazards that demand task-specific protection strategies.

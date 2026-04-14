@@ -1,7 +1,9 @@
 ---
 title: "Lighting-HVAC Integration for Collection Preservation"
+aliases: ["Lighting-HVAC Integration for Collection Preservation"]
 description: "Technical guidance on coordinating museum lighting systems with HVAC to manage heat loads, minimize UV damage, and maintain stable environmental conditions for artifacts."
 keywords: ["museum lighting heat load", "LED vs halogen HVAC", "fiber optic lighting", "UV filtering HVAC", "gallery climate control", "artifact preservation lighting", "museum environmental control", "lighting heat calculations"]
+tags: ["museum lighting heat load", "LED vs halogen HVAC", "fiber optic lighting", "UV filtering HVAC", "gallery climate control", "artifact preservation lighting", "museum environmental control", "lighting heat calculations"]
 weight: 7
 ---
 

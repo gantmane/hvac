@@ -1,5 +1,6 @@
 ---
 title: "Demand Response"
+aliases: ["Demand Response"]
 description: "HVAC demand response fundamentals including load shedding and load shifting strategies, pre-cooling thermal mass utilization, grid integration programs, control strategies for DR events, and economic incentive structures for commercial building applications."
 weight: 3
 ---

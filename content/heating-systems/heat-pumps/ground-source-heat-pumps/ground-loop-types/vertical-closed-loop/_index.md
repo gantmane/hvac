@@ -1,8 +1,10 @@
 ---
 title: "Vertical Closed Loop"
+aliases: ["Vertical Closed Loop"]
 weight: 1
 description: "Technical analysis of vertical closed-loop ground heat exchangers including borehole design, drilling methods, U-tube and coaxial configurations, grout thermal properties, and sizing calculations for ground source heat pump systems."
 keywords: ["vertical ground loop", "borehole heat exchanger", "geothermal drilling", "U-tube configuration", "grout thermal conductivity", "thermal response testing", "ground heat exchanger sizing"]
+tags: ["vertical ground loop", "borehole heat exchanger", "geothermal drilling", "U-tube configuration", "grout thermal conductivity", "thermal response testing", "ground heat exchanger sizing"]
 ---
 
 Vertical closed-loop ground heat exchangers represent the most common configuration for ground source heat pump installations where land area is limited or soil conditions favor deep drilling over horizontal trenching. These systems utilize vertical boreholes ranging from 100 to 500 feet deep, with heat transfer pipe installed in the borehole and the annular space filled with thermally conductive grout.

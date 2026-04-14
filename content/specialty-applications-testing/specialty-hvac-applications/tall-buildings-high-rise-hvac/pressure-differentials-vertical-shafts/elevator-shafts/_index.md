@@ -1,7 +1,9 @@
 ---
 title: "Elevator Shaft Pressure Differentials"
+aliases: ["Elevator Shaft Pressure Differentials"]
 description: "Comprehensive analysis of elevator shaft pressurization, piston effect from car movement, hoistway pressure dynamics, lobby door forces, and fire service requirements."
 keywords: ["elevator shaft pressurization", "piston effect", "hoistway pressure", "elevator lobby door forces", "fire service elevator", "shaft venting", "high-rise HVAC", "vertical shaft pressure"]
+tags: ["elevator shaft pressurization", "piston effect", "hoistway pressure", "elevator lobby door forces", "fire service elevator", "shaft venting", "high-rise HVAC", "vertical shaft pressure"]
 weight: 1
 ---
 

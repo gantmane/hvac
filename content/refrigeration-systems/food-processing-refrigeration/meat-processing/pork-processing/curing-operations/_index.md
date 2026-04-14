@@ -1,5 +1,6 @@
 ---
 title: "Pork Curing Operations HVAC Systems"
+aliases: ["Pork Curing Operations HVAC Systems"]
 description: "Environmental control for bacon, ham, and sausage curing rooms including temperature, humidity, and airflow requirements with psychrometric analysis."
 weight: 3
 ---

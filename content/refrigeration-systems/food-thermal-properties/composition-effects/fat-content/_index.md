@@ -1,5 +1,6 @@
 ---
 title: "Fat Content"
+aliases: ["Fat Content"]
 weight: 2
 ---
 

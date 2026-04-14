@@ -1,5 +1,6 @@
 ---
 title: "Insulation Systems"
+aliases: ["Insulation Systems"]
 weight: 6
 ---
 

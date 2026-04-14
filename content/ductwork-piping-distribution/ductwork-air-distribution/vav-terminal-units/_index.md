@@ -1,5 +1,6 @@
 ---
 title: "VAV Terminal Units"
+aliases: ["VAV Terminal Units"]
 description: "Technical analysis of variable air volume terminal units including pressure-dependent and pressure-independent control, flow measurement, damper operation, reheat configurations, and selection criteria for VAV systems."
 weight: 9
 ---

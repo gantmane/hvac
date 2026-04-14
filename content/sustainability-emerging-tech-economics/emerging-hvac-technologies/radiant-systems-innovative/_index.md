@@ -1,5 +1,6 @@
 ---
 title: "Innovative Radiant Heating and Cooling Systems"
+aliases: ["Innovative Radiant Heating and Cooling Systems"]
 description: "Advanced radiant system technologies including TABS, capillary systems, and dynamic radiant panels with physics-based design principles and performance analysis."
 date: 2025-01-05
 tags: ["radiant systems", "TABS", "capillary systems", "radiant cooling", "thermal comfort", "energy efficiency"]

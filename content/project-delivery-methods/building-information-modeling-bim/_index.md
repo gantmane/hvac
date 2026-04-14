@@ -1,5 +1,6 @@
 ---
 title: "Building Information Modeling (BIM) for HVAC Systems"
+aliases: ["Building Information Modeling (BIM) for HVAC Systems"]
 description: "Comprehensive guide to BIM implementation in HVAC projects, including MEP coordination, clash detection, and fabrication modeling strategies."
 date: "2026-01-04"
 author: "Evgeniy Gantman"

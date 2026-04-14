@@ -1,7 +1,9 @@
 ---
 title: "Environmental Requirements for Works on Paper"
+aliases: ["Environmental Requirements for Works on Paper"]
 description: "Temperature and humidity control requirements for prints, drawings, and watercolors to prevent fiber expansion, mold growth, and deterioration in museum collections."
 keywords: ["paper conservation", "humidity control", "foxing prevention", "paper storage", "dimensional stability", "watercolor preservation", "print storage", "archive conditions"]
+tags: ["paper conservation", "humidity control", "foxing prevention", "paper storage", "dimensional stability", "watercolor preservation", "print storage", "archive conditions"]
 weight: 4
 ---
 

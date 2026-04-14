@@ -1,5 +1,6 @@
 ---
 title: "Ejector Refrigeration"
+aliases: ["Ejector Refrigeration"]
 description: "Ejector-based refrigeration cycles utilizing jet entrainment principles for thermally-driven cooling, including steam ejector systems, two-phase flow ejectors, and solar-powered applications."
 weight: 2
 ---

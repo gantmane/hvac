@@ -1,7 +1,9 @@
 ---
 title: "Underfloor HVAC Equipment in Mass Transit Vehicles"
+aliases: ["Underfloor HVAC Equipment in Mass Transit Vehicles"]
 description: "Technical analysis of underfloor HVAC equipment placement in transit vehicles, including debris protection, noise isolation, cooling strategies, and clearance requirements."
 keywords: ["underfloor HVAC", "transit vehicle equipment", "debris protection", "undercar cooling", "rail car HVAC", "transit equipment placement", "noise isolation", "clearance requirements"]
+tags: ["underfloor HVAC", "transit vehicle equipment", "debris protection", "undercar cooling", "rail car HVAC", "transit equipment placement", "noise isolation", "clearance requirements"]
 weight: 3
 ---
 

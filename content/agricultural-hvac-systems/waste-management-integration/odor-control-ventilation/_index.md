@@ -1,5 +1,6 @@
 ---
 title: "Odor Control through Ventilation"
+aliases: ["Odor Control through Ventilation"]
 description: "Engineering strategies for odor management in livestock facilities including exhaust air treatment, biofilter systems, chemical scrubbers, dispersion modeling, and stack height optimization for regulatory compliance and neighbor relations."
 weight: 3
 ---

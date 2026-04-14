@@ -1,5 +1,6 @@
 ---
 title: "Fire Station Recreation Area HVAC Design"
+aliases: ["Fire Station Recreation Area HVAC Design"]
 linkTitle: "Recreation"
 description: "HVAC design for fire station recreation areas including day rooms and TV lounges with variable occupancy loads, entertainment equipment heat gains, acoustic isolation, and flexible temperature control."
 keywords:
@@ -168,8 +169,8 @@ Where $DF_{occ}$ (occupant diversity factor) = 0.7-0.8 for recreation areas, rec
 ---
 
 **Related Topics:**
-- [24-Hour Occupancy Requirements](/specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/living-quarters/24-hour-occupancy/)
-- [Sleeping Area HVAC Design](/specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/living-quarters/sleeping-areas/)
-- [Fitness Room Environmental Control](/specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/living-quarters/fitness/)
-- [Kitchen and Dining Area Ventilation](/specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/living-quarters/kitchen-dining/)
-- [Apparatus Bay Isolation](/specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/apparatus-bays/)
+- [24-Hour Occupancy Requirements](../../../../../specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/living-quarters/24-hour-occupancy/_index.md)
+- [Sleeping Area HVAC Design](../../../../../specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/living-quarters/sleeping-areas/_index.md)
+- [Fitness Room Environmental Control](../../../../../specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/living-quarters/fitness/_index.md)
+- [Kitchen and Dining Area Ventilation](../../../../../specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/living-quarters/kitchen-dining/_index.md)
+- [Apparatus Bay Isolation](../../../../../specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/apparatus-bays/_index.md)

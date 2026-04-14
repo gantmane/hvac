@@ -1,5 +1,6 @@
 ---
 title: "Product Loads"
+aliases: ["Product Loads"]
 description: "Advanced technical analysis of product cooling loads in refrigerated facilities including sensible heat removal above and below freezing, latent heat of fusion, respiration heat loads, and product pulldown calculations for refrigeration system design using ASHRAE methods and thermodynamic principles"
 weight: 4
 ---

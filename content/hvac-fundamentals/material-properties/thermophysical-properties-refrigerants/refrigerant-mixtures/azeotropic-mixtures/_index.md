@@ -1,5 +1,6 @@
 ---
 title: "Azeotropic Mixtures"
+aliases: ["Azeotropic Mixtures"]
 weight: 2
 ---
 

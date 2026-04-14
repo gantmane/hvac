@@ -1,7 +1,9 @@
 ---
 title: "Occupancy Density Standards for HVAC Design"
+aliases: ["Occupancy Density Standards for HVAC Design"]
 description: "Technical guide to occupancy density calculations for HVAC systems covering sf per person ratios, assembly space densities, and ASHRAE 62.1 requirements for design occupancy."
 keywords: ["occupancy density", "sf per person", "assembly occupancy", "design occupancy", "ASHRAE 62.1", "ventilation rates", "occupant load factor", "high density spaces"]
+tags: ["occupancy density", "sf per person", "assembly occupancy", "design occupancy", "ASHRAE 62.1", "ventilation rates", "occupant load factor", "high density spaces"]
 weight: 1
 ---
 

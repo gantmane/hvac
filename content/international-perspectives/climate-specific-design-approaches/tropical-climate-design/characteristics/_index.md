@@ -1,5 +1,6 @@
 ---
 title: "Tropical Climate HVAC Design Characteristics"
+aliases: ["Tropical Climate HVAC Design Characteristics"]
 description: "Technical analysis of tropical climate design parameters including thermodynamic properties, psychrometric processes, and heat load characteristics for HVAC systems."
 date: 2025-01-05
 tags: ["tropical climate", "psychrometrics", "heat load", "humidity control", "climate design", "ASHRAE"]

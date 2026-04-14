@@ -1,5 +1,6 @@
 ---
 title: "Antoine Equation"
+aliases: ["Antoine Equation"]
 weight: 2
 ---
 

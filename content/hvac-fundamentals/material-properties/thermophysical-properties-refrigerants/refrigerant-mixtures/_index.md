@@ -1,5 +1,6 @@
 ---
 title: "Refrigerant Mixtures"
+aliases: ["Refrigerant Mixtures"]
 description: "Comprehensive analysis of refrigerant mixture thermodynamics including zeotropic and azeotropic blends, temperature glide, fractionation effects, and mixture property calculations for HVAC applications."
 weight: 9
 ---

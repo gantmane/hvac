@@ -1,5 +1,6 @@
 ---
 title: "Hood Design Principles for Industrial Local Exhaust Ventilation"
+aliases: ["Hood Design Principles for Industrial Local Exhaust Ventilation"]
 description: "Comprehensive guide to industrial exhaust hood design including exterior hoods, enclosing hoods, receiving hoods, capture velocity, face velocity, and slot velocity principles per ACGIH standards."
 keywords:
   - industrial exhaust hood design

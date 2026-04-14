@@ -1,7 +1,9 @@
 ---
 title: "Refuge Chamber Air Supply Systems"
+aliases: ["Refuge Chamber Air Supply Systems"]
 description: "Technical analysis of mine refuge chamber air supply including compressed breathing air, oxygen cylinders, borehole connections, positive pressure maintenance, and backup systems."
 keywords: ["refuge chamber air supply", "compressed breathing air", "mine oxygen systems", "positive pressure ventilation", "MSHA air quality", "borehole ventilation", "emergency air systems", "refuge chamber breathing air"]
+tags: ["refuge chamber air supply", "compressed breathing air", "mine oxygen systems", "positive pressure ventilation", "MSHA air quality", "borehole ventilation", "emergency air systems", "refuge chamber breathing air"]
 weight: 3
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Environmental Monitoring for Museum Collections"
+aliases: ["Environmental Monitoring for Museum Collections"]
 description: "Technical guide to environmental monitoring systems for museums, including temperature, RH, light, and pollutant sensors with physics-based analysis and conservation standards."
 keywords: ["museum environmental monitoring", "collection preservation sensors", "datalogger systems", "conservation climate control", "museum HVAC monitoring", "preventive conservation", "artifact preservation", "collection environmental data"]
+tags: ["museum environmental monitoring", "collection preservation sensors", "datalogger systems", "conservation climate control", "museum HVAC monitoring", "preventive conservation", "artifact preservation", "collection environmental data"]
 weight: 1
 ---
 

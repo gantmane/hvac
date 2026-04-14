@@ -1,5 +1,6 @@
 ---
 title: "Temperature Sensors Detailed"
+aliases: ["Temperature Sensors Detailed"]
 weight: 1
 ---
 

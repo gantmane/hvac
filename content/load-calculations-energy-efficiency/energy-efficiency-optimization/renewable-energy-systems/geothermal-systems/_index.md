@@ -1,5 +1,6 @@
 ---
 title: "Geothermal HVAC Systems"
+aliases: ["Geothermal HVAC Systems"]
 description: "Ground source heat pumps, geothermal loop design, ground thermal properties, sizing calculations, COP performance analysis, vertical and horizontal ground heat exchangers for energy-efficient HVAC applications"
 weight: 3
 ---

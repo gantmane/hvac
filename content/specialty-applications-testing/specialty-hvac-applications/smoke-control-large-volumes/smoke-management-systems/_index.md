@@ -1,8 +1,10 @@
 ---
 title: "Smoke Management Systems Overview"
+aliases: ["Smoke Management Systems Overview"]
 seo_title: "Smoke Management Systems: Design & Implementation"
 description: "Comprehensive guide to smoke management systems including exhaust, pressurization, and hybrid approaches. Technical analysis per NFPA 92 standards for life safety."
 keywords: ["smoke management systems", "smoke exhaust", "smoke control pressurization", "NFPA 92", "hybrid smoke control", "smoke extraction", "fire safety HVAC", "stairwell pressurization"]
+tags: ["smoke management systems", "smoke exhaust", "smoke control pressurization", "NFPA 92", "hybrid smoke control", "smoke extraction", "fire safety HVAC", "stairwell pressurization"]
 weight: 1
 ---
 

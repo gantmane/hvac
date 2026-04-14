@@ -1,7 +1,9 @@
 ---
 title: "Motor Current Analysis for HVAC Systems"
+aliases: ["Motor Current Analysis for HVAC Systems"]
 description: "Motor current signature analysis (MCSA) for predictive maintenance of HVAC motors. Detect rotor bar defects, bearing faults, and eccentricity issues through current monitoring."
 keywords: ["motor current signature analysis", "MCSA", "rotor bar faults", "bearing fault detection", "motor eccentricity", "predictive maintenance", "HVAC motor diagnostics", "IEEE 1415"]
+tags: ["motor current signature analysis", "MCSA", "rotor bar faults", "bearing fault detection", "motor eccentricity", "predictive maintenance", "HVAC motor diagnostics", "IEEE 1415"]
 weight: 5
 ---
 

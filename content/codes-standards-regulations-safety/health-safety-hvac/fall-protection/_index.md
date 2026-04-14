@@ -1,8 +1,10 @@
 ---
 title: "Fall Protection for HVAC Work"
+aliases: ["Fall Protection for HVAC Work"]
 weight: 5
 description: "Comprehensive fall protection requirements for HVAC technicians working on rooftops, ladders, and elevated equipment per OSHA 1926 Subpart M and 1910 Subpart D standards."
 keywords: ["fall protection HVAC", "rooftop safety", "personal fall arrest systems", "OSHA fall protection", "ladder safety", "anchor points", "guardrail systems", "full body harness"]
+tags: ["fall protection HVAC", "rooftop safety", "personal fall arrest systems", "OSHA fall protection", "ladder safety", "anchor points", "guardrail systems", "full body harness"]
 ---
 
 Fall protection represents the most critical safety concern for HVAC technicians, as falls from elevation remain the leading cause of fatalities in construction and maintenance operations. HVAC work frequently involves rooftop equipment installation, servicing condensers, accessing air handling units, and working from ladders—all activities that expose workers to fall hazards.

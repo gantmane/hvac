@@ -1,7 +1,9 @@
 ---
 title: "Heat Losses in Snow Melting Systems"
+aliases: ["Heat Losses in Snow Melting Systems"]
 description: "Physics-based analysis of edge losses, back losses, and heat transfer mechanisms in hydronic and electric snow melting systems with calculation methods."
 keywords: ["heat loss calculation", "edge loss formula", "back loss insulation", "snow melting thermal efficiency", "ground heat transfer", "perimeter heat loss", "R-value requirements", "thermal bridge mitigation"]
+tags: ["heat loss calculation", "edge loss formula", "back loss insulation", "snow melting thermal efficiency", "ground heat transfer", "perimeter heat loss", "R-value requirements", "thermal bridge mitigation"]
 weight: 4
 ---
 

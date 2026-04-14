@@ -1,5 +1,6 @@
 ---
 title: "Potato Storage Refrigeration Systems"
+aliases: ["Potato Storage Refrigeration Systems"]
 description: "Engineering design for long-term potato storage facilities including curing processes, temperature and humidity control, sprouting prevention, and refrigeration load calculations for various potato end uses"
 weight: 1
 ---

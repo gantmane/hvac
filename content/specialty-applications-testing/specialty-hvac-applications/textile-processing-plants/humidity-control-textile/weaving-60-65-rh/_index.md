@@ -1,7 +1,9 @@
 ---
 title: "Weaving Room Humidity Control: 60-65% RH Optimization"
+aliases: ["Weaving Room Humidity Control: 60-65% RH Optimization"]
 description: "Technical analysis of HVAC humidity control for textile weaving operations at 60-65% RH. Covers yarn breakage prevention, static control, and loom efficiency."
 keywords: ["weaving room humidity", "textile HVAC", "yarn breakage prevention", "static control weaving", "loom efficiency", "60-65 RH weaving", "warp strength retention", "textile climate control"]
+tags: ["weaving room humidity", "textile HVAC", "yarn breakage prevention", "static control weaving", "loom efficiency", "60-65 RH weaving", "warp strength retention", "textile climate control"]
 weight: 2
 ---
 

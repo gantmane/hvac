@@ -1,8 +1,10 @@
 ---
 title: "HVAC for High-Density Compact Shelving Storage"
+aliases: ["HVAC for High-Density Compact Shelving Storage"]
 weight: 2
 description: "Engineering climate control for high-density compact shelving storage vaults. Addresses air distribution challenges, dead zones, temperature stratification, and uniformity in restricted-access archival environments."
 keywords: ["high-density storage HVAC", "compact shelving air distribution", "archival storage climate control", "temperature uniformity storage vaults", "air stratification prevention", "mobile shelving ventilation", "archive HVAC design", "dead zone elimination"]
+tags: ["high-density storage HVAC", "compact shelving air distribution", "archival storage climate control", "temperature uniformity storage vaults", "air stratification prevention", "mobile shelving ventilation", "archive HVAC design", "dead zone elimination"]
 ---
 
 ## Physical Challenge of High-Density Storage

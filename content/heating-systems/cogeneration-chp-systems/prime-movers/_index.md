@@ -1,5 +1,6 @@
 ---
 title: "Prime Movers for CHP Applications"
+aliases: ["Prime Movers for CHP Applications"]
 description: "Comprehensive comparison and analysis of prime mover technologies for combined heat and power including reciprocating engines, gas turbines, steam turbines, microturbines, and fuel cells with performance characteristics, heat recovery potential, and selection criteria."
 date: 2026-01-04
 weight: 2

@@ -1,8 +1,10 @@
 ---
 title: "Thermography IR Inspection for HVAC Systems"
+aliases: ["Thermography IR Inspection for HVAC Systems"]
 seo_title: "HVAC Thermography & Infrared Inspection Guide"
 description: "Complete guide to infrared thermography for HVAC predictive maintenance. Learn IR inspection techniques, emissivity principles, thermal anomaly detection, and ASNT standards."
 keywords: ["thermography", "infrared inspection", "thermal imaging HVAC", "predictive maintenance", "emissivity correction", "thermal anomalies", "IR camera inspection", "building envelope thermography"]
+tags: ["thermography", "infrared inspection", "thermal imaging HVAC", "predictive maintenance", "emissivity correction", "thermal anomalies", "IR camera inspection", "building envelope thermography"]
 weight: 2
 ---
 

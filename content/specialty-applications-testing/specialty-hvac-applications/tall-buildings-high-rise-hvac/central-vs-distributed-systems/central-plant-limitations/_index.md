@@ -1,7 +1,9 @@
 ---
 title: "Central Plant Limitations in High-Rise HVAC"
+aliases: ["Central Plant Limitations in High-Rise HVAC"]
 description: "Analysis of central plant limitations in tall buildings including distribution losses, static pressure challenges, riser requirements, and single-point failure risks."
 keywords: ["central plant high-rise", "HVAC distribution losses", "static pressure piping", "vertical riser design", "central system reliability", "high-rise pumping energy", "central plant zoning", "tall building HVAC"]
+tags: ["central plant high-rise", "HVAC distribution losses", "static pressure piping", "vertical riser design", "central system reliability", "high-rise pumping energy", "central plant zoning", "tall building HVAC"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Humidity Control Candy Manufacturing"
+aliases: ["Humidity Control Candy Manufacturing"]
 description: "Advanced HVAC humidity control systems for candy manufacturing facilities including dehumidification strategies, hygroscopic sugar management, and packaging room environmental requirements for confectionery production."
 weight: 3
 ---

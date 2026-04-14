@@ -1,5 +1,6 @@
 ---
 title: "Heating Systems: Principles and Technologies"
+aliases: ["Heating Systems: Principles and Technologies"]
 description: "Comprehensive guide to HVAC heating systems covering combustion, heat pumps, electric resistance, and hydronic technologies with thermodynamic principles."
 date: 2024-01-05
 type: docs

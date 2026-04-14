@@ -1,8 +1,10 @@
 ---
 title: "Pharmaceutical & Food Fluid Bed Dryers"
+aliases: ["Pharmaceutical & Food Fluid Bed Dryers"]
 seo_title: "Pharmaceutical & Food Fluid Bed Dryer Design & Standards"
 description: "Physics-based design of pharmaceutical and food fluid bed dryers. GMP compliance, thermal analysis, psychrometric control, and validation for FDA-regulated drying processes."
 keywords: ["pharmaceutical fluid bed dryer", "food drying GMP", "tablet granulation drying", "FDA validation", "cGMP compliance", "food safety drying", "pharmaceutical HVAC", "cleanroom drying"]
+tags: ["pharmaceutical fluid bed dryer", "food drying GMP", "tablet granulation drying", "FDA validation", "cGMP compliance", "food safety drying", "pharmaceutical HVAC", "cleanroom drying"]
 weight: 4
 ---
 

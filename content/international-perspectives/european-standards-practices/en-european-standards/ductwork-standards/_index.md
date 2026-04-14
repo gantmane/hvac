@@ -1,5 +1,6 @@
 ---
 title: "European Ductwork Standards EN 12237 & EN 13779"
+aliases: ["European Ductwork Standards EN 12237 & EN 13779"]
 description: "Comprehensive analysis of European ductwork standards EN 12237, EN 13779, and EN 1506 covering construction, leakage classification, sizing methods, and insulation requirements."
 date: 2025-01-05
 tags: ["european-standards", "ductwork", "EN-12237", "EN-13779", "duct-sizing", "leakage-testing", "air-distribution"]

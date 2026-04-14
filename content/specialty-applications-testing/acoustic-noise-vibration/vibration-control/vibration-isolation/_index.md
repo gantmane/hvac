@@ -1,5 +1,6 @@
 ---
 title: "Vibration Isolation for HVAC Equipment"
+aliases: ["Vibration Isolation for HVAC Equipment"]
 description: "Technical guide to vibration isolation systems for HVAC equipment including spring, neoprene, and air spring isolators with selection criteria and efficiency calculations."
 keywords:
   - vibration isolation

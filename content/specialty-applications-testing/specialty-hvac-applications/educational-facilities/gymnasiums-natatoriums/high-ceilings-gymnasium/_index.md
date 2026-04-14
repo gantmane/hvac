@@ -1,7 +1,9 @@
 ---
 title: "High-Ceiling Gymnasium HVAC Design"
+aliases: ["High-Ceiling Gymnasium HVAC Design"]
 description: "Engineering strategies for thermal stratification control, destratification fan systems, and air distribution in gymnasiums with ceiling heights exceeding 20 feet."
 keywords: ["thermal stratification", "destratification fans", "high-bay HVAC", "gymnasium ventilation", "large space air distribution", "ceiling fan systems", "stratification control", "sports facility HVAC"]
+tags: ["thermal stratification", "destratification fans", "high-bay HVAC", "gymnasium ventilation", "large space air distribution", "ceiling fan systems", "stratification control", "sports facility HVAC"]
 date: 2025-01-05
 draft: false
 weight: 1

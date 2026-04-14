@@ -1,7 +1,9 @@
 ---
 title: "Audio-Visual Equipment Heat Loads in Conference Centers"
+aliases: ["Audio-Visual Equipment Heat Loads in Conference Centers"]
 description: "Managing heat generation from projectors, displays, sound systems, and control equipment in conference center AV installations for optimal performance and reliability."
 keywords: ["audio-visual heat loads", "projector cooling", "AV equipment HVAC", "control room cooling", "conference center technology", "equipment rack ventilation", "spot cooling systems", "display heat management"]
+tags: ["audio-visual heat loads", "projector cooling", "AV equipment HVAC", "control room cooling", "conference center technology", "equipment rack ventilation", "spot cooling systems", "display heat management"]
 date: 2025-01-11
 weight: 2
 draft: false

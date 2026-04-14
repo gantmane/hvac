@@ -1,7 +1,9 @@
 ---
 title: "Central Air Conditioning Systems and Design"
+aliases: ["Central Air Conditioning Systems and Design"]
 description: "Comprehensive guide to central HVAC systems including all-air, air-water, all-water, and water-source configurations. Covers central plant design, distribution strategies, and ASHRAE guidelines."
 keywords: ["central air conditioning", "all-air systems", "air-water systems", "water-source heat pumps", "central plant design", "HVAC distribution", "chilled water systems", "ASHRAE standards"]
+tags: ["central air conditioning", "all-air systems", "air-water systems", "water-source heat pumps", "central plant design", "HVAC distribution", "chilled water systems", "ASHRAE standards"]
 weight: 2
 ---
 

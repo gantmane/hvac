@@ -1,5 +1,6 @@
 ---
 title: "Product Geometry Shape Factors"
+aliases: ["Product Geometry Shape Factors"]
 weight: 7
 ---
 

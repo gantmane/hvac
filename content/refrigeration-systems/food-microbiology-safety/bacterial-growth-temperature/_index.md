@@ -1,5 +1,6 @@
 ---
 title: "Bacterial Growth and Temperature Relationships"
+aliases: ["Bacterial Growth and Temperature Relationships"]
 description: "Comprehensive analysis of bacterial growth kinetics versus temperature for refrigeration system design, including danger zone temperatures, psychrophilic mesophilic thermophilic organism characteristics, generation time data, Arrhenius relationships, and predictive microbiology models for HVAC applications"
 weight: 1
 ---

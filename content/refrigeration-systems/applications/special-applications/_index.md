@@ -1,8 +1,10 @@
 ---
 title: "Special Applications"
+aliases: ["Special Applications"]
 weight: 4
 description: "Specialized refrigeration systems including ice rinks, cryogenic applications, medical refrigeration, pharmaceutical cold chain, data center cooling, and ultra-low temperature equipment for critical applications."
 keywords: ["ice rink refrigeration", "cryogenic systems", "medical refrigeration", "pharmaceutical cold chain", "data center cooling", "ultra-low temperature freezers", "vaccine storage", "laboratory refrigeration"]
+tags: ["ice rink refrigeration", "cryogenic systems", "medical refrigeration", "pharmaceutical cold chain", "data center cooling", "ultra-low temperature freezers", "vaccine storage", "laboratory refrigeration"]
 ---
 
 Special refrigeration applications operate outside conventional comfort cooling and commercial food service domains. These systems address unique requirements where temperature precision, extreme conditions, or mission-critical reliability dictate specialized design approaches.

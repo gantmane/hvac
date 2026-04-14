@@ -1,5 +1,6 @@
 ---
 title: "Building Materials Thermal Properties"
+aliases: ["Building Materials Thermal Properties"]
 description: "Comprehensive thermal properties of building materials including thermal conductivity, specific heat, density, thermal mass, R-values, and U-values for HVAC load calculations and energy modeling"
 weight: 2
 ---

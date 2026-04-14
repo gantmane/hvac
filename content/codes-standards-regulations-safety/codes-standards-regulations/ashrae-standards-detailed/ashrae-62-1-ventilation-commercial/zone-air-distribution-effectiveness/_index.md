@@ -1,7 +1,9 @@
 ---
 title: "Zone Air Distribution Effectiveness (Ez)"
+aliases: ["Zone Air Distribution Effectiveness (Ez)"]
 description: "Comprehensive analysis of air distribution effectiveness factor Ez in ASHRAE 62.1 including system configurations, calculation methodology, and impact on zone outdoor airflow."
 keywords: ["air distribution effectiveness", "Ez factor", "ASHRAE 62.1", "mixing ventilation", "displacement ventilation", "overhead distribution", "underfloor air"]
+tags: ["air distribution effectiveness", "Ez factor", "ASHRAE 62.1", "mixing ventilation", "displacement ventilation", "overhead distribution", "underfloor air"]
 date: 2026-01-04
 weight: 3
 ---

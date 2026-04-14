@@ -1,8 +1,10 @@
 ---
 title: "Electric Pool Deck Heating Systems"
+aliases: ["Electric Pool Deck Heating Systems"]
 seo_title: "Electric Radiant Pool Deck Heating Design and Installation"
 description: "Technical guide to electric heating cables and mats for natatorium pool decks, covering watt density calculations, GFCI protection, cable spacing, and installation methods."
 keywords: ["electric pool deck heating", "radiant floor heating", "heating cable", "self-regulating cable", "constant wattage cable", "GFCI protection", "pool deck heating design", "watt density"]
+tags: ["electric pool deck heating", "radiant floor heating", "heating cable", "self-regulating cable", "constant wattage cable", "GFCI protection", "pool deck heating design", "watt density"]
 weight: 3
 ---
 

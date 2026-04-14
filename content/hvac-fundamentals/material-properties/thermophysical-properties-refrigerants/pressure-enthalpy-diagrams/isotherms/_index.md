@@ -1,5 +1,6 @@
 ---
 title: "Isotherms"
+aliases: ["Isotherms"]
 weight: 2
 ---
 

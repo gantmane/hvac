@@ -1,5 +1,6 @@
 ---
 title: "Construction Phase"
+aliases: ["Construction Phase"]
 weight: 3
 ---
 

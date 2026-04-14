@@ -1,7 +1,9 @@
 ---
 title: "Transverse Ventilation Systems for Vehicle Tunnels"
+aliases: ["Transverse Ventilation Systems for Vehicle Tunnels"]
 description: "Technical analysis of full and semi-transverse ventilation systems for vehicle tunnels including duct design, pressure balancing, uniform air distribution, and fire smoke control."
 keywords: ["transverse ventilation", "tunnel ventilation systems", "vehicle tunnel HVAC", "supply exhaust ducts", "NFPA 502", "tunnel smoke control", "pressure balancing", "uniform air distribution"]
+tags: ["transverse ventilation", "tunnel ventilation systems", "vehicle tunnel HVAC", "supply exhaust ducts", "NFPA 502", "tunnel smoke control", "pressure balancing", "uniform air distribution"]
 weight: 2
 ---
 

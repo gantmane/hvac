@@ -1,8 +1,10 @@
 ---
 title: "Load Diversity in Convention Centers"
+aliases: ["Load Diversity in Convention Centers"]
 weight: 4
 description: "Engineering analysis of simultaneous use factors, event scheduling impacts, and central plant sizing for convention center HVAC systems with load diversity calculations."
 keywords: ["load diversity", "convention center HVAC", "simultaneous use factor", "diversity factor", "peak load estimation", "thermal storage", "central plant sizing", "event scheduling"]
+tags: ["load diversity", "convention center HVAC", "simultaneous use factor", "diversity factor", "peak load estimation", "thermal storage", "central plant sizing", "event scheduling"]
 ---
 
 ## Load Diversity Fundamentals

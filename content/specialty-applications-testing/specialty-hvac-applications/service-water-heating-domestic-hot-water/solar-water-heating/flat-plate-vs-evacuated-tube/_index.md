@@ -1,8 +1,10 @@
 ---
 title: "Flat Plate vs Evacuated Tube Solar Collectors"
+aliases: ["Flat Plate vs Evacuated Tube Solar Collectors"]
 weight: 2
 description: "Physics-based comparison of flat plate and evacuated tube solar collectors covering construction, efficiency curves, cold climate performance, overheating risk, cost analysis, and maintenance requirements."
 keywords: ["solar water heating", "flat plate collector", "evacuated tube collector", "solar thermal efficiency", "cold climate solar", "solar collector comparison", "SRCC rating", "solar thermal systems"]
+tags: ["solar water heating", "flat plate collector", "evacuated tube collector", "solar thermal efficiency", "cold climate solar", "solar collector comparison", "SRCC rating", "solar thermal systems"]
 ---
 
 ## Construction and Heat Transfer Principles

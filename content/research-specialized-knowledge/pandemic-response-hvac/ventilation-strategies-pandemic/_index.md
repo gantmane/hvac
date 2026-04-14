@@ -1,5 +1,6 @@
 ---
 title: "Ventilation Strategies Pandemic"
+aliases: ["Ventilation Strategies Pandemic"]
 weight: 3
 ---
 

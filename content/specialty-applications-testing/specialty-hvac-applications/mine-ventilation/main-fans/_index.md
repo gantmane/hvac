@@ -1,7 +1,9 @@
 ---
 title: "Mine Main Fans"
+aliases: ["Mine Main Fans"]
 description: "Technical analysis of mine main ventilation fans including axial and centrifugal selection criteria, surface and underground mounting strategies, flow rates exceeding 100,000 CFM, fan curve analysis, and compliance with mine ventilation standards."
 keywords: ["mine main fans", "axial mine fans", "centrifugal mine fans", "mine ventilation", "100000 CFM fans", "surface mounted fans", "underground fans", "fan curves", "mine safety", "MSHA standards", "exhaust fans", "forcing fans", "mine airways"]
+tags: ["mine main fans", "axial mine fans", "centrifugal mine fans", "mine ventilation", "100000 CFM fans", "surface mounted fans", "underground fans", "fan curves", "mine safety", "MSHA standards"]
 weight: 2
 ---
 

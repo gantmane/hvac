@@ -1,5 +1,6 @@
 ---
 title: "Blueberry Storage"
+aliases: ["Blueberry Storage"]
 description: "Technical specifications for blueberry cold storage refrigeration systems including temperature control, humidity management, controlled atmosphere storage, and precooling requirements for optimal fruit preservation."
 weight: 2
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Moisture Migration Prevention in Grain Storage Systems"
+aliases: ["Moisture Migration Prevention in Grain Storage Systems"]
 description: "Physics of moisture migration in stored grain, convection current mechanisms, seasonal temperature differentials, and aeration strategies to prevent condensation."
 keywords: ["grain storage", "moisture migration", "grain aeration", "convection currents", "grain spoilage", "bin ventilation", "grain crusting", "headspace management"]
+tags: ["grain storage", "moisture migration", "grain aeration", "convection currents", "grain spoilage", "bin ventilation", "grain crusting", "headspace management"]
 weight: 3
 ---
 

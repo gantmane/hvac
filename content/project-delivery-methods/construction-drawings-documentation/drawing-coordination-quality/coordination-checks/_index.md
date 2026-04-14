@@ -1,5 +1,6 @@
 ---
 title: "Coordination Checks"
+aliases: ["Coordination Checks"]
 weight: 1
 ---
 

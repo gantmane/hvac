@@ -1,8 +1,10 @@
 ---
 title: "Gas Burners"
+aliases: ["Gas Burners"]
 weight: 1
 description: "Engineering analysis of gas burner types including atmospheric burners, power burners, premix burners, and low-NOx burners with flame stability theory, mixing mechanisms, combustion efficiency calculations, and emissions control for natural gas and propane combustion in commercial and industrial heating systems."
 keywords: "gas burners, atmospheric burners, power burners, premix burners, low-NOx burners, flame stability, Wobbe index, flame speed, NOx reduction, forced draft burners"
+tags: ["gas burners", "atmospheric burners", "power burners", "premix burners", "low-NOx burners", "flame stability", "Wobbe index", "flame speed", "NOx reduction", "forced draft burners"]
 ---
 
 # Gas Burners

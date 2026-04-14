@@ -1,5 +1,6 @@
 ---
 title: "Electrode Steam Humidifiers"
+aliases: ["Electrode Steam Humidifiers"]
 description: "Technical guide to electrode steam humidifiers including submerged electrode design, conductivity-based capacity control, disposable cylinder systems, and water quality requirements for 100-1500 microsiemens operation."
 weight: 1
 ---

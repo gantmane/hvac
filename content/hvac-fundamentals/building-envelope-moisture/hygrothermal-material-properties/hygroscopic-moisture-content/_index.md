@@ -1,5 +1,6 @@
 ---
 title: "Hygroscopic Moisture Content"
+aliases: ["Hygroscopic Moisture Content"]
 description: "Technical analysis of hygroscopic moisture absorption and storage in building materials, including sorption isotherms, equilibrium moisture content relationships, and hygrothermal performance implications for HVAC design."
 weight: 5
 ---

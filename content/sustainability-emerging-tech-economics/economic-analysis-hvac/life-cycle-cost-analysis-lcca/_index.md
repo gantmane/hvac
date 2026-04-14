@@ -1,5 +1,6 @@
 ---
 title: "Life Cycle Cost Analysis (LCCA) for HVAC Systems"
+aliases: ["Life Cycle Cost Analysis (LCCA) for HVAC Systems"]
 description: "Comprehensive methodology for evaluating total ownership costs of HVAC systems including initial investment, energy consumption, maintenance, and replacement using NPV and discount rates."
 date: 2025-01-05
 tags: ["economic analysis", "life cycle cost", "LCCA", "NPV", "discount rate", "total cost of ownership", "investment analysis", "energy economics"]

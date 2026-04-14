@@ -1,5 +1,6 @@
 ---
 title: "Energy Savings from Demand-Controlled Ventilation"
+aliases: ["Energy Savings from Demand-Controlled Ventilation"]
 description: "Quantify DCV energy savings in classrooms including heating, cooling, and fan power reductions. Analysis of 20-40% ventilation energy savings with calculation methods."
 date: 2025-01-05
 keywords:

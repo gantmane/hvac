@@ -1,5 +1,6 @@
 ---
 title: "Cabbage Storage"
+aliases: ["Cabbage Storage"]
 description: "Technical specifications for cabbage cold storage facilities including temperature control, humidity management, refrigeration load calculations, and storage duration optimization for HVAC system design."
 weight: 3
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Vapor Compression Chillers: Design & Performance"
+aliases: ["Vapor Compression Chillers: Design & Performance"]
 description: "Comprehensive analysis of vapor compression chiller thermodynamics, compressor types, heat exchanger design, and efficiency metrics with ASHRAE standards and kW/ton calculations."
 keywords:
   - vapor compression cycle

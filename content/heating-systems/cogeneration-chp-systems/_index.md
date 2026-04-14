@@ -1,5 +1,6 @@
 ---
 title: "Cogeneration and Combined Heat and Power Systems"
+aliases: ["Cogeneration and Combined Heat and Power Systems"]
 description: "Comprehensive engineering analysis of cogeneration and CHP systems including thermodynamic principles, prime mover technologies, heat recovery equipment, system configurations, economic evaluation, and environmental performance for distributed energy applications."
 date: 2026-01-04
 weight: 6

@@ -1,5 +1,6 @@
 ---
 title: "Evaporation"
+aliases: ["Evaporation"]
 description: "Evaporation processes in building envelope drying including surface evaporation rates, vapor pressure deficit effects, temperature and air velocity influences on moisture removal."
 weight: 1
 ---

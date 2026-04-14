@@ -1,7 +1,9 @@
 ---
 title: "Convention Centers HVAC Design & Operations"
+aliases: ["Convention Centers HVAC Design & Operations"]
 description: "Engineering guide to convention center HVAC systems covering multi-zone design, central plants, load diversity factors, and 24/7 operations for flexible event spaces."
 keywords: ["convention center HVAC", "exhibit hall ventilation", "central plant design", "load diversity", "multi-zone climate control", "event space conditioning", "flexible HVAC systems", "high-ceiling cooling"]
+tags: ["convention center HVAC", "exhibit hall ventilation", "central plant design", "load diversity", "multi-zone climate control", "event space conditioning", "flexible HVAC systems", "high-ceiling cooling"]
 weight: 3
 ---
 

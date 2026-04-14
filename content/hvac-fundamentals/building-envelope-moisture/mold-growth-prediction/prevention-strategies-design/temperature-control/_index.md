@@ -1,5 +1,6 @@
 ---
 title: "Temperature Control"
+aliases: ["Temperature Control"]
 description: "Temperature control strategies for mold prevention including surface temperature maintenance, thermal bridge elimination, insulation continuity, and adequate R-values to prevent condensation in building assemblies."
 weight: 2
 ---

@@ -1,7 +1,9 @@
 ---
 title: "HVAC Online Learning Platforms"
+aliases: ["HVAC Online Learning Platforms"]
 description: "Comprehensive guide to online HVAC training platforms including ASHRAE Learning Institute, manufacturer portals, and certification exam preparation resources."
 keywords: ["ASHRAE Learning Institute", "HVAC online training", "certification exam prep", "self-paced HVAC courses", "instructor-led training", "continuing education credits", "PDH courses online", "HVAC e-learning"]
+tags: ["ASHRAE Learning Institute", "HVAC online training", "certification exam prep", "self-paced HVAC courses", "instructor-led training", "continuing education credits", "PDH courses online", "HVAC e-learning"]
 weight: 5
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Tobacco Curing Barns"
+aliases: ["Tobacco Curing Barns"]
 description: "Engineering guide to HVAC systems for tobacco curing facilities including flue-cured, air-cured, and dark-fired tobacco with precise temperature and humidity control schedules for each curing phase."
 keywords:
   - tobacco curing barn HVAC

@@ -1,5 +1,6 @@
 ---
 title: "Synthetic Refrigeration Oils"
+aliases: ["Synthetic Refrigeration Oils"]
 description: "Comprehensive technical analysis of synthetic lubricants for refrigeration systems including POE, PAG, AB, PVE, and PAO oils with compatibility, properties, and application specifications"
 weight: 2
 ---

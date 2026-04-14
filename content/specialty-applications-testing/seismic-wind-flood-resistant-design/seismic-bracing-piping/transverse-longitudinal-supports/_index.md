@@ -1,5 +1,6 @@
 ---
 title: "Transverse & Longitudinal Supports for Piping"
+aliases: ["Transverse & Longitudinal Supports for Piping"]
 description: "Engineering principles for transverse and longitudinal seismic bracing of HVAC piping systems. Load calculations, support spacing, and compliance with ASCE 7 standards."
 date: 2025-01-05
 keywords:

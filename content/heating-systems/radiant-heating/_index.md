@@ -1,8 +1,10 @@
 ---
 title: "Radiant Heating"
+aliases: ["Radiant Heating"]
 weight: 5
 description: "Comprehensive coverage of radiant heating systems including hydronic radiant floor heating, electric radiant systems, radiant ceiling panels, and wall heating. Technical analysis of heat transfer fundamentals, surface temperature calculations, thermal mass effects, and control strategies."
 keywords: ["radiant floor heating", "hydronic radiant", "electric radiant", "radiant panels", "underfloor heating", "radiant ceiling", "radiant wall heating", "thermal mass", "surface temperature limits"]
+tags: ["radiant floor heating", "hydronic radiant", "electric radiant", "radiant panels", "underfloor heating", "radiant ceiling", "radiant wall heating", "thermal mass", "surface temperature limits"]
 ---
 
 # Radiant Heating

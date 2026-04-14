@@ -1,5 +1,6 @@
 ---
 title: "Korean HVAC Standards and Energy Efficiency Programs"
+aliases: ["Korean HVAC Standards and Energy Efficiency Programs"]
 description: "Technical analysis of KS standards, Energy Efficiency Label system, ondol integration, heat pump deployment, and South Korea's Zero Energy Building policies"
 date: 2025-01-05
 weight: 3

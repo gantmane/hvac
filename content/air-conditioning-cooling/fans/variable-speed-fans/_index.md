@@ -1,7 +1,9 @@
 ---
 title: "Variable Speed Fans"
+aliases: ["Variable Speed Fans"]
 description: "Variable frequency drives and EC motors for HVAC fan speed control, energy savings calculations, and application considerations."
 keywords: ["variable speed fans", "VFD", "EC motors", "fan speed control", "energy savings", "variable frequency drive"]
+tags: ["variable speed fans", "VFD", "EC motors", "fan speed control", "energy savings", "variable frequency drive"]
 weight: 6
 ---
 

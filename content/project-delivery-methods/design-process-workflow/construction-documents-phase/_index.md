@@ -1,5 +1,6 @@
 ---
 title: "Construction Documents Phase"
+aliases: ["Construction Documents Phase"]
 description: "Detailed guide to Construction Documents phase for HVAC design including final coordination requirements, 100% CD deliverables, specification completion, permitting submissions, and bid-ready documentation standards."
 weight: 4
 ---

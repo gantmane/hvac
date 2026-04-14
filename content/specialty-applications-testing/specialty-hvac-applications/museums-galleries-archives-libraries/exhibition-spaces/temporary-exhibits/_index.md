@@ -1,7 +1,9 @@
 ---
 title: "Temporary Exhibit Climate Control Systems"
+aliases: ["Temporary Exhibit Climate Control Systems"]
 description: "Technical requirements for HVAC systems supporting temporary exhibitions including loan agreement standards, acclimatization protocols, and environmental monitoring."
 keywords: ["temporary exhibit HVAC", "museum loan standards", "crate acclimatization", "exhibit environmental monitoring", "traveling exhibition climate", "facility report requirements", "loan agreement conditions", "exhibition installation climate"]
+tags: ["temporary exhibit HVAC", "museum loan standards", "crate acclimatization", "exhibit environmental monitoring", "traveling exhibition climate", "facility report requirements", "loan agreement conditions", "exhibition installation climate"]
 weight: 3
 ---
 

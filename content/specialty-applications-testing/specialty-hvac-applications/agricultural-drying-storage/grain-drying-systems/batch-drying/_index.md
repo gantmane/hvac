@@ -1,7 +1,9 @@
 ---
 title: "Batch Grain Dryers: Operation and Design Principles"
+aliases: ["Batch Grain Dryers: Operation and Design Principles"]
 description: "Engineering fundamentals of batch grain drying systems including dryer types, cycle operation, temperature control, moisture uniformity, cooling requirements, and capacity."
 keywords: ["batch grain dryers", "grain drying cycles", "moisture uniformity", "grain quality control", "agricultural HVAC", "batch dryer capacity", "grain cooling", "drying temperature control"]
+tags: ["batch grain dryers", "grain drying cycles", "moisture uniformity", "grain quality control", "agricultural HVAC", "batch dryer capacity", "grain cooling", "drying temperature control"]
 date: 2026-01-11
 weight: 2
 draft: false

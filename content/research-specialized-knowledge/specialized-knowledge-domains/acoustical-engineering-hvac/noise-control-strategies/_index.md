@@ -1,5 +1,6 @@
 ---
 title: "Noise Control Strategies"
+aliases: ["Noise Control Strategies"]
 description: "Source-path-receiver noise control principles, vibration isolation, acoustic enclosures, sound absorption, and reverberation time control for HVAC applications"
 weight: 2
 ---

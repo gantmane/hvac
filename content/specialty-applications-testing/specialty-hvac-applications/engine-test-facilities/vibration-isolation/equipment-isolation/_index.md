@@ -1,7 +1,9 @@
 ---
 title: "Equipment Isolation in Engine Test Facilities"
+aliases: ["Equipment Isolation in Engine Test Facilities"]
 description: "HVAC equipment vibration isolation methods for engine test cells including flexible connections, inertia bases, dynamometer isolation, and verification techniques."
 keywords: ["equipment isolation", "vibration control", "flexible connections", "inertia base", "dynamometer isolation", "isolation effectiveness", "HVAC equipment", "engine test cell"]
+tags: ["equipment isolation", "vibration control", "flexible connections", "inertia base", "dynamometer isolation", "isolation effectiveness", "HVAC equipment", "engine test cell"]
 weight: 2
 ---
 

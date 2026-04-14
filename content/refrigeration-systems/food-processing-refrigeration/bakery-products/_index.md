@@ -1,5 +1,6 @@
 ---
 title: "Bakery Products"
+aliases: ["Bakery Products"]
 weight: 11
 ---
 

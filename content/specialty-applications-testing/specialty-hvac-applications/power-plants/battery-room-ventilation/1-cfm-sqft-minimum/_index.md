@@ -1,7 +1,9 @@
 ---
 title: "1 CFM/sqft Minimum Ventilation Rate for Battery Rooms"
+aliases: ["1 CFM/sqft Minimum Ventilation Rate for Battery Rooms"]
 description: "Physics-based analysis of the NFPA 1 prescriptive ventilation requirement of 1 CFM/sqft for battery rooms, including hydrogen dilution principles and comparison to calculated rates."
 keywords: ["battery room ventilation rate", "1 CFM per square foot", "NFPA 1 ventilation", "IEEE 484", "hydrogen dilution", "prescriptive ventilation", "battery room airflow", "explosion prevention"]
+tags: ["battery room ventilation rate", "1 CFM per square foot", "NFPA 1 ventilation", "IEEE 484", "hydrogen dilution", "prescriptive ventilation", "battery room airflow", "explosion prevention"]
 weight: 4
 ---
 

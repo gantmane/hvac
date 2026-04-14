@@ -1,5 +1,6 @@
 ---
 title: "Ventilation Rates for Classrooms"
+aliases: ["Ventilation Rates for Classrooms"]
 description: "Technical guide to ASHRAE 62.1 ventilation rate procedures for classrooms, covering outdoor air requirements per person and area, system efficiency, and enhanced IAQ strategies."
 date: 2025-01-05
 keywords:

@@ -1,7 +1,9 @@
 ---
 title: "HVAC Incentive Programs & Rebates"
+aliases: ["HVAC Incentive Programs & Rebates"]
 description: "Federal tax credits, state rebates, and utility incentive programs for energy-efficient HVAC equipment. DSIRE database resources and program qualification requirements."
 keywords: ["HVAC rebates", "federal tax credits", "utility incentives", "DSIRE database", "energy efficiency programs", "HVAC financing", "state incentives", "equipment rebates"]
+tags: ["HVAC rebates", "federal tax credits", "utility incentives", "DSIRE database", "energy efficiency programs", "HVAC financing", "state incentives", "equipment rebates"]
 weight: 5
 ---
 

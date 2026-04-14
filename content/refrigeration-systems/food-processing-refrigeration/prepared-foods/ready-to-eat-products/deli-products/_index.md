@@ -1,5 +1,6 @@
 ---
 title: "Deli Products"
+aliases: ["Deli Products"]
 description: "Refrigeration system design for deli products including sliced meats, prepared salads, and ready-to-eat items with focus on temperature control, display case design, cross-contamination prevention, and pathogen control strategies for HACCP compliance"
 weight: 1
 ---

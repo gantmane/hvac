@@ -1,8 +1,10 @@
 ---
 title: "Display Case Internal Climate Control Systems"
+aliases: ["Display Case Internal Climate Control Systems"]
 weight: 2
 description: "Technical analysis of active and passive climate control methods for museum display cases including mini-HVAC units, conditioned air supply systems, and environmental sensors."
 keywords: ["display case climate control", "museum HVAC systems", "case microclimate control", "passive humidity control", "active case conditioning", "silica gel buffering", "case-mounted HVAC", "conservation environment"]
+tags: ["display case climate control", "museum HVAC systems", "case microclimate control", "passive humidity control", "active case conditioning", "silica gel buffering", "case-mounted HVAC", "conservation environment"]
 ---
 
 ## Climate Control Methodology

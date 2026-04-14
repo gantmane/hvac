@@ -1,8 +1,10 @@
 ---
 title: "Wood & Paper Facility HVAC Systems"
+aliases: ["Wood & Paper Facility HVAC Systems"]
 weight: 18
 description: "Engineering analysis of industrial HVAC systems for wood processing and paper manufacturing facilities covering particulate control, high-temperature ventilation, humidity management, and process integration for lumber kilns, plywood plants, and paper mills."
 keywords: "wood facility HVAC, paper mill ventilation, industrial dust collection, lumber kiln systems, plywood plant climate control, process ventilation wood, particulate control systems, industrial humidity control, wood processing ventilation"
+tags: ["wood facility HVAC", "paper mill ventilation", "industrial dust collection", "lumber kiln systems", "plywood plant climate control", "process ventilation wood", "particulate control systems", "industrial humidity control", "wood processing ventilation"]
 ---
 
 # Wood & Paper Facility HVAC Systems

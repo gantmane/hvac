@@ -1,5 +1,6 @@
 ---
 title: "Pork"
+aliases: ["Pork"]
 weight: 2
 ---
 

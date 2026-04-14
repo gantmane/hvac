@@ -1,7 +1,9 @@
 ---
 title: "Smoke Exhaust Systems for Large Volume Spaces"
+aliases: ["Smoke Exhaust Systems for Large Volume Spaces"]
 description: "Engineering guide to smoke exhaust systems including dedicated and shared configurations, high-temperature fan specifications, exhaust capacity calculations per NFPA 92."
 keywords: ["smoke exhaust systems", "dedicated smoke exhaust", "high temperature fans", "NFPA 92 exhaust", "smoke removal capacity", "250F rated fans", "500F rated fans", "exhaust ductwork rating"]
+tags: ["smoke exhaust systems", "dedicated smoke exhaust", "high temperature fans", "NFPA 92 exhaust", "smoke removal capacity", "250F rated fans", "500F rated fans", "exhaust ductwork rating"]
 weight: 1
 ---
 

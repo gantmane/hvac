@@ -1,7 +1,9 @@
 ---
 title: "Warm Air Heating for Pool Decks"
+aliases: ["Warm Air Heating for Pool Decks"]
 description: "Engineering fundamentals of warm air heating systems for natatorium pool decks including supply temperature design, air distribution patterns, and comfort zone calculations."
 keywords: ["pool deck warm air heating", "natatorium air distribution", "pool deck comfort heating", "warm air supply temperature", "pool deck HVAC", "perimeter heating systems", "floor register heating", "pool area air circulation"]
+tags: ["pool deck warm air heating", "natatorium air distribution", "pool deck comfort heating", "warm air supply temperature", "pool deck HVAC", "perimeter heating systems", "floor register heating", "pool area air circulation"]
 weight: 2
 ---
 

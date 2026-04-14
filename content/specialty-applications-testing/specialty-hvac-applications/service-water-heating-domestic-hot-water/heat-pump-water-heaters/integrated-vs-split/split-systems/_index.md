@@ -1,7 +1,9 @@
 ---
 title: "Split System Heat Pump Water Heaters"
+aliases: ["Split System Heat Pump Water Heaters"]
 description: "Split HPWHs separate outdoor compressor from indoor tank, enabling flexible placement, reduced indoor noise, and outdoor air source heat extraction."
 keywords: ["split HPWH", "remote heat pump", "outdoor compressor", "refrigerant lines", "cold climate water heating", "flexible installation", "noise reduction", "line sizing"]
+tags: ["split HPWH", "remote heat pump", "outdoor compressor", "refrigerant lines", "cold climate water heating", "flexible installation", "noise reduction", "line sizing"]
 weight: 2
 ---
 

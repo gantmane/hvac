@@ -1,5 +1,6 @@
 ---
 title: "Pipe Joining Methods"
+aliases: ["Pipe Joining Methods"]
 weight: 2
 ---
 

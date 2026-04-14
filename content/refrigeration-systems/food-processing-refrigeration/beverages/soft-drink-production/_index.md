@@ -1,5 +1,6 @@
 ---
 title: "Soft Drink Production"
+aliases: ["Soft Drink Production"]
 weight: 3
 ---
 

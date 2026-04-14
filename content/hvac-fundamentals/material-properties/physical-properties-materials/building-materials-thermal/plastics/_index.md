@@ -1,5 +1,6 @@
 ---
 title: "Plastics"
+aliases: ["Plastics"]
 description: "Thermal and physical properties of plastics used in HVAC systems including PVC, ABS, polycarbonate, and fiber-reinforced composites with design criteria and application limits"
 weight: 4
 ---

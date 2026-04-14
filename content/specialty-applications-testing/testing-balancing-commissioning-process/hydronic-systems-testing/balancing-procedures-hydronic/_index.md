@@ -1,5 +1,6 @@
 ---
 title: "Hydronic System Balancing Procedures"
+aliases: ["Hydronic System Balancing Procedures"]
 description: "Detailed procedures for hydronic balancing including proportional balancing, automatic balancing valves, circuit optimization, and systematic approaches per ASHRAE standards."
 date: 2025-01-05
 tags: ["hydronic balancing", "proportional balancing", "automatic balancing valves", "circuit balancing", "flow measurement", "TAB procedures", "system optimization", "ASHRAE 111"]

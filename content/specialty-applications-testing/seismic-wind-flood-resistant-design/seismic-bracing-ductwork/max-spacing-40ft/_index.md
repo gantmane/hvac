@@ -1,5 +1,6 @@
 ---
 title: "Maximum 40-Foot Spacing Rule for Duct Bracing"
+aliases: ["Maximum 40-Foot Spacing Rule for Duct Bracing"]
 description: "SMACNA seismic bracing maximum 40-foot spacing requirements for ductwork, including calculation methods, exceptions, and spacing variations by duct size."
 date: 2025-01-05
 keywords:

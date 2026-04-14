@@ -1,7 +1,9 @@
 ---
 title: "Apple Storage Requirements"
+aliases: ["Apple Storage Requirements"]
 description: "Technical specifications for commercial apple cold storage including variety-specific temperatures, controlled atmosphere parameters, ethylene management, and prevention of storage disorders for 9-12 month storage."
 keywords: ["apple storage temperature", "controlled atmosphere storage apples", "apple scald prevention", "CA storage requirements", "apple refrigeration", "ethylene management apples", "bitter pit control", "long-term apple storage"]
+tags: ["apple storage temperature", "controlled atmosphere storage apples", "apple scald prevention", "CA storage requirements", "apple refrigeration", "ethylene management apples", "bitter pit control", "long-term apple storage"]
 weight: 1
 ---
 

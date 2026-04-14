@@ -1,5 +1,6 @@
 ---
 title: "Air Velocity Requirements"
+aliases: ["Air Velocity Requirements"]
 description: "Comprehensive analysis of air velocity requirements in blast freezers including heat transfer coefficients, Reynolds number relationships, velocity distribution design, and energy optimization strategies"
 weight: 3
 ---

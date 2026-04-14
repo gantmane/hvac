@@ -1,8 +1,10 @@
 ---
 title: "Storage Capacity Sizing for Water Heaters"
+aliases: ["Storage Capacity Sizing for Water Heaters"]
 weight: 4
 description: "Engineering methods for sizing water heater storage tanks based on peak demand, recovery rate, draw patterns, and application-specific requirements per ASHRAE guidelines."
 keywords: ["water heater storage sizing", "peak demand coverage", "recovery rate calculation", "usable storage capacity", "mixing factor", "storage recovery tradeoff", "ASHRAE water heating", "tank sizing methods"]
+tags: ["water heater storage sizing", "peak demand coverage", "recovery rate calculation", "usable storage capacity", "mixing factor", "storage recovery tradeoff", "ASHRAE water heating", "tank sizing methods"]
 ---
 
 Storage capacity sizing determines the required tank volume to satisfy peak hot water demand while accounting for recovery capability. The fundamental tradeoff balances storage volume against recovery rate—larger storage reduces required recovery capacity, while higher recovery rates permit smaller tanks.

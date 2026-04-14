@@ -1,5 +1,6 @@
 ---
 title: "Fresh Poultry Storage Refrigeration Systems"
+aliases: ["Fresh Poultry Storage Refrigeration Systems"]
 description: "Technical analysis of refrigeration systems for fresh poultry storage, covering temperature control, humidity management, heat load calculations, and preservation strategies."
 date: 2025-01-05
 tags: ["poultry storage", "refrigeration", "food safety", "cold chain", "ASHRAE"]

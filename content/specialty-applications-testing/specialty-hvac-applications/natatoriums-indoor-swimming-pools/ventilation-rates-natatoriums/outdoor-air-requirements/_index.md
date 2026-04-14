@@ -1,8 +1,10 @@
 ---
 title: "Outdoor Air Requirements for Natatorium Ventilation"
+aliases: ["Outdoor Air Requirements for Natatorium Ventilation"]
 seo_title: "Natatorium Outdoor Air Requirements & Code Compliance"
 description: "Technical analysis of outdoor air requirements for indoor pools including ASHRAE 62.1 calculations, chloramine dilution rates, makeup air provisions, and pressurization strategies."
 keywords: ["natatorium outdoor air", "pool ventilation rates", "ASHRAE 62.1 natatorium", "chloramine dilution", "pool makeup air", "IMC ventilation", "natatorium pressurization", "swimming pool air requirements"]
+tags: ["natatorium outdoor air", "pool ventilation rates", "ASHRAE 62.1 natatorium", "chloramine dilution", "pool makeup air", "IMC ventilation", "natatorium pressurization", "swimming pool air requirements"]
 weight: 1
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "PUE Optimization Strategies for Data Centers"
+aliases: ["PUE Optimization Strategies for Data Centers"]
 description: "Technical analysis of power usage effectiveness optimization through cooling system efficiency, free cooling economizer strategies, airflow management, and DCIM monitoring."
 date: 2025-01-11
 draft: false

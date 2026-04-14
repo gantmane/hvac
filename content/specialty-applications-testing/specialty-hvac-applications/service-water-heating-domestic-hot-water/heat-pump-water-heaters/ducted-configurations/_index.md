@@ -1,8 +1,10 @@
 ---
 title: "Ducted Heat Pump Water Heater Configurations"
+aliases: ["Ducted Heat Pump Water Heater Configurations"]
 weight: 3
 description: "Engineering guide to ducted HPWH installations including duct sizing calculations, static pressure requirements, outdoor air strategies, and configuration comparisons for optimal performance."
 keywords: ["heat pump water heater ducting", "HPWH duct sizing", "outdoor air HPWH", "exhaust air heat recovery", "duct static pressure", "HPWH airflow requirements", "ducted heat pump configurations", "cold climate HPWH"]
+tags: ["heat pump water heater ducting", "HPWH duct sizing", "outdoor air HPWH", "exhaust air heat recovery", "duct static pressure", "HPWH airflow requirements", "ducted heat pump configurations", "cold climate HPWH"]
 ---
 
 ## Overview

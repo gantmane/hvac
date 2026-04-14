@@ -1,5 +1,6 @@
 ---
 title: "Smoke Control Systems for Tall Buildings"
+aliases: ["Smoke Control Systems for Tall Buildings"]
 description: "Smoke zones and barriers, pressurization and exhaust systems, NFPA 92 compliance, stair pressurization, and integrated smoke management design."
 date: "2026-01-04"
 weight: 7

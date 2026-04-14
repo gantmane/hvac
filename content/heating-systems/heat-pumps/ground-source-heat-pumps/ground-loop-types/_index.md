@@ -1,8 +1,10 @@
 ---
 title: "Ground Loop Types for Heat Pumps"
+aliases: ["Ground Loop Types for Heat Pumps"]
 weight: 1
 description: "Technical comparison of vertical and horizontal ground loops, open and closed systems for ground-source heat pumps, with heat exchanger sizing methodology and site selection criteria."
 keywords: ["ground loop design", "vertical borehole", "horizontal loop", "open loop system", "closed loop geothermal", "heat exchanger sizing", "IGSHPA standards", "ground thermal conductivity"]
+tags: ["ground loop design", "vertical borehole", "horizontal loop", "open loop system", "closed loop geothermal", "heat exchanger sizing", "IGSHPA standards", "ground thermal conductivity"]
 ---
 
 # Ground Loop Types for Ground-Source Heat Pumps

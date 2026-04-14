@@ -1,5 +1,6 @@
 ---
 title: "Liquid Nitrogen Freezing"
+aliases: ["Liquid Nitrogen Freezing"]
 description: "Comprehensive engineering guide to liquid nitrogen cryogenic freezing systems including thermophysical properties, system configurations, heat transfer analysis, consumption rates, equipment design, safety protocols, and economic evaluation for ultra-rapid food freezing applications."
 weight: 1
 ---

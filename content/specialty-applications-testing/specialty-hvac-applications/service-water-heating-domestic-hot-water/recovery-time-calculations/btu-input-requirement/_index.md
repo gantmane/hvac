@@ -1,7 +1,9 @@
 ---
 title: "BTU Input Requirement for Water Heater Sizing"
+aliases: ["BTU Input Requirement for Water Heater Sizing"]
 description: "Calculate BTU input requirements for domestic hot water systems with efficiency adjustments, fuel type considerations, and recovery capacity sizing methods."
 keywords: ["BTU input calculation", "water heater sizing", "recovery capacity", "combustion efficiency", "fuel input rating", "domestic hot water", "ASHRAE water heating", "thermal efficiency"]
+tags: ["BTU input calculation", "water heater sizing", "recovery capacity", "combustion efficiency", "fuel input rating", "domestic hot water", "ASHRAE water heating", "thermal efficiency"]
 weight: 3
 ---
 

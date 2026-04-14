@@ -1,7 +1,9 @@
 ---
 title: "Training Area HVAC Systems for Fire Stations"
+aliases: ["Training Area HVAC Systems for Fire Stations"]
 description: "HVAC design for fire station training facilities including classrooms, physical training rooms, equipment areas, and flexible-use spaces with proper ventilation."
 keywords: ["fire station training", "classroom HVAC", "physical training ventilation", "equipment training areas", "flexible use spaces", "AV equipment cooling", "training facility design", "fire academy HVAC"]
+tags: ["fire station training", "classroom HVAC", "physical training ventilation", "equipment training areas", "flexible use spaces", "AV equipment cooling", "training facility design", "fire academy HVAC"]
 weight: 3
 ---
 

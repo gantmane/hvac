@@ -1,7 +1,9 @@
 ---
 title: "Beef Carcass Chilling Systems"
+aliases: ["Beef Carcass Chilling Systems"]
 description: "Engineering principles for beef carcass chilling: temperature control, air velocity design, shrinkage prevention, cold shortening mitigation, and refrigeration load calculations."
 keywords: ["beef carcass chilling", "meat cooler design", "cold shortening prevention", "carcass shrinkage control", "beef refrigeration", "meat processing HVAC", "carcass cooling protocols", "beef chilling systems"]
+tags: ["beef carcass chilling", "meat cooler design", "cold shortening prevention", "carcass shrinkage control", "beef refrigeration", "meat processing HVAC", "carcass cooling protocols", "beef chilling systems"]
 weight: 1
 ---
 

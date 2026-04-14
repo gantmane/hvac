@@ -1,7 +1,9 @@
 ---
 title: "HVAC Load Calculations"
+aliases: ["HVAC Load Calculations"]
 description: "Comprehensive guide to heating and cooling load calculations for HVAC system design including methods, software, and best practices."
 keywords: ["load calculations", "heating load", "cooling load", "HVAC design", "Manual J", "ASHRAE", "heat loss", "heat gain"]
+tags: ["load calculations", "heating load", "cooling load", "HVAC design", "Manual J", "ASHRAE", "heat loss", "heat gain"]
 weight: 1
 ---
 

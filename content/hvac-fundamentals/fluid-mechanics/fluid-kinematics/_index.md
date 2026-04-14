@@ -1,5 +1,6 @@
 ---
 title: "Fluid Kinematics"
+aliases: ["Fluid Kinematics"]
 description: "Mathematical description of fluid motion including velocity fields, acceleration, streamlines, vorticity, and flow visualization techniques for HVAC system analysis"
 weight: 3
 ---

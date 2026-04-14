@@ -1,7 +1,9 @@
 ---
 title: "Security Integration for Rare Book Library HVAC Systems"
+aliases: ["Security Integration for Rare Book Library HVAC Systems"]
 description: "HVAC security integration protecting rare book libraries through duct security, penetration control, fire detection, emergency shutdown, and access control systems."
 keywords: ["HVAC security", "rare book protection", "duct security", "fire detection", "emergency shutdown", "mechanical room access", "library security", "penetration control"]
+tags: ["HVAC security", "rare book protection", "duct security", "fire detection", "emergency shutdown", "mechanical room access", "library security", "penetration control"]
 date: 2025-01-11
 weight: 4
 draft: false

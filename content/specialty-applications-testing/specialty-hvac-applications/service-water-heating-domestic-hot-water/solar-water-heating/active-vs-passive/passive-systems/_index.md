@@ -1,7 +1,9 @@
 ---
 title: "Passive Solar Water Heating Systems"
+aliases: ["Passive Solar Water Heating Systems"]
 description: "Thermosiphon and batch collector systems using natural circulation. Covers ICS collectors, buoyancy-driven flow physics, freeze protection, and climate suitability."
 keywords: ["passive solar water heating", "thermosiphon systems", "integral collector storage", "ICS collectors", "natural circulation", "batch collectors", "SRCC certification", "buoyancy-driven flow"]
+tags: ["passive solar water heating", "thermosiphon systems", "integral collector storage", "ICS collectors", "natural circulation", "batch collectors", "SRCC certification", "buoyancy-driven flow"]
 weight: 2
 ---
 

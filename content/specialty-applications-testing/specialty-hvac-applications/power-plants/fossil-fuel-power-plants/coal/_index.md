@@ -1,8 +1,10 @@
 ---
 title: "Coal Power Plant HVAC Systems"
+aliases: ["Coal Power Plant HVAC Systems"]
 seo_title: "Coal-Fired Power Plant HVAC and Ventilation Design"
 description: "Technical guide to HVAC systems for coal power plants, covering dust control, combustion air handling, coal handling ventilation, and NFPA 850 compliance."
 keywords: ["coal power plant HVAC", "coal dust control", "combustion air systems", "power plant ventilation", "NFPA 850", "coal handling ventilation", "pulverized coal systems", "boiler ventilation"]
+tags: ["coal power plant HVAC", "coal dust control", "combustion air systems", "power plant ventilation", "NFPA 850", "coal handling ventilation", "pulverized coal systems", "boiler ventilation"]
 weight: 1
 ---
 

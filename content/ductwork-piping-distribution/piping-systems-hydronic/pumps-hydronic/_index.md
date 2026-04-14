@@ -1,5 +1,6 @@
 ---
 title: "Hydronic Pumps"
+aliases: ["Hydronic Pumps"]
 description: "Hydronic pump types, performance characteristics, affinity laws, pump curves, cavitation prevention, and control strategies for heating and cooling water distribution systems."
 weight: 9
 ---

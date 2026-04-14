@@ -1,7 +1,9 @@
 ---
 title: "Fluid Bed Dryers: Fluidization & Heat Transfer"
+aliases: ["Fluid Bed Dryers: Fluidization & Heat Transfer"]
 description: "Technical analysis of fluid bed dryer systems with minimum fluidization velocity calculations, particle suspension mechanics, air distribution design, and heat transfer."
 keywords: ["fluid bed dryers", "minimum fluidization velocity", "particle suspension", "air distribution plate", "fluidization mechanics", "heat transfer coefficients", "Geldart classification", "pharmaceutical drying"]
+tags: ["fluid bed dryers", "minimum fluidization velocity", "particle suspension", "air distribution plate", "fluidization mechanics", "heat transfer coefficients", "Geldart classification", "pharmaceutical drying"]
 weight: 4
 ---
 

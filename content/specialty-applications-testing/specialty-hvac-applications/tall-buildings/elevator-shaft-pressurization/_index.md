@@ -1,5 +1,6 @@
 ---
 title: "Elevator Shaft Pressurization"
+aliases: ["Elevator Shaft Pressurization"]
 description: "Elevator piston effect, door opening forces, ASME A17.1 ventilation requirements, and pressure relief strategies for high-rise elevator systems."
 date: "2026-01-04"
 weight: 3

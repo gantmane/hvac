@@ -1,5 +1,6 @@
 ---
 title: "Dough Freezing"
+aliases: ["Dough Freezing"]
 description: "Technical analysis of frozen dough processing including freezing rate requirements, blast freezer design, ice crystal control, yeast viability preservation, and refrigeration load calculations for bakery production facilities"
 weight: 1
 ---

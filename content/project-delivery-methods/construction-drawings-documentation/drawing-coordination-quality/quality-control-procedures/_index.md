@@ -1,5 +1,6 @@
 ---
 title: "Quality Control Procedures"
+aliases: ["Quality Control Procedures"]
 weight: 2
 ---
 

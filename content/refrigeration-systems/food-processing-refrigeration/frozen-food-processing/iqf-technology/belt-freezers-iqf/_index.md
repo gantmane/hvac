@@ -1,5 +1,6 @@
 ---
 title: "Belt Freezers for IQF"
+aliases: ["Belt Freezers for IQF"]
 description: "Comprehensive analysis of belt-type individual quick freezing systems including single-pass and multi-pass configurations, air flow patterns, belt materials, and freezing time calculations for food processing applications."
 weight: 3
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Latent Loads from Occupancy in High-Density Spaces"
+aliases: ["Latent Loads from Occupancy in High-Density Spaces"]
 description: "Technical analysis of occupant latent heat gains, moisture generation rates, humidity ratio increases, and dehumidification strategies for high-occupancy HVAC design."
 keywords: ["latent heat gain", "moisture generation", "occupancy latent load", "dehumidification", "sensible heat ratio", "humidity control", "perspiration load", "respiration moisture"]
+tags: ["latent heat gain", "moisture generation", "occupancy latent load", "dehumidification", "sensible heat ratio", "humidity control", "perspiration load", "respiration moisture"]
 weight: 3
 ---
 

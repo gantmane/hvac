@@ -1,5 +1,6 @@
 ---
 title: "Indoor Air Quality Health"
+aliases: ["Indoor Air Quality Health"]
 weight: 1
 ---
 

@@ -1,9 +1,11 @@
 ---
 title: "Run-Around Coils for Energy Recovery"
+aliases: ["Run-Around Coils for Energy Recovery"]
 description: "Technical guide to run-around coil systems including glycol loop design, coil sizing, pump selection, effectiveness calculations, and antifreeze concentration."
 date: 2026-01-05
 weight: 3
 keywords: ["run-around coils", "energy recovery", "glycol loop", "coil effectiveness", "pump sizing", "antifreeze concentration", "ASHRAE Standard 84", "heat recovery ventilation"]
+tags: ["run-around coils", "energy recovery", "glycol loop", "coil effectiveness", "pump sizing", "antifreeze concentration", "ASHRAE Standard 84", "heat recovery ventilation"]
 ---
 
 ## Overview

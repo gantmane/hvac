@@ -1,7 +1,9 @@
 ---
 title: "Fan Laws"
+aliases: ["Fan Laws"]
 description: "Application of fan affinity laws for predicting HVAC fan performance changes with speed, size, and density variations."
 keywords: ["fan laws", "affinity laws", "fan performance", "fan speed", "system curve", "HVAC design"]
+tags: ["fan laws", "affinity laws", "fan performance", "fan speed", "system curve", "HVAC design"]
 weight: 2
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Turbine Hall Ventilation"
+aliases: ["Turbine Hall Ventilation"]
 weight: 4
 description: "Engineering analysis of turbine hall ventilation systems including heat removal calculations, roof ventilator sizing, equipment cooling strategies, and worker comfort zone design for steam and gas turbine installations in power generation facilities with natural and mechanical ventilation integration."
 keywords: "turbine hall ventilation, power plant HVAC, heat removal turbines, roof ventilators, equipment cooling, worker comfort zones, natural ventilation, stack effect, thermal plume calculations"
+tags: ["turbine hall ventilation", "power plant HVAC", "heat removal turbines", "roof ventilators", "equipment cooling", "worker comfort zones", "natural ventilation", "stack effect", "thermal plume calculations"]
 ---
 
 # Turbine Hall Ventilation

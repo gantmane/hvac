@@ -1,5 +1,6 @@
 ---
 title: "Moisture Control"
+aliases: ["Moisture Control"]
 weight: 6
 ---
 

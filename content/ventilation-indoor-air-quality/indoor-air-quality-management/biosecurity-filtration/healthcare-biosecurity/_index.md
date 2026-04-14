@@ -1,5 +1,6 @@
 ---
 title: "Healthcare HVAC Biosecurity Systems"
+aliases: ["Healthcare HVAC Biosecurity Systems"]
 weight: 4
 description: "Engineering analysis of ASHRAE 170 healthcare ventilation, airborne infection isolation rooms, protective environment design, pressure cascade control, and CDC biosecurity."
 keywords:

@@ -1,5 +1,6 @@
 ---
 title: "Guest Room HVAC Systems"
+aliases: ["Guest Room HVAC Systems"]
 description: "Comparison of PTAC, fan coil, VRF, and split systems for hotel guest rooms including performance, noise criteria, and ventilation compliance."
 date: "2026-01-04"
 weight: 2

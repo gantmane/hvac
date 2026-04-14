@@ -1,5 +1,6 @@
 ---
 title: "PID Control Detailed"
+aliases: ["PID Control Detailed"]
 description: "In-depth analysis of proportional-integral-derivative control algorithms for HVAC applications including mathematical formulation, control modes, tuning methods, and implementation considerations."
 date: 2026-01-04
 weight: 2

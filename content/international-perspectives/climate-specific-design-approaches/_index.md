@@ -1,5 +1,6 @@
 ---
 title: "Climate-Specific HVAC Design Approaches"
+aliases: ["Climate-Specific HVAC Design Approaches"]
 description: "Engineering principles and system design strategies for HVAC applications across diverse global climate zones, from arctic to tropical environments."
 date: 2025-01-05
 tags: ["climate design", "HVAC engineering", "psychrometrics", "load calculation", "ASHRAE climate zones", "international design"]

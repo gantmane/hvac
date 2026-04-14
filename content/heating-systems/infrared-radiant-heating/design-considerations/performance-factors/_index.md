@@ -1,5 +1,6 @@
 ---
 title: "Performance Factors"
+aliases: ["Performance Factors"]
 weight: 3
 ---
 

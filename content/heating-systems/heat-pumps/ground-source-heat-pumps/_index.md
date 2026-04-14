@@ -1,7 +1,9 @@
 ---
 title: "Ground Source Heat Pumps"
+aliases: ["Ground Source Heat Pumps"]
 description: "Ground source heat pump systems exploit stable subsurface temperatures for superior efficiency. Analysis of loop configurations, thermal exchange, and performance metrics."
 keywords: ["ground source heat pump", "geothermal heat pump", "GSHP efficiency", "ground loop design", "earth coupling", "IGSHPA standards", "vertical borehole", "horizontal loop"]
+tags: ["ground source heat pump", "geothermal heat pump", "GSHP efficiency", "ground loop design", "earth coupling", "IGSHPA standards", "vertical borehole", "horizontal loop"]
 weight: 2
 ---
 

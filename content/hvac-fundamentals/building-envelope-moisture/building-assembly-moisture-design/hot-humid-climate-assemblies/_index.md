@@ -1,5 +1,6 @@
 ---
 title: "Hot-Humid Climate Assemblies"
+aliases: ["Hot-Humid Climate Assemblies"]
 weight: 2
 description: "Building envelope moisture design for hot-humid climates (IECC Zones 1-2) including exterior vapor control, inward drying requirements, interior surface temperature management, and assembly configurations preventing summer condensation in cooling-dominated conditions."
 ---

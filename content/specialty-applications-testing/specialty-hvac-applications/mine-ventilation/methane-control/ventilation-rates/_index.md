@@ -1,7 +1,9 @@
 ---
 title: "Ventilation Rates for Methane Control"
+aliases: ["Ventilation Rates for Methane Control"]
 description: "Technical analysis of ventilation rate calculations for methane dilution in underground coal mines per MSHA 30 CFR Part 75, including liberation prediction and variable air volume."
 keywords: ["methane dilution ventilation", "mine air quantity calculation", "30 CFR 75 requirements", "methane liberation rate", "bleeder system design", "gob ventilation"]
+tags: ["methane dilution ventilation", "mine air quantity calculation", "30 CFR 75 requirements", "methane liberation rate", "bleeder system design", "gob ventilation"]
 weight: 3
 ---
 

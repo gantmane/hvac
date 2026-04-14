@@ -1,7 +1,9 @@
 ---
 title: "Courthouse Holding Cell HVAC Systems"
+aliases: ["Courthouse Holding Cell HVAC Systems"]
 description: "Technical design requirements for courthouse holding cell ventilation, secure air distribution, odor control, and system separation from public areas."
 keywords: ["courthouse holding cells", "secure ventilation design", "detention cell HVAC", "courtroom holding areas", "jail cell ventilation rates", "tamper-proof HVAC", "negative pressure cells", "ACA standards"]
+tags: ["courthouse holding cells", "secure ventilation design", "detention cell HVAC", "courtroom holding areas", "jail cell ventilation rates", "tamper-proof HVAC", "negative pressure cells", "ACA standards"]
 weight: 2
 ---
 

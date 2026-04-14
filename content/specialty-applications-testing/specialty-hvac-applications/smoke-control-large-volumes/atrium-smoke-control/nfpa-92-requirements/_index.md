@@ -1,7 +1,9 @@
 ---
 title: "NFPA 92 Atrium Smoke Control Requirements"
+aliases: ["NFPA 92 Atrium Smoke Control Requirements"]
 description: "Comprehensive guide to NFPA 92 Standard requirements for atrium smoke control design, including algebraic equations, CFD modeling criteria, and acceptance testing protocols."
 keywords: ["NFPA 92", "atrium smoke control", "smoke filling equations", "ASET RSET", "CFD smoke modeling", "smoke layer interface", "exhaust volumetric flow", "acceptance testing"]
+tags: ["NFPA 92", "atrium smoke control", "smoke filling equations", "ASET RSET", "CFD smoke modeling", "smoke layer interface", "exhaust volumetric flow", "acceptance testing"]
 weight: 4
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Demand-Controlled Recirculation"
+aliases: ["Demand-Controlled Recirculation"]
 description: "Push-button and motion sensor demand-controlled hot water recirculation systems with energy analysis, installation methods, and control strategies."
 keywords: ["demand recirculation", "on-demand hot water", "push-button activation", "motion sensor control", "recirculation energy savings", "DHW pump control", "smart recirculation", "water heating efficiency"]
+tags: ["demand recirculation", "on-demand hot water", "push-button activation", "motion sensor control", "recirculation energy savings", "DHW pump control", "smart recirculation", "water heating efficiency"]
 weight: 4
 ---
 

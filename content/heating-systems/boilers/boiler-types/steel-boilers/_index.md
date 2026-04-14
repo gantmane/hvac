@@ -1,5 +1,6 @@
 ---
 title: "Steel Boilers"
+aliases: ["Steel Boilers"]
 description: "Comprehensive technical analysis of steel boiler construction, including welded steel design, water tube and fire tube configurations, material properties, and engineering considerations for commercial and industrial heating applications."
 weight: 4
 ---

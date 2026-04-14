@@ -1,7 +1,9 @@
 ---
 title: "HVAC for Archive Storage Vaults and Repositories"
+aliases: ["HVAC for Archive Storage Vaults and Repositories"]
 description: "Environmental control systems for archive storage vaults including temperature and humidity requirements, compact shelving integration, cold storage strategies, and redundancy protocols."
 keywords: ["archive storage HVAC", "vault environmental control", "cold storage vaults", "compact shelving climate control", "archive humidity control", "repository HVAC systems", "vault redundancy", "preservation storage"]
+tags: ["archive storage HVAC", "vault environmental control", "cold storage vaults", "compact shelving climate control", "archive humidity control", "repository HVAC systems", "vault redundancy", "preservation storage"]
 weight: 12
 ---
 

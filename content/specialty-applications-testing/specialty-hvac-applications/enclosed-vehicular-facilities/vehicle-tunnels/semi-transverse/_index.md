@@ -1,7 +1,9 @@
 ---
 title: "Semi-Transverse Tunnel Ventilation Systems"
+aliases: ["Semi-Transverse Tunnel Ventilation Systems"]
 description: "Semi-transverse ventilation configurations for vehicle tunnels including supply-only and exhaust-only ducted systems, air flow patterns, portal effects, and emergency operation."
 keywords: ["semi-transverse ventilation", "tunnel duct system", "portal effects", "supply-only ventilation", "exhaust-only ventilation", "tunnel emergency ventilation", "NFPA 502", "medium-length tunnel"]
+tags: ["semi-transverse ventilation", "tunnel duct system", "portal effects", "supply-only ventilation", "exhaust-only ventilation", "tunnel emergency ventilation", "NFPA 502", "medium-length tunnel"]
 weight: 3
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Lint Control Systems in Textile Plants"
+aliases: ["Lint Control Systems in Textile Plants"]
 description: "Engineering guide to lint collection, fire hazard mitigation, and filtration efficiency in textile processing facilities per ACGIH and ASHRAE Industrial standards."
 keywords: ["lint control", "textile ventilation", "fire prevention", "dust collection", "filtration efficiency", "industrial HVAC", "fiber hazards", "explosion prevention"]
+tags: ["lint control", "textile ventilation", "fire prevention", "dust collection", "filtration efficiency", "industrial HVAC", "fiber hazards", "explosion prevention"]
 weight: 6
 ---
 

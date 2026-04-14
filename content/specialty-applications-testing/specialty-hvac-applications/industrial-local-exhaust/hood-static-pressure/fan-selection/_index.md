@@ -1,9 +1,11 @@
 ---
 title: "Fan Selection for Industrial Exhaust Systems"
+aliases: ["Fan Selection for Industrial Exhaust Systems"]
 description: "Engineering guide to selecting industrial exhaust fans based on system pressure, airflow requirements, and efficiency criteria using AMCA standards."
 date: 2026-01-11
 weight: 4
 keywords: ["industrial exhaust fans", "fan selection criteria", "AMCA standards", "system pressure curve", "fan static pressure", "centrifugal fans", "axial fans", "fan performance"]
+tags: ["industrial exhaust fans", "fan selection criteria", "AMCA standards", "system pressure curve", "fan static pressure", "centrifugal fans", "axial fans", "fan performance"]
 ---
 
 # Fan Selection for Industrial Exhaust Systems

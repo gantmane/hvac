@@ -1,7 +1,9 @@
 ---
 title: "HVAC Systems for Large Lecture Halls (100-1000 Seats)"
+aliases: ["HVAC Systems for Large Lecture Halls (100-1000 Seats)"]
 description: "Engineering analysis of HVAC system design for large lecture halls: load calculations, part-load efficiency strategies, central versus distributed systems, and capacity scaling."
 keywords: ["lecture hall HVAC", "large venue ventilation", "variable occupancy load", "part-load efficiency", "assembly space conditioning", "demand-controlled ventilation", "peak load sizing", "distributed HVAC systems"]
+tags: ["lecture hall HVAC", "large venue ventilation", "variable occupancy load", "part-load efficiency", "assembly space conditioning", "demand-controlled ventilation", "peak load sizing", "distributed HVAC systems"]
 weight: 3
 ---
 

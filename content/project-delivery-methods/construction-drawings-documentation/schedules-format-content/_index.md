@@ -1,5 +1,6 @@
 ---
 title: "Schedules Format Content"
+aliases: ["Schedules Format Content"]
 description: "Equipment schedules format and content standards for HVAC construction drawings including diffuser schedules, grille schedules, valve schedules, motor schedules, data columns, notes, and schedule coordination requirements"
 weight: 3
 ---

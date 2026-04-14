@@ -1,5 +1,6 @@
 ---
 title: "Solar Thermal Domestic Hot Water Systems"
+aliases: ["Solar Thermal Domestic Hot Water Systems"]
 description: "Technical analysis of solar DHW systems including collector sizing, thermal storage, heat transfer calculations, and system efficiency based on ASHRAE standards."
 date: 2025-01-05
 tags: ["solar thermal", "domestic hot water", "solar collectors", "renewable energy", "ASHRAE 90.1", "water heating", "thermal storage"]

@@ -1,7 +1,9 @@
 ---
 title: "HVAC Systems for Art Preservation Environments"
+aliases: ["HVAC Systems for Art Preservation Environments"]
 description: "Technical requirements for museum and gallery climate control systems including humidity stability, temperature setpoints, and environmental standards for paintings, sculptures, and artifacts."
 keywords: ["art preservation HVAC", "museum climate control", "gallery environmental systems", "artwork humidity control", "ASHRAE museum standards", "conservation HVAC", "artifact preservation", "Getty conservation"]
+tags: ["art preservation HVAC", "museum climate control", "gallery environmental systems", "artwork humidity control", "ASHRAE museum standards", "conservation HVAC", "artifact preservation", "Getty conservation"]
 weight: 1
 ---
 

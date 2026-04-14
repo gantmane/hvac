@@ -1,7 +1,9 @@
 ---
 title: "Movie Theater HVAC Systems"
+aliases: ["Movie Theater HVAC Systems"]
 description: "HVAC design for movie theaters and cinemas including digital projection cooling, multiplex zoning, acoustic control, and high-occupancy ventilation requirements."
 keywords: ["movie theater HVAC", "cinema air conditioning", "projection booth cooling", "multiplex HVAC design", "auditorium ventilation", "theater zoning", "stadium seating HVAC", "cinema IAQ"]
+tags: ["movie theater HVAC", "cinema air conditioning", "projection booth cooling", "multiplex HVAC design", "auditorium ventilation", "theater zoning", "stadium seating HVAC", "cinema IAQ"]
 weight: 2
 ---
 

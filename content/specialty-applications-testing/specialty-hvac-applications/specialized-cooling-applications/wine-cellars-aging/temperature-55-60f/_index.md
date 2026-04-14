@@ -1,5 +1,6 @@
 ---
 title: "Wine Cellar Temperature Control: 55-60°F Optimal Range"
+aliases: ["Wine Cellar Temperature Control: 55-60°F Optimal Range"]
 description: "Technical analysis of optimal wine storage temperature control at 55-60°F, temperature stability requirements, aging chemistry kinetics, thermal fluctuation impacts, and precision HVAC control strategies."
 keywords:
   - wine storage temperature

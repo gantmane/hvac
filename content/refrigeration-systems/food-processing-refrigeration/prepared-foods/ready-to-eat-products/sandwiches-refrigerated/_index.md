@@ -1,5 +1,6 @@
 ---
 title: "Refrigerated Sandwiches"
+aliases: ["Refrigerated Sandwiches"]
 description: "HVAC requirements for refrigerated sandwich production, storage, and display systems including multi-component temperature management, moisture migration control, short shelf life preservation, and cold chain maintenance for ready-to-eat products."
 weight: 3
 ---

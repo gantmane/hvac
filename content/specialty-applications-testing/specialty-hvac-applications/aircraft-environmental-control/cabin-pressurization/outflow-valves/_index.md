@@ -1,7 +1,9 @@
 ---
 title: "Aircraft Cabin Outflow Valves: Control and Operation"
+aliases: ["Aircraft Cabin Outflow Valves: Control and Operation"]
 description: "Aircraft outflow valves regulate cabin pressure through modulating control. Covers valve types, automatic/manual modes, relief functions, and redundancy requirements."
 keywords: ["outflow valve", "cabin pressure control", "butterfly valve", "poppet valve", "pressure relief", "fail-safe design", "valve modulation", "aircraft pressurization"]
+tags: ["outflow valve", "cabin pressure control", "butterfly valve", "poppet valve", "pressure relief", "fail-safe design", "valve modulation", "aircraft pressurization"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "HVAC Strategies for Hot-Dry Desert Climates"
+aliases: ["HVAC Strategies for Hot-Dry Desert Climates"]
 weight: 2
 ---
 

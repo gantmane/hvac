@@ -1,5 +1,6 @@
 ---
 title: "Basic Wind Speed for HVAC Equipment Design"
+aliases: ["Basic Wind Speed for HVAC Equipment Design"]
 description: "Comprehensive guide to determining basic wind speed for HVAC equipment using ASCE 7 wind speed maps, risk categories, and velocity pressure calculations."
 keywords:
   - basic wind speed

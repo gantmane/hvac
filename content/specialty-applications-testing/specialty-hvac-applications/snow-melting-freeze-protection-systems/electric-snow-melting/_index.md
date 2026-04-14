@@ -1,7 +1,9 @@
 ---
 title: "Electric Snow Melting Systems"
+aliases: ["Electric Snow Melting Systems"]
 description: "Comprehensive technical guide to electric snow melting systems including heating cables, mats, power density calculations, cable spacing, NEC electrical protection requirements, and GFCI specifications for safe and effective pavement heating."
 keywords: ["electric snow melting", "heating cables", "snow melting mats", "power density", "cable spacing", "GFCI protection", "NEC 426", "radiant heating", "pavement heating", "electric radiant"]
+tags: ["electric snow melting", "heating cables", "snow melting mats", "power density", "cable spacing", "GFCI protection", "NEC 426", "radiant heating", "pavement heating", "electric radiant"]
 weight: 2
 ---
 

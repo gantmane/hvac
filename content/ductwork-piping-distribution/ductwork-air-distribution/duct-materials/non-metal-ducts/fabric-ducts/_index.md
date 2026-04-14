@@ -1,5 +1,6 @@
 ---
 title: "Fabric Ducts"
+aliases: ["Fabric Ducts"]
 weight: 3
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Compressor Performance Parameters"
+aliases: ["Compressor Performance Parameters"]
 weight: 6
 description: "Comprehensive analysis of refrigeration compressor performance metrics including volumetric efficiency, isentropic efficiency, AHRI capacity ratings, compression ratio effects, and performance mapping for optimal system design."
 keywords: ["compressor efficiency", "volumetric efficiency", "isentropic efficiency", "AHRI ratings", "compression ratio", "compressor capacity", "superheat impact", "performance mapping"]
+tags: ["compressor efficiency", "volumetric efficiency", "isentropic efficiency", "AHRI ratings", "compression ratio", "compressor capacity", "superheat impact", "performance mapping"]
 ---
 
 Compressor performance parameters define the operational characteristics and efficiency of refrigeration system compressors. Understanding these metrics enables proper equipment selection, accurate capacity predictions, and optimal system design.

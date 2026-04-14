@@ -1,7 +1,9 @@
 ---
 title: "Load Calculation Methods"
+aliases: ["Load Calculation Methods"]
 description: "Overview of HVAC cooling load calculation methods including CLTD/CLF, TFM, RTS, and heat balance methods per ASHRAE standards."
 keywords: ["load calculation methods", "CLTD", "radiant time series", "heat balance", "cooling load", "ASHRAE", "TFM"]
+tags: ["load calculation methods", "CLTD", "radiant time series", "heat balance", "cooling load", "ASHRAE", "TFM"]
 weight: 2
 ---
 

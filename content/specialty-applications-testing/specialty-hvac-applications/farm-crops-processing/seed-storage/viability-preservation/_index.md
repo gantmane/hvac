@@ -1,7 +1,9 @@
 ---
 title: "Seed Viability Preservation in Controlled Storage"
+aliases: ["Seed Viability Preservation in Controlled Storage"]
 description: "Technical principles of seed longevity through temperature, moisture, and oxygen control. Harrington's rule, equilibrium moisture content, respiration suppression strategies."
 keywords: ["seed storage", "viability preservation", "Harrington's rule", "equilibrium moisture content", "seed longevity", "germination testing", "respiration suppression", "seed aging"]
+tags: ["seed storage", "viability preservation", "Harrington's rule", "equilibrium moisture content", "seed longevity", "germination testing", "respiration suppression", "seed aging"]
 weight: 4
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Sd Meetings Reviews"
+aliases: ["Sd Meetings Reviews"]
 weight: 2
 ---
 

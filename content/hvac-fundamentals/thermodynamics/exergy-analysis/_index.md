@@ -1,5 +1,6 @@
 ---
 title: "Exergy Analysis"
+aliases: ["Exergy Analysis"]
 weight: 5
 ---
 

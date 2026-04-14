@@ -1,5 +1,6 @@
 ---
 title: "Vapor Retarder Warm Side"
+aliases: ["Vapor Retarder Warm Side"]
 description: "Engineering principles and installation requirements for vapor retarders positioned on the warm side of building assemblies in cold climates to prevent condensation and moisture damage"
 weight: 1
 ---

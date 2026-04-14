@@ -1,7 +1,9 @@
 ---
 title: "Tenable Conditions in Smoke Control Systems"
+aliases: ["Tenable Conditions in Smoke Control Systems"]
 description: "Engineering criteria for maintaining tenable conditions during fire events including visibility, temperature, toxicity limits, and egress time calculations per NFPA 92."
 keywords: ["tenable conditions", "smoke control tenability", "visibility criteria", "carbon monoxide limits", "egress time", "NFPA 92", "temperature limits", "toxic gas concentration"]
+tags: ["tenable conditions", "smoke control tenability", "visibility criteria", "carbon monoxide limits", "egress time", "NFPA 92", "temperature limits", "toxic gas concentration"]
 weight: 3
 ---
 

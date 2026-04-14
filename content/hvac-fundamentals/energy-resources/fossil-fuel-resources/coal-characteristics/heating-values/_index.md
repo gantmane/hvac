@@ -1,7 +1,9 @@
 ---
 title: "Coal Heating Values for HVAC Combustion Systems"
+aliases: ["Coal Heating Values for HVAC Combustion Systems"]
 description: "Comprehensive analysis of coal heating values including HHV, LHV calculations, Dulong's formula, and ASTM D5865 testing methods for HVAC boiler applications."
 keywords: ["coal heating value", "higher heating value", "lower heating value", "Dulong formula", "ASTM D5865", "coal combustion", "HVAC boilers", "coal rank"]
+tags: ["coal heating value", "higher heating value", "lower heating value", "Dulong formula", "ASTM D5865", "coal combustion", "HVAC boilers", "coal rank"]
 weight: 2
 ---
 

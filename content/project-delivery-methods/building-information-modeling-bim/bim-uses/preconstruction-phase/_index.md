@@ -1,5 +1,6 @@
 ---
 title: "Preconstruction Phase"
+aliases: ["Preconstruction Phase"]
 weight: 2
 ---
 

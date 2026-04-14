@@ -1,5 +1,6 @@
 ---
 title: "Thermostatic Expansion Valves"
+aliases: ["Thermostatic Expansion Valves"]
 description: "Comprehensive technical analysis of thermostatic expansion valves (TXV) including superheat control mechanisms, internal vs external equalization, sensing bulb technology, hunting prevention, capacity selection, and thermal charge types for refrigeration systems."
 weight: 1
 ---

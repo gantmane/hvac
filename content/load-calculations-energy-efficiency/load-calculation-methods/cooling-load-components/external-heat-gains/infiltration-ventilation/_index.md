@@ -1,5 +1,6 @@
 ---
 title: "Infiltration and Ventilation"
+aliases: ["Infiltration and Ventilation"]
 description: "Technical analysis of infiltration air leakage and mechanical ventilation loads including calculation methods, driving forces, and energy recovery strategies."
 weight: 3
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Structural Coordination"
+aliases: ["Structural Coordination"]
 description: "Integration of HVAC systems with building structural systems including equipment load analysis, penetration coordination, and vibration control"
 weight: 6
 ---

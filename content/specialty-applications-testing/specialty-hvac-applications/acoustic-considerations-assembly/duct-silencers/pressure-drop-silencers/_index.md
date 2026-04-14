@@ -1,7 +1,9 @@
 ---
 title: "Pressure Drop in HVAC Duct Silencers"
+aliases: ["Pressure Drop in HVAC Duct Silencers"]
 description: "Technical analysis of silencer pressure drop including theoretical calculations, free area ratio effects, energy impact assessment, and optimization strategies."
 keywords: "silencer pressure drop, free area ratio, energy penalty, friction losses, silencer length, hydraulic diameter, fan energy cost, pressure drop optimization"
+tags: ["silencer pressure drop", "free area ratio", "energy penalty", "friction losses", "silencer length", "hydraulic diameter", "fan energy cost", "pressure drop optimization"]
 weight: 3
 ---
 

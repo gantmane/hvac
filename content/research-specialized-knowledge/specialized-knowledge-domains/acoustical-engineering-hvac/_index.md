@@ -1,5 +1,6 @@
 ---
 title: "Acoustical Engineering HVAC"
+aliases: ["Acoustical Engineering HVAC"]
 description: "Acoustical engineering principles for HVAC systems including sound transmission analysis, noise measurement techniques, and noise control strategies"
 weight: 1
 ---

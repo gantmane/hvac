@@ -1,5 +1,6 @@
 ---
 title: "Calculation Software"
+aliases: ["Calculation Software"]
 description: "Comprehensive guide to HVAC load calculation software platforms including methodology comparison, feature analysis, and application selection criteria for engineering practice."
 weight: 3
 ---

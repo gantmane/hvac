@@ -1,7 +1,9 @@
 ---
 title: "Water Source Heat Pumps"
+aliases: ["Water Source Heat Pumps"]
 description: "Technical analysis of water-source heat pump systems including water loop configurations, cooling tower/boiler integration, simultaneous heating-cooling, and heat recovery."
 keywords: ["water source heat pumps", "WSHP systems", "water loop heat pumps", "simultaneous heating cooling", "heat recovery loops", "condenser water systems", "WLHP design", "ground coupled heat pumps"]
+tags: ["water source heat pumps", "WSHP systems", "water loop heat pumps", "simultaneous heating cooling", "heat recovery loops", "condenser water systems", "WLHP design", "ground coupled heat pumps"]
 weight: 3
 ---
 

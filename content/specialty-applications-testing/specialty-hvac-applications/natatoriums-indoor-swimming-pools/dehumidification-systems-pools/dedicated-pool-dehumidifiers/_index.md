@@ -1,7 +1,9 @@
 ---
 title: "Dedicated Pool Dehumidifiers: Design & Selection"
+aliases: ["Dedicated Pool Dehumidifiers: Design & Selection"]
 description: "Engineering guide to dedicated pool dehumidification units covering refrigerant-based moisture removal, heat recovery systems, reheat options, and capacity sizing per ASHRAE standards."
 keywords: ["pool dehumidifier", "natatorium HVAC", "heat recovery dehumidifier", "pool water heating", "moisture removal capacity", "refrigerant dehumidification", "indoor pool climate control", "ASHRAE pool design"]
+tags: ["pool dehumidifier", "natatorium HVAC", "heat recovery dehumidifier", "pool water heating", "moisture removal capacity", "refrigerant dehumidification", "indoor pool climate control", "ASHRAE pool design"]
 weight: 1
 ---
 

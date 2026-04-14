@@ -1,7 +1,9 @@
 ---
 title: "Boilers for Snow Melting Systems"
+aliases: ["Boilers for Snow Melting Systems"]
 description: "Comprehensive guide to boiler selection, sizing, and design for hydronic snow melting applications with capacity calculations and efficiency considerations."
 keywords: ["snow melting boiler", "hydronic boiler sizing", "condensing boiler snow melt", "modulating burner", "boiler capacity calculation", "snow melt heat source", "glycol boiler", "boiler plant design"]
+tags: ["snow melting boiler", "hydronic boiler sizing", "condensing boiler snow melt", "modulating burner", "boiler capacity calculation", "snow melt heat source", "glycol boiler", "boiler plant design"]
 weight: 1
 ---
 

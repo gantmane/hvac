@@ -1,8 +1,10 @@
 ---
 title: "Kitchen Adjacency Challenges in Ballroom HVAC"
+aliases: ["Kitchen Adjacency Challenges in Ballroom HVAC"]
 weight: 3
 description: "Engineering pressure relationships, odor migration prevention, and makeup air coordination for commercial kitchens adjacent to ballroom spaces with grease exhaust integration."
 keywords: ["kitchen makeup air", "odor migration control", "pressure cascade design", "grease exhaust routing", "staging area ventilation", "commercial kitchen HVAC", "ballroom air quality", "kitchen-ballroom interface"]
+tags: ["kitchen makeup air", "odor migration control", "pressure cascade design", "grease exhaust routing", "staging area ventilation", "commercial kitchen HVAC", "ballroom air quality", "kitchen-ballroom interface"]
 ---
 
 Commercial kitchens adjacent to ballrooms present critical HVAC challenges requiring precise pressure control, makeup air coordination, and contamination prevention. The physical proximity of high-temperature cooking operations to climate-controlled dining spaces demands engineered solutions that address mass flow balance, differential pressure maintenance, and thermal load management.
@@ -157,6 +159,6 @@ ASHRAE Standard 90.1 Section 6.5.7.2 requires kitchen exhaust systems exceeding 
 ---
 
 **Related Topics:**
-- [Simultaneous Load Management](/specialty-applications-testing/specialty-hvac-applications/specialized-venue-requirements/ballrooms-banquet/simultaneous-load/)
-- [Service Corridor Integration](/specialty-applications-testing/specialty-hvac-applications/specialized-venue-requirements/ballrooms-banquet/service-corridor/)
-- [Grease Exhaust System Design](/commercial-kitchen-hvac/grease-exhaust-systems/)
+- Simultaneous Load Management
+- Service Corridor Integration
+- Grease Exhaust System Design

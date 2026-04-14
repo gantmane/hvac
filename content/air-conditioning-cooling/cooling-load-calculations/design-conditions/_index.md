@@ -1,7 +1,9 @@
 ---
 title: "Design Conditions"
+aliases: ["Design Conditions"]
 description: "Selection of outdoor and indoor design conditions for HVAC cooling load calculations including weather data, temperature, humidity, and solar radiation."
 keywords: ["design conditions", "outdoor design temperature", "indoor conditions", "weather data", "ASHRAE climatic data", "cooling design"]
+tags: ["design conditions", "outdoor design temperature", "indoor conditions", "weather data", "ASHRAE climatic data", "cooling design"]
 weight: 1
 ---
 

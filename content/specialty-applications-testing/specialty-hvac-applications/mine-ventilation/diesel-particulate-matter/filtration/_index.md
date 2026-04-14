@@ -1,8 +1,10 @@
 ---
 title: "DPM Filtration Systems"
+aliases: ["DPM Filtration Systems"]
 weight: 3
 description: "Technical analysis of diesel particulate matter filtration in underground mines, covering DPF technology, regeneration thermodynamics, filter efficiency, and operator cabin protection per MSHA standards."
 keywords: ["diesel particulate filter", "DPF regeneration", "mine cabin filtration", "filter efficiency", "MSHA DPM regulations", "catalyzed DPF", "passive regeneration", "active regeneration"]
+tags: ["diesel particulate filter", "DPF regeneration", "mine cabin filtration", "filter efficiency", "MSHA DPM regulations", "catalyzed DPF", "passive regeneration", "active regeneration"]
 ---
 
 Diesel particulate matter filtration represents the most direct engineering control for reducing worker exposure to respirable combustion products in underground mining environments. Filtration systems employ two distinct strategies: source control through exhaust-mounted diesel particulate filters (DPF) on mobile equipment, and point-of-exposure control through environmental cabin filtration systems.

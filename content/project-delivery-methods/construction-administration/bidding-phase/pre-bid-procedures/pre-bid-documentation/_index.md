@@ -1,5 +1,6 @@
 ---
 title: "Pre Bid Documentation"
+aliases: ["Pre Bid Documentation"]
 weight: 3
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Beef Cattle Housing"
+aliases: ["Beef Cattle Housing"]
 description: "Environmental control design for beef cattle housing systems including feedlot facilities, backgrounding barns, confinement housing, and calf facilities with emphasis on ventilation strategies and thermal management."
 weight: 4
 ---

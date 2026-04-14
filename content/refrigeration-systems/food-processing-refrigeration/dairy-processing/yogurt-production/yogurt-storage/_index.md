@@ -1,5 +1,6 @@
 ---
 title: "Yogurt Storage Refrigeration Systems"
+aliases: ["Yogurt Storage Refrigeration Systems"]
 description: "Technical requirements for yogurt cold storage including temperature control, humidity management, refrigeration system design, and storage life optimization for cultured dairy products"
 weight: 2
 ---

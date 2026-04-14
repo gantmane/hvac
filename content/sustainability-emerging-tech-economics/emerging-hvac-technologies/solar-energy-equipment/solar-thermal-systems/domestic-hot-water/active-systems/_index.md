@@ -1,5 +1,6 @@
 ---
 title: "Active Solar DHW Systems"
+aliases: ["Active Solar DHW Systems"]
 description: "Engineering principles, system configurations, performance calculations, and design criteria for active solar domestic hot water systems with pumps and controls."
 date: 2025-01-05
 weight: 1

@@ -1,7 +1,9 @@
 ---
 title: "HVAC for Intermittent Occupancy in Houses of Worship"
+aliases: ["HVAC for Intermittent Occupancy in Houses of Worship"]
 description: "Engineering strategies for HVAC systems serving intermittent worship occupancy including recovery calculations, setback optimization, and demand-controlled ventilation."
 keywords: ["intermittent occupancy HVAC", "worship space conditioning", "thermal recovery calculation", "optimal start algorithm", "demand controlled ventilation", "setback energy savings", "thermal mass utilization", "pre-conditioning strategy"]
+tags: ["intermittent occupancy HVAC", "worship space conditioning", "thermal recovery calculation", "optimal start algorithm", "demand controlled ventilation", "setback energy savings", "thermal mass utilization", "pre-conditioning strategy"]
 weight: 5
 ---
 

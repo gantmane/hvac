@@ -1,5 +1,6 @@
 ---
 title: "Piping Materials"
+aliases: ["Piping Materials"]
 weight: 1
 ---
 

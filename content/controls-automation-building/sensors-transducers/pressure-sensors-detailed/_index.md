@@ -1,7 +1,9 @@
 ---
 title: "Pressure Sensors and Transducers for HVAC Systems"
+aliases: ["Pressure Sensors and Transducers for HVAC Systems"]
 description: "Comprehensive guide to HVAC pressure sensors covering piezoresistive and capacitive technologies, differential pressure measurement, sensor ranges, and ASHRAE standards."
 keywords: ["pressure sensors", "differential pressure", "piezoresistive sensors", "capacitive sensors", "static pressure", "velocity pressure", "HVAC controls", "pressure transducers"]
+tags: ["pressure sensors", "differential pressure", "piezoresistive sensors", "capacitive sensors", "static pressure", "velocity pressure", "HVAC controls", "pressure transducers"]
 weight: 2
 ---
 

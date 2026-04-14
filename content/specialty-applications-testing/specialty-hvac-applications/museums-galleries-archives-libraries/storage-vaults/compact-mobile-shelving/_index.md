@@ -1,7 +1,9 @@
 ---
 title: "HVAC for Compact Mobile Shelving Systems"
+aliases: ["HVAC for Compact Mobile Shelving Systems"]
 description: "Engineering guidance for HVAC design in compact mobile shelving environments including airflow strategies, ventilation requirements, and air distribution solutions."
 keywords: ["compact shelving HVAC", "mobile shelving ventilation", "archive storage airflow", "aisle ventilation design", "perforated shelving systems", "static shelving air circulation", "collection storage climate control", "high-density storage HVAC"]
+tags: ["compact shelving HVAC", "mobile shelving ventilation", "archive storage airflow", "aisle ventilation design", "perforated shelving systems", "static shelving air circulation", "collection storage climate control", "high-density storage HVAC"]
 weight: 1
 ---
 

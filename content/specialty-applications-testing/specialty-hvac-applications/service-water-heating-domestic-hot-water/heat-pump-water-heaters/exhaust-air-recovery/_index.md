@@ -1,8 +1,10 @@
 ---
 title: "Exhaust Air Recovery Heat Pump Water Heaters"
+aliases: ["Exhaust Air Recovery Heat Pump Water Heaters"]
 weight: 5
 description: "Technical guide to exhaust air recovery HPWHs that extract heat from building exhaust streams. Covers exhaust source selection, heat recovery calculations, condensation control, and duct design requirements."
 keywords: ["exhaust air HPWH", "heat recovery water heating", "building exhaust heat", "ventilation air heat pump", "bathroom exhaust recovery", "HPWH ducting", "exhaust condensation control", "integrated ventilation"]
+tags: ["exhaust air HPWH", "heat recovery water heating", "building exhaust heat", "ventilation air heat pump", "bathroom exhaust recovery", "HPWH ducting", "exhaust condensation control", "integrated ventilation"]
 ---
 
 Exhaust air recovery heat pump water heaters extract thermal energy from building exhaust streams before venting them outdoors. This configuration provides consistent heat source availability while simultaneously handling required ventilation loads. The technology effectively converts a building's ventilation penalty into a water heating asset.
@@ -178,4 +180,4 @@ The exhaust air recovery configuration transforms a required building system (me
 
 ---
 
-**Related Topics**: [Heat Pump Water Heater Fundamentals](../../), [Ducted Configurations](../ducted-configurations/), [Energy Recovery Ventilation](/energy-recovery/), [Commercial Service Water Heating](../../../commercial-applications/)
+**Related Topics**: [Heat Pump Water Heater Fundamentals](../../), [Ducted Configurations](../ducted-configurations/), Energy Recovery Ventilation, [Commercial Service Water Heating](../../../commercial-applications/)

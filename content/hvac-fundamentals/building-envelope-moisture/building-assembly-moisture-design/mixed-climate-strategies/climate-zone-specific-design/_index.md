@@ -1,5 +1,6 @@
 ---
 title: "Climate Zone Specific Design"
+aliases: ["Climate Zone Specific Design"]
 weight: 3
 ---
 

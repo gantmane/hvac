@@ -1,5 +1,6 @@
 ---
 title: "Payment Administration"
+aliases: ["Payment Administration"]
 weight: 7
 ---
 

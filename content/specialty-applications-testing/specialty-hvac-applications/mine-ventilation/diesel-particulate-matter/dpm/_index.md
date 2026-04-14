@@ -1,7 +1,9 @@
 ---
 title: "Diesel Particulate Matter in Underground Mines"
+aliases: ["Diesel Particulate Matter in Underground Mines"]
 description: "Technical analysis of diesel particulate matter composition, particle size distribution, generation mechanisms, and NIOSH 5040 measurement methods for mine ventilation."
 keywords: ["diesel particulate matter", "DPM underground mines", "elemental carbon", "NIOSH 5040", "respirable fraction", "mine air quality", "MSHA regulations", "DPM monitoring"]
+tags: ["diesel particulate matter", "DPM underground mines", "elemental carbon", "NIOSH 5040", "respirable fraction", "mine air quality", "MSHA regulations", "DPM monitoring"]
 weight: 1
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Exhaust Air Heat Recovery for Natatoriums"
+aliases: ["Exhaust Air Heat Recovery for Natatoriums"]
 description: "Comprehensive guide to air-to-air heat recovery in indoor pool HVAC systems covering effectiveness calculations, exchanger types, corrosion protection, and energy optimization."
 keywords: ["natatorium heat recovery", "pool HVAC energy recovery", "heat exchanger corrosion", "enthalpy wheel", "sensible heat recovery", "frost protection", "pool dehumidification", "ASHRAE natatorium"]
+tags: ["natatorium heat recovery", "pool HVAC energy recovery", "heat exchanger corrosion", "enthalpy wheel", "sensible heat recovery", "frost protection", "pool dehumidification", "ASHRAE natatorium"]
 weight: 2
 ---
 

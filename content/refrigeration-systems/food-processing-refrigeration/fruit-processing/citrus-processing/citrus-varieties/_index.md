@@ -1,5 +1,6 @@
 ---
 title: "Citrus Varieties Storage Requirements"
+aliases: ["Citrus Varieties Storage Requirements"]
 description: "Technical refrigeration parameters for orange, grapefruit, mandarin, lemon, lime, and specialty citrus varieties including temperature, humidity, chilling injury thresholds, and storage duration specifications"
 weight: 1
 ---

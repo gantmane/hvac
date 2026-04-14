@@ -1,5 +1,6 @@
 ---
 title: "Condensate Drainage"
+aliases: ["Condensate Drainage"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Pathogen Control"
+aliases: ["Pathogen Control"]
 description: "Pathogen control strategies in refrigeration systems including temperature control, time-temperature limits, HACCP principles, critical control points, hurdle technology, and foodborne illness prevention for major pathogens including Listeria, Salmonella, and E. coli"
 weight: 7
 ---

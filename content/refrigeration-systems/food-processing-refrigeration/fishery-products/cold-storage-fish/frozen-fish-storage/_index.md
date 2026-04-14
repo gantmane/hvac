@@ -1,5 +1,6 @@
 ---
 title: "Frozen Fish Storage"
+aliases: ["Frozen Fish Storage"]
 description: "Technical requirements for frozen fish storage refrigeration systems including temperature control, storage life determination, defrost management, and ASHRAE-compliant design parameters for commercial fishery cold storage facilities"
 weight: 1
 ---

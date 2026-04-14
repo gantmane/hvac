@@ -1,5 +1,6 @@
 ---
 title: "Proposal Submission"
+aliases: ["Proposal Submission"]
 weight: 3
 ---
 

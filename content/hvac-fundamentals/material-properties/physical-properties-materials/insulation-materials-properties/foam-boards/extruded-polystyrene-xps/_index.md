@@ -1,5 +1,6 @@
 ---
 title: "Extruded Polystyrene Xps"
+aliases: ["Extruded Polystyrene Xps"]
 weight: 2
 ---
 

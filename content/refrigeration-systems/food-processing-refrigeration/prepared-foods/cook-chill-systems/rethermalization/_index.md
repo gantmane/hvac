@@ -1,5 +1,6 @@
 ---
 title: "Rethermalization"
+aliases: ["Rethermalization"]
 description: "HVAC design for cook-chill rethermalization operations including reheating cabinet environmental control, ventilation for steam and heat loads, satellite kitchen design, and temperature requirements for food safety compliance."
 weight: 4
 ---

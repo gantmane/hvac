@@ -1,7 +1,9 @@
 ---
 title: "Heat Pump Systems for Electric Vehicles"
+aliases: ["Heat Pump Systems for Electric Vehicles"]
 description: "Technical analysis of EV heat pump systems including reversible refrigerant cycles, CO2 systems, waste heat recovery, cold weather COP, and efficiency vs PTC heaters."
 keywords: ["EV heat pump", "R-744 heat pump", "CO2 refrigerant", "reversible cycle HVAC", "electric vehicle heating", "heat pump COP", "waste heat recovery", "PTC heater comparison"]
+tags: ["EV heat pump", "R-744 heat pump", "CO2 refrigerant", "reversible cycle HVAC", "electric vehicle heating", "heat pump COP", "waste heat recovery", "PTC heater comparison"]
 weight: 1
 ---
 

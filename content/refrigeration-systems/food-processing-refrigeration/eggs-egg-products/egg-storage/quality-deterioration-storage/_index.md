@@ -1,5 +1,6 @@
 ---
 title: "Quality Deterioration During Storage"
+aliases: ["Quality Deterioration During Storage"]
 description: "Technical analysis of egg quality deterioration mechanisms during refrigerated storage, including Haugh unit decline, albumen quality loss, moisture migration, CO2 depletion, and temperature-dependent deterioration kinetics for HVAC system design and control"
 weight: 4
 ---

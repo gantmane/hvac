@@ -1,7 +1,9 @@
 ---
 title: "Card Key Integration for Hotel HVAC Energy Control"
+aliases: ["Card Key Integration for Hotel HVAC Energy Control"]
 description: "Card key HVAC integration controls temperature setbacks when rooms are unoccupied, reducing energy consumption by 20-40% while maintaining guest comfort upon return."
 keywords: ["card key HVAC control", "hotel energy management", "occupancy-based setback", "property management system integration", "room automation", "guest comfort control", "hotel energy savings", "key card switch"]
+tags: ["card key HVAC control", "hotel energy management", "occupancy-based setback", "property management system integration", "room automation", "guest comfort control", "hotel energy savings", "key card switch"]
 weight: 1
 ---
 

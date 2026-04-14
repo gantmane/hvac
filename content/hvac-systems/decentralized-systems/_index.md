@@ -1,7 +1,9 @@
 ---
 title: "Decentralized HVAC Systems Design and Applications"
+aliases: ["Decentralized HVAC Systems Design and Applications"]
 description: "Technical guide to decentralized HVAC systems including VRF, mini-splits, PTACs, and water-source heat pumps with performance analysis, control strategies, and comparisons to centralized systems."
 keywords: "decentralized HVAC systems, VRF systems, mini-split heat pumps, PTAC units, water-source heat pumps, ductless systems, zone control HVAC, distributed HVAC design"
+tags: ["decentralized HVAC systems", "VRF systems", "mini-split heat pumps", "PTAC units", "water-source heat pumps", "ductless systems", "zone control HVAC", "distributed HVAC design"]
 weight: 10
 ---
 

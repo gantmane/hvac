@@ -1,10 +1,12 @@
 ---
 title: "Slaughterhouse Refrigeration Systems"
+aliases: ["Slaughterhouse Refrigeration Systems"]
 linkTitle: "Slaughterhouse Refrigeration"
 description: "Comprehensive technical analysis of slaughterhouse refrigeration including hot carcass receiving, rapid chilling protocols, sanitation requirements, and temperature documentation."
 weight: 1
 date: 2026-01-11
 keywords: ["slaughterhouse refrigeration", "hot carcass chilling", "meat processing HVAC", "USDA temperature requirements", "carcass cooling", "blast chilling meat", "meat processing sanitation", "HACCP temperature control"]
+tags: ["slaughterhouse refrigeration", "hot carcass chilling", "meat processing HVAC", "USDA temperature requirements", "carcass cooling", "blast chilling meat", "meat processing sanitation", "HACCP temperature control"]
 ---
 
 ## Overview

@@ -1,5 +1,6 @@
 ---
 title: "Design Process Workflow"
+aliases: ["Design Process Workflow"]
 description: "Comprehensive guide to HVAC design process workflow including phase deliverables, coordination protocols, milestone submissions, and quality control procedures for mechanical system design projects."
 weight: 5
 ---

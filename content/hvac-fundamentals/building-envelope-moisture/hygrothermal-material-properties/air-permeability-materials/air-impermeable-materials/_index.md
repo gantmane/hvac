@@ -1,5 +1,6 @@
 ---
 title: "Air Impermeable Materials"
+aliases: ["Air Impermeable Materials"]
 description: "Technical analysis of air impermeable materials for building envelope air barriers, including permeability characteristics, material specifications, installation requirements, and hygrothermal performance criteria for HVAC system integration"
 weight: 2
 ---

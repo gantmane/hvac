@@ -1,5 +1,6 @@
 ---
 title: "Safety Requirements for In-Space Heating"
+aliases: ["Safety Requirements for In-Space Heating"]
 description: "Comprehensive safety requirements for residential space heaters including clearances, code compliance, carbon monoxide detection, and ANSI/NFPA standards."
 date: "2026-01-04"
 weight: 7

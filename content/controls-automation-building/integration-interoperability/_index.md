@@ -1,7 +1,9 @@
 ---
 title: "HVAC System Integration and Protocol Interoperability"
+aliases: ["HVAC System Integration and Protocol Interoperability"]
 description: "Comprehensive guide to BACnet, LonWorks, and Modbus integration for building automation systems. Protocol gateways, drivers, and API integration strategies."
 keywords: ["BACnet integration", "Modbus protocol", "LonWorks", "building automation protocols", "protocol gateways", "ASHRAE 135", "HVAC interoperability", "API integration"]
+tags: ["BACnet integration", "Modbus protocol", "LonWorks", "building automation protocols", "protocol gateways", "ASHRAE 135", "HVAC interoperability", "API integration"]
 weight: 8
 ---
 

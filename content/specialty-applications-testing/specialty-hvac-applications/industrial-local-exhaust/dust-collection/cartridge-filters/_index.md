@@ -1,7 +1,9 @@
 ---
 title: "Cartridge Filter Dust Collectors"
+aliases: ["Cartridge Filter Dust Collectors"]
 description: "Cartridge filter dust collection systems using pleated media for efficient particulate capture. Covers filter construction, pulse-jet cleaning, sizing calculations."
 keywords: ["cartridge filters", "dust collection", "pleated media", "pulse jet cleaning", "air-to-media ratio", "industrial filtration", "particulate capture", "filter replacement"]
+tags: ["cartridge filters", "dust collection", "pleated media", "pulse jet cleaning", "air-to-media ratio", "industrial filtration", "particulate capture", "filter replacement"]
 date: 2025-01-11
 draft: false
 weight: 3

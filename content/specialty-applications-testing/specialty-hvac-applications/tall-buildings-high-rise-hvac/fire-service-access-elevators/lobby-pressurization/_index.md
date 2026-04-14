@@ -1,10 +1,12 @@
 ---
 title: "Fire Service Elevator Lobby Pressurization"
+aliases: ["Fire Service Elevator Lobby Pressurization"]
 linkTitle: "Lobby Pressurization"
 date: 2026-01-11
 weight: 1
 description: "Technical analysis of fire service elevator lobby pressurization systems, air supply calculations, pressure maintenance strategies, and vestibule design for firefighter access protection per IBC and NFPA 92."
 keywords: ["elevator lobby pressurization", "fire service elevator", "smoke control", "vestibule design", "NFPA 92", "IBC 3007", "door opening force", "pressure differential"]
+tags: ["elevator lobby pressurization", "fire service elevator", "smoke control", "vestibule design", "NFPA 92", "IBC 3007", "door opening force", "pressure differential"]
 ---
 
 ## Physical Principles of Lobby Pressurization

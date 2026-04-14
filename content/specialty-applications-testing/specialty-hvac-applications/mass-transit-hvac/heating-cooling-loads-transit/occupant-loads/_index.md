@@ -1,5 +1,6 @@
 ---
 title: "Passenger Occupant Loads in Transit HVAC Systems"
+aliases: ["Passenger Occupant Loads in Transit HVAC Systems"]
 description: "Technical analysis of heat and moisture gains from passengers in mass transit vehicles including metabolic heat generation, activity variations, and occupancy patterns."
 keywords:
   - passenger heat gain

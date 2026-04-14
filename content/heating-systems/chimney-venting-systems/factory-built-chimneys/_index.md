@@ -1,5 +1,6 @@
 ---
 title: "Factory-Built Chimneys"
+aliases: ["Factory-Built Chimneys"]
 description: "Technical guide to factory-built metal chimney systems including Class A all-fuel chimneys, HT high-temperature chimneys, UL 103 listings, installation clearances, and structural support requirements."
 weight: 2
 ---

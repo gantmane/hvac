@@ -1,7 +1,9 @@
 ---
 title: "Integral Control in HVAC: Reset Action & Windup"
+aliases: ["Integral Control in HVAC: Reset Action & Windup"]
 description: "Master integral control action in HVAC systems with detailed coverage of reset time, integral gain, windup prevention strategies, and anti-windup techniques for stable temperature control."
 keywords: ["integral control", "reset action", "integral windup", "anti-windup", "reset time", "integral gain", "offset elimination", "PID tuning"]
+tags: ["integral control", "reset action", "integral windup", "anti-windup", "reset time", "integral gain", "offset elimination", "PID tuning"]
 weight: 2
 ---
 

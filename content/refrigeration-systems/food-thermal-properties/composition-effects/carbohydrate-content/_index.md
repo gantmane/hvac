@@ -1,5 +1,6 @@
 ---
 title: "Carbohydrate Content"
+aliases: ["Carbohydrate Content"]
 weight: 3
 ---
 

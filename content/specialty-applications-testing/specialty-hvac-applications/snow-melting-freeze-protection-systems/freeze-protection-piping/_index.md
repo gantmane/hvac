@@ -1,5 +1,6 @@
 ---
 title: "Freeze Protection for Piping Systems"
+aliases: ["Freeze Protection for Piping Systems"]
 description: "Engineering guide for pipe freeze protection including heat trace cable sizing, glycol solutions, circulation systems, and insulation requirements per IPC and UPC standards."
 keywords: ["pipe freeze protection", "heat trace cables", "heat trace sizing", "glycol solutions", "pipe insulation", "freeze prevention", "electric heat tracing", "self-regulating heat cable", "propylene glycol concentration", "circulation systems", "drain-down systems", "frost protection"]
 tags: ["Freeze Protection", "Heat Trace", "Glycol Systems", "Plumbing", "IPC", "UPC", "Pipe Insulation"]

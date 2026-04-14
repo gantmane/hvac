@@ -1,7 +1,9 @@
 ---
 title: "Distributed HVAC Systems Per Floor in High-Rises"
+aliases: ["Distributed HVAC Systems Per Floor in High-Rises"]
 description: "Engineering analysis of floor-by-floor HVAC systems including water-source heat pumps, VRF units, packaged equipment, energy transport, and tenant flexibility benefits."
 keywords: ["distributed HVAC systems", "floor-by-floor HVAC", "water-source heat pumps", "VRF high-rise", "tenant HVAC control", "HVAC redundancy", "high-rise equipment rooms", "decentralized cooling"]
+tags: ["distributed HVAC systems", "floor-by-floor HVAC", "water-source heat pumps", "VRF high-rise", "tenant HVAC control", "HVAC redundancy", "high-rise equipment rooms", "decentralized cooling"]
 weight: 3
 ---
 

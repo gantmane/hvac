@@ -1,7 +1,9 @@
 ---
 title: "OSHA 10-Hour Construction Safety Training for HVAC Technicians"
+aliases: ["OSHA 10-Hour Construction Safety Training for HVAC Technicians"]
 description: "Comprehensive OSHA 10-Hour Construction course covering fall protection, electrical safety, confined spaces, and HVAC-specific hazards. Required certification for construction site work."
 keywords: ["OSHA 10-Hour Construction", "HVAC safety training", "construction safety certification", "fall protection HVAC", "electrical safety training", "confined space entry", "rooftop safety", "OSHA standards", "construction hazards"]
+tags: ["OSHA 10-Hour Construction", "HVAC safety training", "construction safety certification", "fall protection HVAC", "electrical safety training", "confined space entry", "rooftop safety", "OSHA standards", "construction hazards"]
 weight: 1
 ---
 

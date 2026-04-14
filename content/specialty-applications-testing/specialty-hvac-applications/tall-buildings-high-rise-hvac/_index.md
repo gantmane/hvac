@@ -1,7 +1,9 @@
 ---
 title: "High-Rise HVAC Systems: Engineering Vertical Climate"
+aliases: ["High-Rise HVAC Systems: Engineering Vertical Climate"]
 description: "Engineering solutions for HVAC in tall buildings: stack effect mitigation, vertical zoning strategies, wind pressures, smoke control systems, and central vs distributed equipment."
 keywords: ["high-rise HVAC", "stack effect", "vertical zoning", "tall building pressurization", "smoke control systems", "central plant design", "wind effects HVAC", "elevator shaft pressurization"]
+tags: ["high-rise HVAC", "stack effect", "vertical zoning", "tall building pressurization", "smoke control systems", "central plant design", "wind effects HVAC", "elevator shaft pressurization"]
 weight: 16
 ---
 

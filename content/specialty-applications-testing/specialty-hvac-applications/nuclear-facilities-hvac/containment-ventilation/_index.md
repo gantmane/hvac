@@ -1,5 +1,6 @@
 ---
 title: "Nuclear Containment Ventilation Systems"
+aliases: ["Nuclear Containment Ventilation Systems"]
 description: "Technical guide to nuclear reactor containment HVAC systems covering normal operation, accident conditions, pressure control, isolation dampers, and filtered exhaust per NRC regulations."
 keywords:
   - nuclear containment ventilation

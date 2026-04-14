@@ -1,5 +1,6 @@
 ---
 title: "Safety Valves in Aircraft Cabin Pressurization"
+aliases: ["Safety Valves in Aircraft Cabin Pressurization"]
 date: "2025-01-05"
 description: "Technical analysis of aircraft cabin pressurization safety valves, covering pressure relief mechanisms, fail-safe design, differential pressure limits, and emergency depressurization systems."
 tags: ["aircraft pressurization", "safety valves", "pressure relief", "aviation HVAC", "fail-safe systems", "differential pressure"]

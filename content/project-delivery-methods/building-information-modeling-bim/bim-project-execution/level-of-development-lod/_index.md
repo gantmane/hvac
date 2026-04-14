@@ -1,5 +1,6 @@
 ---
 title: "Level Of Development Lod"
+aliases: ["Level Of Development Lod"]
 weight: 1
 ---
 

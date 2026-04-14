@@ -1,7 +1,9 @@
 ---
 title: "Climate Factors in Snow Melting System Design"
+aliases: ["Climate Factors in Snow Melting System Design"]
 description: "Climate parameters affecting heat flux requirements including ambient temperature, wind speed, humidity, snowfall rate, and geographic design data for snow melting systems."
 keywords: ["climate factors", "ambient temperature", "wind speed", "relative humidity", "snowfall rate", "geographic design data", "ASHRAE climate zones", "heat flux calculation"]
+tags: ["climate factors", "ambient temperature", "wind speed", "relative humidity", "snowfall rate", "geographic design data", "ASHRAE climate zones", "heat flux calculation"]
 date: 2026-01-11
 weight: 4
 ---

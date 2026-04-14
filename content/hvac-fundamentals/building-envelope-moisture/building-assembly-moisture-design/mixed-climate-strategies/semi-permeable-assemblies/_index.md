@@ -1,5 +1,6 @@
 ---
 title: "Semi Permeable Assemblies"
+aliases: ["Semi Permeable Assemblies"]
 weight: 1
 ---
 

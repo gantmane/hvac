@@ -1,7 +1,9 @@
 ---
 title: "Grease Removal Systems for Hotel Kitchen Exhaust"
+aliases: ["Grease Removal Systems for Hotel Kitchen Exhaust"]
 description: "Engineering analysis of baffle filters, UV and ESP systems, grease duct cleaning protocols, NFPA 96 compliance, rooftop discharge design, and maintenance schedules."
 keywords: ["grease removal", "baffle filters", "UV systems", "ESP grease extractors", "NFPA 96", "grease duct cleaning", "kitchen exhaust", "hotel kitchens"]
+tags: ["grease removal", "baffle filters", "UV systems", "ESP grease extractors", "NFPA 96", "grease duct cleaning", "kitchen exhaust", "hotel kitchens"]
 date: 2026-01-11
 draft: false
 weight: 3

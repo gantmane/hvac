@@ -1,5 +1,6 @@
 ---
 title: "Kitchen Exhaust Systems for School Cafeterias"
+aliases: ["Kitchen Exhaust Systems for School Cafeterias"]
 description: "Technical design of Type I and Type II kitchen exhaust hoods for school cafeterias, including hood sizing, makeup air requirements, and energy recovery strategies."
 date: 2025-01-05
 keywords:

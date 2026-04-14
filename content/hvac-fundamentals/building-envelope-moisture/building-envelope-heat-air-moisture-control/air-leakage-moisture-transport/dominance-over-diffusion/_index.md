@@ -1,5 +1,6 @@
 ---
 title: "Dominance Over Diffusion"
+aliases: ["Dominance Over Diffusion"]
 description: "Quantitative analysis of air leakage moisture transport dominance over vapor diffusion in building envelopes, including transport mechanisms, comparative calculations, and design implications for moisture control"
 weight: 1
 ---

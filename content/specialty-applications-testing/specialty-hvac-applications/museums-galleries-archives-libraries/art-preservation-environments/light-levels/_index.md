@@ -1,7 +1,9 @@
 ---
 title: "Light Levels for Art Preservation Environments"
+aliases: ["Light Levels for Art Preservation Environments"]
 description: "Technical guide to museum lighting standards, lux limits for sensitive materials, UV exposure calculations, and HVAC coordination for art preservation and archival environments."
 keywords: ["museum lighting standards", "lux limits art preservation", "UV filtration requirements", "photochemical degradation", "light sensitive materials", "exposure hours calculation", "museum HVAC coordination", "archival lighting"]
+tags: ["museum lighting standards", "lux limits art preservation", "UV filtration requirements", "photochemical degradation", "light sensitive materials", "exposure hours calculation", "museum HVAC coordination", "archival lighting"]
 weight: 3
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Flexible Zoning for Convention Centers"
+aliases: ["Flexible Zoning for Convention Centers"]
 description: "Engineering flexible HVAC zoning systems for convention centers with movable partitions, VAV mapping coordination, simultaneous heating/cooling capabilities, and rapid reconfiguration."
 keywords: ["convention center zoning", "movable partition HVAC", "VAV zone mapping", "flexible zone control", "simultaneous heating cooling", "zone damper coordination", "HVAC reconfiguration", "dynamic zoning"]
+tags: ["convention center zoning", "movable partition HVAC", "VAV zone mapping", "flexible zone control", "simultaneous heating cooling", "zone damper coordination", "HVAC reconfiguration", "dynamic zoning"]
 weight: 5
 ---
 

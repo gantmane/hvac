@@ -1,5 +1,6 @@
 ---
 title: "Transpiration Coefficients"
+aliases: ["Transpiration Coefficients"]
 weight: 7
 ---
 

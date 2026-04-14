@@ -1,7 +1,9 @@
 ---
 title: "Heat Stress in Deep Mines: Extreme Depth Challenges"
+aliases: ["Heat Stress in Deep Mines: Extreme Depth Challenges"]
 description: "Technical analysis of heat stress management in ultra-deep mines beyond 3000m. Covers geothermal gradients, WBGT calculations, work-rest protocols, and cooling systems."
 keywords: ["deep mine heat stress", "geothermal gradient mining", "WBGT calculations", "mine cooling systems", "wet-bulb temperature limits", "personal cooling equipment", "acclimatization protocols", "MSHA heat stress"]
+tags: ["deep mine heat stress", "geothermal gradient mining", "WBGT calculations", "mine cooling systems", "wet-bulb temperature limits", "personal cooling equipment", "acclimatization protocols", "MSHA heat stress"]
 weight: 1
 ---
 

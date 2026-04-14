@@ -1,7 +1,9 @@
 ---
 title: "Solar Heat Gain in Assembly Spaces: HVAC Design"
+aliases: ["Solar Heat Gain in Assembly Spaces: HVAC Design"]
 description: "Engineering analysis of solar loads through glazing, skylights, and atrium spaces in high-occupancy assembly buildings with SHGC tables and control strategies."
 keywords: ["solar heat gain coefficient", "assembly space glazing", "skylight cooling loads", "atrium HVAC design", "solar control strategies", "SHGC tables", "solar load calculations", "high-occupancy HVAC"]
+tags: ["solar heat gain coefficient", "assembly space glazing", "skylight cooling loads", "atrium HVAC design", "solar control strategies", "SHGC tables", "solar load calculations", "high-occupancy HVAC"]
 weight: 4
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Temperature Control for Engine Test Combustion Air"
+aliases: ["Temperature Control for Engine Test Combustion Air"]
 description: "Temperature conditioning systems for engine test facilities maintaining SAE/ISO standard conditions through precision heating and cooling to ensure repeatable test results."
 keywords: ["engine test temperature control", "combustion air conditioning", "SAE J1349 standards", "test cell HVAC", "air temperature stability", "engine dynamometer HVAC", "ISO 1585 compliance", "precision air conditioning"]
+tags: ["engine test temperature control", "combustion air conditioning", "SAE J1349 standards", "test cell HVAC", "air temperature stability", "engine dynamometer HVAC", "ISO 1585 compliance", "precision air conditioning"]
 weight: 3
 ---
 
@@ -171,6 +173,6 @@ Temperature control precision directly impacts test result repeatability. Facili
 ---
 
 **Related Topics:**
-- [Humidity Control](/specialty-applications-testing/specialty-hvac-applications/engine-test-facilities/combustion-air-supply/humidity-control/)
-- [Air Filtration Systems](/specialty-applications-testing/specialty-hvac-applications/engine-test-facilities/combustion-air-supply/air-filtration/)
-- [Flow Measurement and Control](/specialty-applications-testing/specialty-hvac-applications/engine-test-facilities/combustion-air-supply/flow-measurement/)
+- Humidity Control
+- Air Filtration Systems
+- Flow Measurement and Control

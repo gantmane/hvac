@@ -1,5 +1,6 @@
 ---
 title: "Refrigerated Facility Design Loads"
+aliases: ["Refrigerated Facility Design Loads"]
 description: "Comprehensive refrigeration load calculation methodology for cold storage facilities including transmission loads, infiltration, product loads, equipment heat gains, safety factors, and system sizing criteria per ASHRAE standards"
 weight: 14
 ---

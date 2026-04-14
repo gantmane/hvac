@@ -1,5 +1,6 @@
 ---
 title: "Precooked Foods"
+aliases: ["Precooked Foods"]
 weight: 1
 ---
 

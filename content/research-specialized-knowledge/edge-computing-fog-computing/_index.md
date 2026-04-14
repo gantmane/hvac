@@ -1,5 +1,6 @@
 ---
 title: "Edge Computing Fog Computing"
+aliases: ["Edge Computing Fog Computing"]
 weight: 13
 ---
 

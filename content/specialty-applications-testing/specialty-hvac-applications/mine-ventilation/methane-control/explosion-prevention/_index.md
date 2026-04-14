@@ -1,7 +1,9 @@
 ---
 title: "Explosion Prevention in Mine Ventilation Systems"
+aliases: ["Explosion Prevention in Mine Ventilation Systems"]
 description: "Engineering strategies for methane explosion prevention including LEL control, ignition elimination, explosion-proof equipment, degasification, and barrier systems per MSHA regulations."
 keywords: ["methane explosion prevention", "mine ventilation safety", "LEL control", "degasification", "explosion barriers", "MSHA 30 CFR 75", "ignition source control", "inertization"]
+tags: ["methane explosion prevention", "mine ventilation safety", "LEL control", "degasification", "explosion barriers", "MSHA 30 CFR 75", "ignition source control", "inertization"]
 weight: 4
 ---
 

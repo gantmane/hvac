@@ -1,8 +1,10 @@
 ---
 title: "Tropical Fruit Storage"
+aliases: ["Tropical Fruit Storage"]
 weight: 6
 description: "Technical requirements for tropical fruit cold storage including bananas, mangoes, papayas, and pineapples. Covers chilling injury prevention, ethylene management, and controlled ripening systems."
 keywords: ["tropical fruit storage", "banana ripening room", "chilling injury", "ethylene control", "mango storage", "papaya cold chain", "pineapple refrigeration", "tropical fruit cold chain"]
+tags: ["tropical fruit storage", "banana ripening room", "chilling injury", "ethylene control", "mango storage", "papaya cold chain", "pineapple refrigeration", "tropical fruit cold chain"]
 ---
 
 Tropical fruit refrigeration requires precise temperature control within a narrow window to prevent chilling injury while maintaining quality. Most tropical fruits exhibit high sensitivity to temperatures below 10°C, developing physiological disorders that manifest as surface pitting, internal browning, and accelerated decay. These commodities are predominantly climacteric, producing significant ethylene during ripening, which necessitates sophisticated gas management strategies in storage and distribution.

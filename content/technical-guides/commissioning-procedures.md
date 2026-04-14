@@ -2,6 +2,7 @@
 title: "Commissioning Procedures for HVAC Engineers"
 description: "Functional performance testing, TAB verification, control sequence validation, and commissioning documentation for new and existing HVAC systems."
 keywords: ["commissioning", "Cx", "functional testing", "TAB", "performance verification", "ASHRAE Guideline 0", "ASHRAE Guideline 1.1"]
+tags: ["commissioning", "Cx", "functional testing", "TAB", "performance verification", "ASHRAE Guideline 0", "ASHRAE Guideline 1.1"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 29
@@ -247,9 +248,9 @@ graph TD
 ---
 
 **Related Technical Guides:**
-- [Airflow Measurement & Balancing](/technical-guides/airflow-measurement-balancing/)
-- [HVAC Control Strategies](/technical-guides/hvac-control-strategies/)
-- [Code Compliance Analysis](/technical-guides/code-compliance-analysis/)
+- Airflow Measurement & Balancing
+- HVAC Control Strategies
+- Code Compliance Analysis
 
 **References:**
 - ASHRAE Guideline 0: The Commissioning Process

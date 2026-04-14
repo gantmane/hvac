@@ -1,7 +1,9 @@
 ---
 title: "Two-Stage Evaporative Cooling"
+aliases: ["Two-Stage Evaporative Cooling"]
 description: "Design and performance of two-stage indirect-direct evaporative cooling systems achieving supply temperatures below outdoor wet-bulb."
 keywords: ["two-stage evaporative", "indirect-direct", "hybrid evaporative", "sub-wet-bulb cooling", "IDEC", "evaporative cooling"]
+tags: ["two-stage evaporative", "indirect-direct", "hybrid evaporative", "sub-wet-bulb cooling", "IDEC", "evaporative cooling"]
 weight: 3
 ---
 

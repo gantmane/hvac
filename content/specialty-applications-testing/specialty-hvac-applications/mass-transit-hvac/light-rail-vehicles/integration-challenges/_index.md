@@ -1,5 +1,6 @@
 ---
 title: "LRV HVAC Integration Challenges"
+aliases: ["LRV HVAC Integration Challenges"]
 linkTitle: "Integration Challenges"
 description: "Technical analysis of HVAC integration challenges in light rail vehicles including low-floor design constraints, articulation interfaces, pantograph clearances, and weight distribution."
 keywords:

@@ -1,5 +1,6 @@
 ---
 title: "Conference Center HVAC Systems"
+aliases: ["Conference Center HVAC Systems"]
 description: "Advanced HVAC design for conference centers and ballrooms featuring flexible zoning, variable occupancy strategies, demand-controlled ventilation, and A/V equipment integration for optimal performance."
 date: "2026-01-05"
 weight: 7

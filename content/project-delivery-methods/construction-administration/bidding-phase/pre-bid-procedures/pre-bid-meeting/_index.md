@@ -1,5 +1,6 @@
 ---
 title: "Pre Bid Meeting"
+aliases: ["Pre Bid Meeting"]
 weight: 1
 ---
 

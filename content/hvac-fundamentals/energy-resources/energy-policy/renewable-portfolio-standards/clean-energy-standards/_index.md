@@ -1,7 +1,9 @@
 ---
 title: "Clean Energy Standards: Policy Framework"
+aliases: ["Clean Energy Standards: Policy Framework"]
 description: "Clean Energy Standards expand beyond renewable quotas to include all zero-carbon technologies, enabling technology-neutral pathways to 100% clean electricity goals."
 keywords: ["clean energy standards", "CES policy", "100% clean energy", "technology neutrality", "building electrification", "zero carbon electricity", "state clean energy", "decarbonization targets"]
+tags: ["clean energy standards", "CES policy", "100% clean energy", "technology neutrality", "building electrification", "zero carbon electricity", "state clean energy", "decarbonization targets"]
 weight: 2
 ---
 

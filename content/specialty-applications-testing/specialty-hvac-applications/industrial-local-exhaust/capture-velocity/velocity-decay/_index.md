@@ -1,7 +1,9 @@
 ---
 title: "Velocity Decay in Industrial Exhaust Hood Design"
+aliases: ["Velocity Decay in Industrial Exhaust Hood Design"]
 description: "Principles of velocity decay in industrial local exhaust ventilation, including distance effects, centerline decay rates, and hood placement for effective contaminant capture."
 keywords: ["velocity decay", "capture velocity", "hood design", "exhaust ventilation", "industrial ventilation", "velocity profiles", "hood placement", "local exhaust"]
+tags: ["velocity decay", "capture velocity", "hood design", "exhaust ventilation", "industrial ventilation", "velocity profiles", "hood placement", "local exhaust"]
 weight: 10
 ---
 

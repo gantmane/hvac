@@ -1,5 +1,6 @@
 ---
 title: "Dryer Exhaust Requirements for Printing Plants"
+aliases: ["Dryer Exhaust Requirements for Printing Plants"]
 description: "Engineering design of ink dryer exhaust systems including volume calculations, makeup air balance, fire safety, and VOC control for heat-set and UV printing operations."
 keywords:
   - dryer exhaust design

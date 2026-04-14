@@ -1,5 +1,6 @@
 ---
 title: "Prandtl Number for Air"
+aliases: ["Prandtl Number for Air"]
 description: "Comprehensive analysis of Prandtl number for air including temperature dependence, role in forced and natural convection heat transfer correlations, dimensionless analysis, and HVAC thermal design calculations for ductwork, heat exchangers, and equipment performance evaluation."
 weight: 5
 ---

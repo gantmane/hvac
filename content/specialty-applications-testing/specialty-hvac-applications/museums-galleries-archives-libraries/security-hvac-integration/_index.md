@@ -1,7 +1,9 @@
 ---
 title: "Security and HVAC Integration for Museums"
+aliases: ["Security and HVAC Integration for Museums"]
 description: "Comprehensive guide to coordinating HVAC systems with fire suppression, smoke detection, and access control in museums, galleries, and archives per NFPA standards."
 keywords: ["museum fire suppression", "HVAC security integration", "smoke detection systems", "NFPA 909", "clean agent systems", "museum access control", "fire dampers", "VESDA systems"]
+tags: ["museum fire suppression", "HVAC security integration", "smoke detection systems", "NFPA 909", "clean agent systems", "museum access control", "fire dampers", "VESDA systems"]
 weight: 8
 ---
 

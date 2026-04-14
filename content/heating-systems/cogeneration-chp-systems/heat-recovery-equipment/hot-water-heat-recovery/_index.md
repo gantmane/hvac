@@ -1,5 +1,6 @@
 ---
 title: "Hot Water Heat Recovery"
+aliases: ["Hot Water Heat Recovery"]
 weight: 2
 ---
 

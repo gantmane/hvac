@@ -1,5 +1,6 @@
 ---
 title: "Riser Supports for Vertical Piping Seismic Restraint"
+aliases: ["Riser Supports for Vertical Piping Seismic Restraint"]
 description: "Engineering guide for seismic riser supports including load calculations, clamp configurations, floor penetrations, guides, and anchors for vertical HVAC piping systems."
 date: 2025-01-05
 draft: false

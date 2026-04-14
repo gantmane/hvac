@@ -1,5 +1,6 @@
 ---
 title: "Banana Ripening Room HVAC Systems"
+aliases: ["Banana Ripening Room HVAC Systems"]
 description: "Technical specifications for banana ripening room design including ethylene application, temperature control, humidity management, CO2 ventilation cycles, and air distribution requirements for controlled ripening operations"
 weight: 1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Metals"
+aliases: ["Metals"]
 description: "Thermal and physical properties of metals used in HVAC systems including thermal conductivity, specific heat, thermal expansion, and design considerations for thermal bridging and condensation control"
 weight: 3
 ---

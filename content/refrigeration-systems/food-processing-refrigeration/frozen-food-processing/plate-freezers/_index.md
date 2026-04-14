@@ -1,5 +1,6 @@
 ---
 title: "Plate Freezers"
+aliases: ["Plate Freezers"]
 weight: 3
 ---
 

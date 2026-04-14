@@ -2,6 +2,7 @@
 title: "Refrigeration Cycle Design for HVAC Engineers"
 description: "Compressor selection, evaporator and condenser sizing, superheat and subcooling control, and capacity modulation strategies for refrigeration systems."
 keywords: ["refrigeration cycle", "compressor selection", "superheat", "subcooling", "evaporator sizing", "condenser sizing"]
+tags: ["refrigeration cycle", "compressor selection", "superheat", "subcooling", "evaporator sizing", "condenser sizing"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 15
@@ -98,9 +99,9 @@ $$Q_{cond} = Q_{evap} + W_{comp}$$
 ---
 
 **Related Technical Guides:**
-- [Thermodynamic Cycles](/technical-guides/thermodynamic-cycles/)
-- [Chiller Performance Analysis](/technical-guides/chiller-performance-analysis/)
-- [Heat Transfer Fundamentals](/technical-guides/heat-transfer-fundamentals/)
+- Thermodynamic Cycles
+- Chiller Performance Analysis
+- Heat Transfer Fundamentals
 
 **References:**
 - ASHRAE Handbook of HVAC Systems and Equipment, Chapter 38: Compressors

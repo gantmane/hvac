@@ -1,8 +1,10 @@
 ---
 title: "Capture Velocity for Industrial Local Exhaust"
+aliases: ["Capture Velocity for Industrial Local Exhaust"]
 weight: 2
 description: "Technical analysis of capture velocity ranges, contaminant generation conditions, velocity decay relationships, and distance effects for local exhaust ventilation hood design"
 keywords: ["capture velocity", "local exhaust ventilation", "hood design", "velocity decay", "ACGIH", "industrial ventilation", "contaminant capture", "fpm ranges"]
+tags: ["capture velocity", "local exhaust ventilation", "hood design", "velocity decay", "ACGIH", "industrial ventilation", "contaminant capture", "fpm ranges"]
 ---
 
 Capture velocity represents the air velocity at any point in front of a hood or opening necessary to overcome opposing air currents and capture contaminated air at that point by drawing it into the exhaust system. This fundamental parameter determines the effectiveness of local exhaust ventilation in controlling airborne contaminants at the source.

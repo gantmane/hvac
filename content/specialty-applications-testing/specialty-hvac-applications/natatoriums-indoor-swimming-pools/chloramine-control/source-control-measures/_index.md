@@ -1,8 +1,10 @@
 ---
 title: "Source Control Measures for Chloramine Reduction"
+aliases: ["Source Control Measures for Chloramine Reduction"]
 weight: 2
 description: "Physics-based analysis of chloramine source control strategies including pre-swim showering effectiveness, bather load management, water chemistry optimization, and UV/ozone supplemental treatment systems."
 keywords: "chloramine source control, pre-swim showers, bather load management, UV pool treatment, ozone pool treatment, water chemistry optimization, nitrogen loading reduction, breakpoint chlorination"
+tags: ["chloramine source control", "pre-swim showers", "bather load management", "UV pool treatment", "ozone pool treatment", "water chemistry optimization", "nitrogen loading reduction", "breakpoint chlorination"]
 ---
 
 Controlling chloramine formation at the source represents the most effective and energy-efficient strategy for managing indoor pool air quality. While ventilation dilution can address airborne chloramines, preventing their formation through water chemistry management and bather hygiene provides superior results at lower operating cost. Source control reduces the chloramine generation rate ($G$) rather than attempting to dilute the contaminant after formation.

@@ -1,5 +1,6 @@
 ---
 title: "Thermodynamics"
+aliases: ["Thermodynamics"]
 weight: 1
 description: "Comprehensive coverage of thermodynamic principles governing HVAC systems including the First and Second Laws, thermodynamic properties, processes, cycles, and entropy analysis for refrigeration and heat pump applications."
 ---

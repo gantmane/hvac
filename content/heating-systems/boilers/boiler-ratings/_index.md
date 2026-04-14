@@ -1,5 +1,6 @@
 ---
 title: "Boiler Ratings"
+aliases: ["Boiler Ratings"]
 description: "Technical guide to boiler performance ratings including gross output, net IBR rating, DOE heating capacity, thermal efficiency, combustion efficiency, AFUE, turndown ratio, and continuous rating specifications for proper equipment selection."
 weight: 2
 ---

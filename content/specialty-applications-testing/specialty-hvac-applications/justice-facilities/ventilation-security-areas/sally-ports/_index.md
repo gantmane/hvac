@@ -1,7 +1,9 @@
 ---
 title: "Sally Port HVAC: Pressure Control & Vehicle Exhaust"
+aliases: ["Sally Port HVAC: Pressure Control & Vehicle Exhaust"]
 description: "Engineering guide to sally port HVAC systems in correctional facilities: pressure relationships, vehicle exhaust removal, interlocked ventilation, and security integration."
 keywords: ["sally port HVAC", "vehicle exhaust removal", "pressure control sally port", "correctional HVAC", "interlocked ventilation", "security screening HVAC", "justice facility ventilation"]
+tags: ["sally port HVAC", "vehicle exhaust removal", "pressure control sally port", "correctional HVAC", "interlocked ventilation", "security screening HVAC", "justice facility ventilation"]
 weight: 2
 ---
 

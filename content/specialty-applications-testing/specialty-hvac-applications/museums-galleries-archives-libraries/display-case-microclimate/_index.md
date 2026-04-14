@@ -1,7 +1,9 @@
 ---
 title: "Display Case Microclimate Control"
+aliases: ["Display Case Microclimate Control"]
 description: "Technical guide to passive and active climate control in museum display cases including moisture buffering calculations, silica gel conditioning, and sealed case design."
 keywords: ["display case microclimate", "museum climate control", "silica gel conditioning", "moisture buffering", "passive climate control", "sealed display cases", "conservation humidity", "desiccant capacity"]
+tags: ["display case microclimate", "museum climate control", "silica gel conditioning", "moisture buffering", "passive climate control", "sealed display cases", "conservation humidity", "desiccant capacity"]
 weight: 5
 ---
 

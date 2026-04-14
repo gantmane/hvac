@@ -1,5 +1,6 @@
 ---
 title: "Government Incentive Programs for HVAC Efficiency"
+aliases: ["Government Incentive Programs for HVAC Efficiency"]
 description: "Federal, state, and local financial incentives for high-efficiency HVAC systems including tax credits, rebates, accelerated depreciation, and performance-based programs."
 date: 2025-01-05
 tags: ["sustainability", "green building", "incentives", "tax credits", "energy efficiency", "government programs", "rebates", "financial analysis"]

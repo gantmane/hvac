@@ -1,7 +1,9 @@
 ---
 title: "Source Capture Systems for Fire Station Exhaust"
+aliases: ["Source Capture Systems for Fire Station Exhaust"]
 description: "Direct-connect exhaust capture systems for fire apparatus bays including capture efficiency, fan sizing, ductwork design, and stack discharge requirements."
 keywords: ["source capture", "exhaust extraction", "fire apparatus", "diesel exhaust removal", "direct connect", "capture efficiency", "bay ventilation", "fire station HVAC"]
+tags: ["source capture", "exhaust extraction", "fire apparatus", "diesel exhaust removal", "direct connect", "capture efficiency", "bay ventilation", "fire station HVAC"]
 date: 2025-01-11
 weight: 1
 draft: false

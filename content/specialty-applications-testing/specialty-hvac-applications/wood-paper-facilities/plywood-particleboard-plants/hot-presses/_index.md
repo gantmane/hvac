@@ -1,5 +1,6 @@
 ---
 title: "Hot Press Ventilation and Environmental Control"
+aliases: ["Hot Press Ventilation and Environmental Control"]
 linkTitle: "Hot Presses"
 weight: 2
 description: "Engineering guidance for HVAC and local exhaust ventilation systems serving hot presses in plywood and particleboard manufacturing including emission control, heat recovery, and worker protection."

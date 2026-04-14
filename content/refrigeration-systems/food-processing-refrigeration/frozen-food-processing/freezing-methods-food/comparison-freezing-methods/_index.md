@@ -1,5 +1,6 @@
 ---
 title: "Comparison of Freezing Methods"
+aliases: ["Comparison of Freezing Methods"]
 description: "Comprehensive technical comparison of air blast, plate, immersion, and cryogenic freezing methods including heat transfer coefficients, energy consumption, capital costs, and product quality considerations for industrial food processing applications."
 weight: 1
 ---

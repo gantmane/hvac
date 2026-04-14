@@ -1,5 +1,6 @@
 ---
 title: "Cavitation Prevention"
+aliases: ["Cavitation Prevention"]
 weight: 4
 ---
 

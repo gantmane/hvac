@@ -1,7 +1,9 @@
 ---
 title: "Peak Demand Characteristics"
+aliases: ["Peak Demand Characteristics"]
 description: "Technical analysis of HVAC peak demand characteristics, demand charges, load factors, and demand response strategies for managing utility costs and grid impacts."
 keywords: ["peak demand", "demand charges", "load factor", "demand response", "load shedding", "coincident peak", "utility rates", "grid management"]
+tags: ["peak demand", "demand charges", "load factor", "demand response", "load shedding", "coincident peak", "utility rates", "grid management"]
 weight: 3
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Hydrogen Off-Gassing: Battery Charging Physics"
+aliases: ["Hydrogen Off-Gassing: Battery Charging Physics"]
 description: "Engineering analysis of hydrogen generation during battery charging including electrochemical kinetics, charge rate effects, temperature dependencies, and IEEE 1635 calculation methods."
 keywords: ["hydrogen off-gassing", "battery charging", "hydrogen generation rate", "IEEE 1635", "lead-acid gassing", "VRLA batteries", "charge rate effects", "electrochemical hydrogen"]
+tags: ["hydrogen off-gassing", "battery charging", "hydrogen generation rate", "IEEE 1635", "lead-acid gassing", "VRLA batteries", "charge rate effects", "electrochemical hydrogen"]
 weight: 1
 ---
 

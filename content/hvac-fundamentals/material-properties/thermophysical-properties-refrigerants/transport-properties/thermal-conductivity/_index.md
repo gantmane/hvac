@@ -1,5 +1,6 @@
 ---
 title: "Thermal Conductivity"
+aliases: ["Thermal Conductivity"]
 weight: 2
 ---
 

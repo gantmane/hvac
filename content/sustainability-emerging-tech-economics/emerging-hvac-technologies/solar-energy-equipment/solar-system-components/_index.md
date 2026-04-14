@@ -1,5 +1,6 @@
 ---
 title: "Solar System Components and Integration Equipment"
+aliases: ["Solar System Components and Integration Equipment"]
 weight: 4
 description: "Technical analysis of solar thermal system components including heat exchangers, expansion tanks, pumps, controls, and heat transfer fluids with sizing calculations and performance optimization."
 keywords:

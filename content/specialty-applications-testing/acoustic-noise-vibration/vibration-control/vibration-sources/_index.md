@@ -1,9 +1,11 @@
 ---
 title: "Vibration Sources in HVAC Systems"
+aliases: ["Vibration Sources in HVAC Systems"]
 description: "Comprehensive analysis of vibration sources in HVAC equipment including fans, pumps, compressors, and motors with forcing frequency calculations and characteristics."
 date: 2025-01-05
 weight: 1
 keywords: ["vibration sources", "forcing frequency", "rotating equipment vibration", "fan vibration", "pump vibration", "compressor vibration", "motor vibration", "HVAC vibration analysis"]
+tags: ["vibration sources", "forcing frequency", "rotating equipment vibration", "fan vibration", "pump vibration", "compressor vibration", "motor vibration", "HVAC vibration analysis"]
 ---
 
 ## Fundamental Vibration Sources

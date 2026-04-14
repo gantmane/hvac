@@ -1,7 +1,9 @@
 ---
 title: "Agricultural Biomass for HVAC Energy Systems"
+aliases: ["Agricultural Biomass for HVAC Energy Systems"]
 description: "Technical analysis of agricultural biomass resources including crop residues, energy crops, and manure systems with energy yield calculations and conversion pathways."
 keywords: ["agricultural biomass", "crop residue energy", "biomass heating", "energy crops", "manure biogas", "biomass combustion", "renewable heating", "agricultural waste energy"]
+tags: ["agricultural biomass", "crop residue energy", "biomass heating", "energy crops", "manure biogas", "biomass combustion", "renewable heating", "agricultural waste energy"]
 weight: 3
 ---
 

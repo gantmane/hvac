@@ -1,5 +1,6 @@
 ---
 title: "Hvac Symbols Standards"
+aliases: ["Hvac Symbols Standards"]
 weight: 1
 ---
 

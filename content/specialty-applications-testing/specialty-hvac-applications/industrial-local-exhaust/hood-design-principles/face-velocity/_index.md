@@ -1,7 +1,9 @@
 ---
 title: "Face Velocity Requirements for Industrial Exhaust Hoods"
+aliases: ["Face Velocity Requirements for Industrial Exhaust Hoods"]
 description: "Face velocity measurement, uniformity standards, and recommended values for industrial exhaust hood design across applications with testing methods and regulatory compliance."
 keywords: ["face velocity", "hood performance", "exhaust ventilation", "capture efficiency", "hood testing", "OSHA requirements", "ANSI Z9.5", "local exhaust ventilation"]
+tags: ["face velocity", "hood performance", "exhaust ventilation", "capture efficiency", "hood testing", "OSHA requirements", "ANSI Z9.5", "local exhaust ventilation"]
 weight: 2
 ---
 

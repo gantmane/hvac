@@ -1,8 +1,10 @@
 ---
 title: "Specialty Terminal Units"
+aliases: ["Specialty Terminal Units"]
 weight: 6
 description: "Technical analysis of specialty hydronic heating terminals including kickspace heaters, trench heaters, toe-kick heaters, valance heating units, architectural heating applications, compact installation solutions, output ratings, control strategies, and applications where space constraints require non-traditional terminal configurations."
 keywords: "kickspace heaters, trench heaters, toe-kick heaters, valance heaters, architectural heating, compact heaters, under-cabinet heating, in-floor heating, specialty terminals"
+tags: ["kickspace heaters", "trench heaters", "toe-kick heaters", "valance heaters", "architectural heating", "compact heaters", "under-cabinet heating", "in-floor heating", "specialty terminals"]
 ---
 
 # Specialty Terminal Units

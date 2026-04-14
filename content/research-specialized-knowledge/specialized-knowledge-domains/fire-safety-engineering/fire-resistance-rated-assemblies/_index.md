@@ -1,5 +1,6 @@
 ---
 title: "Fire Resistance Rated Assemblies"
+aliases: ["Fire Resistance Rated Assemblies"]
 weight: 3
 ---
 

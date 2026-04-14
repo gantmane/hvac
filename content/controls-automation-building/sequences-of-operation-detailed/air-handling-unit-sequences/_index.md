@@ -1,5 +1,6 @@
 ---
 title: "Air Handling Unit Sequences"
+aliases: ["Air Handling Unit Sequences"]
 weight: 1
 ---
 

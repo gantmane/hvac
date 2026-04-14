@@ -1,5 +1,6 @@
 ---
 title: "Shelf Life Factors in Poultry Cold Storage"
+aliases: ["Shelf Life Factors in Poultry Cold Storage"]
 description: "Engineering analysis of temperature, humidity, air velocity, and microbial factors affecting poultry shelf life in cold storage through thermodynamic principles."
 date: 2025-01-05
 tags: ["poultry refrigeration", "shelf life", "cold storage", "food safety", "microbial growth", "temperature control"]

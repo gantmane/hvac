@@ -1,5 +1,6 @@
 ---
 title: "Detail Development"
+aliases: ["Detail Development"]
 weight: 2
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Fire Station Fitness Area HVAC Design and Ventilation"
+aliases: ["Fire Station Fitness Area HVAC Design and Ventilation"]
 description: "HVAC design for fire station fitness areas with high ventilation rates, equipment heat management, temperature control, air movement, acoustics, and odor control."
 keywords: ["fire station fitness", "exercise room ventilation", "gym HVAC", "fitness area design", "equipment heat loads", "odor control fitness", "athletic space conditioning", "fire station wellness"]
+tags: ["fire station fitness", "exercise room ventilation", "gym HVAC", "fitness area design", "equipment heat loads", "odor control fitness", "athletic space conditioning", "fire station wellness"]
 date: 2025-01-11
 weight: 4
 draft: false

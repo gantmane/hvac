@@ -1,7 +1,9 @@
 ---
 title: "Biomass Heating Applications for HVAC Systems"
+aliases: ["Biomass Heating Applications for HVAC Systems"]
 description: "Engineering guide to biomass heating technologies including pellet boilers, chip systems, and CHP integration with efficiency calculations and system design."
 keywords: ["biomass heating", "pellet boilers", "biomass CHP", "wood chip systems", "biomass efficiency", "renewable heating", "district heating biomass", "biomass combustion"]
+tags: ["biomass heating", "pellet boilers", "biomass CHP", "wood chip systems", "biomass efficiency", "renewable heating", "district heating biomass", "biomass combustion"]
 weight: 6
 ---
 

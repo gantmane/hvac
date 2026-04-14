@@ -1,8 +1,10 @@
 ---
 title: "Swine Facility HVAC & Environmental Control Systems"
+aliases: ["Swine Facility HVAC & Environmental Control Systems"]
 weight: 1
 description: "Technical guide to swine facility ventilation for farrowing, nursery, and finishing buildings. Covers ammonia control and heat stress prevention."
 keywords: ["swine ventilation", "pig barn HVAC", "farrowing room climate", "ammonia control livestock", "swine heat stress", "tunnel ventilation swine", "nursery building climate", "finishing barn ventilation"]
+tags: ["swine ventilation", "pig barn HVAC", "farrowing room climate", "ammonia control livestock", "swine heat stress", "tunnel ventilation swine", "nursery building climate", "finishing barn ventilation"]
 ---
 
 ## Fundamental Environmental Requirements

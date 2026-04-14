@@ -1,5 +1,6 @@
 ---
 title: "Emerging HVAC Technologies"
+aliases: ["Emerging HVAC Technologies"]
 description: "Comprehensive analysis of emerging HVAC technologies including heat pumps, refrigerants, controls, thermal storage, and renewable integration based on thermodynamic principles."
 weight: 2
 ---

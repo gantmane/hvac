@@ -1,7 +1,9 @@
 ---
 title: "Smoke Layer Management in Atrium Smoke Control"
+aliases: ["Smoke Layer Management in Atrium Smoke Control"]
 description: "Engineering principles for smoke layer interface height, depth calculation, tenability maintenance, and steady-state exhaust balance in atrium smoke control systems per NFPA 92."
 keywords: ["smoke layer interface", "smoke layer depth", "atrium tenability", "NFPA 92", "smoke exhaust balance", "steady-state smoke control", "smoke filling time", "clear layer height"]
+tags: ["smoke layer interface", "smoke layer depth", "atrium tenability", "NFPA 92", "smoke exhaust balance", "steady-state smoke control", "smoke filling time", "clear layer height"]
 weight: 1
 ---
 

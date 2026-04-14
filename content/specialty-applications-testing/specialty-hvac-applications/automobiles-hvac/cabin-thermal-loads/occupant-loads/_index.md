@@ -1,7 +1,9 @@
 ---
 title: "Occupant Thermal Loads in Automotive HVAC"
+aliases: ["Occupant Thermal Loads in Automotive HVAC"]
 description: "Physics-based analysis of metabolic heat generation, sensible and latent loads from vehicle occupants including respiration moisture, clothing effects, and passenger variations."
 keywords: ["occupant heat load", "metabolic heat generation", "automotive HVAC", "cabin cooling load", "latent heat passengers", "vehicle thermal comfort", "SAE J2765", "passenger heat transfer"]
+tags: ["occupant heat load", "metabolic heat generation", "automotive HVAC", "cabin cooling load", "latent heat passengers", "vehicle thermal comfort", "SAE J2765", "passenger heat transfer"]
 weight: 3
 ---
 

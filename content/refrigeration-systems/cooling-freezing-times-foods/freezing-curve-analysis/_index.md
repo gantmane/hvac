@@ -1,5 +1,6 @@
 ---
 title: "Freezing Curve Analysis"
+aliases: ["Freezing Curve Analysis"]
 weight: 9
 ---
 

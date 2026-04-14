@@ -1,5 +1,6 @@
 ---
 title: "Subcooled Tables"
+aliases: ["Subcooled Tables"]
 weight: 3
 ---
 

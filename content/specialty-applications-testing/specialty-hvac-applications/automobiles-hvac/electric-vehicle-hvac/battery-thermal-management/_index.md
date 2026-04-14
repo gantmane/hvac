@@ -1,7 +1,9 @@
 ---
 title: "Battery Thermal Management Systems for Electric Vehicles"
+aliases: ["Battery Thermal Management Systems for Electric Vehicles"]
 description: "Physics-based analysis of EV battery thermal management including liquid cooling, refrigerant systems, preheating strategies, and thermal control for battery longevity."
 keywords: ["battery thermal management", "EV battery cooling", "lithium-ion thermal control", "battery preheating", "fast charging thermal", "battery liquid cooling", "refrigerant battery cooling", "battery temperature optimization"]
+tags: ["battery thermal management", "EV battery cooling", "lithium-ion thermal control", "battery preheating", "fast charging thermal", "battery liquid cooling", "refrigerant battery cooling", "battery temperature optimization"]
 weight: 2
 ---
 

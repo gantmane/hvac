@@ -1,5 +1,6 @@
 ---
 title: "Aircraft Engine Bleed Air Extraction and Control"
+aliases: ["Aircraft Engine Bleed Air Extraction and Control"]
 description: "Technical analysis of turbine engine bleed air systems including HP/LP extraction points, thermodynamic characteristics, valve control, pre-coolers, and contamination prevention."
 keywords:
   - engine bleed air extraction

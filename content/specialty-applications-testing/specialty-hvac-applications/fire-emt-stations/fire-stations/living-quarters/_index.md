@@ -1,5 +1,6 @@
 ---
 title: "HVAC for Fire Station Living Quarters"
+aliases: ["HVAC for Fire Station Living Quarters"]
 description: "Comprehensive HVAC design for fire station living quarters addressing 24-hour occupancy, sleeping area comfort, kitchen ventilation, and apparatus bay contamination isolation."
 keywords:
   - fire station living quarters HVAC
@@ -393,6 +394,6 @@ Fire station living quarters represent one of the most demanding HVAC applicatio
 ---
 
 **Related Topics:**
-- [Apparatus Bay HVAC](/specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/apparatus-bays/)
-- [Diesel Exhaust Removal Systems](/specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/diesel-exhaust-removal/)
-- [24-Hour Occupancy HVAC Design](/specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/living-quarters/24-hour-occupancy/)
+- [Apparatus Bay HVAC](../../../../../specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/apparatus-bays/_index.md)
+- [Diesel Exhaust Removal Systems](../../../../../specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/diesel-exhaust-removal/_index.md)
+- [24-Hour Occupancy HVAC Design](../../../../../specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/living-quarters/24-hour-occupancy/_index.md)

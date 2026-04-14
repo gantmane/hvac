@@ -1,7 +1,9 @@
 ---
 title: "Mass Transit HVAC Systems"
+aliases: ["Mass Transit HVAC Systems"]
 description: "Comprehensive technical guide to HVAC systems for buses, rail cars, and subway vehicles including load calculations, equipment selection, ventilation requirements, and installation challenges specific to mobile transit applications."
 keywords: "mass transit HVAC, bus air conditioning, rail car HVAC, subway ventilation, transit vehicle cooling, mobile HVAC systems, train climate control, transit heating loads, vehicle HVAC design, public transportation climate systems"
+tags: ["mass transit HVAC", "bus air conditioning", "rail car HVAC", "subway ventilation", "transit vehicle cooling", "mobile HVAC systems", "train climate control", "transit heating loads", "vehicle HVAC design", "public transportation climate systems"]
 weight: 23
 ---
 

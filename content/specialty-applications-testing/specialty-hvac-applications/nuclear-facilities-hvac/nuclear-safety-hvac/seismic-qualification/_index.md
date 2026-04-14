@@ -1,7 +1,9 @@
 ---
 title: "Seismic Qualification for Nuclear HVAC Systems"
+aliases: ["Seismic Qualification for Nuclear HVAC Systems"]
 description: "Technical guide to seismic qualification of nuclear HVAC equipment using IEEE 344 and RG 1.100 standards, including dynamic analysis methods, shake table testing, and anchorage design."
 keywords: ["seismic qualification", "IEEE 344", "nuclear HVAC", "shake table testing", "seismic Category I", "SSE", "OBE", "dynamic analysis", "seismic anchorage", "RG 1.100"]
+tags: ["seismic qualification", "IEEE 344", "nuclear HVAC", "shake table testing", "seismic Category I", "SSE", "OBE", "dynamic analysis", "seismic anchorage", "RG 1.100"]
 weight: 3
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Ice Cream Manufacturing"
+aliases: ["Ice Cream Manufacturing"]
 description: "Ice cream manufacturing refrigeration systems including mix preparation cooling, continuous freezing, hardening tunnels, and low temperature storage requirements for commercial production facilities."
 weight: 4
 ---

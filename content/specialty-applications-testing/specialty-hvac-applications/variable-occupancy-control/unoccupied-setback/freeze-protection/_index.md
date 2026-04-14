@@ -1,7 +1,9 @@
 ---
 title: "Freeze Protection in Unoccupied Setback"
+aliases: ["Freeze Protection in Unoccupied Setback"]
 description: "Technical guidance on freeze protection strategies for HVAC systems during unoccupied periods including minimum setpoints, pipe protection, and alarm systems."
 keywords: ["freeze protection", "unoccupied setback", "minimum temperature setpoint", "pipe freeze prevention", "low temperature alarm", "freeze stat", "heating standby", "glycol protection"]
+tags: ["freeze protection", "unoccupied setback", "minimum temperature setpoint", "pipe freeze prevention", "low temperature alarm", "freeze stat", "heating standby", "glycol protection"]
 weight: 3
 ---
 

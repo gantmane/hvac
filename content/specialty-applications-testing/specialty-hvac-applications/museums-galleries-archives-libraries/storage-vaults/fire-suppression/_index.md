@@ -1,8 +1,10 @@
 ---
 title: "Fire Suppression for Museum Storage Vaults"
+aliases: ["Fire Suppression for Museum Storage Vaults"]
 weight: 4
 description: "Clean agent fire suppression systems for museum and archive storage vaults with HVAC integration, agent concentration calculations, and NFPA compliance requirements."
 keywords: ["clean agent suppression", "FM-200", "Novec 1230", "inert gas suppression", "museum fire protection", "HVAC shutdown", "fire damper control", "NFPA 2001"]
+tags: ["clean agent suppression", "FM-200", "Novec 1230", "inert gas suppression", "museum fire protection", "HVAC shutdown", "fire damper control", "NFPA 2001"]
 ---
 
 ## Fire Suppression Systems for Museum Storage Vaults

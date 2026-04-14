@@ -1,7 +1,9 @@
 ---
 title: "ASSE 1017 Thermostatic Mixing Valve Standard"
+aliases: ["ASSE 1017 Thermostatic Mixing Valve Standard"]
 description: "ASSE 1017 performance requirements for thermostatic mixing valves including scald protection, temperature limits, fail-safe operation, and testing protocols."
 keywords: ["ASSE 1017", "thermostatic mixing valve", "scald protection", "water temperature control", "fail-safe valve", "hot water safety", "TMV testing", "plumbing code"]
+tags: ["ASSE 1017", "thermostatic mixing valve", "scald protection", "water temperature control", "fail-safe valve", "hot water safety", "TMV testing", "plumbing code"]
 weight: 1
 ---
 

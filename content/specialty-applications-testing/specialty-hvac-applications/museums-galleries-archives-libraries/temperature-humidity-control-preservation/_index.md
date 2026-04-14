@@ -1,8 +1,10 @@
 ---
 title: "HVAC Precision Control for Museum Collections"
+aliases: ["HVAC Precision Control for Museum Collections"]
 seo_title: "Museum Temperature & Humidity Control for Preservation"
 description: "Engineering strategies for precision HVAC control in museums, galleries, and archives. Covers setpoints, rate-of-change limits, psychrometric calculations, and material-specific requirements."
 keywords: ["museum HVAC", "relative humidity control", "conservation environment", "collection preservation", "ASHRAE museums", "psychrometric control", "RH setpoints", "artifact storage"]
+tags: ["museum HVAC", "relative humidity control", "conservation environment", "collection preservation", "ASHRAE museums", "psychrometric control", "RH setpoints", "artifact storage"]
 weight: 6
 ---
 

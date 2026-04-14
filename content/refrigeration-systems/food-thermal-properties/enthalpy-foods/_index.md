@@ -1,5 +1,6 @@
 ---
 title: "Enthalpy of Foods"
+aliases: ["Enthalpy of Foods"]
 description: "Comprehensive technical guide to food enthalpy calculations for refrigeration load determination including specific enthalpy values, phase change effects, freezing point depression, and ASHRAE calculation methods for HVAC refrigeration systems"
 weight: 3
 ---

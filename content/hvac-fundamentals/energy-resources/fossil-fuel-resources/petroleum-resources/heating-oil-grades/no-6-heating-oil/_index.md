@@ -1,8 +1,10 @@
 ---
 title: "No. 6 Heating Oil: Heavy Residual Fuel Specifications"
+aliases: ["No. 6 Heating Oil: Heavy Residual Fuel Specifications"]
 weight: 3
 description: "No. 6 heating oil (Bunker C) residual fuel specifications, viscosity requirements, preheating systems, and applications in large industrial boilers and power generation facilities."
 keywords: ["No. 6 heating oil", "Bunker C fuel", "residual fuel oil", "heavy fuel preheating", "industrial boiler fuel", "fuel oil viscosity", "ASTM D396", "heavy fuel atomization"]
+tags: ["No. 6 heating oil", "Bunker C fuel", "residual fuel oil", "heavy fuel preheating", "industrial boiler fuel", "fuel oil viscosity", "ASTM D396", "heavy fuel atomization"]
 ---
 
 ## Overview

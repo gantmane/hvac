@@ -1,5 +1,6 @@
 ---
 title: "Elevating HVAC Equipment Above Base Flood Elevation"
+aliases: ["Elevating HVAC Equipment Above Base Flood Elevation"]
 description: "Technical requirements for elevating HVAC equipment above BFE including freeboard calculations, structural support design, and FEMA compliance strategies."
 date: 2025-01-05
 weight: 1

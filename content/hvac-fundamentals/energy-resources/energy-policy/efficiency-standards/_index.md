@@ -1,7 +1,9 @@
 ---
 title: "HVAC Efficiency Standards and Federal Regulations"
+aliases: ["HVAC Efficiency Standards and Federal Regulations"]
 description: "Federal HVAC efficiency standards, DOE regulations, ENERGY STAR requirements, and minimum efficiency requirements that shape equipment manufacturing and market transformation."
 keywords: ["HVAC efficiency standards", "DOE regulations", "SEER requirements", "ENERGY STAR", "NAECA", "minimum efficiency", "efficiency labeling", "HVAC compliance"]
+tags: ["HVAC efficiency standards", "DOE regulations", "SEER requirements", "ENERGY STAR", "NAECA", "minimum efficiency", "efficiency labeling", "HVAC compliance"]
 weight: 2
 ---
 

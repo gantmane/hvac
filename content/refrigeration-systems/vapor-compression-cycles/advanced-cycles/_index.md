@@ -1,5 +1,6 @@
 ---
 title: "Advanced Cycles"
+aliases: ["Advanced Cycles"]
 weight: 3
 ---
 

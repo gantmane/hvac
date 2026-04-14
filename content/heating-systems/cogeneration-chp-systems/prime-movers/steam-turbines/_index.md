@@ -1,5 +1,6 @@
 ---
 title: "Steam Turbines"
+aliases: ["Steam Turbines"]
 weight: 4
 ---
 

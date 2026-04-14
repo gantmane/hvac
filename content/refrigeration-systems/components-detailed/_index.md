@@ -1,8 +1,10 @@
 ---
 title: "Components Detailed"
+aliases: ["Components Detailed"]
 weight: 7
 description: "Comprehensive technical analysis of refrigeration cycle components including compressors, condensers, evaporators, and expansion devices with performance characteristics and selection criteria"
 keywords: ["compressor types", "condenser design", "evaporator selection", "expansion valves", "refrigeration components"]
+tags: ["compressor types", "condenser design", "evaporator selection", "expansion valves", "refrigeration components"]
 ---
 
 Refrigeration systems consist of four primary components that facilitate the vapor compression cycle: compressor, condenser, evaporator, and expansion device. Each component performs a specific thermodynamic function essential to heat transfer from low-temperature spaces to higher-temperature sinks.

@@ -1,5 +1,6 @@
 ---
 title: "Propane (LPG)"
+aliases: ["Propane (LPG)"]
 linkTitle: "Propane/LPG"
 weight: 2
 description: "Technical properties of propane (C3H8) fuel including heating values, vapor pressure characteristics, storage requirements, vaporization rates, pressure regulation, and propane-air mixture systems for standby applications."

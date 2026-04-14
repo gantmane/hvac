@@ -1,5 +1,6 @@
 ---
 title: "Food Thermal Properties"
+aliases: ["Food Thermal Properties"]
 weight: 10
 ---
 

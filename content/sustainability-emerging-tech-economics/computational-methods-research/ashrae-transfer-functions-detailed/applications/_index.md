@@ -1,5 +1,6 @@
 ---
 title: "Transfer Function Applications in Building Loads"
+aliases: ["Transfer Function Applications in Building Loads"]
 description: "Engineering applications of ASHRAE transfer functions for cooling load calculations across residential, commercial, and high thermal mass buildings."
 weight: 3
 ---

@@ -2,6 +2,7 @@
 title: "Refrigeration Load Calculations for Cold Storage & Food Processing"
 description: "Comprehensive methodology for calculating refrigeration loads including transmission, product cooling, respiration, infiltration, equipment, and safety factors for cold storage design."
 keywords: ["refrigeration load", "cold storage design", "product load", "infiltration load", "respiration heat", "cooling load calculation", "freezer design"]
+tags: ["refrigeration load", "cold storage design", "product load", "infiltration load", "respiration heat", "cooling load calculation", "freezer design"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 37
@@ -397,11 +398,11 @@ $$Q_{design} = 20,540 \times 1.15 = 23,621 \text{ Btu/hr} = 1.97 \text{ tons}$$
 ---
 
 **Related Technical Guides:**
-- [Material Thermal Properties](/technical-guides/material-thermal-properties/)
-- [Food Storage Requirements](/technical-guides/food-storage-requirements/)
-- [Vapor Compression Refrigeration](/technical-guides/vapor-compression-refrigeration/)
-- [Compressor Selection & Performance](/technical-guides/compressor-selection-performance/)
-- [Cold Storage Facility Design](/technical-guides/cold-storage-facility-design/)
+- Material Thermal Properties
+- Food Storage Requirements
+- Vapor Compression Refrigeration
+- Compressor Selection & Performance
+- Cold Storage Facility Design
 
 **References:**
 - ASHRAE Refrigeration Handbook, Chapter 24: Refrigeration Load Calculations

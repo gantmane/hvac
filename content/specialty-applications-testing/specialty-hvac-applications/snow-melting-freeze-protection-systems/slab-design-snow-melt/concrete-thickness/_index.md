@@ -1,7 +1,9 @@
 ---
 title: "Concrete Thickness for Snow Melting Slabs"
+aliases: ["Concrete Thickness for Snow Melting Slabs"]
 description: "Engineering analysis of concrete thickness requirements for heated slabs covering structural design, thermal mass calculations, and optimal depth selection."
 keywords: ["concrete slab thickness", "heated slab design", "snow melting slab", "thermal mass concrete", "slab structural design", "hydronic tubing depth", "concrete thermal properties", "slab heat capacity"]
+tags: ["concrete slab thickness", "heated slab design", "snow melting slab", "thermal mass concrete", "slab structural design", "hydronic tubing depth", "concrete thermal properties", "slab heat capacity"]
 weight: 1
 ---
 

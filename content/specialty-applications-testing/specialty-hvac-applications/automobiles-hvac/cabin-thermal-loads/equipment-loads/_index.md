@@ -1,7 +1,9 @@
 ---
 title: "Equipment Loads in Vehicle Cabins"
+aliases: ["Equipment Loads in Vehicle Cabins"]
 description: "Technical analysis of equipment heat generation in automotive HVAC systems including infotainment, displays, amplifiers, heated seats, and electronic modules."
 keywords: ["equipment heat loads", "infotainment thermal management", "automotive electronics cooling", "vehicle cabin heat gain", "SAE J2765", "heated seat power consumption", "amplifier heat dissipation", "vehicle thermal loads"]
+tags: ["equipment heat loads", "infotainment thermal management", "automotive electronics cooling", "vehicle cabin heat gain", "SAE J2765", "heated seat power consumption", "amplifier heat dissipation", "vehicle thermal loads"]
 weight: 4
 ---
 

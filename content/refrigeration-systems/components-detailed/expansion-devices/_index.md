@@ -1,5 +1,6 @@
 ---
 title: "Expansion Devices"
+aliases: ["Expansion Devices"]
 description: "Technical analysis of refrigeration expansion devices including thermostatic expansion valves, electronic expansion valves, capillary tubes, and float valves. Covers throttling thermodynamics, superheat control, sizing methodology, and stability considerations."
 weight: 5
 ---

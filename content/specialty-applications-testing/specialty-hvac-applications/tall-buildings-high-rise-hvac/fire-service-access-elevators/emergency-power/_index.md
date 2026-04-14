@@ -1,7 +1,9 @@
 ---
 title: "Emergency Power for Fire Service Access Elevators"
+aliases: ["Emergency Power for Fire Service Access Elevators"]
 description: "Technical requirements for emergency power systems supporting fire service access elevators, including generator sizing, transfer switch specifications, and HVAC load continuity."
 keywords: ["emergency power HVAC", "fire service elevator backup", "generator sizing elevators", "lobby pressurization backup", "machine room cooling emergency", "automatic transfer switch", "NFPA 110", "emergency HVAC loads"]
+tags: ["emergency power HVAC", "fire service elevator backup", "generator sizing elevators", "lobby pressurization backup", "machine room cooling emergency", "automatic transfer switch", "NFPA 110", "emergency HVAC loads"]
 weight: 3
 ---
 

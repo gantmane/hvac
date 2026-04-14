@@ -1,7 +1,9 @@
 ---
 title: "Solar Radiation Loads in Vehicle Cabins"
+aliases: ["Solar Radiation Loads in Vehicle Cabins"]
 description: "Technical analysis of automotive solar heat gain through glazing including SHGC, transmission coefficients, glass coating technologies, and solar soaking loads."
 keywords: ["solar heat gain coefficient", "automotive glazing", "SHGC", "solar radiation vehicle", "tinted glass", "windshield transmission", "solar soaking", "cabin thermal load"]
+tags: ["solar heat gain coefficient", "automotive glazing", "SHGC", "solar radiation vehicle", "tinted glass", "windshield transmission", "solar soaking", "cabin thermal load"]
 weight: 1
 ---
 

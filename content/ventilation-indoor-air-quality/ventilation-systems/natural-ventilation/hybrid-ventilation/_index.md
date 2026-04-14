@@ -1,5 +1,6 @@
 ---
 title: "Hybrid Ventilation Systems"
+aliases: ["Hybrid Ventilation Systems"]
 description: "Comprehensive guide to hybrid ventilation combining natural and mechanical modes with changeover controls, sensor integration, and energy optimization strategies."
 date: 2025-01-05
 weight: 3

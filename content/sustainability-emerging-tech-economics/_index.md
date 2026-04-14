@@ -1,8 +1,10 @@
 ---
 title: "Sustainability, Emerging Technologies & Economic Analysis"
+aliases: ["Sustainability, Emerging Technologies & Economic Analysis"]
 weight: 16
 description: "Comprehensive coverage of sustainable HVAC design, green building certifications, net zero energy systems, life cycle cost analysis, carbon footprint reduction, emerging technologies, and economic evaluation methods for building systems"
 keywords: ["green building", "LEED certification", "sustainable HVAC", "net zero energy", "carbon footprint", "life cycle cost", "economic analysis", "emerging technologies", "renewable energy", "heat recovery", "Passive House", "WELL Building Standard", "energy modeling", "payback period", "NPV analysis"]
+tags: ["green building", "LEED certification", "sustainable HVAC", "net zero energy", "carbon footprint", "life cycle cost", "economic analysis", "emerging technologies", "renewable energy", "heat recovery"]
 ---
 
 ## Sustainability, Emerging Technologies & Economic Analysis

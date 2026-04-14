@@ -1,5 +1,6 @@
 ---
 title: "Immersion Freezing of Poultry"
+aliases: ["Immersion Freezing of Poultry"]
 description: "Technical analysis of immersion freezing systems for poultry processing including heat transfer principles, refrigerant solutions, equipment design, and performance optimization."
 date: 2025-01-05
 tags: ["immersion freezing", "poultry processing", "cryogenic freezing", "food refrigeration", "heat transfer"]

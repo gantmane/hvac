@@ -1,7 +1,9 @@
 ---
 title: "Vertical Transportation Equipment in High-Rise HVAC"
+aliases: ["Vertical Transportation Equipment in High-Rise HVAC"]
 description: "Engineering fundamentals of vertical fluid transport in tall buildings: hydrostatic pressure, pump staging strategies, refrigerant distribution, and energy optimization for high-rise systems."
 keywords: ["vertical transportation", "high-rise HVAC", "hydrostatic pressure", "pump staging", "refrigerant piping", "chilled water distribution", "pressure zones", "static head"]
+tags: ["vertical transportation", "high-rise HVAC", "hydrostatic pressure", "pump staging", "refrigerant piping", "chilled water distribution", "pressure zones", "static head"]
 weight: 12
 ---
 

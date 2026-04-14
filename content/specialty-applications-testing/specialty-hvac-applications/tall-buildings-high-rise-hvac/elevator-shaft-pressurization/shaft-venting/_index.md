@@ -1,7 +1,9 @@
 ---
 title: "Elevator Shaft Venting Systems"
+aliases: ["Elevator Shaft Venting Systems"]
 description: "Technical guide to hoistway venting for smoke exhaust in high-rise buildings, covering vent sizing calculations, automatic activation systems, and code compliance."
 keywords: ["elevator shaft venting", "hoistway smoke exhaust", "roof vent sizing", "stack effect control", "NFPA 92", "IBC hoistway venting", "shaft pressurization", "automatic vent dampers"]
+tags: ["elevator shaft venting", "hoistway smoke exhaust", "roof vent sizing", "stack effect control", "NFPA 92", "IBC hoistway venting", "shaft pressurization", "automatic vent dampers"]
 weight: 3
 ---
 

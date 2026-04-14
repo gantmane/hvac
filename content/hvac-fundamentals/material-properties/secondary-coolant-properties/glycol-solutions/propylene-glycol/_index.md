@@ -1,5 +1,6 @@
 ---
 title: "Propylene Glycol"
+aliases: ["Propylene Glycol"]
 description: "Comprehensive technical guide to propylene glycol secondary coolant properties, thermophysical data, food-grade applications, and HVAC system design considerations including freeze protection and heat transfer performance"
 weight: 2
 ---

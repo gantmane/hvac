@@ -1,5 +1,6 @@
 ---
 title: "BIM Fabrication Tools"
+aliases: ["BIM Fabrication Tools"]
 description: "BIM-to-fabrication software including Fabrication CADmep, Trimble SysQue, and Struxureware tools enabling contractors to create shop drawings and fabrication data directly from design models for automated manufacturing."
 weight: 4
 ---

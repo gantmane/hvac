@@ -1,8 +1,10 @@
 ---
 title: "Burner Controls and Flame Safeguard Systems"
+aliases: ["Burner Controls and Flame Safeguard Systems"]
 weight: 4
 description: "Comprehensive analysis of burner control systems including flame safeguard programming, air-fuel ratio positioning controls, oxygen trim systems, cross-limiting logic, and safety interlocks for commercial and industrial automatic fuel-burning equipment per NFPA 86 requirements."
 keywords: "burner controls, flame safeguard, air-fuel ratio control, oxygen trim, cross-limiting, UV scanner, flame detection, burner management system, NFPA 86"
+tags: ["burner controls", "flame safeguard", "air-fuel ratio control", "oxygen trim", "cross-limiting", "UV scanner", "flame detection", "burner management system", "NFPA 86"]
 ---
 
 # Burner Controls and Flame Safeguard Systems

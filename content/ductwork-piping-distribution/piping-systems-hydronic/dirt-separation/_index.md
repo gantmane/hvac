@@ -1,5 +1,6 @@
 ---
 title: "Dirt Separation"
+aliases: ["Dirt Separation"]
 weight: 11
 ---
 

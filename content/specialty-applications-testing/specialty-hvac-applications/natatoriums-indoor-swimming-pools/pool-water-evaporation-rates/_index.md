@@ -1,8 +1,10 @@
 ---
 title: "Pool Water Evaporation Rate Calculations"
+aliases: ["Pool Water Evaporation Rate Calculations"]
 weight: 1
 description: "Detailed analysis of pool water evaporation calculation methods including Carrier, Shah, and ASHRAE formulas, activity factors, and latent load determination for natatorium HVAC design."
 keywords: "pool evaporation calculation, Carrier equation, Shah method, ASHRAE evaporation formula, latent load calculation, natatorium moisture load"
+tags: ["pool evaporation calculation", "Carrier equation", "Shah method", "ASHRAE evaporation formula", "latent load calculation", "natatorium moisture load"]
 ---
 
 Accurate determination of pool water evaporation rates is fundamental to natatorium HVAC system design. The evaporation rate directly determines the dehumidification equipment capacity, ventilation requirements, pool heating load, and energy consumption. Underestimating evaporation leads to inadequate humidity control and potential condensation damage; overestimating results in oversized, inefficient equipment.

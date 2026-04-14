@@ -1,5 +1,6 @@
 ---
 title: "Egg Breaking Processing"
+aliases: ["Egg Breaking Processing"]
 description: "HVAC design for egg breaking and liquid egg processing facilities including temperature zoning, sanitation air systems, process cooling loads, and humidity control for pathogen prevention in automated breaking operations."
 weight: 2
 ---

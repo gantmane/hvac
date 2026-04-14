@@ -1,7 +1,9 @@
 ---
 title: "Energy Efficiency Technologies"
+aliases: ["Energy Efficiency Technologies"]
 description: "Overview of energy efficiency technologies for HVAC systems including high-efficiency equipment, controls, and system optimization strategies."
 keywords: ["energy efficiency", "HVAC efficiency", "high-efficiency equipment", "energy savings", "building performance", "HVAC technology"]
+tags: ["energy efficiency", "HVAC efficiency", "high-efficiency equipment", "energy savings", "building performance", "HVAC technology"]
 weight: 10
 ---
 

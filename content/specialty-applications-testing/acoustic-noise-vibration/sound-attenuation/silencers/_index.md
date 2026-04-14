@@ -1,5 +1,6 @@
 ---
 title: "HVAC Duct Silencers: Selection and Performance"
+aliases: ["HVAC Duct Silencers: Selection and Performance"]
 description: "Comprehensive guide to duct silencer types, insertion loss calculations, dynamic performance, pressure drop considerations, and selection criteria per ASHRAE standards."
 date: 2026-01-05
 keywords: ["duct silencers", "insertion loss", "dynamic insertion loss", "sound attenuation", "acoustic performance", "pressure drop", "rectangular silencers", "ASTM E477"]

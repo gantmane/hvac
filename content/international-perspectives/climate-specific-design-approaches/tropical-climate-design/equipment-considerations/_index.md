@@ -1,5 +1,6 @@
 ---
 title: "Tropical Climate HVAC Equipment Considerations"
+aliases: ["Tropical Climate HVAC Equipment Considerations"]
 description: "Equipment selection and design for high-humidity tropical climates. Covers capacity derating, corrosion protection, condensate management, and material selection."
 date: 2025-01-05
 tags: ["tropical climate", "equipment selection", "high humidity", "corrosion protection", "derating factors", "condensate management"]

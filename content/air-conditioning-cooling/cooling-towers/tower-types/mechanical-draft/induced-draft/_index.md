@@ -1,5 +1,6 @@
 ---
 title: "Induced Draft"
+aliases: ["Induced Draft"]
 weight: 1
 ---
 

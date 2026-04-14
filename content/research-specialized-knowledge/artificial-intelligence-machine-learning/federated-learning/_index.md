@@ -1,5 +1,6 @@
 ---
 title: "Federated Learning"
+aliases: ["Federated Learning"]
 weight: 6
 ---
 

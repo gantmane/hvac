@@ -1,7 +1,9 @@
 ---
 title: "Heat Pump Innovations"
+aliases: ["Heat Pump Innovations"]
 description: "Advanced heat pump technologies including CO2 transcritical cycles, cascade systems, variable speed compressors, and cold climate solutions with physics-based performance analysis"
 keywords: ["heat pump innovations", "CO2 transcritical heat pump", "R744 refrigerant", "cascade heat pump system", "variable speed compressor", "cold climate heat pump", "heat pump COP", "inverter heat pump", "natural refrigerant heat pump", "ASHRAE heat pump standards"]
+tags: ["heat pump innovations", "CO2 transcritical heat pump", "R744 refrigerant", "cascade heat pump system", "variable speed compressor", "cold climate heat pump", "heat pump COP", "inverter heat pump", "natural refrigerant heat pump", "ASHRAE heat pump standards"]
 weight: 2
 ---
 

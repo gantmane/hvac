@@ -1,5 +1,6 @@
 ---
 title: "Laboratory Ventilation"
+aliases: ["Laboratory Ventilation"]
 weight: 8
 ---
 

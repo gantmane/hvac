@@ -1,8 +1,10 @@
 ---
 title: "Air Jet Spinning HVAC Systems"
+aliases: ["Air Jet Spinning HVAC Systems"]
 weight: 3
 description: "HVAC design for air jet spinning including compressed air requirements, process air calculations, temperature control, humidity management, and energy optimization for textile manufacturing."
 keywords: ["air jet spinning", "compressed air HVAC", "textile process air", "spinning temperature control", "fiber fly control", "pneumatic spinning systems", "textile manufacturing HVAC", "process air filtration"]
+tags: ["air jet spinning", "compressed air HVAC", "textile process air", "spinning temperature control", "fiber fly control", "pneumatic spinning systems", "textile manufacturing HVAC", "process air filtration"]
 ---
 
 Air jet spinning represents the highest-speed method of yarn formation in textile manufacturing, utilizing high-velocity air streams to twist and bind fibers into continuous yarn. The HVAC requirements for air jet spinning facilities differ fundamentally from conventional ring or rotor spinning due to the critical interdependence between process air quality, compressed air systems, and environmental control.

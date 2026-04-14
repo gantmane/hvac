@@ -1,5 +1,6 @@
 ---
 title: "Grain Storage Ventilation"
+aliases: ["Grain Storage Ventilation"]
 description: "Technical guidance on grain storage aeration systems, temperature management, moisture migration prevention, fan sizing calculations, and controller strategies per ASABE standards."
 keywords:
   - grain storage ventilation

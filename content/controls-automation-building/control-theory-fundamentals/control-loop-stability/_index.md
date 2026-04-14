@@ -1,5 +1,6 @@
 ---
 title: "Control Loop Stability"
+aliases: ["Control Loop Stability"]
 description: "Analysis of HVAC control system stability including stability criteria, gain and phase margins, oscillation causes, hunting phenomena, and stabilization techniques for reliable operation."
 date: 2026-01-04
 weight: 4

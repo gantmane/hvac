@@ -1,5 +1,6 @@
 ---
 title: "Model Vs Sheet Files"
+aliases: ["Model Vs Sheet Files"]
 description: "Model space and paper space workflows for HVAC CAD production including viewport configuration, scale management, annotation scaling, external reference strategies, and file organization standards for construction documentation."
 weight: 6
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Automotive AC Condensers: Design and Performance"
+aliases: ["Automotive AC Condensers: Design and Performance"]
 description: "Technical analysis of automotive condenser designs including parallel flow, serpentine, and microchannel types. Heat rejection calculations, airflow dynamics, and subcooling."
 keywords: ["automotive condenser", "microchannel condenser", "parallel flow condenser", "heat rejection", "subcooling", "SAE J2765", "condenser sizing", "automotive HVAC"]
+tags: ["automotive condenser", "microchannel condenser", "parallel flow condenser", "heat rejection", "subcooling", "SAE J2765", "condenser sizing", "automotive HVAC"]
 weight: 3
 ---
 

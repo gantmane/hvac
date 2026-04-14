@@ -1,5 +1,6 @@
 ---
 title: "Prevention Strategies Design"
+aliases: ["Prevention Strategies Design"]
 description: "Comprehensive mold prevention strategies through integrated design including moisture control, temperature management, ventilation, material selection, and construction details to eliminate conditions supporting mold growth."
 weight: 4
 ---

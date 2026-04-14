@@ -1,5 +1,6 @@
 ---
 title: "Time and Materials"
+aliases: ["Time and Materials"]
 description: "Detailed analysis of time and materials contracts for HVAC work including hourly labor rates, material markup structures, equipment rental costs, and not-to-exceed limitations."
 weight: 5
 ---

@@ -1,7 +1,9 @@
 ---
 title: "120°F Delivery Temperature for Thermostatic Mixing Valves"
+aliases: ["120°F Delivery Temperature for Thermostatic Mixing Valves"]
 description: "Technical guide to 120°F maximum delivery temperature settings for thermostatic mixing valves, including scald prevention, code requirements, and Legionella control."
 keywords: ["120F delivery temperature", "scald prevention", "thermostatic mixing valve", "domestic hot water safety", "Legionella control", "plumbing codes", "ASSE 1017", "water heater temperature"]
+tags: ["120F delivery temperature", "scald prevention", "thermostatic mixing valve", "domestic hot water safety", "Legionella control", "plumbing codes", "ASSE 1017", "water heater temperature"]
 weight: 2
 ---
 

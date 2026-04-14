@@ -1,5 +1,6 @@
 ---
 title: "HVAC Technician Certifications Overview"
+aliases: ["HVAC Technician Certifications Overview"]
 description: "Comprehensive guide to HVAC technician certifications including EPA refrigerant licensing, NATE excellence programs, specialized credentials, and career advancement pathways."
 weight: 2
 ---

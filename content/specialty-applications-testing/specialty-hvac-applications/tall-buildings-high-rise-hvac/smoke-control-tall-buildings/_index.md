@@ -1,7 +1,9 @@
 ---
 title: "Smoke Control Systems for Tall Buildings"
+aliases: ["Smoke Control Systems for Tall Buildings"]
 description: "Physics-based analysis of high-rise smoke control, stack effect amplification, pressurization strategies, and exhaust methods per IBC and NFPA 92 requirements."
 keywords: ["smoke control", "stack effect", "high-rise HVAC", "pressurization", "smoke exhaust", "NFPA 92", "tall building fire safety", "stairwell pressurization"]
+tags: ["smoke control", "stack effect", "high-rise HVAC", "pressurization", "smoke exhaust", "NFPA 92", "tall building fire safety", "stairwell pressurization"]
 weight: 10
 ---
 

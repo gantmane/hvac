@@ -1,7 +1,9 @@
 ---
 title: "Heat Tape Tracing for Pipe Freeze Protection"
+aliases: ["Heat Tape Tracing for Pipe Freeze Protection"]
 description: "Technical guide to self-regulating and constant wattage heat trace systems for domestic water pipes. Covers installation methods, energy calculations, and NEC compliance."
 keywords: ["heat tape", "heat trace cable", "self-regulating heat tape", "pipe freeze protection", "constant wattage cable", "NEC Article 427", "heat trace installation", "pipe heating"]
+tags: ["heat tape", "heat trace cable", "self-regulating heat tape", "pipe freeze protection", "constant wattage cable", "NEC Article 427", "heat trace installation", "pipe heating"]
 weight: 2
 ---
 

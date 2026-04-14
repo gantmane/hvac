@@ -1,5 +1,6 @@
 ---
 title: "Addenda Process"
+aliases: ["Addenda Process"]
 description: "HVAC construction addenda management including addendum preparation, timing requirements, distribution methods, RFI responses, specification modifications, drawing changes, and documentation protocols for bidding phase administration"
 weight: 3
 ---

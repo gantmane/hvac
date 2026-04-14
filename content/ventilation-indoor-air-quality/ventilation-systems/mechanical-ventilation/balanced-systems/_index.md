@@ -1,5 +1,6 @@
 ---
 title: "Balanced Mechanical Ventilation Systems"
+aliases: ["Balanced Mechanical Ventilation Systems"]
 description: "Engineering principles of balanced ventilation systems including supply/exhaust airflow balance, building pressure control, and energy recovery integration per ASHRAE 62.1."
 date: 2025-01-05
 keywords:

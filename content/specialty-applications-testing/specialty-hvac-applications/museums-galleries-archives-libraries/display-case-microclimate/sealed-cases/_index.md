@@ -1,8 +1,10 @@
 ---
 title: "Sealed Display Cases for Museum Conservation"
+aliases: ["Sealed Display Cases for Museum Conservation"]
 weight: 1
 description: "Physics-based analysis of sealed display case design including air exchange calculations, leakage testing methods, gasket selection, and passive microclimate stabilization strategies."
 keywords: ["sealed display cases", "museum microclimate control", "air exchange rate calculation", "display case leakage testing", "passive climate control", "conservation gasket materials", "case within gallery strategy", "museum HVAC"]
+tags: ["sealed display cases", "museum microclimate control", "air exchange rate calculation", "display case leakage testing", "passive climate control", "conservation gasket materials", "case within gallery strategy", "museum HVAC"]
 ---
 
 Sealed display cases function as passive climate control devices that decouple sensitive artifacts from fluctuations in gallery environmental conditions. The effectiveness of this protective strategy depends on the physics of moisture transport, air leakage pathways, and the hygrothermal buffering capacity of case materials and contents.

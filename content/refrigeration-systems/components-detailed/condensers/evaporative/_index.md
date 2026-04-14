@@ -1,8 +1,10 @@
 ---
 title: "Evaporative Condensers"
+aliases: ["Evaporative Condensers"]
 weight: 3
 description: "Comprehensive guide to evaporative condenser design, operation, and maintenance including wet-bulb approach, water treatment, Legionella prevention, and efficiency comparison with remote condensers."
 keywords: ["evaporative condenser", "wet bulb approach", "refrigerant condensing", "water treatment HVAC", "Legionella prevention", "scale control", "freeze protection", "evaporative cooling efficiency"]
+tags: ["evaporative condenser", "wet bulb approach", "refrigerant condensing", "water treatment HVAC", "Legionella prevention", "scale control", "freeze protection", "evaporative cooling efficiency"]
 ---
 
 ## Operating Principles

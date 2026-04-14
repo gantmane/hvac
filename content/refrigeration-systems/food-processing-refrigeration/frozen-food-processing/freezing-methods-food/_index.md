@@ -1,5 +1,6 @@
 ---
 title: "Freezing Methods Food"
+aliases: ["Freezing Methods Food"]
 weight: 1
 ---
 

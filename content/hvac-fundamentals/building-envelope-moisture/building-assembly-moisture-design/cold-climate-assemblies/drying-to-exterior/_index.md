@@ -1,5 +1,6 @@
 ---
 title: "Drying To Exterior"
+aliases: ["Drying To Exterior"]
 weight: 2
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Booking Area HVAC Systems in Justice Facilities"
+aliases: ["Booking Area HVAC Systems in Justice Facilities"]
 description: "Engineering guide for booking area ventilation design in correctional facilities, covering variable occupancy loads, odor control strategies, and security ventilation."
 keywords: ["booking area ventilation", "justice facility HVAC", "correctional booking HVAC", "variable occupancy ventilation", "odor control systems", "security area ventilation", "fingerprint room exhaust", "search area ventilation"]
+tags: ["booking area ventilation", "justice facility HVAC", "correctional booking HVAC", "variable occupancy ventilation", "odor control systems", "security area ventilation", "fingerprint room exhaust", "search area ventilation"]
 weight: 3
 ---
 

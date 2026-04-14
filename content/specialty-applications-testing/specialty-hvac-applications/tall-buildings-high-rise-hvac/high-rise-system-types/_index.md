@@ -1,8 +1,10 @@
 ---
 title: "High-Rise HVAC System Types and Selection"
+aliases: ["High-Rise HVAC System Types and Selection"]
 seo_title: "High-Rise HVAC Systems: Types, Comparison & Selection"
 description: "Comprehensive guide to HVAC system types for tall buildings including all-air systems, fan coil units, water-source heat pumps, VRF, and chilled beams with physics-based selection criteria."
 keywords: ["high-rise HVAC systems", "tall building HVAC", "fan coil units", "water-source heat pumps", "VRF systems", "chilled beam systems", "all-air systems high-rise", "HVAC system selection"]
+tags: ["high-rise HVAC systems", "tall building HVAC", "fan coil units", "water-source heat pumps", "VRF systems", "chilled beam systems", "all-air systems high-rise", "HVAC system selection"]
 weight: 13
 ---
 

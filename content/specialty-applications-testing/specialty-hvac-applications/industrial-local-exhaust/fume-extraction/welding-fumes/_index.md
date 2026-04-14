@@ -1,7 +1,9 @@
 ---
 title: "Welding Fume Extraction Systems for Industrial Safety"
+aliases: ["Welding Fume Extraction Systems for Industrial Safety"]
 description: "Technical guide to welding fume extraction covering capture velocity requirements, hood design, filtration systems, and OSHA exposure limits for manganese and chromium."
 keywords: ["welding fume extraction", "capture velocity", "hexavalent chromium", "manganese exposure", "welding hood design", "fume filtration", "OSHA compliance", "industrial ventilation"]
+tags: ["welding fume extraction", "capture velocity", "hexavalent chromium", "manganese exposure", "welding hood design", "fume filtration", "OSHA compliance", "industrial ventilation"]
 weight: 1
 ---
 

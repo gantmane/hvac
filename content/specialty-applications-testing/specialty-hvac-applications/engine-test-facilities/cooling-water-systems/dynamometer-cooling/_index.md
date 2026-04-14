@@ -1,7 +1,9 @@
 ---
 title: "Dynamometer Cooling Systems for Engine Test Cells"
+aliases: ["Dynamometer Cooling Systems for Engine Test Cells"]
 description: "Water brake and eddy current dynamometer cooling requirements, heat dissipation calculations, flow rates, temperature limits, and heat exchanger sizing."
 keywords: ["dynamometer cooling", "water brake dyno", "eddy current cooling", "dyno heat exchanger", "test cell cooling", "brake cooling systems", "dyno temperature control", "cooling water calculations"]
+tags: ["dynamometer cooling", "water brake dyno", "eddy current cooling", "dyno heat exchanger", "test cell cooling", "brake cooling systems", "dyno temperature control", "cooling water calculations"]
 date: 2025-01-11
 weight: 2
 draft: false

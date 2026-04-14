@@ -1,8 +1,10 @@
 ---
 title: "Automotive AC Systems: Mobile Refrigeration Technology"
+aliases: ["Automotive AC Systems: Mobile Refrigeration Technology"]
 weight: 1
 description: "Comprehensive analysis of automotive air conditioning systems, refrigeration cycles, compressor technology, and refrigerant evolution from R-12 through R-1234yf with thermodynamic principles."
 keywords: ["automotive AC", "mobile air conditioning", "R-1234yf refrigerant", "variable displacement compressor", "automotive HVAC", "SAE J2765", "vehicle climate control", "scroll compressor"]
+tags: ["automotive AC", "mobile air conditioning", "R-1234yf refrigerant", "variable displacement compressor", "automotive HVAC", "SAE J2765", "vehicle climate control", "scroll compressor"]
 ---
 
 Automotive air conditioning systems represent a unique application of vapor-compression refrigeration, operating under severe constraints of variable engine speed, limited space, significant vibration, and widely varying ambient conditions. Modern automotive AC systems achieve cooling capacities between 3-6 kW while maintaining efficiency across engine speeds from 600-6000 RPM.

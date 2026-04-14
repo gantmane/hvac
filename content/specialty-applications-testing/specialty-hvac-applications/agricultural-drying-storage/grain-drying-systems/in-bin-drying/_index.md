@@ -1,7 +1,9 @@
 ---
 title: "In-Bin Grain Drying Systems for Agricultural Storage"
+aliases: ["In-Bin Grain Drying Systems for Agricultural Storage"]
 description: "Comprehensive analysis of in-bin grain drying systems including layer drying, full-bin methods, perforated floor design, airflow distribution, and automation controls."
 keywords: ["in-bin drying", "grain storage", "perforated floor", "layer drying", "grain aeration", "stirring devices", "drying automation", "airflow distribution"]
+tags: ["in-bin drying", "grain storage", "perforated floor", "layer drying", "grain aeration", "stirring devices", "drying automation", "airflow distribution"]
 date: 2025-01-11
 weight: 1
 draft: false

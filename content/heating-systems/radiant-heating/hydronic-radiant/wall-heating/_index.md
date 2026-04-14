@@ -1,5 +1,6 @@
 ---
 title: "Wall Heating"
+aliases: ["Wall Heating"]
 description: "Technical guide to hydronic radiant wall heating systems including embedded tube design, plaster and drywall installation methods, surface temperature control, heat transfer analysis, and application considerations for residential and commercial spaces."
 weight: 2
 ---

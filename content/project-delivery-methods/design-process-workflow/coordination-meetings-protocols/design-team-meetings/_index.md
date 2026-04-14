@@ -1,5 +1,6 @@
 ---
 title: "Design Team Meetings"
+aliases: ["Design Team Meetings"]
 description: "Internal design team meeting protocols for HVAC projects including weekly coordination meetings, agenda management, minutes documentation, action item tracking, and decision logging procedures."
 weight: 1
 ---

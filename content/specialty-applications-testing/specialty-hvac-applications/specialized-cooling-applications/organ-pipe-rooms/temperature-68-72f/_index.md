@@ -1,7 +1,9 @@
 ---
 title: "Organ Chamber Temperature Control 68-72°F"
+aliases: ["Organ Chamber Temperature Control 68-72°F"]
 description: "Physics-based analysis of temperature control for pipe organs including tuning frequency relationships, thermal expansion of pipe materials, air density effects, and HVAC control strategies."
 keywords: "organ temperature control, pipe organ tuning temperature, thermal expansion organ pipes, organ chamber HVAC, temperature stability tuning, organ temperature setpoint, pipe frequency temperature"
+tags: ["organ temperature control", "pipe organ tuning temperature", "thermal expansion organ pipes", "organ chamber HVAC", "temperature stability tuning", "organ temperature setpoint", "pipe frequency temperature"]
 weight: 1
 ---
 

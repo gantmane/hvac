@@ -1,7 +1,9 @@
 ---
 title: "Mow Drying Systems for Hay Storage and Preservation"
+aliases: ["Mow Drying Systems for Hay Storage and Preservation"]
 description: "Engineering principles of forced-air mow drying systems for hay, including duct design, fan sizing, airflow requirements, and quality preservation techniques."
 keywords: ["mow drying", "hay preservation", "forced air drying", "agricultural ventilation", "hay storage", "duct design", "airflow calculations", "moisture removal"]
+tags: ["mow drying", "hay preservation", "forced air drying", "agricultural ventilation", "hay storage", "duct design", "airflow calculations", "moisture removal"]
 date: 2025-01-11
 weight: 3
 draft: false

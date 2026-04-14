@@ -1,5 +1,6 @@
 ---
 title: "Aircraft Environmental Control Systems"
+aliases: ["Aircraft Environmental Control Systems"]
 description: "Comprehensive guide to aircraft ECS design covering bleed air systems, air cycle machines, cabin pressurization, and temperature control per SAE ARP standards."
 weight: 24
 keywords:

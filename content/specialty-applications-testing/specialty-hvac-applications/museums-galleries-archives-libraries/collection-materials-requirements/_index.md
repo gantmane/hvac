@@ -1,7 +1,9 @@
 ---
 title: "Collection Materials Climate Requirements"
+aliases: ["Collection Materials Climate Requirements"]
 description: "Technical analysis of temperature, humidity, light, and pollutant control requirements for organic and inorganic collection materials in museums and archives."
 keywords: ["museum climate control", "hygroscopic materials", "preservation environment", "collection RH requirements", "artifact conservation", "material degradation", "museum HVAC standards", "archive environmental control"]
+tags: ["museum climate control", "hygroscopic materials", "preservation environment", "collection RH requirements", "artifact conservation", "material degradation", "museum HVAC standards", "archive environmental control"]
 weight: 9
 ---
 

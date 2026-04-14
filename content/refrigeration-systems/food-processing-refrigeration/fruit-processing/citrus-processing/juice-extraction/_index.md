@@ -1,5 +1,6 @@
 ---
 title: "Juice Extraction Facility HVAC"
+aliases: ["Juice Extraction Facility HVAC"]
 description: "HVAC design for citrus juice extraction facilities including processing room environmental control, equipment heat load management, sanitation requirements, and air quality systems for extraction operations."
 weight: 4
 ---

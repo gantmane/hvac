@@ -1,7 +1,9 @@
 ---
 title: "Daily HVAC Load Profiles & Energy Patterns"
+aliases: ["Daily HVAC Load Profiles & Energy Patterns"]
 description: "Analysis of daily HVAC load profiles for commercial and residential buildings, including peak demand timing, load factors, weekend variations, and hourly consumption patterns."
 keywords: ["daily load profile", "HVAC energy patterns", "peak demand", "load factor", "commercial building loads", "residential HVAC loads", "hourly energy consumption", "building energy patterns"]
+tags: ["daily load profile", "HVAC energy patterns", "peak demand", "load factor", "commercial building loads", "residential HVAC loads", "hourly energy consumption", "building energy patterns"]
 weight: 1
 ---
 

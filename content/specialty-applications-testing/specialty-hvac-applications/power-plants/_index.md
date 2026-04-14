@@ -1,5 +1,6 @@
 ---
 title: "Power Plant HVAC Systems"
+aliases: ["Power Plant HVAC Systems"]
 description: "Critical HVAC requirements for power generation facilities including control room conditioning, turbine hall ventilation, battery room hydrogen management, and fossil/combined cycle considerations."
 date: "2026-01-05"
 weight: 11

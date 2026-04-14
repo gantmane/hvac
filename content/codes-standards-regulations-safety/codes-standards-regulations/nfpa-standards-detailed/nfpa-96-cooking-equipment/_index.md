@@ -1,10 +1,12 @@
 ---
 title: "NFPA 96: Commercial Cooking Exhaust and Fire Protection"
+aliases: ["NFPA 96: Commercial Cooking Exhaust and Fire Protection"]
 linkTitle: "NFPA 96 Standard"
 weight: 3
 date: 2026-01-11
 description: "Complete guide to NFPA 96 Standard for Ventilation Control and Fire Protection of Commercial Cooking Operations, covering Type I and II hoods, grease duct design, fire suppression systems, makeup air, and clearances to combustibles."
 keywords: ["NFPA 96", "commercial kitchen exhaust", "Type I hood", "grease duct construction", "fire suppression systems", "cooking equipment ventilation", "hood airflow calculations", "kitchen fire protection"]
+tags: ["NFPA 96", "commercial kitchen exhaust", "Type I hood", "grease duct construction", "fire suppression systems", "cooking equipment ventilation", "hood airflow calculations", "kitchen fire protection"]
 ---
 
 ## Overview of NFPA 96

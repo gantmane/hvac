@@ -1,5 +1,6 @@
 ---
 title: "Bidding Phase"
+aliases: ["Bidding Phase"]
 description: "HVAC bid document preparation, specification review, pre-bid meetings, addenda management, contractor qualification, and bid evaluation for mechanical construction projects"
 weight: 1
 ---

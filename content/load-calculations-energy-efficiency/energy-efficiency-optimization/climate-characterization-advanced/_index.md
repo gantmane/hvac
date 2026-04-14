@@ -1,5 +1,6 @@
 ---
 title: "Climate Characterization Advanced"
+aliases: ["Climate Characterization Advanced"]
 description: "Advanced climate analysis methods for HVAC design including degree-days, bin methods, typical meteorological years, and climate data sources for energy modeling."
 weight: 9
 ---

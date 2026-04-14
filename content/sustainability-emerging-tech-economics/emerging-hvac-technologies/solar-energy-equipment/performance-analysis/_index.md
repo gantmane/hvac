@@ -1,5 +1,6 @@
 ---
 title: "Performance Analysis"
+aliases: ["Performance Analysis"]
 weight: 5
 ---
 

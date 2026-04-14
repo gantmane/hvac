@@ -1,5 +1,6 @@
 ---
 title: "Architectural Coordination"
+aliases: ["Architectural Coordination"]
 description: "Comprehensive architectural coordination requirements for HVAC systems including space allocation, equipment room design, ceiling coordination, vertical shaft sizing, BIM coordination workflows, and integration strategies for mechanical systems within building architecture."
 weight: 7
 ---

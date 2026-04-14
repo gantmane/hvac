@@ -1,5 +1,6 @@
 ---
 title: "IQF Poultry Products: Individual Quick Freezing Systems"
+aliases: ["IQF Poultry Products: Individual Quick Freezing Systems"]
 description: "Technical analysis of individual quick freezing systems for poultry products including fluidized bed freezers, heat transfer calculations, and cryogenic methods."
 date: 2025-01-05
 tags: ["IQF", "poultry freezing", "quick freezing", "fluidized bed", "cryogenic freezing", "food processing"]

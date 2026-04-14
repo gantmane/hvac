@@ -1,5 +1,6 @@
 ---
 title: "Azeotropic Mixtures"
+aliases: ["Azeotropic Mixtures"]
 description: "Comprehensive analysis of azeotropic refrigerant blends, thermodynamic behavior, composition stability, single boiling point characteristics, charging methods, and applications in refrigeration systems."
 weight: 2
 ---

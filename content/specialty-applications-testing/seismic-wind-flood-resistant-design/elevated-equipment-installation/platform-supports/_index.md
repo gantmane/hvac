@@ -1,5 +1,6 @@
 ---
 title: "Platform Supports for Elevated HVAC Equipment"
+aliases: ["Platform Supports for Elevated HVAC Equipment"]
 description: "Engineering requirements for platform supports including dunnage, housekeeping pads, and structural frames for HVAC equipment with load calculations and design criteria."
 date: 2025-01-05
 keywords:

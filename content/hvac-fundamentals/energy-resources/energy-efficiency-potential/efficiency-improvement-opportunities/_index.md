@@ -1,5 +1,6 @@
 ---
 title: "Efficiency Improvement Opportunities"
+aliases: ["Efficiency Improvement Opportunities"]
 description: "Comprehensive analysis of HVAC efficiency improvement opportunities including equipment upgrades, system optimization, control strategies, and building envelope integration with quantified energy savings potential for mechanical systems"
 weight: 2
 ---

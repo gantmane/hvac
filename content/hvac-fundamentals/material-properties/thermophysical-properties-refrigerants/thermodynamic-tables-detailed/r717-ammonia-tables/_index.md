@@ -1,5 +1,6 @@
 ---
 title: "R717 Ammonia Tables"
+aliases: ["R717 Ammonia Tables"]
 weight: 5
 ---
 

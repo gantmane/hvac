@@ -1,5 +1,6 @@
 ---
 title: "Mold Growth Conditions"
+aliases: ["Mold Growth Conditions"]
 description: "Environmental conditions required for mold growth including temperature, relative humidity, substrate requirements, and germination time. ASHRAE 160 performance criteria for mold prevention in building envelopes."
 weight: 1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Chilling Temperature Control in Poultry Processing"
+aliases: ["Chilling Temperature Control in Poultry Processing"]
 description: "Temperature control strategies for poultry chilling systems including immersion, air, and hybrid methods. Physics-based analysis of cooling rates and microbial safety."
 date: 2025-01-05
 weight: 4

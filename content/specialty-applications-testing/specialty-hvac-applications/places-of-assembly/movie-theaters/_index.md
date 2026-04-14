@@ -1,7 +1,9 @@
 ---
 title: "Movie Theater HVAC: Intermittent Occupancy Challenges"
+aliases: ["Movie Theater HVAC: Intermittent Occupancy Challenges"]
 description: "Engineering analysis of cinema HVAC systems addressing transient thermal loads, ultra-low noise requirements (NC 25-35), and ventilation effectiveness for seated audiences."
 keywords: ["movie theater HVAC", "cinema ventilation", "intermittent occupancy loads", "NC 25 noise criteria", "displacement ventilation", "odor control theaters", "thermal stratification", "auditorium air distribution"]
+tags: ["movie theater HVAC", "cinema ventilation", "intermittent occupancy loads", "NC 25 noise criteria", "displacement ventilation", "odor control theaters", "thermal stratification", "auditorium air distribution"]
 weight: 5
 ---
 

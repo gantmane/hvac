@@ -1,5 +1,6 @@
 ---
 title: "Aircraft Carrier HVAC Systems"
+aliases: ["Aircraft Carrier HVAC Systems"]
 description: "Technical analysis of aircraft carrier HVAC systems including hangar deck ventilation, JP-5 vapor control, nuclear-powered chiller plants, crew habitability for 5000+ personnel."
 keywords:
   - aircraft carrier HVAC

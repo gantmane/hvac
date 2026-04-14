@@ -1,5 +1,6 @@
 ---
 title: "Bid Opening Procedures"
+aliases: ["Bid Opening Procedures"]
 weight: 1
 ---
 

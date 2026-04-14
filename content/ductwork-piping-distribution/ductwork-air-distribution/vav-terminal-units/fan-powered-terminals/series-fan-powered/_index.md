@@ -1,5 +1,6 @@
 ---
 title: "Series Fan Powered"
+aliases: ["Series Fan Powered"]
 weight: 1
 ---
 

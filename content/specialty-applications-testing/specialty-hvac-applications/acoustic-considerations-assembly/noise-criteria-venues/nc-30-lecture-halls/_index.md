@@ -1,5 +1,6 @@
 ---
 title: "NC-30 Lecture Hall HVAC Acoustic Design"
+aliases: ["NC-30 Lecture Hall HVAC Acoustic Design"]
 description: "Technical guidance on achieving NC-30 acoustic criteria in lecture halls including octave band limits, speech intelligibility requirements, HVAC system design, and sound path analysis."
 keywords: ["NC-30 lecture halls", "speech intelligibility", "lecture hall HVAC", "acoustic design", "octave band limits", "ASHRAE acoustics", "background noise control", "educational acoustics"]
 tags: ["acoustics", "noise criteria", "lecture halls", "educational facilities", "sound design"]

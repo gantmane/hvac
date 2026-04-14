@@ -1,5 +1,6 @@
 ---
 title: "Miscibility"
+aliases: ["Miscibility"]
 description: "Comprehensive analysis of refrigerant-lubricant miscibility including temperature effects, critical solution temperatures, miscibility gaps, oil return mechanics, solubility relationships, and system design implications for refrigeration applications"
 weight: 3
 ---

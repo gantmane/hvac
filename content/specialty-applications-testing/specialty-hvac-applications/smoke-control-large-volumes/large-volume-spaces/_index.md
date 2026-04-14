@@ -1,7 +1,9 @@
 ---
 title: "Large Volume Smoke Control Design"
+aliases: ["Large Volume Smoke Control Design"]
 description: "Engineering smoke control systems for atriums, warehouses, and arenas. NFPA 92 design approaches, smoke filling calculations, and exhaust strategies for large spaces."
 keywords: ["large volume smoke control", "atrium smoke control", "warehouse smoke exhaust", "arena smoke management", "NFPA 92", "smoke filling time", "smoke layer interface", "natural ventilation smoke control"]
+tags: ["large volume smoke control", "atrium smoke control", "warehouse smoke exhaust", "arena smoke management", "NFPA 92", "smoke filling time", "smoke layer interface", "natural ventilation smoke control"]
 weight: 3
 ---
 

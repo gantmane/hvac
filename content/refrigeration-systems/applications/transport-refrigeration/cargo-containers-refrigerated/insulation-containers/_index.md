@@ -1,5 +1,6 @@
 ---
 title: "Insulation Containers"
+aliases: ["Insulation Containers"]
 weight: 4
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Humidity Control for Rare Book Libraries"
+aliases: ["Humidity Control for Rare Book Libraries"]
 weight: 2
 description: "Humidity control systems for rare book preservation including dehumidification, humidification, seasonal management, and mold prevention strategies."
 keywords: ["humidity control", "rare book preservation", "dehumidification", "humidification systems", "mold prevention", "library HVAC", "archival storage", "moisture management"]
+tags: ["humidity control", "rare book preservation", "dehumidification", "humidification systems", "mold prevention", "library HVAC", "archival storage", "moisture management"]
 ---
 
 Humidity control represents the most critical environmental parameter for rare book preservation. Fluctuations in relative humidity cause dimensional changes in hygroscopic materials, accelerate chemical degradation, and create conditions favorable for biological growth. Precision humidity management requires year-round monitoring, rapid response capability, and redundant control systems.

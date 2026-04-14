@@ -1,5 +1,6 @@
 ---
 title: "Material-Specific Equilibrium Moisture Content"
+aliases: ["Material-Specific Equilibrium Moisture Content"]
 description: "Comprehensive analysis of equilibrium moisture content characteristics for building materials including wood, masonry, insulation, and hygroscopic materials with sorption isotherms, fiber saturation points, and moisture storage functions"
 weight: 2
 ---

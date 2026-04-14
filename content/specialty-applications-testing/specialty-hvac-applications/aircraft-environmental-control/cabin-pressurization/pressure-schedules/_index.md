@@ -1,7 +1,9 @@
 ---
 title: "Aircraft Cabin Pressure Schedules and Control Algorithms"
+aliases: ["Aircraft Cabin Pressure Schedules and Control Algorithms"]
 description: "Comprehensive analysis of cabin pressure scheduling during flight operations, including altitude programming, differential limits, and rate control for passenger comfort."
 keywords: ["cabin pressure schedule", "pressure differential", "cabin altitude", "isobaric control", "differential control", "rate of change", "flight profile", "pressurization control"]
+tags: ["cabin pressure schedule", "pressure differential", "cabin altitude", "isobaric control", "differential control", "rate of change", "flight profile", "pressurization control"]
 weight: 1
 ---
 

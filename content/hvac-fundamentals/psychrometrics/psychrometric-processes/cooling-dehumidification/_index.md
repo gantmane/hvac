@@ -1,5 +1,6 @@
 ---
 title: "Cooling and Dehumidification"
+aliases: ["Cooling and Dehumidification"]
 description: "Comprehensive analysis of simultaneous cooling and moisture removal processes in HVAC systems, including wet cooling coil performance, sensible heat ratio calculations, apparatus dew point theory, and practical design considerations"
 weight: 3
 ---

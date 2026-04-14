@@ -1,7 +1,9 @@
 ---
 title: "End-of-Car HVAC Equipment Placement in Transit"
+aliases: ["End-of-Car HVAC Equipment Placement in Transit"]
 description: "Technical guide to end-of-car HVAC equipment placement in rail transit vehicles covering gangway integration, space allocation calculations, passenger flow optimization, and serviceability."
 keywords: "end-of-car HVAC, transit equipment placement, gangway integration, rail car bulkhead, HVAC serviceability, passenger flow design, transit space allocation, bulkhead equipment mounting"
+tags: ["end-of-car HVAC", "transit equipment placement", "gangway integration", "rail car bulkhead", "HVAC serviceability", "passenger flow design", "transit space allocation", "bulkhead equipment mounting"]
 weight: 3
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Global Heating Efficiency Standards & Metrics"
+aliases: ["Global Heating Efficiency Standards & Metrics"]
 description: "Comprehensive analysis of international heating efficiency metrics including AFUE, SCOP, and HSPF. Physics-based comparison of global standards for furnaces and heat pumps."
 keywords: ["AFUE", "SCOP", "HSPF", "heating efficiency", "seasonal coefficient of performance", "COP", "furnace efficiency", "heat pump efficiency"]
+tags: ["AFUE", "SCOP", "HSPF", "heating efficiency", "seasonal coefficient of performance", "COP", "furnace efficiency", "heat pump efficiency"]
 date: 2026-01-05
 weight: 2
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Duct Leakage"
+aliases: ["Duct Leakage"]
 weight: 7
 ---
 

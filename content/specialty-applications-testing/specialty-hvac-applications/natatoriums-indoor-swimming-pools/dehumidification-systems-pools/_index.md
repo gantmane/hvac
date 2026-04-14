@@ -1,8 +1,10 @@
 ---
 title: "Dehumidification System Design"
+aliases: ["Dehumidification System Design"]
 weight: 3
 description: "Comprehensive analysis of natatorium dehumidification systems including mechanical refrigeration, desiccant, and heat recovery approaches with equipment sizing, psychrometric processes, and energy performance optimization."
 keywords: "pool dehumidification, natatorium HVAC equipment, heat recovery dehumidifier, mechanical dehumidification, desiccant systems, pool HVAC sizing"
+tags: ["pool dehumidification", "natatorium HVAC equipment", "heat recovery dehumidifier", "mechanical dehumidification", "desiccant systems", "pool HVAC sizing"]
 ---
 
 Dehumidification system design represents the core technical challenge in natatorium HVAC engineering. The system must continuously remove massive quantities of moisture (often 50-150 lb/h for typical pools) while maintaining precise humidity control, providing thermal comfort, and operating efficiently across varying loads and outdoor conditions.

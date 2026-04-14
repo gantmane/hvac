@@ -1,8 +1,10 @@
 ---
 title: "Ice Rink and Arena HVAC Systems"
+aliases: ["Ice Rink and Arena HVAC Systems"]
 seo_title: "Ice Rink HVAC: Design Requirements & Load Calculations"
 description: "Comprehensive guide to ice rink HVAC design covering refrigeration loads, dehumidification strategies, thermal zone management, and spectator comfort optimization."
 keywords: ["ice rink HVAC", "arena dehumidification", "ice sheet heat load", "refrigeration capacity", "ice surface temperature", "spectator comfort", "arena climate control", "ASHRAE ice rink"]
+tags: ["ice rink HVAC", "arena dehumidification", "ice sheet heat load", "refrigeration capacity", "ice surface temperature", "spectator comfort", "arena climate control", "ASHRAE ice rink"]
 weight: 1
 ---
 

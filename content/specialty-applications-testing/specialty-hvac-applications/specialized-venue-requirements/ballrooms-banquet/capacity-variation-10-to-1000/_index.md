@@ -1,8 +1,10 @@
 ---
 title: "HVAC for Wide Capacity Variations 10-1000 Persons"
+aliases: ["HVAC for Wide Capacity Variations 10-1000 Persons"]
 seo_title: "HVAC Design for Ballrooms with 10-1000 Person Capacity"
 description: "Engineering HVAC systems for extreme occupancy variations in ballrooms and banquet halls. CO2-based demand ventilation, VAV sizing strategies, and part-load efficiency."
 keywords: ["ballroom HVAC", "variable occupancy ventilation", "CO2 demand control", "VAV system design", "part-load efficiency", "banquet hall climate control", "occupancy-based HVAC", "DCV systems"]
+tags: ["ballroom HVAC", "variable occupancy ventilation", "CO2 demand control", "VAV system design", "part-load efficiency", "banquet hall climate control", "occupancy-based HVAC", "DCV systems"]
 weight: 2
 ---
 

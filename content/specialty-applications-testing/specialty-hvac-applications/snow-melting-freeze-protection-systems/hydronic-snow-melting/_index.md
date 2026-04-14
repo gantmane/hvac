@@ -1,7 +1,9 @@
 ---
 title: "Hydronic Snow Melting Systems"
+aliases: ["Hydronic Snow Melting Systems"]
 description: "Technical guide to hydronic snow melting system design including embedded tubing layouts, tube spacing calculations, antifreeze solutions, fluid temperatures, flow rates, and heat source integration for effective snow and ice control."
 keywords: ["hydronic snow melting", "embedded tubing", "tube spacing", "glycol antifreeze", "fluid temperature", "flow rate calculation", "snow melt design", "PEX tubing", "circulator pumps", "heat exchangers"]
+tags: ["hydronic snow melting", "embedded tubing", "tube spacing", "glycol antifreeze", "fluid temperature", "flow rate calculation", "snow melt design", "PEX tubing", "circulator pumps", "heat exchangers"]
 weight: 1
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Stone and Ceramic Preservation HVAC"
+aliases: ["Stone and Ceramic Preservation HVAC"]
 description: "Environmental control for stone and ceramic artifacts including soluble salt damage prevention, freeze-thaw protection, and humidity cycling minimization for porous mineral materials in museum collections."
 weight: 4
 ---

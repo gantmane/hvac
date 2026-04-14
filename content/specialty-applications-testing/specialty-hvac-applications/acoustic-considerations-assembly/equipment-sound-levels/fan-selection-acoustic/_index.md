@@ -1,5 +1,6 @@
 ---
 title: "Fan Selection for Acoustic Performance in Assembly Spaces"
+aliases: ["Fan Selection for Acoustic Performance in Assembly Spaces"]
 description: "Technical guidance on selecting HVAC fans for low-noise applications including sound power calculations, fan type comparisons, speed optimization, and AMCA ratings."
 date: 2026-01-11
 tags: ["fan acoustics", "sound power levels", "AMCA ratings", "fan selection", "assembly spaces", "noise control", "fan speed", "plenum fans", "backward inclined fans"]

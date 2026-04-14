@@ -1,8 +1,10 @@
 ---
 title: "HVAC Sensors and Transducers: Technology Guide"
+aliases: ["HVAC Sensors and Transducers: Technology Guide"]
 seo_title: "HVAC Sensors & Transducers: Complete Technical Guide"
 description: "Comprehensive guide to HVAC sensors and transducers covering temperature, pressure, humidity, flow, and air quality measurement with accuracy standards and selection criteria."
 keywords: ["HVAC sensors", "transducers", "temperature sensors", "pressure transducers", "humidity sensors", "air quality sensors", "sensor accuracy", "ASHRAE standards"]
+tags: ["HVAC sensors", "transducers", "temperature sensors", "pressure transducers", "humidity sensors", "air quality sensors", "sensor accuracy", "ASHRAE standards"]
 weight: 5
 ---
 

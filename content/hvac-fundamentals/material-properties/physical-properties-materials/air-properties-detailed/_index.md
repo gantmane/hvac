@@ -1,5 +1,6 @@
 ---
 title: "Air Properties Detailed"
+aliases: ["Air Properties Detailed"]
 description: "Comprehensive air thermophysical properties for HVAC engineering including density, viscosity, thermal conductivity, specific heat, and Prandtl number as functions of temperature with calculation equations and property tables"
 weight: 7
 ---

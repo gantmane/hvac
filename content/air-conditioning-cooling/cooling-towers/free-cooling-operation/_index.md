@@ -1,8 +1,10 @@
 ---
 title: "Free Cooling Operation with Cooling Towers"
+aliases: ["Free Cooling Operation with Cooling Towers"]
 weight: 5
 description: "Waterside economizer systems using cooling towers for free cooling, including plate heat exchangers, condenser water reset strategies, and energy savings calculations."
 keywords: ["waterside economizer", "free cooling", "plate heat exchanger", "condenser water reset", "cooling tower efficiency", "energy savings", "thermal economizer", "chiller bypass"]
+tags: ["waterside economizer", "free cooling", "plate heat exchanger", "condenser water reset", "cooling tower efficiency", "energy savings", "thermal economizer", "chiller bypass"]
 ---
 
 Free cooling with cooling towers exploits favorable ambient conditions to provide building cooling without mechanical refrigeration. This waterside economizer approach leverages the temperature difference between cold outdoor air and the cooling load, delivering substantial energy savings when wet-bulb temperatures permit direct or indirect heat exchange.

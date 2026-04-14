@@ -1,5 +1,6 @@
 ---
 title: "Client Meetings"
+aliases: ["Client Meetings"]
 weight: 2
 ---
 

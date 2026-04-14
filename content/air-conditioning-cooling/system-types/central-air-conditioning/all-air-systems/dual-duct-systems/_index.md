@@ -1,5 +1,6 @@
 ---
 title: "Dual Duct Systems"
+aliases: ["Dual Duct Systems"]
 weight: 2
 ---
 

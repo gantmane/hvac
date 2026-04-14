@@ -1,7 +1,9 @@
 ---
 title: "Biosafety Cabinet Exhaust Connections"
+aliases: ["Biosafety Cabinet Exhaust Connections"]
 description: "Engineering analysis of biosafety cabinet exhaust connection methods including Type A recirculation, Type B hard-ducted systems, thimble connections, airflow balance requirements, and NSF/ANSI 49 certification testing protocols."
 keywords: ["biosafety cabinet exhaust", "Type A BSC", "Type B BSC", "thimble connection", "hard-ducted exhaust", "NSF/ANSI 49", "BSC certification", "cabinet airflow balance", "HEPA exhaust filtration"]
+tags: ["biosafety cabinet exhaust", "Type A BSC", "Type B BSC", "thimble connection", "hard-ducted exhaust", "NSF/ANSI 49", "BSC certification", "cabinet airflow balance", "HEPA exhaust filtration"]
 date: 2026-01-11
 draft: false
 weight: 1

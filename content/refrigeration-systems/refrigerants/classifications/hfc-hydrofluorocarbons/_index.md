@@ -1,5 +1,6 @@
 ---
 title: "HFC Hydrofluorocarbons"
+aliases: ["HFC Hydrofluorocarbons"]
 description: "Comprehensive technical analysis of hydrofluorocarbon refrigerants including molecular structure, thermodynamic properties, applications, environmental impact, regulatory phasedown schedules, and transition strategies to low-GWP alternatives"
 weight: 3
 ---

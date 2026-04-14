@@ -1,5 +1,6 @@
 ---
 title: "Competitive Bidding"
+aliases: ["Competitive Bidding"]
 description: "Complete analysis of competitive bidding processes for HVAC construction projects, covering invitation to bid procedures, sealed bid requirements, public bid openings, and bid evaluation criteria."
 weight: 1
 ---

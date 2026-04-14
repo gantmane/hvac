@@ -1,8 +1,10 @@
 ---
 title: "Type M Copper Piping for Domestic Hot Water Systems"
+aliases: ["Type M Copper Piping for Domestic Hot Water Systems"]
 weight: 2
 description: "Technical guide to Type M copper tubing for DHW applications, covering wall thickness specifications, pressure ratings, ASTM B88 compliance, above-ground installation requirements, and code restrictions."
 keywords: ["Type M copper pipe", "thin wall copper tubing", "ASTM B88 Type M", "residential DHW piping", "copper pressure rating", "above-ground copper", "Type M limitations", "copper cost savings"]
+tags: ["Type M copper pipe", "thin wall copper tubing", "ASTM B88 Type M", "residential DHW piping", "copper pressure rating", "above-ground copper", "Type M limitations", "copper cost savings"]
 ---
 
 # Type M Copper Piping for Domestic Hot Water Systems

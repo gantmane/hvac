@@ -1,5 +1,6 @@
 ---
 title: "Packaging and Ready-to-Eat Poultry HVAC Requirements"
+aliases: ["Packaging and Ready-to-Eat Poultry HVAC Requirements"]
 description: "Technical HVAC design for RTE poultry packaging facilities including temperature control, air filtration, positive pressure, and food safety compliance."
 date: 2025-01-05
 weight: 3

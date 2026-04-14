@@ -1,8 +1,10 @@
 ---
 title: "Valley & Eave Protection: Ice Dam Prevention Systems"
+aliases: ["Valley & Eave Protection: Ice Dam Prevention Systems"]
 seo_title: "Valley Eave Protection Systems for Ice Dam Prevention"
 description: "Technical analysis of valley and eave cable heating systems for ice dam prevention. Covers heat requirements, cable placement strategies, and protection methods."
 keywords: ["valley heating", "eave protection", "ice dam prevention", "roof cable placement", "drip edge heating", "fascia protection", "snow valley accumulation", "freeze protection"]
+tags: ["valley heating", "eave protection", "ice dam prevention", "roof cable placement", "drip edge heating", "fascia protection", "snow valley accumulation", "freeze protection"]
 weight: 4
 ---
 

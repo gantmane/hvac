@@ -1,5 +1,6 @@
 ---
 title: "Model Energy Codes: IECC & ASHRAE 90.1 Standards"
+aliases: ["Model Energy Codes: IECC & ASHRAE 90.1 Standards"]
 weight: 1
 description: "Comprehensive guide to model energy codes including IECC and ASHRAE 90.1, code development cycles, state adoption processes, and compliance pathways for building efficiency."
 keywords:

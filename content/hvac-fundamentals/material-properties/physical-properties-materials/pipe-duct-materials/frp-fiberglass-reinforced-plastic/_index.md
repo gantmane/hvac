@@ -1,5 +1,6 @@
 ---
 title: "Frp Fiberglass Reinforced Plastic"
+aliases: ["Frp Fiberglass Reinforced Plastic"]
 weight: 4
 ---
 

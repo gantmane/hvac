@@ -1,5 +1,6 @@
 ---
 title: "Mechanical Ventilation Systems Engineering"
+aliases: ["Mechanical Ventilation Systems Engineering"]
 description: "Comprehensive engineering analysis of supply, exhaust, and balanced mechanical ventilation systems with fan power calculations, ASHRAE 62.1 requirements, and system performance optimization."
 date: 2025-01-05
 weight: 3

@@ -1,5 +1,6 @@
 ---
 title: "Sheet Layout Standards"
+aliases: ["Sheet Layout Standards"]
 weight: 2
 ---
 

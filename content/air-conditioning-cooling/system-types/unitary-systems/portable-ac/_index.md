@@ -1,5 +1,6 @@
 ---
 title: "Portable Ac"
+aliases: ["Portable Ac"]
 weight: 4
 ---
 

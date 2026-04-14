@@ -1,5 +1,6 @@
 ---
 title: "Ethylene Control"
+aliases: ["Ethylene Control"]
 weight: 3
 ---
 

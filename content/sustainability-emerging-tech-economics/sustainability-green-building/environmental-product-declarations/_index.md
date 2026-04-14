@@ -1,5 +1,6 @@
 ---
 title: "Environmental Product Declarations for HVAC Equipment"
+aliases: ["Environmental Product Declarations for HVAC Equipment"]
 description: "Technical guide to EPDs for HVAC systems including life cycle assessment methodology, carbon footprint quantification, and environmental impact evaluation."
 date: 2025-01-05
 tags: ["EPD", "LCA", "sustainability", "environmental impact", "embodied carbon", "ISO 14025", "ASHRAE"]

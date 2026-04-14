@@ -1,5 +1,6 @@
 ---
 title: "Snow and Ice Detection Sensors"
+aliases: ["Snow and Ice Detection Sensors"]
 weight: 1
 description: "Technical analysis of snow and ice sensors for automated snow melting systems including moisture detection physics, temperature sensing principles, sensor types, and installation practices"
 keywords:

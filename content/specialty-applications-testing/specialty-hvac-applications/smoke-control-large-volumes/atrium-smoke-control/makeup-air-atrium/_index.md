@@ -1,7 +1,9 @@
 ---
 title: "Makeup Air Systems for Atrium Smoke Control"
+aliases: ["Makeup Air Systems for Atrium Smoke Control"]
 description: "Technical analysis of makeup air requirements, velocity limits, inlet positioning, and plume entrainment effects in atrium smoke exhaust systems per NFPA 92 standards."
 keywords: ["atrium makeup air", "smoke control velocity limits", "makeup air inlet location", "plume entrainment", "NFPA 92 makeup air", "low-level air supply", "smoke exhaust compensation", "atrium air distribution"]
+tags: ["atrium makeup air", "smoke control velocity limits", "makeup air inlet location", "plume entrainment", "NFPA 92 makeup air", "low-level air supply", "smoke exhaust compensation", "atrium air distribution"]
 weight: 3
 ---
 

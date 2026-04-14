@@ -1,5 +1,6 @@
 ---
 title: "External Flow"
+aliases: ["External Flow"]
 description: "Comprehensive analysis of external flow over bodies including drag forces, boundary layer effects, flow separation, and applications to HVAC equipment design including cooling towers, heat exchangers, and outdoor air handling systems"
 weight: 7
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Air Permeability of Materials"
+aliases: ["Air Permeability of Materials"]
 description: "Air permeability coefficients, testing standards, and air barrier material requirements for HVAC building envelope moisture control and infiltration prevention."
 weight: 2
 ---

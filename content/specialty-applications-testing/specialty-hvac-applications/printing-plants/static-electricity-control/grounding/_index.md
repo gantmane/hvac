@@ -1,5 +1,6 @@
 ---
 title: "Grounding Systems for Static Control in Printing"
+aliases: ["Grounding Systems for Static Control in Printing"]
 weight: 3
 seo:
   title: "Grounding Systems for Static Electricity Control"

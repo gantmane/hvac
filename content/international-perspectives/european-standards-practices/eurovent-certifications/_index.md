@@ -1,5 +1,6 @@
 ---
 title: "Eurovent Certifications for HVAC Equipment"
+aliases: ["Eurovent Certifications for HVAC Equipment"]
 description: "Comprehensive guide to Eurovent certification programs for air handling units, fan coils, chillers, and heat pumps with performance verification standards."
 date: 2025-01-05
 tags: ["eurovent", "certifications", "european-standards", "performance-verification", "testing", "quality-assurance"]

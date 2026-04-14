@@ -1,5 +1,6 @@
 ---
 title: "Mold Growth Control"
+aliases: ["Mold Growth Control"]
 description: "HVAC design strategies for controlled mold cultivation in surface-ripened cheeses and prevention of unwanted mold contamination in cheese manufacturing facilities, including filtration systems, environmental control parameters, and air distribution requirements."
 weight: 4
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Particulate Filtration"
+aliases: ["Particulate Filtration"]
 description: "Fundamentals of particulate air filtration including capture mechanisms, particle size distributions, and filter performance for HVAC applications."
 keywords: ["particulate filtration", "particle removal", "air filtration", "HVAC filters", "aerosol filtration", "dust collection"]
+tags: ["particulate filtration", "particle removal", "air filtration", "HVAC filters", "aerosol filtration", "dust collection"]
 weight: 6
 ---
 

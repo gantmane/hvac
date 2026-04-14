@@ -1,8 +1,10 @@
 ---
 title: "Wind Effects on Tall Building HVAC Systems"
+aliases: ["Wind Effects on Tall Building HVAC Systems"]
 seo_title: "Wind Effects on High-Rise HVAC: Design Considerations"
 description: "Comprehensive analysis of wind-induced pressures, velocity profiles, outdoor air intake placement, exhaust re-entrainment, and cooling tower performance in tall buildings."
 keywords: ["wind pressure tall buildings", "high-rise HVAC wind effects", "exhaust re-entrainment", "cooling tower wind", "outdoor air intake placement", "boundary layer wind", "building aerodynamics", "stack effect wind interaction"]
+tags: ["wind pressure tall buildings", "high-rise HVAC wind effects", "exhaust re-entrainment", "cooling tower wind", "outdoor air intake placement", "boundary layer wind", "building aerodynamics", "stack effect wind interaction"]
 weight: 7
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Cook Chill Systems"
+aliases: ["Cook Chill Systems"]
 weight: 3
 ---
 

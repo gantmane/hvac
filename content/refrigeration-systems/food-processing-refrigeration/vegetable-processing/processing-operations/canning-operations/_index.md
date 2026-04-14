@@ -1,5 +1,6 @@
 ---
 title: "Canning Operations HVAC Systems"
+aliases: ["Canning Operations HVAC Systems"]
 description: "Technical design guide for HVAC systems in vegetable canning facilities including retort ventilation, steam management, high humidity control, and cooling tunnel requirements for thermal processing operations."
 weight: 3
 ---

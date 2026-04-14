@@ -1,5 +1,6 @@
 ---
 title: "Cake and Pastry Storage"
+aliases: ["Cake and Pastry Storage"]
 description: "Refrigeration system design for cake and pastry storage including temperature control, humidity management, cream product handling, frozen storage, display case requirements, and condensation prevention for bakery operations."
 weight: 2
 ---

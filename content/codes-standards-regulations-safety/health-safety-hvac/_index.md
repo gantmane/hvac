@@ -1,8 +1,10 @@
 ---
 title: "Health and Safety in HVAC Systems"
+aliases: ["Health and Safety in HVAC Systems"]
 date: 2026-01-04
 description: "HVAC health and safety requirements covering OSHA regulations, refrigerant safety, combustion hazards, IAQ protection, and workplace safety protocols."
 keywords: ["HVAC safety standards", "OSHA HVAC regulations", "refrigerant safety", "combustion safety", "indoor air quality hazards", "NIOSH guidelines", "EPA Section 608", "workplace HVAC hazards"]
+tags: ["HVAC safety standards", "OSHA HVAC regulations", "refrigerant safety", "combustion safety", "indoor air quality hazards", "NIOSH guidelines", "EPA Section 608", "workplace HVAC hazards"]
 weight: 2
 ---
 

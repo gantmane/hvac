@@ -1,7 +1,9 @@
 ---
 title: "Chassis Dynamometer Facility HVAC Systems"
+aliases: ["Chassis Dynamometer Facility HVAC Systems"]
 description: "Environmental control for chassis dynamometer testing including vehicle exhaust capture, radiator cooling simulation, ventilation, and emissions testing requirements."
 keywords: ["chassis dynamometer", "vehicle testing HVAC", "exhaust capture", "cooling fan simulation", "emissions testing", "dyno cell ventilation", "road load simulation", "automotive testing"]
+tags: ["chassis dynamometer", "vehicle testing HVAC", "exhaust capture", "cooling fan simulation", "emissions testing", "dyno cell ventilation", "road load simulation", "automotive testing"]
 weight: 2
 ---
 

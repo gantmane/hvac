@@ -1,7 +1,9 @@
 ---
 title: "Lamb Processing Refrigeration Systems"
+aliases: ["Lamb Processing Refrigeration Systems"]
 description: "Engineering analysis of lamb processing refrigeration covering carcass chilling rates, aging protocols, fabrication temperatures, heat transfer calculations, and export specifications."
 keywords: ["lamb chilling", "carcass refrigeration", "meat aging", "lamb processing HVAC", "export lamb cooling", "mutton processing", "USDA lamb standards", "cold shortening prevention"]
+tags: ["lamb chilling", "carcass refrigeration", "meat aging", "lamb processing HVAC", "export lamb cooling", "mutton processing", "USDA lamb standards", "cold shortening prevention"]
 weight: 4
 ---
 

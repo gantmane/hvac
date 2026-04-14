@@ -1,7 +1,9 @@
 ---
 title: "Bridge & Wheelhouse HVAC Systems"
+aliases: ["Bridge & Wheelhouse HVAC Systems"]
 description: "Technical analysis of marine bridge HVAC systems including solar gain calculations, navigation equipment cooling, window defrost systems, and 24/7 operational requirements."
 keywords: ["bridge HVAC", "wheelhouse climate control", "navigation equipment cooling", "bridge window defrost", "marine HVAC", "ship bridge ventilation", "maritime climate systems", "bridge solar gain"]
+tags: ["bridge HVAC", "wheelhouse climate control", "navigation equipment cooling", "bridge window defrost", "marine HVAC", "ship bridge ventilation", "maritime climate systems", "bridge solar gain"]
 weight: 4
 ---
 

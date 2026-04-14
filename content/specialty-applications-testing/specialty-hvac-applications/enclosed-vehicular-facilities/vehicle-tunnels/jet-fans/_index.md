@@ -1,8 +1,10 @@
 ---
 title: "Jet Fans for Tunnel Ventilation"
+aliases: ["Jet Fans for Tunnel Ventilation"]
 weight: 4
 description: "Physics-based analysis of jet fan thrust requirements, spacing calculations, Saccardo nozzle effect, reversible operation for emergency smoke control, and fire-rated installations."
 keywords: ["jet fans", "tunnel ventilation", "longitudinal ventilation", "thrust calculation", "Saccardo nozzle", "NFPA 502", "tunnel fire safety", "emergency ventilation"]
+tags: ["jet fans", "tunnel ventilation", "longitudinal ventilation", "thrust calculation", "Saccardo nozzle", "NFPA 502", "tunnel fire safety", "emergency ventilation"]
 ---
 
 ## Introduction

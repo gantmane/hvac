@@ -1,7 +1,9 @@
 ---
 title: "Evaporation Load Calculation for Natatorium HVAC"
+aliases: ["Evaporation Load Calculation for Natatorium HVAC"]
 description: "Engineer-focused methods for calculating latent and sensible evaporation loads in indoor pool facilities using ASHRAE standards, activity factors, and proper safety margins."
 keywords: ["evaporation load calculation", "natatorium HVAC sizing", "latent heat evaporation", "pool moisture load", "dehumidification capacity", "ASHRAE pool design", "indoor pool engineering", "evaporation rate BTU"]
+tags: ["evaporation load calculation", "natatorium HVAC sizing", "latent heat evaporation", "pool moisture load", "dehumidification capacity", "ASHRAE pool design", "indoor pool engineering", "evaporation rate BTU"]
 weight: 3
 ---
 

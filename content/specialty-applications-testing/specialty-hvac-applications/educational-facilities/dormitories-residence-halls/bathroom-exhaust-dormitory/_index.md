@@ -1,7 +1,9 @@
 ---
 title: "Bathroom Exhaust Systems in Dormitories"
+aliases: ["Bathroom Exhaust Systems in Dormitories"]
 description: "Comprehensive guide to dormitory bathroom exhaust design including continuous vs intermittent operation, code requirements, system types, and moisture control."
 keywords: ["dormitory bathroom exhaust", "residence hall ventilation", "continuous exhaust", "intermittent exhaust", "IMC exhaust requirements", "centralized exhaust systems", "moisture control dormitory", "energy recovery ventilation"]
+tags: ["dormitory bathroom exhaust", "residence hall ventilation", "continuous exhaust", "intermittent exhaust", "IMC exhaust requirements", "centralized exhaust systems", "moisture control dormitory", "energy recovery ventilation"]
 date: 2025-01-11
 draft: false
 weight: 3

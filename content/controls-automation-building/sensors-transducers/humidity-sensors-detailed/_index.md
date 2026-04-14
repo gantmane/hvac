@@ -1,7 +1,9 @@
 ---
 title: "Humidity Sensors: Technology and Performance Analysis"
+aliases: ["Humidity Sensors: Technology and Performance Analysis"]
 description: "Comprehensive guide to HVAC humidity sensors including capacitive, resistive, chilled mirror, and psychrometric measurement principles with accuracy specifications per ASHRAE standards."
 keywords: ["humidity sensors", "capacitive RH sensor", "resistive humidity sensor", "dew point measurement", "wet bulb temperature", "chilled mirror hygrometer", "ASHRAE sensor accuracy", "psychrometrics"]
+tags: ["humidity sensors", "capacitive RH sensor", "resistive humidity sensor", "dew point measurement", "wet bulb temperature", "chilled mirror hygrometer", "ASHRAE sensor accuracy", "psychrometrics"]
 weight: 3
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Displacement Ventilation for Natatorium Applications"
+aliases: ["Displacement Ventilation for Natatorium Applications"]
 description: "Technical analysis of displacement ventilation systems in indoor pool facilities. Coverage includes stratification mechanics, chloramine management, and energy performance."
 keywords: ["displacement ventilation", "natatorium HVAC", "chloramine stratification", "pool air distribution", "low-level supply", "thermal plume analysis", "indoor pool ventilation", "displacement ventilation energy efficiency"]
+tags: ["displacement ventilation", "natatorium HVAC", "chloramine stratification", "pool air distribution", "low-level supply", "thermal plume analysis", "indoor pool ventilation", "displacement ventilation energy efficiency"]
 weight: 1
 ---
 

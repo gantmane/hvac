@@ -1,5 +1,6 @@
 ---
 title: "Improvements to ASHRAE Transfer Function Methods"
+aliases: ["Improvements to ASHRAE Transfer Function Methods"]
 description: "Advanced enhancements to ASHRAE transfer function methods including numerical stability, coefficient optimization, and computational efficiency improvements."
 date: 2025-01-05
 tags: ["computational methods", "transfer functions", "ASHRAE", "numerical methods", "building simulation", "heat transfer modeling"]

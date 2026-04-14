@@ -1,8 +1,10 @@
 ---
 title: "Flue Gas Analysis and Efficiency Testing"
+aliases: ["Flue Gas Analysis and Efficiency Testing"]
 weight: 6
 description: "Engineering methodology for flue gas analysis including stack temperature measurement, oxygen and CO₂ analysis, CO monitoring, combustion efficiency calculations, stack loss determination, portable combustion analyzers, and continuous emissions monitoring systems (CEMS) for burner optimization."
 keywords: "flue gas analysis, combustion efficiency, stack loss, oxygen analyzer, CO analyzer, combustion analyzer, CEMS, emissions testing, burner tuning"
+tags: ["flue gas analysis", "combustion efficiency", "stack loss", "oxygen analyzer", "CO analyzer", "combustion analyzer", "CEMS", "emissions testing", "burner tuning"]
 ---
 
 # Flue Gas Analysis and Efficiency Testing

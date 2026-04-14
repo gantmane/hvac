@@ -1,5 +1,6 @@
 ---
 title: "Emissions and Environmental Performance"
+aliases: ["Emissions and Environmental Performance"]
 description: "Comprehensive analysis of CHP system emissions including NOx, CO, CO2, and particulate matter formation mechanisms, control technologies, emissions calculations, environmental benefits, air quality regulations, and permitting requirements for distributed generation."
 date: 2026-01-04
 weight: 7

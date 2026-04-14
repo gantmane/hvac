@@ -1,5 +1,6 @@
 ---
 title: "Data Center HVAC Systems"
+aliases: ["Data Center HVAC Systems"]
 description: "Comprehensive guide to data center cooling, hot aisle/cold aisle design, precision cooling, thermal management, and reliability requirements per ASHRAE TC 9.9."
 date: 2025-01-05
 draft: false

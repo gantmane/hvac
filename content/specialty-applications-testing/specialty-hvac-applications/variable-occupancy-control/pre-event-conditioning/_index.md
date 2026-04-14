@@ -1,7 +1,9 @@
 ---
 title: "Pre-Event HVAC Conditioning Strategies"
+aliases: ["Pre-Event HVAC Conditioning Strategies"]
 description: "Comprehensive guide to pre-event conditioning protocols for variable occupancy spaces. Covers optimal timing, thermal mass considerations, and load anticipation."
 keywords: ["pre-event conditioning", "thermal pre-cooling", "occupancy preparation", "HVAC staging", "load anticipation", "humidity pre-conditioning", "event space HVAC", "thermal mass management"]
+tags: ["pre-event conditioning", "thermal pre-cooling", "occupancy preparation", "HVAC staging", "load anticipation", "humidity pre-conditioning", "event space HVAC", "thermal mass management"]
 weight: 2
 ---
 

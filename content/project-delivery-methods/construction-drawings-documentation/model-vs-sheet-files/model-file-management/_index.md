@@ -1,5 +1,6 @@
 ---
 title: "Model File Management"
+aliases: ["Model File Management"]
 weight: 1
 ---
 

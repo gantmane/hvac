@@ -1,8 +1,10 @@
 ---
 title: "Open-End Spinning HVAC Requirements"
+aliases: ["Open-End Spinning HVAC Requirements"]
 seo_title: "Open-End Spinning HVAC & Rotor Spinning Climate Control"
 description: "Technical HVAC requirements for open-end spinning operations including rotor spinning climate control, dust management, humidity specifications, and air quality."
 keywords: ["open-end spinning HVAC", "rotor spinning climate control", "textile dust control", "spinning humidity requirements", "rotor box ventilation", "yarn quality control", "textile air conditioning", "spinning room conditions"]
+tags: ["open-end spinning HVAC", "rotor spinning climate control", "textile dust control", "spinning humidity requirements", "rotor box ventilation", "yarn quality control", "textile air conditioning", "spinning room conditions"]
 weight: 2
 ---
 

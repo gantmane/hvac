@@ -1,5 +1,6 @@
 ---
 title: "Pathogen Control in Refrigeration Systems"
+aliases: ["Pathogen Control in Refrigeration Systems"]
 description: "Advanced pathogen control strategies for HVAC refrigeration systems including temperature control methods, time-temperature criteria, HACCP principles, hurdle technology, and critical control points for foodborne pathogen prevention in commercial refrigeration"
 weight: 1
 ---

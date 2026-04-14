@@ -1,7 +1,9 @@
 ---
 title: "Plug-Holing Prevention in Large Volume Smoke Control"
+aliases: ["Plug-Holing Prevention in Large Volume Smoke Control"]
 description: "Engineering methods for preventing plug-holing in smoke exhaust systems including maximum exhaust rates, smoke layer depth requirements, and fan sizing calculations."
 keywords: ["plug-holing prevention", "smoke exhaust velocity", "smoke layer depth", "NFPA 92", "exhaust inlet design", "maximum exhaust rate", "smoke control fan sizing", "CFD smoke analysis"]
+tags: ["plug-holing prevention", "smoke exhaust velocity", "smoke layer depth", "NFPA 92", "exhaust inlet design", "maximum exhaust rate", "smoke control fan sizing", "CFD smoke analysis"]
 weight: 3
 ---
 

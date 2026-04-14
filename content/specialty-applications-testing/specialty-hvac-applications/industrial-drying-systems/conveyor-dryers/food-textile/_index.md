@@ -1,8 +1,10 @@
 ---
 title: "Food & Textile Conveyor Dryers"
+aliases: ["Food & Textile Conveyor Dryers"]
 seo_title: "Food & Textile Conveyor Drying Systems Design"
 description: "Comprehensive guide to conveyor dryer design for food and textile applications, covering drying kinetics, psychrometric control, and product-specific parameters."
 keywords: ["food drying systems", "textile dryer design", "conveyor dryer", "fruit vegetable drying", "fabric drying", "drying kinetics", "industrial drying", "moisture control"]
+tags: ["food drying systems", "textile dryer design", "conveyor dryer", "fruit vegetable drying", "fabric drying", "drying kinetics", "industrial drying", "moisture control"]
 weight: 3
 ---
 

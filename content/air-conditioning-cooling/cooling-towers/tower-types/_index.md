@@ -1,7 +1,9 @@
 ---
 title: "Cooling Tower Types: Classification and Selection"
+aliases: ["Cooling Tower Types: Classification and Selection"]
 description: "Engineering analysis of cooling tower types including induced draft, forced draft, and natural draft configurations with heat rejection capacity calculations and CTI standards."
 keywords: ["cooling tower types", "induced draft cooling tower", "forced draft tower", "counterflow cooling tower", "crossflow cooling tower", "natural draft tower", "CTI standards", "cooling tower efficiency"]
+tags: ["cooling tower types", "induced draft cooling tower", "forced draft tower", "counterflow cooling tower", "crossflow cooling tower", "natural draft tower", "CTI standards", "cooling tower efficiency"]
 weight: 1
 ---
 

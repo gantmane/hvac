@@ -1,5 +1,6 @@
 ---
 title: "Lean Construction Principles"
+aliases: ["Lean Construction Principles"]
 weight: 8
 ---
 

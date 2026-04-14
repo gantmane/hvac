@@ -1,7 +1,9 @@
 ---
 title: "HVAC Acoustics Coordination for Theaters"
+aliases: ["HVAC Acoustics Coordination for Theaters"]
 description: "Engineering low-noise HVAC systems for theaters and auditoriums using NC 15-25 criteria, duct silencers, vibration isolation, and acoustic design principles."
 keywords: ["theater HVAC noise", "noise criteria NC 15", "duct silencer design", "vibration isolation", "low velocity air distribution", "acoustic coordination", "HVAC sound attenuation", "theater air diffusers"]
+tags: ["theater HVAC noise", "noise criteria NC 15", "duct silencer design", "vibration isolation", "low velocity air distribution", "acoustic coordination", "HVAC sound attenuation", "theater air diffusers"]
 weight: 4
 ---
 

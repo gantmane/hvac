@@ -1,7 +1,9 @@
 ---
 title: "HVAC Coordination with Movable Partitions"
+aliases: ["HVAC Coordination with Movable Partitions"]
 description: "Engineering principles for HVAC system design in spaces with movable partitions. Zone boundary management, air distribution flexibility, and acoustical separation strategies."
 keywords: ["movable partitions HVAC", "operable walls air distribution", "zone boundary control", "airwall integration", "flexible space conditioning", "partition acoustics", "reconfigurable zones", "exhibition hall flexibility"]
+tags: ["movable partitions HVAC", "operable walls air distribution", "zone boundary control", "airwall integration", "flexible space conditioning", "partition acoustics", "reconfigurable zones", "exhibition hall flexibility"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Fish and Seafood Storage"
+aliases: ["Fish and Seafood Storage"]
 description: "Technical requirements for fish and seafood refrigeration including superchilling, icing methods, blast freezing protocols, species-specific temperature control, and histamine prevention strategies"
 weight: 4
 ---

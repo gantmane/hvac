@@ -1,7 +1,9 @@
 ---
 title: "Rotary Dryers for Grain and Minerals"
+aliases: ["Rotary Dryers for Grain and Minerals"]
 description: "Engineering analysis of rotary dryer design for agricultural grains and mineral processing, covering temperature limits, residence time calculations, and throughput optimization."
 keywords: ["rotary grain dryer", "mineral drying systems", "grain moisture removal", "ore drying design", "agricultural dryer engineering", "rotary dryer throughput", "grain quality preservation", "mineral processing HVAC"]
+tags: ["rotary grain dryer", "mineral drying systems", "grain moisture removal", "ore drying design", "agricultural dryer engineering", "rotary dryer throughput", "grain quality preservation", "mineral processing HVAC"]
 weight: 4
 ---
 

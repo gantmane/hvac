@@ -1,5 +1,6 @@
 ---
 title: "Cold Climate Wall Systems"
+aliases: ["Cold Climate Wall Systems"]
 description: "Hygrothermal design of wall assemblies for heating-dominated climates including vapor control strategies, insulation placement, thermal bridging mitigation, and condensation prevention through physics-based moisture transport analysis"
 weight: 3
 ---

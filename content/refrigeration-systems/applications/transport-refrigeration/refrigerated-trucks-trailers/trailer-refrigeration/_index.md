@@ -1,5 +1,6 @@
 ---
 title: "Trailer Refrigeration"
+aliases: ["Trailer Refrigeration"]
 weight: 3
 ---
 

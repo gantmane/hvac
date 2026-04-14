@@ -1,5 +1,6 @@
 ---
 title: "Refrigerant Handling Procedures"
+aliases: ["Refrigerant Handling Procedures"]
 description: "Comprehensive procedures for refrigerant recovery, recycling, reclamation, charging, leak detection, and EPA Section 608 compliance requirements"
 weight: 7
 ---

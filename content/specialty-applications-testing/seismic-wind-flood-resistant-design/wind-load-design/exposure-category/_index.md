@@ -1,5 +1,6 @@
 ---
 title: "Wind Exposure Categories for HVAC Equipment Design"
+aliases: ["Wind Exposure Categories for HVAC Equipment Design"]
 description: "Comprehensive guide to ASCE 7 wind exposure categories B, C, and D for HVAC equipment design, including terrain roughness, velocity pressure coefficients, and determination procedures."
 date: 2025-01-05
 weight: 2

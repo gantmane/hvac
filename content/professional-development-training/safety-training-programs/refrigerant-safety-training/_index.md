@@ -1,7 +1,9 @@
 ---
 title: "Refrigerant Safety Training"
+aliases: ["Refrigerant Safety Training"]
 description: "Comprehensive refrigerant safety training covering ASHRAE safety classifications, handling procedures, leak detection, PPE requirements, emergency response protocols, and low-GWP refrigerant considerations per ASHRAE 15 and 34 standards."
 keywords: ["refrigerant safety", "ASHRAE 15", "ASHRAE 34", "refrigerant classification", "A2L refrigerants", "leak detection", "refrigerant handling", "low GWP refrigerants", "refrigerant emergency response", "refrigerant PPE"]
+tags: ["refrigerant safety", "ASHRAE 15", "ASHRAE 34", "refrigerant classification", "A2L refrigerants", "leak detection", "refrigerant handling", "low GWP refrigerants", "refrigerant emergency response", "refrigerant PPE"]
 weight: 9
 ---
 

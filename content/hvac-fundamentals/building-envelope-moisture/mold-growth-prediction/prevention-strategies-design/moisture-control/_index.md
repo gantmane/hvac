@@ -1,5 +1,6 @@
 ---
 title: "Moisture Control"
+aliases: ["Moisture Control"]
 description: "Engineering strategies for moisture control in building envelopes including source control, bulk water exclusion, vapor diffusion management, air leakage prevention, and condensation control to prevent mold growth."
 weight: 1
 ---

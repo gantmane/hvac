@@ -1,5 +1,6 @@
 ---
 title: "Electric ECS Systems for Aircraft"
+aliases: ["Electric ECS Systems for Aircraft"]
 date: "2026-01-05"
 description: "Comprehensive analysis of electric environmental control systems in modern aircraft, covering vapor cycle refrigeration, electric architecture, thermal management, and performance optimization."
 tags: ["electric ECS", "aircraft cooling", "vapor cycle", "more electric aircraft", "thermal management", "aviation HVAC"]

@@ -1,7 +1,9 @@
 ---
 title: "Medical Equipment Storage HVAC for EMS Facilities"
+aliases: ["Medical Equipment Storage HVAC for EMS Facilities"]
 description: "HVAC design for EMS medical equipment storage including temperature control for medication stability, humidity requirements, backup cooling systems, and monitoring."
 keywords: ["medical equipment storage", "medication storage HVAC", "pharmaceutical storage", "EMS supply storage", "temperature controlled storage", "medical refrigeration", "backup cooling", "temperature monitoring"]
+tags: ["medical equipment storage", "medication storage HVAC", "pharmaceutical storage", "EMS supply storage", "temperature controlled storage", "medical refrigeration", "backup cooling", "temperature monitoring"]
 weight: 3
 ---
 

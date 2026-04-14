@@ -1,7 +1,9 @@
 ---
 title: "Centrifugal Compressors"
+aliases: ["Centrifugal Compressors"]
 description: "Comprehensive technical guide to centrifugal compressors for large-capacity refrigeration systems, covering impeller types, stage configurations, surge control, magnetic bearings, and oil-free operation."
 keywords: ["centrifugal compressor", "impeller design", "surge control", "choke limits", "magnetic bearings", "oil-free compressor", "VFD compressor", "multistage centrifugal", "inlet guide vanes", "large chiller compressor"]
+tags: ["centrifugal compressor", "impeller design", "surge control", "choke limits", "magnetic bearings", "oil-free compressor", "VFD compressor", "multistage centrifugal", "inlet guide vanes", "large chiller compressor"]
 weight: 5
 ---
 

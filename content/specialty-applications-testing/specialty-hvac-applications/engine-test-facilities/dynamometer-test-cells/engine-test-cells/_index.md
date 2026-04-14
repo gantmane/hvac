@@ -1,7 +1,9 @@
 ---
 title: "Engine Test Cell HVAC Design"
+aliases: ["Engine Test Cell HVAC Design"]
 description: "Comprehensive HVAC design requirements for engine test cells including ventilation rates, combustion air supply, fire suppression integration, and pressure control."
 keywords: ["engine test cell", "dynamometer ventilation", "combustion air supply", "test cell HVAC", "engine testing", "cell pressure control", "fire suppression integration", "fuel system ventilation"]
+tags: ["engine test cell", "dynamometer ventilation", "combustion air supply", "test cell HVAC", "engine testing", "cell pressure control", "fire suppression integration", "fuel system ventilation"]
 weight: 1
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Transit Lighting and Equipment Heat Loads"
+aliases: ["Transit Lighting and Equipment Heat Loads"]
 description: "Technical analysis of lighting, display, and auxiliary equipment heat loads in mass transit vehicles with LED conversion benefits, HVAC auxiliary power consumption calculations."
 keywords:
   - transit lighting heat loads

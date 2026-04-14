@@ -1,5 +1,6 @@
 ---
 title: "Lamb Storage Requirements"
+aliases: ["Lamb Storage Requirements"]
 description: "Comprehensive technical specifications for lamb storage refrigeration systems including fresh and frozen storage temperatures, humidity control, storage life parameters, and ASHRAE/USDA compliance guidelines for meat processing facilities."
 weight: 3
 ---

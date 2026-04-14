@@ -1,5 +1,6 @@
 ---
 title: "CD Reviews and Approvals"
+aliases: ["CD Reviews and Approvals"]
 description: "Construction Documents review and approval processes including internal QA/QC procedures, owner review protocols, authority having jurisdiction submissions, permit applications, and final document issuance for bidding."
 weight: 3
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Pump Selection and Sizing for Liquid Overfeed Systems"
+aliases: ["Pump Selection and Sizing for Liquid Overfeed Systems"]
 description: "Comprehensive guide to refrigerant pump selection, NPSH requirements, flow calculations, and sizing methodology for industrial liquid overfeed refrigeration systems including ammonia applications"
 weight: 11
 ---

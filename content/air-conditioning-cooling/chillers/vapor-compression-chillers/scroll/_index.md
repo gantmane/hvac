@@ -1,5 +1,6 @@
 ---
 title: "Scroll Chillers"
+aliases: ["Scroll Chillers"]
 description: "Technical reference for scroll compressor chillers covering orbiting scroll mechanics, digital scroll technology, tandem configurations, modular capacity control, and R-410A system design for 2-200 ton applications."
 weight: 3
 ---

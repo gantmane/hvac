@@ -1,5 +1,6 @@
 ---
 title: "Solar Thermal Storage Tanks for HVAC Systems"
+aliases: ["Solar Thermal Storage Tanks for HVAC Systems"]
 description: "Technical analysis of solar thermal storage tanks including stratification dynamics, heat loss calculations, sizing methods, and integration strategies per ASHRAE standards."
 date: 2025-01-05
 tags: ["solar thermal", "thermal storage", "storage tanks", "solar heating", "energy storage", "stratification"]

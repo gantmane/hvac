@@ -1,5 +1,6 @@
 ---
 title: "Regional Commuter Rail HVAC Design"
+aliases: ["Regional Commuter Rail HVAC Design"]
 description: "Technical analysis of HVAC systems for regional commuter rail cars including peak load calculations, rapid door cycling impacts, energy recovery strategies, and high-density occupancy management."
 keywords: ["commuter rail HVAC", "regional train climate control", "rapid cycling ventilation", "high-density rail HVAC", "energy recovery rail", "peak loading calculations", "commuter train air conditioning", "rail door infiltration"]
 tags: ["commuter rail", "mass transit", "passenger rail", "high-density loading", "energy recovery", "rapid cycling"]

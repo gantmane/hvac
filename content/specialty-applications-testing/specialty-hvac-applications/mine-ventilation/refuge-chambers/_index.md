@@ -1,5 +1,6 @@
 ---
 title: "Mine Refuge Chambers: Emergency Life Support Systems"
+aliases: ["Mine Refuge Chambers: Emergency Life Support Systems"]
 description: "Comprehensive guide to mine refuge chamber design, 96-hour life support capacity, air supply systems, CO2 scrubbing, thermal management, and MSHA regulatory compliance for underground mining emergencies."
 keywords:
   - mine refuge chambers

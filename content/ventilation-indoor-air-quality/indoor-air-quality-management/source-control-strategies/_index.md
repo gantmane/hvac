@@ -1,8 +1,10 @@
 ---
 title: "Source Control Strategies for Indoor Air Quality"
+aliases: ["Source Control Strategies for Indoor Air Quality"]
 description: "Engineering hierarchy for contaminant source control including elimination, substitution, isolation, and local exhaust based on ASHRAE 62.1 and industrial hygiene principles."
 date: 2026-01-05
 keywords: ["source control", "elimination hierarchy", "local exhaust ventilation", "material substitution", "contaminant isolation", "industrial hygiene", "ASHRAE 62.1", "exposure control"]
+tags: ["source control", "elimination hierarchy", "local exhaust ventilation", "material substitution", "contaminant isolation", "industrial hygiene", "ASHRAE 62.1", "exposure control"]
 weight: 8
 ---
 

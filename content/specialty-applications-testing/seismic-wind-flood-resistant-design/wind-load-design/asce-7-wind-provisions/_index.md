@@ -1,5 +1,6 @@
 ---
 title: "ASCE 7 Wind Provisions for HVAC Equipment Design"
+aliases: ["ASCE 7 Wind Provisions for HVAC Equipment Design"]
 description: "Comprehensive analysis of ASCE 7-22 wind load provisions for HVAC equipment including directional procedure, envelope method, and component/cladding loads."
 date: 2025-01-05
 weight: 4

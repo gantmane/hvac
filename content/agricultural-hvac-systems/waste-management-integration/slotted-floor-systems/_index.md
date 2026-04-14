@@ -1,5 +1,6 @@
 ---
 title: "Slotted Floor Systems"
+aliases: ["Slotted Floor Systems"]
 weight: 1
 ---
 

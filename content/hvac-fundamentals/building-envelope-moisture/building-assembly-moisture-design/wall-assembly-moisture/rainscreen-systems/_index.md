@@ -1,5 +1,6 @@
 ---
 title: "Rainscreen Systems"
+aliases: ["Rainscreen Systems"]
 description: "Comprehensive analysis of rainscreen wall systems including pressure equalization, cavity design, moisture transport mechanisms, ventilation requirements, and integration with HVAC building envelope strategies"
 weight: 1
 ---

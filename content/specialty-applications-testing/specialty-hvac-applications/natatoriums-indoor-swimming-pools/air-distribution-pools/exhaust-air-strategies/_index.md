@@ -1,7 +1,9 @@
 ---
 title: "Exhaust Air Strategies for Indoor Pool Ventilation"
+aliases: ["Exhaust Air Strategies for Indoor Pool Ventilation"]
 description: "Engineering analysis of natatorium exhaust strategies including deck-level chloramine removal, stratification control, and contaminant extraction effectiveness."
 keywords: ["natatorium exhaust ventilation", "chloramine removal", "pool deck exhaust", "indoor pool air quality", "humidity exhaust", "natatorium air distribution", "pool ventilation design", "ASHRAE natatorium standards"]
+tags: ["natatorium exhaust ventilation", "chloramine removal", "pool deck exhaust", "indoor pool air quality", "humidity exhaust", "natatorium air distribution", "pool ventilation design", "ASHRAE natatorium standards"]
 weight: 4
 ---
 

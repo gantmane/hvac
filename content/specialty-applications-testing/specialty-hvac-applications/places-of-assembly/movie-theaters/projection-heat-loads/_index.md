@@ -1,7 +1,9 @@
 ---
 title: "Movie Theater Projection Booth Heat Loads"
+aliases: ["Movie Theater Projection Booth Heat Loads"]
 description: "Engineering analysis of projection booth cooling requirements, digital and laser projector heat dissipation, ventilation strategies, and isolated cooling system design."
 keywords: ["projection booth cooling", "digital projector heat load", "laser projector ventilation", "projection room HVAC", "theater equipment cooling", "projector heat dissipation", "booth exhaust design", "cinema HVAC"]
+tags: ["projection booth cooling", "digital projector heat load", "laser projector ventilation", "projection room HVAC", "theater equipment cooling", "projector heat dissipation", "booth exhaust design", "cinema HVAC"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "ASHRAE Transfer Functions for Heat Transfer"
+aliases: ["ASHRAE Transfer Functions for Heat Transfer"]
 description: "Comprehensive guide to ASHRAE transfer function methodology for calculating transient heat conduction through building envelopes and HVAC system components."
 date: 2025-01-05
 tags: ["computational methods", "heat transfer", "building loads", "energy modeling", "ASHRAE standards"]

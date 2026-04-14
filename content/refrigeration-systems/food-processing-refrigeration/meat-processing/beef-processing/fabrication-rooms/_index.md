@@ -1,5 +1,6 @@
 ---
 title: "Beef Fabrication Rooms"
+aliases: ["Beef Fabrication Rooms"]
 description: "HVAC design requirements for beef fabrication and cutting rooms including temperature control, air distribution, personnel loads, and USDA FSIS compliance for meat processing facilities"
 weight: 3
 ---

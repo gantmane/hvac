@@ -1,5 +1,6 @@
 ---
 title: "Vertical Zoning Strategies"
+aliases: ["Vertical Zoning Strategies"]
 description: "Equipment floor placement, zoning by building height, pressure reduction stations, and system configuration for tall building HVAC distribution."
 date: "2026-01-04"
 weight: 5

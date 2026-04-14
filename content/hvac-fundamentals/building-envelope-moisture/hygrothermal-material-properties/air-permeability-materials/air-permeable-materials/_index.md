@@ -1,5 +1,6 @@
 ---
 title: "Air Permeable Materials"
+aliases: ["Air Permeable Materials"]
 description: "Comprehensive analysis of air permeable building materials including fibrous insulation, porous masonry, and unsealed assemblies. Covers air permeability coefficients, pressure-flow relationships, infiltration impacts, and integration strategies for building envelope design."
 weight: 1
 ---

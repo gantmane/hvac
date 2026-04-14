@@ -1,5 +1,6 @@
 ---
 title: "Negawatt Principles"
+aliases: ["Negawatt Principles"]
 weight: 1
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Gas Radiation"
+aliases: ["Gas Radiation"]
 weight: 4
 ---
 

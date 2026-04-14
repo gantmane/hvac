@@ -1,5 +1,6 @@
 ---
 title: "Nuclear-Grade HEPA Filtration Systems"
+aliases: ["Nuclear-Grade HEPA Filtration Systems"]
 description: "Engineering guide to nuclear facility HEPA filtration including two-stage systems, in-place DOP testing, ASME AG-1 filter housing requirements, and charcoal adsorber integration for radioactive particle containment."
 keywords:
   - nuclear HEPA filtration

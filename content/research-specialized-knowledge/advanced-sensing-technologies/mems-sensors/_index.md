@@ -1,5 +1,6 @@
 ---
 title: "Mems Sensors"
+aliases: ["Mems Sensors"]
 weight: 2
 ---
 

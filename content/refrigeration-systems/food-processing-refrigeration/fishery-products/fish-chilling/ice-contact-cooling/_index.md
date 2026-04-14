@@ -1,5 +1,6 @@
 ---
 title: "Ice Contact Cooling"
+aliases: ["Ice Contact Cooling"]
 description: "Technical analysis of ice contact cooling systems for fish preservation including ice types, heat transfer mechanisms, consumption calculations, and quality control for commercial fishery operations"
 weight: 1
 ---

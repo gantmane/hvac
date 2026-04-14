@@ -1,5 +1,6 @@
 ---
 title: "Cyber Physical Systems"
+aliases: ["Cyber Physical Systems"]
 weight: 14
 ---
 

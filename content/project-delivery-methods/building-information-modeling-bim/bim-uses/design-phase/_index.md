@@ -1,5 +1,6 @@
 ---
 title: "Design Phase"
+aliases: ["Design Phase"]
 weight: 1
 ---
 

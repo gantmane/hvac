@@ -1,5 +1,6 @@
 ---
 title: "Plate Freezer Products"
+aliases: ["Plate Freezer Products"]
 description: "Product suitability, dimensional requirements, freezing time calculations, and quality considerations for plate freezing applications including fish, meat, vegetables, and formed products"
 weight: 4
 ---

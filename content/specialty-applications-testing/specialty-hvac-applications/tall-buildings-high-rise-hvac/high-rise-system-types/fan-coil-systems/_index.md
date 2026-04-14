@@ -1,9 +1,11 @@
 ---
 title: "Fan Coil Systems for High-Rise Buildings"
+aliases: ["Fan Coil Systems for High-Rise Buildings"]
 linkTitle: "Fan Coil Systems"
 weight: 2
 description: "Technical analysis of fan coil unit configurations for tall buildings, including two-pipe and four-pipe systems, ventilation air coordination, water distribution strategies, and tenant control capabilities."
 keywords: ["fan coil units", "four-pipe system", "two-pipe system", "high-rise HVAC", "tenant control", "DOAS integration", "water distribution", "zone control"]
+tags: ["fan coil units", "four-pipe system", "two-pipe system", "high-rise HVAC", "tenant control", "DOAS integration", "water distribution", "zone control"]
 ---
 
 ## System Overview

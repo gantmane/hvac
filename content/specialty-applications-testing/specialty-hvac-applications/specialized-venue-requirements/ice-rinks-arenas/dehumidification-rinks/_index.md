@@ -1,7 +1,9 @@
 ---
 title: "Ice Rink Dehumidification Systems"
+aliases: ["Ice Rink Dehumidification Systems"]
 description: "Comprehensive analysis of dehumidification strategies for ice arenas including desiccant and refrigerant systems, dew point control, and fog prevention mechanisms."
 keywords: ["ice rink dehumidification", "desiccant dehumidifier", "ice fog prevention", "arena dew point control", "condensation ice surface", "refrigerant dehumidification", "ice rink latent load", "low dew point HVAC"]
+tags: ["ice rink dehumidification", "desiccant dehumidifier", "ice fog prevention", "arena dew point control", "condensation ice surface", "refrigerant dehumidification", "ice rink latent load", "low dew point HVAC"]
 weight: 1
 ---
 

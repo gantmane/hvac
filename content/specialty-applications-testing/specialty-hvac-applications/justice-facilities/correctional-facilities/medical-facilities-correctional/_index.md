@@ -1,8 +1,10 @@
 ---
 title: "Correctional Medical Facility HVAC Design"
+aliases: ["Correctional Medical Facility HVAC Design"]
 seo_title: "Correctional Medical HVAC: Isolation & Control Systems"
 description: "Engineering guide for correctional medical facility HVAC including isolation room pressure control, infection prevention, pharmacy environments, and dental clinic exhaust per ASHRAE 170."
 keywords: ["correctional medical HVAC", "isolation room negative pressure", "prison healthcare ventilation", "correctional pharmacy HVAC", "detention medical air quality", "healthcare infection control", "correctional dental exhaust", "medical isolation design"]
+tags: ["correctional medical HVAC", "isolation room negative pressure", "prison healthcare ventilation", "correctional pharmacy HVAC", "detention medical air quality", "healthcare infection control", "correctional dental exhaust", "medical isolation design"]
 weight: 4
 ---
 

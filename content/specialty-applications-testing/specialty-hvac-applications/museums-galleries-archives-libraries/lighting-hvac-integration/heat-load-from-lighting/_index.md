@@ -1,7 +1,9 @@
 ---
 title: "Heat Load From Lighting in Cultural Institutions"
+aliases: ["Heat Load From Lighting in Cultural Institutions"]
 description: "Calculate lighting heat gains for museums, galleries, and archives using ASHRAE methods. Compare incandescent, halogen, fluorescent, and LED heat loads for HVAC sizing."
 keywords: ["lighting heat gain", "museum HVAC load", "LED heat load", "ASHRAE lighting factors", "incandescent heat gain", "display lighting loads", "watts per lux", "lighting diversity factor"]
+tags: ["lighting heat gain", "museum HVAC load", "LED heat load", "ASHRAE lighting factors", "incandescent heat gain", "display lighting loads", "watts per lux", "lighting diversity factor"]
 weight: 1
 ---
 

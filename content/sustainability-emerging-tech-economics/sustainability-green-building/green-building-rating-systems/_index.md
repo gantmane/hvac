@@ -1,5 +1,6 @@
 ---
 title: "Green Building Rating Systems"
+aliases: ["Green Building Rating Systems"]
 description: "Comprehensive analysis of green building rating systems including LEED, BREEAM, and WELL, with HVAC performance metrics, certification requirements, and energy modeling standards."
 date: 2025-01-05
 tags: ["green building", "LEED", "BREEAM", "WELL", "certification", "energy modeling", "sustainability", "ASHRAE", "building performance"]

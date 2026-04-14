@@ -1,5 +1,6 @@
 ---
 title: "Flooded Evaporators"
+aliases: ["Flooded Evaporators"]
 description: "Comprehensive technical guide to flooded evaporator design, shell-and-tube construction, liquid level control methods, oil return strategies, and heat transfer enhancement for industrial refrigeration systems"
 weight: 2
 ---

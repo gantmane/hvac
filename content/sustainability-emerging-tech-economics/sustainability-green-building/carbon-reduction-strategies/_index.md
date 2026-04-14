@@ -1,5 +1,6 @@
 ---
 title: "HVAC Carbon Reduction Strategies"
+aliases: ["HVAC Carbon Reduction Strategies"]
 description: "Technical approaches to reducing carbon emissions in HVAC systems through equipment selection, operational optimization, and refrigerant management strategies."
 weight: 3
 ---

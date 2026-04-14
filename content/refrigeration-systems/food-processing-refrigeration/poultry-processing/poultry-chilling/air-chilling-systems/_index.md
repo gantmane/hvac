@@ -1,5 +1,6 @@
 ---
 title: "Air Chilling Systems for Poultry Processing"
+aliases: ["Air Chilling Systems for Poultry Processing"]
 description: "Technical analysis of air chilling systems for poultry processing, covering thermodynamic principles, heat transfer calculations, and equipment design."
 date: 2025-01-05
 weight: 2

@@ -1,5 +1,6 @@
 ---
 title: "Butter Storage"
+aliases: ["Butter Storage"]
 description: "Engineering requirements for butter cold storage facilities including temperature control, humidity management, oxidation prevention, refrigeration load calculations, and storage room design for short-term and long-term preservation."
 weight: 3
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Data Center Cooling Efficiency Strategies"
+aliases: ["Data Center Cooling Efficiency Strategies"]
 description: "Technical analysis of cooling efficiency optimization including economizer systems, temperature management, airflow strategies, and energy metrics for data center HVAC."
 date: 2025-01-11
 draft: false

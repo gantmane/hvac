@@ -1,7 +1,9 @@
 ---
 title: "Mine Auxiliary Ventilation Duct Systems"
+aliases: ["Mine Auxiliary Ventilation Duct Systems"]
 description: "Engineering principles for mine auxiliary duct systems including flexible and rigid ducting, pressure loss calculations, leakage allowances, and suspension methods per MSHA standards."
 keywords: ["mine ventilation ducting", "flexible duct systems", "duct leakage calculation", "auxiliary fan ducting", "MSHA ventilation", "mine duct suspension", "ventilation pressure loss", "layflat duct"]
+tags: ["mine ventilation ducting", "flexible duct systems", "duct leakage calculation", "auxiliary fan ducting", "MSHA ventilation", "mine duct suspension", "ventilation pressure loss", "layflat duct"]
 weight: 2
 ---
 

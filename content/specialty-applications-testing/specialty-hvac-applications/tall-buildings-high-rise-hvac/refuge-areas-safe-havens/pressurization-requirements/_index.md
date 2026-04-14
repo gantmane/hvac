@@ -1,5 +1,6 @@
 ---
 title: "Refuge Area Pressurization Requirements"
+aliases: ["Refuge Area Pressurization Requirements"]
 description: "HVAC pressurization system design for high-rise refuge areas including positive pressure maintenance, makeup air supply, pressure monitoring, and emergency power requirements per IBC and NFPA 92."
 weight: 2
 ---

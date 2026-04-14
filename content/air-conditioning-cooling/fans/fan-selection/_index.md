@@ -1,7 +1,9 @@
 ---
 title: "Fan Selection"
+aliases: ["Fan Selection"]
 description: "Systematic approach to HVAC fan selection including system analysis, fan sizing, performance matching, and specification considerations."
 keywords: ["fan selection", "fan sizing", "HVAC design", "air handling", "system pressure", "fan specification"]
+tags: ["fan selection", "fan sizing", "HVAC design", "air handling", "system pressure", "fan specification"]
 weight: 4
 ---
 

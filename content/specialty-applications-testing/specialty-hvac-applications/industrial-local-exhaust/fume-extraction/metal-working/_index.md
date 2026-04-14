@@ -1,7 +1,9 @@
 ---
 title: "Metal Working Fume Extraction Systems"
+aliases: ["Metal Working Fume Extraction Systems"]
 description: "Comprehensive guide to metal working fume extraction covering welding fumes, grinding particulates, coolant mist capture, hood design, and OSHA PEL compliance."
 keywords: ["metal fume extraction", "grinding ventilation", "coolant mist collection", "metal particulate filtration", "welding fume control", "OSHA PEL compliance", "capture velocity", "industrial exhaust"]
+tags: ["metal fume extraction", "grinding ventilation", "coolant mist collection", "metal particulate filtration", "welding fume control", "OSHA PEL compliance", "capture velocity", "industrial exhaust"]
 date: 2026-01-11
 weight: 2
 draft: false

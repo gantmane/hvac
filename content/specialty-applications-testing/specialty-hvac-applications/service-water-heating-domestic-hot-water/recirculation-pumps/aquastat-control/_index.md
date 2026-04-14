@@ -1,7 +1,9 @@
 ---
 title: "Aquastat Control for Hot Water Recirculation Pumps"
+aliases: ["Aquastat Control for Hot Water Recirculation Pumps"]
 description: "Technical analysis of aquastat temperature sensing and control for domestic hot water recirculation systems including setpoint optimization, differential settings, and energy savings."
 keywords: ["aquastat control", "recirculation pump control", "temperature differential", "DHW control", "hot water circulation", "pump cycling", "energy efficient recirculation", "domestic hot water"]
+tags: ["aquastat control", "recirculation pump control", "temperature differential", "DHW control", "hot water circulation", "pump cycling", "energy efficient recirculation", "domestic hot water"]
 weight: 5
 ---
 

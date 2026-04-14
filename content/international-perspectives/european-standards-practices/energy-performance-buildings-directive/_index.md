@@ -1,8 +1,10 @@
 ---
 title: "Energy Performance of Buildings Directive (EPBD)"
+aliases: ["Energy Performance of Buildings Directive (EPBD)"]
 weight: 4
 description: "Comprehensive analysis of the EU Energy Performance of Buildings Directive including NZEB requirements, Energy Performance Certificates, HVAC system inspection mandates, cost-optimal methodology, technical building systems requirements, and compliance pathways for building energy performance in European Union member states."
 keywords: "EPBD, Energy Performance Buildings Directive, NZEB, nearly zero energy buildings, Energy Performance Certificate, EPC, HVAC inspection, technical building systems, EU building regulations, cost optimal methodology, building automation control, BACS"
+tags: ["EPBD", "Energy Performance Buildings Directive", "NZEB", "nearly zero energy buildings", "Energy Performance Certificate", "EPC", "HVAC inspection", "technical building systems", "EU building regulations", "cost optimal methodology"]
 ---
 
 # Energy Performance of Buildings Directive (EPBD)

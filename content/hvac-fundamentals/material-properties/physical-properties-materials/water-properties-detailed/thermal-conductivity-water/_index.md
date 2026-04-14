@@ -1,5 +1,6 @@
 ---
 title: "Thermal Conductivity of Water"
+aliases: ["Thermal Conductivity of Water"]
 description: "Comprehensive analysis of water thermal conductivity in HVAC applications including temperature dependencies, calculation methods, heat exchanger design implications, and fouling factor considerations"
 weight: 4
 ---

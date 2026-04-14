@@ -1,5 +1,6 @@
 ---
 title: "Vapor Cycle Air Conditioning Systems"
+aliases: ["Vapor Cycle Air Conditioning Systems"]
 date: 2025-01-05
 draft: false
 description: "Aircraft vapor cycle cooling systems using refrigeration cycles for cabin and avionics thermal management with high efficiency and reliability standards."
@@ -338,4 +339,4 @@ Benefits:
 
 ---
 
-*Related Topics: [Bleed Air Systems](/specialty-applications-testing/specialty-hvac-applications/aircraft-environmental-control/bleed-air-systems/), [Avionics Cooling](/specialty-applications-testing/specialty-hvac-applications/aircraft-environmental-control/equipment-cooling-aircraft/avionics-cooling/), [Temperature Control Aircraft](/specialty-applications-testing/specialty-hvac-applications/aircraft-environmental-control/temperature-control-aircraft/)*
+*Related Topics: [Bleed Air Systems](../../../../../specialty-applications-testing/specialty-hvac-applications/aircraft-environmental-control/bleed-air-systems/_index.md), [Avionics Cooling](../../../../../specialty-applications-testing/specialty-hvac-applications/aircraft-environmental-control/equipment-cooling-aircraft/avionics-cooling/_index.md), [Temperature Control Aircraft](../../../../../specialty-applications-testing/specialty-hvac-applications/aircraft-environmental-control/temperature-control-aircraft/_index.md)*

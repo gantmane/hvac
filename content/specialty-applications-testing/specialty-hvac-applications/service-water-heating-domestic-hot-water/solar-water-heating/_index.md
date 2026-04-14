@@ -1,7 +1,9 @@
 ---
 title: "Solar Water Heating Systems & Collector Types"
+aliases: ["Solar Water Heating Systems & Collector Types"]
 description: "Technical guide to solar water heating systems covering active/passive configurations, collector types, thermal efficiency calculations, and storage tank sizing per ASHRAE standards."
 keywords: ["solar water heating", "solar thermal collectors", "active solar systems", "passive solar systems", "flat plate collectors", "evacuated tube collectors", "solar DHW", "SRCC certification"]
+tags: ["solar water heating", "solar thermal collectors", "active solar systems", "passive solar systems", "flat plate collectors", "evacuated tube collectors", "solar DHW", "SRCC certification"]
 weight: 8
 ---
 

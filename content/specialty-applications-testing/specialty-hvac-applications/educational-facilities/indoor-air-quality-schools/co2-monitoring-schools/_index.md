@@ -1,7 +1,9 @@
 ---
 title: "CO2 Monitoring Systems in Schools"
+aliases: ["CO2 Monitoring Systems in Schools"]
 description: "Comprehensive guide to carbon dioxide monitoring in educational facilities, including NDIR sensor technology, placement strategies, setpoint optimization, and integration with demand controlled ventilation systems."
 keywords: ["CO2 monitoring", "NDIR sensors", "demand controlled ventilation", "school IAQ", "carbon dioxide sensors", "classroom air quality", "building automation", "CO2 setpoints"]
+tags: ["CO2 monitoring", "NDIR sensors", "demand controlled ventilation", "school IAQ", "carbon dioxide sensors", "classroom air quality", "building automation", "CO2 setpoints"]
 date: 2025-01-11
 weight: 2
 draft: false

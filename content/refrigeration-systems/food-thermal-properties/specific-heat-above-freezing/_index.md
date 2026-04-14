@@ -1,5 +1,6 @@
 ---
 title: "Specific Heat Above Freezing"
+aliases: ["Specific Heat Above Freezing"]
 weight: 1
 ---
 

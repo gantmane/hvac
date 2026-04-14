@@ -1,8 +1,10 @@
 ---
 title: "Drainback Solar Water Heating Systems"
+aliases: ["Drainback Solar Water Heating Systems"]
 weight: 6
 description: "Technical guide to drainback solar thermal systems covering pump head requirements, drainback tank sizing, freeze protection mechanisms, and system design considerations."
 keywords: ["drainback solar", "solar water heating", "freeze protection", "pump head calculation", "drainback tank", "solar thermal system", "gravity drain", "antifreeze-free solar"]
+tags: ["drainback solar", "solar water heating", "freeze protection", "pump head calculation", "drainback tank", "solar thermal system", "gravity drain", "antifreeze-free solar"]
 ---
 
 ## Operating Principle

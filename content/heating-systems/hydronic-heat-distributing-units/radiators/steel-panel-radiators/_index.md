@@ -1,8 +1,10 @@
 ---
 title: "Steel Panel Radiators"
+aliases: ["Steel Panel Radiators"]
 weight: 2
 description: "Technical analysis of steel panel radiators including single, double, and triple panel configurations, integral convection fins, compact design characteristics, connection types (side, bottom, TBOE), heat output ratings, thermostatic radiator valve integration, European design standards EN 442, and low-temperature heating system compatibility."
 keywords: "steel panel radiators, panel radiators, compact radiators, convector radiators, TRV, thermostatic radiator valve, EN 442, Type 11, Type 21, Type 22, Type 33, panel heating"
+tags: ["steel panel radiators", "panel radiators", "compact radiators", "convector radiators", "TRV", "thermostatic radiator valve", "EN 442", "Type 11", "Type 21", "Type 22"]
 ---
 
 # Steel Panel Radiators

@@ -1,5 +1,6 @@
 ---
 title: "Stack Effect Pressure Differentials"
+aliases: ["Stack Effect Pressure Differentials"]
 description: "Pressure differential calculation and analysis for tall building stack effect including neutral plane location, hydrostatic pressure differences, and building height impact on HVAC system performance."
 weight: 1
 ---

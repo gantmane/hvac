@@ -1,7 +1,9 @@
 ---
 title: "Outdoor Air Reset for Demand-Controlled Ventilation"
+aliases: ["Outdoor Air Reset for Demand-Controlled Ventilation"]
 description: "Engineering analysis of OA reset strategies for DCV systems, covering reset schedules, economizer integration, control algorithms, and energy optimization."
 keywords: ["outdoor air reset", "DCV control", "economizer integration", "ventilation reset schedule", "demand ventilation", "ASHRAE 62.1", "energy optimization", "OA damper control"]
+tags: ["outdoor air reset", "DCV control", "economizer integration", "ventilation reset schedule", "demand ventilation", "ASHRAE 62.1", "energy optimization", "OA damper control"]
 weight: 3
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Oxidation Drying Systems for Printing Plant HVAC"
+aliases: ["Oxidation Drying Systems for Printing Plant HVAC"]
 description: "Environmental control for oxidation-drying inks in sheet-fed printing: temperature, humidity, air circulation effects on autoxidative polymerization rates."
 keywords:
   - oxidation drying

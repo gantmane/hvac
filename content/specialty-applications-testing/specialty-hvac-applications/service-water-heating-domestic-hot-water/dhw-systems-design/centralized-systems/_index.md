@@ -1,8 +1,10 @@
 ---
 title: "Centralized DHW Systems Design"
+aliases: ["Centralized DHW Systems Design"]
 weight: 1
 description: "Centralized domestic hot water system design including boiler plant integration, storage tank sizing methodology, distribution piping, and recirculation requirements."
 keywords: ["centralized DHW", "storage tank sizing", "recirculation piping", "boiler plant integration", "hot water distribution", "DHW design", "water heater capacity", "ASHRAE 62.2"]
+tags: ["centralized DHW", "storage tank sizing", "recirculation piping", "boiler plant integration", "hot water distribution", "DHW design", "water heater capacity", "ASHRAE 62.2"]
 ---
 
 Centralized domestic hot water (DHW) systems consolidate heating equipment in a single mechanical room, distributing hot water throughout a building via piping networks. This architecture offers economies of scale for large facilities but requires careful analysis of storage capacity, heat loss, and recirculation strategies to ensure acceptable delivery temperatures and minimize energy waste.

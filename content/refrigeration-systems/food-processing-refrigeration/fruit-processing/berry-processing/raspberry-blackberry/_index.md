@@ -1,5 +1,6 @@
 ---
 title: "Raspberry and Blackberry Processing Refrigeration"
+aliases: ["Raspberry and Blackberry Processing Refrigeration"]
 description: "HVAC engineering requirements for raspberry and blackberry processing facilities including extreme perishability management, rapid precooling protocols, precise temperature and humidity control, and specialized air handling systems for fragile berry preservation."
 weight: 3
 ---

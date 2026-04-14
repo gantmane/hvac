@@ -1,5 +1,6 @@
 ---
 title: "Citrus Processing"
+aliases: ["Citrus Processing"]
 description: "HVAC refrigeration systems for citrus processing including juice extraction cooling, evaporator concentration, frozen concentrate production, cold storage, and quality preservation through precise temperature and humidity control."
 weight: 3
 ---

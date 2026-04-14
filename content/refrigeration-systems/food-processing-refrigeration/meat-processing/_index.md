@@ -1,8 +1,10 @@
 ---
 title: "Meat Processing Refrigeration Systems"
+aliases: ["Meat Processing Refrigeration Systems"]
 weight: 3
 description: "Comprehensive overview of refrigeration requirements for meat processing facilities including cold chain management, temperature control through processing stages, and USDA/FSIS compliance."
 keywords: ["meat processing refrigeration", "cold chain management", "USDA FSIS compliance", "meat chilling systems", "processing temperature control", "food safety refrigeration", "meat storage requirements", "HACCP temperature monitoring"]
+tags: ["meat processing refrigeration", "cold chain management", "USDA FSIS compliance", "meat chilling systems", "processing temperature control", "food safety refrigeration", "meat storage requirements", "HACCP temperature monitoring"]
 ---
 
 Meat processing refrigeration represents one of the most critical and complex applications in food safety engineering, requiring precise temperature control throughout multiple processing stages to prevent microbial growth while maintaining product quality. The thermodynamic challenges stem from the high heat removal rates necessary during rapid chilling, the phase transition properties of animal tissue, and the stringent regulatory requirements mandated by USDA Food Safety and Inspection Service (FSIS).

@@ -1,5 +1,6 @@
 ---
 title: "Velocity Method"
+aliases: ["Velocity Method"]
 weight: 3
 ---
 

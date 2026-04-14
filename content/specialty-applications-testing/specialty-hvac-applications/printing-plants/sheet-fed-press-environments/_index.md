@@ -1,7 +1,9 @@
 ---
 title: "Sheet-Fed Press HVAC Environments"
+aliases: ["Sheet-Fed Press HVAC Environments"]
 description: "Technical guide to HVAC design for sheet-fed printing presses covering humidity control for dimensional stability, temperature specifications, static electricity prevention, and paper conditioning requirements."
 keywords: ["sheet-fed press HVAC", "printing press humidity control", "paper dimensional stability", "static electricity prevention", "printing plant climate control", "RH 45-55 percent", "temperature 70-75F", "paper conditioning"]
+tags: ["sheet-fed press HVAC", "printing press humidity control", "paper dimensional stability", "static electricity prevention", "printing plant climate control", "RH 45-55 percent", "temperature 70-75F", "paper conditioning"]
 weight: 2
 ---
 

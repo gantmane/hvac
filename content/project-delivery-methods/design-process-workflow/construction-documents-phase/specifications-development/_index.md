@@ -1,5 +1,6 @@
 ---
 title: "Specifications Development"
+aliases: ["Specifications Development"]
 weight: 4
 ---
 

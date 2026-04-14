@@ -1,7 +1,9 @@
 ---
 title: "Roof and Gutter Heating Systems"
+aliases: ["Roof and Gutter Heating Systems"]
 description: "Technical guide to electric heat trace systems for ice dam prevention, including self-regulating and constant wattage cable design, power requirements, and installation patterns for roof edges and gutters."
 keywords: ["roof heating cables", "ice dam prevention", "gutter heat trace", "self-regulating cable", "constant wattage cable", "roof deicing", "freeze protection", "heat tape"]
+tags: ["roof heating cables", "ice dam prevention", "gutter heat trace", "self-regulating cable", "constant wattage cable", "roof deicing", "freeze protection", "heat tape"]
 weight: 7
 ---
 

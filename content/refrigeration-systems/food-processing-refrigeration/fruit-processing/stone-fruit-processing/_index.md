@@ -1,5 +1,6 @@
 ---
 title: "Stone Fruit Processing"
+aliases: ["Stone Fruit Processing"]
 weight: 5
 ---
 

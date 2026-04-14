@@ -1,5 +1,6 @@
 ---
 title: "Penetrations Openings"
+aliases: ["Penetrations Openings"]
 description: "Structural beam penetrations, core drilling limitations, load-bearing wall penetrations, reinforcement requirements, and floor opening framing for HVAC coordination"
 weight: 2
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Dyeing & Finishing HVAC Systems"
+aliases: ["Dyeing & Finishing HVAC Systems"]
 description: "HVAC design for textile dyeing and finishing facilities including heat recovery from process equipment, chemical vapor control, humidity management, and ventilation systems."
 keywords: ["textile dyeing HVAC", "finishing plant ventilation", "process heat recovery", "chemical vapor control", "textile humidity control", "dyeing equipment exhaust", "finishing HVAC loads", "textile plant air quality"]
+tags: ["textile dyeing HVAC", "finishing plant ventilation", "process heat recovery", "chemical vapor control", "textile humidity control", "dyeing equipment exhaust", "finishing HVAC loads", "textile plant air quality"]
 weight: 4
 ---
 

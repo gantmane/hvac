@@ -1,5 +1,6 @@
 ---
 title: "Valve Instrument Schedules"
+aliases: ["Valve Instrument Schedules"]
 weight: 3
 ---
 

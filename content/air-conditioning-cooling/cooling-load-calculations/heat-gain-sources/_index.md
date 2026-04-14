@@ -1,5 +1,6 @@
 ---
 title: "Heat Gain Sources"
+aliases: ["Heat Gain Sources"]
 description: "Detailed analysis of HVAC cooling load heat gain sources including solar radiation, transmission, infiltration, and internal gains from occupants and equipment."
 date: "2026-01-04"
 weight: 1

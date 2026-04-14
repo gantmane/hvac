@@ -1,7 +1,9 @@
 ---
 title: "All-Air HVAC Systems: Design & Configuration"
+aliases: ["All-Air HVAC Systems: Design & Configuration"]
 description: "Comprehensive guide to all-air HVAC systems including CAV, VAV, dual duct, and multizone configurations. Covers airflow fundamentals, duct sizing per ASHRAE standards."
 keywords: ["all-air systems", "VAV systems", "CAV systems", "dual duct HVAC", "multizone systems", "duct design", "ASHRAE duct sizing", "air distribution"]
+tags: ["all-air systems", "VAV systems", "CAV systems", "dual duct HVAC", "multizone systems", "duct design", "ASHRAE duct sizing", "air distribution"]
 weight: 1
 ---
 

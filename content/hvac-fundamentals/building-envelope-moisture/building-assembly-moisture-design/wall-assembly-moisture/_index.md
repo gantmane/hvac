@@ -1,5 +1,6 @@
 ---
 title: "Wall Assembly Moisture"
+aliases: ["Wall Assembly Moisture"]
 description: "Advanced wall assembly moisture management strategies for HVAC professionals including vapor retarder placement by climate zone, rain screen design, drainage plane configuration, air barrier integration, and drying potential analysis for durable building envelope performance."
 weight: 5
 ---

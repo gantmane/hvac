@@ -1,5 +1,6 @@
 ---
 title: "Dehydration Processes"
+aliases: ["Dehydration Processes"]
 description: "HVAC systems for vegetable dehydration facilities including drying air temperature control, humidity management, exhaust air handling, heat recovery, and packaging room conditioning for commercial food processing operations."
 weight: 4
 ---

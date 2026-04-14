@@ -1,5 +1,6 @@
 ---
 title: "Wine Cellar HVAC Systems: Temperature and Humidity Control for Wine Storage"
+aliases: ["Wine Cellar HVAC Systems: Temperature and Humidity Control for Wine Storage"]
 description: "Technical guide to wine cellar climate control including temperature stability at 55-60°F, humidity control at 60-70% RH, vibration isolation, and specialized cooling system design for residential and commercial wine storage."
 keywords:
   - wine cellar HVAC

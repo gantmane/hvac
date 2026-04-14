@@ -1,5 +1,6 @@
 ---
 title: "Mixed Climate Wall Systems"
+aliases: ["Mixed Climate Wall Systems"]
 weight: 4
 ---
 

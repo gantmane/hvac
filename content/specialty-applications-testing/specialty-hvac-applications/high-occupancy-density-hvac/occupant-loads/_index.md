@@ -1,8 +1,10 @@
 ---
 title: "Occupant Loads in High Density HVAC"
+aliases: ["Occupant Loads in High Density HVAC"]
 weight: 1
 description: "Comprehensive analysis of occupant load components including sensible and latent heat gains, CO2 generation rates, and metabolic heat production for high-density HVAC system design."
 keywords: ["occupant loads", "metabolic heat gain", "latent heat", "sensible heat", "CO2 generation", "ventilation requirements", "high density HVAC", "ASHRAE occupancy"]
+tags: ["occupant loads", "metabolic heat gain", "latent heat", "sensible heat", "CO2 generation", "ventilation requirements", "high density HVAC", "ASHRAE occupancy"]
 ---
 
 Occupant loads represent the single largest contributor to cooling requirements in high-occupancy density spaces. Each person introduces both sensible and latent heat gains to the conditioned space, with the balance between these components shifting based on activity level and space temperature. Accurate quantification of occupant loads is fundamental to proper HVAC system sizing and outdoor air delivery.

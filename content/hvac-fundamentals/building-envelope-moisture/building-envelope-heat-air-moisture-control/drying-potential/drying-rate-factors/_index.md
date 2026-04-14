@@ -1,5 +1,6 @@
 ---
 title: "Drying Rate Factors"
+aliases: ["Drying Rate Factors"]
 description: "Factors controlling building envelope drying rates including temperature gradients, vapor pressure gradients, material permeability, air movement, and boundary layer resistance effects."
 weight: 4
 ---

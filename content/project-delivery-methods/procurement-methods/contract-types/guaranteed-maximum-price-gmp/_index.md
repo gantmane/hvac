@@ -1,5 +1,6 @@
 ---
 title: "Guaranteed Maximum Price (GMP)"
+aliases: ["Guaranteed Maximum Price (GMP)"]
 description: "Detailed examination of GMP contracts for HVAC construction including cost ceiling establishment, shared savings provisions, contingency management, and reconciliation procedures."
 weight: 4
 ---

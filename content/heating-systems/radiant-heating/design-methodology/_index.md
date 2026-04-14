@@ -1,8 +1,10 @@
 ---
 title: "Design Methodology"
+aliases: ["Design Methodology"]
 weight: 3
 description: "Comprehensive radiant heating design methodology including panel sizing, mean radiant temperature calculations, comfort criteria, and system integration strategies for floor, ceiling, and wall panels."
 keywords: ["radiant panel sizing", "mean radiant temperature", "thermal comfort criteria", "radiant heating design", "panel placement", "MRT calculation", "comfort equation", "radiant system integration"]
+tags: ["radiant panel sizing", "mean radiant temperature", "thermal comfort criteria", "radiant heating design", "panel placement", "MRT calculation", "comfort equation", "radiant system integration"]
 ---
 
 ## Radiant Panel Sizing

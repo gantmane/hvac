@@ -1,5 +1,6 @@
 ---
 title: "Blanching Vegetables HVAC Systems"
+aliases: ["Blanching Vegetables HVAC Systems"]
 description: "Advanced HVAC engineering for vegetable blanching facilities including steam and hot water blancher ventilation, condensate management, cooling systems, and makeup air requirements for food processing operations"
 weight: 1
 ---

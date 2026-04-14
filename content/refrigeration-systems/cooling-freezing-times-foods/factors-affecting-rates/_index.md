@@ -1,5 +1,6 @@
 ---
 title: "Factors Affecting Cooling and Freezing Rates"
+aliases: ["Factors Affecting Cooling and Freezing Rates"]
 description: "Comprehensive analysis of factors controlling food cooling and freezing rates including heat transfer coefficients, product geometry and Biot number, initial and final temperatures, thermal properties, air velocity effects, and packaging resistance for HVAC refrigeration system design"
 weight: 5
 ---

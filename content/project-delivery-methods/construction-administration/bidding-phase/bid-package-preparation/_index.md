@@ -1,5 +1,6 @@
 ---
 title: "Bid Package Preparation"
+aliases: ["Bid Package Preparation"]
 weight: 1
 ---
 

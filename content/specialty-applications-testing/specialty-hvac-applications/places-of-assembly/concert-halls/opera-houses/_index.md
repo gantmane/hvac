@@ -1,7 +1,9 @@
 ---
 title: "Opera House HVAC Systems"
+aliases: ["Opera House HVAC Systems"]
 description: "Technical guide to HVAC design for opera houses covering stage conditioning, fly tower ventilation, orchestra pit cooling, and audience chamber climate control."
 keywords: ["opera house HVAC", "stage house ventilation", "fly tower cooling", "orchestra pit conditioning", "theater climate control", "performance venue HVAC", "acoustic HVAC design", "stage performer comfort"]
+tags: ["opera house HVAC", "stage house ventilation", "fly tower cooling", "orchestra pit conditioning", "theater climate control", "performance venue HVAC", "acoustic HVAC design", "stage performer comfort"]
 weight: 2
 ---
 

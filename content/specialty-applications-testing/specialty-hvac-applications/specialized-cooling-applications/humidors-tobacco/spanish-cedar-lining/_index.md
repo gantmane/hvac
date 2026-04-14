@@ -1,5 +1,6 @@
 ---
 title: "Spanish Cedar Lining Properties"
+aliases: ["Spanish Cedar Lining Properties"]
 linkTitle: "Spanish Cedar Lining"
 description: "Technical analysis of Spanish cedar moisture buffering physics in humidors including sorption isotherms, hygroscopic capacity calculations, humidity stabilization mechanisms, and material property comparisons for optimal cigar storage environment control."
 keywords:

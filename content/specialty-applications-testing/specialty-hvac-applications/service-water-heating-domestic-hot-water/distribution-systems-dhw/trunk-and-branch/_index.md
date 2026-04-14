@@ -1,7 +1,9 @@
 ---
 title: "Trunk-and-Branch DHW Distribution Systems"
+aliases: ["Trunk-and-Branch DHW Distribution Systems"]
 description: "Engineering analysis of trunk-and-branch domestic hot water distribution systems including pipe sizing methods, friction loss calculations, delivery times, and comparison with manifold systems."
 keywords: ["trunk and branch piping", "DHW distribution", "domestic hot water sizing", "plumbing pipe sizing", "hot water delivery time", "graduated pipe sizing", "friction loss calculation", "fixture unit method"]
+tags: ["trunk and branch piping", "DHW distribution", "domestic hot water sizing", "plumbing pipe sizing", "hot water delivery time", "graduated pipe sizing", "friction loss calculation", "fixture unit method"]
 weight: 1
 ---
 

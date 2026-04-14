@@ -2,6 +2,7 @@
 title: "HVAC Control Strategies for Engineers"
 description: "PID control theory, tuning procedures, reset schedules, sequences of operation, and advanced control strategies for optimal HVAC system performance."
 keywords: ["PID control", "control strategies", "sequences of operation", "reset schedules", "control tuning", "HVAC automation"]
+tags: ["PID control", "control strategies", "sequences of operation", "reset schedules", "control tuning", "HVAC automation"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 25
@@ -208,9 +209,9 @@ graph TD
 ---
 
 **Related Technical Guides:**
-- [Variable Flow System Design](/technical-guides/variable-flow-system-design/)
-- [Building Pressurization Control](/technical-guides/building-pressurization-control/)
-- [Commissioning Procedures](/technical-guides/commissioning-procedures/)
+- Variable Flow System Design
+- Building Pressurization Control
+- Commissioning Procedures
 
 **References:**
 - ASHRAE Handbook of HVAC Applications, Chapter 47: Design and Application of Controls

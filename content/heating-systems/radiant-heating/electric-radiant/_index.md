@@ -1,5 +1,6 @@
 ---
 title: "Electric Radiant Heating"
+aliases: ["Electric Radiant Heating"]
 description: "Technical analysis of electric radiant heating systems including resistance cable, heating mat, and carbon film technologies, power density calculations, voltage configurations, GFCI protection, thermostat control strategies, and installation best practices for floor warming and space heating applications."
 weight: 2
 ---

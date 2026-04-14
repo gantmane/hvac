@@ -1,7 +1,9 @@
 ---
 title: "Hot Water Recirculation Loop Design & Balancing"
+aliases: ["Hot Water Recirculation Loop Design & Balancing"]
 description: "Engineering guide to DHW recirculation systems covering loop sizing, heat loss calculations, pump selection, balancing valves, and energy-efficient design strategies."
 keywords: ["recirculation loop", "DHW return", "hot water circulation", "loop balancing", "recirculation pump", "pipe heat loss", "return temperature", "water heating efficiency"]
+tags: ["recirculation loop", "DHW return", "hot water circulation", "loop balancing", "recirculation pump", "pipe heat loss", "return temperature", "water heating efficiency"]
 weight: 1
 ---
 

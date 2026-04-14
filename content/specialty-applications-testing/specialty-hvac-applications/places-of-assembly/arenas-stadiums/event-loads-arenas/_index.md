@@ -1,7 +1,9 @@
 ---
 title: "Event-Specific Loads in Arena HVAC Design"
+aliases: ["Event-Specific Loads in Arena HVAC Design"]
 description: "Engineering guide to HVAC load calculations for multi-use arenas covering ice rinks, basketball courts, concerts, and rapid changeover thermal management strategies."
 keywords: ["arena HVAC loads", "ice rink cooling", "concert lighting loads", "stadium load calculation", "event changeover HVAC", "multi-use arena design", "stage lighting heat gain", "arena pre-conditioning"]
+tags: ["arena HVAC loads", "ice rink cooling", "concert lighting loads", "stadium load calculation", "event changeover HVAC", "multi-use arena design", "stage lighting heat gain", "arena pre-conditioning"]
 weight: 5
 ---
 

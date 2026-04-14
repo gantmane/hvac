@@ -1,5 +1,6 @@
 ---
 title: "Distribution Trucks"
+aliases: ["Distribution Trucks"]
 weight: 5
 ---
 

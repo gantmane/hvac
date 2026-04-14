@@ -1,7 +1,9 @@
 ---
 title: "Hydroelectric Power for HVAC Applications"
+aliases: ["Hydroelectric Power for HVAC Applications"]
 description: "Technical analysis of hydroelectric resources for building energy systems, including power generation principles, pumped storage integration, and grid-scale applications."
 keywords: ["hydroelectric power", "hydropower HVAC", "pumped storage", "renewable energy", "grid storage", "building energy", "water power", "energy storage"]
+tags: ["hydroelectric power", "hydropower HVAC", "pumped storage", "renewable energy", "grid storage", "building energy", "water power", "energy storage"]
 weight: 5
 ---
 

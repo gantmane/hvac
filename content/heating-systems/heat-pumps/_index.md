@@ -1,9 +1,11 @@
 ---
 title: "Heat Pumps"
+aliases: ["Heat Pumps"]
 weight: 4
 seo_title: "Heat Pump Systems: Technology, COP & Applications"
 meta_description: "Comprehensive guide to heat pump technology, vapor compression cycle physics, coefficient of performance calculations, heat source types, and heating-cooling applications."
 keywords: ["heat pump", "vapor compression cycle", "coefficient of performance", "COP", "air source heat pump", "ground source heat pump", "reversible refrigeration", "heating efficiency"]
+tags: ["heat pump", "vapor compression cycle", "coefficient of performance", "COP", "air source heat pump", "ground source heat pump", "reversible refrigeration", "heating efficiency"]
 ---
 
 Heat pumps represent a thermodynamically elegant solution to space conditioning by transferring thermal energy from a low-temperature reservoir to a high-temperature zone. Unlike furnaces that generate heat through combustion, heat pumps exploit the reversible vapor compression refrigeration cycle to move heat against its natural gradient, achieving heating efficiencies exceeding 100% when measured by traditional metrics.

@@ -1,7 +1,9 @@
 ---
 title: "Bus HVAC Systems: Transit, Motor Coach, and School Bus Climate Control"
+aliases: ["Bus HVAC Systems: Transit, Motor Coach, and School Bus Climate Control"]
 description: "Engineering guide to bus HVAC design including rooftop and integrated units, load calculations, equipment placement, and heating/cooling strategies for transit buses, motor coaches, and school buses."
 keywords: ["bus HVAC", "transit bus air conditioning", "motor coach climate control", "school bus heating", "rooftop HVAC units", "bus cooling load", "transit HVAC standards", "SAE J1343", "bus ventilation"]
+tags: ["bus HVAC", "transit bus air conditioning", "motor coach climate control", "school bus heating", "rooftop HVAC units", "bus cooling load", "transit HVAC standards", "SAE J1343", "bus ventilation"]
 weight: 3
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Natural Gas Resource Types"
+aliases: ["Natural Gas Resource Types"]
 description: "Comprehensive analysis of conventional and unconventional natural gas resources including shale gas, coalbed methane, and associated gas for HVAC heating applications."
 keywords: ["natural gas resources", "shale gas", "coalbed methane", "associated gas", "unconventional gas", "conventional gas", "biogas", "heating fuel"]
+tags: ["natural gas resources", "shale gas", "coalbed methane", "associated gas", "unconventional gas", "conventional gas", "biogas", "heating fuel"]
 weight: 1
 ---
 

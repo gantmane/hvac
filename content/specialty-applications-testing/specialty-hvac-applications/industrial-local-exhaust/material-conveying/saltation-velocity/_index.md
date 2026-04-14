@@ -1,9 +1,11 @@
 ---
 title: "Saltation Velocity in Pneumatic Conveying Systems"
+aliases: ["Saltation Velocity in Pneumatic Conveying Systems"]
 weight: 4
 date: 2026-01-11
 description: "Understand saltation velocity principles, calculations, and design criteria for material transport in industrial exhaust ducts. Includes physics-based formulas and velocity tables."
 keywords: ["saltation velocity", "pneumatic conveying", "particle transport", "industrial ventilation", "material handling", "duct design", "minimum transport velocity", "ACGIH"]
+tags: ["saltation velocity", "pneumatic conveying", "particle transport", "industrial ventilation", "material handling", "duct design", "minimum transport velocity", "ACGIH"]
 ---
 
 ## Physical Principles of Saltation Velocity

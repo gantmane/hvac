@@ -1,5 +1,6 @@
 ---
 title: "Pulp Processing Ventilation Systems"
+aliases: ["Pulp Processing Ventilation Systems"]
 description: "Technical guide to HVAC and ventilation design for pulp processing operations including digester ventilation, chemical recovery odor control, bleach plant exhaust, and TRS emission management."
 keywords:
   - pulp processing ventilation

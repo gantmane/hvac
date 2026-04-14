@@ -1,5 +1,6 @@
 ---
 title: "Methane Monitoring Systems for Mine Safety"
+aliases: ["Methane Monitoring Systems for Mine Safety"]
 weight: 2
 description: "Technical analysis of methane detection technologies including catalytic bead sensors, infrared spectroscopy, real-time monitoring networks, alarm thresholds, and MSHA compliance."
 keywords:

@@ -1,5 +1,6 @@
 ---
 title: "Heated Makeup Air"
+aliases: ["Heated Makeup Air"]
 weight: 1
 ---
 

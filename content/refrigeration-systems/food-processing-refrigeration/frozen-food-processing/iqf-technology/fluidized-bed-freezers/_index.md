@@ -1,5 +1,6 @@
 ---
 title: "Fluidized Bed Freezers"
+aliases: ["Fluidized Bed Freezers"]
 description: "Advanced technical analysis of fluidized bed IQF freezing technology including air velocity requirements, bed characteristics, heat transfer coefficients, and refrigeration system integration for rapid freezing of particulate food products."
 weight: 2
 ---

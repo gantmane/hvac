@@ -2,6 +2,7 @@
 title: "Refrigerant Selection & Properties for HVAC Engineers"
 description: "Comprehensive guide to refrigerant classifications, thermophysical properties, environmental impact (GWP, ODP), safety groups, and selection criteria for HVAC and refrigeration applications."
 keywords: ["refrigerants", "R-410A", "R-134a", "R-32", "GWP", "ODP", "refrigerant properties", "ASHRAE 34", "refrigerant safety"]
+tags: ["refrigerants", "R-410A", "R-134a", "R-32", "GWP", "ODP", "refrigerant properties", "ASHRAE 34", "refrigerant safety"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 33
@@ -209,9 +210,9 @@ Higher volumetric capacity = smaller compressor for same cooling
 ---
 
 **Related Technical Guides:**
-- [Vapor Compression Refrigeration Cycle](/technical-guides/vapor-compression-refrigeration/)
-- [Compressor Selection & Performance](/technical-guides/compressor-selection-performance/)
-- [Refrigeration Load Calculations](/technical-guides/refrigeration-load-calculations/)
+- Vapor Compression Refrigeration Cycle
+- Compressor Selection & Performance
+- Refrigeration Load Calculations
 
 **References:**
 - ASHRAE Standard 34: Designation and Safety Classification of Refrigerants

@@ -1,9 +1,11 @@
 ---
 title: "Aerial vs Pavement Mounted Snow Melt Sensors"
+aliases: ["Aerial vs Pavement Mounted Snow Melt Sensors"]
 description: "Engineering analysis of aerial and pavement-mounted snow sensor placement, comparing response time, accuracy, and thermal dynamics for optimal control."
 date: 2026-01-11
 weight: 3
 keywords: ["snow melting sensors", "aerial sensors", "pavement sensors", "snow detection", "hydronic controls", "sensor placement", "freeze protection", "thermal response"]
+tags: ["snow melting sensors", "aerial sensors", "pavement sensors", "snow detection", "hydronic controls", "sensor placement", "freeze protection", "thermal response"]
 ---
 
 ## Physical Principles of Snow Sensor Placement

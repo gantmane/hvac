@@ -1,7 +1,9 @@
 ---
 title: "Engine Room Cooling & Ventilation Systems"
+aliases: ["Engine Room Cooling & Ventilation Systems"]
 description: "Technical analysis of marine engine room cooling and ventilation including forced air systems, natural ventilation, temperature control strategies, and heat load calculations."
 keywords: ["engine room cooling", "marine forced ventilation", "natural ventilation ships", "engine room temperature control", "marine heat load", "machinery space cooling", "SOLAS ventilation", "engine room airflow"]
+tags: ["engine room cooling", "marine forced ventilation", "natural ventilation ships", "engine room temperature control", "marine heat load", "machinery space cooling", "SOLAS ventilation", "engine room airflow"]
 weight: 2
 ---
 

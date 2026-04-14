@@ -1,5 +1,6 @@
 ---
 title: "Roof Assembly Moisture Control"
+aliases: ["Roof Assembly Moisture Control"]
 description: "Advanced roof assembly moisture control strategies for HVAC systems including vented and unvented configurations, vapor retarder placement, ice dam prevention, and insulation strategies for moisture management in roofing systems."
 weight: 4
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Air Velocity"
+aliases: ["Air Velocity"]
 weight: 2
 ---
 

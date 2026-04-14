@@ -1,7 +1,9 @@
 ---
 title: "Automotive Ventilation Systems Design & Operation"
+aliases: ["Automotive Ventilation Systems Design & Operation"]
 description: "Fresh air intake, recirculation modes, cabin filtration, defrost requirements, and air distribution patterns for automotive HVAC per SAE standards."
 keywords: ["automotive ventilation", "fresh air intake", "recirculation mode", "cabin air filter", "defrost systems", "air distribution", "SAE J1503", "blower motor"]
+tags: ["automotive ventilation", "fresh air intake", "recirculation mode", "cabin air filter", "defrost systems", "air distribution", "SAE J1503", "blower motor"]
 author: "Evgeniy Gantman"
 date: 2026-01-11
 weight: 4

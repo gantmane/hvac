@@ -1,10 +1,12 @@
 ---
 title: "Indoor Air Quality Management"
+aliases: ["Indoor Air Quality Management"]
 date: 2026-01-04
 draft: false
 weight: 2
 description: "Technical analysis of indoor air quality management including contaminant control, health effects, monitoring strategies, ASHRAE 62.1 compliance, and ventilation procedures."
 keywords: ["indoor air quality", "IAQ management", "sick building syndrome", "ASHRAE 62.1", "IAQ monitoring", "contaminant control", "ventilation rate procedure", "IAQ procedure"]
+tags: ["indoor air quality", "IAQ management", "sick building syndrome", "ASHRAE 62.1", "IAQ monitoring", "contaminant control", "ventilation rate procedure", "IAQ procedure"]
 ---
 
 # Indoor Air Quality Management

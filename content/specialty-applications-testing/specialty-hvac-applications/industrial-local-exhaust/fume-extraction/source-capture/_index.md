@@ -1,7 +1,9 @@
 ---
 title: "Source Capture Principles for Industrial Fumes"
+aliases: ["Source Capture Principles for Industrial Fumes"]
 description: "Source capture fundamentals for industrial fume extraction including capture zone calculations, hood positioning, airflow patterns, and breathing zone protection."
 keywords: ["source capture", "fume extraction", "capture zone", "hood positioning", "breathing zone protection", "ACGIH controls", "local exhaust ventilation", "capture velocity"]
+tags: ["source capture", "fume extraction", "capture zone", "hood positioning", "breathing zone protection", "ACGIH controls", "local exhaust ventilation", "capture velocity"]
 weight: 3
 ---
 

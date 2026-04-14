@@ -1,5 +1,6 @@
 ---
 title: "R454b Tables"
+aliases: ["R454b Tables"]
 weight: 9
 ---
 

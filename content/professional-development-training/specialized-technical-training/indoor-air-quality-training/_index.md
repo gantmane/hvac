@@ -1,5 +1,6 @@
 ---
 title: "Indoor Air Quality Training Programs"
+aliases: ["Indoor Air Quality Training Programs"]
 description: "Comprehensive IAQ training covering contaminant control, ventilation effectiveness, filtration design, and source management based on ASHRAE standards."
 date: 2025-01-05
 weight: 5

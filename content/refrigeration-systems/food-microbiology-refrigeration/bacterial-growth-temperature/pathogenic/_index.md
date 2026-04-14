@@ -1,5 +1,6 @@
 ---
 title: "Pathogenic"
+aliases: ["Pathogenic"]
 weight: 3
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Reciprocating Chillers"
+aliases: ["Reciprocating Chillers"]
 description: "Comprehensive technical guide to reciprocating compressor chillers including piston-cylinder design, capacity control methods, performance characteristics, and application requirements for 5-150 ton systems."
 weight: 4
 ---

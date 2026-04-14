@@ -1,5 +1,6 @@
 ---
 title: "ERV Performance Factors and Testing Standards"
+aliases: ["ERV Performance Factors and Testing Standards"]
 description: "Technical analysis of energy recovery ventilator effectiveness, pressure drop, cross-contamination, and performance degradation per ASHRAE Standard 84 testing protocols."
 date: 2025-01-05
 keywords:

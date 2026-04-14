@@ -1,7 +1,9 @@
 ---
 title: "HVAC Spare Parts Management and Inventory Control"
+aliases: ["HVAC Spare Parts Management and Inventory Control"]
 description: "Comprehensive guide to HVAC spare parts management including criticality analysis, inventory optimization strategies, stocking levels, and obsolescence planning for maintenance operations."
 keywords: ["spare parts management", "HVAC inventory control", "critical spares", "inventory optimization", "parts obsolescence", "maintenance inventory", "spare parts lifecycle", "stocking levels"]
+tags: ["spare parts management", "HVAC inventory control", "critical spares", "inventory optimization", "parts obsolescence", "maintenance inventory", "spare parts lifecycle", "stocking levels"]
 weight: 5
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "High Ceiling HVAC for Worship Spaces"
+aliases: ["High Ceiling HVAC for Worship Spaces"]
 description: "Engineering solutions for thermal stratification in tall worship spaces: destratification fans, radiant heating, displacement ventilation, and mixing strategies for 20-60 ft ceilings."
 keywords: ["thermal stratification", "destratification fans", "displacement ventilation", "radiant heating worship", "cathedral ceiling HVAC", "tall space conditioning", "worship space HVAC", "vertical temperature gradient"]
+tags: ["thermal stratification", "destratification fans", "displacement ventilation", "radiant heating worship", "cathedral ceiling HVAC", "tall space conditioning", "worship space HVAC", "vertical temperature gradient"]
 weight: 6
 ---
 

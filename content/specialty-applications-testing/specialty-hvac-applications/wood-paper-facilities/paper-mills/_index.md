@@ -1,5 +1,6 @@
 ---
 title: "Paper Mill HVAC Systems"
+aliases: ["Paper Mill HVAC Systems"]
 description: "Technical guide to HVAC design for paper manufacturing facilities including humidity control, heat recovery, paper machine environment control, and pulp processing ventilation systems."
 keywords:
   - paper mill HVAC

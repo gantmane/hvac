@@ -1,5 +1,6 @@
 ---
 title: "Ro Ro Reefer"
+aliases: ["Ro Ro Reefer"]
 weight: 5
 ---
 

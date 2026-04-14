@@ -1,5 +1,6 @@
 ---
 title: "Chilling Temperature Requirements"
+aliases: ["Chilling Temperature Requirements"]
 description: "Technical specifications for fish chilling temperatures including species-specific requirements, chilling rates, critical control points, and FDA/HACCP compliance for seafood processing refrigeration systems"
 weight: 4
 ---

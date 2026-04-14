@@ -1,5 +1,6 @@
 ---
 title: "Generative Adversarial Networks"
+aliases: ["Generative Adversarial Networks"]
 weight: 4
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Tempered Makeup Air"
+aliases: ["Tempered Makeup Air"]
 description: "Engineering analysis of tempered makeup air systems with minimal heating for freeze protection and energy savings in industrial and warehouse applications."
 date: "2026-01-04"
 weight: 3

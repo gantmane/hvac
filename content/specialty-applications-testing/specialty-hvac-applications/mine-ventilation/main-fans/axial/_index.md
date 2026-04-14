@@ -1,7 +1,9 @@
 ---
 title: "Axial Main Fans for Mine Ventilation Systems"
+aliases: ["Axial Main Fans for Mine Ventilation Systems"]
 description: "Axial mine fans provide high-volume airflow with aerodynamic impellers, adjustable pitch blades, and efficient operation for forcing or exhausting applications."
 keywords: ["axial mine fans", "adjustable pitch blades", "mine ventilation fans", "fan performance curves", "axial flow impeller", "mine air movement", "ventilation efficiency", "forcing exhausting fans"]
+tags: ["axial mine fans", "adjustable pitch blades", "mine ventilation fans", "fan performance curves", "axial flow impeller", "mine air movement", "ventilation efficiency", "forcing exhausting fans"]
 weight: 2
 ---
 

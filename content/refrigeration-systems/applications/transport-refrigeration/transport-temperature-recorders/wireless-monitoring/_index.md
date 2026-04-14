@@ -1,5 +1,6 @@
 ---
 title: "Wireless Monitoring"
+aliases: ["Wireless Monitoring"]
 weight: 3
 ---
 

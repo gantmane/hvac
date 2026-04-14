@@ -1,7 +1,9 @@
 ---
 title: "Indoor Air Quality in Schools: Standards and Implementation"
+aliases: ["Indoor Air Quality in Schools: Standards and Implementation"]
 description: "Comprehensive technical guidance on school IAQ requirements including CO2 monitoring, filtration standards, mold prevention, source control strategies, and ventilation verification protocols per ASHRAE 62.1 and EPA guidelines."
 keywords: ["school indoor air quality", "classroom IAQ", "CO2 monitoring schools", "ASHRAE 62.1 schools", "school ventilation standards", "MERV filters schools", "mold prevention classroom", "school air quality testing", "educational facility IAQ", "classroom filtration"]
+tags: ["school indoor air quality", "classroom IAQ", "CO2 monitoring schools", "ASHRAE 62.1 schools", "school ventilation standards", "MERV filters schools", "mold prevention classroom", "school air quality testing", "educational facility IAQ", "classroom filtration"]
 date: 2025-01-05
 weight: 8
 ---

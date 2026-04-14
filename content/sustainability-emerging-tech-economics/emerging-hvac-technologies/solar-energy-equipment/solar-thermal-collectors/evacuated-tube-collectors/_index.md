@@ -1,7 +1,9 @@
 ---
 title: "Evacuated Tube Collectors"
+aliases: ["Evacuated Tube Collectors"]
 description: "Technical analysis of evacuated tube solar thermal collectors including heat pipe and direct flow configurations, vacuum insulation physics, efficiency calculations, and cold climate performance characteristics"
 keywords: ["evacuated tube collectors", "solar thermal", "heat pipe", "vacuum insulation", "cold climate solar", "selective coating", "stagnation temperature", "thermal efficiency"]
+tags: ["evacuated tube collectors", "solar thermal", "heat pipe", "vacuum insulation", "cold climate solar", "selective coating", "stagnation temperature", "thermal efficiency"]
 weight: 2
 ---
 

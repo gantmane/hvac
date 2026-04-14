@@ -1,5 +1,6 @@
 ---
 title: "Air Density"
+aliases: ["Air Density"]
 description: "Comprehensive analysis of air density fundamentals, ideal gas relationships, temperature and pressure effects, property tables, and design considerations for HVAC fan and duct sizing applications"
 weight: 1
 ---

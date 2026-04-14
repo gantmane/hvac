@@ -1,5 +1,6 @@
 ---
 title: "Critical Point Water"
+aliases: ["Critical Point Water"]
 weight: 3
 ---
 

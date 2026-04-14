@@ -1,5 +1,6 @@
 ---
 title: "IQF Advantages in Vegetable Processing"
+aliases: ["IQF Advantages in Vegetable Processing"]
 description: "Technical analysis of Individual Quick Freezing advantages for vegetable processing including ice crystal control, quality retention, processing flexibility, and comparison with conventional block freezing methods"
 weight: 1
 ---

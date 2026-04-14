@@ -1,7 +1,9 @@
 ---
 title: "Specialized Cooling Applications"
+aliases: ["Specialized Cooling Applications"]
 description: "Precision cooling systems for wine cellars, humidors, musical instruments, and organ pipe rooms. Physics-based design principles for specialized climate control."
 keywords: ["precision cooling", "wine cellar HVAC", "humidor climate control", "museum climate control", "specialty cooling systems", "humidity control", "temperature stability", "environmental precision"]
+tags: ["precision cooling", "wine cellar HVAC", "humidor climate control", "museum climate control", "specialty cooling systems", "humidity control", "temperature stability", "environmental precision"]
 weight: 21
 ---
 

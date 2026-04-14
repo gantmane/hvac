@@ -1,5 +1,6 @@
 ---
 title: "Makeup Air Systems for Commercial Hotel Laundries"
+aliases: ["Makeup Air Systems for Commercial Hotel Laundries"]
 description: "Design requirements for makeup air units in hotel laundry facilities including volume calculations, heating/cooling capacity, direct vs indirect-fired units, and pressure balancing."
 date: "2026-01-11"
 weight: 2

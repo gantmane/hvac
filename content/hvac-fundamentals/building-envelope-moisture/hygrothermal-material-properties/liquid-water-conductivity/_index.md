@@ -1,5 +1,6 @@
 ---
 title: "Liquid Water Conductivity"
+aliases: ["Liquid Water Conductivity"]
 description: "Liquid water conductivity in building materials governs capillary moisture transport through porous building envelope assemblies. Critical hygrothermal property for WUFI modeling and moisture analysis in walls, roofs, and foundation systems."
 weight: 4
 ---

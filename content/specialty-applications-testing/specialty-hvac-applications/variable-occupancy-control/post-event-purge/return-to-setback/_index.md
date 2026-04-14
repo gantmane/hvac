@@ -1,7 +1,9 @@
 ---
 title: "Return To Setback After Post-Event Purge"
+aliases: ["Return To Setback After Post-Event Purge"]
 description: "Technical analysis of HVAC setback mode transitions, energy conservation strategies, gradual equipment shutdown, and optimal timing for return to unoccupied operation."
 keywords: ["setback mode", "energy conservation", "equipment cycling", "unoccupied control", "HVAC shutdown", "temperature setback", "gradual transition", "ASHRAE 90.1"]
+tags: ["setback mode", "energy conservation", "equipment cycling", "unoccupied control", "HVAC shutdown", "temperature setback", "gradual transition", "ASHRAE 90.1"]
 weight: 3
 ---
 

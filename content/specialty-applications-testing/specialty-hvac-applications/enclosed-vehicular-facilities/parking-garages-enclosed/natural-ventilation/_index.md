@@ -1,7 +1,9 @@
 ---
 title: "Natural Ventilation for Parking Garages"
+aliases: ["Natural Ventilation for Parking Garages"]
 description: "Technical analysis of natural ventilation design for enclosed parking structures including opening requirements, wind-driven flow, buoyancy effects, and hybrid systems."
 keywords: ["natural ventilation parking garage", "open parking structure", "IMC 404.1", "cross-ventilation design", "stack effect ventilation", "wind-driven ventilation", "hybrid ventilation systems", "parking garage openings"]
+tags: ["natural ventilation parking garage", "open parking structure", "IMC 404.1", "cross-ventilation design", "stack effect ventilation", "wind-driven ventilation", "hybrid ventilation systems", "parking garage openings"]
 weight: 4
 ---
 

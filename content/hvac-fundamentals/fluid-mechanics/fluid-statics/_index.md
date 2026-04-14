@@ -1,5 +1,6 @@
 ---
 title: "Fluid Statics"
+aliases: ["Fluid Statics"]
 description: "Fundamental principles of fluids at rest including hydrostatic pressure, manometry, buoyancy, and pressure measurement applied to HVAC system design, tank sizing, and piping analysis."
 weight: 2
 ---

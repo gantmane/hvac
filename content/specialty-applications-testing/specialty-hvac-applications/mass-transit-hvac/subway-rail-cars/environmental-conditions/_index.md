@@ -1,7 +1,9 @@
 ---
 title: "Subway Environmental Conditions & Tunnel Temperature"
+aliases: ["Subway Environmental Conditions & Tunnel Temperature"]
 description: "Technical analysis of subway tunnel environmental conditions including piston effect, tunnel temperature rise calculations, humidity control, and heat accumulation in underground transit systems."
 keywords: ["tunnel temperature", "piston effect", "subway environmental conditions", "tunnel heat load", "underground transit temperature", "metro tunnel ventilation", "subway humidity control", "tunnel ambient temperature"]
+tags: ["tunnel temperature", "piston effect", "subway environmental conditions", "tunnel heat load", "underground transit temperature", "metro tunnel ventilation", "subway humidity control", "tunnel ambient temperature"]
 weight: 4
 ---
 

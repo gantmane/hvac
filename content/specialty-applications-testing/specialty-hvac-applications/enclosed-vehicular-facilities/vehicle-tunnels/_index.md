@@ -1,7 +1,9 @@
 ---
 title: "Vehicle Tunnel Ventilation Systems"
+aliases: ["Vehicle Tunnel Ventilation Systems"]
 description: "Technical analysis of road and rail tunnel ventilation systems including longitudinal, transverse, and semi-transverse configurations for normal and emergency operation."
 keywords: ["vehicle tunnel ventilation", "tunnel HVAC", "longitudinal ventilation", "transverse ventilation", "NFPA 502", "tunnel emergency ventilation", "tunnel smoke control", "critical velocity"]
+tags: ["vehicle tunnel ventilation", "tunnel HVAC", "longitudinal ventilation", "transverse ventilation", "NFPA 502", "tunnel emergency ventilation", "tunnel smoke control", "critical velocity"]
 weight: 2
 ---
 

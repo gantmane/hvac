@@ -1,8 +1,10 @@
 ---
 title: "RH 40-50% Stability for Organ Chambers"
+aliases: ["RH 40-50% Stability for Organ Chambers"]
 weight: 2
 description: "Engineering analysis of relative humidity control 40-50% for pipe organs including wood moisture equilibrium, hygroscopic dimensional changes, leather preservation, and humidity control strategies."
 keywords: "organ humidity control, wood moisture content, hygroscopic movement, EMC equilibrium moisture content, organ leather preservation, humidity stability, wood dimensional change, organ climate control"
+tags: ["organ humidity control", "wood moisture content", "hygroscopic movement", "EMC equilibrium moisture content", "organ leather preservation", "humidity stability", "wood dimensional change", "organ climate control"]
 ---
 
 # RH 40-50% Stability for Organ Chambers

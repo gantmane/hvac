@@ -1,7 +1,9 @@
 ---
 title: "Automotive Refrigerant Systems"
+aliases: ["Automotive Refrigerant Systems"]
 description: "Comprehensive analysis of R-134a and R-1234yf refrigerants in mobile air conditioning, including thermodynamic properties, charge requirements, and service procedures."
 keywords: ["automotive refrigerant", "R-134a", "R-1234yf", "mobile AC service", "refrigerant charge", "HFO-1234yf", "automotive HVAC", "low GWP refrigerants"]
+tags: ["automotive refrigerant", "R-134a", "R-1234yf", "mobile AC service", "refrigerant charge", "HFO-1234yf", "automotive HVAC", "low GWP refrigerants"]
 weight: 1
 ---
 

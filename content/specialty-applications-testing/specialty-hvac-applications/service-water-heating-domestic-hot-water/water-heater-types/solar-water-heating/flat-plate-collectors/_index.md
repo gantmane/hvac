@@ -1,7 +1,9 @@
 ---
 title: "Flat Plate Solar Collectors for Water Heating"
+aliases: ["Flat Plate Solar Collectors for Water Heating"]
 description: "Technical analysis of flat plate solar collector design, absorber construction, glazing systems, thermal efficiency curves, and performance per ASHRAE 93 standards."
 keywords: ["flat plate collector", "solar absorber", "collector efficiency", "glazing systems", "ASHRAE 93", "SRCC certification", "selective coating", "thermal performance"]
+tags: ["flat plate collector", "solar absorber", "collector efficiency", "glazing systems", "ASHRAE 93", "SRCC certification", "selective coating", "thermal performance"]
 weight: 3
 ---
 

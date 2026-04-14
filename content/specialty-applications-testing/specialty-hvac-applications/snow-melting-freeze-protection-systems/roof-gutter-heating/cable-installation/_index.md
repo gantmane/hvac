@@ -1,8 +1,10 @@
 ---
 title: "Roof & Gutter Heating Cable Installation Methods"
+aliases: ["Roof & Gutter Heating Cable Installation Methods"]
 weight: 5
 description: "Engineering principles and installation techniques for roof de-icing and gutter heating cables, including serpentine patterns, spacing calculations, and attachment methods."
 keywords: ["roof heating cable", "gutter de-icing installation", "cable spacing calculation", "ice dam prevention", "serpentine cable pattern", "roof edge heating", "downspout cable routing", "heat trace installation"]
+tags: ["roof heating cable", "gutter de-icing installation", "cable spacing calculation", "ice dam prevention", "serpentine cable pattern", "roof edge heating", "downspout cable routing", "heat trace installation"]
 ---
 
 ## Physical Principles of Cable Installation

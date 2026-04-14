@@ -1,7 +1,9 @@
 ---
 title: "Central vs Distributed HVAC Systems"
+aliases: ["Central vs Distributed HVAC Systems"]
 description: "Comparative analysis of central plant and distributed HVAC systems for tall buildings including equipment room placement, piping pressure zones, and tenant flexibility trade-offs."
 keywords: ["central plant HVAC", "distributed HVAC systems", "high-rise mechanical rooms", "pressure zone design", "tenant flexibility", "equipment placement strategy", "vertical HVAC distribution", "building core design"]
+tags: ["central plant HVAC", "distributed HVAC systems", "high-rise mechanical rooms", "pressure zone design", "tenant flexibility", "equipment placement strategy", "vertical HVAC distribution", "building core design"]
 weight: 11
 ---
 

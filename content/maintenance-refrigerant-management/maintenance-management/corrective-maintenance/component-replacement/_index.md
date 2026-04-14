@@ -1,7 +1,9 @@
 ---
 title: "HVAC Component Replacement Procedures & Best Practices"
+aliases: ["HVAC Component Replacement Procedures & Best Practices"]
 description: "Comprehensive technical guide to HVAC component replacement including compressors, motors, valves, and controls with step-by-step procedures and industry standards."
 keywords: ["component replacement", "compressor replacement", "motor replacement", "valve replacement", "HVAC controls", "replacement procedures", "maintenance best practices", "equipment lifecycle"]
+tags: ["component replacement", "compressor replacement", "motor replacement", "valve replacement", "HVAC controls", "replacement procedures", "maintenance best practices", "equipment lifecycle"]
 weight: 3
 ---
 

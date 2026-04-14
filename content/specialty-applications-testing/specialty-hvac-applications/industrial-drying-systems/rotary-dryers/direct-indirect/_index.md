@@ -1,8 +1,10 @@
 ---
 title: "Direct vs Indirect Rotary Dryers"
+aliases: ["Direct vs Indirect Rotary Dryers"]
 seo_title: "Direct vs Indirect Rotary Dryer Heat Transfer Analysis"
 description: "Physics-based comparison of direct and indirect rotary dryers including heat transfer mechanisms, thermal efficiency calculations, and heating method selection criteria."
 keywords: ["direct rotary dryer", "indirect rotary dryer", "heat transfer efficiency", "steam tube dryer", "direct fired dryer", "convective drying", "conductive drying", "rotary dryer heating"]
+tags: ["direct rotary dryer", "indirect rotary dryer", "heat transfer efficiency", "steam tube dryer", "direct fired dryer", "convective drying", "conductive drying", "rotary dryer heating"]
 weight: 1
 ---
 

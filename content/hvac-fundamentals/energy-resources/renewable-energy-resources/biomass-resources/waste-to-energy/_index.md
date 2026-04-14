@@ -1,7 +1,9 @@
 ---
 title: "Waste-to-Energy Systems for District Heating"
+aliases: ["Waste-to-Energy Systems for District Heating"]
 description: "Technical analysis of WTE combustion systems including mass burn, RDF processing, and gasification technologies for thermal energy recovery and district heating applications."
 keywords: ["waste-to-energy", "mass burn incineration", "refuse derived fuel", "WTE gasification", "district heating", "MSW combustion", "thermal recovery", "emissions control"]
+tags: ["waste-to-energy", "mass burn incineration", "refuse derived fuel", "WTE gasification", "district heating", "MSW combustion", "thermal recovery", "emissions control"]
 weight: 5
 ---
 

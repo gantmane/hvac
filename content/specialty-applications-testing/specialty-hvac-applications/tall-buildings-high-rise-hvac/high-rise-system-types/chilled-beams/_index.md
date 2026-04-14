@@ -1,7 +1,9 @@
 ---
 title: "Chilled Beams for High-Rise Buildings"
+aliases: ["Chilled Beams for High-Rise Buildings"]
 description: "Chilled beam systems reduce floor heights and energy use in tall buildings through sensible-only cooling. Active and passive beam design, DOAS coordination, condensation control."
 keywords: ["chilled beams", "active chilled beams", "passive chilled beams", "DOAS systems", "condensation control", "high-rise HVAC", "reduced floor height", "sensible cooling"]
+tags: ["chilled beams", "active chilled beams", "passive chilled beams", "DOAS systems", "condensation control", "high-rise HVAC", "reduced floor height", "sensible cooling"]
 weight: 5
 ---
 

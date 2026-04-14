@@ -1,8 +1,10 @@
 ---
 title: "Heat Transfer Fluids for Ground Loop Systems"
+aliases: ["Heat Transfer Fluids for Ground Loop Systems"]
 weight: 2
 description: "Ground loop heat transfer fluids including antifreeze solutions, propylene glycol and methanol concentrations, viscosity effects on pumping power, and environmental safety considerations."
 keywords: ["ground loop fluids", "propylene glycol", "antifreeze solutions", "heat transfer fluids", "GSHP fluids", "geothermal antifreeze", "freeze protection", "glycol concentration"]
+tags: ["ground loop fluids", "propylene glycol", "antifreeze solutions", "heat transfer fluids", "GSHP fluids", "geothermal antifreeze", "freeze protection", "glycol concentration"]
 ---
 
 Heat transfer fluids circulate through ground loop heat exchangers to transport thermal energy between the earth and the heat pump. Fluid selection balances freeze protection requirements, heat transfer efficiency, pumping power consumption, material compatibility, and environmental safety.

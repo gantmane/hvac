@@ -1,5 +1,6 @@
 ---
 title: "Explainable Ai"
+aliases: ["Explainable Ai"]
 weight: 5
 ---
 

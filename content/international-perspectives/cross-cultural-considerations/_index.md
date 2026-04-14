@@ -1,5 +1,6 @@
 ---
 title: "Cross-Cultural HVAC Considerations"
+aliases: ["Cross-Cultural HVAC Considerations"]
 description: "Thermal comfort preferences, operational practices, and design standards vary significantly across cultures. Analysis of ISO 7730 applications worldwide."
 keywords:
   - thermal comfort preferences

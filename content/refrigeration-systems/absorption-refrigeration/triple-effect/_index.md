@@ -1,8 +1,10 @@
 ---
 title: "Triple Effect Absorption Refrigeration"
+aliases: ["Triple Effect Absorption Refrigeration"]
 weight: 3
 description: "Technical analysis of triple-effect absorption chillers including three-stage generator design, COP performance 1.4-1.7, very high temperature heat sources, and applications in large district cooling systems."
 keywords: ["triple effect absorption", "three-stage generator", "absorption COP", "high temperature absorption", "direct-fired chiller", "district cooling", "absorption efficiency"]
+tags: ["triple effect absorption", "three-stage generator", "absorption COP", "high temperature absorption", "direct-fired chiller", "district cooling", "absorption efficiency"]
 ---
 
 Triple-effect absorption chillers represent the highest efficiency tier in thermal compression refrigeration, achieving COP values between 1.4 and 1.7 through cascaded thermal energy utilization across three generator stages. These systems require very high temperature heat sources in the range of 200-250°C, making them suitable for direct-fired applications or industrial process heat recovery where extreme thermal driving potentials are available.

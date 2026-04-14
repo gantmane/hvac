@@ -1,7 +1,9 @@
 ---
 title: "HVAC Design for Fire Station Apparatus Bays"
+aliases: ["HVAC Design for Fire Station Apparatus Bays"]
 description: "Comprehensive HVAC design guide for apparatus bays covering exhaust removal, radiant heating, humidity control, bay door infiltration, and living quarters separation."
 keywords: ["apparatus bay HVAC", "fire station heating", "diesel exhaust removal", "radiant heating systems", "bay door infiltration", "source capture exhaust", "NFPA 1500", "vehicle protection"]
+tags: ["apparatus bay HVAC", "fire station heating", "diesel exhaust removal", "radiant heating systems", "bay door infiltration", "source capture exhaust", "NFPA 1500", "vehicle protection"]
 weight: 1
 ---
 

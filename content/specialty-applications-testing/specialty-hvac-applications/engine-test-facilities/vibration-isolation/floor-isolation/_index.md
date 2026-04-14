@@ -1,7 +1,9 @@
 ---
 title: "Floor Isolation Systems for Engine Test Facilities"
+aliases: ["Floor Isolation Systems for Engine Test Facilities"]
 description: "Floating floor design, inertia blocks, spring and air spring isolation systems, pit design, load capacity calculations, and structural coordination for engine test cells."
 keywords: ["floating floor", "inertia block", "vibration isolation", "spring isolation", "air springs", "engine test cell", "structural isolation", "floor design"]
+tags: ["floating floor", "inertia block", "vibration isolation", "spring isolation", "air springs", "engine test cell", "structural isolation", "floor design"]
 date: 2025-01-11
 draft: false
 weight: 1

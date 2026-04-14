@@ -1,5 +1,6 @@
 ---
 title: "Very Low Permeance Materials"
+aliases: ["Very Low Permeance Materials"]
 description: "Engineering specifications for vapor impermeable materials with permeance below 0.1 perm, including metallic barriers, polymer membranes, and elastomeric coatings for vapor retarder applications in building envelopes."
 weight: 1
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Tunnel Ventilation"
+aliases: ["Tunnel Ventilation"]
 description: "HVAC design for tunnel ventilation systems including road tunnels, transit tunnels, and emergency smoke control requirements."
 keywords: ["tunnel ventilation", "road tunnel", "transit tunnel", "smoke control", "jet fans", "longitudinal ventilation"]
+tags: ["tunnel ventilation", "road tunnel", "transit tunnel", "smoke control", "jet fans", "longitudinal ventilation"]
 weight: 5
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Desert Arid Climate HVAC Design"
+aliases: ["Desert Arid Climate HVAC Design"]
 description: "Comprehensive guide to HVAC system design for desert and arid climates, covering extreme temperature management, evaporative cooling strategies, dust protection, and solar gain mitigation."
 keywords: ["desert HVAC", "arid climate design", "evaporative cooling", "extreme heat HVAC", "dust filtration", "solar heat gain", "dry bulb temperature", "psychrometric analysis"]
+tags: ["desert HVAC", "arid climate design", "evaporative cooling", "extreme heat HVAC", "dust filtration", "solar heat gain", "dry bulb temperature", "psychrometric analysis"]
 weight: 2
 ---
 

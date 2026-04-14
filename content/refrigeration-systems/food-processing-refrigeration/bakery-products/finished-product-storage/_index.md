@@ -1,5 +1,6 @@
 ---
 title: "Finished Product Storage"
+aliases: ["Finished Product Storage"]
 weight: 3
 ---
 

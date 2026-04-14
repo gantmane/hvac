@@ -1,8 +1,10 @@
 ---
 title: "Hot Carcass Chilling Systems"
+aliases: ["Hot Carcass Chilling Systems"]
 seo_title: "Hot Carcass Rapid Chilling Requirements & FSIS Standards"
 description: "Physics-based analysis of hot carcass chilling, USDA FSIS time-temperature requirements, bacterial growth prevention, and refrigeration system design for post-slaughter cooling."
 keywords: ["hot carcass chilling", "FSIS chilling requirements", "meat processing refrigeration", "bacterial growth prevention", "post-slaughter cooling", "carcass temperature decline", "spray chilling systems", "cold shortening prevention"]
+tags: ["hot carcass chilling", "FSIS chilling requirements", "meat processing refrigeration", "bacterial growth prevention", "post-slaughter cooling", "carcass temperature decline", "spray chilling systems", "cold shortening prevention"]
 weight: 2
 ---
 

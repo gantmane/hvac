@@ -1,5 +1,6 @@
 ---
 title: "Temperature Control Containers"
+aliases: ["Temperature Control Containers"]
 weight: 3
 ---
 

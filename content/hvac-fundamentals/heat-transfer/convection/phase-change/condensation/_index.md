@@ -1,5 +1,6 @@
 ---
 title: "Condensation"
+aliases: ["Condensation"]
 weight: 2
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Stack Effect in Tall Buildings"
+aliases: ["Stack Effect in Tall Buildings"]
 description: "Stack effect fundamentals for high-rise HVAC design: pressure differentials, neutral pressure plane calculations, infiltration rates, and door force impacts in tall buildings."
 weight: 1
 keywords: ["stack effect", "high-rise HVAC", "neutral pressure plane", "stack pressure", "tall building infiltration", "pressure differential", "chimney effect", "building pressurization"]
+tags: ["stack effect", "high-rise HVAC", "neutral pressure plane", "stack pressure", "tall building infiltration", "pressure differential", "chimney effect", "building pressurization"]
 ---
 
 Stack effect, also known as the chimney effect, represents one of the most significant air movement phenomena in tall buildings. This naturally occurring pressure differential arises from the density difference between interior and exterior air masses at different temperatures. Understanding and managing stack effect is essential for designing functional HVAC systems in high-rise structures.

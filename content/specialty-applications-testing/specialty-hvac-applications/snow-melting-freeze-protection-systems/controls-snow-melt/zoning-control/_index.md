@@ -1,5 +1,6 @@
 ---
 title: "Snow Melting Zoning Control Systems"
+aliases: ["Snow Melting Zoning Control Systems"]
 weight: 8
 description: "Technical guide to multi-zone snow melting control including zone sizing calculations, load distribution, priority sequencing, and demand management for hydronic systems."
 keywords:

@@ -1,8 +1,10 @@
 ---
 title: "Dielectric Fittings for Domestic Hot Water Systems"
+aliases: ["Dielectric Fittings for Domestic Hot Water Systems"]
 weight: 5
 description: "Technical guide to dielectric fittings for DHW piping systems. Covers galvanic corrosion prevention, dielectric unions, code requirements, and proper installation of dissimilar metal connections."
 keywords: ["dielectric union", "galvanic corrosion", "dissimilar metals", "copper to steel", "DHW piping", "dielectric nipple", "plumbing code", "corrosion prevention"]
+tags: ["dielectric union", "galvanic corrosion", "dissimilar metals", "copper to steel", "DHW piping", "dielectric nipple", "plumbing code", "corrosion prevention"]
 ---
 
 ## Overview

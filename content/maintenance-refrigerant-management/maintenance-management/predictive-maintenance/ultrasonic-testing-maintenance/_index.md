@@ -1,7 +1,9 @@
 ---
 title: "Ultrasonic Testing for HVAC Predictive Maintenance"
+aliases: ["Ultrasonic Testing for HVAC Predictive Maintenance"]
 description: "Comprehensive guide to ultrasonic testing methods for HVAC systems, covering leak detection, bearing monitoring, and electrical inspection using airborne and structure-borne ultrasound techniques."
 keywords: ["ultrasonic leak detection", "bearing condition monitoring", "airborne ultrasound", "structure-borne ultrasound", "HVAC predictive maintenance", "ultrasonic inspection", "refrigerant leak detection", "ultrasonic testing standards"]
+tags: ["ultrasonic leak detection", "bearing condition monitoring", "airborne ultrasound", "structure-borne ultrasound", "HVAC predictive maintenance", "ultrasonic inspection", "refrigerant leak detection", "ultrasonic testing standards"]
 weight: 4
 ---
 

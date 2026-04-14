@@ -1,8 +1,10 @@
 ---
 title: "Humidity Control in Textile Manufacturing Plants"
+aliases: ["Humidity Control in Textile Manufacturing Plants"]
 seo_title: "Textile Humidity Control Systems & Requirements"
 description: "Technical guide to humidity control in textile processing including precise RH requirements, humidification systems, control strategies, and psychrometric calculations."
 keywords: ["textile humidity control", "humidification systems", "textile processing HVAC", "relative humidity textile", "ASHRAE industrial applications", "moisture control manufacturing", "textile air conditioning", "spinning humidity"]
+tags: ["textile humidity control", "humidification systems", "textile processing HVAC", "relative humidity textile", "ASHRAE industrial applications", "moisture control manufacturing", "textile air conditioning", "spinning humidity"]
 weight: 1
 ---
 

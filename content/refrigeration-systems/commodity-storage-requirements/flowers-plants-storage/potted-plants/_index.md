@@ -1,5 +1,6 @@
 ---
 title: "Potted Plants"
+aliases: ["Potted Plants"]
 weight: 2
 ---
 

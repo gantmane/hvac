@@ -1,7 +1,9 @@
 ---
 title: "Paper Roll Storage Climate Control"
+aliases: ["Paper Roll Storage Climate Control"]
 description: "Technical guide to HVAC design for paper roll storage areas covering temperature equalization, humidity control, and storage conditions for different paper grades."
 keywords: ["paper roll storage", "paper conditioning", "warehouse humidity control", "roll temperature equalization", "printing paper storage", "paper moisture equilibrium", "roll storage HVAC", "paper grade storage conditions"]
+tags: ["paper roll storage", "paper conditioning", "warehouse humidity control", "roll temperature equalization", "printing paper storage", "paper moisture equilibrium", "roll storage HVAC", "paper grade storage conditions"]
 weight: 1
 ---
 

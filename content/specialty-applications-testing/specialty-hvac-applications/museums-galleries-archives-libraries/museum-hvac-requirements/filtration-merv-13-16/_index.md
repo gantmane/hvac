@@ -1,7 +1,9 @@
 ---
 title: "Particulate Filtration for Museums (MERV 13-16)"
+aliases: ["Particulate Filtration for Museums (MERV 13-16)"]
 description: "High-efficiency particulate filtration using MERV 13-16 filters protects museum collections from dust, soot, and fine particles through multi-stage systems."
 keywords: ["MERV filtration", "museum air quality", "particulate removal", "collection protection", "filter efficiency", "pressure drop", "filter maintenance", "soiling prevention"]
+tags: ["MERV filtration", "museum air quality", "particulate removal", "collection protection", "filter efficiency", "pressure drop", "filter maintenance", "soiling prevention"]
 weight: 3
 ---
 

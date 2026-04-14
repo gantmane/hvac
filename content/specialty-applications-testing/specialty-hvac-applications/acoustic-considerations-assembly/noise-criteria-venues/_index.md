@@ -1,5 +1,6 @@
 ---
 title: "Noise Criteria for Performance Venues"
+aliases: ["Noise Criteria for Performance Venues"]
 description: "Technical guidance on HVAC noise criteria (NC) curves for performance venues including concert halls (NC-20), theaters (NC-25), lecture halls (NC-30), and arenas (NC-35) with SPL calculations and design strategies."
 keywords: ["noise criteria", "NC curves", "concert hall acoustics", "theater HVAC", "sound pressure level", "ASHRAE acoustics", "performance venue HVAC", "NC-20", "NC-25", "NC-30", "background noise"]
 tags: ["acoustics", "noise control", "performance venues", "sound design", "ASHRAE standards"]

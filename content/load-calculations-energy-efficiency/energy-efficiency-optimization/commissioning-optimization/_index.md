@@ -1,5 +1,6 @@
 ---
 title: "Commissioning Optimization"
+aliases: ["Commissioning Optimization"]
 weight: 7
 ---
 

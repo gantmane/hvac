@@ -1,8 +1,10 @@
 ---
 title: "Lecture Hall HVAC Systems: Design and Engineering"
+aliases: ["Lecture Hall HVAC Systems: Design and Engineering"]
 description: "Engineering guide to HVAC systems for university lecture halls covering high-occupancy ventilation, displacement vs mixing strategies, and acoustics."
 weight: 2
 keywords: ["lecture hall HVAC", "displacement ventilation", "high occupancy ventilation", "educational facility design", "underfloor air distribution", "lecture hall acoustics", "demand controlled ventilation", "tiered seating ventilation"]
+tags: ["lecture hall HVAC", "displacement ventilation", "high occupancy ventilation", "educational facility design", "underfloor air distribution", "lecture hall acoustics", "demand controlled ventilation", "tiered seating ventilation"]
 ---
 
 ## Overview

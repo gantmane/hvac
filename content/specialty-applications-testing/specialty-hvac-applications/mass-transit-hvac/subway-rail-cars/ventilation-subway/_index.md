@@ -1,7 +1,9 @@
 ---
 title: "Subway Car Ventilation Systems"
+aliases: ["Subway Car Ventilation Systems"]
 description: "Technical analysis of subway rail car ventilation including fresh air requirements, tunnel air quality management, particle filtration, emergency ventilation modes, and coordination with tunnel systems."
 keywords: ["subway ventilation", "rail car air quality", "tunnel dust filtration", "emergency ventilation", "transit air filtration", "subway HVAC", "underground rail ventilation", "metro car ventilation"]
+tags: ["subway ventilation", "rail car air quality", "tunnel dust filtration", "emergency ventilation", "transit air filtration", "subway HVAC", "underground rail ventilation", "metro car ventilation"]
 weight: 3
 ---
 

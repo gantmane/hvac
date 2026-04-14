@@ -1,5 +1,6 @@
 ---
 title: "Unit Ventilators, Heaters, and Makeup Air Equipment"
+aliases: ["Unit Ventilators, Heaters, and Makeup Air Equipment"]
 description: "Comprehensive guide to unit ventilators, unit heaters, makeup air units, and destratification systems for commercial and industrial HVAC applications."
 date: "2026-01-04"
 weight: 10

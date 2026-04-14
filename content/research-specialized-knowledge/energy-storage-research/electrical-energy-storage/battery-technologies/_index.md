@@ -1,5 +1,6 @@
 ---
 title: "Battery Technologies"
+aliases: ["Battery Technologies"]
 description: "Advanced battery energy storage including lithium-ion, flow batteries, sodium-sulfur, solid-state batteries, and emerging electrochemical storage for HVAC load management and renewable integration."
 weight: 1
 ---

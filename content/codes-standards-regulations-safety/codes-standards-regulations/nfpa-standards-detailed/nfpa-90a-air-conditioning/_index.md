@@ -1,10 +1,12 @@
 ---
 title: "NFPA 90A: Air-Conditioning and Ventilating Systems"
+aliases: ["NFPA 90A: Air-Conditioning and Ventilating Systems"]
 linkTitle: "NFPA 90A Standard"
 weight: 1
 date: 2026-01-04
 description: "Comprehensive requirements for NFPA 90A Standard for Installation of Air-Conditioning and Ventilating Systems, covering duct construction, fire dampers, smoke dampers, penetrations, and fire protection for commercial HVAC systems."
 keywords: ["NFPA 90A", "air conditioning fire safety", "duct construction standards", "fire damper requirements", "smoke damper installation", "fire-rated penetrations", "plenum fire protection", "HVAC code compliance"]
+tags: ["NFPA 90A", "air conditioning fire safety", "duct construction standards", "fire damper requirements", "smoke damper installation", "fire-rated penetrations", "plenum fire protection", "HVAC code compliance"]
 ---
 
 ## Overview of NFPA 90A

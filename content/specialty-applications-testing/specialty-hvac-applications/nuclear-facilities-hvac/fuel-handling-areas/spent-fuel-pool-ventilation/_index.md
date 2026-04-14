@@ -1,7 +1,9 @@
 ---
 title: "Spent Fuel Pool Ventilation Systems"
+aliases: ["Spent Fuel Pool Ventilation Systems"]
 description: "Technical analysis of spent fuel pool ventilation including radioactive gas removal, decay heat management, pressure control, and HEPA filtration per 10 CFR 50.36 NRC requirements."
 keywords: ["spent fuel pool ventilation", "radioactive gas removal", "decay heat ventilation", "nuclear pool HVAC", "NRC fuel pool requirements", "HEPA filtration", "10 CFR 50.36", "tritium removal", "noble gas ventilation"]
+tags: ["spent fuel pool ventilation", "radioactive gas removal", "decay heat ventilation", "nuclear pool HVAC", "NRC fuel pool requirements", "HEPA filtration", "10 CFR 50.36", "tritium removal", "noble gas ventilation"]
 weight: 1
 ---
 

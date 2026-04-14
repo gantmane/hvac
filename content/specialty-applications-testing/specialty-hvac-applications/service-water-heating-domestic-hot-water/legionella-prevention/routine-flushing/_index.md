@@ -1,8 +1,10 @@
 ---
 title: "Routine Flushing Protocols for Legionella Control"
+aliases: ["Routine Flushing Protocols for Legionella Control"]
 linkTitle: "Routine Flushing"
 description: "Comprehensive flushing protocols for Legionella prevention in domestic hot water systems, including fixture scheduling, thermal shock procedures, and ASHRAE 188 compliance requirements."
 keywords: ["legionella flushing", "fixture flushing protocol", "thermal shock procedure", "water stagnation control", "ASHRAE 188 flushing", "low-use fixture maintenance", "hot water system flushing", "legionella prevention"]
+tags: ["legionella flushing", "fixture flushing protocol", "thermal shock procedure", "water stagnation control", "ASHRAE 188 flushing", "low-use fixture maintenance", "hot water system flushing", "legionella prevention"]
 weight: 4
 ---
 

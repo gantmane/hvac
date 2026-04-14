@@ -1,5 +1,6 @@
 ---
 title: "Horizontal Unit Heaters"
+aliases: ["Horizontal Unit Heaters"]
 description: "Engineering analysis of horizontal propeller fan unit heaters including throw calculations, coverage patterns, and mounting strategies for industrial applications."
 date: "2026-01-04"
 weight: 1

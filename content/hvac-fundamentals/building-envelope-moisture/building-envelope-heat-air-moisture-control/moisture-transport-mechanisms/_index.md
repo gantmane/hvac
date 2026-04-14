@@ -1,5 +1,6 @@
 ---
 title: "Moisture Transport Mechanisms"
+aliases: ["Moisture Transport Mechanisms"]
 weight: 1
 description: "Analysis of vapor diffusion, air leakage, capillary action, and gravity drainage mechanisms governing moisture movement through building envelopes, with quantitative transport equations and relative contribution assessment."
 ---

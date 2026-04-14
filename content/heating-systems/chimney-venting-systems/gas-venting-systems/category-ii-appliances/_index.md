@@ -1,5 +1,6 @@
 ---
 title: "Category II Appliances"
+aliases: ["Category II Appliances"]
 description: "Technical analysis of Category II non-condensing fan-assisted gas appliances operating with positive vent pressure, including special venting material requirements, stainless steel vent specifications, pressure considerations, and installation criteria per ANSI Z21.47 and NFPA 54 standards."
 weight: 3
 ---

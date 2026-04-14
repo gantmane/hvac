@@ -1,7 +1,9 @@
 ---
 title: "HVAC for Convention Center Meeting Rooms"
+aliases: ["HVAC for Convention Center Meeting Rooms"]
 description: "Engineering analysis of HVAC systems for meeting rooms and breakout spaces including CO2-based ventilation, rapid load response, and audiovisual equipment cooling strategies."
 keywords: ["meeting room HVAC", "breakout room ventilation", "CO2 demand control", "conference room cooling", "AV equipment loads", "VAV meeting spaces", "convention center HVAC", "occupancy-based ventilation"]
+tags: ["meeting room HVAC", "breakout room ventilation", "CO2 demand control", "conference room cooling", "AV equipment loads", "VAV meeting spaces", "convention center HVAC", "occupancy-based ventilation"]
 weight: 3
 ---
 

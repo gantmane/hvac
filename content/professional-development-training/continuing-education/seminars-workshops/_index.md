@@ -1,9 +1,11 @@
 ---
 title: "HVAC Seminars & Workshops: Training Programs"
+aliases: ["HVAC Seminars & Workshops: Training Programs"]
 description: "Technical seminars and hands-on HVAC workshops covering system design, troubleshooting, code updates, and manufacturer training for professional development credits."
 date: 2025-01-05
 weight: 4
 keywords: ["HVAC seminars", "HVAC workshops", "hands-on training", "manufacturer training centers", "professional development hours", "certification maintenance", "technical training", "equipment demonstrations"]
+tags: ["HVAC seminars", "HVAC workshops", "hands-on training", "manufacturer training centers", "professional development hours", "certification maintenance", "technical training", "equipment demonstrations"]
 ---
 
 # HVAC Seminars and Workshops

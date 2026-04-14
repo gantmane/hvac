@@ -1,5 +1,6 @@
 ---
 title: "Cargo Temperature Control in Aircraft"
+aliases: ["Cargo Temperature Control in Aircraft"]
 description: "Engineering principles for aircraft cargo temperature control systems including active refrigeration, heat load calculations, and temperature zoning strategies."
 date: 2025-01-05
 weight: 4

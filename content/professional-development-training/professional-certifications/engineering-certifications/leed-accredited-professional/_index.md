@@ -1,5 +1,6 @@
 ---
 title: "LEED Accredited Professional Certification"
+aliases: ["LEED Accredited Professional Certification"]
 description: "LEED AP certification for HVAC professionals integrating sustainable design, energy modeling, and green building strategies into mechanical system design."
 date: 2025-01-05
 tags: ["LEED", "Green Building", "Professional Certification", "Sustainable HVAC", "Energy Efficiency", "USGBC"]

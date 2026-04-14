@@ -1,5 +1,6 @@
 ---
 title: "Hard Candy Production HVAC Systems"
+aliases: ["Hard Candy Production HVAC Systems"]
 description: "Environmental control systems for hard candy manufacturing including batch roller cooling, die forming temperature control, low humidity dehumidification (25-35% RH), and sticking prevention through precise climate management."
 weight: 1
 ---

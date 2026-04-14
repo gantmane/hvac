@@ -1,7 +1,9 @@
 ---
 title: "Fuel Handling Ventilation"
+aliases: ["Fuel Handling Ventilation"]
 description: "Technical guide to nuclear fuel handling building HVAC systems including spent fuel pool ventilation, airborne contamination control, HEPA filtration trains, and negative pressure maintenance per NRC regulations."
 keywords: ["fuel handling ventilation", "spent fuel pool HVAC", "airborne contamination control", "HEPA filtration nuclear", "negative pressure cascade", "fuel building ventilation", "radioactive particulate control", "NRC fuel handling"]
+tags: ["fuel handling ventilation", "spent fuel pool HVAC", "airborne contamination control", "HEPA filtration nuclear", "negative pressure cascade", "fuel building ventilation", "radioactive particulate control", "NRC fuel handling"]
 weight: 1
 ---
 

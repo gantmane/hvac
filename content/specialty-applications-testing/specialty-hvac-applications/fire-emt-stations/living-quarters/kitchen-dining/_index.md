@@ -1,7 +1,9 @@
 ---
 title: "Kitchen and Dining Area HVAC in Fire Stations"
+aliases: ["Kitchen and Dining Area HVAC in Fire Stations"]
 description: "HVAC design for fire station kitchens and dining areas including commercial exhaust requirements, makeup air systems, grease filtration, and odor control."
 keywords: ["fire station kitchen HVAC", "commercial kitchen exhaust", "makeup air systems", "grease filtration", "kitchen ventilation", "dining area conditioning", "fire protection", "odor isolation"]
+tags: ["fire station kitchen HVAC", "commercial kitchen exhaust", "makeup air systems", "grease filtration", "kitchen ventilation", "dining area conditioning", "fire protection", "odor isolation"]
 weight: 2
 ---
 

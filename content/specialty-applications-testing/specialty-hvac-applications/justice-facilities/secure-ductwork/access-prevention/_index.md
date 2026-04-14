@@ -1,7 +1,9 @@
 ---
 title: "Secure Ductwork Access Prevention in Justice Facilities"
+aliases: ["Secure Ductwork Access Prevention in Justice Facilities"]
 description: "Engineering controls for preventing unauthorized duct access in correctional facilities through size restrictions, physical barriers, security mesh, and routing strategies."
 keywords: ["secure ductwork", "duct access prevention", "correctional HVAC", "security mesh", "escape prevention", "duct sizing restrictions", "justice facility ventilation", "barrier specification"]
+tags: ["secure ductwork", "duct access prevention", "correctional HVAC", "security mesh", "escape prevention", "duct sizing restrictions", "justice facility ventilation", "barrier specification"]
 weight: 3
 ---
 

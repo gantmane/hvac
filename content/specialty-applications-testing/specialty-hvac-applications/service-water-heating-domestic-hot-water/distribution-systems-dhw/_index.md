@@ -1,7 +1,9 @@
 ---
 title: "DHW Distribution Systems"
+aliases: ["DHW Distribution Systems"]
 description: "Analysis of domestic hot water distribution system types including trunk-and-branch, manifold, and recirculating configurations with heat loss calculations and code requirements."
 keywords: ["DHW distribution", "hot water piping", "recirculation systems", "manifold plumbing", "trunk and branch", "water heating", "pipe heat loss", "ASHRAE 90.1"]
+tags: ["DHW distribution", "hot water piping", "recirculation systems", "manifold plumbing", "trunk and branch", "water heating", "pipe heat loss", "ASHRAE 90.1"]
 weight: 4
 ---
 

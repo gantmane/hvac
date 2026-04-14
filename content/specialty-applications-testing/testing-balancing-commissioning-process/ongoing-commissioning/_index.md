@@ -1,7 +1,9 @@
 ---
 title: "Ongoing Commissioning and Building Performance"
+aliases: ["Ongoing Commissioning and Building Performance"]
 description: "Comprehensive guide to ongoing commissioning processes, continuous optimization, monitoring-based commissioning, fault detection and diagnostics systems."
 keywords: ["ongoing commissioning", "continuous commissioning", "monitoring-based commissioning", "fault detection diagnostics", "FDD systems", "ASHRAE Guideline 0.2", "building analytics", "performance optimization"]
+tags: ["ongoing commissioning", "continuous commissioning", "monitoring-based commissioning", "fault detection diagnostics", "FDD systems", "ASHRAE Guideline 0.2", "building analytics", "performance optimization"]
 weight: 6
 ---
 

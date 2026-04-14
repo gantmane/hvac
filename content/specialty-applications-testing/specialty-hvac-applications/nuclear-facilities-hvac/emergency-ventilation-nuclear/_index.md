@@ -1,7 +1,9 @@
 ---
 title: "Emergency Ventilation Systems for Nuclear Facilities"
+aliases: ["Emergency Ventilation Systems for Nuclear Facilities"]
 description: "Control room habitability systems, accident response ventilation modes, filtered recirculation design, emergency diesel generator integration, and NRC regulatory requirements for nuclear power plant emergency HVAC."
 keywords: ["nuclear emergency ventilation", "control room habitability", "accident ventilation", "HEPA filtration nuclear", "emergency diesel power", "NRC regulations HVAC", "filtered recirculation", "toxic gas protection", "design basis accident", "NUREG-0800"]
+tags: ["nuclear emergency ventilation", "control room habitability", "accident ventilation", "HEPA filtration nuclear", "emergency diesel power", "NRC regulations HVAC", "filtered recirculation", "toxic gas protection", "design basis accident", "NUREG-0800"]
 date: 2025-01-05
 draft: false
 weight: 6

@@ -1,5 +1,6 @@
 ---
 title: "Cascade Control Theory"
+aliases: ["Cascade Control Theory"]
 description: "Advanced cascade control architecture for HVAC systems using master-slave configurations, improved disturbance rejection, proper tuning sequences, and practical implementation strategies."
 date: 2026-01-04
 weight: 5

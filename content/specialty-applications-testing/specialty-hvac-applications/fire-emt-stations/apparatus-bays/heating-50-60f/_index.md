@@ -1,7 +1,9 @@
 ---
 title: "Apparatus Bay Heating: 50-60°F Design Strategies"
+aliases: ["Apparatus Bay Heating: 50-60°F Design Strategies"]
 description: "Design approaches for maintaining 50-60°F in fire apparatus bays including freeze protection, radiant heating systems, door heat loss, and energy setback strategies."
 keywords: ["apparatus bay heating", "fire station HVAC", "radiant heating", "freeze protection", "bay door heat loss", "infrared heaters", "destratification", "emergency vehicle facilities"]
+tags: ["apparatus bay heating", "fire station HVAC", "radiant heating", "freeze protection", "bay door heat loss", "infrared heaters", "destratification", "emergency vehicle facilities"]
 weight: 4
 ---
 

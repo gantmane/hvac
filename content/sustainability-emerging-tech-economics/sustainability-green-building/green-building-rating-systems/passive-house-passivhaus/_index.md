@@ -1,7 +1,9 @@
 ---
 title: "Passive House (Passivhaus) Standard"
+aliases: ["Passive House (Passivhaus) Standard"]
 description: "Comprehensive guide to Passive House certification requirements including heating/cooling demand limits, airtightness testing, MVHR systems, and thermal envelope specifications for ultra-low energy buildings"
 keywords: ["passive house", "passivhaus", "ultra low energy", "airtightness", "blower door test", "MVHR", "heat recovery ventilation", "thermal bridge", "PHPP", "specific heating demand", "primary energy demand"]
+tags: ["passive house", "passivhaus", "ultra low energy", "airtightness", "blower door test", "MVHR", "heat recovery ventilation", "thermal bridge", "PHPP", "specific heating demand"]
 weight: 4
 ---
 

@@ -1,9 +1,11 @@
 ---
 title: "Paper Dimensional Stability Through RH Control"
+aliases: ["Paper Dimensional Stability Through RH Control"]
 linkTitle: "Dimensional Stability"
 weight: 2
 description: "Physics-based analysis of paper dimensional stability, hygroexpansion coefficients, moisture-dimension relationships, and tight-tolerance environmental requirements."
 keywords: ["paper dimensional stability", "hygroexpansion coefficient", "paper moisture content", "cross-grain expansion", "printing registration tolerance", "equilibrium moisture content", "hygroscopic behavior paper", "dimensional change prediction"]
+tags: ["paper dimensional stability", "hygroexpansion coefficient", "paper moisture content", "cross-grain expansion", "printing registration tolerance", "equilibrium moisture content", "hygroscopic behavior paper", "dimensional change prediction"]
 ---
 
 Paper dimensional stability represents the foundational requirement for multi-color printing registration accuracy. Cellulose fiber hygroscopicity causes predictable dimensional changes with environmental moisture variations, directly affecting print quality in precision applications. Understanding moisture-dimension physics enables proper environmental control design to maintain the tight tolerances required for modern printing processes.

@@ -1,5 +1,6 @@
 ---
 title: "Cleanrooms & Controlled Environments HVAC"
+aliases: ["Cleanrooms & Controlled Environments HVAC"]
 description: "Technical guide to cleanroom HVAC design including ISO classifications, airflow patterns, filtration requirements, and pressure cascade systems for contamination control."
 date: 2025-01-05
 draft: false

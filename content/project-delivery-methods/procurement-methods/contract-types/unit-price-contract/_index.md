@@ -1,5 +1,6 @@
 ---
 title: "Unit Price Contract"
+aliases: ["Unit Price Contract"]
 description: "Comprehensive guide to unit price contracts for HVAC construction including quantity measurement, predetermined unit costs, bid schedule development, and quantity overrun/underrun adjustments."
 weight: 2
 ---

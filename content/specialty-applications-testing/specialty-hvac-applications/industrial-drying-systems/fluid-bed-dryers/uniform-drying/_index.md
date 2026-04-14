@@ -1,10 +1,12 @@
 ---
 title: "Uniform Drying in Fluid Bed Systems"
+aliases: ["Uniform Drying in Fluid Bed Systems"]
 description: "Physics-based analysis of uniform drying mechanisms in fluidized bed dryers, including heat and mass transfer uniformity, particle residence time distribution optimization."
 date: 2026-01-11
 draft: false
 weight: 3
 keywords: ["fluid bed dryer uniformity", "fluidized bed drying", "particle residence time", "heat transfer uniformity", "mass transfer coefficient", "drying uniformity optimization", "bed hydrodynamics", "particle mixing"]
+tags: ["fluid bed dryer uniformity", "fluidized bed drying", "particle residence time", "heat transfer uniformity", "mass transfer coefficient", "drying uniformity optimization", "bed hydrodynamics", "particle mixing"]
 ---
 
 ## Fundamentals of Uniform Drying

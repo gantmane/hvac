@@ -1,7 +1,9 @@
 ---
 title: "Nuclear Facilities HVAC"
+aliases: ["Nuclear Facilities HVAC"]
 description: "Comprehensive guide to nuclear facility HVAC systems including confinement ventilation, pressure cascades, HEPA filtration, radiological zone control, and emergency ventilation systems per NRC regulations."
 keywords: ["nuclear HVAC", "confinement ventilation", "HEPA filtration", "pressure cascade", "radiological zones", "NRC regulations", "nuclear safety systems", "containment ventilation", "emergency ventilation", "radioactive contamination control"]
+tags: ["nuclear HVAC", "confinement ventilation", "HEPA filtration", "pressure cascade", "radiological zones", "NRC regulations", "nuclear safety systems", "containment ventilation", "emergency ventilation", "radioactive contamination control"]
 weight: 19
 ---
 

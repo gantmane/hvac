@@ -1,5 +1,6 @@
 ---
 title: "Thermodynamic Tables Detailed"
+aliases: ["Thermodynamic Tables Detailed"]
 description: "Comprehensive guide to refrigerant thermodynamic property tables including saturation, superheated vapor, and subcooled liquid tables with interpolation methods and digital database applications for HVAC system analysis"
 weight: 10
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Window Room Ac"
+aliases: ["Window Room Ac"]
 weight: 3
 ---
 

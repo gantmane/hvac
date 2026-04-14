@@ -1,7 +1,9 @@
 ---
 title: "Confined Space Entry Procedures for HVAC"
+aliases: ["Confined Space Entry Procedures for HVAC"]
 description: "OSHA-compliant confined space entry requirements for HVAC technicians working in air handling plenums, tanks, and manholes with atmospheric testing protocols."
 keywords: ["confined space entry", "OSHA 1910.146", "atmospheric testing", "permit-required confined space", "HVAC safety", "oxygen monitoring", "air handling plenum", "manhole entry"]
+tags: ["confined space entry", "OSHA 1910.146", "atmospheric testing", "permit-required confined space", "HVAC safety", "oxygen monitoring", "air handling plenum", "manhole entry"]
 weight: 6
 ---
 

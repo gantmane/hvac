@@ -1,7 +1,9 @@
 ---
 title: "Basic Control Modes in HVAC Systems"
+aliases: ["Basic Control Modes in HVAC Systems"]
 description: "Comprehensive guide to HVAC control modes including two-position, floating, proportional, and PI control. Learn equations, response characteristics, and applications."
 keywords: ["HVAC control modes", "proportional control", "PI control", "two-position control", "floating control", "control algorithms", "building automation", "control loop tuning"]
+tags: ["HVAC control modes", "proportional control", "PI control", "two-position control", "floating control", "control algorithms", "building automation", "control loop tuning"]
 weight: 1
 ---
 

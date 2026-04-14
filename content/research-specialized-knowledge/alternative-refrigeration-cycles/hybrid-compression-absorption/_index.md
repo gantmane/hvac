@@ -1,5 +1,6 @@
 ---
 title: "Hybrid Compression-Absorption Cycles"
+aliases: ["Hybrid Compression-Absorption Cycles"]
 description: "Combined vapor compression and absorption refrigeration systems for COP enhancement, industrial heat recovery, and low-temperature applications with improved efficiency."
 weight: 1
 ---

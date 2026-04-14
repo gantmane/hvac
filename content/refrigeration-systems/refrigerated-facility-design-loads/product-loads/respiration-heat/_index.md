@@ -1,5 +1,6 @@
 ---
 title: "Respiration Heat"
+aliases: ["Respiration Heat"]
 weight: 3
 ---
 

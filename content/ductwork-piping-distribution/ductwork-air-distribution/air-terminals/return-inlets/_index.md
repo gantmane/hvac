@@ -1,5 +1,6 @@
 ---
 title: "Return Air Inlets"
+aliases: ["Return Air Inlets"]
 description: "Return air grilles, filter grilles, door grilles, and transfer grilles for HVAC systems including low pressure drop design considerations and sizing criteria."
 weight: 2
 ---

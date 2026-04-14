@@ -1,5 +1,6 @@
 ---
 title: "HVAC Redundancy for Control Rooms"
+aliases: ["HVAC Redundancy for Control Rooms"]
 description: "Technical analysis of redundant HVAC configurations for power plant control rooms including N+1/2N architectures, automatic failover, reliability calculations."
 keywords:
   - N+1 redundancy HVAC

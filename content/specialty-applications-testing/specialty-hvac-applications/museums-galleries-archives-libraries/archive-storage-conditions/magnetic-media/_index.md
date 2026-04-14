@@ -1,7 +1,9 @@
 ---
 title: "Magnetic Media Storage Environment Requirements"
+aliases: ["Magnetic Media Storage Environment Requirements"]
 description: "Technical specifications for HVAC systems preserving magnetic media including video tape, audio tape, and magnetic disks with ISO and SMPTE standards compliance."
 keywords: ["magnetic tape storage", "video tape preservation", "audio tape conditions", "magnetic disk storage", "SMPTE standards", "ISO 18923", "archive humidity control", "media degradation prevention"]
+tags: ["magnetic tape storage", "video tape preservation", "audio tape conditions", "magnetic disk storage", "SMPTE standards", "ISO 18923", "archive humidity control", "media degradation prevention"]
 weight: 2
 ---
 

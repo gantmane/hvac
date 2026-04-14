@@ -1,5 +1,6 @@
 ---
 title: "Thermal Energy Storage"
+aliases: ["Thermal Energy Storage"]
 description: "Thermal energy storage systems for load shifting, demand reduction, and peak shaving including ice storage, chilled water storage, and phase change materials in HVAC applications."
 weight: 4
 ---

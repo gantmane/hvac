@@ -1,7 +1,9 @@
 ---
 title: "NC-20 Concert Halls: Ultra-Quiet HVAC Design"
+aliases: ["NC-20 Concert Halls: Ultra-Quiet HVAC Design"]
 description: "Technical guide to achieving NC-20 background noise levels in concert halls through extreme HVAC noise control, remote equipment placement, and acoustic design strategies."
 keywords: ["NC-20 concert hall HVAC", "ultra-quiet ventilation", "concert hall acoustics", "HVAC noise control", "background noise criteria", "remote equipment rooms", "acoustic isolation HVAC", "music hall ventilation"]
+tags: ["NC-20 concert hall HVAC", "ultra-quiet ventilation", "concert hall acoustics", "HVAC noise control", "background noise criteria", "remote equipment rooms", "acoustic isolation HVAC", "music hall ventilation"]
 date: 2025-01-11
 weight: 1
 draft: false

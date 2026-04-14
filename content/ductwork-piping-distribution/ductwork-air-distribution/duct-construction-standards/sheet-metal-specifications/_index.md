@@ -1,5 +1,6 @@
 ---
 title: "Sheet Metal Specifications"
+aliases: ["Sheet Metal Specifications"]
 description: "Sheet metal gauge standards, thickness requirements, material specifications, and reinforcement criteria for HVAC ductwork construction per SMACNA guidelines."
 weight: 2
 ---

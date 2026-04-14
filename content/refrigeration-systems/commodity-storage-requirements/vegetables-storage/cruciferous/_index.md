@@ -1,5 +1,6 @@
 ---
 title: "Cruciferous"
+aliases: ["Cruciferous"]
 weight: 3
 ---
 

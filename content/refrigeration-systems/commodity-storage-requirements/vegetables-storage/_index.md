@@ -1,5 +1,6 @@
 ---
 title: "Vegetables Storage"
+aliases: ["Vegetables Storage"]
 description: "Technical guidelines for vegetable refrigeration systems including precooling methods, storage temperatures, humidity control, chilling sensitivity, and ethylene management based on ASHRAE and USDA standards."
 weight: 2
 ---

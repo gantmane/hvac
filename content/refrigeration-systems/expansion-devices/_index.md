@@ -1,5 +1,6 @@
 ---
 title: "Expansion Devices in Refrigeration Systems"
+aliases: ["Expansion Devices in Refrigeration Systems"]
 description: "Technical analysis of refrigeration expansion devices including capillary tubes, thermostatic expansion valves, and electronic expansion valves with physics-based design principles."
 date: 2024-01-05
 tags: ["refrigeration", "expansion devices", "metering", "thermostatic expansion valve", "capillary tube", "electronic expansion valve"]

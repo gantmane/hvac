@@ -1,5 +1,6 @@
 ---
 title: "Saturation Table 0 200c"
+aliases: ["Saturation Table 0 200c"]
 weight: 1
 ---
 

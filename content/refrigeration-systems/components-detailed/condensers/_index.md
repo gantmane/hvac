@@ -1,5 +1,6 @@
 ---
 title: "Condensers"
+aliases: ["Condensers"]
 weight: 2
 description: "Technical analysis of refrigeration condensers including air-cooled, water-cooled, and evaporative types with heat rejection fundamentals, sizing methods, and performance characteristics."
 ---

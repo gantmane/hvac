@@ -1,8 +1,10 @@
 ---
 title: "Dead Leg Elimination in DHW Systems"
+aliases: ["Dead Leg Elimination in DHW Systems"]
 weight: 3
 description: "Comprehensive strategies for eliminating dead legs in domestic hot water systems to prevent Legionella colonization through proper pipe design, maximum length limitations, and flushing protocols."
 keywords: ["dead leg elimination", "stagnant water piping", "Legionella prevention plumbing", "unused pipe runs", "DHW system design", "water stagnation control", "fixture flushing protocols", "plumbing dead ends"]
+tags: ["dead leg elimination", "stagnant water piping", "Legionella prevention plumbing", "unused pipe runs", "DHW system design", "water stagnation control", "fixture flushing protocols", "plumbing dead ends"]
 ---
 
 ## Overview

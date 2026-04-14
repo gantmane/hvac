@@ -1,5 +1,6 @@
 ---
 title: "Japanese HVAC Standards and Regulations"
+aliases: ["Japanese HVAC Standards and Regulations"]
 description: "Comprehensive analysis of Japanese Industrial Standards (JIS), Top Runner program, VRF technology, and energy efficiency requirements governing Japan's advanced HVAC market"
 keywords:
   - Japanese HVAC standards

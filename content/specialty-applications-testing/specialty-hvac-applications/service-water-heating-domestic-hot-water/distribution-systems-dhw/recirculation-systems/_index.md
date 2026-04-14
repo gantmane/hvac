@@ -1,8 +1,10 @@
 ---
 title: "DHW Recirculation Systems: Design & Control"
+aliases: ["DHW Recirculation Systems: Design & Control"]
 weight: 5
 description: "Engineering guide to domestic hot water recirculation system design, including pump sizing calculations, dedicated return versus demand systems, and ASHRAE 90.1 energy requirements."
 keywords: ["DHW recirculation", "hot water return", "recirculation pump sizing", "balancing valves", "aquastat control", "demand recirculation", "ASHRAE 90.1 DHW", "recirculation heat loss"]
+tags: ["DHW recirculation", "hot water return", "recirculation pump sizing", "balancing valves", "aquastat control", "demand recirculation", "ASHRAE 90.1 DHW", "recirculation heat loss"]
 ---
 
 Domestic hot water (DHW) recirculation systems continuously or periodically circulate heated water through distribution piping to eliminate the delay inherent in dead-leg systems. While recirculation provides instant hot water at fixtures, it introduces ongoing thermal losses and pumping energy consumption that require careful design consideration.

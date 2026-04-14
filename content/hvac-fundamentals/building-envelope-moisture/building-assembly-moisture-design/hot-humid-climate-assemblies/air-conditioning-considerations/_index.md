@@ -1,5 +1,6 @@
 ---
 title: "Air Conditioning Considerations"
+aliases: ["Air Conditioning Considerations"]
 description: "Engineering analysis of air conditioning impacts on building envelope moisture behavior in hot-humid climates, including reverse vapor drive, interior surface condensation, and system design requirements"
 weight: 5
 ---

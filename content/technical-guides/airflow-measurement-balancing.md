@@ -2,6 +2,7 @@
 title: "Airflow Measurement & Balancing for HVAC Engineers"
 description: "Pitot traverse methodology, flow hood techniques, duct traverse procedures, and TAB documentation requirements for HVAC system commissioning."
 keywords: ["TAB", "pitot traverse", "airflow measurement", "duct traverse", "flow hood", "system balancing"]
+tags: ["TAB", "pitot traverse", "airflow measurement", "duct traverse", "flow hood", "system balancing"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 20
@@ -114,9 +115,9 @@ Where:
 ---
 
 **Related Technical Guides:**
-- [Duct Static Pressure Calculations](/technical-guides/duct-static-pressure-calculations/)
-- [Fan Selection & Performance](/technical-guides/fan-selection-performance/)
-- [Commissioning Procedures](/technical-guides/commissioning-procedures/)
+- Duct Static Pressure Calculations
+- Fan Selection & Performance
+- Commissioning Procedures
 
 **References:**
 - ASHRAE Standard 111: Practices for Measurement, Testing, Adjusting, and Balancing of Building HVAC Systems

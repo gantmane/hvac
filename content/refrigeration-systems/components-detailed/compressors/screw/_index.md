@@ -1,8 +1,10 @@
 ---
 title: "Screw Compressors"
+aliases: ["Screw Compressors"]
 weight: 3
 description: "Technical guide to screw compressors covering twin-screw and single-screw designs, rotor profiles, volume ratio, capacity control, oil management, and applications in chillers and industrial refrigeration systems."
 keywords: "screw compressor, twin screw compressor, single screw compressor, rotor profile, volume ratio, slide valve, oil injection, oil separator, capacity control, industrial refrigeration, chiller compressor"
+tags: ["screw compressor", "twin screw compressor", "single screw compressor", "rotor profile", "volume ratio", "slide valve", "oil injection", "oil separator", "capacity control", "industrial refrigeration"]
 ---
 
 Screw compressors are positive displacement machines that compress refrigerant through the meshing action of helical rotors. These compressors dominate medium to large capacity applications due to continuous compression, high volumetric efficiency, and excellent part-load performance.

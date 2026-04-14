@@ -1,5 +1,6 @@
 ---
 title: "Spoilage Mechanisms"
+aliases: ["Spoilage Mechanisms"]
 weight: 2
 ---
 

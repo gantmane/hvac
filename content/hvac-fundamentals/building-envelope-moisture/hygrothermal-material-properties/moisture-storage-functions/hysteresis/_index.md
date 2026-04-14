@@ -1,5 +1,6 @@
 ---
 title: "Hysteresis"
+aliases: ["Hysteresis"]
 description: "Moisture storage hysteresis phenomenon in building materials, including adsorption-desorption differences, scanning curves, and mathematical models for hygrothermal analysis"
 weight: 3
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Water Immersion Chilling Systems for Poultry Processing"
+aliases: ["Water Immersion Chilling Systems for Poultry Processing"]
 description: "Technical analysis of water immersion chilling systems including heat transfer mechanisms, chiller design, water flow dynamics, and USDA compliance requirements."
 date: 2025-01-05
 draft: false

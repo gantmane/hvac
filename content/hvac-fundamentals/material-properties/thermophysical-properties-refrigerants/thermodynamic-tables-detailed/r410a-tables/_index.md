@@ -1,5 +1,6 @@
 ---
 title: "R410a Tables"
+aliases: ["R410a Tables"]
 weight: 2
 ---
 

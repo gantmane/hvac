@@ -1,5 +1,6 @@
 ---
 title: "Building Envelope Integration"
+aliases: ["Building Envelope Integration"]
 weight: 3
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Dust Collection System Efficiency"
+aliases: ["Dust Collection System Efficiency"]
 description: "Collection efficiency metrics, fractional efficiency curves, particle size effects, overall system efficiency calculations, emission testing, and EPA/OSHA compliance."
 keywords: ["dust collection efficiency", "fractional efficiency", "particle separation", "emission testing", "collection efficiency calculation", "EPA compliance", "OSHA air quality", "dust collector performance"]
+tags: ["dust collection efficiency", "fractional efficiency", "particle separation", "emission testing", "collection efficiency calculation", "EPA compliance", "OSHA air quality", "dust collector performance"]
 weight: 5
 ---
 

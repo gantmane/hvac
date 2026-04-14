@@ -1,5 +1,6 @@
 ---
 title: "Critical Moisture Content for Mold Growth"
+aliases: ["Critical Moisture Content for Mold Growth"]
 description: "Critical moisture content thresholds, equilibrium relative humidity, water activity, and material-specific moisture criteria for mold growth prediction in building envelope assemblies and HVAC hygrothermal analysis"
 weight: 2
 ---

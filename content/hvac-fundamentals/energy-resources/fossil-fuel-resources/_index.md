@@ -1,5 +1,6 @@
 ---
 title: "Fossil Fuel Resources"
+aliases: ["Fossil Fuel Resources"]
 description: "Comprehensive examination of fossil fuel energy sources including coal, natural gas, and petroleum products with analysis of reserves, extraction, distribution, and HVAC applications."
 weight: 1
 ---

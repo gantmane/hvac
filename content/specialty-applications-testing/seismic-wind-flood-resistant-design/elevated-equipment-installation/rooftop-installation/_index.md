@@ -1,5 +1,6 @@
 ---
 title: "Rooftop HVAC Installation: Wind & Seismic Design"
+aliases: ["Rooftop HVAC Installation: Wind & Seismic Design"]
 description: "Engineering principles for rooftop HVAC equipment installation including wind uplift calculations, seismic restraint, structural coordination, and weatherproofing."
 date: 2025-01-05
 keywords:
@@ -318,6 +319,6 @@ Excessive deflection (>L/240) indicates inadequate structural support requiring 
 ---
 
 **Related Topics:**
-- [Seismic Bracing Equipment](/specialty-applications-testing/seismic-wind-flood-resistant-design/seismic-bracing-equipment/)
-- [Wind Load Design](/specialty-applications-testing/seismic-wind-flood-resistant-design/wind-load-design/)
-- [Vibration Control](/specialty-applications-testing/acoustic-noise-vibration/vibration-control/)
+- [Seismic Bracing Equipment](../../../../specialty-applications-testing/seismic-wind-flood-resistant-design/seismic-bracing-equipment/_index.md)
+- [Wind Load Design](../../../../specialty-applications-testing/seismic-wind-flood-resistant-design/wind-load-design/_index.md)
+- [Vibration Control](../../../../specialty-applications-testing/acoustic-noise-vibration/vibration-control/_index.md)

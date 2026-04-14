@@ -1,5 +1,6 @@
 ---
 title: "Heat Transfer Advantages"
+aliases: ["Heat Transfer Advantages"]
 description: "Comprehensive analysis of heat transfer benefits in liquid overfeed refrigeration systems including enhanced boiling coefficients, complete surface wetting, nucleate boiling mechanisms, and performance comparisons with direct expansion systems"
 weight: 9
 ---

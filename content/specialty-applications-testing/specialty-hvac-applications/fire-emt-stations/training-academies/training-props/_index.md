@@ -1,7 +1,9 @@
 ---
 title: "HVAC for Fire Training Props and Simulators"
+aliases: ["HVAC for Fire Training Props and Simulators"]
 description: "Specialized ventilation and climate control systems for fire training props including vehicle fires, industrial scenarios, rescue simulators, and heat/smoke effect integration."
 keywords: ["fire training props", "simulator ventilation", "vehicle fire prop HVAC", "rescue scenario ventilation", "smoke effect systems", "training facility safety", "industrial fire simulator", "prop ventilation design"]
+tags: ["fire training props", "simulator ventilation", "vehicle fire prop HVAC", "rescue scenario ventilation", "smoke effect systems", "training facility safety", "industrial fire simulator", "prop ventilation design"]
 date: 2025-01-11
 draft: false
 weight: 3

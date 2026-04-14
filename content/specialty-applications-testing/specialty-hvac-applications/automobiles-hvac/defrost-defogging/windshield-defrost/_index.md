@@ -1,7 +1,9 @@
 ---
 title: "Windshield Defrost Systems"
+aliases: ["Windshield Defrost Systems"]
 description: "Technical analysis of automotive windshield defrost systems, FMVSS 103 compliance, nozzle design, airflow distribution patterns, and dehumidification strategies."
 keywords: ["windshield defrost", "FMVSS 103", "defrost nozzle design", "automotive HVAC", "defogging", "visibility clearance", "SAE J902", "defrost airflow"]
+tags: ["windshield defrost", "FMVSS 103", "defrost nozzle design", "automotive HVAC", "defogging", "visibility clearance", "SAE J902", "defrost airflow"]
 weight: 1
 ---
 

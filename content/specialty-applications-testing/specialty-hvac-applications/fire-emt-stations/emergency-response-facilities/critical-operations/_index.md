@@ -1,5 +1,6 @@
 ---
 title: "HVAC for Critical Emergency Operations Centers"
+aliases: ["HVAC for Critical Emergency Operations Centers"]
 description: "Mission-critical HVAC system design for emergency operations including reliability requirements, redundancy strategies, failure mode analysis, and ASHRAE tier classification."
 date: "2026-01-11"
 weight: 3

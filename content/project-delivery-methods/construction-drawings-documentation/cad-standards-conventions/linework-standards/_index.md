@@ -1,5 +1,6 @@
 ---
 title: "Linework Standards"
+aliases: ["Linework Standards"]
 weight: 2
 ---
 

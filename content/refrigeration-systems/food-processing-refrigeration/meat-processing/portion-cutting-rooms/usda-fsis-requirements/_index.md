@@ -1,5 +1,6 @@
 ---
 title: "USDA FSIS Requirements for Portion Cutting Rooms"
+aliases: ["USDA FSIS Requirements for Portion Cutting Rooms"]
 description: "Comprehensive HVAC regulatory compliance requirements for meat portion cutting rooms under USDA Food Safety and Inspection Service regulations, including 9 CFR temperature control, air quality standards, and HACCP integration"
 weight: 3
 ---

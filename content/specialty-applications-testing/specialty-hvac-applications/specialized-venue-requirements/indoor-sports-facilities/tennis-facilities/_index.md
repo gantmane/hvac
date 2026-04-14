@@ -1,7 +1,9 @@
 ---
 title: "Indoor Tennis Facility HVAC Design Considerations"
+aliases: ["Indoor Tennis Facility HVAC Design Considerations"]
 description: "Engineering analysis of HVAC requirements for indoor tennis facilities including air velocity control for ball flight accuracy, thermal stratification management, lighting heat loads."
 keywords: ["indoor tennis HVAC", "air velocity tennis court", "thermal stratification sports", "tennis facility climate control", "lighting heat load", "spectator area conditioning", "tennis court temperature", "sports venue HVAC"]
+tags: ["indoor tennis HVAC", "air velocity tennis court", "thermal stratification sports", "tennis facility climate control", "lighting heat load", "spectator area conditioning", "tennis court temperature", "sports venue HVAC"]
 weight: 2
 ---
 

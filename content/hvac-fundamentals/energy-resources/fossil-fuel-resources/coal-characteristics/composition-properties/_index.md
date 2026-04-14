@@ -1,7 +1,9 @@
 ---
 title: "Coal Composition and Properties"
+aliases: ["Coal Composition and Properties"]
 description: "Comprehensive analysis of coal composition including proximate and ultimate analysis methods, fixed carbon, volatile matter, ash, sulfur content, and ASTM standards for HVAC applications."
 keywords: ["coal composition", "proximate analysis", "ultimate analysis", "coal properties", "fixed carbon", "volatile matter", "ash content", "ASTM D3172"]
+tags: ["coal composition", "proximate analysis", "ultimate analysis", "coal properties", "fixed carbon", "volatile matter", "ash content", "ASTM D3172"]
 weight: 3
 ---
 

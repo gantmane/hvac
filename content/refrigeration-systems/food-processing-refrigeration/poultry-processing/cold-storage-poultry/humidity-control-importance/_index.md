@@ -1,5 +1,6 @@
 ---
 title: "Humidity Control Importance in Poultry Cold Storage"
+aliases: ["Humidity Control Importance in Poultry Cold Storage"]
 description: "Critical analysis of humidity control in poultry cold storage facilities including weight loss prevention, microbial control, and ice formation management."
 date: 2025-01-05
 tags: ["humidity control", "poultry storage", "weight loss", "relative humidity", "moisture management"]

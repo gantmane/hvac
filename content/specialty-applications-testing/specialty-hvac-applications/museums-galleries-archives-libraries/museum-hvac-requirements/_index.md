@@ -1,7 +1,9 @@
 ---
 title: "Museum HVAC Requirements and Environmental Controls"
+aliases: ["Museum HVAC Requirements and Environmental Controls"]
 description: "Comprehensive guide to museum HVAC requirements including temperature, humidity, air quality standards, visitor comfort balance, and ASHRAE guidance for preservation."
 keywords: ["museum HVAC", "environmental control", "collection preservation", "ASHRAE museum standards", "temperature humidity control", "air quality museums", "preventive conservation", "museum climate"]
+tags: ["museum HVAC", "environmental control", "collection preservation", "ASHRAE museum standards", "temperature humidity control", "air quality museums", "preventive conservation", "museum climate"]
 weight: 2
 ---
 

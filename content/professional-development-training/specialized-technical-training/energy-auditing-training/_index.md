@@ -1,7 +1,9 @@
 ---
 title: "Energy Auditing Training"
+aliases: ["Energy Auditing Training"]
 description: "Professional HVAC energy auditing training covering ASHRAE audit levels, measurement and verification protocols, utility analysis, and energy conservation measures for building performance optimization."
 keywords: ["energy auditing training", "ASHRAE audit levels", "measurement and verification", "utility analysis", "energy conservation measures", "building energy assessment", "HVAC energy audit", "investment grade audit", "energy modeling", "retrofit analysis"]
+tags: ["energy auditing training", "ASHRAE audit levels", "measurement and verification", "utility analysis", "energy conservation measures", "building energy assessment", "HVAC energy audit", "investment grade audit", "energy modeling", "retrofit analysis"]
 weight: 2
 ---
 

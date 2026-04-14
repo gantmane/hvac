@@ -1,7 +1,9 @@
 ---
 title: "Coal Characteristics for HVAC Heating Systems"
+aliases: ["Coal Characteristics for HVAC Heating Systems"]
 description: "Technical analysis of coal properties for heating applications including proximate analysis, heating values, ash content, and combustion air requirements per ASTM standards."
 keywords: ["coal heating value", "proximate analysis", "anthracite", "bituminous coal", "coal combustion", "ASTM coal standards", "ash content", "coal rank classification"]
+tags: ["coal heating value", "proximate analysis", "anthracite", "bituminous coal", "coal combustion", "ASTM coal standards", "ash content", "coal rank classification"]
 weight: 1
 ---
 

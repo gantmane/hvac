@@ -1,7 +1,9 @@
 ---
 title: "Advanced Thermal Energy Storage Systems"
+aliases: ["Advanced Thermal Energy Storage Systems"]
 description: "Comprehensive guide to ice storage, chilled water tanks, phase change materials, seasonal underground storage, and demand shifting strategies with capacity calculations and system design principles"
 keywords: ["thermal energy storage", "ice storage", "PCM materials", "phase change materials", "chilled water storage", "ATES", "seasonal storage", "demand shifting", "peak load management", "district cooling"]
+tags: ["thermal energy storage", "ice storage", "PCM materials", "phase change materials", "chilled water storage", "ATES", "seasonal storage", "demand shifting", "peak load management", "district cooling"]
 weight: 3
 ---
 

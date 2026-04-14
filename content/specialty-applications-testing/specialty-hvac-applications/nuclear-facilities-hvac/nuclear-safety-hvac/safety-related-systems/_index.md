@@ -1,7 +1,9 @@
 ---
 title: "Safety-Related HVAC Systems in Nuclear Facilities"
+aliases: ["Safety-Related HVAC Systems in Nuclear Facilities"]
 description: "Technical requirements for safety-related nuclear HVAC systems including seismic qualification, single failure criterion, environmental qualification, and NRC compliance."
 keywords: ["nuclear HVAC", "safety-related systems", "seismic Category I", "10 CFR 50", "single failure criterion", "environmental qualification", "ASME AG-1", "nuclear plant ventilation"]
+tags: ["nuclear HVAC", "safety-related systems", "seismic Category I", "10 CFR 50", "single failure criterion", "environmental qualification", "ASME AG-1", "nuclear plant ventilation"]
 weight: 1
 ---
 

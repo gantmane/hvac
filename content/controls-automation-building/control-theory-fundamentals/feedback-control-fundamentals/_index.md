@@ -1,5 +1,6 @@
 ---
 title: "Feedback Control Fundamentals"
+aliases: ["Feedback Control Fundamentals"]
 description: "Detailed analysis of closed-loop feedback control principles for HVAC systems including control error generation, disturbance rejection, measurement feedback, and steady-state behavior."
 date: 2026-01-04
 weight: 1

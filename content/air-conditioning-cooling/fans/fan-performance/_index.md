@@ -1,7 +1,9 @@
 ---
 title: "Fan Performance"
+aliases: ["Fan Performance"]
 description: "Understanding fan performance curves, efficiency, and operating characteristics for optimal HVAC system design and operation."
 keywords: ["fan performance", "fan curves", "static pressure", "total pressure", "fan efficiency", "operating point"]
+tags: ["fan performance", "fan curves", "static pressure", "total pressure", "fan efficiency", "operating point"]
 weight: 3
 ---
 

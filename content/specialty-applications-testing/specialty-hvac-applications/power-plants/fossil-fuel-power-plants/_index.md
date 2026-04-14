@@ -1,5 +1,6 @@
 ---
 title: "Fossil Fuel Power Plant HVAC Systems"
+aliases: ["Fossil Fuel Power Plant HVAC Systems"]
 description: "Comprehensive HVAC design for coal, natural gas, and oil-fired power generation facilities covering boiler ventilation, turbine hall cooling, and combustion air systems."
 seo_title: "HVAC Systems for Fossil Fuel Power Plants"
 seo_description: "Engineering guide to HVAC systems in fossil fuel power plants including heat rejection calculations, ventilation design, and combustion air requirements."

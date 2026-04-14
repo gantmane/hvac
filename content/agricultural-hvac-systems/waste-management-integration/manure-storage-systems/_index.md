@@ -1,5 +1,6 @@
 ---
 title: "Manure Storage Systems"
+aliases: ["Manure Storage Systems"]
 weight: 2
 ---
 

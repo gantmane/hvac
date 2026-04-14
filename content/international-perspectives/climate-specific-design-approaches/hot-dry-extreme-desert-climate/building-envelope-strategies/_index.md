@@ -1,5 +1,6 @@
 ---
 title: "Building Envelope Strategies for Extreme Desert Climate"
+aliases: ["Building Envelope Strategies for Extreme Desert Climate"]
 date: "2025-01-05"
 description: "Physics-based analysis of building envelope design for hot, dry desert climates including thermal mass, reflectance, insulation placement, and heat gain reduction strategies."
 tags: ["building envelope", "desert climate", "thermal mass", "heat gain", "insulation", "solar reflectance", "ASHRAE", "climate-specific design"]

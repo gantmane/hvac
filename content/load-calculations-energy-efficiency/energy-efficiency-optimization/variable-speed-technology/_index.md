@@ -1,5 +1,6 @@
 ---
 title: "Variable Speed Technology"
+aliases: ["Variable Speed Technology"]
 weight: 2
 ---
 

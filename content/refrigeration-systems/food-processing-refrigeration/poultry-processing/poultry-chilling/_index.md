@@ -1,5 +1,6 @@
 ---
 title: "Poultry Chilling Systems in Processing Facilities"
+aliases: ["Poultry Chilling Systems in Processing Facilities"]
 description: "Technical analysis of poultry chilling methods including immersion, air, and evaporative systems with heat load calculations and USDA compliance requirements."
 date: 2025-01-05
 tags: ["poultry processing", "food refrigeration", "immersion chilling", "air chilling", "heat removal", "food safety"]

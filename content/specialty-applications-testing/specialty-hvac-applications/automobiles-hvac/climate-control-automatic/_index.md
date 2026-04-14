@@ -1,7 +1,9 @@
 ---
 title: "Automatic Climate Control Systems in Vehicles"
+aliases: ["Automatic Climate Control Systems in Vehicles"]
 description: "Technical analysis of automotive automatic climate control evolution, electronic control modules, multi-zone systems, sensor integration, and predictive algorithms."
 keywords: ["automatic climate control", "HVAC electronic control", "dual-zone climate", "automotive HVAC sensors", "thermal comfort control", "SAE J2765", "climate preconditioning", "HVAC control algorithms"]
+tags: ["automatic climate control", "HVAC electronic control", "dual-zone climate", "automotive HVAC sensors", "thermal comfort control", "SAE J2765", "climate preconditioning", "HVAC control algorithms"]
 weight: 2
 ---
 

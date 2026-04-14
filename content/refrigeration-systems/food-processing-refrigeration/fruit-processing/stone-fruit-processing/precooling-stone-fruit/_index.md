@@ -1,5 +1,6 @@
 ---
 title: "Precooling Stone Fruit"
+aliases: ["Precooling Stone Fruit"]
 description: "Engineering analysis of stone fruit precooling systems including forced-air cooling design, hydrocooling applications, seven-eighths cooling time calculations, refrigeration capacity sizing, and airflow requirements for peaches, nectarines, plums, cherries, and apricots."
 weight: 5
 ---

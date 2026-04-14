@@ -1,5 +1,6 @@
 ---
 title: "Airflow Railcars"
+aliases: ["Airflow Railcars"]
 weight: 3
 ---
 

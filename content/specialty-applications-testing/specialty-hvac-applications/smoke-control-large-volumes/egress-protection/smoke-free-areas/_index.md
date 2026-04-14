@@ -1,7 +1,9 @@
 ---
 title: "Smoke-Free Areas: Design & Pressurization Standards"
+aliases: ["Smoke-Free Areas: Design & Pressurization Standards"]
 description: "Technical guide to smoke-free zone design including pressurization calculations, sealing requirements, NFPA 92 compliance, and testing protocols for egress protection systems."
 keywords: ["smoke-free areas", "pressurization design", "NFPA 92", "refuge areas", "egress protection", "smoke control zones", "positive pressure", "area of rescue assistance"]
+tags: ["smoke-free areas", "pressurization design", "NFPA 92", "refuge areas", "egress protection", "smoke control zones", "positive pressure", "area of rescue assistance"]
 weight: 4
 ---
 

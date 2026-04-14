@@ -1,5 +1,6 @@
 ---
 title: "Expansion Compensation"
+aliases: ["Expansion Compensation"]
 weight: 4
 ---
 

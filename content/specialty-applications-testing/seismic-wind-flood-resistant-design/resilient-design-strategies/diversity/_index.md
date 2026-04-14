@@ -1,5 +1,6 @@
 ---
 title: "Diversity in Resilient HVAC Design"
+aliases: ["Diversity in Resilient HVAC Design"]
 description: "Fuel and technology diversity strategies for HVAC systems to ensure operational continuity during infrastructure disruptions and natural disasters."
 date: 2025-01-05
 keywords:

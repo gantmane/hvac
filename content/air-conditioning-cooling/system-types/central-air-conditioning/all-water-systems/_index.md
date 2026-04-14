@@ -1,7 +1,9 @@
 ---
 title: "All-Water HVAC Systems: Design & Configuration Guide"
+aliases: ["All-Water HVAC Systems: Design & Configuration Guide"]
 description: "Comprehensive guide to all-water HVAC systems including fan coil units, radiant panels, chilled beams, and 2-pipe vs 4-pipe system configurations with performance comparisons."
 keywords: ["all-water systems", "fan coil units", "radiant cooling", "chilled beams", "2-pipe system", "4-pipe system", "hydronic HVAC", "water distribution systems"]
+tags: ["all-water systems", "fan coil units", "radiant cooling", "chilled beams", "2-pipe system", "4-pipe system", "hydronic HVAC", "water distribution systems"]
 weight: 2
 ---
 

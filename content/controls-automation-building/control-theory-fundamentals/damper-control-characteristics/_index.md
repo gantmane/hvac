@@ -1,5 +1,6 @@
 ---
 title: "Damper Control Characteristics"
+aliases: ["Damper Control Characteristics"]
 description: "Detailed analysis of damper flow characteristics, opposed vs parallel blade configurations, damper authority, leakage classes, actuator sizing, and control performance optimization for HVAC air distribution."
 date: 2026-01-04
 weight: 8

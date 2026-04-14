@@ -1,5 +1,6 @@
 ---
 title: "Photovoltaic Integration"
+aliases: ["Photovoltaic Integration"]
 weight: 2
 ---
 

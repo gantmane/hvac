@@ -1,5 +1,6 @@
 ---
 title: "Computational Fluid Dynamics"
+aliases: ["Computational Fluid Dynamics"]
 weight: 1
 ---
 

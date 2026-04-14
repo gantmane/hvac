@@ -1,7 +1,9 @@
 ---
 title: "Bulk Carrier Hold Ventilation Systems"
+aliases: ["Bulk Carrier Hold Ventilation Systems"]
 description: "Engineering principles for bulk carrier cargo hold ventilation including grain ventilation, sweat prevention, toxic gas control, and IMSBC Code requirements."
 keywords: ["bulk carrier ventilation", "grain cargo ventilation", "cargo sweat prevention", "IMSBC Code", "hold ventilation design", "toxic gas control", "maritime cargo ventilation", "ship sweat prevention"]
+tags: ["bulk carrier ventilation", "grain cargo ventilation", "cargo sweat prevention", "IMSBC Code", "hold ventilation design", "toxic gas control", "maritime cargo ventilation", "ship sweat prevention"]
 weight: 2
 ---
 

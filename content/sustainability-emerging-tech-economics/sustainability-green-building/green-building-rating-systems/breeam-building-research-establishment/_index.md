@@ -1,5 +1,6 @@
 ---
 title: "BREEAM Certification for HVAC Systems"
+aliases: ["BREEAM Certification for HVAC Systems"]
 description: "Technical guide to BREEAM assessment criteria for HVAC systems including energy performance metrics, credits allocation, and commissioning requirements."
 date: 2025-01-05
 tags: ["BREEAM", "green building", "sustainability", "certification", "energy efficiency", "commissioning", "indoor air quality"]

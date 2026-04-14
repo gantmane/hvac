@@ -1,7 +1,9 @@
 ---
 title: "Pre-Cooling Timing Strategies for Event Spaces"
+aliases: ["Pre-Cooling Timing Strategies for Event Spaces"]
 description: "Engineering analysis of pre-cooling timing algorithms for variable occupancy facilities, including thermal mass calculations, equipment staging, and peak demand optimization."
 keywords: ["pre-cooling timing", "thermal mass cooling", "optimal start control", "peak load shaving", "equipment staging", "setpoint depression", "occupancy prediction", "demand response"]
+tags: ["pre-cooling timing", "thermal mass cooling", "optimal start control", "peak load shaving", "equipment staging", "setpoint depression", "occupancy prediction", "demand response"]
 weight: 1
 ---
 

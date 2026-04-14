@@ -1,7 +1,9 @@
 ---
 title: "Aircraft APU Bleed Air Systems"
+aliases: ["Aircraft APU Bleed Air Systems"]
 description: "APU bleed air capacity, operating envelope, ground and in-flight capability, altitude limitations, engine bleed integration, and temperature-pressure characteristics."
 keywords: ["APU bleed air", "auxiliary power unit", "bleed air capacity", "APU operating envelope", "engine bleed integration", "APU load sharing", "bleed air temperature", "APU altitude limits"]
+tags: ["APU bleed air", "auxiliary power unit", "bleed air capacity", "APU operating envelope", "engine bleed integration", "APU load sharing", "bleed air temperature", "APU altitude limits"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Quantum Computing Potential"
+aliases: ["Quantum Computing Potential"]
 weight: 10
 ---
 

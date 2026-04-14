@@ -1,8 +1,10 @@
 ---
 title: "Plaza & Courtyard Snow Melting Systems"
+aliases: ["Plaza & Courtyard Snow Melting Systems"]
 seo_title: "Plaza Courtyard Snow Melting Design & Heat Load"
 description: "Engineering design for plaza and courtyard snow melting systems. Heat load calculations, hydronic tubing layout, pedestrian safety requirements, and thermal performance."
 keywords: ["plaza snow melting", "courtyard heating", "pedestrian plaza design", "outdoor plaza heating", "plaza heat load", "hydronic plaza systems", "plaza thermal design", "courtyard snow control"]
+tags: ["plaza snow melting", "courtyard heating", "pedestrian plaza design", "outdoor plaza heating", "plaza heat load", "hydronic plaza systems", "plaza thermal design", "courtyard snow control"]
 weight: 6
 ---
 

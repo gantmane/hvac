@@ -1,7 +1,9 @@
 ---
 title: "Overhead and Underfloor HVAC Systems"
+aliases: ["Overhead and Underfloor HVAC Systems"]
 description: "Engineering analysis of overhead radiant and forced air heating versus underfloor systems for fire station apparatus bays including heat distribution, clearance requirements, and performance comparisons."
 keywords: ["overhead radiant heating", "in-floor heating", "underfloor ducts", "radiant tube systems", "apparatus bay heating", "equipment clearance", "warm air distribution", "hydronic floor heating"]
+tags: ["overhead radiant heating", "in-floor heating", "underfloor ducts", "radiant tube systems", "apparatus bay heating", "equipment clearance", "warm air distribution", "hydronic floor heating"]
 weight: 3
 ---
 

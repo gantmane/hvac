@@ -1,5 +1,6 @@
 ---
 title: "Degree Hours Methodology"
+aliases: ["Degree Hours Methodology"]
 weight: 1
 ---
 

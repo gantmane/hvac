@@ -1,7 +1,9 @@
 ---
 title: "Hydronic System Indirect Water Heaters"
+aliases: ["Hydronic System Indirect Water Heaters"]
 description: "Comprehensive guide to indirect water heaters integrated with hydronic heating systems, covering priority controls, buffer tanks, mixing valves, and piping strategies."
 keywords: ["hydronic indirect water heater", "DHW priority control", "buffer tank sizing", "mixing valve configuration", "boiler DHW integration", "hydronic piping design", "seasonal boiler operation", "indirect coil heat exchanger"]
+tags: ["hydronic indirect water heater", "DHW priority control", "buffer tank sizing", "mixing valve configuration", "boiler DHW integration", "hydronic piping design", "seasonal boiler operation", "indirect coil heat exchanger"]
 weight: 2
 ---
 

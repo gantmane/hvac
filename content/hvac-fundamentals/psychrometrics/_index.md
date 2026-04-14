@@ -1,5 +1,6 @@
 ---
 title: "Psychrometrics"
+aliases: ["Psychrometrics"]
 weight: 4
 description: "Comprehensive guide to psychrometrics in HVAC systems, including moist air properties, psychrometric chart usage, humidity ratio calculations, and air conditioning process analysis."
 ---

@@ -1,5 +1,6 @@
 ---
 title: "First Aid and CPR Training for HVAC Professionals"
+aliases: ["First Aid and CPR Training for HVAC Professionals"]
 description: "Essential first aid and CPR training protocols for HVAC technicians addressing electrical shock, refrigerant exposure, heat stress, and confined space emergencies."
 date: 2025-01-05
 tags: ["safety training", "first aid", "CPR", "emergency response", "workplace safety", "HVAC technician", "electrical safety", "refrigerant safety"]

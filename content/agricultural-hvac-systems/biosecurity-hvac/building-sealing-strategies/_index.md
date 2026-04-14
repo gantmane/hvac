@@ -1,7 +1,9 @@
 ---
 title: "Building Sealing Strategies for Biosecurity HVAC"
+aliases: ["Building Sealing Strategies for Biosecurity HVAC"]
 description: "Engineering analysis of building envelope sealing for biosecurity facilities including air leakage limits, penetration sealing, door systems, and pressure testing protocols."
 keywords: ["biosecurity building envelope", "air leakage testing", "door seals biosecurity", "penetration sealing", "pressure decay testing", "biosecurity construction", "HVAC envelope integrity", "containment sealing"]
+tags: ["biosecurity building envelope", "air leakage testing", "door seals biosecurity", "penetration sealing", "pressure decay testing", "biosecurity construction", "HVAC envelope integrity", "containment sealing"]
 weight: 5
 ---
 

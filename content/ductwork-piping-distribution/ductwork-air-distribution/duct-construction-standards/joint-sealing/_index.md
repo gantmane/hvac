@@ -1,5 +1,6 @@
 ---
 title: "Joint Sealing"
+aliases: ["Joint Sealing"]
 description: "Duct joint sealing methods, sealant types, application techniques, and performance standards for achieving specified duct leakage classes in HVAC air distribution systems."
 weight: 4
 ---

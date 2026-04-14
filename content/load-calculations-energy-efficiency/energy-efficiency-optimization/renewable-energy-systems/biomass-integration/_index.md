@@ -1,5 +1,6 @@
 ---
 title: "Biomass Integration"
+aliases: ["Biomass Integration"]
 description: "Comprehensive guide to biomass heating systems for HVAC applications including fuel types, heating values, combustion equipment, boiler integration, emissions control, fuel handling systems, and system sizing methodologies for renewable energy heating."
 weight: 5
 ---

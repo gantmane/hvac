@@ -1,5 +1,6 @@
 ---
 title: "Cold Climate Assemblies"
+aliases: ["Cold Climate Assemblies"]
 weight: 1
 description: "Building envelope moisture design for cold climates (IECC Zones 6-8) including interior vapor retarder requirements, outward drying potential, sheathing temperature control, and assembly configurations preventing condensation in heating-dominated conditions."
 ---

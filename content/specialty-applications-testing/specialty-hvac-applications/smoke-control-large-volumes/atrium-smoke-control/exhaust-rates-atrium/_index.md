@@ -1,8 +1,10 @@
 ---
 title: "Atrium Exhaust Rate Calculations for Smoke Control"
+aliases: ["Atrium Exhaust Rate Calculations for Smoke Control"]
 seo_title: "Atrium Smoke Control Exhaust Rate Calculations Guide"
 description: "Comprehensive guide to calculating exhaust rates for atrium smoke control systems using NFPA 92 plume equations, fire size assumptions, and mass flow rate calculations."
 keywords: ["atrium exhaust rates", "smoke control calculations", "NFPA 92 plume equations", "fire heat release rate", "mass flow rate", "exhaust fan sizing", "smoke layer interface", "plume mass flow"]
+tags: ["atrium exhaust rates", "smoke control calculations", "NFPA 92 plume equations", "fire heat release rate", "mass flow rate", "exhaust fan sizing", "smoke layer interface", "plume mass flow"]
 weight: 2
 ---
 

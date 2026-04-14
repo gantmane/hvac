@@ -1,5 +1,6 @@
 ---
 title: "Ready To Eat Products"
+aliases: ["Ready To Eat Products"]
 weight: 2
 ---
 

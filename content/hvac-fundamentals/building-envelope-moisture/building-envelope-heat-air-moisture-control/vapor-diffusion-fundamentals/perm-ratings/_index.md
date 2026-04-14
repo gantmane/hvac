@@ -1,5 +1,6 @@
 ---
 title: "Perm Ratings"
+aliases: ["Perm Ratings"]
 description: "Quantitative classification of material vapor permeance for building envelope design, including measurement standards, material properties, and selection criteria for moisture control"
 weight: 3
 ---

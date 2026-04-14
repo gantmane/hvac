@@ -1,7 +1,9 @@
 ---
 title: "Material Transport in Exhaust Ducts"
+aliases: ["Material Transport in Exhaust Ducts"]
 description: "Physics-based analysis of particle transport in industrial exhaust ducts including terminal velocity, saltation velocity calculations, minimum transport velocities, and design criteria."
 keywords: "material transport ducts, particle transport velocity, terminal velocity calculation, saltation velocity, exhaust duct design, pneumatic transport, particle settling, duct velocity requirements"
+tags: ["material transport ducts", "particle transport velocity", "terminal velocity calculation", "saltation velocity", "exhaust duct design", "pneumatic transport", "particle settling", "duct velocity requirements"]
 weight: 2
 ---
 

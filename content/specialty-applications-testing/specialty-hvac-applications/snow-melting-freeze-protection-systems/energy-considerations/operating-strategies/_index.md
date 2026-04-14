@@ -1,5 +1,6 @@
 ---
 title: "Snow Melting System Operating Strategies"
+aliases: ["Snow Melting System Operating Strategies"]
 description: "Physics-based analysis of on-demand, idling, and hybrid control strategies for snow melting systems with optimization methods, decision algorithms, and energy cost minimization."
 date: 2026-01-11
 draft: false

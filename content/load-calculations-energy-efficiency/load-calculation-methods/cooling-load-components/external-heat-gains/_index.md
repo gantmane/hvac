@@ -1,5 +1,6 @@
 ---
 title: "External Heat Gains"
+aliases: ["External Heat Gains"]
 description: "Comprehensive analysis of external heat gain sources including transmission through building envelope, solar radiation, infiltration, and ventilation air loads for cooling system design."
 weight: 1
 ---

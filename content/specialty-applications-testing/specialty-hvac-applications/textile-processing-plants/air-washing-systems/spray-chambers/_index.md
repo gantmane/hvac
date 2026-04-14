@@ -1,8 +1,10 @@
 ---
 title: "Spray Chambers for Textile Air Washing Systems"
+aliases: ["Spray Chambers for Textile Air Washing Systems"]
 weight: 1
 description: "Technical guide to spray chamber design, nozzle selection, water recirculation systems, and air washing efficiency for textile processing plant HVAC applications."
 keywords: ["spray chamber design", "air washing efficiency", "textile HVAC", "water spray nozzles", "eliminator plates", "air washer construction", "spray performance", "recirculation systems"]
+tags: ["spray chamber design", "air washing efficiency", "textile HVAC", "water spray nozzles", "eliminator plates", "air washer construction", "spray performance", "recirculation systems"]
 ---
 
 ## Spray Chamber Design Fundamentals

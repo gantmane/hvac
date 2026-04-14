@@ -1,5 +1,6 @@
 ---
 title: "Negawatt Concept"
+aliases: ["Negawatt Concept"]
 description: "Negawatt energy efficiency framework treating avoided energy consumption as a resource equivalent to generation, including demand-side management principles, cost of saved energy analysis, utility planning integration, and IPMVP measurement and verification protocols for HVAC applications"
 weight: 4
 ---

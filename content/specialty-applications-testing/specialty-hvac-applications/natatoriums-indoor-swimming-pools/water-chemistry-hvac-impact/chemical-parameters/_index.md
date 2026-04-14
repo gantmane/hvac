@@ -1,7 +1,9 @@
 ---
 title: "Pool Chemical Parameters and HVAC Design"
+aliases: ["Pool Chemical Parameters and HVAC Design"]
 description: "Critical pool water chemistry parameters affecting HVAC system design, including chlorine equilibrium, pH relationships, and corrosion control strategies for natatoriums."
 keywords: ["pool chemistry HVAC", "chloramine formation", "pool pH control", "free chlorine levels", "natatorium corrosion", "pool water alkalinity", "HVAC material selection", "swimming pool TDS"]
+tags: ["pool chemistry HVAC", "chloramine formation", "pool pH control", "free chlorine levels", "natatorium corrosion", "pool water alkalinity", "HVAC material selection", "swimming pool TDS"]
 weight: 1
 ---
 

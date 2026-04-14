@@ -1,8 +1,10 @@
 ---
 title: "International Codes (I-Codes) for HVAC Systems"
+aliases: ["International Codes (I-Codes) for HVAC Systems"]
 weight: 1
 description: "Comprehensive guide to ICC International Codes governing HVAC design, installation, and operation including IMC, IBC, IFC, IECC, and IPC code coordination and compliance requirements."
 keywords: ["International Mechanical Code", "IMC", "IBC HVAC requirements", "IECC energy code", "I-Codes", "ICC code development", "mechanical code compliance", "building codes"]
+tags: ["International Mechanical Code", "IMC", "IBC HVAC requirements", "IECC energy code", "I-Codes", "ICC code development", "mechanical code compliance", "building codes"]
 ---
 
 The International Code Council (ICC) publishes the International Codes (I-Codes), a coordinated family of model building codes adopted by most U.S. jurisdictions and numerous international locations. These codes establish minimum requirements for HVAC system design, installation, inspection, and maintenance to protect public health, safety, and welfare.

@@ -1,5 +1,6 @@
 ---
 title: "Material Selection"
+aliases: ["Material Selection"]
 description: "Mold-resistant building material selection strategies including inorganic facings, treated wood products, encapsulated insulation, and avoiding paper-faced materials in moisture-prone assemblies."
 weight: 4
 ---

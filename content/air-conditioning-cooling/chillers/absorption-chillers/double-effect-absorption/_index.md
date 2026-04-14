@@ -1,8 +1,10 @@
 ---
 title: "Double-Effect Absorption Chillers"
+aliases: ["Double-Effect Absorption Chillers"]
 weight: 2
 description: "Advanced absorption chillers with two-stage generation achieving COP ~1.2 through cascaded heat recovery, direct-fired and steam configurations for high-efficiency applications."
 keywords: ["double-effect absorption", "two-stage generation", "absorption COP", "direct-fired chiller", "steam absorption", "heat recovery chiller", "high-temperature generator", "lithium bromide chiller"]
+tags: ["double-effect absorption", "two-stage generation", "absorption COP", "direct-fired chiller", "steam absorption", "heat recovery chiller", "high-temperature generator", "lithium bromide chiller"]
 ---
 
 ## Operating Principle

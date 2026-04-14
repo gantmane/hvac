@@ -1,7 +1,9 @@
 ---
 title: "Steam Humidifiers: Engineering Guide & Calculations"
+aliases: ["Steam Humidifiers: Engineering Guide & Calculations"]
 description: "Comprehensive engineering guide to steam humidifiers including electrode, gas-fired, and steam-to-steam types with capacity calculations, absorption distance requirements, and water quality standards."
 keywords: ["steam humidifiers", "electrode humidifier", "gas-fired humidifier", "steam injection", "absorption distance", "humidification capacity", "ASHRAE humidification", "steam-to-steam humidifier"]
+tags: ["steam humidifiers", "electrode humidifier", "gas-fired humidifier", "steam injection", "absorption distance", "humidification capacity", "ASHRAE humidification", "steam-to-steam humidifier"]
 weight: 1
 ---
 

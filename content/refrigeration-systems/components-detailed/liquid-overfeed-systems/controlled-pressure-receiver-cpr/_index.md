@@ -1,5 +1,6 @@
 ---
 title: "Controlled Pressure Receiver (CPR)"
+aliases: ["Controlled Pressure Receiver (CPR)"]
 description: "Technical analysis of controlled pressure receiver systems in liquid overfeed refrigeration, including pressure regulation strategies, flash gas management, level control methods, and integration with compressor systems for industrial applications."
 weight: 6
 ---

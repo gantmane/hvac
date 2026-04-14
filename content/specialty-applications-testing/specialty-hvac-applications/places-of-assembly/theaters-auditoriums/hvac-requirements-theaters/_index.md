@@ -1,7 +1,9 @@
 ---
 title: "HVAC Requirements for Theaters and Auditoriums"
+aliases: ["HVAC Requirements for Theaters and Auditoriums"]
 description: "Engineering fundamentals for theater HVAC systems: thermal load analysis, air distribution strategies, stage-house separation, intermission peak loads, and acoustic integration."
 keywords: ["theater HVAC design", "auditorium air conditioning", "stage ventilation", "intermission load diversity", "theater humidity control", "backstage HVAC", "performance space conditioning", "acoustic HVAC integration"]
+tags: ["theater HVAC design", "auditorium air conditioning", "stage ventilation", "intermission load diversity", "theater humidity control", "backstage HVAC", "performance space conditioning", "acoustic HVAC integration"]
 weight: 3
 ---
 

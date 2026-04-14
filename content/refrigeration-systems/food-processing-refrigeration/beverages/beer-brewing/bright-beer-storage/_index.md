@@ -1,5 +1,6 @@
 ---
 title: "Bright Beer Storage"
+aliases: ["Bright Beer Storage"]
 description: "Technical requirements for bright beer tank refrigeration, serving tank cooling, CO2 pressure relationships, and dispensing system design for finished beer preservation"
 weight: 4
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Frozen Poultry Storage: Temperature and Load Requirements"
+aliases: ["Frozen Poultry Storage: Temperature and Load Requirements"]
 description: "Technical analysis of frozen poultry storage refrigeration systems including temperature requirements, load calculations, air circulation, and defrost strategies."
 date: 2025-01-05
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Salmonella"
+aliases: ["Salmonella"]
 weight: 1
 ---
 

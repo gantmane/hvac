@@ -1,5 +1,6 @@
 ---
 title: "UL and FM Listings for HVAC Equipment"
+aliases: ["UL and FM Listings for HVAC Equipment"]
 description: "Comprehensive guide to UL and FM Global certifications for HVAC equipment including fire, electrical, and structural standards with approval requirements."
 date: 2025-01-05
 keywords:

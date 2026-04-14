@@ -1,8 +1,10 @@
 ---
 title: "Factors Affecting Pool Water Evaporation"
+aliases: ["Factors Affecting Pool Water Evaporation"]
 seo_title: "Pool Water Evaporation Factors | HVAC Design Guide"
 description: "Technical analysis of factors affecting pool evaporation rates including temperature differentials, relative humidity, air velocity, and activity factors per ASHRAE standards."
 keywords: ["pool evaporation factors", "water temperature differential", "relative humidity impact", "activity factor", "vapor pressure", "natatorium HVAC", "ASHRAE pool calculations", "evaporation rate"]
+tags: ["pool evaporation factors", "water temperature differential", "relative humidity impact", "activity factor", "vapor pressure", "natatorium HVAC", "ASHRAE pool calculations", "evaporation rate"]
 weight: 2
 ---
 

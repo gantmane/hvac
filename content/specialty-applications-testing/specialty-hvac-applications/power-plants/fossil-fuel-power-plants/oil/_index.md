@@ -1,8 +1,10 @@
 ---
 title: "Oil-Fired Power Plant HVAC Systems"
+aliases: ["Oil-Fired Power Plant HVAC Systems"]
 weight: 3
 description: "Comprehensive analysis of HVAC requirements for oil-fired power plants including fuel handling ventilation, combustion air systems, oil heating, and emissions control infrastructure."
 keywords: ["oil power plant HVAC", "fuel oil ventilation", "combustion air systems", "heavy fuel oil heating", "emissions control HVAC", "tank farm ventilation", "SO2 scrubber HVAC", "oil-fired boiler systems"]
+tags: ["oil power plant HVAC", "fuel oil ventilation", "combustion air systems", "heavy fuel oil heating", "emissions control HVAC", "tank farm ventilation", "SO2 scrubber HVAC", "oil-fired boiler systems"]
 ---
 
 ## Overview

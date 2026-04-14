@@ -1,5 +1,6 @@
 ---
 title: "Mechanical System Integration"
+aliases: ["Mechanical System Integration"]
 description: "Coordinating HVAC, fire protection, and life safety systems in tall buildings for optimal performance and code compliance."
 date: "2026-01-04"
 weight: 9

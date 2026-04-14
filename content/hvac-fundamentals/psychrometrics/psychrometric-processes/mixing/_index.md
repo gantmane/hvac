@@ -1,5 +1,6 @@
 ---
 title: "Mixing"
+aliases: ["Mixing"]
 description: "Engineering analysis of adiabatic mixing processes for air streams, including mass and energy balance equations, graphical methods, and HVAC design applications"
 weight: 6
 ---

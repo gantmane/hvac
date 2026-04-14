@@ -1,5 +1,6 @@
 ---
 title: "Sd Documentation"
+aliases: ["Sd Documentation"]
 weight: 3
 ---
 

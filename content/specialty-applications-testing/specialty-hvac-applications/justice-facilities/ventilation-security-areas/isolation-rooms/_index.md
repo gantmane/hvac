@@ -1,8 +1,10 @@
 ---
 title: "Isolation Rooms in Correctional Facilities"
+aliases: ["Isolation Rooms in Correctional Facilities"]
 seo_title: "Correctional HVAC Isolation Rooms Design Guide"
 description: "Technical guidance for designing HVAC systems in justice facility isolation rooms including negative pressure requirements, ACH rates, and infection control per ASHRAE 170."
 keywords: ["correctional isolation rooms", "negative pressure HVAC", "prison infection control", "ASHRAE 170 justice", "isolation cell ventilation", "airborne infection isolation", "correctional HVAC design", "pressure differential monitoring"]
+tags: ["correctional isolation rooms", "negative pressure HVAC", "prison infection control", "ASHRAE 170 justice", "isolation cell ventilation", "airborne infection isolation", "correctional HVAC design", "pressure differential monitoring"]
 weight: 4
 ---
 

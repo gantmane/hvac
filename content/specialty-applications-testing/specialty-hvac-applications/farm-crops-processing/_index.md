@@ -1,7 +1,9 @@
 ---
 title: "Farm Crops Processing HVAC Systems"
+aliases: ["Farm Crops Processing HVAC Systems"]
 description: "Comprehensive guide to HVAC systems for post-harvest crop handling including potato storage, onion curing, vegetable cooling, and controlled atmosphere applications. Technical specifications and design principles."
 keywords: ["farm crops processing HVAC", "potato storage temperature", "onion curing ventilation", "vegetable cooling systems", "post-harvest handling", "controlled atmosphere storage", "crop ventilation design", "agricultural HVAC", "produce storage climate control"]
+tags: ["farm crops processing HVAC", "potato storage temperature", "onion curing ventilation", "vegetable cooling systems", "post-harvest handling", "controlled atmosphere storage", "crop ventilation design", "agricultural HVAC", "produce storage climate control"]
 weight: 20
 ---
 

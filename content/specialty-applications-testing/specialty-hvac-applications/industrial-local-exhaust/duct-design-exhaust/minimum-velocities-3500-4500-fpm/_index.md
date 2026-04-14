@@ -1,8 +1,10 @@
 ---
 title: "Minimum Transport Velocities 3500-4500 FPM"
+aliases: ["Minimum Transport Velocities 3500-4500 FPM"]
 weight: 1
 description: "Physics-based analysis of minimum duct velocities 3500-4500 fpm for preventing material settling in industrial exhaust systems, covering saltation velocity, particle mechanics, and material-specific transport requirements."
 keywords: ["minimum transport velocity", "saltation velocity", "duct velocity", "particle transport", "wood dust exhaust", "metal fines", "industrial ventilation", "ACGIH standards"]
+tags: ["minimum transport velocity", "saltation velocity", "duct velocity", "particle transport", "wood dust exhaust", "metal fines", "industrial ventilation", "ACGIH standards"]
 ---
 
 ## Transport Velocity Fundamentals

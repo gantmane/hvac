@@ -1,8 +1,10 @@
 ---
 title: "Sub-Slab Insulation for Snow Melting Systems"
+aliases: ["Sub-Slab Insulation for Snow Melting Systems"]
 seo_title: "Sub-Slab Insulation Design for Heated Snow Melt Slabs"
 description: "Technical guide to sub-slab insulation for snow melting systems covering heat loss calculations, rigid insulation types, R-value selection, and edge insulation details."
 keywords: ["sub-slab insulation", "snow melting insulation", "rigid XPS insulation", "back loss calculation", "heated slab R-value", "edge insulation", "thermal resistance", "snow melt efficiency"]
+tags: ["sub-slab insulation", "snow melting insulation", "rigid XPS insulation", "back loss calculation", "heated slab R-value", "edge insulation", "thermal resistance", "snow melt efficiency"]
 weight: 4
 ---
 

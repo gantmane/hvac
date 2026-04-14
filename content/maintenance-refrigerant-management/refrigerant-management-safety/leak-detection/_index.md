@@ -1,5 +1,6 @@
 ---
 title: "Leak Detection"
+aliases: ["Leak Detection"]
 weight: 1
 ---
 

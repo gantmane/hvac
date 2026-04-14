@@ -1,5 +1,6 @@
 ---
 title: "Chocolate Tempering"
+aliases: ["Chocolate Tempering"]
 description: "Precision temperature control for cocoa butter crystallization in chocolate tempering processes, including three-zone temperature sequencing, Form V polymorph stabilization, and cooling system requirements for tempering machines."
 weight: 1
 ---

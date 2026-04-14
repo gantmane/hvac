@@ -1,5 +1,6 @@
 ---
 title: "Advanced Renewable Energy Integration in HVAC Systems"
+aliases: ["Advanced Renewable Energy Integration in HVAC Systems"]
 description: "Advanced methods for integrating solar, wind, geothermal, and biomass energy into HVAC systems with thermal storage, grid interaction, and optimization strategies."
 date: 2025-01-05
 weight: 9

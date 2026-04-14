@@ -1,7 +1,9 @@
 ---
 title: "No. 4 Heating Oil: Commercial Residual Fuel Oil"
+aliases: ["No. 4 Heating Oil: Commercial Residual Fuel Oil"]
 description: "No. 4 heating oil is a light residual fuel blend used in commercial and industrial applications. Requires preheating for proper atomization and combustion efficiency."
 keywords: ["no 4 heating oil", "residual fuel oil", "commercial heating oil", "preheating requirements", "ASTM D396", "heavy fuel oil", "industrial heating fuel", "fuel oil viscosity"]
+tags: ["no 4 heating oil", "residual fuel oil", "commercial heating oil", "preheating requirements", "ASTM D396", "heavy fuel oil", "industrial heating fuel", "fuel oil viscosity"]
 weight: 2
 ---
 

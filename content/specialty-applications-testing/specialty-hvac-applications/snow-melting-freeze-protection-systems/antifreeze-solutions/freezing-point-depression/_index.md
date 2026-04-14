@@ -1,7 +1,9 @@
 ---
 title: "Freezing Point Depression in HVAC Antifreeze Solutions"
+aliases: ["Freezing Point Depression in HVAC Antifreeze Solutions"]
 description: "Technical analysis of colligative properties governing freeze protection in glycol systems, including concentration calculations and eutectic point considerations."
 keywords: ["freezing point depression", "glycol concentration", "eutectic point", "colligative properties", "antifreeze solutions", "freeze protection", "propylene glycol", "ethylene glycol"]
+tags: ["freezing point depression", "glycol concentration", "eutectic point", "colligative properties", "antifreeze solutions", "freeze protection", "propylene glycol", "ethylene glycol"]
 weight: 3
 ---
 

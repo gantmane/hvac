@@ -1,7 +1,9 @@
 ---
 title: "Stack Effect Ventilation"
+aliases: ["Stack Effect Ventilation"]
 description: "Physics-based guide to stack effect ventilation including buoyancy-driven airflow calculations, neutral pressure plane analysis, thermal chimney design, and atrium ventilation strategies for natural ventilation systems."
 keywords: ["stack effect", "buoyancy ventilation", "thermal chimney", "natural ventilation", "neutral pressure plane", "atrium ventilation", "stack pressure", "chimney effect"]
+tags: ["stack effect", "buoyancy ventilation", "thermal chimney", "natural ventilation", "neutral pressure plane", "atrium ventilation", "stack pressure", "chimney effect"]
 weight: 2
 draft: false
 ---

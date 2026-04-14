@@ -1,7 +1,9 @@
 ---
 title: "HVAC Redundancy Systems for Museum Climate Control"
+aliases: ["HVAC Redundancy Systems for Museum Climate Control"]
 description: "Engineering principles for redundant HVAC systems protecting museum collections, including N+1 configurations, backup components, and failover strategies."
 keywords: ["HVAC redundancy", "museum climate control", "N+1 systems", "backup equipment", "emergency power", "failover control", "collection protection", "reliability engineering"]
+tags: ["HVAC redundancy", "museum climate control", "N+1 systems", "backup equipment", "emergency power", "failover control", "collection protection", "reliability engineering"]
 date: 2025-01-11
 weight: 2
 draft: false

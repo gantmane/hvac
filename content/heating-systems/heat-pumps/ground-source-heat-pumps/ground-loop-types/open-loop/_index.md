@@ -1,7 +1,9 @@
 ---
 title: "Open-Loop Ground Source Heat Pump Systems"
+aliases: ["Open-Loop Ground Source Heat Pump Systems"]
 description: "Technical analysis of open-loop GSHP systems including well water configurations, standing column wells, water quality requirements, and disposal methods with physics-based design criteria."
 keywords: ["open loop heat pump", "well water heat pump", "standing column well", "groundwater heat pump", "water quality GSHP", "injection well", "aquifer thermal energy", "groundwater disposal"]
+tags: ["open loop heat pump", "well water heat pump", "standing column well", "groundwater heat pump", "water quality GSHP", "injection well", "aquifer thermal energy", "groundwater disposal"]
 weight: 4
 ---
 

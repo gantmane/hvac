@@ -1,5 +1,6 @@
 ---
 title: "Kale and Collards Refrigeration"
+aliases: ["Kale and Collards Refrigeration"]
 description: "Comprehensive technical guide to refrigeration systems for kale and collard greens processing and storage, including precooling methods, respiration heat loads, humidity control, and quality preservation strategies for HVAC professionals."
 weight: 4
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Tankers & Bulk Carriers HVAC Systems"
+aliases: ["Tankers & Bulk Carriers HVAC Systems"]
 seo_title: "Tanker & Bulk Carrier HVAC: Pump Room Ventilation"
 description: "HVAC systems for oil tankers and bulk carriers covering pump room ventilation, cargo vapor control, accommodation conditioning, and SOLAS compliance requirements."
 keywords:

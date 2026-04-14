@@ -1,5 +1,6 @@
 ---
 title: "Slicing and Dicing Operations"
+aliases: ["Slicing and Dicing Operations"]
 description: "HVAC requirements for fresh-cut apple processing including temperature control, humidity management, browning prevention, air quality standards, equipment heat loads, and cold chain maintenance for slicing and dicing operations"
 weight: 4
 ---

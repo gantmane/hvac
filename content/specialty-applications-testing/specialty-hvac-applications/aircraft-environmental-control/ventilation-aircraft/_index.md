@@ -1,7 +1,9 @@
 ---
 title: "Aircraft Cabin Ventilation Systems"
+aliases: ["Aircraft Cabin Ventilation Systems"]
 description: "Technical analysis of aircraft cabin ventilation including FAR 25.831 requirements, air exchange rates, HEPA filtration systems, gasper outlets, air distribution patterns, and recirculation strategies for commercial aviation."
 keywords: ["aircraft ventilation", "cabin air quality", "FAR 25.831", "HEPA filtration", "gasper outlets", "aircraft air exchange", "cabin air distribution", "recirculation systems", "aviation HVAC", "aircraft environmental control"]
+tags: ["aircraft ventilation", "cabin air quality", "FAR 25.831", "HEPA filtration", "gasper outlets", "aircraft air exchange", "cabin air distribution", "recirculation systems", "aviation HVAC", "aircraft environmental control"]
 weight: 4
 ---
 

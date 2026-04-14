@@ -1,9 +1,11 @@
 ---
 title: "Professional Development Hours: PDH, CEU & LU Guide"
+aliases: ["Professional Development Hours: PDH, CEU & LU Guide"]
 description: "Complete guide to PDH, CEU, and LU requirements for HVAC professionals. State licensing board requirements, PE renewal, LEED credential maintenance, and compliance."
 date: 2025-01-05
 weight: 1
 keywords: ["professional development hours", "PDH requirements", "continuing education units", "CEU requirements", "learning units", "PE license renewal", "LEED AP maintenance", "state licensing boards"]
+tags: ["professional development hours", "PDH requirements", "continuing education units", "CEU requirements", "learning units", "PE license renewal", "LEED AP maintenance", "state licensing boards"]
 ---
 
 # Professional Development Hours for HVAC Professionals

@@ -1,7 +1,9 @@
 ---
 title: "HVAC Design for Emergency Dispatch Centers"
+aliases: ["HVAC Design for Emergency Dispatch Centers"]
 description: "Critical HVAC system design for 24/7 dispatch operations including redundant cooling, equipment heat load management, UPS room climate control, and acoustic design."
 keywords: ["dispatch center HVAC", "mission critical cooling", "redundant HVAC design", "UPS room cooling", "emergency communications", "24/7 operations", "acoustic HVAC design", "critical infrastructure"]
+tags: ["dispatch center HVAC", "mission critical cooling", "redundant HVAC design", "UPS room cooling", "emergency communications", "24/7 operations", "acoustic HVAC design", "critical infrastructure"]
 weight: 1
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Commercial Refrigeration"
+aliases: ["Commercial Refrigeration"]
 weight: 1
 description: "Comprehensive guide to commercial refrigeration systems including supermarket multiplex systems, distributed refrigeration, secondary loop configurations, display cases, walk-in units, reach-in refrigerators, DOE energy regulations, and heat reclaim applications."
 keywords: ["commercial refrigeration", "supermarket refrigeration", "multiplex systems", "distributed refrigeration", "secondary loop systems", "display cases", "walk-in coolers", "reach-in units", "DOE energy codes", "heat reclaim", "refrigerant management", "open display cases", "closed display cases"]
+tags: ["commercial refrigeration", "supermarket refrigeration", "multiplex systems", "distributed refrigeration", "secondary loop systems", "display cases", "walk-in coolers", "reach-in units", "DOE energy codes", "heat reclaim"]
 ---
 
 Commercial refrigeration encompasses a broad range of equipment and system architectures designed to preserve perishable goods in retail, foodservice, and institutional settings. Unlike residential or industrial refrigeration, commercial systems prioritize product visibility, accessibility, and operational flexibility while maintaining precise temperature control across multiple zones.

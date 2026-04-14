@@ -2,6 +2,7 @@
 title: "Energy Recovery Systems for HVAC Engineers"
 description: "Sensible and enthalpy wheels, effectiveness analysis, frost control strategies, and energy savings calculations for ventilation energy recovery."
 keywords: ["energy recovery", "heat recovery", "ERV", "HRV", "enthalpy wheel", "heat wheel", "energy recovery effectiveness"]
+tags: ["energy recovery", "heat recovery", "ERV", "HRV", "enthalpy wheel", "heat wheel", "energy recovery effectiveness"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 24
@@ -142,9 +143,9 @@ $$Q_{recover} = 4.5 \times CFM \times \epsilon_t \times CDD \times 24$$
 ---
 
 **Related Technical Guides:**
-- [Ventilation Rate Calculations](/technical-guides/ventilation-rate-calculations/)
-- [Psychrometric Processes](/technical-guides/psychrometric-processes/)
-- [Heat Transfer Fundamentals](/technical-guides/heat-transfer-fundamentals/)
+- Ventilation Rate Calculations
+- Psychrometric Processes
+- Heat Transfer Fundamentals
 
 **References:**
 - ASHRAE Handbook of HVAC Systems and Equipment, Chapter 26: Air-to-Air Energy Recovery Equipment

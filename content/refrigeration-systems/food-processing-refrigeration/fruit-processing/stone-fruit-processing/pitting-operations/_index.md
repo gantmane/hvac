@@ -1,5 +1,6 @@
 ---
 title: "Pitting Operations"
+aliases: ["Pitting Operations"]
 description: "HVAC systems for stone fruit pitting operations including temperature control for mechanical pitting equipment, humidity management, heat load calculations, and sanitation requirements for cherry, peach, and apricot processing facilities."
 weight: 4
 ---

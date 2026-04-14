@@ -1,5 +1,6 @@
 ---
 title: "Impermeable Exterior Finishes Issues"
+aliases: ["Impermeable Exterior Finishes Issues"]
 description: "Engineering analysis of moisture problems caused by impermeable exterior finishes in hot-humid climates, including vapor diffusion blocking, moisture accumulation mechanisms, and assembly failure modes"
 weight: 3
 ---

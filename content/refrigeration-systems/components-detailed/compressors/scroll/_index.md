@@ -1,8 +1,10 @@
 ---
 title: "Scroll Compressors"
+aliases: ["Scroll Compressors"]
 weight: 2
 description: "Comprehensive technical guide to scroll compressor geometry, operation principles, capacity modulation methods, efficiency characteristics, and applications in HVAC systems"
 keywords: ["scroll compressor", "orbiting scroll", "fixed scroll", "involute geometry", "digital scroll", "variable speed compressor", "hermetic compressor", "HVAC efficiency"]
+tags: ["scroll compressor", "orbiting scroll", "fixed scroll", "involute geometry", "digital scroll", "variable speed compressor", "hermetic compressor", "HVAC efficiency"]
 ---
 
 ## Scroll Compressor Operating Principles

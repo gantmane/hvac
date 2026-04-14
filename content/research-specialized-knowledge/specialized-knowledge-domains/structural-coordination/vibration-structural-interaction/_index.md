@@ -1,5 +1,6 @@
 ---
 title: "Vibration Structural Interaction"
+aliases: ["Vibration Structural Interaction"]
 description: "Resonance frequency avoidance, structural damping characteristics, equipment isolation design, floor deflection limits, and structural amplification factors"
 weight: 3
 ---

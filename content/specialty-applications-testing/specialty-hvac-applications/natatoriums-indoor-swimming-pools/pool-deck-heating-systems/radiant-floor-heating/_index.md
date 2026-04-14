@@ -1,7 +1,9 @@
 ---
 title: "Radiant Floor Heating for Pool Decks"
+aliases: ["Radiant Floor Heating for Pool Decks"]
 description: "Engineering guidance on hydronic radiant floor heating systems for natatorium pool decks, covering tube spacing, water temperatures, thermal comfort, and slab design."
 keywords: ["radiant floor heating", "pool deck heating", "hydronic radiant", "PEX tubing", "natatorium floor", "thermal comfort", "slab heating", "swimming pool HVAC"]
+tags: ["radiant floor heating", "pool deck heating", "hydronic radiant", "PEX tubing", "natatorium floor", "thermal comfort", "slab heating", "swimming pool HVAC"]
 weight: 1
 ---
 

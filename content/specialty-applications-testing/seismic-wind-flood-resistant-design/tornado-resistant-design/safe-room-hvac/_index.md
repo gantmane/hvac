@@ -1,7 +1,9 @@
 ---
 title: "Safe Room HVAC Requirements"
+aliases: ["Safe Room HVAC Requirements"]
 description: "Engineering ventilation systems for tornado safe rooms per FEMA P-361 and ICC 500 standards, including occupant loading calculations, air supply requirements, and debris-resistant intake design."
 keywords: ["safe room HVAC", "FEMA P-361", "ICC 500", "storm shelter ventilation", "occupant loading", "debris-resistant intakes", "emergency ventilation", "safe room air supply"]
+tags: ["safe room HVAC", "FEMA P-361", "ICC 500", "storm shelter ventilation", "occupant loading", "debris-resistant intakes", "emergency ventilation", "safe room air supply"]
 date: 2026-01-05
 draft: false
 weight: 2

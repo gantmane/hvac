@@ -1,5 +1,6 @@
 ---
 title: "RSES Refrigeration Service Engineers Certification"
+aliases: ["RSES Refrigeration Service Engineers Certification"]
 description: "Comprehensive guide to RSES certifications covering refrigeration fundamentals, system design, troubleshooting, and professional development for HVAC technicians."
 date: 2025-01-05
 draft: false

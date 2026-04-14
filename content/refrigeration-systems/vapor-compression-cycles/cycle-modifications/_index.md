@@ -1,5 +1,6 @@
 ---
 title: "Cycle Modifications"
+aliases: ["Cycle Modifications"]
 weight: 2
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Metabolic Heat Gain in HVAC Design"
+aliases: ["Metabolic Heat Gain in HVAC Design"]
 weight: 2
 description: "Comprehensive analysis of metabolic heat generation rates, sensible and latent heat components, and activity-based load calculations for high-occupancy HVAC system design."
 keywords: ["metabolic heat gain", "occupant load calculation", "sensible latent heat ratio", "ASHRAE metabolic rates", "assembly space cooling", "occupancy density loads", "activity level heat generation"]
+tags: ["metabolic heat gain", "occupant load calculation", "sensible latent heat ratio", "ASHRAE metabolic rates", "assembly space cooling", "occupancy density loads", "activity level heat generation"]
 ---
 
 ## Overview

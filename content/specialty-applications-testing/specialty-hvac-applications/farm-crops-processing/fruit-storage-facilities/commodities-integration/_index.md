@@ -1,7 +1,9 @@
 ---
 title: "Fruit Storage Commodities Integration"
+aliases: ["Fruit Storage Commodities Integration"]
 description: "Physics-based analysis of mixed commodity storage compatibility, ethylene sensitivity calculations, and thermal-atmospheric compatibility zones for fruit storage facilities."
 keywords: ["commodity compatibility", "ethylene sensitivity", "mixed fruit storage", "storage compatibility zones", "fruit ethylene production", "commodity segregation", "controlled atmosphere storage"]
+tags: ["commodity compatibility", "ethylene sensitivity", "mixed fruit storage", "storage compatibility zones", "fruit ethylene production", "commodity segregation", "controlled atmosphere storage"]
 weight: 3
 ---
 

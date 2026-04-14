@@ -1,7 +1,9 @@
 ---
 title: "HVAC Systems for Rare Book Libraries and Collections"
+aliases: ["HVAC Systems for Rare Book Libraries and Collections"]
 description: "Environmental control systems for rare book preservation including temperature, humidity control, vault storage, and reading room design with disaster preparedness."
 keywords: ["rare book libraries", "archival storage HVAC", "humidity control", "vault environmental control", "paper preservation", "special collections HVAC", "library environmental systems", "manuscript preservation"]
+tags: ["rare book libraries", "archival storage HVAC", "humidity control", "vault environmental control", "paper preservation", "special collections HVAC", "library environmental systems", "manuscript preservation"]
 weight: 4
 ---
 

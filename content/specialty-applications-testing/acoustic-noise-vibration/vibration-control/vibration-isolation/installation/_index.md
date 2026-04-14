@@ -1,5 +1,6 @@
 ---
 title: "Installation"
+aliases: ["Installation"]
 weight: 3
 ---
 

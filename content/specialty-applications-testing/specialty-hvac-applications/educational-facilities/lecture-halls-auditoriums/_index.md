@@ -1,5 +1,6 @@
 ---
 title: "Lecture Hall and Auditorium HVAC Systems"
+aliases: ["Lecture Hall and Auditorium HVAC Systems"]
 linkTitle: "Lecture Halls Auditoriums"
 description: "Technical analysis of HVAC design for lecture halls and auditoriums addressing high occupancy loads, tiered seating ventilation, acoustic constraints, displacement ventilation strategies, and rapid occupancy change management per ASHRAE standards."
 keywords:

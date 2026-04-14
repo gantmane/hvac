@@ -1,5 +1,6 @@
 ---
 title: "Sizing Methods"
+aliases: ["Sizing Methods"]
 weight: 2
 ---
 

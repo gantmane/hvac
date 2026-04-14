@@ -1,5 +1,6 @@
 ---
 title: "Egg Storage"
+aliases: ["Egg Storage"]
 description: "Technical requirements for shell egg refrigerated storage including temperature control, humidity management, CO2 atmosphere effects, and quality preservation in commercial egg storage facilities."
 weight: 1
 ---

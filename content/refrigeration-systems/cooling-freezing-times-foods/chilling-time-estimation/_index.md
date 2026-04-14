@@ -1,5 +1,6 @@
 ---
 title: "Chilling Time Estimation"
+aliases: ["Chilling Time Estimation"]
 weight: 4
 ---
 

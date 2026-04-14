@@ -1,7 +1,9 @@
 ---
 title: "HVAC Equipment Efficiency Standards"
+aliases: ["HVAC Equipment Efficiency Standards"]
 description: "Federal and regional HVAC equipment efficiency standards, minimum requirements, DOE regulations, NAECA mandates, and upcoming efficiency standard changes."
 keywords: ["HVAC efficiency standards", "DOE equipment standards", "NAECA", "minimum SEER", "regional efficiency", "EPACT", "HVAC regulations", "efficiency requirements"]
+tags: ["HVAC efficiency standards", "DOE equipment standards", "NAECA", "minimum SEER", "regional efficiency", "EPACT", "HVAC regulations", "efficiency requirements"]
 weight: 1
 ---
 

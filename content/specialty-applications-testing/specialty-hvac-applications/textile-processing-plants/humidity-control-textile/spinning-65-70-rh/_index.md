@@ -1,8 +1,10 @@
 ---
 title: "Spinning Humidity Control 65-70% RH"
+aliases: ["Spinning Humidity Control 65-70% RH"]
 weight: 1
 description: "Technical requirements for maintaining 65-70% relative humidity in textile spinning operations including fiber regain calculations, static control methods, and fiber-specific moisture management."
 keywords: ["spinning humidity control", "textile spinning RH", "fiber regain calculation", "static control spinning", "textile moisture content", "spinning room HVAC", "fiber strength humidity", "yarn spinning conditions"]
+tags: ["spinning humidity control", "textile spinning RH", "fiber regain calculation", "static control spinning", "textile moisture content", "spinning room HVAC", "fiber strength humidity", "yarn spinning conditions"]
 ---
 
 ## Optimal Humidity Range for Spinning Operations

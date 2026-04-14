@@ -1,7 +1,9 @@
 ---
 title: "Swing Return DHW Recirculation Systems"
+aliases: ["Swing Return DHW Recirculation Systems"]
 description: "Technical analysis of swing return recirculation systems using cold water lines as return paths, including flow dynamics, check valve requirements, and code compliance."
 keywords: ["swing return recirculation", "DHW recirculation", "cold water return path", "thermostatic recirculation valve", "domestic hot water distribution", "plumbing recirculation", "comfort valve", "swing return piping"]
+tags: ["swing return recirculation", "DHW recirculation", "cold water return path", "thermostatic recirculation valve", "domestic hot water distribution", "plumbing recirculation", "comfort valve", "swing return piping"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "HRSG Building Ventilation & Heat Management"
+aliases: ["HRSG Building Ventilation & Heat Management"]
 description: "Engineering principles for heat recovery steam generator enclosure HVAC including heat load calculations, radiant heat control, steam leak ventilation, and multilevel pressure design."
 keywords:
   - HRSG ventilation systems

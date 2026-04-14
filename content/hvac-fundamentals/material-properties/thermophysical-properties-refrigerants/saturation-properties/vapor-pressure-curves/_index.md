@@ -1,5 +1,6 @@
 ---
 title: "Vapor Pressure Curves"
+aliases: ["Vapor Pressure Curves"]
 weight: 1
 ---
 

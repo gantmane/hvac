@@ -1,5 +1,6 @@
 ---
 title: "Building Envelope Moisture Control"
+aliases: ["Building Envelope Moisture Control"]
 weight: 7
 description: "Comprehensive building envelope moisture analysis covering vapor diffusion, air leakage, capillary action, condensation analysis, climate-specific assemblies, and mold growth prediction based on building science principles and hygrothermal physics."
 ---

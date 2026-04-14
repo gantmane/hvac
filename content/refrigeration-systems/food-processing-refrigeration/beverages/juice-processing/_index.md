@@ -1,5 +1,6 @@
 ---
 title: "Juice Processing"
+aliases: ["Juice Processing"]
 weight: 4
 ---
 

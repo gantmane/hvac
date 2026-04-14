@@ -1,5 +1,6 @@
 ---
 title: "Empirical Equipment Models for HVAC Systems"
+aliases: ["Empirical Equipment Models for HVAC Systems"]
 description: "Regression-based empirical models for chiller, boiler, and heat pump performance using polynomial curves, performance maps, and manufacturer data fitting."
 date: 2025-01-05
 tags: ["computational methods", "equipment modeling", "performance curves", "regression analysis", "chiller models", "empirical correlations"]

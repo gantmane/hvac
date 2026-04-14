@@ -1,7 +1,9 @@
 ---
 title: "Hospital HVAC Systems Design & Engineering"
+aliases: ["Hospital HVAC Systems Design & Engineering"]
 description: "Engineering analysis of hospital HVAC systems including pressure relationships, air change requirements, filtration standards, infection control strategies, and critical environment design per ASHRAE 170 and FGI Guidelines."
 keywords: "hospital HVAC design, ASHRAE 170, healthcare ventilation, operating room HVAC, isolation room pressure, hospital air changes, HEPA filtration healthcare, infection control ventilation, FGI Guidelines HVAC, patient room ventilation"
+tags: ["hospital HVAC design", "ASHRAE 170", "healthcare ventilation", "operating room HVAC", "isolation room pressure", "hospital air changes", "HEPA filtration healthcare", "infection control ventilation", "FGI Guidelines HVAC", "patient room ventilation"]
 weight: 1
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "HVAC Manufacturer Certifications and Training Programs"
+aliases: ["HVAC Manufacturer Certifications and Training Programs"]
 description: "Comprehensive guide to manufacturer-specific HVAC certifications, factory training programs, warranty authorization, diagnostic tools, and performance requirements for contractors."
 keywords: ["manufacturer certification", "factory training", "HVAC dealer certification", "warranty authorization", "equipment training", "diagnostic tools", "contractor certification", "factory authorized service", "manufacturer support"]
+tags: ["manufacturer certification", "factory training", "HVAC dealer certification", "warranty authorization", "equipment training", "diagnostic tools", "contractor certification", "factory authorized service", "manufacturer support"]
 date: 2026-01-05
 weight: 3
 seo_title: "HVAC Manufacturer Certifications - Dealer Training Guide"

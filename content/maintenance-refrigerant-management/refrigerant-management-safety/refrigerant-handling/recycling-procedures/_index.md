@@ -1,7 +1,9 @@
 ---
 title: "Refrigerant Recycling Procedures and Standards"
+aliases: ["Refrigerant Recycling Procedures and Standards"]
 description: "Technical guide to on-site refrigerant recycling equipment, ARI 740 standards, oil separation, moisture removal, and acid removal processes for HVAC systems."
 keywords: ["refrigerant recycling", "ARI 740 standard", "oil separation", "moisture removal", "acid removal", "recycling equipment", "purity standards", "on-site recycling"]
+tags: ["refrigerant recycling", "ARI 740 standard", "oil separation", "moisture removal", "acid removal", "recycling equipment", "purity standards", "on-site recycling"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Safety Management"
+aliases: ["Safety Management"]
 weight: 9
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Barn Drying Systems for Hay Storage and Preservation"
+aliases: ["Barn Drying Systems for Hay Storage and Preservation"]
 description: "Engineering principles for forced air barn hay drying including duct configurations, fan selection, heated versus unheated air options, and energy optimization."
 keywords: ["barn hay drying", "forced air drying", "slatted floor drying", "hay preservation", "agricultural ventilation", "drying front monitoring", "hay curing systems", "farm HVAC"]
+tags: ["barn hay drying", "forced air drying", "slatted floor drying", "hay preservation", "agricultural ventilation", "drying front monitoring", "hay curing systems", "farm HVAC"]
 date: 2025-01-11
 draft: false
 weight: 2

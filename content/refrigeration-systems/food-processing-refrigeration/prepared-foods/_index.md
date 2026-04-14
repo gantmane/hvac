@@ -1,5 +1,6 @@
 ---
 title: "Prepared Foods"
+aliases: ["Prepared Foods"]
 weight: 10
 ---
 

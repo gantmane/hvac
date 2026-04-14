@@ -1,7 +1,9 @@
 ---
 title: "HVAC Duct Materials: Selection and Applications"
+aliases: ["HVAC Duct Materials: Selection and Applications"]
 description: "Comprehensive guide to duct materials including galvanized steel, aluminum, stainless steel, fiberglass, and fabric ducts. Compare properties, applications, and SMACNA standards."
 keywords: ["duct materials", "galvanized steel ductwork", "fiberglass duct board", "fabric ductwork", "SMACNA standards", "duct material selection", "aluminum ductwork", "stainless steel ducts"]
+tags: ["duct materials", "galvanized steel ductwork", "fiberglass duct board", "fabric ductwork", "SMACNA standards", "duct material selection", "aluminum ductwork", "stainless steel ducts"]
 weight: 3
 ---
 

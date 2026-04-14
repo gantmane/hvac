@@ -1,7 +1,9 @@
 ---
 title: "Ring Spinning HVAC: Humidity & Temperature Control"
+aliases: ["Ring Spinning HVAC: Humidity & Temperature Control"]
 description: "Critical HVAC design for ring spinning processes requiring 65-70% RH and precise temperature control to prevent fiber breakage and maintain yarn quality."
 keywords: ["ring spinning HVAC", "textile humidity control", "yarn quality environment", "spinning room conditions", "fiber moisture control", "textile HVAC design", "spinning process climate"]
+tags: ["ring spinning HVAC", "textile humidity control", "yarn quality environment", "spinning room conditions", "fiber moisture control", "textile HVAC design", "spinning process climate"]
 weight: 1
 ---
 

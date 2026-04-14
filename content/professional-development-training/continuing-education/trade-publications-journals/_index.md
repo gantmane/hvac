@@ -1,9 +1,11 @@
 ---
 title: "HVAC Trade Publications & Technical Journals"
+aliases: ["HVAC Trade Publications & Technical Journals"]
 description: "Comprehensive guide to HVAC industry publications including ASHRAE Journal, HPAC Engineering, peer-reviewed research journals, and trade magazines for continuing education."
 date: 2025-01-05
 weight: 7
 keywords: ["HVAC trade publications", "ASHRAE Journal", "HPAC Engineering", "HVAC technical journals", "peer-reviewed HVAC research", "industry magazines", "continuing education reading", "HVAC news sources"]
+tags: ["HVAC trade publications", "ASHRAE Journal", "HPAC Engineering", "HVAC technical journals", "peer-reviewed HVAC research", "industry magazines", "continuing education reading", "HVAC news sources"]
 ---
 
 # Trade Publications and Technical Journals

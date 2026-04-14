@@ -1,7 +1,9 @@
 ---
 title: "Cleanroom Filtration Systems and Filter Requirements"
+aliases: ["Cleanroom Filtration Systems and Filter Requirements"]
 description: "HEPA and ULPA filtration systems for cleanrooms including filter ceiling configurations, fan filter units, pre-filtration strategies, and leak testing procedures."
 keywords: ["HEPA filtration", "ULPA filters", "cleanroom filtration", "fan filter units", "filter leak testing", "cleanroom air quality", "filter efficiency", "pre-filtration"]
+tags: ["HEPA filtration", "ULPA filters", "cleanroom filtration", "fan filter units", "filter leak testing", "cleanroom air quality", "filter efficiency", "pre-filtration"]
 weight: 3
 ---
 

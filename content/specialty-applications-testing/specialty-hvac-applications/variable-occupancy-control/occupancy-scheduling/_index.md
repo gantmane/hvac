@@ -1,8 +1,10 @@
 ---
 title: "Occupancy Scheduling for HVAC Systems"
+aliases: ["Occupancy Scheduling for HVAC Systems"]
 weight: 1
 description: "Comprehensive guide to time-based HVAC occupancy scheduling, BMS integration, pre-conditioning strategies, and setback optimization for energy-efficient building climate control."
 keywords: ["occupancy scheduling", "HVAC setback", "pre-conditioning", "BMS scheduling", "building automation", "energy optimization", "time-based control", "occupancy patterns"]
+tags: ["occupancy scheduling", "HVAC setback", "pre-conditioning", "BMS scheduling", "building automation", "energy optimization", "time-based control", "occupancy patterns"]
 ---
 
 # Occupancy Scheduling for HVAC Systems

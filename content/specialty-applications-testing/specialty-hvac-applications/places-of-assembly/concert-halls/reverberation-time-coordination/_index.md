@@ -1,7 +1,9 @@
 ---
 title: "HVAC Reverberation Time Coordination in Concert Halls"
+aliases: ["HVAC Reverberation Time Coordination in Concert Halls"]
 description: "Technical coordination of HVAC elements with room acoustics including diffuser design, surface absorption, flutter echo prevention, and variable acoustic strategies."
 keywords: ["reverberation time", "acoustic coordination", "HVAC diffuser design", "sound absorption", "concert hall acoustics", "acoustic transparency", "flutter echoes", "variable acoustics"]
+tags: ["reverberation time", "acoustic coordination", "HVAC diffuser design", "sound absorption", "concert hall acoustics", "acoustic transparency", "flutter echoes", "variable acoustics"]
 weight: 5
 ---
 

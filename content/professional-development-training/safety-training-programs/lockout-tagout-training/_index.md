@@ -1,9 +1,11 @@
 ---
 title: "Lockout-Tagout Training for HVAC Systems"
+aliases: ["Lockout-Tagout Training for HVAC Systems"]
 description: "Master LOTO procedures for HVAC equipment isolation. Physics-based energy control protocols, verification methods, and compliance with OSHA 1910.147 standards."
 date: 2025-01-05
 draft: false
 keywords: ["lockout tagout", "LOTO training", "HVAC safety", "energy isolation", "OSHA 1910.147", "zero energy state", "equipment isolation", "electrical lockout", "mechanical energy control", "stored energy hazards"]
+tags: ["lockout tagout", "LOTO training", "HVAC safety", "energy isolation", "OSHA 1910.147", "zero energy state", "equipment isolation", "electrical lockout", "mechanical energy control", "stored energy hazards"]
 ---
 
 ## Fundamentals of Lockout-Tagout

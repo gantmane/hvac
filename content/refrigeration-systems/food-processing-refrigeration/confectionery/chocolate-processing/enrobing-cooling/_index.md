@@ -1,5 +1,6 @@
 ---
 title: "Enrobing Cooling"
+aliases: ["Enrobing Cooling"]
 description: "Enrobing cooling tunnel design for chocolate solidification including zone temperature control, air velocity profiles, humidity management, and bloom prevention strategies for confectionery production"
 weight: 2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "E Coli"
+aliases: ["E Coli"]
 weight: 3
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Structural Considerations for HVAC Acoustic Control"
+aliases: ["Structural Considerations for HVAC Acoustic Control"]
 description: "Engineering guidance on structure-borne sound transmission, floor-ceiling assemblies, wall construction, mechanical room isolation, and floating floor design for HVAC systems."
 date: 2026-01-05
 weight: 6

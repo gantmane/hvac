@@ -1,5 +1,6 @@
 ---
 title: "Commercial Humidor HVAC Systems"
+aliases: ["Commercial Humidor HVAC Systems"]
 linkTitle: "Humidors Tobacco"
 description: "Technical analysis of commercial humidor climate control systems for cigar storage including precise humidity control at 65-75% RH, temperature stability at 68-72°F, walk-in humidor design, and specialized HVAC equipment for tobacco preservation."
 keywords:

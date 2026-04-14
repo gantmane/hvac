@@ -1,7 +1,9 @@
 ---
 title: "NC 20 Noise Criteria for Concert Halls"
+aliases: ["NC 20 Noise Criteria for Concert Halls"]
 description: "Achieve NC 20 background noise in concert halls through low-velocity air systems, duct silencer design, equipment isolation, and comprehensive sound path analysis."
 keywords: ["NC 20", "concert hall HVAC", "background noise", "duct silencer", "low velocity air systems", "sound attenuation", "acoustic design", "noise criteria"]
+tags: ["NC 20", "concert hall HVAC", "background noise", "duct silencer", "low velocity air systems", "sound attenuation", "acoustic design", "noise criteria"]
 weight: 4
 ---
 

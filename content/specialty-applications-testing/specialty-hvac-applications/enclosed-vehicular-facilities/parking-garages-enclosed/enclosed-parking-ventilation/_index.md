@@ -1,9 +1,11 @@
 ---
 title: "Enclosed Parking Ventilation Design"
+aliases: ["Enclosed Parking Ventilation Design"]
 date: 2026-01-11
 draft: false
 description: "Comprehensive guide to enclosed parking garage ventilation systems, covering CO monitoring, demand control strategies, exhaust requirements, and makeup air design per IMC and ASHRAE 62.1."
 keywords: ["parking garage ventilation", "CO monitoring", "demand control ventilation", "exhaust systems", "makeup air", "vehicular emissions", "IMC requirements", "ASHRAE 62.1"]
+tags: ["parking garage ventilation", "CO monitoring", "demand control ventilation", "exhaust systems", "makeup air", "vehicular emissions", "IMC requirements", "ASHRAE 62.1"]
 ---
 
 ## Overview

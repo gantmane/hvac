@@ -1,5 +1,6 @@
 ---
 title: "Relative Humidity 65-75% Control for Tobacco Storage"
+aliases: ["Relative Humidity 65-75% Control for Tobacco Storage"]
 linkTitle: "RH 65-75 Percent"
 description: "Technical analysis of 65-75% RH control for tobacco preservation including moisture equilibrium physics, sorption isotherms, bidirectional humidity systems, and quality impact analysis."
 keywords:

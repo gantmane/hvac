@@ -1,5 +1,6 @@
 ---
 title: "Virus Capture Systems"
+aliases: ["Virus Capture Systems"]
 weight: 1
 ---
 

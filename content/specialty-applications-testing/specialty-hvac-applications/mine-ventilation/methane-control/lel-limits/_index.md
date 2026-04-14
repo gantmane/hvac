@@ -1,7 +1,9 @@
 ---
 title: "Methane LEL Limits in Underground Coal Mines"
+aliases: ["Methane LEL Limits in Underground Coal Mines"]
 description: "Technical analysis of methane lower explosive limits, MSHA regulatory thresholds, automatic power cutoff systems, and monitoring protocols for coal mine safety."
 keywords: ["methane LEL", "lower explosive limit", "MSHA 30 CFR 75", "mine methane monitoring", "explosion prevention", "gas detection systems", "coal mine safety", "power cutoff requirements"]
+tags: ["methane LEL", "lower explosive limit", "MSHA 30 CFR 75", "mine methane monitoring", "explosion prevention", "gas detection systems", "coal mine safety", "power cutoff requirements"]
 weight: 1
 ---
 

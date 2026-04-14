@@ -1,7 +1,9 @@
 ---
 title: "Pre-Event Humidity Control for Variable Occupancy Spaces"
+aliases: ["Pre-Event Humidity Control for Variable Occupancy Spaces"]
 description: "Technical analysis of pre-event dehumidification strategies, moisture removal capacity calculations, and condensation prevention in variable occupancy venues."
 keywords: ["pre-event dehumidification", "humidity control", "moisture removal", "condensation prevention", "latent load", "dew point control", "pre-conditioning", "venue humidity"]
+tags: ["pre-event dehumidification", "humidity control", "moisture removal", "condensation prevention", "latent load", "dew point control", "pre-conditioning", "venue humidity"]
 weight: 3
 ---
 

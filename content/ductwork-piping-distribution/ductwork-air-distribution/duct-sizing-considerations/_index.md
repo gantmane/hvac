@@ -1,5 +1,6 @@
 ---
 title: "Duct Sizing Considerations"
+aliases: ["Duct Sizing Considerations"]
 description: "Duct sizing criteria including aspect ratio limits, equivalent diameter calculations, velocity limitations, noise generation considerations, and cross-sectional area optimization for HVAC systems."
 weight: 6
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Quality Deterioration Factors"
+aliases: ["Quality Deterioration Factors"]
 description: "Technical analysis of fish quality degradation mechanisms in cold storage including temperature abuse effects, enzymatic degradation, oxidative rancidity, microbial spoilage patterns, dehydration processes, and freezer burn prevention for commercial fishery operations"
 weight: 2
 ---

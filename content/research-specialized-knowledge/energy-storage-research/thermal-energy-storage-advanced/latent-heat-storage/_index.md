@@ -1,5 +1,6 @@
 ---
 title: "Latent Heat Storage"
+aliases: ["Latent Heat Storage"]
 weight: 2
 ---
 

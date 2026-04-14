@@ -1,5 +1,6 @@
 ---
 title: "Temperature Control in Classrooms"
+aliases: ["Temperature Control in Classrooms"]
 description: "Engineering guidance on classroom temperature control systems, thermal comfort criteria per ASHRAE 55, setpoint strategies, and environmental conditions for optimal learning."
 keywords:
   - classroom temperature control

@@ -1,7 +1,9 @@
 ---
 title: "Heat Pump Performance Metrics"
+aliases: ["Heat Pump Performance Metrics"]
 description: "Comprehensive analysis of heat pump efficiency metrics including COP, HSPF, SEER, and EER with rating conditions, calculation methods, and performance comparisons."
 keywords: ["COP", "HSPF", "SEER", "EER", "heat pump efficiency", "AHRI ratings", "seasonal performance", "energy efficiency ratio"]
+tags: ["COP", "HSPF", "SEER", "EER", "heat pump efficiency", "AHRI ratings", "seasonal performance", "energy efficiency ratio"]
 weight: 5
 ---
 

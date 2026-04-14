@@ -1,7 +1,9 @@
 ---
 title: "Efficiency Factors in Water Heater Performance"
+aliases: ["Efficiency Factors in Water Heater Performance"]
 description: "Comprehensive analysis of thermal efficiency, energy factor, uniform energy factor, standby losses, and cycling losses in domestic hot water systems per ASHRAE standards."
 keywords: ["thermal efficiency", "energy factor", "uniform energy factor", "standby losses", "cycling losses", "water heater efficiency", "combustion efficiency", "DOE test procedures"]
+tags: ["thermal efficiency", "energy factor", "uniform energy factor", "standby losses", "cycling losses", "water heater efficiency", "combustion efficiency", "DOE test procedures"]
 weight: 4
 ---
 

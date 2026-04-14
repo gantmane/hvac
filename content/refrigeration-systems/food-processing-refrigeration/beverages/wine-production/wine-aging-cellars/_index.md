@@ -1,5 +1,6 @@
 ---
 title: "Wine Aging Cellars"
+aliases: ["Wine Aging Cellars"]
 description: "HVAC design for wine aging cellars including temperature stability, humidity control, vibration considerations, and environmental parameters for barrel rooms and bottle storage areas"
 weight: 2
 ---

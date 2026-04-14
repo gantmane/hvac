@@ -1,5 +1,6 @@
 ---
 title: "Flood-Resistant HVAC Equipment Design"
+aliases: ["Flood-Resistant HVAC Equipment Design"]
 description: "Technical guide to base flood elevation requirements, waterproof enclosures, submersible equipment specifications, and flood vent integration for HVAC systems in flood-prone areas per FEMA guidelines"
 date: 2026-01-05
 keywords: ["flood resistant HVAC", "base flood elevation", "waterproof HVAC enclosures", "submersible equipment", "flood vents", "FEMA flood requirements", "HVAC flood protection", "floodplain HVAC design"]

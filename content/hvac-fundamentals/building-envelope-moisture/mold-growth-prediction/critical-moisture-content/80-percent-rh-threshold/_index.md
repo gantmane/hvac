@@ -1,5 +1,6 @@
 ---
 title: "80 Percent RH Threshold"
+aliases: ["80 Percent RH Threshold"]
 weight: 1
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Embodied Carbon in HVAC Equipment"
+aliases: ["Embodied Carbon in HVAC Equipment"]
 description: "Lifecycle assessment methodology, material selection strategies, and embodied carbon quantification for HVAC systems including equipment longevity and refrigerant impacts"
 keywords: ["embodied carbon", "lifecycle assessment", "LCA", "EPD", "environmental product declaration", "HVAC carbon footprint", "material selection", "refrigerant GWP", "equipment longevity", "carbon accounting"]
+tags: ["embodied carbon", "lifecycle assessment", "LCA", "EPD", "environmental product declaration", "HVAC carbon footprint", "material selection", "refrigerant GWP", "equipment longevity", "carbon accounting"]
 date: 2025-01-05
 weight: 1
 seo_title: "HVAC Embodied Carbon: Lifecycle Assessment & Material Selection"

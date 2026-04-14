@@ -1,5 +1,6 @@
 ---
 title: "Fruit Juice Concentration"
+aliases: ["Fruit Juice Concentration"]
 description: "Refrigeration engineering for fruit juice concentration systems including evaporator cooling design, freeze concentration processes, concentrate storage, thermal load calculations, and temperature control for multiple-effect evaporators and crystallization equipment."
 weight: 1
 ---

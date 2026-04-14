@@ -1,7 +1,9 @@
 ---
 title: "HVAC Security Considerations for Justice Facilities"
+aliases: ["HVAC Security Considerations for Justice Facilities"]
 description: "Comprehensive guide to HVAC security design for correctional facilities including tamper-resistant equipment, access control integration, and physical security measures."
 keywords: ["justice facility HVAC", "correctional HVAC security", "tamper-resistant HVAC", "detention center ventilation", "secure HVAC design", "prison mechanical systems", "HVAC access control", "hardened HVAC equipment"]
+tags: ["justice facility HVAC", "correctional HVAC security", "tamper-resistant HVAC", "detention center ventilation", "secure HVAC design", "prison mechanical systems", "HVAC access control", "hardened HVAC equipment"]
 weight: 4
 ---
 

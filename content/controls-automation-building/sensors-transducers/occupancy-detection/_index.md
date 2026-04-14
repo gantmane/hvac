@@ -1,7 +1,9 @@
 ---
 title: "Occupancy Detection Sensors for HVAC Control"
+aliases: ["Occupancy Detection Sensors for HVAC Control"]
 description: "Comprehensive guide to occupancy detection technologies including PIR, ultrasonic, and dual-tech sensors for energy-efficient HVAC and lighting control per ASHRAE 90.1."
 keywords: ["occupancy sensors", "PIR sensors", "ultrasonic sensors", "dual-technology sensors", "vacancy sensors", "people counting", "ASHRAE 90.1", "HVAC controls"]
+tags: ["occupancy sensors", "PIR sensors", "ultrasonic sensors", "dual-technology sensors", "vacancy sensors", "people counting", "ASHRAE 90.1", "HVAC controls"]
 weight: 6
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Apple Processing Refrigeration"
+aliases: ["Apple Processing Refrigeration"]
 description: "Apple processing refrigeration systems for juice production, cider fermentation, pasteurization, and cold storage. Temperature control requirements, cooling loads, and process-specific refrigeration design for commercial apple processing facilities."
 weight: 2
 ---

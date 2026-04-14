@@ -1,5 +1,6 @@
 ---
 title: "Circular Economy Principles in HVAC Systems"
+aliases: ["Circular Economy Principles in HVAC Systems"]
 description: "Comprehensive analysis of circular economy strategies for HVAC equipment including material recovery, remanufacturing, lifecycle extension, and waste reduction."
 date: 2025-01-05
 tags: ["circular economy", "sustainability", "lifecycle", "materials", "remanufacturing", "recycling", "HVAC design"]

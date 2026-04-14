@@ -1,5 +1,6 @@
 ---
 title: "Neutral Plane Location and Dynamics"
+aliases: ["Neutral Plane Location and Dynamics"]
 description: "Neutral plane determination, factors affecting location, seasonal shifts, and building tightness impact on stack effect neutral pressure plane in tall buildings."
 weight: 3
 ---

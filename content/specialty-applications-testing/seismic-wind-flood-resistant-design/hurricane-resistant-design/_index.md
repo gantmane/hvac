@@ -1,5 +1,6 @@
 ---
 title: "Hurricane Resistant HVAC Design"
+aliases: ["Hurricane Resistant HVAC Design"]
 description: "Comprehensive guide to hurricane-resistant HVAC system design including wind load calculations, equipment anchorage, rooftop unit protection, and missile impact resistance for coastal installations."
 keywords:
   - hurricane resistant HVAC

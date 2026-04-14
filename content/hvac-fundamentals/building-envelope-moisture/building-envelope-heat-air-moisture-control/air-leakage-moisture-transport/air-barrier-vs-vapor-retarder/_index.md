@@ -1,5 +1,6 @@
 ---
 title: "Air Barrier Vs Vapor Retarder"
+aliases: ["Air Barrier Vs Vapor Retarder"]
 description: "Technical comparison of air barriers and vapor retarders including performance criteria, material specifications, permeance ratings, and integration strategies for building envelope moisture control"
 weight: 3
 ---

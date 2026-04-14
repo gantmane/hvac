@@ -1,5 +1,6 @@
 ---
 title: "Air Removal"
+aliases: ["Air Removal"]
 weight: 10
 ---
 

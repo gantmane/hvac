@@ -1,5 +1,6 @@
 ---
 title: "Defrost Loads Refrigerated Space"
+aliases: ["Defrost Loads Refrigerated Space"]
 weight: 7
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "HVAC University Programs & Degrees"
+aliases: ["HVAC University Programs & Degrees"]
 description: "Guide to university HVAC programs including mechanical engineering degrees, building science programs, graduate certificates, and ABET accreditation requirements."
 keywords: ["mechanical engineering HVAC", "building science degree", "HVAC graduate programs", "ABET accreditation", "energy management masters", "HVAC certificate programs", "engineering continuing education", "university HVAC courses"]
+tags: ["mechanical engineering HVAC", "building science degree", "HVAC graduate programs", "ABET accreditation", "energy management masters", "HVAC certificate programs", "engineering continuing education", "university HVAC courses"]
 weight: 6
 ---
 

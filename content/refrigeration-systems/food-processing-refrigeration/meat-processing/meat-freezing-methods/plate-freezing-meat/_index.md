@@ -1,7 +1,9 @@
 ---
 title: "Plate Freezing Systems for Meat Processing"
+aliases: ["Plate Freezing Systems for Meat Processing"]
 description: "Technical analysis of plate freezing for meat blocks including contact pressure requirements, heat transfer calculations, freezing time optimization, and refrigerant selection."
 keywords: ["plate freezer", "contact freezing", "meat block freezing", "ground meat freezing", "hydraulic pressure", "conduction heat transfer", "freezing time calculation", "refrigerant selection"]
+tags: ["plate freezer", "contact freezing", "meat block freezing", "ground meat freezing", "hydraulic pressure", "conduction heat transfer", "freezing time calculation", "refrigerant selection"]
 weight: 3
 ---
 

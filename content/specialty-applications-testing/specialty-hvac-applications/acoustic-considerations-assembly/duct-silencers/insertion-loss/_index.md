@@ -1,7 +1,9 @@
 ---
 title: "Insertion Loss in HVAC Duct Silencers"
+aliases: ["Insertion Loss in HVAC Duct Silencers"]
 description: "Technical analysis of duct silencer insertion loss including frequency-dependent attenuation, length effects, face velocity impacts, and calculation methods per ASTM E477."
 keywords: "insertion loss, duct silencer attenuation, ASTM E477, frequency selectivity, silencer length, face velocity effects, octave band attenuation, acoustic performance"
+tags: ["insertion loss", "duct silencer attenuation", "ASTM E477", "frequency selectivity", "silencer length", "face velocity effects", "octave band attenuation", "acoustic performance"]
 weight: 1
 ---
 

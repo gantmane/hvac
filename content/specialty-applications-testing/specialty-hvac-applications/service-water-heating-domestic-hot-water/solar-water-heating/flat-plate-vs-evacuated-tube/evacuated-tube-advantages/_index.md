@@ -1,7 +1,9 @@
 ---
 title: "Evacuated Tube Advantages"
+aliases: ["Evacuated Tube Advantages"]
 description: "Vacuum insulation and heat pipe technology enable evacuated tube collectors to achieve higher efficiency in cold climates and deliver superior high-temperature performance."
 keywords: ["evacuated tube collectors", "vacuum insulation", "heat pipe technology", "cold climate solar", "high temperature solar", "SRCC rating", "solar collector efficiency", "freeze protection"]
+tags: ["evacuated tube collectors", "vacuum insulation", "heat pipe technology", "cold climate solar", "high temperature solar", "SRCC rating", "solar collector efficiency", "freeze protection"]
 weight: 2
 ---
 

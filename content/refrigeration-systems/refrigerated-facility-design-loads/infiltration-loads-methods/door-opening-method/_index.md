@@ -1,5 +1,6 @@
 ---
 title: "Door Opening Method"
+aliases: ["Door Opening Method"]
 weight: 2
 ---
 

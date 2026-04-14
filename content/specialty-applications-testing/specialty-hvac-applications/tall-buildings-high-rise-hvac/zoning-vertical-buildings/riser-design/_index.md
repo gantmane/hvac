@@ -1,8 +1,10 @@
 ---
 title: "Riser Design for Vertical Zoning"
+aliases: ["Riser Design for Vertical Zoning"]
 weight: 3
 description: "Engineering principles for HVAC riser design in tall buildings including zone-dedicated versus trunk systems, pressure balancing, takeoff configurations, and shaft optimization."
 keywords: ["riser design", "vertical zoning", "trunk riser", "zone-dedicated riser", "shaft space optimization", "high-rise HVAC", "riser balancing", "takeoff connections"]
+tags: ["riser design", "vertical zoning", "trunk riser", "zone-dedicated riser", "shaft space optimization", "high-rise HVAC", "riser balancing", "takeoff connections"]
 ---
 
 Riser design represents the critical arterial infrastructure for distributing heating, cooling, and ventilation throughout vertically zoned buildings. The selection between zone-dedicated risers and trunk riser configurations fundamentally impacts system performance, installation cost, operational flexibility, and long-term adaptability.

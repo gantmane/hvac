@@ -1,5 +1,6 @@
 ---
 title: "Performance Parameters"
+aliases: ["Performance Parameters"]
 weight: 3
 ---
 

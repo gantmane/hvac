@@ -1,5 +1,6 @@
 ---
 title: "Compressors: Types, Performance & Selection Criteria"
+aliases: ["Compressors: Types, Performance & Selection Criteria"]
 description: "Detailed analysis of refrigeration compressors including reciprocating, scroll, screw, and centrifugal types. Covers thermodynamic cycles, efficiency metrics, and selection."
 date: 2025-01-05
 tags: ["compressors", "refrigeration", "thermodynamics", "efficiency", "vapor compression"]

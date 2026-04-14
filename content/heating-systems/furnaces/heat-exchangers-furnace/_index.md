@@ -1,8 +1,10 @@
 ---
 title: "Furnace Heat Exchangers: Design and Performance"
+aliases: ["Furnace Heat Exchangers: Design and Performance"]
 weight: 3
 description: "Comprehensive analysis of furnace heat exchanger designs, heat transfer principles, tubular versus clamshell configurations, condensing technology, and crack detection methods."
 keywords: ["furnace heat exchanger", "tubular heat exchanger", "clamshell heat exchanger", "condensing heat exchanger", "heat exchanger cracks", "secondary heat exchanger", "heat transfer efficiency", "aluminized steel"]
+tags: ["furnace heat exchanger", "tubular heat exchanger", "clamshell heat exchanger", "condensing heat exchanger", "heat exchanger cracks", "secondary heat exchanger", "heat transfer efficiency", "aluminized steel"]
 ---
 
 Furnace heat exchangers constitute the critical thermal transfer boundary separating combustion gases from conditioned airstreams. These components determine system efficiency, operational safety, and service life through their material properties, geometric configurations, and thermal performance characteristics. Heat exchanger design fundamentally balances thermal effectiveness against structural integrity under extreme temperature cycling and corrosive condensate exposure.

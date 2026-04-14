@@ -1,5 +1,6 @@
 ---
 title: "Conservation Strategies"
+aliases: ["Conservation Strategies"]
 description: "HVAC energy conservation strategies including operational improvements, setpoint optimization, equipment efficiency upgrades, system-level optimization, and commissioning approaches for achieving 10-40% energy savings."
 weight: 1
 ---

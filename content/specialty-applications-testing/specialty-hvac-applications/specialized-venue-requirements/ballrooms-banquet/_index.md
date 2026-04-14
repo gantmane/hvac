@@ -1,8 +1,10 @@
 ---
 title: "Ballroom and Banquet HVAC Systems"
+aliases: ["Ballroom and Banquet HVAC Systems"]
 seo_title: "Ballroom HVAC Design: High-Occupancy Climate Control"
 description: "Engineering multi-purpose ballroom HVAC systems for variable occupancy, divisible spaces, high ceilings, and coordinated chandelier integration with proper air distribution."
 keywords: ["ballroom HVAC", "banquet hall climate control", "divisible room HVAC", "high occupancy ventilation", "chandelier coordination", "multi-purpose space conditioning", "catering HVAC requirements", "event space air distribution"]
+tags: ["ballroom HVAC", "banquet hall climate control", "divisible room HVAC", "high occupancy ventilation", "chandelier coordination", "multi-purpose space conditioning", "catering HVAC requirements", "event space air distribution"]
 weight: 5
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Coal Distribution Infrastructure and Logistics"
+aliases: ["Coal Distribution Infrastructure and Logistics"]
 description: "Coal transportation systems including rail, barge, and truck modes. Infrastructure design for fuel handling, storage facilities, and delivery to power plants."
 keywords: ["coal transportation", "rail transport coal", "barge delivery", "coal storage", "fuel handling systems", "coal logistics", "stockpile management", "unit train operations"]
+tags: ["coal transportation", "rail transport coal", "barge delivery", "coal storage", "fuel handling systems", "coal logistics", "stockpile management", "unit train operations"]
 weight: 6
 ---
 

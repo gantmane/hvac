@@ -1,5 +1,6 @@
 ---
 title: "Structural Coordination for Elevated Equipment"
+aliases: ["Structural Coordination for Elevated Equipment"]
 description: "Essential coordination processes between HVAC designers and structural engineers for elevated equipment installations including load documentation and review."
 date: 2025-01-05
 keywords:

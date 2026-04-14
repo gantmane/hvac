@@ -1,7 +1,9 @@
 ---
 title: "Precision Cooling for Data Centers: CRAC vs CRAH"
+aliases: ["Precision Cooling for Data Centers: CRAC vs CRAH"]
 description: "Technical analysis of precision cooling systems including CRAC and CRAH units, sensible heat ratio calculations, humidity control, and ASHRAE TC 9.9 specifications."
 keywords: ["precision cooling", "CRAC unit", "CRAH unit", "data center cooling", "sensible heat ratio", "close control HVAC", "computer room air conditioning", "ASHRAE TC 9.9"]
+tags: ["precision cooling", "CRAC unit", "CRAH unit", "data center cooling", "sensible heat ratio", "close control HVAC", "computer room air conditioning", "ASHRAE TC 9.9"]
 weight: 2
 ---
 

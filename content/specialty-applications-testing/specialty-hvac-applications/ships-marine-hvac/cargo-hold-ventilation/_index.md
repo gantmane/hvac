@@ -1,7 +1,9 @@
 ---
 title: "Cargo Hold Ventilation Systems for Ships"
+aliases: ["Cargo Hold Ventilation Systems for Ships"]
 description: "Engineering analysis of marine cargo hold ventilation including air exchange calculations, moisture control, condensation prevention, and IMO/SOLAS compliance for bulk carriers and cargo vessels."
 keywords: ["cargo hold ventilation", "ship ventilation systems", "marine cargo preservation", "condensation control shipping", "IMO ventilation requirements", "SOLAS cargo hold", "cargo sweating prevention", "bulk carrier ventilation"]
+tags: ["cargo hold ventilation", "ship ventilation systems", "marine cargo preservation", "condensation control shipping", "IMO ventilation requirements", "SOLAS cargo hold", "cargo sweating prevention", "bulk carrier ventilation"]
 weight: 5
 ---
 

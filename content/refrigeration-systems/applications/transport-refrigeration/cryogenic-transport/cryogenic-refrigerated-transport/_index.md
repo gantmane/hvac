@@ -1,5 +1,6 @@
 ---
 title: "Cryogenic Refrigerated Transport"
+aliases: ["Cryogenic Refrigerated Transport"]
 weight: 3
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Equipment Rooms Per Zone in High-Rise Buildings"
+aliases: ["Equipment Rooms Per Zone in High-Rise Buildings"]
 weight: 2
 description: "Technical analysis of mechanical equipment room placement, sizing methodology, structural loading considerations, and noise isolation for vertical HVAC zoning in tall buildings."
 keywords: ["mechanical equipment rooms", "sky lobby HVAC", "equipment room sizing", "structural loading", "mechanical floor design", "high-rise zoning", "noise isolation", "equipment access"]
+tags: ["mechanical equipment rooms", "sky lobby HVAC", "equipment room sizing", "structural loading", "mechanical floor design", "high-rise zoning", "noise isolation", "equipment access"]
 ---
 
 High-rise buildings require strategic placement of mechanical equipment rooms to serve vertical zones efficiently while addressing structural, acoustic, and operational constraints. The distribution and design of these spaces fundamentally determines system performance, energy efficiency, and maintenance accessibility.

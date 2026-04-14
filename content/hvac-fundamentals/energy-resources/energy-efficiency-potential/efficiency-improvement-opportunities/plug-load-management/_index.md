@@ -1,5 +1,6 @@
 ---
 title: "Plug Load Management"
+aliases: ["Plug Load Management"]
 weight: 4
 ---
 

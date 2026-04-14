@@ -1,5 +1,6 @@
 ---
 title: "Pumps and Fans"
+aliases: ["Pumps and Fans"]
 description: "Performance curves, affinity laws, system operating points, NPSH requirements, efficiency optimization, and VFD applications for HVAC pumps and fans"
 weight: 10
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Duct Joint Types and Connection Methods"
+aliases: ["Duct Joint Types and Connection Methods"]
 description: "Comprehensive guide to HVAC duct joint types including slip joints, standing seams, flanged connections, and welded joints with SMACNA sealing standards and pressure class requirements."
 keywords: ["duct joints", "SMACNA standards", "duct sealing", "flanged connections", "slip joints", "standing seam", "duct leakage", "pressure class"]
+tags: ["duct joints", "SMACNA standards", "duct sealing", "flanged connections", "slip joints", "standing seam", "duct leakage", "pressure class"]
 weight: 5
 ---
 

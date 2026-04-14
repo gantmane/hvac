@@ -1,7 +1,9 @@
 ---
 title: "Temperature Driving Force in Stack Effect"
+aliases: ["Temperature Driving Force in Stack Effect"]
 description: "Temperature difference between indoor and outdoor air creates density gradients that drive stack effect pressure in tall buildings, with magnitude determined by temperature differential."
 keywords: ["stack effect temperature", "thermal buoyancy", "indoor outdoor temperature difference", "stack effect pressure calculation", "seasonal stack effect", "air density gradient", "temperature induced pressure"]
+tags: ["stack effect temperature", "thermal buoyancy", "indoor outdoor temperature difference", "stack effect pressure calculation", "seasonal stack effect", "air density gradient", "temperature induced pressure"]
 weight: 2
 ---
 

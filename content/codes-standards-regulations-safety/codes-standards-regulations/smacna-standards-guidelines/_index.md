@@ -1,7 +1,9 @@
 ---
 title: "SMACNA Standards & Guidelines for HVAC Systems"
+aliases: ["SMACNA Standards & Guidelines for HVAC Systems"]
 description: "Comprehensive guide to SMACNA standards covering duct construction, seismic restraints, IAQ guidelines, and TAB procedures for commercial HVAC installations."
 keywords: ["SMACNA standards", "duct construction manual", "seismic restraints HVAC", "HVAC air duct leakage", "TAB procedures", "IAQ guidelines", "sheet metal HVAC", "duct pressure classification"]
+tags: ["SMACNA standards", "duct construction manual", "seismic restraints HVAC", "HVAC air duct leakage", "TAB procedures", "IAQ guidelines", "sheet metal HVAC", "duct pressure classification"]
 weight: 6
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Tumble Chilling Systems"
+aliases: ["Tumble Chilling Systems"]
 description: "Advanced tumble chilling technology for rapid cooling of prepared foods in cook-chill operations. Technical analysis of rotating drum chillers, heat transfer mechanisms, refrigeration system design, and process control for achieving 90-minute cooling to <3°C."
 weight: 2
 ---

@@ -1,8 +1,10 @@
 ---
 title: "VRF Systems for High-Rise Buildings"
+aliases: ["VRF Systems for High-Rise Buildings"]
 weight: 3
 description: "Variable refrigerant flow systems in tall buildings covering piping height limits, oil return mechanics, branch selector boxes, simultaneous heating/cooling capabilities, and vertical riser design for multi-story applications."
 keywords: ["VRF high-rise", "refrigerant piping height", "oil return VRF", "branch selector box", "heat recovery VRF", "VRF riser design", "simultaneous heating cooling", "vertical refrigerant distribution"]
+tags: ["VRF high-rise", "refrigerant piping height", "oil return VRF", "branch selector box", "heat recovery VRF", "VRF riser design", "simultaneous heating cooling", "vertical refrigerant distribution"]
 ---
 
 ## Variable Refrigerant Flow Systems in Tall Buildings

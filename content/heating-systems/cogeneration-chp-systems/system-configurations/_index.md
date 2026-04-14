@@ -1,9 +1,11 @@
 ---
 title: "CHP System Configurations"
+aliases: ["CHP System Configurations"]
 description: "Engineering analysis of CHP system configurations including topping and bottoming cycles, parallel and island operation modes, grid interconnection requirements, and optimization of thermal-to-electric ratios for maximum efficiency."
 date: 2026-01-11
 weight: 4
 keywords: ["topping cycle", "bottoming cycle", "grid parallel operation", "island mode", "thermal-to-electric ratio", "CHP configuration", "grid interconnection", "load following"]
+tags: ["topping cycle", "bottoming cycle", "grid parallel operation", "island mode", "thermal-to-electric ratio", "CHP configuration", "grid interconnection", "load following"]
 ---
 
 CHP system configurations determine how prime movers, heat recovery equipment, and electrical systems integrate to match facility loads while maintaining reliability and optimizing efficiency. The fundamental distinction between topping and bottoming cycles establishes the thermodynamic approach, while operational modes define grid interaction and control strategies. Proper configuration matching to facility load profiles maximizes economic and environmental benefits.

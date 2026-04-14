@@ -1,5 +1,6 @@
 ---
 title: "Roof Loads"
+aliases: ["Roof Loads"]
 weight: 2
 ---
 

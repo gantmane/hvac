@@ -1,5 +1,6 @@
 ---
 title: "Pressure Differential in Tornado-Resistant Design"
+aliases: ["Pressure Differential in Tornado-Resistant Design"]
 description: "Analysis of atmospheric pressure drops during tornadoes, rapid depressurization effects on building envelopes, and HVAC system design strategies for tornado safe rooms."
 date: 2025-01-05
 keywords:

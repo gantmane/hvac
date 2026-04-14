@@ -1,5 +1,6 @@
 ---
 title: "Critical Control Points"
+aliases: ["Critical Control Points"]
 weight: 6
 ---
 

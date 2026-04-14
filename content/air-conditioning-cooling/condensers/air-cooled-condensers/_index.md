@@ -1,5 +1,6 @@
 ---
 title: "Air Cooled Condensers"
+aliases: ["Air Cooled Condensers"]
 weight: 2
 ---
 

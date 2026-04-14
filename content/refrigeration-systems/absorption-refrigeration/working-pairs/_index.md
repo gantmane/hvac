@@ -1,7 +1,9 @@
 ---
 title: "Working Pairs in Absorption Refrigeration"
+aliases: ["Working Pairs in Absorption Refrigeration"]
 description: "Comprehensive analysis of refrigerant-absorbent working pairs including lithium bromide-water, ammonia-water, and alternative pairs with thermodynamic properties, operating limits, and application considerations."
 keywords: ["absorption refrigeration", "working pairs", "lithium bromide water", "ammonia water", "refrigerant absorbent", "LiBr-H2O", "NH3-H2O", "absorption cycle", "crystallization limit", "rectification"]
+tags: ["absorption refrigeration", "working pairs", "lithium bromide water", "ammonia water", "refrigerant absorbent", "LiBr-H2O", "NH3-H2O", "absorption cycle", "crystallization limit", "rectification"]
 weight: 5
 ---
 

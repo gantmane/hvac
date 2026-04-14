@@ -1,7 +1,9 @@
 ---
 title: "Boiler-Fired Indirect Water Heaters"
+aliases: ["Boiler-Fired Indirect Water Heaters"]
 description: "Technical guide to boiler-fired indirect water heaters covering heat exchanger configurations, priority control strategies, pipe sizing, and recovery calculations."
 keywords: ["boiler indirect water heater", "priority control", "heat exchanger capacity", "domestic hot water", "recovery rate", "immersed coil", "external heat exchanger", "boiler integration"]
+tags: ["boiler indirect water heater", "priority control", "heat exchanger capacity", "domestic hot water", "recovery rate", "immersed coil", "external heat exchanger", "boiler integration"]
 weight: 1
 ---
 

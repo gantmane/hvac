@@ -1,5 +1,6 @@
 ---
 title: "Combined Solar Thermal HVAC Systems"
+aliases: ["Combined Solar Thermal HVAC Systems"]
 description: "Integrated solar thermal systems combining heating, cooling, and domestic hot water. Performance analysis, energy balancing, and system optimization strategies."
 date: 2025-01-05
 tags: ["solar thermal", "combined systems", "solar heating", "solar cooling", "DHW", "integrated design", "SDHW", "HVAC integration", "renewable energy", "system optimization"]

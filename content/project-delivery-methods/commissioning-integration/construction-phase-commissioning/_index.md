@@ -1,7 +1,9 @@
 ---
 title: "Construction Phase Commissioning: FPT & Verification"
+aliases: ["Construction Phase Commissioning: FPT & Verification"]
 description: "Construction phase commissioning procedures including installation verification, functional performance testing, startup requirements, and deficiency resolution per ASHRAE Guideline 1.1."
 keywords: ["construction commissioning", "functional performance testing", "FPT procedures", "installation verification", "startup supervision", "prefunctional checklists", "commissioning deficiencies", "ASHRAE Guideline 1.1"]
+tags: ["construction commissioning", "functional performance testing", "FPT procedures", "installation verification", "startup supervision", "prefunctional checklists", "commissioning deficiencies", "ASHRAE Guideline 1.1"]
 weight: 4
 ---
 

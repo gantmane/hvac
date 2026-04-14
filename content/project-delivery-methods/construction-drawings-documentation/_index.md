@@ -1,5 +1,6 @@
 ---
 title: "Construction Drawings and Documentation"
+aliases: ["Construction Drawings and Documentation"]
 description: "Comprehensive guide to HVAC construction drawings including mechanical plans, sections, details, schedules, and documentation standards for accurate system installation and coordination"
 weight: 4
 ---

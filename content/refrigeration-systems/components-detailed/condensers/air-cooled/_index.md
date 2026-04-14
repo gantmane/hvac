@@ -1,8 +1,10 @@
 ---
 title: "Air-Cooled Condensers"
+aliases: ["Air-Cooled Condensers"]
 weight: 1
 description: "Technical guide to air-cooled condenser design, fin-tube construction, fan arrangements, head pressure control, and performance optimization for refrigeration systems."
 keywords: ["air-cooled condenser", "fin-tube coil", "condenser TD", "head pressure control", "subcooling", "propeller fan", "centrifugal fan", "condensing temperature"]
+tags: ["air-cooled condenser", "fin-tube coil", "condenser TD", "head pressure control", "subcooling", "propeller fan", "centrifugal fan", "condensing temperature"]
 ---
 
 Air-cooled condensers reject heat from refrigeration systems directly to ambient air through forced convection. These heat exchangers transfer heat from high-pressure refrigerant vapor to air flowing across finned coil surfaces, causing the refrigerant to condense into liquid. Air-cooled condensers dominate small to medium commercial refrigeration due to lower installation cost, reduced maintenance requirements, and elimination of water consumption compared to evaporative or water-cooled alternatives.

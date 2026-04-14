@@ -1,5 +1,6 @@
 ---
 title: "Carbon Sequestration in HVAC Systems"
+aliases: ["Carbon Sequestration in HVAC Systems"]
 description: "Technical analysis of carbon capture integration with HVAC equipment, including direct air capture systems, mineralization processes, and building material applications."
 date: 2025-01-05
 tags: ["carbon capture", "sustainability", "green building", "carbon sequestration", "DAC", "CCUS"]

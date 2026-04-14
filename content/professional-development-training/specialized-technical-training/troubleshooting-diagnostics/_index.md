@@ -1,5 +1,6 @@
 ---
 title: "HVAC Troubleshooting and Diagnostics Training"
+aliases: ["HVAC Troubleshooting and Diagnostics Training"]
 description: "Master systematic HVAC troubleshooting methods, diagnostic tools, root cause analysis, and advanced fault detection for commercial and residential systems."
 date: 2025-01-05
 tags: ["troubleshooting", "diagnostics", "fault detection", "system analysis", "maintenance", "HVAC training"]

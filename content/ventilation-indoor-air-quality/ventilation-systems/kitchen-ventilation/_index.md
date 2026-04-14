@@ -1,5 +1,6 @@
 ---
 title: "Kitchen Ventilation"
+aliases: ["Kitchen Ventilation"]
 weight: 7
 ---
 

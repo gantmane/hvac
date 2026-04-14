@@ -1,5 +1,6 @@
 ---
 title: "Fire Training Smoke House HVAC Systems"
+aliases: ["Fire Training Smoke House HVAC Systems"]
 description: "Specialized HVAC systems for fire training smoke houses including smoke generation, controlled ventilation, heat management, visibility control, and trainee safety monitoring."
 date: "2026-01-11"
 weight: 2

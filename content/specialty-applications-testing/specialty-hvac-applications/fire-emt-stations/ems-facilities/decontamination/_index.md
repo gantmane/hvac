@@ -1,7 +1,9 @@
 ---
 title: "Decontamination Area HVAC for EMS Facilities"
+aliases: ["Decontamination Area HVAC for EMS Facilities"]
 description: "HVAC design for EMS decontamination areas featuring negative pressure containment, high exhaust rates, filtration systems, and isolation from adjacent spaces."
 keywords: ["decontamination HVAC", "negative pressure containment", "EMS decon", "exhaust filtration", "air changes per hour", "biohazard ventilation", "isolation rooms", "wash-down areas"]
+tags: ["decontamination HVAC", "negative pressure containment", "EMS decon", "exhaust filtration", "air changes per hour", "biohazard ventilation", "isolation rooms", "wash-down areas"]
 weight: 2
 ---
 

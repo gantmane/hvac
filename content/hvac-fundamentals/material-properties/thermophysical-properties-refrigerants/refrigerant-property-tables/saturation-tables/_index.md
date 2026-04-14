@@ -1,5 +1,6 @@
 ---
 title: "Saturation Tables"
+aliases: ["Saturation Tables"]
 weight: 1
 ---
 

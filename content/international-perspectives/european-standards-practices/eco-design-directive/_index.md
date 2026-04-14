@@ -1,8 +1,10 @@
 ---
 title: "Eco-Design Directive: HVAC Equipment Efficiency Standards"
+aliases: ["Eco-Design Directive: HVAC Equipment Efficiency Standards"]
 weight: 2
 description: "Technical analysis of EU Ecodesign Directive 2009/125/EC covering mandatory efficiency requirements, seasonal performance metrics SEER/SCOP, ErP Lots 1-10 for HVAC equipment, minimum performance thresholds, and energy labeling compliance for heating, ventilation, cooling, and ventilation systems."
 keywords: "Ecodesign Directive, ErP HVAC, SEER SCOP requirements, EU energy efficiency standards, Lot 1 boilers, Lot 6 air conditioners, Lot 10 heat pumps, seasonal efficiency HVAC, minimum efficiency standards Europe, energy labeling HVAC"
+tags: ["Ecodesign Directive", "ErP HVAC", "SEER SCOP requirements", "EU energy efficiency standards", "Lot 1 boilers", "Lot 6 air conditioners", "Lot 10 heat pumps", "seasonal efficiency HVAC", "minimum efficiency standards Europe", "energy labeling HVAC"]
 ---
 
 # Eco-Design Directive: HVAC Equipment Efficiency Standards

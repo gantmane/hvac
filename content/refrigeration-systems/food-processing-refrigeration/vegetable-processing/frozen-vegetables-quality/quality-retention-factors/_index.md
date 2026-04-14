@@ -1,5 +1,6 @@
 ---
 title: "Quality Retention Factors"
+aliases: ["Quality Retention Factors"]
 description: "Engineering analysis of critical factors affecting frozen vegetable quality retention including freezing rate optimization, temperature control strategies, enzyme inactivation, and recrystallization prevention for commercial refrigeration systems."
 weight: 3
 ---

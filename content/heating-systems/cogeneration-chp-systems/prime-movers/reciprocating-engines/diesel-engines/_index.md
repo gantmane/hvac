@@ -1,5 +1,6 @@
 ---
 title: "Diesel Engines"
+aliases: ["Diesel Engines"]
 weight: 2
 ---
 

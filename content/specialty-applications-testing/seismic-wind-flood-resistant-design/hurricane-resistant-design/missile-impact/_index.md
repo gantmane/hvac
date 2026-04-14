@@ -1,5 +1,6 @@
 ---
 title: "Missile Impact Protection for HVAC Equipment"
+aliases: ["Missile Impact Protection for HVAC Equipment"]
 description: "Engineering guidance for protecting HVAC equipment from windborne debris impact during hurricanes, including missile criteria, impact testing, and protective strategies."
 date: 2025-01-05
 keywords:

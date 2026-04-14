@@ -1,5 +1,6 @@
 ---
 title: "PVC and CPVC Pipe Materials"
+aliases: ["PVC and CPVC Pipe Materials"]
 description: "Technical properties, pressure ratings, temperature limits, and design considerations for PVC and CPVC piping systems in HVAC applications"
 weight: 3
 ---
@@ -532,5 +533,5 @@ CPVC combustion produces HCl gas, requiring consideration in fire safety plannin
 
 **Related Topics:**
 - [Pipe Duct Materials](../)
-- [Copper Tubing](/hvac-fundamentals/material-properties/physical-properties-materials/pipe-duct-materials/copper-tubing/)
-- [Steel Piping Systems](/hvac-fundamentals/material-properties/physical-properties-materials/pipe-duct-materials/steel-pipe/)
+- Copper Tubing
+- [Steel Piping Systems](../../../../../hvac-fundamentals/material-properties/physical-properties-materials/pipe-duct-materials/steel-pipe/_index.md)

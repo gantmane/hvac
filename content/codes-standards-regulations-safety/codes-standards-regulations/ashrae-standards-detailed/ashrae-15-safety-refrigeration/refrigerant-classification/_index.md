@@ -1,5 +1,6 @@
 ---
 title: "Refrigerant Safety Classification System"
+aliases: ["Refrigerant Safety Classification System"]
 description: "ASHRAE Standard 34 refrigerant classification combining toxicity (A/B) and flammability (1/2L/2/3) characteristics with safety group designations A1, A2L, A2, A3, B1, B2L, B2, B3 determining safety requirements."
 date: 2026-01-04
 weight: 1

@@ -1,5 +1,6 @@
 ---
 title: "Absorption Refrigeration"
+aliases: ["Absorption Refrigeration"]
 weight: 2
 description: "Comprehensive technical guide to absorption refrigeration systems, including LiBr-water and ammonia-water cycles, COP calculations, and waste heat cooling applications for HVAC professionals."
 ---

@@ -1,9 +1,11 @@
 ---
 title: "Shake Table Testing for HVAC Equipment Certification"
+aliases: ["Shake Table Testing for HVAC Equipment Certification"]
 description: "Comprehensive guide to shake table testing protocols, acceptance criteria, and documentation requirements for seismic certification of HVAC equipment per AC156 and IEEE 693."
 date: 2025-01-05
 weight: 1
 keywords: ["shake table testing", "seismic qualification", "AC156 testing", "IEEE 693 standard", "HVAC equipment certification", "response spectrum", "triaxial testing", "seismic simulation"]
+tags: ["shake table testing", "seismic qualification", "AC156 testing", "IEEE 693 standard", "HVAC equipment certification", "response spectrum", "triaxial testing", "seismic simulation"]
 ---
 
 ## Overview

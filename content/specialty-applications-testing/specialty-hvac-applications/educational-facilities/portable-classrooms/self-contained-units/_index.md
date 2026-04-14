@@ -1,7 +1,9 @@
 ---
 title: "Self-Contained HVAC Units for Portable Classrooms"
+aliases: ["Self-Contained HVAC Units for Portable Classrooms"]
 description: "Packaged rooftop and wall-mounted HVAC units for portable classrooms, including heat pump configurations, economizer integration, and energy efficiency standards."
 keywords: ["packaged rooftop unit", "wall-mounted HVAC", "heat pump classroom", "portable classroom heating", "economizer integration", "SEER ratings", "self-contained HVAC", "modular classroom"]
+tags: ["packaged rooftop unit", "wall-mounted HVAC", "heat pump classroom", "portable classroom heating", "economizer integration", "SEER ratings", "self-contained HVAC", "modular classroom"]
 weight: 1
 date: 2025-01-11
 draft: false

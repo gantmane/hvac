@@ -1,5 +1,6 @@
 ---
 title: "Isenthalps"
+aliases: ["Isenthalps"]
 weight: 3
 ---
 

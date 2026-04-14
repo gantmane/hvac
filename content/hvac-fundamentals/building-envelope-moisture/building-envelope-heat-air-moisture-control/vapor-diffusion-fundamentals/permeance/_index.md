@@ -1,5 +1,6 @@
 ---
 title: "Permeance"
+aliases: ["Permeance"]
 description: "Engineering fundamentals of vapor permeance including measurement units, material properties, temperature and humidity dependence, and application in building envelope moisture control design"
 weight: 2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Heat Recovery in Commercial Hotel Laundries"
+aliases: ["Heat Recovery in Commercial Hotel Laundries"]
 description: "Engineering guide to heat recovery systems for commercial laundries including dryer exhaust recovery, wash water heat reclaim, air-to-air exchangers, and economic analysis."
 date: "2026-01-11"
 weight: 1

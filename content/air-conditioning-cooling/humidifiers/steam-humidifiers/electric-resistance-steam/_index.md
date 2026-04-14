@@ -1,5 +1,6 @@
 ---
 title: "Electric Resistance Steam Humidifiers"
+aliases: ["Electric Resistance Steam Humidifiers"]
 description: "Engineering guide to electric resistance steam humidifiers featuring immersion heating elements, multi-stage capacity control, scale management systems, and installation considerations for commercial HVAC applications."
 weight: 3
 ---

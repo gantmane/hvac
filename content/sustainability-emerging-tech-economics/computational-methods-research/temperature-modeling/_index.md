@@ -1,7 +1,9 @@
 ---
 title: "Temperature Modeling for HVAC Systems"
+aliases: ["Temperature Modeling for HVAC Systems"]
 description: "Advanced temperature distribution modeling techniques for HVAC including spatial discretization, temporal dynamics, zone models, and stratification analysis per ASHRAE standards."
 keywords: ["temperature modeling", "zone temperature", "thermal stratification", "temperature distribution", "transient temperature", "HVAC modeling", "building thermal model", "temperature prediction", "spatial temperature"]
+tags: ["temperature modeling", "zone temperature", "thermal stratification", "temperature distribution", "transient temperature", "HVAC modeling", "building thermal model", "temperature prediction", "spatial temperature"]
 date: 2025-01-05
 draft: false
 type: docs

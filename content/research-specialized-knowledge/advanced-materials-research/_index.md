@@ -1,8 +1,10 @@
 ---
 title: "Advanced Materials Research"
+aliases: ["Advanced Materials Research"]
 weight: 1
 description: "Advanced materials for HVAC applications including aerogels, phase change materials, nanostructured heat transfer surfaces, smart responsive materials, and next-generation thermal insulation."
 keywords: ["aerogels", "phase change materials", "PCM", "nanostructured materials", "smart materials", "thermochromic", "electrochromic", "vacuum insulation panels", "thermal management", "heat transfer enhancement"]
+tags: ["aerogels", "phase change materials", "PCM", "nanostructured materials", "smart materials", "thermochromic", "electrochromic", "vacuum insulation panels", "thermal management", "heat transfer enhancement"]
 ---
 
 Advanced materials research drives innovation in HVAC thermal management, energy efficiency, and system performance. Emerging material classes offer unprecedented thermal properties that challenge conventional design paradigms and enable architectures impossible with traditional materials.

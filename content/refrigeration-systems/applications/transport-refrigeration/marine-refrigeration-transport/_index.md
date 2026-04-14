@@ -1,7 +1,9 @@
 ---
 title: "Marine Refrigeration Transport"
+aliases: ["Marine Refrigeration Transport"]
 description: "Comprehensive technical guide to marine refrigeration systems for cargo ships, reefer vessels, fishing boats, and container ships including cargo hold cooling, reefer container power systems, and seawater-cooled condensers."
 keywords: ["marine refrigeration", "reefer ships", "container vessel refrigeration", "cargo hold cooling", "fishing vessel refrigeration", "seawater condensers", "ship refrigeration systems", "maritime cold chain", "reefer containers", "cargo hold temperature control"]
+tags: ["marine refrigeration", "reefer ships", "container vessel refrigeration", "cargo hold cooling", "fishing vessel refrigeration", "seawater condensers", "ship refrigeration systems", "maritime cold chain", "reefer containers", "cargo hold temperature control"]
 weight: 4
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Cabin Thermal Loads"
+aliases: ["Cabin Thermal Loads"]
 description: "Comprehensive analysis of vehicle cabin thermal loads including solar radiation, occupant heat, conduction, and transient soak conditions for HVAC system sizing."
 keywords: ["automotive HVAC", "cabin thermal load", "solar heat gain", "vehicle cooling", "SAE J2765", "soak conditions", "transient thermal analysis", "HVAC sizing"]
+tags: ["automotive HVAC", "cabin thermal load", "solar heat gain", "vehicle cooling", "SAE J2765", "soak conditions", "transient thermal analysis", "HVAC sizing"]
 weight: 7
 ---
 

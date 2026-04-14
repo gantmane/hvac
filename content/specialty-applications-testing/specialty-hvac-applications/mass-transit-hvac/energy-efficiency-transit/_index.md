@@ -1,5 +1,6 @@
 ---
 title: "Energy Efficiency in Mass Transit HVAC Systems"
+aliases: ["Energy Efficiency in Mass Transit HVAC Systems"]
 description: "Engineering analysis of HVAC energy consumption in transit vehicles covering efficiency technologies, heat pumps, waste heat recovery, and system optimization strategies."
 keywords:
   - transit HVAC efficiency

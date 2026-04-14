@@ -1,8 +1,10 @@
 ---
 title: "Textile Processing Plants HVAC Systems"
+aliases: ["Textile Processing Plants HVAC Systems"]
 seo_title: "Textile Plant HVAC: Humidity & Climate Control"
 description: "Technical guide to HVAC systems for textile processing plants covering critical humidity control, process area requirements, air washing systems, and psychrometric calculations."
 keywords: ["textile HVAC", "humidity control textiles", "air washing systems", "textile processing climate", "fiber conditioning", "spinning room HVAC", "weaving plant climate", "industrial humidification"]
+tags: ["textile HVAC", "humidity control textiles", "air washing systems", "textile processing climate", "fiber conditioning", "spinning room HVAC", "weaving plant climate", "industrial humidification"]
 weight: 9
 ---
 

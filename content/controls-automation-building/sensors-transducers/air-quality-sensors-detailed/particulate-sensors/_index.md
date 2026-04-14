@@ -1,7 +1,9 @@
 ---
 title: "Particulate Matter Sensors for HVAC Applications"
+aliases: ["Particulate Matter Sensors for HVAC Applications"]
 description: "Technical analysis of PM2.5 and PM10 sensors using laser scattering, nephelometry, and filter weighing methods with EPA AQI integration for building air quality control."
 keywords: ["particulate matter sensors", "PM2.5 measurement", "PM10 detection", "laser scattering", "nephelometer", "optical particle counter", "EPA AQI standards", "air quality monitoring"]
+tags: ["particulate matter sensors", "PM2.5 measurement", "PM10 detection", "laser scattering", "nephelometer", "optical particle counter", "EPA AQI standards", "air quality monitoring"]
 weight: 3
 ---
 

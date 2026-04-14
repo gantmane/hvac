@@ -1,7 +1,9 @@
 ---
 title: "HVAC Noise Criteria and Sound Level Standards"
+aliases: ["HVAC Noise Criteria and Sound Level Standards"]
 description: "Technical analysis of NC curves, RC Mark II methodology, recommended noise criteria by space type, background noise measurement procedures, and speech interference levels for HVAC systems."
 keywords: ["NC curves", "RC Mark II", "noise criteria", "HVAC acoustics", "background noise", "speech interference", "sound pressure level", "octave band analysis", "ASHRAE noise standards"]
+tags: ["NC curves", "RC Mark II", "noise criteria", "HVAC acoustics", "background noise", "speech interference", "sound pressure level", "octave band analysis", "ASHRAE noise standards"]
 date: 2026-01-05
 weight: 2
 draft: false

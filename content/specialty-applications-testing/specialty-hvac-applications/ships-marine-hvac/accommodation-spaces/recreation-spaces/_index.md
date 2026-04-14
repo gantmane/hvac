@@ -1,8 +1,10 @@
 ---
 title: "Marine Recreation Spaces HVAC"
+aliases: ["Marine Recreation Spaces HVAC"]
 weight: 3
 description: "HVAC design for ship recreation areas including gyms, lounges, and entertainment spaces. Variable occupancy ventilation, load calculations, and crew welfare standards."
 keywords: ["marine recreation HVAC", "ship gym ventilation", "vessel lounge climate control", "maritime fitness center", "crew welfare HVAC", "variable occupancy ventilation", "ship entertainment spaces", "marine comfort standards"]
+tags: ["marine recreation HVAC", "ship gym ventilation", "vessel lounge climate control", "maritime fitness center", "crew welfare HVAC", "variable occupancy ventilation", "ship entertainment spaces", "marine comfort standards"]
 ---
 
 Recreation spaces aboard ships present unique HVAC challenges due to highly variable occupancy patterns, diverse metabolic heat generation rates, and the critical importance of crew welfare during extended voyages. The design must accommodate everything from sedentary activities in lounges to high-intensity exercise in fitness centers while operating within the constraints of limited shipboard power and space.

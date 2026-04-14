@@ -1,5 +1,6 @@
 ---
 title: "Condensate Management"
+aliases: ["Condensate Management"]
 weight: 3
 ---
 

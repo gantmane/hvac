@@ -1,8 +1,10 @@
 ---
 title: "Petroleum Refining Processes for Heating Fuels"
+aliases: ["Petroleum Refining Processes for Heating Fuels"]
 weight: 3
 description: "Technical overview of petroleum refining processes including atmospheric distillation, catalytic cracking, and hydrotreating for production of heating oil and distillate fuels used in HVAC applications."
 keywords: ["petroleum refining", "distillation tower", "catalytic cracking", "hydrotreating", "heating oil production", "fractional distillation", "refinery yields", "fuel processing"]
+tags: ["petroleum refining", "distillation tower", "catalytic cracking", "hydrotreating", "heating oil production", "fractional distillation", "refinery yields", "fuel processing"]
 ---
 
 Petroleum refining transforms crude oil into usable heating fuels through a series of physical separation and chemical conversion processes. Understanding refinery operations is fundamental to comprehending heating fuel quality, availability, and specifications for HVAC combustion equipment.

@@ -1,7 +1,9 @@
 ---
 title: "OSHA 30-Hour Construction: Advanced HVAC Safety Training"
+aliases: ["OSHA 30-Hour Construction: Advanced HVAC Safety Training"]
 description: "Advanced OSHA 30-Hour Construction training for HVAC supervisors covering excavation safety, confined space programs, steel erection, and safety management systems."
 keywords: ["OSHA 30-Hour Construction", "HVAC supervisor safety", "construction safety management", "excavation safety HVAC", "confined space program", "competent person training", "safety health program", "OSHA recordkeeping", "construction supervision"]
+tags: ["OSHA 30-Hour Construction", "HVAC supervisor safety", "construction safety management", "excavation safety HVAC", "confined space program", "competent person training", "safety health program", "OSHA recordkeeping", "construction supervision"]
 weight: 2
 ---
 

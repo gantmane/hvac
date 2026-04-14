@@ -1,7 +1,9 @@
 ---
 title: "Motor Coach HVAC: Long-Distance Passenger Climate Systems"
+aliases: ["Motor Coach HVAC: Long-Distance Passenger Climate Systems"]
 description: "Engineering guide to motor coach HVAC design including multi-unit configurations, individual passenger controls, restroom exhaust, sleeper coach systems, and capacity calculations."
 keywords: ["motor coach HVAC", "coach air conditioning", "bus climate control", "individual passenger controls", "sleeper coach heating", "lavatory exhaust", "motor coach capacity", "long-distance bus HVAC"]
+tags: ["motor coach HVAC", "coach air conditioning", "bus climate control", "individual passenger controls", "sleeper coach heating", "lavatory exhaust", "motor coach capacity", "long-distance bus HVAC"]
 weight: 2
 ---
 

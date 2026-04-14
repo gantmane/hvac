@@ -1,7 +1,9 @@
 ---
 title: "ASHRAE 189.1 Standard for High-Performance Buildings"
+aliases: ["ASHRAE 189.1 Standard for High-Performance Buildings"]
 description: "ASHRAE 189.1 provides comprehensive requirements for site sustainability, water efficiency, energy performance, IEQ, and materials for green building design."
 keywords: ["ASHRAE 189.1", "green building standards", "high-performance buildings", "LEED compliance", "sustainable HVAC", "energy efficiency", "indoor environmental quality", "water conservation"]
+tags: ["ASHRAE 189.1", "green building standards", "high-performance buildings", "LEED compliance", "sustainable HVAC", "energy efficiency", "indoor environmental quality", "water conservation"]
 weight: 7
 ---
 

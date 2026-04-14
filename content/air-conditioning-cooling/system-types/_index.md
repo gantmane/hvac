@@ -1,7 +1,9 @@
 ---
 title: "HVAC System Types & Classification Guide"
+aliases: ["HVAC System Types & Classification Guide"]
 description: "Comprehensive guide to HVAC system classification: central vs unitary systems, all-air vs air-water configurations, selection criteria, and performance comparisons."
 keywords: ["HVAC system types", "central air conditioning", "unitary systems", "all-air systems", "air-water systems", "HVAC classification", "system selection criteria", "ASHRAE standards"]
+tags: ["HVAC system types", "central air conditioning", "unitary systems", "all-air systems", "air-water systems", "HVAC classification", "system selection criteria", "ASHRAE standards"]
 weight: 1
 ---
 

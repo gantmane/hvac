@@ -1,8 +1,10 @@
 ---
 title: "Enclosed Parking Garage Ventilation Systems"
+aliases: ["Enclosed Parking Garage Ventilation Systems"]
 weight: 1
 description: "Technical analysis of enclosed parking garage ventilation including CO control strategies, contaminant dilution calculations, fire safety integration, and EV charging thermal management."
 keywords: ["parking garage ventilation", "carbon monoxide control", "IMC 404", "contaminant dilution", "fire smoke exhaust", "EV charging ventilation", "demand control ventilation", "ASHRAE 62.1"]
+tags: ["parking garage ventilation", "carbon monoxide control", "IMC 404", "contaminant dilution", "fire smoke exhaust", "EV charging ventilation", "demand control ventilation", "ASHRAE 62.1"]
 ---
 
 Enclosed parking garages present unique ventilation challenges that combine contaminant control, visibility maintenance, fire safety, and thermal management. Unlike naturally ventilated open-air structures, enclosed facilities must mechanically dilute combustion products, control particulate matter, and integrate with building fire protection systems while managing energy consumption.

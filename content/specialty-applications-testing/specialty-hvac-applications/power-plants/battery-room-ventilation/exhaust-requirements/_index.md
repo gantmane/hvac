@@ -1,7 +1,9 @@
 ---
 title: "Battery Room Exhaust Requirements Engineering"
+aliases: ["Battery Room Exhaust Requirements Engineering"]
 description: "Technical design requirements for battery room exhaust systems including airflow calculations, ceiling-level pickup, discharge locations, fan selection, and interlock systems per IEEE 484."
 keywords: ["battery room exhaust", "ceiling exhaust", "hydrogen removal", "exhaust airflow calculation", "IEEE 484", "NFPA 1", "explosion-proof fans", "ventilation interlock"]
+tags: ["battery room exhaust", "ceiling exhaust", "hydrogen removal", "exhaust airflow calculation", "IEEE 484", "NFPA 1", "explosion-proof fans", "ventilation interlock"]
 weight: 2
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Tunnel Smoke Control Systems"
+aliases: ["Tunnel Smoke Control Systems"]
 description: "Physics-based analysis of tunnel fire smoke control including critical velocity, longitudinal vs transverse ventilation, backlayering prevention, and NFPA 502 emergency operation modes."
 keywords: ["tunnel smoke control", "critical velocity", "longitudinal ventilation", "transverse ventilation", "NFPA 502", "backlayering prevention", "tunnel fire safety", "tenable conditions"]
+tags: ["tunnel smoke control", "critical velocity", "longitudinal ventilation", "transverse ventilation", "NFPA 502", "backlayering prevention", "tunnel fire safety", "tenable conditions"]
 weight: 2
 ---
 

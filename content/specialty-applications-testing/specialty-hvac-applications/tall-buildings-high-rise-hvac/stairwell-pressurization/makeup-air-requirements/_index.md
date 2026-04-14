@@ -1,7 +1,9 @@
 ---
 title: "Makeup Air Requirements for Stairwell Pressurization"
+aliases: ["Makeup Air Requirements for Stairwell Pressurization"]
 description: "Engineering calculation methods for determining makeup air volumes in high-rise stairwell pressurization systems, including leakage compensation and door-opening demand."
 keywords: ["makeup air calculation", "stairwell pressurization airflow", "leakage compensation", "fan sizing high-rise", "multiple injection points", "NFPA 92", "IBC smoke control"]
+tags: ["makeup air calculation", "stairwell pressurization airflow", "leakage compensation", "fan sizing high-rise", "multiple injection points", "NFPA 92", "IBC smoke control"]
 weight: 3
 ---
 

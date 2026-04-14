@@ -1,5 +1,6 @@
 ---
 title: "Floor Loads"
+aliases: ["Floor Loads"]
 weight: 3
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Fishery Products Refrigeration"
+aliases: ["Fishery Products Refrigeration"]
 description: "HVAC refrigeration systems for fish and seafood processing including catch cooling, ice production, blast freezing, cold storage, and temperature control for maintaining quality and extending shelf life of fishery products."
 weight: 5
 ---

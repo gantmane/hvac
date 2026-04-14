@@ -1,5 +1,6 @@
 ---
 title: "Dried Egg Storage"
+aliases: ["Dried Egg Storage"]
 description: "HVAC requirements for dried egg product storage including temperature control, humidity management, water activity considerations, packaging requirements, and facility design for spray-dried whole egg, egg white, and egg yolk powder preservation"
 weight: 2
 ---

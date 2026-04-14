@@ -1,7 +1,9 @@
 ---
 title: "Museum and Archive HVAC: Preservation Environment Control"
+aliases: ["Museum and Archive HVAC: Preservation Environment Control"]
 description: "Technical guide to HVAC systems for museums, galleries, archives, and libraries. Covers humidity stability, temperature control, pollutant filtration, and collection preservation."
 keywords: ["museum HVAC", "archive climate control", "collection preservation", "humidity control", "ASHRAE Chapter 24", "cultural heritage HVAC", "gallery environmental systems", "artifact preservation"]
+tags: ["museum HVAC", "archive climate control", "collection preservation", "humidity control", "ASHRAE Chapter 24", "cultural heritage HVAC", "gallery environmental systems", "artifact preservation"]
 weight: 28
 ---
 

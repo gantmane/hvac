@@ -1,8 +1,10 @@
 ---
 title: "Respiration Rates in Produce Storage"
+aliases: ["Respiration Rates in Produce Storage"]
 weight: 10
 description: "Quantifying produce respiration rates, temperature effects using Q10 factor, respiration heat generation, and impact on refrigeration load calculations for cold storage facilities."
 keywords: ["produce respiration", "respiration heat", "Q10 factor", "refrigeration load", "climacteric fruit", "cold storage design", "respiration rate measurement"]
+tags: ["produce respiration", "respiration heat", "Q10 factor", "refrigeration load", "climacteric fruit", "cold storage design", "respiration rate measurement"]
 ---
 
 Respiration rate quantification is fundamental to refrigeration system design for produce storage. Fresh fruits and vegetables continue metabolic respiration after harvest, consuming oxygen and producing carbon dioxide, water vapor, and metabolic heat. This respiration heat constitutes a significant portion of the refrigeration load in cold storage facilities and must be accurately calculated for proper equipment sizing.

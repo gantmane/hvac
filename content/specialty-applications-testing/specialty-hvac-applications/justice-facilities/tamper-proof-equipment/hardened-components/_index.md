@@ -1,7 +1,9 @@
 ---
 title: "Hardened HVAC Components for Detention Facilities"
+aliases: ["Hardened HVAC Components for Detention Facilities"]
 description: "Engineering standards for detention-grade HVAC components, tamper-resistant materials, security fasteners, and testing protocols per correctional standards."
 keywords: ["hardened HVAC components", "detention grade materials", "tamper resistant thermostats", "security fasteners HVAC", "vandal resistant diffusers", "correctional facility HVAC", "stainless steel fixtures", "tamper proof testing"]
+tags: ["hardened HVAC components", "detention grade materials", "tamper resistant thermostats", "security fasteners HVAC", "vandal resistant diffusers", "correctional facility HVAC", "stainless steel fixtures", "tamper proof testing"]
 weight: 3
 ---
 

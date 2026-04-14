@@ -2,6 +2,7 @@
 title: "Healthcare HVAC Design for Operating Rooms & Critical Care"
 description: "Comprehensive guide to healthcare HVAC design including operating room ventilation, isolation room pressure control, ACH requirements, filtration standards, and ASHRAE 170 compliance."
 keywords: ["healthcare HVAC", "operating room ventilation", "isolation rooms", "ASHRAE 170", "hospital HVAC", "critical care HVAC", "medical air quality"]
+tags: ["healthcare HVAC", "operating room ventilation", "isolation rooms", "ASHRAE 170", "hospital HVAC", "critical care HVAC", "medical air quality"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 34
@@ -276,9 +277,9 @@ graph TD
 ---
 
 **Related Technical Guides:**
-- [Building Pressurization Control](/technical-guides/building-pressurization-control/)
-- [Air Filtration Design](/technical-guides/air-filtration-design/)
-- [Ventilation Rate Calculations](/technical-guides/ventilation-rate-calculations/)
+- Building Pressurization Control
+- Air Filtration Design
+- Ventilation Rate Calculations
 
 **References:**
 - ASHRAE Standard 170: Ventilation of Health Care Facilities

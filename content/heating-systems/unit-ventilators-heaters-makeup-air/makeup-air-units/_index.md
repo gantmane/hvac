@@ -1,5 +1,6 @@
 ---
 title: "Makeup Air Units"
+aliases: ["Makeup Air Units"]
 description: "Comprehensive coverage of makeup air systems including tempered and heated configurations, direct-fired vs indirect-fired designs, and application requirements."
 date: "2026-01-04"
 weight: 3

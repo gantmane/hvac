@@ -1,7 +1,9 @@
 ---
 title: "Fruit Storage Facilities HVAC Design & Control"
+aliases: ["Fruit Storage Facilities HVAC Design & Control"]
 description: "Engineering guide to fruit storage HVAC systems covering respiration heat loads, controlled atmosphere design, and precision temperature control for extended shelf life."
 keywords: ["fruit storage HVAC", "controlled atmosphere storage", "fruit respiration heat", "cold storage design", "produce cooling systems", "CA storage engineering", "fruit warehouse HVAC", "post-harvest cooling"]
+tags: ["fruit storage HVAC", "controlled atmosphere storage", "fruit respiration heat", "cold storage design", "produce cooling systems", "CA storage engineering", "fruit warehouse HVAC", "post-harvest cooling"]
 weight: 3
 ---
 

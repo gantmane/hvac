@@ -1,7 +1,9 @@
 ---
 title: "Hazard Communication Training for HVAC Technicians"
+aliases: ["Hazard Communication Training for HVAC Technicians"]
 description: "OSHA HazCom training covering GHS classifications, SDS interpretation, chemical labeling, and HVAC-specific hazards including refrigerants, cleaning agents, and combustion products."
 keywords: ["hazard communication", "HazCom training", "GHS labeling", "safety data sheets", "SDS interpretation", "OSHA 1910.1200", "chemical hazards HVAC", "refrigerant hazards", "pictograms", "workplace chemical safety"]
+tags: ["hazard communication", "HazCom training", "GHS labeling", "safety data sheets", "SDS interpretation", "OSHA 1910.1200", "chemical hazards HVAC", "refrigerant hazards", "pictograms", "workplace chemical safety"]
 weight: 7
 ---
 

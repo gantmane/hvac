@@ -1,5 +1,6 @@
 ---
 title: "Heat Recovery Systems"
+aliases: ["Heat Recovery Systems"]
 weight: 5
 ---
 

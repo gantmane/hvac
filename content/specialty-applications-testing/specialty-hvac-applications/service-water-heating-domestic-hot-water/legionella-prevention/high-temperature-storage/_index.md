@@ -1,8 +1,10 @@
 ---
 title: "High Temperature Storage for Legionella Prevention"
+aliases: ["High Temperature Storage for Legionella Prevention"]
 weight: 2
 description: "High temperature water storage at 140-160°F kills Legionella bacteria through thermal pasteurization. Mixing valves prevent scalding while maintaining bacteriological control."
 keywords: ["high temperature storage", "Legionella prevention", "water heater temperature", "thermal disinfection", "mixing valves", "domestic hot water", "ASHRAE 188", "scalding prevention"]
+tags: ["high temperature storage", "Legionella prevention", "water heater temperature", "thermal disinfection", "mixing valves", "domestic hot water", "ASHRAE 188", "scalding prevention"]
 ---
 
 ## High Temperature Storage

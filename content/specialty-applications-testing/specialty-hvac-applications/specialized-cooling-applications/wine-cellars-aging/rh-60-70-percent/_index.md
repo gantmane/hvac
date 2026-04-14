@@ -1,5 +1,6 @@
 ---
 title: "Wine Cellar Humidity: 60-70% RH for Cork Preservation"
+aliases: ["Wine Cellar Humidity: 60-70% RH for Cork Preservation"]
 description: "Physics-based analysis of wine cellar humidity control at 60-70% RH including cork moisture equilibrium, oxygen transmission rates, mold prevention, and integrated humidity management systems."
 keywords:
   - wine cellar humidity control

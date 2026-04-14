@@ -1,5 +1,6 @@
 ---
 title: "Building Assembly Moisture Design"
+aliases: ["Building Assembly Moisture Design"]
 description: "Hygrothermal analysis, moisture transport mechanisms, vapor retarder placement, condensation control strategies, and building assembly design for moisture durability and performance."
 weight: 3
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Cheese Manufacturing"
+aliases: ["Cheese Manufacturing"]
 description: "HVAC systems for cheese manufacturing including aging room refrigeration, temperature and humidity control, processing area requirements, and environmental conditions for different cheese types."
 weight: 2
 ---

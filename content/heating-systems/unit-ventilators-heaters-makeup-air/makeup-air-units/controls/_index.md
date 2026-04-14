@@ -1,5 +1,6 @@
 ---
 title: "Controls"
+aliases: ["Controls"]
 weight: 4
 ---
 

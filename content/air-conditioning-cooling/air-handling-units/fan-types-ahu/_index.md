@@ -1,5 +1,6 @@
 ---
 title: "Fan Types Ahu"
+aliases: ["Fan Types Ahu"]
 weight: 3
 ---
 

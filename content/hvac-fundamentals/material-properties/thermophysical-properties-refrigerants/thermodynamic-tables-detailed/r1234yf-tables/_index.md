@@ -1,5 +1,6 @@
 ---
 title: "R1234yf Tables"
+aliases: ["R1234yf Tables"]
 weight: 6
 ---
 

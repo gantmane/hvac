@@ -2,6 +2,7 @@
 title: "Food Storage Requirements & Temperature Tables for Cold Storage Design"
 description: "Comprehensive reference tables for refrigerated and frozen food storage including optimal temperatures, humidity ranges, storage life, respiration rates, and freezing points for fruits, vegetables, meat, dairy, and seafood."
 keywords: ["food storage", "refrigeration temperature", "cold storage", "produce storage", "meat storage", "freezing point", "respiration heat", "storage life"]
+tags: ["food storage", "refrigeration temperature", "cold storage", "produce storage", "meat storage", "freezing point", "respiration heat", "storage life"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 42
@@ -270,11 +271,11 @@ Proper cold storage preserves food quality, extends shelf life, and ensures food
 ---
 
 **Related Technical Guides:**
-- [Refrigeration Load Calculations](/technical-guides/refrigeration-load-calculations/)
-- [Material Thermal Properties](/technical-guides/material-thermal-properties/)
-- [Vapor Compression Refrigeration](/technical-guides/vapor-compression-refrigeration/)
-- [Compressor Selection & Performance](/technical-guides/compressor-selection-performance/)
-- [Cold Storage Facility Design](/technical-guides/cold-storage-facility-design/)
+- Refrigeration Load Calculations
+- Material Thermal Properties
+- Vapor Compression Refrigeration
+- Compressor Selection & Performance
+- Cold Storage Facility Design
 
 **References:**
 - ASHRAE Refrigeration Handbook, Chapter 19: Thermal Properties of Foods

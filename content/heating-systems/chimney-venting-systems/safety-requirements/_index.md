@@ -1,5 +1,6 @@
 ---
 title: "Safety Requirements"
+aliases: ["Safety Requirements"]
 description: "Comprehensive safety requirements for combustion appliance venting including combustion air adequacy calculations, confined and unconfined space air provisions, all-air-from-outdoors configurations, makeup air for mechanical ventilation, spillage testing procedures, CO testing, draft verification, and vent pipe clearances per NFPA 54 and IMC standards."
 weight: 7
 ---

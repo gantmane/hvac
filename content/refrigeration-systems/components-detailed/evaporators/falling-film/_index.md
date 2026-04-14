@@ -1,7 +1,9 @@
 ---
 title: "Falling Film Evaporators"
+aliases: ["Falling Film Evaporators"]
 description: "Comprehensive technical guide to falling film evaporator design, spray distribution systems, tube wetting, heat transfer coefficients, and refrigerant charge reduction in chiller applications"
 keywords: ["falling film evaporator", "spray distribution", "tube wetting", "heat transfer coefficient", "reduced refrigerant charge", "flooded evaporator comparison", "chiller applications", "falling film design"]
+tags: ["falling film evaporator", "spray distribution", "tube wetting", "heat transfer coefficient", "reduced refrigerant charge", "flooded evaporator comparison", "chiller applications", "falling film design"]
 weight: 5
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Aircraft HEPA Filtration Systems"
+aliases: ["Aircraft HEPA Filtration Systems"]
 description: "Engineering analysis of aircraft HEPA filtration including 99.97% particle removal efficiency, pressure drop calculations, filter sizing, recirculation airflow integration, and maintenance protocols."
 keywords: ["aircraft HEPA filters", "cabin air filtration", "particulate removal", "recirculation filtration", "aircraft air quality", "HEPA efficiency", "filter pressure drop", "aviation filtration", "aircraft IAQ", "cabin air purification"]
+tags: ["aircraft HEPA filters", "cabin air filtration", "particulate removal", "recirculation filtration", "aircraft air quality", "HEPA efficiency", "filter pressure drop", "aviation filtration", "aircraft IAQ", "cabin air purification"]
 weight: 2
 ---
 

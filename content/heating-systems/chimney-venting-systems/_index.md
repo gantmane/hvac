@@ -1,5 +1,6 @@
 ---
 title: "Chimney and Venting Systems"
+aliases: ["Chimney and Venting Systems"]
 description: "Comprehensive guide to chimney and venting systems for combustion appliances, including masonry and factory-built chimneys, gas venting systems, draft calculations, and safety requirements per NFPA standards."
 weight: 9
 ---

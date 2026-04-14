@@ -1,5 +1,6 @@
 ---
 title: "Surface Radiation"
+aliases: ["Surface Radiation"]
 weight: 2
 ---
 

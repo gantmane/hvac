@@ -1,5 +1,6 @@
 ---
 title: "Smart Materials"
+aliases: ["Smart Materials"]
 weight: 5
 ---
 

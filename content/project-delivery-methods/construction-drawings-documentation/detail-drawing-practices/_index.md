@@ -1,5 +1,6 @@
 ---
 title: "Detail Drawing Practices"
+aliases: ["Detail Drawing Practices"]
 description: "Advanced HVAC detail drawing standards covering equipment connection details, duct and piping construction details, scale selection criteria, dimensioning conventions, material specifications, section cut techniques, and detail referencing systems for construction documentation"
 weight: 4
 ---

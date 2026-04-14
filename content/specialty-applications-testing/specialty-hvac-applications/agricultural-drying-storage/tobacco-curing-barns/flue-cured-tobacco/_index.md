@@ -1,7 +1,9 @@
 ---
 title: "Flue-Cured Tobacco Barn Systems and Process Control"
+aliases: ["Flue-Cured Tobacco Barn Systems and Process Control"]
 description: "Comprehensive analysis of flue-cured tobacco barn design, three-stage curing process control, temperature-humidity profiles, heat exchanger systems, and energy-efficient ventilation strategies."
 keywords: ["flue-cured tobacco", "bulk curing barn", "tobacco yellowing", "leaf drying process", "heat exchanger design", "ventilation damper control", "curing energy efficiency", "tobacco barn HVAC"]
+tags: ["flue-cured tobacco", "bulk curing barn", "tobacco yellowing", "leaf drying process", "heat exchanger design", "ventilation damper control", "curing energy efficiency", "tobacco barn HVAC"]
 weight: 1
 ---
 

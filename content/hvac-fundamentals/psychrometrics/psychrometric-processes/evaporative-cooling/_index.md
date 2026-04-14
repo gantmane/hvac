@@ -1,5 +1,6 @@
 ---
 title: "Evaporative Cooling"
+aliases: ["Evaporative Cooling"]
 description: "Comprehensive technical analysis of evaporative cooling processes, including direct and indirect systems, wet bulb effectiveness, psychrometric analysis, and engineering design calculations for HVAC applications."
 weight: 7
 ---

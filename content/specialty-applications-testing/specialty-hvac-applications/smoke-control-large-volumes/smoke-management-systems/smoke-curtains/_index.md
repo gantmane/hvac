@@ -1,7 +1,9 @@
 ---
 title: "Smoke Curtains & Fire Barrier Systems"
+aliases: ["Smoke Curtains & Fire Barrier Systems"]
 description: "Technical guide to automatic smoke curtain deployment, containment zone design, smoke layer management, and HVAC coordination in large-volume spaces per NFPA 92."
 keywords: ["smoke curtains", "smoke barriers", "automatic deployment", "containment zones", "smoke layer depth", "NFPA 92", "fire protection", "HVAC coordination"]
+tags: ["smoke curtains", "smoke barriers", "automatic deployment", "containment zones", "smoke layer depth", "NFPA 92", "fire protection", "HVAC coordination"]
 weight: 3
 ---
 

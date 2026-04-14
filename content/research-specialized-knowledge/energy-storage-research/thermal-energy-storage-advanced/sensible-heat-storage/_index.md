@@ -1,5 +1,6 @@
 ---
 title: "Sensible Heat Storage"
+aliases: ["Sensible Heat Storage"]
 weight: 1
 ---
 

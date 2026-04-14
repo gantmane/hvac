@@ -1,5 +1,6 @@
 ---
 title: "Pressure Control"
+aliases: ["Pressure Control"]
 weight: 4
 ---
 

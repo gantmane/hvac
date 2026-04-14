@@ -1,7 +1,9 @@
 ---
 title: "Livestock Housing Ventilation Systems"
+aliases: ["Livestock Housing Ventilation Systems"]
 description: "Design principles for livestock housing HVAC including ventilation rates, heat removal, and moisture control for poultry, swine, dairy, and beef facilities."
 keywords: ["livestock ventilation", "animal housing HVAC", "poultry ventilation", "swine housing", "dairy barn ventilation", "agricultural HVAC", "animal heat load", "barn ventilation design"]
+tags: ["livestock ventilation", "animal housing HVAC", "poultry ventilation", "swine housing", "dairy barn ventilation", "agricultural HVAC", "animal heat load", "barn ventilation design"]
 weight: 1
 ---
 

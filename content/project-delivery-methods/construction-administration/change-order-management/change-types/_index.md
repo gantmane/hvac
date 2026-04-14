@@ -1,5 +1,6 @@
 ---
 title: "Change Types"
+aliases: ["Change Types"]
 weight: 1
 ---
 

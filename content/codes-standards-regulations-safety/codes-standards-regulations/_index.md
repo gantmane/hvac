@@ -1,7 +1,9 @@
 ---
 title: "HVAC Codes, Standards, and Regulations Overview"
+aliases: ["HVAC Codes, Standards, and Regulations Overview"]
 description: "Essential guide to HVAC codes, standards, and regulations covering ASHRAE, ICC, NFPA, UL, SMACNA requirements, adoption processes, and enforcement mechanisms."
 keywords: ["HVAC codes", "building codes", "ASHRAE standards", "mechanical codes", "code compliance", "NFPA standards", "UL certification", "SMACNA"]
+tags: ["HVAC codes", "building codes", "ASHRAE standards", "mechanical codes", "code compliance", "NFPA standards", "UL certification", "SMACNA"]
 weight: 1
 ---
 

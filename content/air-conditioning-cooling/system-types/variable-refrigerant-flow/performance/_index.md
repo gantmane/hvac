@@ -1,5 +1,6 @@
 ---
 title: "Performance"
+aliases: ["Performance"]
 weight: 5
 ---
 

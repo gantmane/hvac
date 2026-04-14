@@ -1,5 +1,6 @@
 ---
 title: "Transfer Functions"
+aliases: ["Transfer Functions"]
 description: "Mathematical analysis of HVAC control system dynamics using transfer functions, Laplace transforms, poles and zeros, and frequency domain representation for stability and performance evaluation."
 date: 2026-01-04
 weight: 3

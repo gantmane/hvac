@@ -1,8 +1,10 @@
 ---
 title: "Electric Infrared Heaters"
+aliases: ["Electric Infrared Heaters"]
 weight: 2
 description: "Engineering analysis of electric infrared heaters including quartz lamp, quartz tube, metal sheath, and ceramic panel technologies, wavelength characteristics, resistance heating fundamentals, reflector design, and applications for process heating, spot comfort, and industrial drying operations."
 keywords: "electric infrared heaters, quartz tube heaters, quartz lamp heaters, metal sheath heaters, ceramic infrared, resistance heating, near-infrared, medium-infrared, far-infrared, infrared wavelength"
+tags: ["electric infrared heaters", "quartz tube heaters", "quartz lamp heaters", "metal sheath heaters", "ceramic infrared", "resistance heating", "near-infrared", "medium-infrared", "far-infrared", "infrared wavelength"]
 ---
 
 # Electric Infrared Heaters

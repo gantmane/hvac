@@ -1,7 +1,9 @@
 ---
 title: "Water Heating Energy Use Analysis"
+aliases: ["Water Heating Energy Use Analysis"]
 description: "Technical analysis of residential and commercial water heating energy consumption, including heat pump, solar thermal, and conventional systems with efficiency metrics."
 keywords: ["water heating energy", "heat pump water heater", "solar thermal", "water heater efficiency", "DHW load calculation", "energy factor", "uniform energy factor", "storage tank losses"]
+tags: ["water heating energy", "heat pump water heater", "solar thermal", "water heater efficiency", "DHW load calculation", "energy factor", "uniform energy factor", "storage tank losses"]
 weight: 4
 ---
 

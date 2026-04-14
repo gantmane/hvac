@@ -1,7 +1,9 @@
 ---
 title: "Temperature Rise in Water Heating Systems"
+aliases: ["Temperature Rise in Water Heating Systems"]
 description: "Calculate temperature rise and energy requirements for domestic hot water systems. Understand inlet temperature variations, seasonal impacts, and sizing implications."
 keywords: ["temperature rise calculation", "domestic hot water", "delta T", "inlet water temperature", "recovery time", "water heater sizing", "seasonal variations", "DHW energy"]
+tags: ["temperature rise calculation", "domestic hot water", "delta T", "inlet water temperature", "recovery time", "water heater sizing", "seasonal variations", "DHW energy"]
 weight: 2
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Recovery Time Method for Water Heater Sizing"
+aliases: ["Recovery Time Method for Water Heater Sizing"]
 description: "Engineering guide to water heater sizing using recovery time analysis. Covers storage-recovery balance, usage patterns, and ASHRAE methodology."
 keywords: ["recovery time", "water heater sizing", "recovery rate", "storage capacity", "ASHRAE 90.1", "recovery efficiency", "DHW sizing", "tank recovery"]
+tags: ["recovery time", "water heater sizing", "recovery rate", "storage capacity", "ASHRAE 90.1", "recovery efficiency", "DHW sizing", "tank recovery"]
 weight: 1
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Air Conditioning & Cooling Systems Guide"
+aliases: ["Air Conditioning & Cooling Systems Guide"]
 description: "Comprehensive guide to HVAC cooling technologies including vapor-compression refrigeration, evaporative cooling, absorption chillers, and heat rejection systems."
 keywords: ["air conditioning", "cooling systems", "refrigeration cycle", "evaporative cooling", "absorption chillers", "HVAC", "heat rejection", "psychrometrics"]
+tags: ["air conditioning", "cooling systems", "refrigeration cycle", "evaporative cooling", "absorption chillers", "HVAC", "heat rejection", "psychrometrics"]
 weight: 1
 ---
 

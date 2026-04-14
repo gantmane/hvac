@@ -1,5 +1,6 @@
 ---
 title: "Operational Carbon in HVAC Systems"
+aliases: ["Operational Carbon in HVAC Systems"]
 linkTitle: "Operational Carbon"
 date: 2026-01-05
 description: "Technical methods for calculating and reducing operational carbon emissions from HVAC systems through efficiency improvements, electrification, and grid decarbonization strategies"

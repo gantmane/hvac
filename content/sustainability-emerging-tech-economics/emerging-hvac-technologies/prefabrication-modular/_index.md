@@ -1,5 +1,6 @@
 ---
 title: "Prefabrication & Modular HVAC Systems"
+aliases: ["Prefabrication & Modular HVAC Systems"]
 description: "Technical analysis of prefabricated and modular HVAC systems covering design standardization, quality control, installation efficiency, and lifecycle benefits."
 date: 2025-01-05
 draft: false

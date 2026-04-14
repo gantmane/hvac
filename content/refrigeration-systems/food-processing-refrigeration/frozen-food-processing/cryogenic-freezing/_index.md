@@ -1,5 +1,6 @@
 ---
 title: "Cryogenic Freezing"
+aliases: ["Cryogenic Freezing"]
 weight: 4
 ---
 

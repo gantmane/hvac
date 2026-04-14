@@ -1,5 +1,6 @@
 ---
 title: "Blends"
+aliases: ["Blends"]
 weight: 6
 ---
 

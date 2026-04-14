@@ -1,8 +1,10 @@
 ---
 title: "Spray Dryers: Atomization & Heat Transfer Systems"
+aliases: ["Spray Dryers: Atomization & Heat Transfer Systems"]
 weight: 1
 description: "Technical analysis of spray drying systems covering atomization methods, co-current/counter-current flow patterns, heat and mass transfer equations, chamber design, and powder production control."
 keywords: ["spray drying", "atomization", "co-current flow", "rotary atomizer", "powder production", "evaporation rate", "droplet drying", "nozzle design"]
+tags: ["spray drying", "atomization", "co-current flow", "rotary atomizer", "powder production", "evaporation rate", "droplet drying", "nozzle design"]
 ---
 
 ## Spray Drying Fundamentals

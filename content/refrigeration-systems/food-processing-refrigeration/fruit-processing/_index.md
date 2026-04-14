@@ -1,5 +1,6 @@
 ---
 title: "Fruit Processing Refrigeration"
+aliases: ["Fruit Processing Refrigeration"]
 description: "Technical guidance on refrigeration systems for fruit processing facilities including precooling methods, storage temperatures, freezing systems, juice concentration, and quality preservation strategies for commercial fruit operations."
 weight: 1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Relative Humidity Requirements"
+aliases: ["Relative Humidity Requirements"]
 weight: 2
 ---
 

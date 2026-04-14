@@ -1,5 +1,6 @@
 ---
 title: "Equipment Certification for Seismic & Wind Resistance"
+aliases: ["Equipment Certification for Seismic & Wind Resistance"]
 description: "Comprehensive guide to HVAC equipment certification including ICC-ES, shake table testing, UL, FM, and OSHPD approval processes with seismic qualification standards."
 date: 2025-01-05
 keywords:
@@ -181,7 +182,7 @@ Field modifications invalidate certifications unless approved by the certificati
 ---
 
 **Related Topics:**
-- [Seismic Design Criteria](/specialty-applications-testing/seismic-wind-flood-resistant-design/seismic-design-criteria/)
-- [Seismic Bracing for Equipment](/specialty-applications-testing/seismic-wind-flood-resistant-design/seismic-bracing-equipment/)
-- [Wind Load Design](/specialty-applications-testing/seismic-wind-flood-resistant-design/wind-load-design/)
-- [Resilient Design Strategies](/specialty-applications-testing/seismic-wind-flood-resistant-design/resilient-design-strategies/)
+- [Seismic Design Criteria](../../../specialty-applications-testing/seismic-wind-flood-resistant-design/seismic-design-criteria/_index.md)
+- [Seismic Bracing for Equipment](../../../specialty-applications-testing/seismic-wind-flood-resistant-design/seismic-bracing-equipment/_index.md)
+- [Wind Load Design](../../../specialty-applications-testing/seismic-wind-flood-resistant-design/wind-load-design/_index.md)
+- [Resilient Design Strategies](../../../specialty-applications-testing/seismic-wind-flood-resistant-design/resilient-design-strategies/_index.md)

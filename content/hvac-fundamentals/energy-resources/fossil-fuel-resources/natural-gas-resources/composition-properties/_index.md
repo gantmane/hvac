@@ -1,5 +1,6 @@
 ---
 title: "Natural Gas Composition and Properties"
+aliases: ["Natural Gas Composition and Properties"]
 description: "Detailed examination of natural gas composition, heating value, specific gravity, Wobbe Index, and combustion properties critical for HVAC equipment design and operation."
 weight: 3
 ---

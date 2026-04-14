@@ -1,5 +1,6 @@
 ---
 title: "Package Size Effects"
+aliases: ["Package Size Effects"]
 weight: 6
 ---
 

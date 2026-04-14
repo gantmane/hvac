@@ -1,5 +1,6 @@
 ---
 title: "Asia-Pacific HVAC Incentive Programs"
+aliases: ["Asia-Pacific HVAC Incentive Programs"]
 description: "Technical analysis of Asia-Pacific government incentives for high-efficiency HVAC systems including rebates, tax credits, and performance-based mechanisms."
 date: 2025-01-05
 tags: ["incentives", "asia-pacific", "government programs", "energy efficiency", "rebates", "tax credits"]

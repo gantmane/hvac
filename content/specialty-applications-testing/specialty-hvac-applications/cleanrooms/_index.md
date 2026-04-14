@@ -1,7 +1,9 @@
 ---
 title: "Cleanroom HVAC Systems: Design and Classification"
+aliases: ["Cleanroom HVAC Systems: Design and Classification"]
 description: "Physics-based cleanroom HVAC design principles, ISO 14644 classifications, airflow patterns, filtration requirements, and pressure control for pharmaceutical and semiconductor facilities."
 keywords: ["cleanroom HVAC", "ISO 14644", "HEPA filtration", "unidirectional airflow", "cleanroom classification", "particle control", "pressure cascade", "air changes per hour"]
+tags: ["cleanroom HVAC", "ISO 14644", "HEPA filtration", "unidirectional airflow", "cleanroom classification", "particle control", "pressure cascade", "air changes per hour"]
 weight: 1
 ---
 

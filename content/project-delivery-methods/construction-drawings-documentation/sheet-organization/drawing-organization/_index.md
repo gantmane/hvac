@@ -1,5 +1,6 @@
 ---
 title: "Drawing Organization"
+aliases: ["Drawing Organization"]
 weight: 3
 ---
 

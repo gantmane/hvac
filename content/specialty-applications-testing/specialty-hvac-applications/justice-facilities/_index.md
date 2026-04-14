@@ -1,8 +1,10 @@
 ---
 title: "HVAC Systems for Justice Facilities and Correctional Institutions"
+aliases: ["HVAC Systems for Justice Facilities and Correctional Institutions"]
 description: "Comprehensive guide to HVAC design for justice facilities including jails, prisons, and courthouses with security integration, air distribution strategies, and code compliance."
 date: 2026-01-11
 keywords: ["justice facility HVAC", "correctional facility ventilation", "prison air conditioning", "jail HVAC design", "courthouse climate control", "security HVAC systems", "detention center ventilation", "ACA HVAC standards"]
+tags: ["justice facility HVAC", "correctional facility ventilation", "prison air conditioning", "jail HVAC design", "courthouse climate control", "security HVAC systems", "detention center ventilation", "ACA HVAC standards"]
 weight: 29
 ---
 

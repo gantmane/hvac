@@ -1,7 +1,9 @@
 ---
 title: "Surface vs Underground Fan Mounting in Mine Ventilation"
+aliases: ["Surface vs Underground Fan Mounting in Mine Ventilation"]
 description: "Strategic placement of mine ventilation fans comparing surface-mounted configurations with underground booster installations for airflow optimization and safety."
 keywords: ["mine ventilation", "surface fans", "underground fans", "booster fans", "fan mounting", "mine safety", "ventilation design", "fan placement"]
+tags: ["mine ventilation", "surface fans", "underground fans", "booster fans", "fan mounting", "mine safety", "ventilation design", "fan placement"]
 weight: 3
 ---
 

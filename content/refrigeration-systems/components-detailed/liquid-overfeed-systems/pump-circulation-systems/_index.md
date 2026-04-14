@@ -1,5 +1,6 @@
 ---
 title: "Pump Circulation Systems"
+aliases: ["Pump Circulation Systems"]
 description: "Comprehensive technical guide to refrigerant pump circulation systems in liquid overfeed applications including pump selection, NPSH requirements, redundancy configurations, control strategies, and energy analysis for industrial refrigeration systems."
 weight: 4
 ---

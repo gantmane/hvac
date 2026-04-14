@@ -1,7 +1,9 @@
 ---
 title: "Baghouse Dust Collectors for Industrial Applications"
+aliases: ["Baghouse Dust Collectors for Industrial Applications"]
 description: "Comprehensive guide to baghouse dust collection systems, including pulse-jet and reverse-air cleaning mechanisms, filter media selection, air-to-cloth ratios, and maintenance."
 keywords: ["baghouse", "dust collector", "pulse-jet cleaning", "filter bags", "air-to-cloth ratio", "industrial filtration", "fabric filter", "dust collection"]
+tags: ["baghouse", "dust collector", "pulse-jet cleaning", "filter bags", "air-to-cloth ratio", "industrial filtration", "fabric filter", "dust collection"]
 weight: 2
 ---
 

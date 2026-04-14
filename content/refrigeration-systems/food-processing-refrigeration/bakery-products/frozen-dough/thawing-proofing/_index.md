@@ -1,5 +1,6 @@
 ---
 title: "Thawing and Proofing Systems"
+aliases: ["Thawing and Proofing Systems"]
 description: "Controlled thawing protocols, retarder-proofer systems, temperature transitions, condensation management, and heat transfer analysis for frozen dough processing"
 weight: 3
 ---

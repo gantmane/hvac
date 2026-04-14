@@ -1,5 +1,6 @@
 ---
 title: "Fuels"
+aliases: ["Fuels"]
 description: "Technical analysis of heating fuels including natural gas, propane, and fuel oil properties, heating values, combustion characteristics, and fuel selection criteria for commercial and residential HVAC applications."
 weight: 2
 ---

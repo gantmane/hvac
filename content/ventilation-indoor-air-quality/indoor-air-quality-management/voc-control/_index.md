@@ -1,8 +1,10 @@
 ---
 title: "VOC Control in HVAC Systems"
+aliases: ["VOC Control in HVAC Systems"]
 description: "Physics-based strategies for volatile organic compound removal including ventilation dilution, activated carbon adsorption, photocatalytic oxidation, and source control."
 date: 2025-01-05
 keywords: ["VOC control", "volatile organic compounds", "activated carbon", "photocatalytic oxidation", "source control", "dilution ventilation", "indoor air quality"]
+tags: ["VOC control", "volatile organic compounds", "activated carbon", "photocatalytic oxidation", "source control", "dilution ventilation", "indoor air quality"]
 ---
 
 # VOC Control in HVAC Systems

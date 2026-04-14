@@ -1,5 +1,6 @@
 ---
 title: "EN Refrigeration Standards: European Requirements"
+aliases: ["EN Refrigeration Standards: European Requirements"]
 description: "European refrigeration standards EN 378 and EN 13313 for safety, design, and performance. Harmonized requirements for refrigerant systems across EU member states."
 date: 2025-01-05
 tags: ["refrigeration", "European standards", "EN 378", "EN 13313", "refrigerant safety", "pressure equipment directive", "F-Gas regulation"]

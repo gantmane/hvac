@@ -1,5 +1,6 @@
 ---
 title: "Resilient HVAC Design Strategies"
+aliases: ["Resilient HVAC Design Strategies"]
 description: "Engineering strategies for resilient HVAC systems in critical facilities including redundancy concepts, diversity principles, backup power integration, equipment hardening, and rapid recovery planning aligned with RELi certification standards."
 keywords:
   - HVAC resilience engineering

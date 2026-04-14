@@ -1,5 +1,6 @@
 ---
 title: "Load Management"
+aliases: ["Load Management"]
 weight: 6
 ---
 

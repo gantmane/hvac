@@ -1,7 +1,9 @@
 ---
 title: "Solar Thermal Applications for HVAC Systems"
+aliases: ["Solar Thermal Applications for HVAC Systems"]
 description: "Comprehensive guide to solar thermal collectors for water heating, space heating, and absorption cooling. Includes collector efficiency, SRCC ratings, and system design."
 keywords: ["solar thermal collectors", "solar water heating", "evacuated tube collectors", "flat plate collectors", "absorption cooling", "SRCC ratings", "collector efficiency", "solar space heating"]
+tags: ["solar thermal collectors", "solar water heating", "evacuated tube collectors", "flat plate collectors", "absorption cooling", "SRCC ratings", "collector efficiency", "solar space heating"]
 weight: 4
 ---
 

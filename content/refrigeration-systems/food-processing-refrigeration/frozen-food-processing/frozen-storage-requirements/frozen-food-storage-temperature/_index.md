@@ -1,5 +1,6 @@
 ---
 title: "Frozen Food Storage Temperature"
+aliases: ["Frozen Food Storage Temperature"]
 description: "Technical requirements for frozen food storage temperatures including standard conditions, product-specific requirements, ultra-low storage, temperature distribution control, and monitoring systems for commercial refrigeration applications"
 weight: 1
 ---

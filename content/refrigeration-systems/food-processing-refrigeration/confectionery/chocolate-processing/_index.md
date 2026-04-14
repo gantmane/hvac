@@ -1,5 +1,6 @@
 ---
 title: "Chocolate Processing"
+aliases: ["Chocolate Processing"]
 description: "Refrigeration systems for chocolate processing including tempering room conditions, enrobing tunnel cooling, crystallization control, fat bloom prevention, and humidity management for quality chocolate manufacturing."
 weight: 1
 ---

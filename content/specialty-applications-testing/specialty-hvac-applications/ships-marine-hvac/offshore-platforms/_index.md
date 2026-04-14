@@ -1,5 +1,6 @@
 ---
 title: "Offshore Platform HVAC Systems"
+aliases: ["Offshore Platform HVAC Systems"]
 description: "HVAC design for offshore oil and gas platforms, drilling rigs, and FPSOs including hazardous area classifications, accommodation comfort, pressurization requirements, and compliance with offshore standards."
 date: "2026-01-05"
 weight: 4

@@ -1,7 +1,9 @@
 ---
 title: "Biosafety Cabinets"
+aliases: ["Biosafety Cabinets"]
 description: "HVAC considerations for biosafety cabinet integration including exhaust connections, airflow requirements, and containment verification."
 keywords: ["biosafety cabinet", "BSC", "biological safety", "laboratory HVAC", "containment", "Class II BSC"]
+tags: ["biosafety cabinet", "BSC", "biological safety", "laboratory HVAC", "containment", "Class II BSC"]
 weight: 5
 ---
 

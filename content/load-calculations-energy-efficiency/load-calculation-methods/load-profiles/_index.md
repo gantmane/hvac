@@ -1,5 +1,6 @@
 ---
 title: "Load Profiles"
+aliases: ["Load Profiles"]
 description: "Analysis of hourly load profiles for HVAC system design including peak load timing, diversity factors, coincident vs. non-coincident loads, and load duration curves for equipment optimization."
 weight: 4
 ---

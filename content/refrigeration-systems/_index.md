@@ -1,5 +1,6 @@
 ---
 title: "Refrigeration Systems: Thermodynamic Cycles & Design"
+aliases: ["Refrigeration Systems: Thermodynamic Cycles & Design"]
 description: "Comprehensive coverage of refrigeration thermodynamics, vapor compression cycles, components, refrigerants, and applications from commercial to industrial systems."
 weight: 12
 ---

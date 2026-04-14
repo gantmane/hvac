@@ -1,5 +1,6 @@
 ---
 title: "Desert Climate HVAC Characteristics"
+aliases: ["Desert Climate HVAC Characteristics"]
 description: "Technical analysis of desert climate parameters affecting HVAC design including extreme temperature differentials, low humidity, and solar radiation impacts."
 date: 2025-01-05
 draft: false

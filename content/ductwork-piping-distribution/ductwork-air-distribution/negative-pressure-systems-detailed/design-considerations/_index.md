@@ -1,5 +1,6 @@
 ---
 title: "Design Considerations"
+aliases: ["Design Considerations"]
 weight: 2
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "General Capture Velocity (100-200 fpm) Applications"
+aliases: ["General Capture Velocity (100-200 fpm) Applications"]
 description: "Low-velocity capture systems for dispersed contaminants in industrial environments. Hood design, distance considerations, and ACGIH guidelines for general capture."
 keywords: ["capture velocity", "general exhaust", "low velocity capture", "industrial ventilation", "hood design", "ACGIH standards", "contaminant control", "air currents"]
+tags: ["capture velocity", "general exhaust", "low velocity capture", "industrial ventilation", "hood design", "ACGIH standards", "contaminant control", "air currents"]
 date: 2025-01-11
 weight: 1
 draft: false

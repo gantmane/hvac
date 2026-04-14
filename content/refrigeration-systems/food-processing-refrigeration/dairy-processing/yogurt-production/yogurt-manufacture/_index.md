@@ -1,5 +1,6 @@
 ---
 title: "Yogurt Manufacture"
+aliases: ["Yogurt Manufacture"]
 description: "Comprehensive thermal control requirements for yogurt production including incubation temperature control, fermentation monitoring, post-fermentation cooling, and process room HVAC specifications"
 weight: 1
 ---

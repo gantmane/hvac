@@ -2,6 +2,7 @@
 title: "Ventilation Rate Calculations for HVAC Engineers"
 description: "ASHRAE Standard 62.1 procedures, zone and system outdoor air calculations, and ventilation effectiveness factors for code-compliant design."
 keywords: ["ASHRAE 62.1", "outdoor air", "ventilation rate", "zone ventilation", "IAQ", "minimum ventilation"]
+tags: ["ASHRAE 62.1", "outdoor air", "ventilation rate", "zone ventilation", "IAQ", "minimum ventilation"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 19
@@ -99,9 +100,9 @@ $$Q_{cool} = 1.08 \times CFM_{OA} \times CDD_{65} \times 24$$
 ---
 
 **Related Technical Guides:**
-- [Psychrometric Processes](/technical-guides/psychrometric-processes/)
-- [Energy Recovery Systems](/technical-guides/energy-recovery-systems/)
-- [Load Calculation Methodology](/technical-guides/load-calculation-methodology/)
+- Psychrometric Processes
+- Energy Recovery Systems
+- Load Calculation Methodology
 
 **References:**
 - ASHRAE Standard 62.1: Ventilation for Acceptable Indoor Air Quality

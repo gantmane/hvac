@@ -1,5 +1,6 @@
 ---
 title: "HVAC Solutions for Developing World Applications"
+aliases: ["HVAC Solutions for Developing World Applications"]
 description: "Physics-based approaches to climate control in resource-constrained environments including passive cooling, low-energy systems, and appropriate technology design."
 weight: 4
 ---

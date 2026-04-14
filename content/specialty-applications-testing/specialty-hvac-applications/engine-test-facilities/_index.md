@@ -1,7 +1,9 @@
 ---
 title: "HVAC Systems for Engine Test Facilities"
+aliases: ["HVAC Systems for Engine Test Facilities"]
 description: "Engineering analysis of engine test facility HVAC including combustion air supply, exhaust ventilation, test cell conditioning, noise control, and safety system integration."
 keywords: "engine test facility HVAC, dynamometer test cell ventilation, combustion air supply, engine exhaust systems, test cell conditioning, engine test safety systems, test facility noise control, dynamometer cooling"
+tags: ["engine test facility HVAC", "dynamometer test cell ventilation", "combustion air supply", "engine exhaust systems", "test cell conditioning", "engine test safety systems", "test facility noise control", "dynamometer cooling"]
 weight: 7
 ---
 

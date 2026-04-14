@@ -1,7 +1,9 @@
 ---
 title: "Environmental Dataloggers for Museum Monitoring"
+aliases: ["Environmental Dataloggers for Museum Monitoring"]
 description: "Technical guide to temperature and RH dataloggers for museums: sensor accuracy, sampling intervals, wireless systems, calibration, and data analysis for collection preservation."
 keywords: ["dataloggers", "museum environmental monitoring", "temperature humidity sensors", "RH logging", "sensor calibration", "wireless dataloggers", "museum conservation", "environmental data analysis"]
+tags: ["dataloggers", "museum environmental monitoring", "temperature humidity sensors", "RH logging", "sensor calibration", "wireless dataloggers", "museum conservation", "environmental data analysis"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Psychrometric Calculations"
+aliases: ["Psychrometric Calculations"]
 description: "Step-by-step practical psychrometric calculation examples for HVAC system design including load analysis, equipment sizing, and process optimization."
 date: "2026-01-04"
 weight: 4

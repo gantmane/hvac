@@ -1,7 +1,9 @@
 ---
 title: "HVAC for Retractable Roof Stadiums"
+aliases: ["HVAC for Retractable Roof Stadiums"]
 description: "Engineering climate control systems for retractable roof stadiums: dual-mode operation, transition period conditioning, pressurization strategies, and moisture management."
 keywords: ["retractable roof HVAC", "stadium climate control", "dual-mode ventilation", "building pressurization", "moisture control systems", "natural ventilation stadiums", "transition period HVAC", "rain delay conditioning"]
+tags: ["retractable roof HVAC", "stadium climate control", "dual-mode ventilation", "building pressurization", "moisture control systems", "natural ventilation stadiums", "transition period HVAC", "rain delay conditioning"]
 weight: 3
 ---
 

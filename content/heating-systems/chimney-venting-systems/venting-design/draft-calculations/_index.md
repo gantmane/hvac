@@ -1,5 +1,6 @@
 ---
 title: "Draft Calculations"
+aliases: ["Draft Calculations"]
 description: "Engineering methodology for natural draft chimney calculations including theoretical draft determination, available draft analysis, required appliance draft, stack temperature effects, ambient conditions, chimney height optimization, and flow resistance quantification for atmospheric venting systems."
 weight: 1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "External Insulation"
+aliases: ["External Insulation"]
 weight: 5
 ---
 

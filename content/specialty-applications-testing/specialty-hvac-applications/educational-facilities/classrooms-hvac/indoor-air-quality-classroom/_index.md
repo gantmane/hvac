@@ -1,7 +1,9 @@
 ---
 title: "Indoor Air Quality Requirements in Classrooms"
+aliases: ["Indoor Air Quality Requirements in Classrooms"]
 description: "Comprehensive guide to classroom IAQ including ASHRAE 62.1 ventilation rates, filtration requirements, CO2-based demand control, and air cleaning technologies."
 keywords: ["classroom indoor air quality", "ASHRAE 62.1 ventilation", "school air filtration", "CO2 demand ventilation", "classroom HVAC", "educational facility IAQ", "MERV 13 filters", "student health ventilation"]
+tags: ["classroom indoor air quality", "ASHRAE 62.1 ventilation", "school air filtration", "CO2 demand ventilation", "classroom HVAC", "educational facility IAQ", "MERV 13 filters", "student health ventilation"]
 date: 2026-01-11
 draft: false
 ---

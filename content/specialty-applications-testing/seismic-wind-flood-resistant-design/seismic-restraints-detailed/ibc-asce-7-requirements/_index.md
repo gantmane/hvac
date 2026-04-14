@@ -1,5 +1,6 @@
 ---
 title: "IBC ASCE 7 Requirements"
+aliases: ["IBC ASCE 7 Requirements"]
 weight: 4
 ---
 

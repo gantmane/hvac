@@ -1,7 +1,9 @@
 ---
 title: "HVAC for Places of Assembly"
+aliases: ["HVAC for Places of Assembly"]
 description: "Engineering guide to HVAC systems for high-occupancy facilities including theaters, auditoriums, and arenas with ventilation rates, load diversity, and life safety integration."
 keywords: ["places of assembly HVAC", "assembly occupancy ventilation", "theater HVAC design", "auditorium air conditioning", "high occupancy ventilation", "ASHRAE 62.1 assembly", "assembly space thermal comfort", "life safety ventilation"]
+tags: ["places of assembly HVAC", "assembly occupancy ventilation", "theater HVAC design", "auditorium air conditioning", "high occupancy ventilation", "ASHRAE 62.1 assembly", "assembly space thermal comfort", "life safety ventilation"]
 weight: 30
 ---
 

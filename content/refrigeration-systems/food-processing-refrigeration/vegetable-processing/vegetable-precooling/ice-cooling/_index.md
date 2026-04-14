@@ -1,5 +1,6 @@
 ---
 title: "Ice Cooling"
+aliases: ["Ice Cooling"]
 description: "Direct contact ice cooling methods for rapid vegetable precooling, including top icing, liquid ice, and slurry ice systems with heat transfer calculations and equipment specifications"
 weight: 5
 ---

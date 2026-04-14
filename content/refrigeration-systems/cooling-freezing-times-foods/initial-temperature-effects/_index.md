@@ -1,5 +1,6 @@
 ---
 title: "Initial Temperature Effects"
+aliases: ["Initial Temperature Effects"]
 weight: 8
 ---
 

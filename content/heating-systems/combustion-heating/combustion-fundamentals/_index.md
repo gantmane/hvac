@@ -1,7 +1,9 @@
 ---
 title: "Combustion Fundamentals"
+aliases: ["Combustion Fundamentals"]
 description: "Comprehensive guide to combustion fundamentals for HVAC heating systems including stoichiometric combustion, excess air requirements, combustion products, flame temperature, efficiency calculations, and flue gas analysis."
 keywords: "combustion fundamentals, stoichiometric combustion, excess air, combustion efficiency, flue gas analysis, air-fuel ratio, heating value, HHV, LHV, NOx formation, combustion products, ASHRAE combustion"
+tags: ["combustion fundamentals", "stoichiometric combustion", "excess air", "combustion efficiency", "flue gas analysis", "air-fuel ratio", "heating value", "HHV", "LHV", "NOx formation"]
 weight: 1
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Double-Effect Absorption Refrigeration"
+aliases: ["Double-Effect Absorption Refrigeration"]
 weight: 2
 description: "Advanced absorption chiller technology achieving COP 1.0-1.2 through cascaded generator design with high-temperature heat sources (140-180°C). Direct-fired and steam-driven configurations for commercial applications."
 keywords: ["double-effect absorption chiller", "cascaded generator", "high-temperature heat source", "direct-fired chiller", "steam-driven absorption", "COP 1.2", "series flow cycle", "parallel flow cycle"]
+tags: ["double-effect absorption chiller", "cascaded generator", "high-temperature heat source", "direct-fired chiller", "steam-driven absorption", "COP 1.2", "series flow cycle", "parallel flow cycle"]
 ---
 
 ## Overview

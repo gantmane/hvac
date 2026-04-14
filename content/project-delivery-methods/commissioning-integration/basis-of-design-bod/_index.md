@@ -1,7 +1,9 @@
 ---
 title: "Basis of Design in HVAC Commissioning"
+aliases: ["Basis of Design in HVAC Commissioning"]
 description: "Comprehensive guide to Basis of Design documentation structure, BOD-OPR relationships, design assumptions, system descriptions, and ASHRAE commissioning requirements."
 keywords: ["basis of design", "BOD documentation", "HVAC commissioning", "OPR relationship", "design assumptions", "ASHRAE Guideline 0", "system descriptions", "load calculations"]
+tags: ["basis of design", "BOD documentation", "HVAC commissioning", "OPR relationship", "design assumptions", "ASHRAE Guideline 0", "system descriptions", "load calculations"]
 weight: 2
 ---
 

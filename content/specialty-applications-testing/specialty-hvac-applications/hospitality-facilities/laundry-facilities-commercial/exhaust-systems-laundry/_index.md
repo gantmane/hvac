@@ -1,7 +1,9 @@
 ---
 title: "Exhaust Systems for Commercial Hotel Laundries"
+aliases: ["Exhaust Systems for Commercial Hotel Laundries"]
 description: "Dryer exhaust requirements, lint control, fire prevention, general room ventilation, and backdraft prevention strategies for commercial hotel laundry facilities."
 keywords: ["laundry exhaust", "dryer exhaust", "lint collection", "commercial laundry ventilation", "fire prevention laundry", "NFPA 90A", "backdraft prevention", "laundry heat removal"]
+tags: ["laundry exhaust", "dryer exhaust", "lint collection", "commercial laundry ventilation", "fire prevention laundry", "NFPA 90A", "backdraft prevention", "laundry heat removal"]
 date: 2025-01-11
 weight: 3
 draft: false

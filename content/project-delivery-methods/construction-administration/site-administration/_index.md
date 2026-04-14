@@ -1,5 +1,6 @@
 ---
 title: "Site Administration"
+aliases: ["Site Administration"]
 description: "Comprehensive guide to construction site administration for HVAC projects including meetings, documentation, progress reporting, and record keeping procedures."
 weight: 6
 ---

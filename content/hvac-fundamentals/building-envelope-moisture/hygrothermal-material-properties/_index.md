@@ -1,5 +1,6 @@
 ---
 title: "Hygrothermal Material Properties"
+aliases: ["Hygrothermal Material Properties"]
 description: "Engineering fundamentals of hygrothermal material properties including water vapor permeability, hygroscopic moisture content, thermal conductivity variations with moisture, and material property databases for building envelope moisture analysis."
 weight: 2
 ---

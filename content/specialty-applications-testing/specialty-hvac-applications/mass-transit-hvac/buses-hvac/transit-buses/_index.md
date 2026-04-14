@@ -1,7 +1,9 @@
 ---
 title: "Transit Bus HVAC: Door Cycling and Standee Load Design"
+aliases: ["Transit Bus HVAC: Door Cycling and Standee Load Design"]
 description: "Engineering analysis of transit bus HVAC systems addressing frequent door cycling, kneeling impacts, standee loads, and rapid recovery requirements per APTA standards."
 keywords: ["transit bus HVAC", "door cycling loads", "standee load calculation", "bus kneeling impact", "APTA bus standards", "transit cooling capacity", "bus air distribution", "rapid recovery HVAC"]
+tags: ["transit bus HVAC", "door cycling loads", "standee load calculation", "bus kneeling impact", "APTA bus standards", "transit cooling capacity", "bus air distribution", "rapid recovery HVAC"]
 weight: 1
 ---
 

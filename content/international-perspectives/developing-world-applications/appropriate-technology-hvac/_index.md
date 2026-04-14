@@ -1,7 +1,9 @@
 ---
 title: "Appropriate Technology for HVAC in Developing Regions"
+aliases: ["Appropriate Technology for HVAC in Developing Regions"]
 description: "Physics-based guide to appropriate HVAC technologies including passive cooling, natural ventilation, solar heating, windcatchers, and thermal mass systems optimized for resource-constrained environments"
 keywords: ["appropriate technology", "passive cooling", "natural ventilation", "windcatcher", "solar chimney", "thermal mass", "passive solar heating", "earth coupling", "low-tech HVAC", "sustainable cooling", "resource-constrained design", "traditional cooling", "vernacular architecture"]
+tags: ["appropriate technology", "passive cooling", "natural ventilation", "windcatcher", "solar chimney", "thermal mass", "passive solar heating", "earth coupling", "low-tech HVAC", "sustainable cooling"]
 weight: 1
 ---
 

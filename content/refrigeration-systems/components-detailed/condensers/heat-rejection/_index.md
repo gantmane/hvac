@@ -1,5 +1,6 @@
 ---
 title: "Heat Rejection"
+aliases: ["Heat Rejection"]
 description: "Comprehensive analysis of heat rejection in refrigeration condensers including fundamentals, load calculations, COP relationships, condenser type comparisons, ambient effects, and optimization strategies for HVAC professionals"
 weight: 4
 ---

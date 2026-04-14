@@ -1,7 +1,9 @@
 ---
 title: "Temperature Monitoring Systems for Grain Storage Bins"
+aliases: ["Temperature Monitoring Systems for Grain Storage Bins"]
 description: "Temperature monitoring methods for grain storage including sensor placement, hot spot detection, data logging systems, and integration with aeration controls."
 keywords: ["grain temperature monitoring", "temperature cables", "hot spot detection", "grain storage sensors", "aeration control", "grain quality monitoring", "remote monitoring", "temperature logging"]
+tags: ["grain temperature monitoring", "temperature cables", "hot spot detection", "grain storage sensors", "aeration control", "grain quality monitoring", "remote monitoring", "temperature logging"]
 weight: 2
 ---
 

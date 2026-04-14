@@ -1,7 +1,9 @@
 ---
 title: "Building Energy Code Compliance Methods"
+aliases: ["Building Energy Code Compliance Methods"]
 description: "Master IECC and ASHRAE 90.1 compliance paths including prescriptive, trade-off, and performance methods for HVAC systems with detailed requirements and procedures."
 keywords: ["energy code compliance", "IECC compliance", "ASHRAE 90.1", "prescriptive path", "performance compliance", "energy modeling", "building energy codes", "HVAC compliance"]
+tags: ["energy code compliance", "IECC compliance", "ASHRAE 90.1", "prescriptive path", "performance compliance", "energy modeling", "building energy codes", "HVAC compliance"]
 weight: 2
 ---
 

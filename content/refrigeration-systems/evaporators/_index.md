@@ -1,5 +1,6 @@
 ---
 title: "Evaporators: Heat Absorption in Refrigeration Systems"
+aliases: ["Evaporators: Heat Absorption in Refrigeration Systems"]
 description: "Comprehensive guide to refrigeration evaporator design, types, heat transfer mechanisms, and performance optimization. Includes frosting analysis and selection criteria."
 date: 2025-01-05
 tags: ["evaporators", "refrigeration", "heat transfer", "direct expansion", "flooded evaporators", "coil design"]

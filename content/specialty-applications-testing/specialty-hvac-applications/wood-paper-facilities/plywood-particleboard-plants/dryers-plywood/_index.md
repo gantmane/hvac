@@ -1,5 +1,6 @@
 ---
 title: "Plywood and Veneer Dryer Systems: Design and Operation"
+aliases: ["Plywood and Veneer Dryer Systems: Design and Operation"]
 linkTitle: "Dryers Plywood"
 weight: 1
 description: "Comprehensive technical guidance for plywood and veneer dryer HVAC systems including rotary, conveyor, and jet dryer types with drying rate calculations, temperature control strategies, and moisture monitoring methods."

@@ -1,7 +1,9 @@
 ---
 title: "Bus HVAC Equipment Placement and Configuration"
+aliases: ["Bus HVAC Equipment Placement and Configuration"]
 description: "Engineering analysis of bus HVAC equipment placement strategies including rooftop units, rear-mounted systems, engine-driven compressors, and electric drive options with structural and performance considerations."
 keywords: ["bus HVAC placement", "rooftop bus AC units", "rear-mounted bus HVAC", "engine-driven compressor", "electric bus HVAC", "bus equipment layout", "roof pack units", "bus HVAC configuration"]
+tags: ["bus HVAC placement", "rooftop bus AC units", "rear-mounted bus HVAC", "engine-driven compressor", "electric bus HVAC", "bus equipment layout", "roof pack units", "bus HVAC configuration"]
 weight: 4
 ---
 

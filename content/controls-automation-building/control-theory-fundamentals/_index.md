@@ -1,7 +1,9 @@
 ---
 title: "Control Theory Fundamentals for HVAC Systems"
+aliases: ["Control Theory Fundamentals for HVAC Systems"]
 description: "Master HVAC control theory fundamentals: feedback loops, PID control, setpoints, process variables, and control modes for optimal building system performance."
 keywords: ["HVAC control theory", "feedback control", "PID control", "control loops", "process variables", "setpoints", "control modes", "building automation"]
+tags: ["HVAC control theory", "feedback control", "PID control", "control loops", "process variables", "setpoints", "control modes", "building automation"]
 date: 2026-01-04
 weight: 1
 ---

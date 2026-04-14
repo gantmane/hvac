@@ -1,8 +1,10 @@
 ---
 title: "Manifold Distribution Systems for DHW"
+aliases: ["Manifold Distribution Systems for DHW"]
 weight: 3
 description: "Comprehensive guide to manifold distribution systems for domestic hot water, covering parallel flow calculations, pressure balancing, and PEX homerun piping configurations."
 keywords: ["manifold distribution", "homerun piping", "PEX manifold", "parallel flow", "domestic hot water distribution", "fixture isolation", "pressure balancing", "DHW manifold"]
+tags: ["manifold distribution", "homerun piping", "PEX manifold", "parallel flow", "domestic hot water distribution", "fixture isolation", "pressure balancing", "DHW manifold"]
 ---
 
 ## Overview

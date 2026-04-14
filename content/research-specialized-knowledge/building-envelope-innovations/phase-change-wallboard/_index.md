@@ -1,5 +1,6 @@
 ---
 title: "Phase Change Wallboard"
+aliases: ["Phase Change Wallboard"]
 weight: 3
 ---
 

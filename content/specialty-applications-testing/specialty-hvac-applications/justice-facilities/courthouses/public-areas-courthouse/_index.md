@@ -1,7 +1,9 @@
 ---
 title: "Public Areas Courthouse HVAC Design & Control"
+aliases: ["Public Areas Courthouse HVAC Design & Control"]
 description: "Engineering guide for courthouse public area HVAC systems covering lobby conditioning, security screening zones, variable occupancy strategies, and ASHRAE standards."
 keywords: ["courthouse HVAC", "public area ventilation", "security screening airflow", "variable occupancy control", "courthouse lobby design", "justice facility HVAC", "public waiting areas", "courthouse environmental control"]
+tags: ["courthouse HVAC", "public area ventilation", "security screening airflow", "variable occupancy control", "courthouse lobby design", "justice facility HVAC", "public waiting areas", "courthouse environmental control"]
 weight: 4
 ---
 

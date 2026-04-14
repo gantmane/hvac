@@ -1,5 +1,6 @@
 ---
 title: "Economic Incentives for HVAC Energy Efficiency"
+aliases: ["Economic Incentives for HVAC Energy Efficiency"]
 weight: 3
 description: "Financial incentives for HVAC upgrades including utility rebates, tax credits, accelerated depreciation, and performance contracting to reduce effective system costs."
 ---

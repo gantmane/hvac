@@ -1,5 +1,6 @@
 ---
 title: "Classroom Building HVAC Systems"
+aliases: ["Classroom Building HVAC Systems"]
 description: "University classroom building HVAC design addressing scheduling diversity, occupancy variation, mixed-use spaces, and energy efficiency per ASHRAE standards."
 date: 2025-01-05
 keywords:

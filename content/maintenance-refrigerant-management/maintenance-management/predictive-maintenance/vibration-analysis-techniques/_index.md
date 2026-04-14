@@ -1,7 +1,9 @@
 ---
 title: "Vibration Analysis for HVAC Equipment"
+aliases: ["Vibration Analysis for HVAC Equipment"]
 description: "Master vibration analysis techniques for HVAC predictive maintenance including FFT analysis, bearing frequency calculations, and ISO 10816 severity standards."
 keywords: ["vibration analysis", "FFT analysis", "bearing frequencies", "ISO 10816", "accelerometer", "predictive maintenance", "HVAC vibration", "condition monitoring"]
+tags: ["vibration analysis", "FFT analysis", "bearing frequencies", "ISO 10816", "accelerometer", "predictive maintenance", "HVAC vibration", "condition monitoring"]
 weight: 1
 ---
 

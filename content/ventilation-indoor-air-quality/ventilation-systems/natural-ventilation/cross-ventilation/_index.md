@@ -1,7 +1,9 @@
 ---
 title: "Cross-Ventilation Design and Analysis"
+aliases: ["Cross-Ventilation Design and Analysis"]
 description: "Physics-based cross-ventilation design including wind pressure coefficients, airflow calculations, opening placement strategies, and CFD validation for natural ventilation systems."
 keywords: ["cross ventilation", "wind-driven ventilation", "pressure coefficients", "natural airflow", "opening design", "wind pressure", "ventilation effectiveness", "passive cooling"]
+tags: ["cross ventilation", "wind-driven ventilation", "pressure coefficients", "natural airflow", "opening design", "wind pressure", "ventilation effectiveness", "passive cooling"]
 weight: 3
 draft: false
 ---

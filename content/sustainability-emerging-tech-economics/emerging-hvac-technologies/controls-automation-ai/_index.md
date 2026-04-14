@@ -1,7 +1,9 @@
 ---
 title: "Controls, Automation, and Artificial Intelligence in HVAC Systems"
+aliases: ["Controls, Automation, and Artificial Intelligence in HVAC Systems"]
 description: "Advanced machine learning algorithms, predictive maintenance strategies, fault detection diagnostics, and digital twin technologies for optimized HVAC system performance and energy efficiency."
 keywords: ["HVAC controls", "building automation", "machine learning HVAC", "predictive maintenance", "fault detection diagnostics", "digital twins", "AI optimization", "ASHRAE Guideline 36", "smart buildings", "energy optimization"]
+tags: ["HVAC controls", "building automation", "machine learning HVAC", "predictive maintenance", "fault detection diagnostics", "digital twins", "AI optimization", "ASHRAE Guideline 36", "smart buildings", "energy optimization"]
 date: 2025-01-05
 draft: false
 weight: 6

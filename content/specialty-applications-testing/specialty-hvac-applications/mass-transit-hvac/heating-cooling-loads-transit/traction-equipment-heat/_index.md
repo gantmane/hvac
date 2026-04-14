@@ -1,5 +1,6 @@
 ---
 title: "Traction Equipment Heat in Transit Vehicles"
+aliases: ["Traction Equipment Heat in Transit Vehicles"]
 description: "Technical analysis of heat generation from traction motors, inverters, and dynamic braking systems in mass transit vehicles with thermal load calculations and heat rejection strategies."
 keywords:
   - traction motor heat

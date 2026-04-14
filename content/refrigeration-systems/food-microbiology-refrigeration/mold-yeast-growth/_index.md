@@ -1,5 +1,6 @@
 ---
 title: "Mold Yeast Growth"
+aliases: ["Mold Yeast Growth"]
 weight: 3
 ---
 

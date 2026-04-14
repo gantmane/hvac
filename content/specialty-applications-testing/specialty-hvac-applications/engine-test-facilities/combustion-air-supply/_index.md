@@ -1,7 +1,9 @@
 ---
 title: "Combustion Air Supply Systems for Engine Testing"
+aliases: ["Combustion Air Supply Systems for Engine Testing"]
 description: "Design of combustion air supply systems for engine test facilities including air quality requirements, volume calculations, filtration, and conditioning systems."
 keywords: ["combustion air", "engine test facilities", "air filtration", "intake air conditioning", "engine testing HVAC", "test cell ventilation", "air supply systems", "engine dynamometer"]
+tags: ["combustion air", "engine test facilities", "air filtration", "intake air conditioning", "engine testing HVAC", "test cell ventilation", "air supply systems", "engine dynamometer"]
 date: 2025-01-11
 draft: false
 weight: 3

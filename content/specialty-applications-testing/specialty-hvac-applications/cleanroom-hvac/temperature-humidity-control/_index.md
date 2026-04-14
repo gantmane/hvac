@@ -1,7 +1,9 @@
 ---
 title: "Temperature and Humidity Control in Cleanrooms"
+aliases: ["Temperature and Humidity Control in Cleanrooms"]
 description: "Precision cleanroom environmental control systems with tight temperature tolerance (±0.5°C), humidity management for static prevention, and process-specific requirements."
 keywords: ["cleanroom temperature control", "cleanroom humidity control", "precision HVAC", "reheat systems", "dehumidification", "process environmental control", "static control", "cleanroom monitoring"]
+tags: ["cleanroom temperature control", "cleanroom humidity control", "precision HVAC", "reheat systems", "dehumidification", "process environmental control", "static control", "cleanroom monitoring"]
 weight: 5
 ---
 

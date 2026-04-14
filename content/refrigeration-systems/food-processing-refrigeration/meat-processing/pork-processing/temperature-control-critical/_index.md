@@ -1,5 +1,6 @@
 ---
 title: "Critical Temperature Control in Pork Processing"
+aliases: ["Critical Temperature Control in Pork Processing"]
 description: "Physics-based analysis of temperature control in pork processing facilities. Covers bacterial growth kinetics, lipid oxidation, color stability, and refrigeration system design."
 weight: 2
 ---

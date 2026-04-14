@@ -1,5 +1,6 @@
 ---
 title: "Aircraft Cabin Humidification Systems"
+aliases: ["Aircraft Cabin Humidification Systems"]
 description: "Engineering analysis of aircraft humidification systems including evaporative technology, ultrasonic humidifiers, water treatment, moisture injection control, and condensation prevention."
 keywords:
   - aircraft humidification systems

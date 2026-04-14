@@ -1,8 +1,10 @@
 ---
 title: "Natural Gas"
+aliases: ["Natural Gas"]
 weight: 1
 description: "Comprehensive guide to natural gas as an HVAC fuel including composition, heating values, Wobbe index, specific gravity, combustion characteristics, delivery methods, and environmental advantages for combustion heating systems."
 keywords: "natural gas, methane, heating value, Wobbe index, specific gravity, combustion characteristics, pipeline gas, LNG, meter sizing, gas composition, BTU content"
+tags: ["natural gas", "methane", "heating value", "Wobbe index", "specific gravity", "combustion characteristics", "pipeline gas", "LNG", "meter sizing", "gas composition"]
 ---
 
 Natural gas serves as the primary fuel source for residential, commercial, and industrial combustion heating systems across North America. This fossil fuel consists predominantly of methane with varying quantities of heavier hydrocarbons, delivering consistent heating performance with lower emissions compared to alternative fossil fuels.

@@ -1,5 +1,6 @@
 ---
 title: "Air Freight Temperature Control"
+aliases: ["Air Freight Temperature Control"]
 weight: 2
 ---
 

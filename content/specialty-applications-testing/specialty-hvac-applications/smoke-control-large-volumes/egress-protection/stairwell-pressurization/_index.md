@@ -1,7 +1,9 @@
 ---
 title: "Stairwell Pressurization Systems"
+aliases: ["Stairwell Pressurization Systems"]
 description: "Technical analysis of stairwell pressurization design including pressure differentials, door forces, supply fan sizing, and multiple injection strategies per NFPA 92."
 keywords: ["stairwell pressurization", "smoke control", "pressure differential", "door opening force", "multiple injection", "NFPA 92", "egress protection", "stairwell smoke control"]
+tags: ["stairwell pressurization", "smoke control", "pressure differential", "door opening force", "multiple injection", "NFPA 92", "egress protection", "stairwell smoke control"]
 weight: 1
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Laboratory Exhaust Systems"
+aliases: ["Laboratory Exhaust Systems"]
 description: "Comprehensive guide to laboratory exhaust systems including fume hood exhaust design, manifolded systems, stack height calculations, wind effects, and re-entrainment prevention per ANSI Z9.5 standards."
 keywords: ["laboratory exhaust", "fume hood exhaust", "stack design", "ANSI Z9.5", "manifolded exhaust", "re-entrainment prevention", "laboratory ventilation", "exhaust stack height", "bypass air", "wind effects"]
+tags: ["laboratory exhaust", "fume hood exhaust", "stack design", "ANSI Z9.5", "manifolded exhaust", "re-entrainment prevention", "laboratory ventilation", "exhaust stack height", "bypass air", "wind effects"]
 date: 2026-01-05
 draft: false
 weight: 2

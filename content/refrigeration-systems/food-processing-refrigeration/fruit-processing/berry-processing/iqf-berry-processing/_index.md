@@ -1,5 +1,6 @@
 ---
 title: "IQF Berry Processing"
+aliases: ["IQF Berry Processing"]
 description: "Individual Quick Freezing system design for berry processing including tunnel freezers, fluidized bed systems, air velocity requirements, and freezing time calculations for strawberries, blueberries, and raspberries"
 weight: 4
 ---

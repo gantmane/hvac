@@ -1,5 +1,6 @@
 ---
 title: "Hot Work Safety in HVAC Operations"
+aliases: ["Hot Work Safety in HVAC Operations"]
 description: "Comprehensive hot work safety training for HVAC technicians covering brazing, welding, cutting operations, fire prevention, permit systems, and hazard mitigation strategies."
 date: 2025-01-05
 weight: 10

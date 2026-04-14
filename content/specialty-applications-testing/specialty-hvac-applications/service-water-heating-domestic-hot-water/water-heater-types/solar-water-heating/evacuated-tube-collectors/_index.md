@@ -1,7 +1,9 @@
 ---
 title: "Evacuated Tube Solar Collectors: High-Efficiency Systems"
+aliases: ["Evacuated Tube Solar Collectors: High-Efficiency Systems"]
 description: "Technical analysis of evacuated tube collectors for solar water heating, including vacuum insulation physics, heat pipe vs direct flow designs, and efficiency performance."
 keywords: ["evacuated tube collectors", "solar water heating", "heat pipe technology", "vacuum insulation", "solar thermal efficiency", "high temperature solar collectors", "SRCC certification", "direct flow evacuated tubes"]
+tags: ["evacuated tube collectors", "solar water heating", "heat pipe technology", "vacuum insulation", "solar thermal efficiency", "high temperature solar collectors", "SRCC certification", "direct flow evacuated tubes"]
 weight: 4
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Environmental Requirements for Sculpture Collections"
+aliases: ["Environmental Requirements for Sculpture Collections"]
 description: "HVAC environmental control for museum sculpture collections including material-specific temperature, humidity, and air quality requirements for bronze, marble, wood, and mixed media works."
 keywords: ["sculpture environmental control", "museum sculpture HVAC", "bronze corrosion prevention", "wood sculpture humidity", "marble storage conditions", "mixed media sculpture", "metal sculpture climate", "dimensional stability sculpture"]
+tags: ["sculpture environmental control", "museum sculpture HVAC", "bronze corrosion prevention", "wood sculpture humidity", "marble storage conditions", "mixed media sculpture", "metal sculpture climate", "dimensional stability sculpture"]
 weight: 2
 ---
 

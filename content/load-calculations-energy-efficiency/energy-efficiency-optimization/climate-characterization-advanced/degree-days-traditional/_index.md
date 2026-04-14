@@ -1,5 +1,6 @@
 ---
 title: "Degree Days Traditional"
+aliases: ["Degree Days Traditional"]
 weight: 2
 ---
 

@@ -2,6 +2,7 @@
 title: "Thermodynamic Cycles for HVAC Engineers"
 description: "Carnot, Rankine, and vapor compression refrigeration cycles with efficiency analysis, exergy concepts, and COP calculations for HVAC system performance evaluation."
 keywords: ["thermodynamic cycles", "Carnot cycle", "Rankine cycle", "vapor compression", "COP", "refrigeration efficiency", "exergy analysis"]
+tags: ["thermodynamic cycles", "Carnot cycle", "Rankine cycle", "vapor compression", "COP", "refrigeration efficiency", "exergy analysis"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 3
@@ -257,10 +258,10 @@ Understanding cycle thermodynamics enables proper equipment sizing, performance 
 ---
 
 **Related Technical Guides:**
-- [Heat Transfer Fundamentals](/technical-guides/heat-transfer-fundamentals/)
-- [Refrigeration Cycle Design](/technical-guides/refrigeration-cycle-design/)
-- [Chiller Performance Analysis](/technical-guides/chiller-performance-analysis/)
-- [Heat Pump Technology](/technical-guides/heat-pump-technology/)
+- Heat Transfer Fundamentals
+- Refrigeration Cycle Design
+- Chiller Performance Analysis
+- Heat Pump Technology
 
 **References:**
 - ASHRAE Handbook of Fundamentals, Chapter 2: Thermodynamics and Refrigeration Cycles

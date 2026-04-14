@@ -1,5 +1,6 @@
 ---
 title: "Vacuum Cooling"
+aliases: ["Vacuum Cooling"]
 description: "Comprehensive technical guide to vacuum cooling systems for vegetable precooling, covering pressure reduction, evaporative cooling, chamber design, refrigeration systems, and moisture management for leafy green vegetables."
 weight: 2
 ---

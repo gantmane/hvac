@@ -1,5 +1,6 @@
 ---
 title: "HVAC Strategies for Tropical Climates"
+aliases: ["HVAC Strategies for Tropical Climates"]
 description: "Engineering principles and system strategies for HVAC design in tropical climates, covering dehumidification, ventilation, and cooling approaches for high-humidity environments."
 date: 2025-01-05
 draft: false

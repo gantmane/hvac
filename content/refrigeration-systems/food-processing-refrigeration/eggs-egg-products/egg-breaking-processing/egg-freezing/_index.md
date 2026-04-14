@@ -1,5 +1,6 @@
 ---
 title: "Egg Freezing"
+aliases: ["Egg Freezing"]
 description: "Comprehensive technical guide to egg product freezing systems including blast and plate freezers, freezing time calculations, gelation prevention through additive formulation, and quality preservation strategies for whole eggs, yolks, and whites."
 weight: 4
 ---

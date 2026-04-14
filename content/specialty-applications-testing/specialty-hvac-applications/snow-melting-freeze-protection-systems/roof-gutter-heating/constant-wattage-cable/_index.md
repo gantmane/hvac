@@ -1,7 +1,9 @@
 ---
 title: "Constant Wattage Heating Cable for Roof Systems"
+aliases: ["Constant Wattage Heating Cable for Roof Systems"]
 description: "Series resistance constant wattage cables deliver fixed power output for roof and gutter heating. Analysis of cut-to-length limitations, power density design, and NEC compliance."
 keywords: ["constant wattage cable", "series resistance heater", "fixed power output", "roof heating cable", "heat trace design", "NEC Article 426", "ice dam prevention", "constant wattage heat tape"]
+tags: ["constant wattage cable", "series resistance heater", "fixed power output", "roof heating cable", "heat trace design", "NEC Article 426", "ice dam prevention", "constant wattage heat tape"]
 weight: 2
 ---
 

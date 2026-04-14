@@ -1,7 +1,9 @@
 ---
 title: "HVAC Energy Labeling Programs"
+aliases: ["HVAC Energy Labeling Programs"]
 description: "Comprehensive analysis of ENERGY STAR, EnergyGuide, and CEE tier labeling programs for HVAC equipment, including DOE and EPA certification requirements."
 keywords: ["ENERGY STAR HVAC", "EnergyGuide label", "CEE tiers", "energy efficiency labeling", "DOE labeling", "EPA certification", "HVAC ratings", "equipment efficiency"]
+tags: ["ENERGY STAR HVAC", "EnergyGuide label", "CEE tiers", "energy efficiency labeling", "DOE labeling", "EPA certification", "HVAC ratings", "equipment efficiency"]
 weight: 2
 ---
 

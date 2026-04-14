@@ -1,5 +1,6 @@
 ---
 title: "Combustion Gas Turbines for CHP"
+aliases: ["Combustion Gas Turbines for CHP"]
 description: "Comprehensive engineering analysis of gas turbine prime movers including microturbines, Brayton cycle thermodynamics, electrical efficiency optimization, heat recovery steam generation, inlet air cooling, part-load performance, emissions control, and maintenance requirements for cogeneration applications."
 date: 2026-01-04
 weight: 2

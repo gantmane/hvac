@@ -1,7 +1,9 @@
 ---
 title: "VAV Systems for High-Rise Buildings"
+aliases: ["VAV Systems for High-Rise Buildings"]
 description: "Variable air volume system design for tall buildings: duct shaft sizing, static pressure reset strategies, floor-by-floor air handling, and zone control optimization."
 keywords: ["VAV high-rise", "duct shaft sizing", "static pressure reset", "high-rise air handling", "VAV zone control", "tall building HVAC", "vertical ductwork", "supply fan control"]
+tags: ["VAV high-rise", "duct shaft sizing", "static pressure reset", "high-rise air handling", "VAV zone control", "tall building HVAC", "vertical ductwork", "supply fan control"]
 weight: 1
 ---
 

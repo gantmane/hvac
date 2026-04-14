@@ -1,5 +1,6 @@
 ---
 title: "Cryogenic Freezing for Poultry Processing Applications"
+aliases: ["Cryogenic Freezing for Poultry Processing Applications"]
 description: "Engineering analysis of cryogenic freezing systems for poultry using liquid nitrogen and carbon dioxide, including heat transfer calculations and equipment design."
 date: 2025-01-05
 tags: ["cryogenic freezing", "poultry processing", "liquid nitrogen", "carbon dioxide", "food refrigeration", "heat transfer"]

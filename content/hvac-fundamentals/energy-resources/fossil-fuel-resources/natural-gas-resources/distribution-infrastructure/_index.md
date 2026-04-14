@@ -1,5 +1,6 @@
 ---
 title: "Natural Gas Distribution Infrastructure"
+aliases: ["Natural Gas Distribution Infrastructure"]
 description: "Comprehensive analysis of natural gas distribution infrastructure including pipeline systems, compression stations, storage facilities, and delivery networks for HVAC applications."
 weight: 5
 ---

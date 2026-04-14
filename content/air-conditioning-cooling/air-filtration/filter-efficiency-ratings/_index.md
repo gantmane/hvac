@@ -1,7 +1,9 @@
 ---
 title: "Filter Efficiency Ratings"
+aliases: ["Filter Efficiency Ratings"]
 description: "Understanding MERV, HEPA, ULPA, and ISO 16890 filter efficiency ratings for HVAC air filtration system selection and specification."
 keywords: ["MERV rating", "HEPA filter", "ULPA filter", "ISO 16890", "filter efficiency", "air filtration", "ASHRAE 52.2"]
+tags: ["MERV rating", "HEPA filter", "ULPA filter", "ISO 16890", "filter efficiency", "air filtration", "ASHRAE 52.2"]
 weight: 1
 ---
 

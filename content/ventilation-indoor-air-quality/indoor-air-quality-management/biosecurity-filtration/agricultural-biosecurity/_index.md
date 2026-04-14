@@ -1,5 +1,6 @@
 ---
 title: "Agricultural Biosecurity Filtration Systems"
+aliases: ["Agricultural Biosecurity Filtration Systems"]
 description: "Engineered HVAC filtration and ventilation strategies for livestock and poultry facilities to prevent pathogen transmission and maintain biosecurity."
 date: 2025-01-05
 draft: false

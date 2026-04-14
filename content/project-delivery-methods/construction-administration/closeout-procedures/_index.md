@@ -1,5 +1,6 @@
 ---
 title: "Closeout Procedures"
+aliases: ["Closeout Procedures"]
 weight: 8
 ---
 

@@ -2,6 +2,7 @@
 title: "Variable Flow System Design for HVAC Engineers"
 description: "VFD sizing, minimum flow requirements, pressure-independent control, diversity factors, and energy optimization for variable flow HVAC systems."
 keywords: ["variable flow", "VFD", "VAV systems", "diversity factor", "pressure independent", "variable speed drives"]
+tags: ["variable flow", "VFD", "VAV systems", "diversity factor", "pressure independent", "variable speed drives"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 26
@@ -218,9 +219,9 @@ $$Power_{variable} = \frac{250 \times 15}{3960 \times 0.75} = 1.26 \text{ hp}$$
 ---
 
 **Related Technical Guides:**
-- [HVAC Control Strategies](/technical-guides/hvac-control-strategies/)
-- [Fan Selection & Performance](/technical-guides/fan-selection-performance/)
-- [Duct Static Pressure Calculations](/technical-guides/duct-static-pressure-calculations/)
+- HVAC Control Strategies
+- Fan Selection & Performance
+- Duct Static Pressure Calculations
 
 **References:**
 - ASHRAE Handbook of HVAC Systems and Equipment, Chapter 48: Variable-Flow Systems

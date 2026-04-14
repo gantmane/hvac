@@ -1,10 +1,12 @@
 ---
 title: "Particulate Matter Control"
+aliases: ["Particulate Matter Control"]
 date: 2026-01-05
 draft: false
 weight: 2
 description: "Comprehensive technical analysis of particulate matter control in HVAC systems including filtration mechanisms, MERV and HEPA filter ratings, pressure drop calculations, clean air delivery rate, and ASHRAE 52.2 test methods."
 keywords: ["particulate matter control", "air filtration", "MERV ratings", "HEPA filters", "filter efficiency", "pressure drop", "ASHRAE 52.2", "clean air delivery rate", "CADR", "filter performance", "particle capture mechanisms"]
+tags: ["particulate matter control", "air filtration", "MERV ratings", "HEPA filters", "filter efficiency", "pressure drop", "ASHRAE 52.2", "clean air delivery rate", "CADR", "filter performance"]
 ---
 
 # Particulate Matter Control

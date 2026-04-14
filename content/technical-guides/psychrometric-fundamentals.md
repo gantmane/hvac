@@ -2,6 +2,7 @@
 title: "Psychrometric Fundamentals for HVAC Engineers"
 description: "Comprehensive guide to moist air properties, psychrometric charts, and state point analysis for professional HVAC engineers. Includes formulas, worked examples, and practical applications."
 keywords: ["psychrometrics", "moist air properties", "psychrometric chart", "dry bulb temperature", "wet bulb temperature", "relative humidity", "humidity ratio", "enthalpy", "specific volume", "dew point"]
+tags: ["psychrometrics", "moist air properties", "psychrometric chart", "dry bulb temperature", "wet bulb temperature", "relative humidity", "humidity ratio", "enthalpy", "specific volume", "dew point"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 1
@@ -548,9 +549,9 @@ The psychrometric chart serves as the engineer's primary tool for rapid property
 ---
 
 **Related Technical Guides:**
-- [Psychrometric Processes](/technical-guides/psychrometric-processes/)
-- [Cooling Load Calculations](/technical-guides/cooling-load-calculations/)
-- [Airflow & Ventilation Calculations](/technical-guides/airflow-ventilation-calculations/)
+- Psychrometric Processes
+- Cooling Load Calculations
+- Airflow & Ventilation Calculations
 
 **References:**
 - ASHRAE Handbook of Fundamentals, Chapter 1: Psychrometrics

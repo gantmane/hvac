@@ -1,5 +1,6 @@
 ---
 title: "Caramel Production HVAC Systems"
+aliases: ["Caramel Production HVAC Systems"]
 description: "Comprehensive HVAC design for caramel manufacturing facilities including cooking area ventilation, cooling tunnel design, humidity control for crystallization prevention, and wrapping room environmental conditioning systems."
 weight: 2
 ---

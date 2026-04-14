@@ -1,8 +1,10 @@
 ---
 title: "Waste Heat Recovery for Snow Melting Systems"
+aliases: ["Waste Heat Recovery for Snow Melting Systems"]
 description: "Engineering analysis of waste heat sources for hydronic snow melting, including availability calculations, heat exchanger design, and economic feasibility assessment."
 date: 2026-01-11
 keywords: ["waste heat recovery", "snow melting systems", "heat exchanger design", "industrial waste heat", "economizer snow melt", "CHP waste heat", "data center cooling"]
+tags: ["waste heat recovery", "snow melting systems", "heat exchanger design", "industrial waste heat", "economizer snow melt", "CHP waste heat", "data center cooling"]
 weight: 4
 draft: false
 ---

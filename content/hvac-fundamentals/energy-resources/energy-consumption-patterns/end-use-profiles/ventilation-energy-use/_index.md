@@ -1,7 +1,9 @@
 ---
 title: "Ventilation Energy Use in HVAC Systems"
+aliases: ["Ventilation Energy Use in HVAC Systems"]
 description: "Detailed analysis of ventilation energy consumption including fan power calculations, pressure drop formulas, ASHRAE 90.1 limits, and demand-controlled ventilation savings."
 keywords: ["ventilation energy", "fan power", "ASHRAE 90.1", "demand controlled ventilation", "DCV savings", "fan energy calculation", "outdoor air energy", "ventilation efficiency"]
+tags: ["ventilation energy", "fan power", "ASHRAE 90.1", "demand controlled ventilation", "DCV savings", "fan energy calculation", "outdoor air energy", "ventilation efficiency"]
 weight: 3
 ---
 

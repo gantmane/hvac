@@ -1,5 +1,6 @@
 ---
 title: "Extended Surfaces"
+aliases: ["Extended Surfaces"]
 weight: 3
 ---
 

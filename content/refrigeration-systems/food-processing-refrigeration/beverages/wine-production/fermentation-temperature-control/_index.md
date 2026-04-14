@@ -1,5 +1,6 @@
 ---
 title: "Fermentation Temperature Control"
+aliases: ["Fermentation Temperature Control"]
 description: "HVAC engineering guide to wine fermentation temperature control systems including glycol cooling, jacketed tank design, heat generation calculations, and refrigeration requirements for red and white wine production."
 weight: 1
 ---

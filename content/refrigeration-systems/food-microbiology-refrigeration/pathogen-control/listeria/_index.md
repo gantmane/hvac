@@ -1,5 +1,6 @@
 ---
 title: "Listeria"
+aliases: ["Listeria"]
 weight: 2
 ---
 

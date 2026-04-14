@@ -1,5 +1,6 @@
 ---
 title: "Ventilation Systems: Design and Performance"
+aliases: ["Ventilation Systems: Design and Performance"]
 description: "Engineering principles of mechanical and natural ventilation systems including airflow calculations, energy recovery, and ASHRAE Standard 62.1 requirements."
 date: 2025-01-05
 weight: 1

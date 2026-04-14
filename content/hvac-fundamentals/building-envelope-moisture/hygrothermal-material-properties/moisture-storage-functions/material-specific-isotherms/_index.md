@@ -1,5 +1,6 @@
 ---
 title: "Material-Specific Sorption Isotherms"
+aliases: ["Material-Specific Sorption Isotherms"]
 description: "Detailed sorption isotherm characteristics for common building materials including wood, concrete, masonry, gypsum, and insulation materials with equations and data for hygrothermal analysis"
 weight: 2
 ---

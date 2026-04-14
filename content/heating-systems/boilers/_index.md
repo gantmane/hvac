@@ -1,8 +1,10 @@
 ---
 title: "Boilers"
+aliases: ["Boilers"]
 weight: 3
 description: "Comprehensive technical analysis of boiler systems including fire-tube boilers, water-tube boilers, condensing boilers, efficiency calculations, performance metrics, and selection criteria for commercial and industrial applications."
 keywords: ["boiler types", "fire-tube boilers", "water-tube boilers", "condensing boilers", "boiler efficiency", "thermal efficiency", "steam boilers", "hot water boilers", "combustion efficiency", "boiler ratings"]
+tags: ["boiler types", "fire-tube boilers", "water-tube boilers", "condensing boilers", "boiler efficiency", "thermal efficiency", "steam boilers", "hot water boilers", "combustion efficiency", "boiler ratings"]
 ---
 
 Boilers represent the fundamental heat generation equipment in commercial and industrial heating systems, converting chemical energy from fuel combustion into thermal energy transferred to water or steam. The thermodynamic performance, operational characteristics, and application suitability of boiler systems depend on heat exchanger configuration, combustion technology, pressure rating, and thermal efficiency optimization strategies.

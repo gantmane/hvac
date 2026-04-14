@@ -1,5 +1,6 @@
 ---
 title: "Construction"
+aliases: ["Construction"]
 weight: 1
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Humidity Buffering in Display Cases"
+aliases: ["Humidity Buffering in Display Cases"]
 seo_title: "Display Case Humidity Buffering Materials & Calculations"
 description: "Technical guide to passive humidity buffering using silica gel, Art-Sorb, and ProSorb in museum display cases. Includes moisture isotherm calculations and capacity sizing."
 keywords: ["humidity buffering", "silica gel conditioning", "Art-Sorb", "ProSorb", "moisture isotherm", "display case microclimate", "conservation humidity control", "passive humidity control"]
+tags: ["humidity buffering", "silica gel conditioning", "Art-Sorb", "ProSorb", "moisture isotherm", "display case microclimate", "conservation humidity control", "passive humidity control"]
 weight: 4
 ---
 

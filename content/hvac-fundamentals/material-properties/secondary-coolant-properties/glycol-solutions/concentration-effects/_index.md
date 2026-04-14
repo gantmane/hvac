@@ -1,5 +1,6 @@
 ---
 title: "Concentration Effects"
+aliases: ["Concentration Effects"]
 description: "Impact of glycol concentration on freeze point, viscosity, specific heat, thermal conductivity, and system performance including optimal concentration selection for HVAC applications."
 weight: 3
 ---

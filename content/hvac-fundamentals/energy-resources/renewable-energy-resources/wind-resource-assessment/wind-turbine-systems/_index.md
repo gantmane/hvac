@@ -1,7 +1,9 @@
 ---
 title: "Wind Turbine Systems for HVAC Energy Applications"
+aliases: ["Wind Turbine Systems for HVAC Energy Applications"]
 description: "Comprehensive analysis of horizontal and vertical axis wind turbines for building HVAC systems. Covers turbine sizing, power curves, small wind integration."
 keywords: ["wind turbine", "HAWT", "VAWT", "small wind systems", "building wind energy", "turbine sizing", "grid integration", "distributed generation"]
+tags: ["wind turbine", "HAWT", "VAWT", "small wind systems", "building wind energy", "turbine sizing", "grid integration", "distributed generation"]
 weight: 4
 ---
 

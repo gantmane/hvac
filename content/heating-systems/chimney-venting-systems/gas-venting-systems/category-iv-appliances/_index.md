@@ -1,5 +1,6 @@
 ---
 title: "Category IV Appliances"
+aliases: ["Category IV Appliances"]
 description: "Comprehensive technical guide to Category IV condensing fan-assisted gas appliances, including positive vent pressure operation, PVC/CPVC/polypropylene venting materials, condensate drainage and neutralization, system efficiency considerations, and installation standards for high-efficiency residential and commercial equipment."
 weight: 5
 ---

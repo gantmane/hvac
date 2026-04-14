@@ -1,7 +1,9 @@
 ---
 title: "Freeze Dryers: Lyophilization Systems"
+aliases: ["Freeze Dryers: Lyophilization Systems"]
 description: "Engineering analysis of freeze drying systems covering sublimation thermodynamics, vacuum systems, heat transfer mechanisms, pharmaceutical lyophilization protocols, and chamber design."
 keywords: ["freeze drying", "lyophilization", "sublimation", "vacuum drying", "pharmaceutical freeze drying", "vapor pressure", "triple point", "condenser design"]
+tags: ["freeze drying", "lyophilization", "sublimation", "vacuum drying", "pharmaceutical freeze drying", "vapor pressure", "triple point", "condenser design"]
 weight: 6
 ---
 

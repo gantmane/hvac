@@ -1,5 +1,6 @@
 ---
 title: "Pressure Relief Devices"
+aliases: ["Pressure Relief Devices"]
 weight: 4
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "R513a Tables"
+aliases: ["R513a Tables"]
 weight: 11
 ---
 

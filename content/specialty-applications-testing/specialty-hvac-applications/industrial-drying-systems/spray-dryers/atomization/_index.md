@@ -1,7 +1,9 @@
 ---
 title: "Spray Dryer Atomization Technology"
+aliases: ["Spray Dryer Atomization Technology"]
 description: "Technical analysis of spray dryer atomization methods, droplet formation physics, atomizer types, and performance optimization for industrial drying applications."
 keywords: ["spray dryer atomization", "atomizer types", "droplet size distribution", "rotary atomizer", "pressure nozzle atomization", "two-fluid atomization", "Sauter mean diameter", "atomization energy"]
+tags: ["spray dryer atomization", "atomizer types", "droplet size distribution", "rotary atomizer", "pressure nozzle atomization", "two-fluid atomization", "Sauter mean diameter", "atomization energy"]
 date: 2026-01-11
 draft: false
 weight: 1

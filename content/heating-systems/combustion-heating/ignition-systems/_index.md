@@ -1,8 +1,10 @@
 ---
 title: "Ignition Systems"
+aliases: ["Ignition Systems"]
 weight: 4
 description: "Comprehensive guide to gas furnace ignition systems including standing pilot, intermittent pilot, direct spark ignition, hot surface ignition, transformers, electrode positioning, and troubleshooting procedures."
 keywords: ["ignition systems", "hot surface ignition", "direct spark ignition", "intermittent pilot", "standing pilot", "ignition transformer", "electrode positioning", "ignition troubleshooting", "flame sensing", "silicon carbide igniter"]
+tags: ["ignition systems", "hot surface ignition", "direct spark ignition", "intermittent pilot", "standing pilot", "ignition transformer", "electrode positioning", "ignition troubleshooting", "flame sensing", "silicon carbide igniter"]
 ---
 
 Ignition systems initiate and maintain combustion in gas-fired heating equipment. Modern ignition technology has evolved from continuous pilot flames to electronic systems that improve efficiency and reliability while reducing energy consumption.

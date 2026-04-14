@@ -1,5 +1,6 @@
 ---
 title: "Components"
+aliases: ["Components"]
 weight: 3
 ---
 

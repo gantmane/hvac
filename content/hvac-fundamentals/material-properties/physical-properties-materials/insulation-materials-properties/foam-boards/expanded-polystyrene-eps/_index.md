@@ -1,5 +1,6 @@
 ---
 title: "Expanded Polystyrene Eps"
+aliases: ["Expanded Polystyrene Eps"]
 weight: 1
 ---
 

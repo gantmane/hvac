@@ -1,5 +1,6 @@
 ---
 title: "Infiltration and Exfiltration Control"
+aliases: ["Infiltration and Exfiltration Control"]
 description: "Engineering strategies for controlling air leakage in biosecurity-focused agricultural facilities including building sealing techniques, blower door testing protocols, and bypass air prevention methods."
 weight: 4
 ---

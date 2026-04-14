@@ -1,7 +1,9 @@
 ---
 title: "Control System Verification and Functional Testing"
+aliases: ["Control System Verification and Functional Testing"]
 description: "Comprehensive guide to HVAC control system verification including BAS point checkout, sequence testing, trend logging, and functional performance testing procedures."
 keywords: ["control system verification", "BAS commissioning", "sequence of operations testing", "point-to-point checkout", "trend logging", "ASHRAE Guideline 36", "functional performance testing", "DDC controls"]
+tags: ["control system verification", "BAS commissioning", "sequence of operations testing", "point-to-point checkout", "trend logging", "ASHRAE Guideline 36", "functional performance testing", "DDC controls"]
 date: 2025-01-05
 weight: 3
 draft: false

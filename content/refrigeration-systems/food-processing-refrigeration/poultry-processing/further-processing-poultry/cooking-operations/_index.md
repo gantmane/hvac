@@ -1,8 +1,10 @@
 ---
 title: "HVAC for Poultry Cooking Operations"
+aliases: ["HVAC for Poultry Cooking Operations"]
 weight: 1
 description: "Environmental control systems for poultry cooking operations including heat removal, moisture management, air quality control, and process cooling requirements."
 keywords: "poultry cooking HVAC, cooking operation ventilation, heat removal cooking, moisture control cooking, food safety temperature, cooking exhaust systems"
+tags: ["poultry cooking HVAC", "cooking operation ventilation", "heat removal cooking", "moisture control cooking", "food safety temperature", "cooking exhaust systems"]
 ---
 
 ## Overview

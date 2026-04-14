@@ -1,7 +1,9 @@
 ---
 title: "Absorption Chillers: Heat-Driven Cooling Technology"
+aliases: ["Absorption Chillers: Heat-Driven Cooling Technology"]
 description: "Technical analysis of absorption chiller thermodynamics, lithium bromide-water cycles, COP performance, and waste heat recovery applications for HVAC systems."
 keywords: ["absorption chiller", "lithium bromide water cycle", "heat driven cooling", "waste heat recovery", "COP absorption", "thermal compression", "combined heat power", "cogeneration cooling"]
+tags: ["absorption chiller", "lithium bromide water cycle", "heat driven cooling", "waste heat recovery", "COP absorption", "thermal compression", "combined heat power", "cogeneration cooling"]
 weight: 2
 ---
 

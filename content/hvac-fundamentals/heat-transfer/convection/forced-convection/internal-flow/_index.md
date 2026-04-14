@@ -1,5 +1,6 @@
 ---
 title: "Internal Flow"
+aliases: ["Internal Flow"]
 weight: 2
 ---
 

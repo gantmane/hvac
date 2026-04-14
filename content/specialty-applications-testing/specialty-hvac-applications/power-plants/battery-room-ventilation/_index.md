@@ -1,7 +1,9 @@
 ---
 title: "Battery Room Ventilation: Hydrogen Dilution Engineering"
+aliases: ["Battery Room Ventilation: Hydrogen Dilution Engineering"]
 description: "Engineering principles for battery room ventilation systems including hydrogen generation physics, explosion prevention, dilution calculations, and continuous monitoring per IEEE 484 and NFPA 1."
 keywords: ["battery room ventilation", "hydrogen dilution", "IEEE 484", "NFPA 1", "explosion prevention", "lead-acid batteries", "lithium-ion ventilation", "hydrogen off-gassing"]
+tags: ["battery room ventilation", "hydrogen dilution", "IEEE 484", "NFPA 1", "explosion prevention", "lead-acid batteries", "lithium-ion ventilation", "hydrogen off-gassing"]
 weight: 5
 ---
 

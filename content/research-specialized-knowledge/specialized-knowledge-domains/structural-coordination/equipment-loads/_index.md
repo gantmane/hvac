@@ -1,5 +1,6 @@
 ---
 title: "Equipment Loads"
+aliases: ["Equipment Loads"]
 description: "Static and dynamic load calculations, seismic restraint requirements, wind and snow load effects on rooftop equipment for structural coordination"
 weight: 1
 ---

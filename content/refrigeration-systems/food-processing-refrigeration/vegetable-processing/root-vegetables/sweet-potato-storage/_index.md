@@ -1,5 +1,6 @@
 ---
 title: "Sweet Potato Storage"
+aliases: ["Sweet Potato Storage"]
 description: "Technical specifications for sweet potato curing and storage refrigeration systems including wound healing requirements, chilling injury prevention, humidity control, and specialized equipment design for 4-7 month storage periods"
 weight: 5
 ---

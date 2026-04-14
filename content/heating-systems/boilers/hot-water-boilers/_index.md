@@ -1,8 +1,10 @@
 ---
 title: "Hot Water Boilers"
+aliases: ["Hot Water Boilers"]
 weight: 4
 description: "Comprehensive guide to hot water boiler systems including low-temperature and high-temperature configurations, condensing boiler technology, construction materials, modulating controls, and ASME code requirements."
 keywords: ["hot water boilers", "condensing boilers", "cast iron boilers", "steel boilers", "modulating burners", "boiler staging", "expansion tanks", "ASME Section IV", "low temperature water", "high temperature water"]
+tags: ["hot water boilers", "condensing boilers", "cast iron boilers", "steel boilers", "modulating burners", "boiler staging", "expansion tanks", "ASME Section IV", "low temperature water", "high temperature water"]
 ---
 
 ## Hot Water Boiler Systems

@@ -1,5 +1,6 @@
 ---
 title: "Energy Savings from Hotel Room Setback Controls"
+aliases: ["Energy Savings from Hotel Room Setback Controls"]
 description: "Quantifying energy savings potential from unoccupied room setback including climate factors, occupancy patterns, ROI analysis, peak demand reduction, and benchmarks for various hotel types."
 date: "2026-01-11"
 weight: 1

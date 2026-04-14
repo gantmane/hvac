@@ -1,7 +1,9 @@
 ---
 title: "System Integration Tests"
+aliases: ["System Integration Tests"]
 description: "Technical procedures for HVAC system integration testing including economizer sequences, demand control ventilation, building pressurization, and multi-system coordination verification."
 keywords: ["system integration testing", "economizer testing", "demand controlled ventilation", "building pressurization", "smoke control testing", "emergency power transfer", "optimal start", "ASHRAE Guideline 0", "commissioning integration"]
+tags: ["system integration testing", "economizer testing", "demand controlled ventilation", "building pressurization", "smoke control testing", "emergency power transfer", "optimal start", "ASHRAE Guideline 0", "commissioning integration"]
 weight: 2
 ---
 

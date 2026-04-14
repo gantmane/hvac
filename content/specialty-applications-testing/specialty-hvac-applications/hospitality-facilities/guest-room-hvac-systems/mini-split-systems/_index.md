@@ -1,7 +1,9 @@
 ---
 title: "Mini-Split Systems for Hotel Guest Rooms"
+aliases: ["Mini-Split Systems for Hotel Guest Rooms"]
 description: "Ductless and ducted mini-split configurations for hotels, including multi-zone suites, condensate management, outdoor unit placement, and maintenance access strategies."
 keywords: ["mini-split hotel", "ductless guest room", "hotel renovation HVAC", "multi-zone suite", "condensate management", "outdoor unit placement", "hotel mini-split maintenance", "VRF hospitality"]
+tags: ["mini-split hotel", "ductless guest room", "hotel renovation HVAC", "multi-zone suite", "condensate management", "outdoor unit placement", "hotel mini-split maintenance", "VRF hospitality"]
 date: 2025-01-11
 draft: false
 weight: 4

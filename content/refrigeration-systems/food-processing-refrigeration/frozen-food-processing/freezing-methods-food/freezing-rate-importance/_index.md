@@ -1,5 +1,6 @@
 ---
 title: "Freezing Rate Importance"
+aliases: ["Freezing Rate Importance"]
 description: "Technical analysis of freezing rate effects on ice crystal formation, cellular damage mechanisms, quality preservation, and critical zone transit time in food processing refrigeration systems"
 weight: 2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Capillary Transport"
+aliases: ["Capillary Transport"]
 description: "Physics of liquid water movement through porous building materials via capillary action, including capillary suction coefficients, liquid diffusivity, and unsaturated flow mechanics"
 weight: 1
 ---

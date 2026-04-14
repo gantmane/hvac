@@ -1,8 +1,10 @@
 ---
 title: "Biogas Resources for HVAC Energy Applications"
+aliases: ["Biogas Resources for HVAC Energy Applications"]
 weight: 4
 description: "Technical guide to biogas production via anaerobic digestion, landfill gas capture, and renewable natural gas upgrading for heating and power generation systems."
 keywords: ["biogas", "anaerobic digestion", "landfill gas", "renewable natural gas", "RNG", "methane production", "AgSTAR", "digester design"]
+tags: ["biogas", "anaerobic digestion", "landfill gas", "renewable natural gas", "RNG", "methane production", "AgSTAR", "digester design"]
 ---
 
 Biogas represents a renewable energy resource derived from organic waste decomposition under anaerobic conditions. The methane-rich gas produced serves as fuel for boilers, engines, turbines, and fuel cells in HVAC applications, providing both thermal energy and electricity while reducing greenhouse gas emissions.

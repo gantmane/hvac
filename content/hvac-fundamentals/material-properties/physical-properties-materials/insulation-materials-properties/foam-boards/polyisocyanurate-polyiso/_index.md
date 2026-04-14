@@ -1,5 +1,6 @@
 ---
 title: "Polyisocyanurate Polyiso"
+aliases: ["Polyisocyanurate Polyiso"]
 weight: 3
 ---
 

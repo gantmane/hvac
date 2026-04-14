@@ -1,5 +1,6 @@
 ---
 title: "Expansion Tanks for Solar Thermal Systems"
+aliases: ["Expansion Tanks for Solar Thermal Systems"]
 description: "Technical guide to expansion tank sizing, selection, and installation for solar thermal systems. Covers thermal expansion physics, ASHRAE standards, and design."
 date: 2025-01-05
 weight: 4

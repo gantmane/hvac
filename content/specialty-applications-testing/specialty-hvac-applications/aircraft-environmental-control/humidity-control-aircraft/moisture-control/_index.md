@@ -1,5 +1,6 @@
 ---
 title: "Aircraft Moisture Control Systems"
+aliases: ["Aircraft Moisture Control Systems"]
 description: "Technical analysis of aircraft moisture control including condensation prevention, vapor barrier design, water extraction systems, and structural protection from moisture damage."
 keywords:
   - aircraft moisture control

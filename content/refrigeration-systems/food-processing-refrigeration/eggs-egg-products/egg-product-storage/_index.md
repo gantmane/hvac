@@ -1,5 +1,6 @@
 ---
 title: "Egg Product Storage"
+aliases: ["Egg Product Storage"]
 description: "Technical specifications for refrigerated storage of processed egg products including liquid, frozen, and dried eggs with temperature control requirements, humidity management, shelf life optimization, and storage duration guidelines for commercial egg processing facilities."
 weight: 3
 ---

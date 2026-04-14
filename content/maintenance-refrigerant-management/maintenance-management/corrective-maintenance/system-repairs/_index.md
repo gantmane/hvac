@@ -1,7 +1,9 @@
 ---
 title: "HVAC System Repairs and Component Restoration"
+aliases: ["HVAC System Repairs and Component Restoration"]
 description: "Comprehensive repair procedures for HVAC components including refrigerant leaks, duct sealing, control systems, and repair vs. replace decision criteria per industry standards."
 keywords: ["HVAC repairs", "refrigerant leak repair", "duct sealing", "control system repair", "coil repair", "repair decision criteria", "component restoration", "system troubleshooting"]
+tags: ["HVAC repairs", "refrigerant leak repair", "duct sealing", "control system repair", "coil repair", "repair decision criteria", "component restoration", "system troubleshooting"]
 weight: 4
 ---
 

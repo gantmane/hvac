@@ -1,8 +1,10 @@
 ---
 title: "Recovery Time Calculations for Water Heaters"
+aliases: ["Recovery Time Calculations for Water Heaters"]
 weight: 10
 description: "Engineering methods for calculating water heater recovery rates, BTU input requirements, and gallons per hour capacity using thermodynamic principles and efficiency factors."
 keywords: ["recovery time", "water heater sizing", "GPH calculation", "BTU input", "temperature rise", "domestic hot water", "peak demand", "thermal recovery"]
+tags: ["recovery time", "water heater sizing", "GPH calculation", "BTU input", "temperature rise", "domestic hot water", "peak demand", "thermal recovery"]
 ---
 
 Recovery time calculations determine how quickly a water heater can restore its storage volume to the desired temperature after a draw event. These calculations form the foundation of proper water heater sizing for residential, commercial, and industrial applications.

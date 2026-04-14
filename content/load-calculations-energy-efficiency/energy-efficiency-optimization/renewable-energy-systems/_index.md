@@ -1,5 +1,6 @@
 ---
 title: "Renewable Energy Systems"
+aliases: ["Renewable Energy Systems"]
 description: "Integration of renewable energy sources with HVAC systems including solar thermal, photovoltaics, geothermal heat pumps, biomass, and wind energy for sustainable building performance."
 weight: 8
 ---

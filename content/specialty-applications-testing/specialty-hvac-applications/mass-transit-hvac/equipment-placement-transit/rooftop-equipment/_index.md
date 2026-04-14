@@ -1,7 +1,9 @@
 ---
 title: "Rooftop Transit HVAC Equipment Placement"
+aliases: ["Rooftop Transit HVAC Equipment Placement"]
 description: "Technical analysis of rooftop HVAC equipment placement for buses and rail vehicles, covering weight distribution, aerodynamic design, clearance requirements, and maintenance access."
 keywords: "rooftop HVAC transit, bus air conditioning placement, rooftop unit mounting, transit vehicle aerodynamics, HVAC weight distribution, roof clearance requirements, transit equipment access, rooftop HVAC design"
+tags: ["rooftop HVAC transit", "bus air conditioning placement", "rooftop unit mounting", "transit vehicle aerodynamics", "HVAC weight distribution", "roof clearance requirements", "transit equipment access", "rooftop HVAC design"]
 weight: 1
 ---
 

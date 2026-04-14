@@ -1,5 +1,6 @@
 ---
 title: "FPSO Vessel HVAC: Floating Production Systems"
+aliases: ["FPSO Vessel HVAC: Floating Production Systems"]
 description: "HVAC design for floating production storage and offloading vessels including living quarters comfort, process area ventilation, explosion-proof systems, and hazardous zone HVAC."
 date: "2026-01-11"
 weight: 3

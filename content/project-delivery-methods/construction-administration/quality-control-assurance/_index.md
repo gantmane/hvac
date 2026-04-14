@@ -1,5 +1,6 @@
 ---
 title: "Quality Control Assurance"
+aliases: ["Quality Control Assurance"]
 weight: 5
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Electric Snow Melting Cable Types & Selection"
+aliases: ["Electric Snow Melting Cable Types & Selection"]
 description: "Technical analysis of self-regulating and constant wattage heating cables for snow melting systems. Compare MI cable, polymer cables, power output calculations."
 keywords: ["self-regulating cable", "constant wattage cable", "MI cable", "heating cable", "snow melting cable", "electric radiant heating", "NEC Article 426", "cable power density"]
+tags: ["self-regulating cable", "constant wattage cable", "MI cable", "heating cable", "snow melting cable", "electric radiant heating", "NEC Article 426", "cable power density"]
 weight: 3
 ---
 

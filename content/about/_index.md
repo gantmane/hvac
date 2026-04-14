@@ -1,5 +1,6 @@
 ---
 title: "About the Author"
+aliases: ["About the Author"]
 description: "About Evgeny Gantman — Chief HVAC Engineer, BIM Coordinator, and digital engineering specialist with 20+ years of experience in HVAC design and BIM automation"
 weight: 100
 author: "Evgeny Gantman"

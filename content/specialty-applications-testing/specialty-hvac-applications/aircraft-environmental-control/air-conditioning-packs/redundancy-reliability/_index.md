@@ -1,5 +1,6 @@
 ---
 title: "Redundancy and Reliability in Aircraft Air Conditioning Packs"
+aliases: ["Redundancy and Reliability in Aircraft Air Conditioning Packs"]
 date: 2025-01-05
 draft: false
 description: "Technical analysis of redundancy architectures, failure modes, reliability metrics, and dispatch criteria for aircraft environmental control system air conditioning packs."

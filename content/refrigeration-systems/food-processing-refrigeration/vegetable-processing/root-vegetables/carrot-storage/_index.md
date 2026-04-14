@@ -1,5 +1,6 @@
 ---
 title: "Carrot Storage"
+aliases: ["Carrot Storage"]
 description: "Technical requirements for carrot cold storage including hydrocooling, refrigeration load calculations, high-humidity control systems, and long-term storage protocols for topped carrots and baby carrot production."
 weight: 2
 ---

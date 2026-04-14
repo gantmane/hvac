@@ -1,7 +1,9 @@
 ---
 title: "Static Electricity Control in Printing Plants"
+aliases: ["Static Electricity Control in Printing Plants"]
 description: "Comprehensive analysis of static electricity control methods for printing operations including humidity maintenance, ionization systems, grounding strategies, and material handling protocols for paper and film substrates"
 keywords: ["static control printing", "humidity control static", "ionization systems", "printing static electricity", "paper static control", "web press static", "grounding printing equipment", "TAPPI standards", "printing plant HVAC"]
+tags: ["static control printing", "humidity control static", "ionization systems", "printing static electricity", "paper static control", "web press static", "grounding printing equipment", "TAPPI standards", "printing plant HVAC"]
 date: 2026-01-05
 weight: 7
 seo_title: "Static Electricity Control Printing: Humidity, Ionization & Grounding"

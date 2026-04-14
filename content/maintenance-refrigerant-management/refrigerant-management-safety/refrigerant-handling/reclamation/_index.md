@@ -1,7 +1,9 @@
 ---
 title: "Refrigerant Reclamation Standards & Certification"
+aliases: ["Refrigerant Reclamation Standards & Certification"]
 description: "Comprehensive guide to refrigerant reclamation processes, AHRI 700 purity standards, EPA certification requirements, and certified reclaimer protocols for HVAC systems."
 keywords: ["refrigerant reclamation", "AHRI 700 standards", "EPA reclamation", "certified reclaimers", "refrigerant purity", "ARI 700", "refrigerant testing", "reclamation certification"]
+tags: ["refrigerant reclamation", "AHRI 700 standards", "EPA reclamation", "certified reclaimers", "refrigerant purity", "ARI 700", "refrigerant testing", "reclamation certification"]
 weight: 3
 ---
 

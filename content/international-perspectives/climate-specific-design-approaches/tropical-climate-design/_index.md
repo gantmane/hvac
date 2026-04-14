@@ -1,5 +1,6 @@
 ---
 title: "Tropical Climate HVAC Design Strategies"
+aliases: ["Tropical Climate HVAC Design Strategies"]
 description: "Engineering principles for HVAC systems in tropical climates: latent load management, dehumidification strategies, and energy-efficient cooling solutions."
 date: 2025-01-05
 tags: ["tropical climate", "dehumidification", "latent loads", "high humidity", "climate-specific design", "psychrometrics"]

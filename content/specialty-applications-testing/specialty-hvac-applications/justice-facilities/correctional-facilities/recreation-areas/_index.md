@@ -1,8 +1,10 @@
 ---
 title: "Correctional Facility Recreation Area HVAC Systems"
+aliases: ["Correctional Facility Recreation Area HVAC Systems"]
 weight: 3
 description: "Engineering guide for HVAC design in correctional recreation areas including gymnasiums, weight rooms, and outdoor yards with high activity loads and security integration."
 keywords: ["correctional recreation HVAC", "prison gymnasium ventilation", "recreation yard climate control", "inmate exercise area design", "secure facility recreation", "high activity load HVAC", "correctional weight room", "justice facility fitness"]
+tags: ["correctional recreation HVAC", "prison gymnasium ventilation", "recreation yard climate control", "inmate exercise area design", "secure facility recreation", "high activity load HVAC", "correctional weight room", "justice facility fitness"]
 ---
 
 ## Overview

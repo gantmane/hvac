@@ -1,5 +1,6 @@
 ---
 title: "Model Coordination"
+aliases: ["Model Coordination"]
 weight: 3
 ---
 

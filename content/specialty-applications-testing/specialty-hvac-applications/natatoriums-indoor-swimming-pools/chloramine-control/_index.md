@@ -1,8 +1,10 @@
 ---
 title: "Chloramine Control and Air Quality"
+aliases: ["Chloramine Control and Air Quality"]
 weight: 4
 description: "Technical analysis of chloramine formation, health effects, and control strategies for natatorium air quality including ventilation dilution, UV treatment, and air filtration methods for indoor swimming pool facilities."
 keywords: "chloramines, trichloramine, pool air quality, natatorium ventilation, indoor air quality swimming pools, chlorine byproducts, DBP control"
+tags: ["chloramines", "trichloramine", "pool air quality", "natatorium ventilation", "indoor air quality swimming pools", "chlorine byproducts", "DBP control"]
 ---
 
 Chloramine control represents one of the most challenging aspects of natatorium indoor air quality management. Unlike conventional buildings where carbon dioxide and odors drive ventilation requirements, indoor pools must address volatile chlorine compounds that cause eye and respiratory irritation, equipment corrosion, and odor complaints even at low concentrations.

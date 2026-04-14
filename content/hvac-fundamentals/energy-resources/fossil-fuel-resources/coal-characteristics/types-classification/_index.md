@@ -1,8 +1,10 @@
 ---
 title: "Coal Types and Classification Systems"
+aliases: ["Coal Types and Classification Systems"]
 weight: 1
 description: "Comprehensive analysis of coal rank classification from anthracite to lignite, including ASTM standards, heating values, and thermodynamic properties for HVAC combustion applications."
 keywords: ["coal classification", "ASTM D388", "coal rank", "anthracite", "bituminous coal", "sub-bituminous", "lignite", "heating value"]
+tags: ["coal classification", "ASTM D388", "coal rank", "anthracite", "bituminous coal", "sub-bituminous", "lignite", "heating value"]
 ---
 
 Coal classification systems provide critical parameters for selecting appropriate fuels in industrial heating applications and power generation systems. The ASTM D388 standard establishes the primary classification framework based on fixed carbon content, volatile matter, and calorific value. Understanding coal rank progression from low-rank lignite to high-rank anthracite enables engineers to optimize combustion systems, predict performance characteristics, and design appropriate fuel handling infrastructure.

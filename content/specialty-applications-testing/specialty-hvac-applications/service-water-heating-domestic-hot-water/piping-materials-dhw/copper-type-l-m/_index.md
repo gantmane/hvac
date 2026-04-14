@@ -1,8 +1,10 @@
 ---
 title: "Copper Type L and M for Domestic Hot Water Systems"
+aliases: ["Copper Type L and M for Domestic Hot Water Systems"]
 weight: 1
 description: "Engineering guide to Type L and Type M copper piping for DHW applications, covering wall thickness, pressure ratings, ASTM B88 specifications, and installation methods."
 keywords: ["copper pipe Type L", "copper pipe Type M", "domestic hot water piping", "ASTM B88", "copper wall thickness", "DHW piping", "copper pressure rating", "plumbing copper"]
+tags: ["copper pipe Type L", "copper pipe Type M", "domestic hot water piping", "ASTM B88", "copper wall thickness", "DHW piping", "copper pressure rating", "plumbing copper"]
 ---
 
 # Copper Type L and Type M for Domestic Hot Water Systems

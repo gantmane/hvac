@@ -1,8 +1,10 @@
 ---
 title: "Pre-Cooling Strategies for Peak Load Reduction"
+aliases: ["Pre-Cooling Strategies for Peak Load Reduction"]
 weight: 3
 description: "Technical analysis of thermal mass pre-cooling for high-occupancy HVAC systems including timing optimization, energy cost savings, and peak demand shaving strategies."
 keywords: ["pre-cooling strategies", "thermal mass cooling", "peak shaving HVAC", "demand response", "load shifting", "energy optimization", "time-of-use rates", "building thermal storage"]
+tags: ["pre-cooling strategies", "thermal mass cooling", "peak shaving HVAC", "demand response", "load shifting", "energy optimization", "time-of-use rates", "building thermal storage"]
 ---
 
 ## Pre-Cooling Strategy Fundamentals

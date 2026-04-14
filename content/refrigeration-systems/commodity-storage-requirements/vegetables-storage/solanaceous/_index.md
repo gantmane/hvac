@@ -1,5 +1,6 @@
 ---
 title: "Solanaceous"
+aliases: ["Solanaceous"]
 weight: 5
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Resilience and Climate Adaptation in HVAC Systems"
+aliases: ["Resilience and Climate Adaptation in HVAC Systems"]
 description: "Engineering HVAC systems for climate resilience through adaptive design, extreme weather preparedness, and operational continuity strategies."
 date: 2025-01-05
 tags: ["resilience", "climate adaptation", "extreme weather", "disaster recovery", "system reliability", "building performance", "risk mitigation"]

@@ -1,5 +1,6 @@
 ---
 title: "Mineral Oils"
+aliases: ["Mineral Oils"]
 description: "Comprehensive technical analysis of mineral oil lubricants for refrigeration compressors including naphthenic and paraffinic base stocks, viscosity characteristics, CFC/HCFC compatibility, and limitations with modern refrigerants"
 weight: 1
 ---

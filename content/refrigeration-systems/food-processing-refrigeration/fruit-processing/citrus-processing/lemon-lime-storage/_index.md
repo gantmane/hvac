@@ -1,5 +1,6 @@
 ---
 title: "Lemon and Lime Cold Storage Systems"
+aliases: ["Lemon and Lime Cold Storage Systems"]
 description: "HVAC design criteria for lemon and lime refrigerated storage facilities including chilling injury prevention, degreening room design, ethylene management, and humidity control systems for extended shelf life"
 weight: 3
 ---

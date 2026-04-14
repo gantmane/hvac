@@ -1,5 +1,6 @@
 ---
 title: "Pressure Maintenance"
+aliases: ["Pressure Maintenance"]
 weight: 4
 ---
 

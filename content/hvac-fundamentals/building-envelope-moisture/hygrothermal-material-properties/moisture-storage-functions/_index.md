@@ -1,5 +1,6 @@
 ---
 title: "Moisture Storage Functions"
+aliases: ["Moisture Storage Functions"]
 description: "Sorption isotherms, hysteresis, capillary suction curves, and moisture capacity for hygrothermal analysis. Material moisture storage data for WUFI simulation and building envelope design."
 weight: 3
 ---

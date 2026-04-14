@@ -1,5 +1,6 @@
 ---
 title: "Fishing Vessel Refrigeration"
+aliases: ["Fishing Vessel Refrigeration"]
 weight: 4
 ---
 

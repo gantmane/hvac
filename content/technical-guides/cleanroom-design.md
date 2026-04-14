@@ -2,6 +2,7 @@
 title: "Cleanroom Design & ISO Classification for HVAC Engineers"
 description: "Comprehensive guide to cleanroom HVAC design including ISO 14644 classifications, airflow patterns, HEPA filtration, pressure cascades, and particle control strategies."
 keywords: ["cleanroom design", "ISO 14644", "HEPA filtration", "laminar flow", "particle control", "cleanroom HVAC", "pharmaceutical manufacturing"]
+tags: ["cleanroom design", "ISO 14644", "HEPA filtration", "laminar flow", "particle control", "cleanroom HVAC", "pharmaceutical manufacturing"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 36
@@ -337,11 +338,11 @@ graph LR
 ---
 
 **Related Technical Guides:**
-- [Air Filtration Design](/technical-guides/air-filtration-design/)
-- [Building Pressurization Control](/technical-guides/building-pressurization-control/)
-- [Ventilation Rate Calculations](/technical-guides/ventilation-rate-calculations/)
-- [HVAC Control Strategies](/technical-guides/hvac-control-strategies/)
-- [Healthcare HVAC Design](/technical-guides/healthcare-hvac-design/)
+- Air Filtration Design
+- Building Pressurization Control
+- Ventilation Rate Calculations
+- HVAC Control Strategies
+- Healthcare HVAC Design
 
 **References:**
 - ISO 14644-1: Classification of Air Cleanliness by Particle Concentration

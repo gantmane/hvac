@@ -1,5 +1,6 @@
 ---
 title: "Air Distribution Acoustics for Assembly Spaces"
+aliases: ["Air Distribution Acoustics for Assembly Spaces"]
 description: "Technical analysis of regenerated noise, terminal device selection, and duct design strategies for achieving NC 15-25 performance in theaters and concert halls."
 date: 2026-01-11
 tags: ["air distribution", "acoustics", "regenerated noise", "terminal devices", "duct acoustics", "sound power", "NC curves", "diffuser selection"]

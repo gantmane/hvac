@@ -1,5 +1,6 @@
 ---
 title: "WELL Building Standard for HVAC Systems"
+aliases: ["WELL Building Standard for HVAC Systems"]
 description: "Technical guide to HVAC design for WELL certification covering air quality, thermal comfort, ventilation rates, and filtration requirements per WELL v2."
 date: 2025-01-05
 tags: ["WELL Standard", "Green Building", "Indoor Air Quality", "Thermal Comfort", "HVAC Design", "Building Certification", "Air Filtration", "Ventilation Standards"]

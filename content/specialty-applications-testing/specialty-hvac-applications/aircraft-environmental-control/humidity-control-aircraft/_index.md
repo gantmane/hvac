@@ -1,5 +1,6 @@
 ---
 title: "Aircraft Humidity Control Systems"
+aliases: ["Aircraft Humidity Control Systems"]
 description: "Comprehensive technical analysis of aircraft cabin humidity control, low humidity challenges, humidification systems for premium cabins, moisture damage prevention, and condensation control in aviation HVAC systems."
 keywords:
   - aircraft humidity control

@@ -1,7 +1,9 @@
 ---
 title: "Vehicle Exhaust Removal Systems for Fire Apparatus"
+aliases: ["Vehicle Exhaust Removal Systems for Fire Apparatus"]
 description: "Engineering guide for fire station vehicle exhaust removal systems including source capture, dilution ventilation, NFPA 1500 compliance, system sizing, interlocks, and health protection."
 keywords: ["vehicle exhaust removal", "diesel exhaust capture", "NFPA 1500", "source capture", "dilution ventilation", "apparatus bay exhaust", "firefighter health", "exhaust system sizing"]
+tags: ["vehicle exhaust removal", "diesel exhaust capture", "NFPA 1500", "source capture", "dilution ventilation", "apparatus bay exhaust", "firefighter health", "exhaust system sizing"]
 weight: 1
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Smoke Stratification Challenges in Large Volumes"
+aliases: ["Smoke Stratification Challenges in Large Volumes"]
 description: "Engineering analysis of thermal stratification in large-volume smoke control systems, including temperature gradient physics, detection challenges, and destratification strategies per NFPA 92."
 keywords: ["smoke stratification", "thermal stratification", "large volume smoke control", "smoke layer stability", "destratification", "NFPA 92", "smoke detection challenges", "temperature gradient"]
+tags: ["smoke stratification", "thermal stratification", "large volume smoke control", "smoke layer stability", "destratification", "NFPA 92", "smoke detection challenges", "temperature gradient"]
 weight: 1
 ---
 

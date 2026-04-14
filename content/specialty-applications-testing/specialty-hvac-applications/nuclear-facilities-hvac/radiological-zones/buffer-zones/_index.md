@@ -1,8 +1,10 @@
 ---
 title: "Buffer Zone HVAC Systems in Nuclear Facilities"
+aliases: ["Buffer Zone HVAC Systems in Nuclear Facilities"]
 weight: 2
 description: "Engineering analysis of buffer zone ventilation including pressure cascade design, change room airflow, airlock integration, contamination containment, and PPE considerations."
 keywords: "buffer zones, pressure cascade, change rooms, airlocks, contamination control, nuclear ventilation, zone transition, PPE ventilation"
+tags: ["buffer zones", "pressure cascade", "change rooms", "airlocks", "contamination control", "nuclear ventilation", "zone transition", "PPE ventilation"]
 ---
 
 # Buffer Zone HVAC Systems in Nuclear Facilities

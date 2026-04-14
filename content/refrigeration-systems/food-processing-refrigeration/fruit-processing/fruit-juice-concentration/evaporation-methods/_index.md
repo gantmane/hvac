@@ -1,5 +1,6 @@
 ---
 title: "Evaporation Methods"
+aliases: ["Evaporation Methods"]
 description: "Comprehensive analysis of evaporation technologies for fruit juice concentration including single and multi-effect systems, vacuum evaporation, mechanical and thermal vapor recompression, heat transfer calculations, and aroma recovery systems"
 weight: 1
 ---

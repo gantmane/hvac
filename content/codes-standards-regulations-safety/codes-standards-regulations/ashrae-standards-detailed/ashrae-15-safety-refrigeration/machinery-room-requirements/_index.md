@@ -1,5 +1,6 @@
 ---
 title: "Refrigeration Machinery Room Requirements"
+aliases: ["Refrigeration Machinery Room Requirements"]
 description: "Comprehensive machinery room design requirements including when rooms are required, minimum dimensions, access provisions, mechanical ventilation systems, refrigerant detection, electrical requirements, and emergency response features."
 date: 2026-01-04
 weight: 2

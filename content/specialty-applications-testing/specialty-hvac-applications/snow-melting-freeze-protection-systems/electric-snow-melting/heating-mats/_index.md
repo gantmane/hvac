@@ -1,7 +1,9 @@
 ---
 title: "Electric Heating Mats for Snow Melting Systems"
+aliases: ["Electric Heating Mats for Snow Melting Systems"]
 description: "Technical analysis of electric heating mat design, power density calculations, installation methods, and performance characteristics for effective snow melting applications."
 keywords: ["electric heating mats", "snow melting", "radiant heating", "power density", "freeze protection", "electric resistance heating", "mat installation", "heating cables"]
+tags: ["electric heating mats", "snow melting", "radiant heating", "power density", "freeze protection", "electric resistance heating", "mat installation", "heating cables"]
 date: 2026-01-11
 weight: 2
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Duct Furnaces"
+aliases: ["Duct Furnaces"]
 description: "Engineering guide to duct furnaces for in-duct heating including gas-fired and electric configurations, draw-through vs blow-through arrangements, and control strategies."
 date: "2026-01-04"
 weight: 3

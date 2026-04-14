@@ -1,7 +1,9 @@
 ---
 title: "Snow Melt System Sensor Placement Strategies"
+aliases: ["Snow Melt System Sensor Placement Strategies"]
 description: "Physics-based sensor positioning for snow melting systems. Thermal response calculations, worst-case location selection, and multi-zone detection strategies."
 keywords: ["snow sensor placement", "slab temperature sensors", "precipitation sensors", "thermal response time", "snow detection sensors", "radiant heating controls", "moisture sensors", "freeze protection"]
+tags: ["snow sensor placement", "slab temperature sensors", "precipitation sensors", "thermal response time", "snow detection sensors", "radiant heating controls", "moisture sensors", "freeze protection"]
 weight: 4
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "International HVAC Collaboration and Standards"
+aliases: ["International HVAC Collaboration and Standards"]
 description: "Global HVAC collaboration frameworks, ISO standards development, technology transfer programs, and research initiatives driving harmonization and knowledge sharing."
 keywords: ["international HVAC standards", "ISO TC 86", "technology transfer", "research collaboration", "standards harmonization", "IEA heat pump programme", "knowledge sharing platforms", "global HVAC cooperation"]
+tags: ["international HVAC standards", "ISO TC 86", "technology transfer", "research collaboration", "standards harmonization", "IEA heat pump programme", "knowledge sharing platforms", "global HVAC cooperation"]
 weight: 8
 ---
 

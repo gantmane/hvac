@@ -1,8 +1,10 @@
 ---
 title: "Individual Room Control in Dormitory HVAC Systems"
+aliases: ["Individual Room Control in Dormitory HVAC Systems"]
 weight: 1
 description: "Technical guidance for dormitory room-level HVAC control including fan coil configurations, PTAC/PTHP applications, two-pipe vs four-pipe systems, setpoint limiting, occupancy setback, and network integration for energy management."
 keywords: "dormitory room control, fan coil unit, PTAC, PTHP, four-pipe system, two-pipe system, thermostat lockout, occupancy setback, BAS integration, student housing HVAC"
+tags: ["dormitory room control", "fan coil unit", "PTAC", "PTHP", "four-pipe system", "two-pipe system", "thermostat lockout", "occupancy setback", "BAS integration", "student housing HVAC"]
 ---
 
 # Individual Room Control in Dormitory HVAC Systems

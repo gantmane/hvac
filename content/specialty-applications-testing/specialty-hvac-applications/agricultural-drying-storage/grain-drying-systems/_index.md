@@ -1,5 +1,6 @@
 ---
 title: "Grain Drying Systems"
+aliases: ["Grain Drying Systems"]
 description: "Engineering analysis of grain drying methods including natural air, low-temperature, and high-temperature systems with moisture removal calculations and ASABE standards compliance."
 keywords:
   - grain drying systems

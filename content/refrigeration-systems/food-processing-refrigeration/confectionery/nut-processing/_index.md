@@ -1,5 +1,6 @@
 ---
 title: "Nut Processing"
+aliases: ["Nut Processing"]
 description: "HVAC refrigeration design for nut processing facilities including roasting cooling, cold storage for rancidity prevention, blanching and coating cooling systems, and humidity control for tree nuts and peanuts."
 weight: 3
 ---

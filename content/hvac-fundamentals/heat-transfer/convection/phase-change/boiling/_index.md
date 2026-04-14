@@ -1,5 +1,6 @@
 ---
 title: "Boiling"
+aliases: ["Boiling"]
 weight: 1
 ---
 

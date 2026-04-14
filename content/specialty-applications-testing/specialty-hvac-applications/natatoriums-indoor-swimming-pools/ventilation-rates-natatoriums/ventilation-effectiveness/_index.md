@@ -1,7 +1,9 @@
 ---
 title: "Ventilation Effectiveness in Natatoriums"
+aliases: ["Ventilation Effectiveness in Natatoriums"]
 description: "Physics-based analysis of air distribution patterns, displacement vs mixing ventilation, stratification effects, CFD modeling, and contaminant removal efficiency in indoor pool facilities."
 keywords: ["ventilation effectiveness", "air change effectiveness", "displacement ventilation", "mixing ventilation", "CFD modeling natatoriums", "contaminant removal efficiency", "air age calculations", "stratification thermal"]
+tags: ["ventilation effectiveness", "air change effectiveness", "displacement ventilation", "mixing ventilation", "CFD modeling natatoriums", "contaminant removal efficiency", "air age calculations", "stratification thermal"]
 weight: 3
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Adsorption Refrigeration"
+aliases: ["Adsorption Refrigeration"]
 weight: 3
 description: "Comprehensive guide to adsorption refrigeration systems using solid adsorbent materials, cycle operation principles, performance analysis, and solar cooling applications."
 keywords: ["adsorption refrigeration", "silica gel water system", "zeolite refrigeration", "activated carbon ammonia", "solar cooling", "adsorption cycle", "solid state refrigeration"]
+tags: ["adsorption refrigeration", "silica gel water system", "zeolite refrigeration", "activated carbon ammonia", "solar cooling", "adsorption cycle", "solid state refrigeration"]
 ---
 
 Adsorption refrigeration systems utilize solid adsorbent materials to capture and release refrigerant vapor through physical or chemical bonding processes. These thermally-driven cooling systems operate without mechanical compressors, making them suitable for waste heat recovery and solar cooling applications where low-grade thermal energy is available.

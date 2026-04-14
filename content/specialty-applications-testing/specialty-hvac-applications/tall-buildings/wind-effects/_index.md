@@ -1,5 +1,6 @@
 ---
 title: "Wind Effects on Tall Buildings"
+aliases: ["Wind Effects on Tall Buildings"]
 description: "Wind-induced pressures, windward vs leeward effects, infiltration impacts, building sway, and ductwork flexibility requirements for high-rise structures."
 date: "2026-01-04"
 weight: 6

@@ -1,7 +1,9 @@
 ---
 title: "Lint Control Exhaust Systems"
+aliases: ["Lint Control Exhaust Systems"]
 description: "Comprehensive engineering guide to local exhaust ventilation, capture hood design, collection systems, and makeup air requirements for textile plant lint control applications."
 keywords: ["lint exhaust ventilation", "textile capture hoods", "lint collection systems", "industrial exhaust design", "ACGIH ventilation", "makeup air requirements", "lint transport velocity", "hood design specifications"]
+tags: ["lint exhaust ventilation", "textile capture hoods", "lint collection systems", "industrial exhaust design", "ACGIH ventilation", "makeup air requirements", "lint transport velocity", "hood design specifications"]
 weight: 2
 ---
 

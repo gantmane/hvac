@@ -1,5 +1,6 @@
 ---
 title: "Mechanical Refrigeration Railcars"
+aliases: ["Mechanical Refrigeration Railcars"]
 weight: 1
 ---
 

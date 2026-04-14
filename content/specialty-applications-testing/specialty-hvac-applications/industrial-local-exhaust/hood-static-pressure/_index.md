@@ -1,7 +1,9 @@
 ---
 title: "Hood Static Pressure in Industrial Exhaust Systems"
+aliases: ["Hood Static Pressure in Industrial Exhaust Systems"]
 description: "Comprehensive analysis of hood static pressure calculations, measurement methods, and pressure loss factors in industrial local exhaust ventilation systems."
 keywords: ["hood static pressure", "local exhaust ventilation", "ACGIH hood design", "pressure loss calculation", "industrial ventilation", "hood entry loss", "exhaust system design", "ventilation pressure drop"]
+tags: ["hood static pressure", "local exhaust ventilation", "ACGIH hood design", "pressure loss calculation", "industrial ventilation", "hood entry loss", "exhaust system design", "ventilation pressure drop"]
 weight: 3
 date: 2025-01-11
 draft: false

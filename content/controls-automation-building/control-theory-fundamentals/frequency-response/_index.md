@@ -1,5 +1,6 @@
 ---
 title: "Frequency Response"
+aliases: ["Frequency Response"]
 weight: 4
 ---
 

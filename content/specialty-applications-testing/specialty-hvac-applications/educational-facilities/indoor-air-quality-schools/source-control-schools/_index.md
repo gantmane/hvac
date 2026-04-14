@@ -1,7 +1,9 @@
 ---
 title: "Source Control Strategies for School IAQ"
+aliases: ["Source Control Strategies for School IAQ"]
 description: "Engineering approaches to controlling pollutant sources in educational facilities through material selection, chemical storage ventilation, and maintenance protocols."
 keywords: ["school IAQ", "source control", "low-emitting materials", "chemical storage ventilation", "custodial exhaust", "copy room ventilation", "pest management HVAC", "maintenance protocols"]
+tags: ["school IAQ", "source control", "low-emitting materials", "chemical storage ventilation", "custodial exhaust", "copy room ventilation", "pest management HVAC", "maintenance protocols"]
 date: 2025-01-11
 draft: false
 weight: 3

@@ -1,8 +1,10 @@
 ---
 title: "Ductwork Corrosion Protection for Pool Environments"
+aliases: ["Ductwork Corrosion Protection for Pool Environments"]
 weight: 9
 description: "Engineering guide to ductwork material selection and corrosion protection in natatorium HVAC systems exposed to chlorine, chloramines, and high humidity conditions."
 keywords: ["natatorium ductwork", "corrosion protection", "chloramine attack", "stainless steel ductwork", "fiberglass duct", "pool HVAC materials", "SMACNA natatorium", "duct coating systems"]
+tags: ["natatorium ductwork", "corrosion protection", "chloramine attack", "stainless steel ductwork", "fiberglass duct", "pool HVAC materials", "SMACNA natatorium", "duct coating systems"]
 ---
 
 Natatorium ductwork operates in the most corrosive HVAC environment due to the combined effects of high humidity (typically 50-60% RH), elevated chlorine and chloramine concentrations, and continuous temperature cycling. Conventional galvanized steel ductwork fails rapidly in these conditions, with complete degradation possible within 2-5 years. Proper material selection and corrosion protection are critical for system longevity and air quality.

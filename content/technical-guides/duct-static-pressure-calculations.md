@@ -2,6 +2,7 @@
 title: "Duct Static Pressure Calculations for HVAC Engineers"
 description: "Friction loss calculations, fitting equivalent lengths, total pressure drop analysis, and fan static pressure determination for duct system design."
 keywords: ["static pressure", "duct pressure drop", "friction loss", "fitting losses", "fan static pressure", "total pressure"]
+tags: ["static pressure", "duct pressure drop", "friction loss", "fitting losses", "fan static pressure", "total pressure"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 21
@@ -103,9 +104,9 @@ $$\Delta P_{total} = \Delta P_{straight} + \sum \Delta P_{fittings} + \Delta P_{
 ---
 
 **Related Technical Guides:**
-- [Fluid Mechanics for HVAC](/technical-guides/fluid-mechanics-hvac/)
-- [Duct Design Fundamentals](/technical-guides/duct-design-fundamentals/)
-- [Fan Selection & Performance](/technical-guides/fan-selection-performance/)
+- Fluid Mechanics for HVAC
+- Duct Design Fundamentals
+- Fan Selection & Performance
 
 **References:**
 - ASHRAE Handbook of Fundamentals, Chapter 21: Duct Design

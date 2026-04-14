@@ -1,7 +1,9 @@
 ---
 title: "Specialty HVAC Applications Overview"
+aliases: ["Specialty HVAC Applications Overview"]
 description: "Comprehensive guide to specialty HVAC applications including cleanrooms, data centers, healthcare facilities, laboratories, and industrial processes with unique requirements."
 keywords: ["specialty HVAC", "cleanroom HVAC", "data center cooling", "healthcare HVAC", "laboratory ventilation", "critical environment control", "industrial HVAC", "mission-critical systems"]
+tags: ["specialty HVAC", "cleanroom HVAC", "data center cooling", "healthcare HVAC", "laboratory ventilation", "critical environment control", "industrial HVAC", "mission-critical systems"]
 weight: 1
 ---
 

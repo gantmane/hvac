@@ -1,7 +1,9 @@
 ---
 title: "Wind Power Calculations for HVAC Energy Systems"
+aliases: ["Wind Power Calculations for HVAC Energy Systems"]
 description: "Technical analysis of wind power equations, Betz limit, capacity factors, and annual energy production calculations for renewable HVAC applications."
 keywords: ["wind power calculations", "Betz limit", "capacity factor", "power density", "annual energy production", "wind turbine performance", "swept area", "power coefficient"]
+tags: ["wind power calculations", "Betz limit", "capacity factor", "power density", "annual energy production", "wind turbine performance", "swept area", "power coefficient"]
 weight: 2
 ---
 

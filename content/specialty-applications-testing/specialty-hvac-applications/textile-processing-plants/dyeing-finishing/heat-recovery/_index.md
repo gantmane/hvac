@@ -1,8 +1,10 @@
 ---
 title: "Heat Recovery in Textile Dyeing & Finishing"
+aliases: ["Heat Recovery in Textile Dyeing & Finishing"]
 weight: 3
 description: "Comprehensive guide to exhaust heat recovery, steam recovery systems, and economizers in textile processing facilities with efficiency calculations and energy savings strategies."
 keywords: ["textile heat recovery", "dyeing exhaust recovery", "steam condensate recovery", "textile economizer", "finishing plant energy savings", "HVAC heat exchangers", "textile waste heat", "process heat recovery"]
+tags: ["textile heat recovery", "dyeing exhaust recovery", "steam condensate recovery", "textile economizer", "finishing plant energy savings", "HVAC heat exchangers", "textile waste heat", "process heat recovery"]
 ---
 
 ## Heat Recovery in Textile Dyeing and Finishing Plants

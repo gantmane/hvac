@@ -1,5 +1,6 @@
 ---
 title: "Hotel Load Shedding Strategies"
+aliases: ["Hotel Load Shedding Strategies"]
 description: "Comprehensive guide to HVAC load shedding for hotels including demand response programs, priority sequences, thermal storage, guest comfort protection, and automated curtailment."
 date: "2026-01-11"
 weight: 3

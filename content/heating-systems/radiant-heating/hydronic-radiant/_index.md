@@ -1,5 +1,6 @@
 ---
 title: "Hydronic Radiant Heating"
+aliases: ["Hydronic Radiant Heating"]
 description: "Comprehensive engineering analysis of hydronic radiant heating systems, including fundamental heat transfer principles, system design methodology, fluid mechanics, temperature control strategies, and applications for floor, wall, and ceiling installations in residential and commercial buildings."
 weight: 1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Seismic Bracing for Piping Systems"
+aliases: ["Seismic Bracing for Piping Systems"]
 description: "Engineering guide to seismic bracing design for HVAC piping including MSS SP-127 and NFPA 13 requirements, support spacing calculations, and four-way bracing configurations."
 date: 2025-01-05
 draft: false

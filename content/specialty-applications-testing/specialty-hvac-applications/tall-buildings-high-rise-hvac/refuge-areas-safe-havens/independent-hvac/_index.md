@@ -1,7 +1,9 @@
 ---
 title: "Independent HVAC Systems for Refuge Areas"
+aliases: ["Independent HVAC Systems for Refuge Areas"]
 description: "Dedicated HVAC systems for high-rise refuge areas with emergency power, redundant equipment, and smoke-free ventilation for occupant safety during emergencies."
 keywords: ["refuge area HVAC", "independent ventilation systems", "emergency HVAC", "high-rise safe haven", "smoke-free air supply", "refuge area pressurization", "emergency power HVAC", "dedicated refuge HVAC"]
+tags: ["refuge area HVAC", "independent ventilation systems", "emergency HVAC", "high-rise safe haven", "smoke-free air supply", "refuge area pressurization", "emergency power HVAC", "dedicated refuge HVAC"]
 weight: 3
 ---
 

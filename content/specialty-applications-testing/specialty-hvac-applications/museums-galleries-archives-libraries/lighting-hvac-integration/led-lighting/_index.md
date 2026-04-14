@@ -1,7 +1,9 @@
 ---
 title: "LED Lighting for Museums: HVAC Integration & Efficiency"
+aliases: ["LED Lighting for Museums: HVAC Integration & Efficiency"]
 description: "Technical analysis of LED lighting heat loads, spectral output, and HVAC integration for museum applications. Includes dimming strategies and load reduction calculations."
 keywords: ["LED museum lighting", "lighting heat load", "museum HVAC integration", "LED spectral control", "lighting dimming systems", "museum energy efficiency", "LED color rendering", "reduced cooling loads"]
+tags: ["LED museum lighting", "lighting heat load", "museum HVAC integration", "LED spectral control", "lighting dimming systems", "museum energy efficiency", "LED color rendering", "reduced cooling loads"]
 weight: 4
 ---
 

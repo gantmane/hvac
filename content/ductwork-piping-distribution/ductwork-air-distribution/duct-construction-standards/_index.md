@@ -1,7 +1,9 @@
 ---
 title: "HVAC Duct Construction Standards & Pressure Classes"
+aliases: ["HVAC Duct Construction Standards & Pressure Classes"]
 description: "Comprehensive guide to SMACNA duct construction standards including pressure class requirements, metal gauges, reinforcement spacing, sealing methods, and support specifications."
 keywords: ["duct construction standards", "SMACNA pressure class", "duct gauge requirements", "duct reinforcement", "duct sealing", "duct support spacing", "sheet metal ductwork", "duct fabrication"]
+tags: ["duct construction standards", "SMACNA pressure class", "duct gauge requirements", "duct reinforcement", "duct sealing", "duct support spacing", "sheet metal ductwork", "duct fabrication"]
 weight: 2
 ---
 

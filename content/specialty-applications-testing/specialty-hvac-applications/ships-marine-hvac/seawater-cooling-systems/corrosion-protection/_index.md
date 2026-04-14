@@ -1,8 +1,10 @@
 ---
 title: "Corrosion Protection Marine Seawater Systems"
+aliases: ["Corrosion Protection Marine Seawater Systems"]
 seo_title: "Corrosion Protection for Marine HVAC Seawater Systems"
 description: "Technical analysis of corrosion protection methods for marine seawater cooling systems including material selection, cathodic protection, and galvanic corrosion prevention."
 keywords: ["marine corrosion protection", "seawater cooling systems", "cathodic protection", "cupronickel alloys", "titanium heat exchangers", "galvanic corrosion", "sacrificial anodes", "marine HVAC"]
+tags: ["marine corrosion protection", "seawater cooling systems", "cathodic protection", "cupronickel alloys", "titanium heat exchangers", "galvanic corrosion", "sacrificial anodes", "marine HVAC"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Progressive Design Build"
+aliases: ["Progressive Design Build"]
 weight: 5
 ---
 

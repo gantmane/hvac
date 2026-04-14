@@ -1,5 +1,6 @@
 ---
 title: "Seismic Bracing for HVAC Equipment"
+aliases: ["Seismic Bracing for HVAC Equipment"]
 description: "Comprehensive guide to seismic restraint systems for HVAC equipment including restraint types, bracing calculations, vibration isolation coordination, snubber design, attachment methods, and certification requirements per SMACNA and ASHRAE standards"
 keywords: ["seismic bracing", "equipment restraint", "seismic design", "HVAC anchoring", "vibration isolation", "seismic snubbers", "equipment certification", "SMACNA guidelines", "seismic calculations", "IBC requirements"]
 tags: ["seismic design", "structural engineering", "equipment installation", "code compliance", "life safety"]

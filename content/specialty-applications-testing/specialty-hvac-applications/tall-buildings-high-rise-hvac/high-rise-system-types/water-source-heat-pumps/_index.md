@@ -1,7 +1,9 @@
 ---
 title: "Water-Source Heat Pumps for High-Rise Buildings"
+aliases: ["Water-Source Heat Pumps for High-Rise Buildings"]
 description: "Water-source heat pump systems for tall buildings including loop temperature control, simultaneous heating and cooling energy recovery, and distribution design."
 keywords: ["water-source heat pump", "WSHP high-rise", "heat recovery loop", "loop temperature control", "condenser water loop", "simultaneous heating cooling", "distributed HVAC", "tenant metering"]
+tags: ["water-source heat pump", "WSHP high-rise", "heat recovery loop", "loop temperature control", "condenser water loop", "simultaneous heating cooling", "distributed HVAC", "tenant metering"]
 weight: 4
 ---
 

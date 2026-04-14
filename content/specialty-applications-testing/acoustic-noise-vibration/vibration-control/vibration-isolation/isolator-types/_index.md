@@ -1,7 +1,9 @@
 ---
 title: "Vibration Isolator Types for HVAC Equipment"
+aliases: ["Vibration Isolator Types for HVAC Equipment"]
 description: "Comprehensive guide to spring, neoprene, rubber, and air isolators for HVAC applications, including deflection characteristics, natural frequencies, and selection criteria."
 keywords: ["vibration isolators", "spring isolators", "neoprene mounts", "air springs", "isolator deflection", "natural frequency", "equipment isolation", "vibration control"]
+tags: ["vibration isolators", "spring isolators", "neoprene mounts", "air springs", "isolator deflection", "natural frequency", "equipment isolation", "vibration control"]
 date: 2025-01-05
 draft: false
 weight: 1

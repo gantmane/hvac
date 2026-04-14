@@ -1,5 +1,6 @@
 ---
 title: "Passenger Rail Car HVAC Systems"
+aliases: ["Passenger Rail Car HVAC Systems"]
 description: "Technical guide to HVAC design for passenger rail cars including commuter rail and long-distance trains with equipment configurations, comfort standards, and climate control strategies for extended journeys."
 keywords: ["passenger rail HVAC", "train air conditioning", "rail car climate control", "commuter rail HVAC", "long-distance train HVAC", "railroad HVAC systems", "train heating systems", "rail passenger comfort"]
 tags: ["mass transit", "rail cars", "passenger comfort", "transportation HVAC", "commuter rail", "long-distance trains"]

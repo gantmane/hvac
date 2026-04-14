@@ -1,8 +1,10 @@
 ---
 title: "Multiplex Theater HVAC Systems"
+aliases: ["Multiplex Theater HVAC Systems"]
 seo_title: "Multiplex Theater HVAC Design & Load Management"
 description: "Engineering guide to multiplex HVAC systems: central plant vs distributed equipment, variable auditorium loads, staggered schedule optimization, and common area conditioning."
 keywords: ["multiplex HVAC", "theater central plant", "auditorium load diversity", "variable air volume theater", "staggered showing loads", "cinema mechanical systems", "multiplex air distribution", "theater diversity factor"]
+tags: ["multiplex HVAC", "theater central plant", "auditorium load diversity", "variable air volume theater", "staggered showing loads", "cinema mechanical systems", "multiplex air distribution", "theater diversity factor"]
 weight: 1
 ---
 

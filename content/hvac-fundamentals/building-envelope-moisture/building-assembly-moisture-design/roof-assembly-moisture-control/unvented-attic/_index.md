@@ -1,5 +1,6 @@
 ---
 title: "Unvented Attic"
+aliases: ["Unvented Attic"]
 description: "Technical design and analysis of unvented attic assemblies including insulation strategies, moisture control mechanisms, condensation prevention, code compliance requirements, and thermal performance optimization for conditioned attic spaces"
 weight: 2
 ---

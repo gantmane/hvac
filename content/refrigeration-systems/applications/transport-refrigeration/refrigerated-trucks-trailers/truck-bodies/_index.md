@@ -1,5 +1,6 @@
 ---
 title: "Truck Bodies"
+aliases: ["Truck Bodies"]
 weight: 2
 ---
 

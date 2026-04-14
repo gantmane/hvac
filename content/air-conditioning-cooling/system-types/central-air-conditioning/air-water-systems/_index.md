@@ -1,7 +1,9 @@
 ---
 title: "Air-Water Systems: Induction & Fan Coil Units"
+aliases: ["Air-Water Systems: Induction & Fan Coil Units"]
 description: "Comprehensive guide to air-water HVAC systems including primary air configurations, induction units, fan coil systems, and ASHRAE selection criteria for optimal performance."
 keywords: ["air-water systems", "induction units", "fan coil units", "primary air systems", "secondary water systems", "HVAC terminal units", "chilled beam", "hybrid HVAC"]
+tags: ["air-water systems", "induction units", "fan coil units", "primary air systems", "secondary water systems", "HVAC terminal units", "chilled beam", "hybrid HVAC"]
 weight: 3
 ---
 

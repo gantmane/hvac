@@ -1,5 +1,6 @@
 ---
 title: "Pre-Bid Procedures"
+aliases: ["Pre-Bid Procedures"]
 description: "Comprehensive guide to HVAC pre-bid procedures including invitation to bid, bid document preparation, pre-bid meetings, site visits, RFI process, bid security requirements, and contractor prequalification for mechanical construction projects"
 weight: 1
 ---

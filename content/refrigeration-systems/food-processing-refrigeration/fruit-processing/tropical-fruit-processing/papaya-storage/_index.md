@@ -1,5 +1,6 @@
 ---
 title: "Papaya Storage Systems"
+aliases: ["Papaya Storage Systems"]
 description: "HVAC design for papaya cold storage facilities including chilling injury prevention, controlled ripening systems, and ethylene management for tropical fruit preservation"
 weight: 4
 ---

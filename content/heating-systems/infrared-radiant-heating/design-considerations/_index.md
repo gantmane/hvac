@@ -1,8 +1,10 @@
 ---
 title: "Design Considerations"
+aliases: ["Design Considerations"]
 weight: 3
 description: "Engineering design methodology for infrared radiant heating systems including mounting height calculations, spacing optimization, pattern factor analysis, thermal comfort criteria, mean radiant temperature (MRT), energy effectiveness analysis, and application-specific design strategies for warehouses, hangars, and outdoor heating."
 keywords: "infrared design, radiant heating design, mounting height, pattern factor, mean radiant temperature, MRT, operative temperature, energy effectiveness, radiant comfort, heater spacing"
+tags: ["infrared design", "radiant heating design", "mounting height", "pattern factor", "mean radiant temperature", "MRT", "operative temperature", "energy effectiveness", "radiant comfort", "heater spacing"]
 ---
 
 # Design Considerations for Infrared Radiant Heating

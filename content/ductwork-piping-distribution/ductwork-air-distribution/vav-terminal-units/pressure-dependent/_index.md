@@ -1,5 +1,6 @@
 ---
 title: "Pressure-Dependent VAV Terminal Units"
+aliases: ["Pressure-Dependent VAV Terminal Units"]
 description: "Comprehensive technical analysis of pressure-dependent VAV terminal units including operating characteristics, control limitations, static pressure effects, and comparison with pressure-independent systems for HVAC professionals"
 weight: 2
 ---

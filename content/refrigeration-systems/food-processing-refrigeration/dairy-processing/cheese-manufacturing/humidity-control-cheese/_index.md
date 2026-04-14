@@ -1,5 +1,6 @@
 ---
 title: "Humidity Control in Cheese Manufacturing and Aging"
+aliases: ["Humidity Control in Cheese Manufacturing and Aging"]
 description: "Comprehensive analysis of humidity control requirements, psychrometric design, humidification systems, evaporator coil specifications, and control strategies for cheese manufacturing and aging facilities"
 weight: 3
 ---

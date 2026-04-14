@@ -1,8 +1,10 @@
 ---
 title: "Point-of-Use Water Heating Systems"
+aliases: ["Point-of-Use Water Heating Systems"]
 weight: 4
 description: "Technical analysis of point-of-use water heaters including electric tankless units, under-sink heaters, distribution loss elimination, and fixture-specific sizing methodologies."
 keywords: ["point-of-use water heater", "electric tankless heater", "under-sink heater", "distribution losses", "fixture sizing", "instantaneous water heater", "POU systems", "DHW efficiency"]
+tags: ["point-of-use water heater", "electric tankless heater", "under-sink heater", "distribution losses", "fixture sizing", "instantaneous water heater", "POU systems", "DHW efficiency"]
 ---
 
 ## Fundamental Principles

@@ -1,7 +1,9 @@
 ---
 title: "Air-Cured Tobacco Barn Systems and Ventilation Design"
+aliases: ["Air-Cured Tobacco Barn Systems and Ventilation Design"]
 description: "Natural ventilation barn design principles for air-cured tobacco including curing duration, ventilation management, color development, and burley and cigar tobacco requirements."
 keywords: ["air-cured tobacco", "natural ventilation barns", "tobacco curing", "burley tobacco", "cigar tobacco", "moisture monitoring", "ventilation management", "color development"]
+tags: ["air-cured tobacco", "natural ventilation barns", "tobacco curing", "burley tobacco", "cigar tobacco", "moisture monitoring", "ventilation management", "color development"]
 date: 2026-01-11
 weight: 2
 draft: false

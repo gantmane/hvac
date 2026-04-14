@@ -1,7 +1,9 @@
 ---
 title: "Snow Melting Application Areas"
+aliases: ["Snow Melting Application Areas"]
 description: "Comprehensive guide to snow melting system applications including driveways, walkways, ramps, loading docks, plazas, helicopter pads, stairs, and bridges with design considerations and technical requirements."
 keywords: ["snow melting applications", "heated driveways", "heated walkways", "loading dock snow melting", "bridge deck heating", "helicopter pad heating", "plaza snow melting", "heated stairs", "snow melting design", "ASHRAE snow melting"]
+tags: ["snow melting applications", "heated driveways", "heated walkways", "loading dock snow melting", "bridge deck heating", "helicopter pad heating", "plaza snow melting", "heated stairs", "snow melting design", "ASHRAE snow melting"]
 weight: 11
 ---
 

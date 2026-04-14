@@ -1,5 +1,6 @@
 ---
 title: "Radiation"
+aliases: ["Radiation"]
 description: "Comprehensive coverage of thermal radiation heat transfer including Stefan-Boltzmann Law, radiative properties, view factors, solar radiation, and HVAC applications in radiant systems and building energy analysis."
 weight: 3
 ---

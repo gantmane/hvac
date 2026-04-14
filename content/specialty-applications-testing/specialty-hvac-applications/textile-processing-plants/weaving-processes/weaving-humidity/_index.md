@@ -1,7 +1,9 @@
 ---
 title: "Humidity Control for Textile Weaving Operations"
+aliases: ["Humidity Control for Textile Weaving Operations"]
 description: "Engineering guide to optimal humidity control in weaving rooms. Covers moisture regain calculations, fiber-specific setpoints, yarn breakage prevention, and humidification systems."
 keywords: ["weaving humidity control", "textile moisture regain", "loom room HVAC", "yarn breakage prevention", "textile humidification", "fiber conditioning", "warp humidity", "ASHRAE industrial ventilation"]
+tags: ["weaving humidity control", "textile moisture regain", "loom room HVAC", "yarn breakage prevention", "textile humidification", "fiber conditioning", "warp humidity", "ASHRAE industrial ventilation"]
 weight: 2
 ---
 

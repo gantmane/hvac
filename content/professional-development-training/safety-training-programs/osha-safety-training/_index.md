@@ -1,7 +1,9 @@
 ---
 title: "OSHA Safety Training for HVAC Professionals"
+aliases: ["OSHA Safety Training for HVAC Professionals"]
 description: "Comprehensive OSHA safety training for HVAC technicians covering construction and general industry standards, hazard recognition, and regulatory compliance requirements."
 keywords: ["OSHA training HVAC", "construction safety certification", "general industry safety", "HVAC hazard recognition", "OSHA compliance", "worker safety training", "29 CFR 1926", "29 CFR 1910", "safety outreach programs"]
+tags: ["OSHA training HVAC", "construction safety certification", "general industry safety", "HVAC hazard recognition", "OSHA compliance", "worker safety training", "29 CFR 1926", "29 CFR 1910", "safety outreach programs"]
 weight: 1
 ---
 

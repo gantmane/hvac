@@ -1,5 +1,6 @@
 ---
 title: "Ventilation and Indoor Air Quality Control Systems"
+aliases: ["Ventilation and Indoor Air Quality Control Systems"]
 description: "Comprehensive analysis of ventilation systems, contaminant dilution, IAQ parameters, filtration technologies, and energy recovery per ASHRAE standards."
 weight: 17
 ---

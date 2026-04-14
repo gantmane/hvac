@@ -1,5 +1,6 @@
 ---
 title: "Building Integration of Solar Thermal Systems"
+aliases: ["Building Integration of Solar Thermal Systems"]
 description: "Engineering analysis of solar thermal collector integration including structural loading, roof-mounted arrays, BIPV/T systems, facade integration, and shading analysis."
 keywords:
   - building integrated solar thermal

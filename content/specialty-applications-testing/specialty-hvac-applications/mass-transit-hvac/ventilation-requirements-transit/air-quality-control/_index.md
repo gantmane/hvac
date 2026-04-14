@@ -1,7 +1,9 @@
 ---
 title: "Air Quality Control in Mass Transit Vehicles"
+aliases: ["Air Quality Control in Mass Transit Vehicles"]
 description: "Comprehensive analysis of air quality monitoring, filtration, and control strategies for mass transit HVAC systems including CO2 control and pollutant removal."
 keywords: ["transit air quality", "CO2 monitoring", "particulate filtration", "tunnel ventilation", "recirculation ratio", "transit IAQ", "air cleaning transit", "pollutant control"]
+tags: ["transit air quality", "CO2 monitoring", "particulate filtration", "tunnel ventilation", "recirculation ratio", "transit IAQ", "air cleaning transit", "pollutant control"]
 date: 2025-01-11
 draft: false
 weight: 3

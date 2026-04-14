@@ -1,7 +1,9 @@
 ---
 title: "Testing, Adjusting, and Balancing Process"
+aliases: ["Testing, Adjusting, and Balancing Process"]
 description: "Comprehensive guide to HVAC testing, adjusting, and balancing (TAB) procedures for air and hydronic systems, including commissioning integration and certification standards."
 keywords: ["HVAC testing", "air balancing", "hydronic balancing", "TAB procedures", "NEBB certification", "AABC standards", "commissioning", "system testing", "HVAC performance verification"]
+tags: ["HVAC testing", "air balancing", "hydronic balancing", "TAB procedures", "NEBB certification", "AABC standards", "commissioning", "system testing", "HVAC performance verification"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Cold Climate HVAC Design"
+aliases: ["Cold Climate HVAC Design"]
 description: "Engineering principles for HVAC systems in cold climates: heat loss calculations, infiltration control, freeze protection, and energy recovery strategies."
 date: 2025-01-05
 draft: false

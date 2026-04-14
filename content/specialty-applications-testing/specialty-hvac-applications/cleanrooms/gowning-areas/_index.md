@@ -1,7 +1,9 @@
 ---
 title: "Gowning Areas"
+aliases: ["Gowning Areas"]
 description: "HVAC design requirements for cleanroom gowning rooms including air change rates, pressure relationships, and contamination control strategies."
 keywords: ["gowning room", "cleanroom", "contamination control", "airlock", "pressure cascade", "personnel flow"]
+tags: ["gowning room", "cleanroom", "contamination control", "airlock", "pressure cascade", "personnel flow"]
 weight: 5
 ---
 

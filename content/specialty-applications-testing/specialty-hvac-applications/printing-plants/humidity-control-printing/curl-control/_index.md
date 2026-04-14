@@ -1,9 +1,11 @@
 ---
 title: "Paper Curl Control in Printing Operations"
+aliases: ["Paper Curl Control in Printing Operations"]
 linkTitle: "Curl Control"
 weight: 4
 description: "Physics-based analysis of paper curl mechanisms in printing plants, including moisture differential curl, hygroscopic fiber mechanics, curl prevention strategies, and HVAC control methods."
 keywords: ["paper curl control", "moisture differential curl", "hygroscopic paper behavior", "printing curl prevention", "fiber swelling mechanics", "paper flatness", "humidity gradient control", "cellulose fiber hygroscopy"]
+tags: ["paper curl control", "moisture differential curl", "hygroscopic paper behavior", "printing curl prevention", "fiber swelling mechanics", "paper flatness", "humidity gradient control", "cellulose fiber hygroscopy"]
 ---
 
 Paper curl represents one of the most persistent quality defects in printing operations, arising from moisture content differentials that induce asymmetric dimensional changes through paper thickness. Curl disrupts feeding mechanisms, degrades registration accuracy, and creates handling difficulties. Understanding curl mechanics from fundamental fiber hygroscopic behavior enables effective HVAC-based prevention strategies.

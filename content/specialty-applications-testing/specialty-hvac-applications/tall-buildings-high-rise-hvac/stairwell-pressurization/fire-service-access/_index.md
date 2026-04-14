@@ -1,7 +1,9 @@
 ---
 title: "Fire Service Access Stairwell Pressurization"
+aliases: ["Fire Service Access Stairwell Pressurization"]
 description: "Enhanced pressurization requirements for fire service access stairwells including door force limits, vestibule design, emergency power, and code compliance per IBC and NFPA."
 keywords: ["fire service access", "stairwell pressurization", "door opening force", "firefighter access", "emergency power", "vestibule pressurization", "NFPA 92", "IBC 403"]
+tags: ["fire service access", "stairwell pressurization", "door opening force", "firefighter access", "emergency power", "vestibule pressurization", "NFPA 92", "IBC 403"]
 weight: 2
 ---
 

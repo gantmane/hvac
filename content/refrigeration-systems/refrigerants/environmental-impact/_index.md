@@ -1,5 +1,6 @@
 ---
 title: "Environmental Impact"
+aliases: ["Environmental Impact"]
 description: "Comprehensive analysis of refrigerant environmental impacts including ODP, GWP, atmospheric lifetime, regulatory frameworks, TEWI calculations, and transition strategies to low-GWP alternatives"
 weight: 3
 ---

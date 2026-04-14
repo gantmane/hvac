@@ -1,8 +1,10 @@
 ---
 title: "European Ventilation Standards EN 13779 to EN 16798"
+aliases: ["European Ventilation Standards EN 13779 to EN 16798"]
 weight: 1
 description: "Comprehensive analysis of European ventilation standards including EN 13779, EN 15251, EN 16798, EN 12599, and EN 13053 covering indoor environment criteria, ventilation rates, energy performance, testing procedures, and air handling unit ratings for commercial and residential buildings."
 keywords: "EN 13779, EN 15251, EN 16798, EN 12599, EN 13053, European ventilation standards, indoor air quality categories, ventilation rates, air handling units, energy performance ventilation, testing procedures, ASHRAE 62.1, CEN standards"
+tags: ["EN 13779", "EN 15251", "EN 16798", "EN 12599", "EN 13053", "European ventilation standards", "indoor air quality categories", "ventilation rates", "air handling units", "energy performance ventilation"]
 ---
 
 # European Ventilation Standards: EN 13779 to EN 16798

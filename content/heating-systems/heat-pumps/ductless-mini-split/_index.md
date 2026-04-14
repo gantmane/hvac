@@ -1,8 +1,10 @@
 ---
 title: "Ductless Mini Split"
+aliases: ["Ductless Mini Split"]
 weight: 4
 description: "Comprehensive technical guide to ductless mini-split heat pump systems including single-zone and multi-zone configurations, indoor unit types, inverter technology, cold climate performance, efficiency ratings, and refrigerant line considerations."
 keywords: "ductless mini split, mini split heat pump, multi zone heat pump, inverter compressor, cold climate heat pump, SEER rating, HSPF rating, wall mounted unit, ceiling cassette, refrigerant line length"
+tags: ["ductless mini split", "mini split heat pump", "multi zone heat pump", "inverter compressor", "cold climate heat pump", "SEER rating", "HSPF rating", "wall mounted unit", "ceiling cassette", "refrigerant line length"]
 ---
 
 Ductless mini-split systems provide highly efficient heating and cooling without requiring ductwork. These split-system heat pumps consist of an outdoor condensing unit connected to one or more indoor air-handling units via refrigerant lines and control wiring.

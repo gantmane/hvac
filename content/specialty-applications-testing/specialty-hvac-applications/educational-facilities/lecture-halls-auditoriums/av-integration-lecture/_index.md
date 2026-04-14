@@ -1,5 +1,6 @@
 ---
 title: "AV Equipment Integration & HVAC Coordination"
+aliases: ["AV Equipment Integration & HVAC Coordination"]
 description: "HVAC system coordination with audiovisual equipment in lecture halls covering projection cooling, equipment heat loads, cable management, and ventilation strategies."
 date: 2025-01-05
 keywords:

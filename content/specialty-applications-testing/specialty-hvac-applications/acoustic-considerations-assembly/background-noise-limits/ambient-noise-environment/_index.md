@@ -1,5 +1,6 @@
 ---
 title: "Ambient Noise Environment in Assembly Spaces"
+aliases: ["Ambient Noise Environment in Assembly Spaces"]
 description: "Technical analysis of ambient noise sources affecting assembly venues including traffic, aircraft, and building envelope transmission with sound attenuation strategies."
 date: 2026-01-11
 tags: ["ambient noise", "sound transmission", "building envelope acoustics", "STC ratings", "outdoor noise", "traffic noise", "aircraft noise", "noise isolation"]

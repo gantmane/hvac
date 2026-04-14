@@ -1,5 +1,6 @@
 ---
 title: "HVAC Seismic Bracing Systems: Design & Installation"
+aliases: ["HVAC Seismic Bracing Systems: Design & Installation"]
 description: "Comprehensive guide to cable bracing, rigid strut systems, and longitudinal/lateral restraints for HVAC equipment per ASCE 7 and SMACNA seismic standards."
 date: 2025-01-05
 keywords:

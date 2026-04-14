@@ -1,5 +1,6 @@
 ---
 title: "Correlations"
+aliases: ["Correlations"]
 weight: 4
 ---
 

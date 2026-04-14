@@ -1,9 +1,11 @@
 ---
 title: "Natatorium HVAC Systems: Design and Control Fundamentals"
+aliases: ["Natatorium HVAC Systems: Design and Control Fundamentals"]
 date: 2026-01-11
 draft: false
 description: "Comprehensive technical analysis of natatorium HVAC design including evaporation loads, moisture control, chloramine management, corrosion protection, and energy recovery strategies per ASHRAE standards."
 keywords: ["natatorium HVAC", "indoor pool design", "pool dehumidification", "chloramine control", "natatorium ventilation", "ASHRAE pool design", "corrosion control HVAC", "pool energy recovery"]
+tags: ["natatorium HVAC", "indoor pool design", "pool dehumidification", "chloramine control", "natatorium ventilation", "ASHRAE pool design", "corrosion control HVAC", "pool energy recovery"]
 ---
 
 ## Unique Challenges of Natatorium Environments

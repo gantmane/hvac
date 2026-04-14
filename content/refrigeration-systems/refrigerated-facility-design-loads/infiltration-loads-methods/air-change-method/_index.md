@@ -1,5 +1,6 @@
 ---
 title: "Air Change Method"
+aliases: ["Air Change Method"]
 weight: 1
 ---
 

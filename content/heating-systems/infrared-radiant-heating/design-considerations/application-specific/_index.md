@@ -1,5 +1,6 @@
 ---
 title: "Application Specific"
+aliases: ["Application Specific"]
 weight: 2
 ---
 

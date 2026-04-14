@@ -1,5 +1,6 @@
 ---
 title: "Submarine Environmental Control Systems"
+aliases: ["Submarine Environmental Control Systems"]
 description: "Technical analysis of submarine HVAC and atmospheric control including CO2 scrubbing, oxygen generation, trace contaminant removal, and closed-loop life support systems."
 keywords:
   - submarine HVAC systems

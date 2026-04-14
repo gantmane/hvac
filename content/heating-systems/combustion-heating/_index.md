@@ -1,5 +1,6 @@
 ---
 title: "Combustion Heating"
+aliases: ["Combustion Heating"]
 weight: 1
 description: "Technical analysis of combustion heating systems including stoichiometry, fuel characteristics, burner technology, flue gas analysis, and efficiency optimization for HVAC applications."
 ---

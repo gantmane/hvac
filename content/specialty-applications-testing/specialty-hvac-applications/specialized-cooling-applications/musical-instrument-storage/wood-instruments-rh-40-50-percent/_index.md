@@ -1,5 +1,6 @@
 ---
 title: "Wood Instruments: 40-50% RH Control Requirements"
+aliases: ["Wood Instruments: 40-50% RH Control Requirements"]
 linkTitle: "Wood Instruments RH 40-50%"
 weight: 1
 description: "Physics-based analysis of 40-50% relative humidity requirements for wood instrument preservation, including equilibrium moisture content calculations, hygroscopic expansion mechanics."

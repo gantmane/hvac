@@ -1,8 +1,10 @@
 ---
 title: "Infrared Radiant Heating"
+aliases: ["Infrared Radiant Heating"]
 weight: 7
 description: "Comprehensive analysis of infrared radiant heating systems including gas-fired and electric heaters, radiant heat transfer physics, Stefan-Boltzmann law applications, design methodology, mounting height calculations, and energy effectiveness metrics for industrial and commercial applications."
 keywords: "infrared heating, radiant heat transfer, Stefan-Boltzmann law, high-intensity infrared, low-intensity infrared, mean radiant temperature, MRT, radiant tube heaters, luminous heaters, reflector efficiency"
+tags: ["infrared heating", "radiant heat transfer", "Stefan-Boltzmann law", "high-intensity infrared", "low-intensity infrared", "mean radiant temperature", "MRT", "radiant tube heaters", "luminous heaters", "reflector efficiency"]
 ---
 
 # Infrared Radiant Heating

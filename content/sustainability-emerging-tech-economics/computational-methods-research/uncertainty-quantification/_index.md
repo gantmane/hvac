@@ -1,5 +1,6 @@
 ---
 title: "Uncertainty Quantification in HVAC System Analysis"
+aliases: ["Uncertainty Quantification in HVAC System Analysis"]
 description: "Physics-based methods for quantifying uncertainty in HVAC modeling, including Monte Carlo simulation, sensitivity analysis, and propagation techniques."
 date: 2025-01-05
 tags: ["uncertainty quantification", "computational methods", "Monte Carlo", "sensitivity analysis", "HVAC modeling", "statistical analysis"]

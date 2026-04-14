@@ -1,5 +1,6 @@
 ---
 title: "Hygroscopic Materials"
+aliases: ["Hygroscopic Materials"]
 description: "Hygroscopic material characteristics in building envelopes including moisture sorption mechanisms, adsorption and absorption processes, equilibrium moisture content, and material-specific hygroscopic behavior."
 weight: 1
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Portion Cutting Room Refrigeration Design"
+aliases: ["Portion Cutting Room Refrigeration Design"]
 description: "Technical design requirements for meat portion cutting room HVAC systems including temperature control, worker comfort, product safety, and sanitation compatibility."
 keywords: ["portion cutting room", "meat processing HVAC", "cutting room refrigeration", "worker comfort temperature", "product temperature control", "meat fabrication", "USDA temperature requirements", "sanitation compatible HVAC"]
+tags: ["portion cutting room", "meat processing HVAC", "cutting room refrigeration", "worker comfort temperature", "product temperature control", "meat fabrication", "USDA temperature requirements", "sanitation compatible HVAC"]
 date: 2025-01-11
 draft: false
 weight: 5

@@ -1,8 +1,10 @@
 ---
 title: "Paper Acclimation for Print Production"
+aliases: ["Paper Acclimation for Print Production"]
 weight: 1
 description: "Physics-based analysis of paper moisture acclimation processes including diffusion kinetics, equilibration time calculations, acclimation room design, and TAPPI conditioning protocols."
 keywords: "paper acclimation, moisture equilibration, paper conditioning time, TAPPI T402, hygroscopic equilibrium, paper storage conditions, printing dimensional stability, paper moisture diffusion"
+tags: ["paper acclimation", "moisture equilibration", "paper conditioning time", "TAPPI T402", "hygroscopic equilibrium", "paper storage conditions", "printing dimensional stability", "paper moisture diffusion"]
 ---
 
 # Paper Acclimation for Print Production

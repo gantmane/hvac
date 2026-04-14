@@ -1,5 +1,6 @@
 ---
 title: "Humidification"
+aliases: ["Humidification"]
 description: "Comprehensive analysis of HVAC humidification processes including steam injection, spray humidification, evaporative methods, psychrometric process representation, energy requirements, and design considerations for commercial and industrial applications."
 weight: 4
 ---

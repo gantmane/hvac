@@ -1,7 +1,9 @@
 ---
 title: "UV Filtering for Museum Lighting Integration"
+aliases: ["UV Filtering for Museum Lighting Integration"]
 description: "Technical guidance on ultraviolet radiation filtering methods for museum HVAC-lighting systems including UV-filtering sleeves, films, glazing, and LED sources to protect collections."
 keywords: ["UV filtering", "museum lighting", "UV protection", "UV-absorbing sleeves", "UV filtering glazing", "collection preservation", "LED UV emission", "ultraviolet radiation"]
+tags: ["UV filtering", "museum lighting", "UV protection", "UV-absorbing sleeves", "UV filtering glazing", "collection preservation", "LED UV emission", "ultraviolet radiation"]
 weight: 2
 ---
 

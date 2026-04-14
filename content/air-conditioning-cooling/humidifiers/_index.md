@@ -1,7 +1,9 @@
 ---
 title: "HVAC Humidifiers: Types, Calculations & Selection"
+aliases: ["HVAC Humidifiers: Types, Calculations & Selection"]
 description: "Technical guide to humidification systems covering isothermal and adiabatic types, humidification load calculations, psychrometric analysis, and ASHRAE humidity control standards."
 keywords: ["humidifier types", "humidification load", "steam humidifier", "evaporative humidifier", "isothermal humidification", "adiabatic humidification", "ASHRAE humidity standards", "psychrometrics"]
+tags: ["humidifier types", "humidification load", "steam humidifier", "evaporative humidifier", "isothermal humidification", "adiabatic humidification", "ASHRAE humidity standards", "psychrometrics"]
 weight: 6
 ---
 

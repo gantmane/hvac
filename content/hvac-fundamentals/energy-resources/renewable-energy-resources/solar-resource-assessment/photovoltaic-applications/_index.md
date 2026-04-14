@@ -1,8 +1,10 @@
 ---
 title: "Photovoltaic Applications for HVAC Systems"
+aliases: ["Photovoltaic Applications for HVAC Systems"]
 description: "Engineering principles for integrating photovoltaic systems with HVAC equipment, including BIPV, rooftop solar arrays, PV output calculations, and system design methodologies."
 weight: 5
 keywords: ["photovoltaic HVAC", "BIPV integration", "rooftop solar design", "PV system sizing", "solar-powered cooling", "grid-tied PV", "NREL PVWatts", "solar thermal hybrid"]
+tags: ["photovoltaic HVAC", "BIPV integration", "rooftop solar design", "PV system sizing", "solar-powered cooling", "grid-tied PV", "NREL PVWatts", "solar thermal hybrid"]
 ---
 
 Photovoltaic (PV) systems convert solar irradiance directly into electrical energy through semiconductor materials exhibiting the photovoltaic effect. Integration of PV systems with HVAC equipment provides opportunities for reducing grid electricity consumption, peak demand reduction, and improving building energy performance.

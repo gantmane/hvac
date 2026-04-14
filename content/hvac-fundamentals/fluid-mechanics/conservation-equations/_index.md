@@ -1,5 +1,6 @@
 ---
 title: "Conservation Equations"
+aliases: ["Conservation Equations"]
 description: "Fundamental conservation principles governing fluid flow in HVAC systems including continuity, momentum, and energy equations with engineering applications"
 weight: 4
 ---

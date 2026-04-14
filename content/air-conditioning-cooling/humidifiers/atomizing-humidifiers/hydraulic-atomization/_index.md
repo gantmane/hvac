@@ -1,5 +1,6 @@
 ---
 title: "Hydraulic Atomizing Humidifiers"
+aliases: ["Hydraulic Atomizing Humidifiers"]
 description: "Engineering guide to hydraulic atomization humidifiers featuring high-pressure water pumps (100-1000 psi), nozzle orifice atomization technology, modulating pump control, staging manifolds, and critical water filtration requirements."
 weight: 2
 ---

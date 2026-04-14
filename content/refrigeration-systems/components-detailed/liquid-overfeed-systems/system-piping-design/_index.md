@@ -1,5 +1,6 @@
 ---
 title: "Liquid Overfeed System Piping Design"
+aliases: ["Liquid Overfeed System Piping Design"]
 description: "Comprehensive technical guide to liquid overfeed refrigeration piping design including liquid supply lines, wet return lines, two-phase flow considerations, velocity limitations, pressure drop calculations, and piping specifications for industrial refrigeration systems."
 weight: 8
 ---

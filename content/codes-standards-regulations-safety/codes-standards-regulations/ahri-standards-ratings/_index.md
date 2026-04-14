@@ -1,5 +1,6 @@
 ---
 title: "AHRI Standards Ratings"
+aliases: ["AHRI Standards Ratings"]
 weight: 5
 ---
 

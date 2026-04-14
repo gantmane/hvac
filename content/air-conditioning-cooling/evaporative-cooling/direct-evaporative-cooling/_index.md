@@ -1,7 +1,9 @@
 ---
 title: "Direct Evaporative Cooling"
+aliases: ["Direct Evaporative Cooling"]
 description: "Design principles and applications of direct evaporative cooling systems including media types, performance characteristics, and system configurations."
 keywords: ["direct evaporative cooling", "swamp cooler", "evaporative media", "adiabatic cooling", "wetted pad", "DEC"]
+tags: ["direct evaporative cooling", "swamp cooler", "evaporative media", "adiabatic cooling", "wetted pad", "DEC"]
 weight: 1
 ---
 

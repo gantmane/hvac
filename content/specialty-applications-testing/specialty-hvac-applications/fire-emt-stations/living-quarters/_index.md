@@ -1,5 +1,6 @@
 ---
 title: "Fire Station Living Quarters HVAC Design"
+aliases: ["Fire Station Living Quarters HVAC Design"]
 linkTitle: "Living Quarters"
 description: "Technical HVAC design for fire station living quarters including sleeping areas, kitchen, fitness rooms, and 24-hour occupancy requirements with contamination separation strategies."
 keywords:
@@ -133,6 +134,6 @@ Energy recovery systems must not interfere with required pressure relationships.
 ---
 
 **Related Topics:**
-- [Apparatus Bay Ventilation](/specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/apparatus-bays/)
-- [Diesel Exhaust Removal Systems](/specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/diesel-exhaust-removal/)
-- [24-Hour Occupancy Requirements](/specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/living-quarters/24-hour-occupancy/)
+- [Apparatus Bay Ventilation](../../../../specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/apparatus-bays/_index.md)
+- [Diesel Exhaust Removal Systems](../../../../specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/diesel-exhaust-removal/_index.md)
+- [24-Hour Occupancy Requirements](../../../../specialty-applications-testing/specialty-hvac-applications/fire-emt-stations/living-quarters/24-hour-occupancy/_index.md)

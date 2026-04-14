@@ -1,9 +1,11 @@
 ---
 title: "Transverse & Longitudinal Ductwork Supports"
+aliases: ["Transverse & Longitudinal Ductwork Supports"]
 date: 2025-01-05
 draft: false
 description: "Engineering design for transverse and longitudinal seismic bracing of HVAC ductwork systems including force calculations, orientation requirements, and SMACNA compliance."
 keywords: ["transverse bracing", "longitudinal bracing", "seismic duct supports", "lateral bracing", "SMACNA seismic", "duct restraint", "seismic force calculation", "combination bracing"]
+tags: ["transverse bracing", "longitudinal bracing", "seismic duct supports", "lateral bracing", "SMACNA seismic", "duct restraint", "seismic force calculation", "combination bracing"]
 weight: 1
 ---
 

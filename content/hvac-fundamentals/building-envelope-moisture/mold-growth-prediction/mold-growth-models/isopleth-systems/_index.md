@@ -1,5 +1,6 @@
 ---
 title: "Isopleth Systems"
+aliases: ["Isopleth Systems"]
 weight: 2
 ---
 

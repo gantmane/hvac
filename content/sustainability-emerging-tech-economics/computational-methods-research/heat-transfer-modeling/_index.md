@@ -1,7 +1,9 @@
 ---
 title: "Heat Transfer Modeling in HVAC Systems"
+aliases: ["Heat Transfer Modeling in HVAC Systems"]
 description: "Comprehensive guide to numerical heat transfer methods including finite difference, finite element, and CFD applications for building thermal simulation and HVAC system design."
 keywords: ["heat transfer modeling", "finite difference method", "finite element analysis", "CFD HVAC", "building thermal simulation", "computational fluid dynamics", "numerical methods HVAC", "thermal analysis", "heat transfer equations"]
+tags: ["heat transfer modeling", "finite difference method", "finite element analysis", "CFD HVAC", "building thermal simulation", "computational fluid dynamics", "numerical methods HVAC", "thermal analysis", "heat transfer equations"]
 date: 2025-01-05
 draft: false
 type: docs

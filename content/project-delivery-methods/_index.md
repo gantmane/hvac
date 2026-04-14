@@ -1,5 +1,6 @@
 ---
 title: "Project Delivery Methods"
+aliases: ["Project Delivery Methods"]
 description: "Comprehensive analysis of HVAC project delivery methods including design-bid-build, design-build, construction manager at risk, and integrated project delivery with selection criteria, risk allocation, team structures, and phase-specific implementation strategies"
 weight: 11
 ---

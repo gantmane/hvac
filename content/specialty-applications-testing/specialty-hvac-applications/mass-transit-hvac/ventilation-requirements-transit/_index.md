@@ -1,7 +1,9 @@
 ---
 title: "Transit Vehicle Ventilation Requirements"
+aliases: ["Transit Vehicle Ventilation Requirements"]
 description: "Technical requirements for mass transit ventilation including passenger load calculations, air change rates, CO₂ limits, and ASHRAE standards for buses and rail systems."
 keywords: "transit ventilation, mass transit air quality, passenger ventilation rates, CO2 limits transit, ASHRAE transit standards, bus ventilation requirements, rail car air changes, transit fresh air, vehicle IAQ"
+tags: ["transit ventilation", "mass transit air quality", "passenger ventilation rates", "CO2 limits transit", "ASHRAE transit standards", "bus ventilation requirements", "rail car air changes", "transit fresh air", "vehicle IAQ"]
 weight: 5
 ---
 

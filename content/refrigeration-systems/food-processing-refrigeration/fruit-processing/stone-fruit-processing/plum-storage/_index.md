@@ -1,5 +1,6 @@
 ---
 title: "Plum Storage"
+aliases: ["Plum Storage"]
 description: "Refrigeration system design and environmental control for plum storage including temperature stratification, chilling injury prevention, internal breakdown mitigation, and humidity management for Japanese and European plum varieties."
 weight: 2
 ---

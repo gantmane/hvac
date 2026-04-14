@@ -1,5 +1,6 @@
 ---
 title: "Heat Exchangers for Solar Thermal Systems"
+aliases: ["Heat Exchangers for Solar Thermal Systems"]
 description: "Technical analysis of heat exchanger design, sizing, and performance in solar thermal HVAC applications including effectiveness calculations and fluid selection."
 date: 2025-01-05
 tags: ["solar thermal", "heat exchangers", "thermal transfer", "solar components", "heat transfer"]

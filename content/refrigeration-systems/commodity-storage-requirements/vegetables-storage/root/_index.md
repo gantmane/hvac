@@ -1,5 +1,6 @@
 ---
 title: "Root"
+aliases: ["Root"]
 weight: 2
 ---
 

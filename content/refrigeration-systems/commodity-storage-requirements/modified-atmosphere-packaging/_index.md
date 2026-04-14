@@ -1,8 +1,10 @@
 ---
 title: "Modified Atmosphere Packaging"
+aliases: ["Modified Atmosphere Packaging"]
 weight: 8
 description: "Technical guidance on modified atmosphere packaging (MAP) systems for commodity storage, including gas composition control, film permeability, equilibrium atmosphere establishment, and commodity-specific applications."
 keywords: "modified atmosphere packaging, MAP systems, gas composition, nitrogen flushing, CO2 injection, film permeability, equilibrium modified atmosphere, EMA, controlled atmosphere storage"
+tags: ["modified atmosphere packaging", "MAP systems", "gas composition", "nitrogen flushing", "CO2 injection", "film permeability", "equilibrium modified atmosphere", "EMA", "controlled atmosphere storage"]
 ---
 
 Modified atmosphere packaging (MAP) extends the shelf life of perishable commodities by altering the gaseous environment within a sealed package. The technology relies on establishing and maintaining an atmosphere with gas concentrations different from ambient air (78% N₂, 21% O₂, 0.03% CO₂), typically through reduced oxygen and elevated carbon dioxide levels. MAP provides an economical alternative to controlled atmosphere (CA) storage for smaller volumes or retail-ready products.

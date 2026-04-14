@@ -1,7 +1,9 @@
 ---
 title: "Temperature and Humidity Control in Tobacco Curing"
+aliases: ["Temperature and Humidity Control in Tobacco Curing"]
 description: "Precision temperature and humidity control strategies for tobacco curing barns including automated systems, psychrometric relationships, and stage-specific targets."
 keywords: ["tobacco curing control", "curing barn automation", "humidity control tobacco", "psychrometrics curing", "flue-cured tobacco", "tobacco barn sensors", "curing schedule control", "tobacco quality control"]
+tags: ["tobacco curing control", "curing barn automation", "humidity control tobacco", "psychrometrics curing", "flue-cured tobacco", "tobacco barn sensors", "curing schedule control", "tobacco quality control"]
 weight: 4
 ---
 

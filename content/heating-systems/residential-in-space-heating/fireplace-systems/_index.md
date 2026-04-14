@@ -1,5 +1,6 @@
 ---
 title: "Fireplace Systems"
+aliases: ["Fireplace Systems"]
 description: "Complete guide to fireplace systems including masonry fireplaces, factory-built units, inserts, and direct-vent gas fireplaces with efficiency ratings."
 date: "2026-01-04"
 weight: 5

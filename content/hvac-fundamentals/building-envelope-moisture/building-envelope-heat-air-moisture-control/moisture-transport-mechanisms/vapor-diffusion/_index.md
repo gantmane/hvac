@@ -1,5 +1,6 @@
 ---
 title: "Vapor Diffusion"
+aliases: ["Vapor Diffusion"]
 description: "Molecular-level water vapor transport through building materials driven by vapor pressure gradients, governed by Fick's laws of diffusion and characterized by material permeability properties"
 weight: 1
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Functional Performance Testing"
+aliases: ["Functional Performance Testing"]
 description: "Comprehensive guide to HVAC functional performance testing including equipment tests, system integration verification, sequence of operations validation, trend data analysis, and deficiency tracking protocols per ASHRAE Guideline 0."
 keywords: ["functional performance testing", "equipment testing", "system integration tests", "sequence of operations", "trend data analysis", "commissioning deficiencies", "ASHRAE Guideline 0", "FPT procedures", "HVAC testing protocol", "control sequence verification"]
+tags: ["functional performance testing", "equipment testing", "system integration tests", "sequence of operations", "trend data analysis", "commissioning deficiencies", "ASHRAE Guideline 0", "FPT procedures", "HVAC testing protocol", "control sequence verification"]
 weight: 4
 ---
 

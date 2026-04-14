@@ -1,7 +1,9 @@
 ---
 title: "Auxiliary Heating Systems for Heat Pumps"
+aliases: ["Auxiliary Heating Systems for Heat Pumps"]
 description: "Technical analysis of heat pump auxiliary and emergency heating systems including electric resistance backup, fossil fuel hybrids, staging strategies, and balance point calculations."
 keywords: ["auxiliary heat", "backup heating", "heat pump balance point", "emergency heat", "dual fuel systems", "supplemental heating", "electric resistance", "hybrid heat pumps"]
+tags: ["auxiliary heat", "backup heating", "heat pump balance point", "emergency heat", "dual fuel systems", "supplemental heating", "electric resistance", "hybrid heat pumps"]
 weight: 4
 ---
 

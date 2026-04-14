@@ -1,5 +1,6 @@
 ---
 title: "Fiberglass Insulation"
+aliases: ["Fiberglass Insulation"]
 weight: 1
 ---
 

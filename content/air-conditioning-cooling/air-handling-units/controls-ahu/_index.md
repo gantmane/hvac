@@ -1,5 +1,6 @@
 ---
 title: "Controls Ahu"
+aliases: ["Controls Ahu"]
 weight: 4
 ---
 

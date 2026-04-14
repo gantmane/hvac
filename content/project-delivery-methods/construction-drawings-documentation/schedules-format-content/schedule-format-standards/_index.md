@@ -1,5 +1,6 @@
 ---
 title: "Schedule Format Standards"
+aliases: ["Schedule Format Standards"]
 weight: 2
 ---
 

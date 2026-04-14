@@ -1,5 +1,6 @@
 ---
 title: "Time Duration"
+aliases: ["Time Duration"]
 weight: 4
 ---
 

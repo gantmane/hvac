@@ -1,7 +1,9 @@
 ---
 title: "Air Systems Testing and Balancing"
+aliases: ["Air Systems Testing and Balancing"]
 description: "Comprehensive guide to air system testing, balancing procedures, duct traverse methods, pitot tube measurements, and proportional balancing techniques per ASHRAE and SMACNA standards."
 keywords: "air balancing, duct traverse, pitot tube, airflow measurement, terminal device balancing, proportional balancing, ASHRAE 111, SMACNA, TAB procedures"
+tags: ["air balancing", "duct traverse", "pitot tube", "airflow measurement", "terminal device balancing", "proportional balancing", "ASHRAE 111", "SMACNA", "TAB procedures"]
 weight: 1
 ---
 

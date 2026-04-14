@@ -1,7 +1,9 @@
 ---
 title: "Automotive Zone Control Systems"
+aliases: ["Automotive Zone Control Systems"]
 description: "Technical analysis of dual-zone, tri-zone, and quad-zone automotive HVAC systems including temperature control physics, air distribution patterns, and actuator mechanisms."
 keywords: ["dual zone climate control", "automotive HVAC zones", "blend door actuators", "multi-zone temperature control", "rear climate control", "zone damper systems", "luxury HVAC features"]
+tags: ["dual zone climate control", "automotive HVAC zones", "blend door actuators", "multi-zone temperature control", "rear climate control", "zone damper systems", "luxury HVAC features"]
 weight: 2
 ---
 

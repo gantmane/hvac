@@ -1,7 +1,9 @@
 ---
 title: "Drainback Solar Water Heating Systems"
+aliases: ["Drainback Solar Water Heating Systems"]
 description: "Technical guide to drainback solar systems including gravity drainage physics, drainback tank sizing, piping slope requirements, freeze protection, and overheat prevention."
 keywords: ["drainback solar", "gravity drainage", "drainback tank", "piping slope", "freeze protection", "solar DHW", "overheat protection", "SRCC certification"]
+tags: ["drainback solar", "gravity drainage", "drainback tank", "piping slope", "freeze protection", "solar DHW", "overheat protection", "SRCC certification"]
 weight: 2
 ---
 

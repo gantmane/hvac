@@ -1,8 +1,10 @@
 ---
 title: "Post-Event Moisture Removal Strategies"
+aliases: ["Post-Event Moisture Removal Strategies"]
 weight: 2
 description: "Technical analysis of dehumidification processes for post-occupancy moisture removal including latent load calculations, condensation prevention, and humidity recovery protocols."
 keywords: ["dehumidification", "latent load", "moisture removal", "condensation prevention", "humidity control", "psychrometrics", "post-event recovery"]
+tags: ["dehumidification", "latent load", "moisture removal", "condensation prevention", "humidity control", "psychrometrics", "post-event recovery"]
 ---
 
 ## Overview

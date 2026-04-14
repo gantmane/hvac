@@ -1,7 +1,9 @@
 ---
 title: "Guest Room Automation for Hotel Energy Management"
+aliases: ["Guest Room Automation for Hotel Energy Management"]
 description: "Integrated HVAC, lighting, and shading automation systems for hotel guest rooms with PMS integration, guest interfaces, and energy-saving scene programming."
 keywords: ["room automation", "hotel HVAC control", "guest room systems", "energy management", "smart hotel rooms", "PMS integration", "guest interface", "automation scenes"]
+tags: ["room automation", "hotel HVAC control", "guest room systems", "energy management", "smart hotel rooms", "PMS integration", "guest interface", "automation scenes"]
 weight: 2
 ---
 

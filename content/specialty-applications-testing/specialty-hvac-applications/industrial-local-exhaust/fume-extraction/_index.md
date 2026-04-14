@@ -1,7 +1,9 @@
 ---
 title: "Industrial Fume Extraction Systems"
+aliases: ["Industrial Fume Extraction Systems"]
 description: "Technical guide to welding fume capture, local exhaust arms, source capture effectiveness, and metal working fume control systems. Covers OSHA and ACGIH standards for industrial health hazard control."
 keywords: ["fume extraction", "welding fume capture", "local exhaust ventilation", "source capture systems", "industrial ventilation", "metal working fumes", "OSHA compliance", "ACGIH standards", "health hazard control", "exhaust arms"]
+tags: ["fume extraction", "welding fume capture", "local exhaust ventilation", "source capture systems", "industrial ventilation", "metal working fumes", "OSHA compliance", "ACGIH standards", "health hazard control", "exhaust arms"]
 weight: 7
 ---
 

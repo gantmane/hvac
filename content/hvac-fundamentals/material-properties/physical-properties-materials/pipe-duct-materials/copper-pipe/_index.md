@@ -1,5 +1,6 @@
 ---
 title: "Copper Pipe"
+aliases: ["Copper Pipe"]
 description: "Comprehensive technical specifications for copper pipe and tube used in HVAC systems, including Types K, L, M, DWV, and ACR with dimensional data, pressure ratings, thermal properties, and design considerations per ASTM standards"
 weight: 1
 ---

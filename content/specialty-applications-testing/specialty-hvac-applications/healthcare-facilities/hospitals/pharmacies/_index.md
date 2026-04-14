@@ -1,7 +1,9 @@
 ---
 title: "Hospital Pharmacy HVAC Systems & USP Requirements"
+aliases: ["Hospital Pharmacy HVAC Systems & USP Requirements"]
 description: "Technical guide to hospital pharmacy HVAC design including USP 797/800 compliance, cleanroom classifications, air change rates, pressure cascades, and temperature/humidity control for sterile compounding."
 keywords: "hospital pharmacy HVAC, USP 797 cleanroom, USP 800 hazardous drugs, pharmacy air pressure cascade, sterile compounding ventilation, ISO Class 5 cleanroom, pharmacy temperature humidity control, compounding cleanroom design"
+tags: ["hospital pharmacy HVAC", "USP 797 cleanroom", "USP 800 hazardous drugs", "pharmacy air pressure cascade", "sterile compounding ventilation", "ISO Class 5 cleanroom", "pharmacy temperature humidity control", "compounding cleanroom design"]
 weight: 1
 ---
 

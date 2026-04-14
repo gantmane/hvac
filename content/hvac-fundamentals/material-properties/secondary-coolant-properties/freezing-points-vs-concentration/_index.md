@@ -1,5 +1,6 @@
 ---
 title: "Freezing Points vs Concentration"
+aliases: ["Freezing Points vs Concentration"]
 description: "Freezing point depression relationships for glycol and brine secondary coolants, including eutectic points, concentration-property curves, and freeze protection design criteria for HVAC applications"
 weight: 2
 ---

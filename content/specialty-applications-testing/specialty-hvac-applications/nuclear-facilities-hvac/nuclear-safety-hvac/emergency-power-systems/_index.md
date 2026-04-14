@@ -1,7 +1,9 @@
 ---
 title: "Emergency Power Systems for Nuclear HVAC Applications"
+aliases: ["Emergency Power Systems for Nuclear HVAC Applications"]
 description: "Technical analysis of emergency power systems supporting nuclear HVAC including Class 1E diesel generators, load sequencing calculations, IEEE 308 compliance, and station blackout requirements per 10 CFR 50.63."
 keywords: ["emergency power systems", "Class 1E power", "diesel generators nuclear", "station blackout", "10 CFR 50.63", "IEEE 308", "HVAC emergency power", "load sequencing"]
+tags: ["emergency power systems", "Class 1E power", "diesel generators nuclear", "station blackout", "10 CFR 50.63", "IEEE 308", "HVAC emergency power", "load sequencing"]
 weight: 4
 ---
 

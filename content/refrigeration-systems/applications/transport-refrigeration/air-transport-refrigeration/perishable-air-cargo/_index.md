@@ -1,5 +1,6 @@
 ---
 title: "Perishable Air Cargo"
+aliases: ["Perishable Air Cargo"]
 weight: 3
 ---
 

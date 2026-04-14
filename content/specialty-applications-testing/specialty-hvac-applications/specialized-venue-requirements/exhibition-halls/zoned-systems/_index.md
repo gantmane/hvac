@@ -1,8 +1,10 @@
 ---
 title: "Zoned HVAC Systems for Exhibition Halls"
+aliases: ["Zoned HVAC Systems for Exhibition Halls"]
 weight: 3
 description: "Technical analysis of multi-zone air handling, VAV with reheat, modular cooling, and zone-by-zone scheduling for exhibition halls hosting simultaneous events with diverse loads."
 keywords: ["exhibition hall zoning", "VAV zone reheat", "modular HVAC design", "zone-by-zone control", "load diversity", "multiple zone air handlers", "simultaneous event HVAC", "exhibition thermal zoning"]
+tags: ["exhibition hall zoning", "VAV zone reheat", "modular HVAC design", "zone-by-zone control", "load diversity", "multiple zone air handlers", "simultaneous event HVAC", "exhibition thermal zoning"]
 ---
 
 ## Fundamental Zoning Principles for Exhibition Halls

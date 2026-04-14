@@ -1,5 +1,6 @@
 ---
 title: "Utility-Sponsored HVAC Programs"
+aliases: ["Utility-Sponsored HVAC Programs"]
 description: "Utility demand-side management programs for HVAC efficiency, including financial incentives, load management strategies, and technical requirements for equipment rebates."
 weight: 3
 ---

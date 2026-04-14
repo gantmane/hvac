@@ -1,7 +1,9 @@
 ---
 title: "Smoke Detectors for HVAC Fire Safety Integration"
+aliases: ["Smoke Detectors for HVAC Fire Safety Integration"]
 description: "Technical guide to smoke detector types, placement, and integration with HVAC systems including duct detectors, area detectors, spacing calculations, and stratification considerations per NFPA 72."
 keywords: ["smoke detectors", "duct detectors", "HVAC integration", "NFPA 72", "detector spacing", "smoke stratification", "photoelectric detectors", "ionization detectors"]
+tags: ["smoke detectors", "duct detectors", "HVAC integration", "NFPA 72", "detector spacing", "smoke stratification", "photoelectric detectors", "ionization detectors"]
 weight: 1
 ---
 

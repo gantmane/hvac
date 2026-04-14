@@ -1,7 +1,9 @@
 ---
 title: "Middle School HVAC: Complex Multi-Zone Design"
+aliases: ["Middle School HVAC: Complex Multi-Zone Design"]
 description: "Engineering guide to middle school HVAC systems covering diverse space types, science lab ventilation, locker room exhaust, class-change loads, zone control strategies, and energy management."
 keywords: ["middle school HVAC", "science lab ventilation", "locker room exhaust", "class change occupancy", "multi-zone HVAC design", "ASHRAE 62.1 middle school", "educational HVAC zoning", "school energy management"]
+tags: ["middle school HVAC", "science lab ventilation", "locker room exhaust", "class change occupancy", "multi-zone HVAC design", "ASHRAE 62.1 middle school", "educational HVAC zoning", "school energy management"]
 weight: 2
 ---
 

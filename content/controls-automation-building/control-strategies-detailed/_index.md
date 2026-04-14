@@ -1,7 +1,9 @@
 ---
 title: "Advanced HVAC Control Strategies and Algorithms"
+aliases: ["Advanced HVAC Control Strategies and Algorithms"]
 description: "Comprehensive guide to HVAC control strategies including PID, cascade, optimal start/stop, reset strategies, and demand limiting per ASHRAE Guideline 36 standards."
 keywords: ["PID control", "cascade control", "optimal start stop", "reset strategies", "demand limiting", "ASHRAE Guideline 36", "control algorithms", "building automation"]
+tags: ["PID control", "cascade control", "optimal start stop", "reset strategies", "demand limiting", "ASHRAE Guideline 36", "control algorithms", "building automation"]
 weight: 3
 ---
 

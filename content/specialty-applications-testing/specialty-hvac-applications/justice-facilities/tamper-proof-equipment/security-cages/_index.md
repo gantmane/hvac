@@ -1,7 +1,9 @@
 ---
 title: "HVAC Security Cages for Correctional Facilities"
+aliases: ["HVAC Security Cages for Correctional Facilities"]
 description: "Technical standards for security cage design protecting HVAC equipment in justice facilities including construction requirements, ventilation, and access control."
 keywords: ["security cage design", "correctional HVAC protection", "tamper-proof enclosures", "justice facility equipment", "prisoner-proof caging", "secure HVAC installation", "detention center climate control", "cage ventilation requirements"]
+tags: ["security cage design", "correctional HVAC protection", "tamper-proof enclosures", "justice facility equipment", "prisoner-proof caging", "secure HVAC installation", "detention center climate control", "cage ventilation requirements"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Proposal Phase"
+aliases: ["Proposal Phase"]
 description: "HVAC design proposal development including project understanding, scope definition, fee calculation methods, qualifications statements, team organization, schedule development, and proposal presentation strategies for mechanical engineering services"
 weight: 1
 ---

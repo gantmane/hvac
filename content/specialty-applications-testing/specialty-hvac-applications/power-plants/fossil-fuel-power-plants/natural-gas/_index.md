@@ -1,5 +1,6 @@
 ---
 title: "Natural Gas Power Plant HVAC Systems"
+aliases: ["Natural Gas Power Plant HVAC Systems"]
 description: "HVAC design for natural gas power plants including gas turbine facilities, hazardous area ventilation, gas detection systems, and combustion air requirements per NFPA 37."
 date: "2026-01-11"
 weight: 2

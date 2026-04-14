@@ -1,5 +1,6 @@
 ---
 title: "Isentropes"
+aliases: ["Isentropes"]
 weight: 5
 ---
 

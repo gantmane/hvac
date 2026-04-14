@@ -1,5 +1,6 @@
 ---
 title: "Apple Storage Refrigeration Systems"
+aliases: ["Apple Storage Refrigeration Systems"]
 description: "Comprehensive technical analysis of refrigeration systems for commercial apple storage facilities including temperature control, humidity management, controlled atmosphere parameters, and refrigeration load calculations for extended storage applications"
 weight: 1
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Event Schedules and HVAC Load Diversity"
+aliases: ["Event Schedules and HVAC Load Diversity"]
 description: "Engineering event-based HVAC scheduling for high-occupancy venues with pre-conditioning, peak load management, and post-event recovery strategies."
 keywords: ["event HVAC scheduling", "pre-conditioning strategies", "intermittent occupancy loads", "peak event cooling", "post-event recovery", "venue climate control", "load diversity factors", "scheduled occupancy patterns"]
+tags: ["event HVAC scheduling", "pre-conditioning strategies", "intermittent occupancy loads", "peak event cooling", "post-event recovery", "venue climate control", "load diversity factors", "scheduled occupancy patterns"]
 seo_title: "Event Schedules for High-Occupancy HVAC Systems"
 weight: 2
 ---

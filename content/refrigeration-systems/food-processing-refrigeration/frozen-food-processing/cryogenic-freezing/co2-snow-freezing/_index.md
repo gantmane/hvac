@@ -1,5 +1,6 @@
 ---
 title: "CO2 Snow Freezing"
+aliases: ["CO2 Snow Freezing"]
 description: "Technical analysis of carbon dioxide snow cryogenic freezing systems including sublimation thermodynamics, equipment design, application methods, consumption rates, and safety protocols for food processing operations"
 weight: 2
 ---

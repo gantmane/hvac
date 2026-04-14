@@ -1,5 +1,6 @@
 ---
 title: "Equipment Performance Tests"
+aliases: ["Equipment Performance Tests"]
 description: "Comprehensive testing procedures for verifying HVAC equipment performance against design specifications, including chillers, boilers, air handlers, and terminal units."
 date: 2025-01-05
 keywords:

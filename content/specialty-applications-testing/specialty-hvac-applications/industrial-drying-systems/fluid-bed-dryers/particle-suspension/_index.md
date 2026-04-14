@@ -1,8 +1,10 @@
 ---
 title: "Particle Suspension in Fluid Bed Dryers"
+aliases: ["Particle Suspension in Fluid Bed Dryers"]
 seo_title: "Fluid Bed Dryer Particle Suspension Dynamics"
 description: "Physics-based analysis of particle suspension in fluid bed dryers covering minimum fluidization velocity, terminal velocity, and particle dynamics with engineering equations."
 keywords: ["particle suspension", "minimum fluidization velocity", "fluid bed dynamics", "terminal velocity", "Ergun equation", "Richardson-Zaki correlation", "particle fluidization", "bed expansion"]
+tags: ["particle suspension", "minimum fluidization velocity", "fluid bed dynamics", "terminal velocity", "Ergun equation", "Richardson-Zaki correlation", "particle fluidization", "bed expansion"]
 weight: 2
 ---
 

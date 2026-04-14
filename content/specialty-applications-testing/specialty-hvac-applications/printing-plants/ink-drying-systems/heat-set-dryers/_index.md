@@ -1,7 +1,9 @@
 ---
 title: "Heat-Set Dryers for Web Offset Printing"
+aliases: ["Heat-Set Dryers for Web Offset Printing"]
 description: "Technical analysis of heat-set dryer systems for printing plants, including dryer zone temperatures, solvent evaporation physics, VOC control, and energy recovery strategies."
 keywords: ["heat-set dryer", "web offset printing", "ink drying", "VOC control", "afterburner", "catalytic oxidizer", "chill rolls", "energy recovery"]
+tags: ["heat-set dryer", "web offset printing", "ink drying", "VOC control", "afterburner", "catalytic oxidizer", "chill rolls", "energy recovery"]
 weight: 1
 ---
 

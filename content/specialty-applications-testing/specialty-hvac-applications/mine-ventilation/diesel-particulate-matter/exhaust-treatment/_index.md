@@ -1,7 +1,9 @@
 ---
 title: "Diesel Exhaust Treatment Systems for Underground Mines"
+aliases: ["Diesel Exhaust Treatment Systems for Underground Mines"]
 description: "Diesel particulate filter systems, catalytic converters, and exhaust after-treatment technologies for mining applications with MSHA compliance requirements."
 keywords: ["diesel particulate filter", "DPF systems", "catalytic converter", "exhaust after-treatment", "MSHA compliance", "DPM reduction", "mine ventilation", "regeneration"]
+tags: ["diesel particulate filter", "DPF systems", "catalytic converter", "exhaust after-treatment", "MSHA compliance", "DPM reduction", "mine ventilation", "regeneration"]
 date: 2025-01-11
 draft: false
 weight: 4

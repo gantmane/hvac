@@ -1,5 +1,6 @@
 ---
 title: "Operations Phase"
+aliases: ["Operations Phase"]
 weight: 4
 ---
 

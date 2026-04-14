@@ -1,5 +1,6 @@
 ---
 title: "Maximum Spacing by Pipe Size for Seismic Bracing"
+aliases: ["Maximum Spacing by Pipe Size for Seismic Bracing"]
 description: "Technical guidelines for maximum seismic brace spacing based on pipe diameter, material, and seismic design category per SMACNA and ASCE 7 standards."
 date: 2025-01-05
 draft: false

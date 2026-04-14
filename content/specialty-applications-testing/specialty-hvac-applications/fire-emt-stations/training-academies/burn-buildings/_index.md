@@ -1,5 +1,6 @@
 ---
 title: "HVAC Design for Fire Training Burn Buildings"
+aliases: ["HVAC Design for Fire Training Burn Buildings"]
 description: "Specialized HVAC systems for fire training burn buildings including controlled burn ventilation, temperature monitoring, exhaust stacks, and emergency shutdown integration."
 date: "2026-01-11"
 weight: 1

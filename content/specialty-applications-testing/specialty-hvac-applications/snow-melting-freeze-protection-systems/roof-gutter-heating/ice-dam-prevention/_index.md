@@ -1,8 +1,10 @@
 ---
 title: "Ice Dam Prevention Through Roof Heating Systems"
+aliases: ["Ice Dam Prevention Through Roof Heating Systems"]
 weight: 3
 description: "Technical analysis of ice dam prevention through electric heat tracing, roof edge heating, valley cable placement, heat loss compensation, and proper system sizing for residential and commercial applications."
 keywords: ["ice dam prevention", "roof heating cables", "gutter heating systems", "heat trace design", "eave protection", "valley heating", "freeze protection", "heat loss calculations"]
+tags: ["ice dam prevention", "roof heating cables", "gutter heating systems", "heat trace design", "eave protection", "valley heating", "freeze protection", "heat loss calculations"]
 ---
 
 Ice dams form when heat escaping through the roof melts snow on upper surfaces, creating meltwater that refreezes at the cold eave overhang. This creates a barrier that traps subsequent meltwater, leading to roof leaks, gutter damage, and structural ice loads. Prevention requires strategic heat application to maintain drainage pathways.

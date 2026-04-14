@@ -1,5 +1,6 @@
 ---
 title: "Heat Transfer Fluids for Solar Thermal Systems"
+aliases: ["Heat Transfer Fluids for Solar Thermal Systems"]
 description: "Analysis of heat transfer fluids for solar thermal applications including water, glycol solutions, synthetic oils, and selection criteria based on performance."
 date: 2025-01-05
 tags: ["solar thermal", "heat transfer fluids", "glycol", "thermal properties", "freeze protection", "system design"]

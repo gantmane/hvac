@@ -1,5 +1,6 @@
 ---
 title: "Cold Climate HVAC Equipment Considerations"
+aliases: ["Cold Climate HVAC Equipment Considerations"]
 description: "Engineering requirements for HVAC equipment in cold climates covering defrost cycles, heat pump performance, oil management, and low-temperature materials selection."
 weight: 3
 date: 2025-01-05

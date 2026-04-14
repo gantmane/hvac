@@ -1,5 +1,6 @@
 ---
 title: "CO2 Refrigerant Systems for Electric Vehicles"
+aliases: ["CO2 Refrigerant Systems for Electric Vehicles"]
 linkTitle: "CO2 Refrigerant Systems"
 description: "R-744 transcritical CO2 refrigerant systems for EVs including high-pressure operation, heat pump efficiency, gas cooler design, and environmental advantages."
 weight: 4

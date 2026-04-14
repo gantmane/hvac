@@ -1,7 +1,9 @@
 ---
 title: "High School HVAC: Complex Multi-Use Facility Design"
+aliases: ["High School HVAC: Complex Multi-Use Facility Design"]
 description: "Engineering guide to high school HVAC covering chemistry and biology lab exhaust, automotive shop ventilation, competition gymnasiums, performing arts acoustics, and extended operating schedules."
 keywords: ["high school HVAC", "chemistry lab fume hoods", "automotive shop ventilation", "biology lab exhaust", "performing arts HVAC", "competition gymnasium", "vocational shop exhaust", "school lab hood systems"]
+tags: ["high school HVAC", "chemistry lab fume hoods", "automotive shop ventilation", "biology lab exhaust", "performing arts HVAC", "competition gymnasium", "vocational shop exhaust", "school lab hood systems"]
 weight: 3
 ---
 

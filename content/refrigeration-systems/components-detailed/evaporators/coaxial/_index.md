@@ -1,5 +1,6 @@
 ---
 title: "Coaxial Evaporators"
+aliases: ["Coaxial Evaporators"]
 weight: 4
 description: "Tube-in-tube coaxial evaporators for refrigeration systems: construction, heat transfer characteristics, design parameters, and application considerations"
 ---

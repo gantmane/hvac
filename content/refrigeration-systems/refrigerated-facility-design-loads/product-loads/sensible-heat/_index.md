@@ -1,5 +1,6 @@
 ---
 title: "Sensible Heat"
+aliases: ["Sensible Heat"]
 weight: 1
 ---
 

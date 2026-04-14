@@ -1,5 +1,6 @@
 ---
 title: "Mine Ventilation Systems"
+aliases: ["Mine Ventilation Systems"]
 weight: 12
 description: "Comprehensive guide to underground mine ventilation including main and auxiliary fans, methane dilution, diesel particulate control, and MSHA regulatory compliance for safe mining operations."
 keywords:

@@ -1,7 +1,9 @@
 ---
 title: "Oxygen Control"
+aliases: ["Oxygen Control"]
 description: "Technical guide to oxygen control systems for controlled atmosphere storage including nitrogen generation, low-oxygen storage benefits, commodity-specific requirements, monitoring systems, and safety protocols."
 keywords: "oxygen control, CA storage, nitrogen generation, PSA systems, membrane nitrogen, low oxygen storage, oxygen monitoring, CA safety"
+tags: ["oxygen control", "CA storage", "nitrogen generation", "PSA systems", "membrane nitrogen", "low oxygen storage", "oxygen monitoring", "CA safety"]
 weight: 1
 ---
 

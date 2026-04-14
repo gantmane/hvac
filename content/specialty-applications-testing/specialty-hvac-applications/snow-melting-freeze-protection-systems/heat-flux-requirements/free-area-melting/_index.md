@@ -1,7 +1,9 @@
 ---
 title: "Free Area Ratio in Snow Melting System Design"
+aliases: ["Free Area Ratio in Snow Melting System Design"]
 description: "Free area ratio quantification, surface coverage percentage calculations, snow accumulation tolerance, Class I/II/III system performance criteria selection."
 keywords: ["free area ratio", "snow melting coverage", "ASHRAE classes", "surface coverage", "snow accumulation", "heat flux design", "pavement melting", "performance criteria"]
+tags: ["free area ratio", "snow melting coverage", "ASHRAE classes", "surface coverage", "snow accumulation", "heat flux design", "pavement melting", "performance criteria"]
 date: 2026-01-11
 weight: 1
 ---

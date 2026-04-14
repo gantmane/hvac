@@ -1,5 +1,6 @@
 ---
 title: "Award Notification"
+aliases: ["Award Notification"]
 weight: 2
 ---
 

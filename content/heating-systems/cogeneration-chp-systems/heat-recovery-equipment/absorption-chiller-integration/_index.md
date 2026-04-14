@@ -1,5 +1,6 @@
 ---
 title: "Absorption Chiller Integration"
+aliases: ["Absorption Chiller Integration"]
 weight: 3
 ---
 

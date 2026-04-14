@@ -1,5 +1,6 @@
 ---
 title: "Aircraft Cabin Pressurization Systems"
+aliases: ["Aircraft Cabin Pressurization Systems"]
 description: "Comprehensive technical guide to aircraft cabin pressurization including pressure schedules, outflow valve control, safety systems, altitude limits, and differential pressure constraints per FAR requirements"
 keywords:
   - aircraft cabin pressurization

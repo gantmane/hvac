@@ -1,5 +1,6 @@
 ---
 title: "Ductwork and Piping Systems: Air & Hydronic Distribution"
+aliases: ["Ductwork and Piping Systems: Air & Hydronic Distribution"]
 description: "Comprehensive guide to HVAC distribution systems covering duct design, piping fundamentals, pressure drop calculations, sizing methods, and SMACNA/ASHRAE standards."
 keywords:
   - duct design

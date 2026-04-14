@@ -1,8 +1,10 @@
 ---
 title: "Cast Iron Radiators"
+aliases: ["Cast Iron Radiators"]
 weight: 1
 description: "Detailed engineering analysis of cast iron radiators including column radiators, tube-type radiators, sectional construction, EDR ratings per section height and column configuration, assembly procedures, steam and hot water applications, push nipple connections, and historical rating standards."
 keywords: "cast iron radiators, column radiators, sectional radiators, EDR ratings, tube radiators, steam radiators, hot water radiators, radiator sections, push nipples, radiator assembly"
+tags: ["cast iron radiators", "column radiators", "sectional radiators", "EDR ratings", "tube radiators", "steam radiators", "hot water radiators", "radiator sections", "push nipples", "radiator assembly"]
 ---
 
 # Cast Iron Radiators

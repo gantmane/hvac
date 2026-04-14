@@ -1,5 +1,6 @@
 ---
 title: "Submittal Types"
+aliases: ["Submittal Types"]
 weight: 1
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Wine Production"
+aliases: ["Wine Production"]
 weight: 2
 ---
 

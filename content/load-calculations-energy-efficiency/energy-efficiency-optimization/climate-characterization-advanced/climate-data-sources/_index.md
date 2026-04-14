@@ -1,5 +1,6 @@
 ---
 title: "Climate Data Sources"
+aliases: ["Climate Data Sources"]
 weight: 3
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Schematic Design Deliverables"
+aliases: ["Schematic Design Deliverables"]
 weight: 1
 ---
 

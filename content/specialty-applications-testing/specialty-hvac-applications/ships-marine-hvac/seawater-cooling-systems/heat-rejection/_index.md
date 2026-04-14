@@ -1,7 +1,9 @@
 ---
 title: "Heat Rejection to Seawater in Marine HVAC Systems"
+aliases: ["Heat Rejection to Seawater in Marine HVAC Systems"]
 description: "Engineering principles of seawater heat rejection systems for marine HVAC, including heat exchanger capacity calculations, direct vs indirect cooling methods."
 keywords: ["seawater heat rejection", "marine heat exchangers", "seawater cooling", "ship HVAC heat transfer", "marine condenser design", "seawater temperature design", "titanium heat exchangers", "cupro-nickel exchangers"]
+tags: ["seawater heat rejection", "marine heat exchangers", "seawater cooling", "ship HVAC heat transfer", "marine condenser design", "seawater temperature design", "titanium heat exchangers", "cupro-nickel exchangers"]
 draft: false
 weight: 1
 ---

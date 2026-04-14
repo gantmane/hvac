@@ -1,5 +1,6 @@
 ---
 title: "Solar Energy Equipment for HVAC Applications"
+aliases: ["Solar Energy Equipment for HVAC Applications"]
 description: "Technical analysis of solar thermal collectors, photovoltaic systems, and hybrid technologies for heating, cooling, and ventilation applications."
 weight: 8
 ---

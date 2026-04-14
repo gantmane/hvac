@@ -1,8 +1,10 @@
 ---
 title: "Fan Coil Units (Heating Mode)"
+aliases: ["Fan Coil Units (Heating Mode)"]
 weight: 4
 description: "Technical analysis of hydronic fan coil units in heating mode including horizontal and vertical cabinet configurations, heating coil design, multi-speed fan control, two-pipe and four-pipe system applications, capacity ratings, condensate management, and filter maintenance for perimeter and interior zone heating."
 keywords: "fan coil units, FCU, hydronic heating, hot water coils, fan coil heating, two-pipe systems, four-pipe systems, vertical fan coils, horizontal fan coils, multi-speed fans"
+tags: ["fan coil units", "FCU", "hydronic heating", "hot water coils", "fan coil heating", "two-pipe systems", "four-pipe systems", "vertical fan coils", "horizontal fan coils", "multi-speed fans"]
 ---
 
 # Fan Coil Units (Heating Mode)

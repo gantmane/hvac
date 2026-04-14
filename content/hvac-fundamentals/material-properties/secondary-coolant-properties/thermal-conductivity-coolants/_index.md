@@ -1,5 +1,6 @@
 ---
 title: "Thermal Conductivity of Secondary Coolants"
+aliases: ["Thermal Conductivity of Secondary Coolants"]
 description: "Comprehensive analysis of thermal conductivity in secondary refrigerants including glycol solutions and brines. Covers temperature dependence, concentration effects, heat transfer coefficients, and heat exchanger design implications for HVAC systems."
 weight: 5
 ---

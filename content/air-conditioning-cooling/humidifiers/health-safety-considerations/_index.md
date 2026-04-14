@@ -1,5 +1,6 @@
 ---
 title: "Health Safety Considerations"
+aliases: ["Health Safety Considerations"]
 weight: 6
 ---
 

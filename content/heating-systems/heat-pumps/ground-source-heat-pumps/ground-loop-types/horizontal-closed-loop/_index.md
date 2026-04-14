@@ -1,7 +1,9 @@
 ---
 title: "Horizontal Closed Loop Ground Heat Exchangers"
+aliases: ["Horizontal Closed Loop Ground Heat Exchangers"]
 description: "Technical analysis of horizontal closed-loop configurations for ground source heat pumps including trench design, slinky coils, pipe spacing, and soil thermal performance."
 keywords: ["horizontal ground loop", "slinky coil", "ground heat exchanger", "trench configuration", "soil thermal conductivity", "HDPE pipe", "geothermal trench", "loop spacing"]
+tags: ["horizontal ground loop", "slinky coil", "ground heat exchanger", "trench configuration", "soil thermal conductivity", "HDPE pipe", "geothermal trench", "loop spacing"]
 weight: 2
 ---
 

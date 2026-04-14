@@ -1,7 +1,9 @@
 ---
 title: "Static Control in Print Material Handling"
+aliases: ["Static Control in Print Material Handling"]
 description: "Physics-based analysis of triboelectric charging during paper and film handling including roller contact mechanics, web speed effects, anti-static treatments, and ESD protocols for printing operations"
 keywords: ["triboelectric charging", "web handling static", "conductive rollers", "anti-static materials", "material speed control", "ESD control printing", "paper handling static", "film substrate charging"]
+tags: ["triboelectric charging", "web handling static", "conductive rollers", "anti-static materials", "material speed control", "ESD control printing", "paper handling static", "film substrate charging"]
 date: 2026-01-11
 weight: 4
 seo_title: "Material Handling Static Control: Triboelectric Physics"

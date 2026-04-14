@@ -1,5 +1,6 @@
 ---
 title: "Design Build"
+aliases: ["Design Build"]
 weight: 2
 ---
 

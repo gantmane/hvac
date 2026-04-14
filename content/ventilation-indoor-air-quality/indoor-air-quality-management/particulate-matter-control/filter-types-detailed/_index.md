@@ -1,5 +1,6 @@
 ---
 title: "Filter Types: Panel, Pleated, Bag, Cartridge, HEPA"
+aliases: ["Filter Types: Panel, Pleated, Bag, Cartridge, HEPA"]
 description: "Detailed analysis of HVAC air filter construction types including panel, pleated, bag, cartridge, and HEPA filters with performance comparisons and selection criteria."
 date: 2025-01-05
 draft: false

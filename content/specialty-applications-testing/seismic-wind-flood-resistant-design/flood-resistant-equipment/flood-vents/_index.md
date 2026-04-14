@@ -1,5 +1,6 @@
 ---
 title: "Flood Vents for HVAC Equipment Protection"
+aliases: ["Flood Vents for HVAC Equipment Protection"]
 description: "Technical requirements for flood vents protecting HVAC equipment per FEMA TB-1, ICC 500, and NFIP standards including engineered opening calculations."
 date: 2025-01-05
 weight: 2

@@ -1,8 +1,10 @@
 ---
 title: "Cladding Air Leakage in Tall Buildings"
+aliases: ["Cladding Air Leakage in Tall Buildings"]
 weight: 2
 description: "Physics-based analysis of curtain wall air leakage, infiltration calculations, ASTM leakage classes, and commissioning protocols for tall building facades under wind pressure."
 keywords: ["cladding air leakage", "curtain wall infiltration", "ASTM E283", "air barrier testing", "facade leakage rate", "tall building envelope", "wind-driven infiltration", "building commissioning"]
+tags: ["cladding air leakage", "curtain wall infiltration", "ASTM E283", "air barrier testing", "facade leakage rate", "tall building envelope", "wind-driven infiltration", "building commissioning"]
 ---
 
 ## Physical Mechanisms of Cladding Leakage

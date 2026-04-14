@@ -1,5 +1,6 @@
 ---
 title: "Hurricane Categories 1-5: HVAC Design for 74-157+ MPH"
+aliases: ["Hurricane Categories 1-5: HVAC Design for 74-157+ MPH"]
 description: "Engineer HVAC systems for hurricane categories 1-5 with wind speeds from 74-157+ mph. Covers Saffir-Simpson scale requirements, equipment anchoring, and code compliance."
 keywords:
   - hurricane resistant HVAC

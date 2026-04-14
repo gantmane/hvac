@@ -1,7 +1,9 @@
 ---
 title: "ASHRAE Standard 62.1 Compliance in Schools"
+aliases: ["ASHRAE Standard 62.1 Compliance in Schools"]
 description: "Ventilation Rate Procedure, outdoor air requirements, zone air distribution effectiveness, system efficiency calculations, and compliance documentation for schools."
 keywords: ["ASHRAE 62.1", "ventilation rate procedure", "outdoor air requirements", "zone air distribution", "system ventilation efficiency", "school ventilation compliance", "educational facility ventilation", "IAQ standards"]
+tags: ["ASHRAE 62.1", "ventilation rate procedure", "outdoor air requirements", "zone air distribution", "system ventilation efficiency", "school ventilation compliance", "educational facility ventilation", "IAQ standards"]
 weight: 1
 ---
 

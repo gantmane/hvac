@@ -1,5 +1,6 @@
 ---
 title: "Equipment Schedules"
+aliases: ["Equipment Schedules"]
 weight: 1
 ---
 

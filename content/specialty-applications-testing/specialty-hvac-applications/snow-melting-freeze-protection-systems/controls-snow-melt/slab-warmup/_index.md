@@ -1,7 +1,9 @@
 ---
 title: "Slab Warmup for Snow Melting Systems"
+aliases: ["Slab Warmup for Snow Melting Systems"]
 description: "Physics-based analysis of slab warmup time calculations, thermal mass considerations, and control strategies for hydronic and electric snow melting systems."
 keywords: ["slab warmup time", "snow melting preheat", "thermal mass", "warmup control", "slab temperature response", "hydronic snow melt", "preheating strategies", "concrete thermal capacity"]
+tags: ["slab warmup time", "snow melting preheat", "thermal mass", "warmup control", "slab temperature response", "hydronic snow melt", "preheating strategies", "concrete thermal capacity"]
 weight: 6
 ---
 

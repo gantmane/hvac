@@ -1,5 +1,6 @@
 ---
 title: "Mechanical Recorders"
+aliases: ["Mechanical Recorders"]
 weight: 1
 ---
 

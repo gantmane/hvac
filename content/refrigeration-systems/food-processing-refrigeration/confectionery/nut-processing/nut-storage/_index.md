@@ -1,5 +1,6 @@
 ---
 title: "Nut Storage"
+aliases: ["Nut Storage"]
 description: "HVAC refrigeration system design for nut cold storage facilities covering temperature control, humidity management, oxygen exposure prevention, and preservation strategies to prevent lipid oxidation and maintain quality."
 weight: 2
 ---

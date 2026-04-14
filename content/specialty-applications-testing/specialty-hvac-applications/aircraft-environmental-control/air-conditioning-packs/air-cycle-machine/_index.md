@@ -1,5 +1,6 @@
 ---
 title: "Air Cycle Machine Components and Operation"
+aliases: ["Air Cycle Machine Components and Operation"]
 description: "Technical analysis of air cycle machine thermodynamic operation, compressor-turbine configurations, heat exchanger integration, shaft dynamics, and efficiency optimization."
 keywords:
   - air cycle machine

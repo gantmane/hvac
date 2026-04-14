@@ -1,7 +1,9 @@
 ---
 title: "Heavy vs Light Material Pneumatic Conveying Systems"
+aliases: ["Heavy vs Light Material Pneumatic Conveying Systems"]
 description: "Engineering principles for pneumatic transport of heavy and light materials. Transport velocity calculations, material classification, and system design considerations."
 keywords: ["pneumatic conveying", "material transport velocity", "particle density", "heavy material handling", "light material conveying", "industrial ventilation", "saltation velocity", "drag coefficient"]
+tags: ["pneumatic conveying", "material transport velocity", "particle density", "heavy material handling", "light material conveying", "industrial ventilation", "saltation velocity", "drag coefficient"]
 weight: 3
 ---
 

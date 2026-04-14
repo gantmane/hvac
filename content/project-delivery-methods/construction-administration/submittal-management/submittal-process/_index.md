@@ -1,5 +1,6 @@
 ---
 title: "Submittal Process"
+aliases: ["Submittal Process"]
 weight: 2
 ---
 

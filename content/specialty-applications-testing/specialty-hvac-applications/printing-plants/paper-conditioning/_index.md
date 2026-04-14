@@ -1,8 +1,10 @@
 ---
 title: "Paper Conditioning Systems"
+aliases: ["Paper Conditioning Systems"]
 weight: 4
 description: "Technical requirements for paper conditioning in printing facilities, including moisture equilibrium principles, humidity control strategies, and environmental control systems."
 keywords: ["paper conditioning", "moisture equilibrium", "printing humidity control", "paper hygroscopic behavior", "web printing climate", "paper dimensional stability", "relative humidity printing", "paper moisture content"]
+tags: ["paper conditioning", "moisture equilibrium", "printing humidity control", "paper hygroscopic behavior", "web printing climate", "paper dimensional stability", "relative humidity printing", "paper moisture content"]
 ---
 
 ## Hygroscopic Behavior of Paper

@@ -1,8 +1,10 @@
 ---
 title: "Furnace Controls"
+aliases: ["Furnace Controls"]
 weight: 4
 description: "Comprehensive guide to furnace control systems including thermostat integration, safety switches, gas valve operation, ignition sequencing, and communicating control technology."
 keywords: ["furnace controls", "thermostat integration", "fan limit control", "high limit switch", "gas valve", "ignition sequence", "blower delay", "communicating furnace", "furnace safety controls"]
+tags: ["furnace controls", "thermostat integration", "fan limit control", "high limit switch", "gas valve", "ignition sequence", "blower delay", "communicating furnace", "furnace safety controls"]
 ---
 
 Furnace controls orchestrate the safe and efficient operation of heating equipment through integrated safety switches, sequencing logic, and temperature regulation. Modern furnace control systems range from basic electromechanical components to sophisticated communicating networks that optimize performance and provide diagnostic capabilities.

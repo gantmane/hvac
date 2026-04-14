@@ -1,7 +1,9 @@
 ---
 title: "Exhaust Hose Reel Systems for Engine Testing"
+aliases: ["Exhaust Hose Reel Systems for Engine Testing"]
 description: "Retractable exhaust hose reel systems for engine test facilities including high-temperature hose materials, connection methods, and spring versus motorized retraction."
 keywords: ["exhaust hose reels", "engine test exhaust", "high temperature hose", "retractable exhaust", "hose reel mounting", "exhaust connection systems", "test cell ventilation", "engine dynamometer exhaust"]
+tags: ["exhaust hose reels", "engine test exhaust", "high temperature hose", "retractable exhaust", "hose reel mounting", "exhaust connection systems", "test cell ventilation", "engine dynamometer exhaust"]
 weight: 2
 ---
 

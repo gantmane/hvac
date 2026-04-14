@@ -1,5 +1,6 @@
 ---
 title: "Air Blast Freezing for Poultry Processing"
+aliases: ["Air Blast Freezing for Poultry Processing"]
 description: "Technical analysis of air blast freezing systems for poultry, covering heat transfer physics, freezing time calculations, equipment design, and operational parameters."
 date: 2025-01-05
 tags: ["air blast freezing", "poultry freezing", "food refrigeration", "blast freezer", "freezing time", "heat transfer"]

@@ -1,5 +1,6 @@
 ---
 title: "Natural Gas Resources"
+aliases: ["Natural Gas Resources"]
 description: "Comprehensive overview of natural gas resources including reserves, extraction methods, composition, distribution infrastructure, and LNG technology for HVAC applications."
 weight: 2
 ---

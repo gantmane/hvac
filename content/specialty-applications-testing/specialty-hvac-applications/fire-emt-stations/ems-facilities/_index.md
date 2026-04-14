@@ -1,5 +1,6 @@
 ---
 title: "HVAC Systems for Emergency Medical Service Facilities"
+aliases: ["HVAC Systems for Emergency Medical Service Facilities"]
 description: "Specialized HVAC design for EMS stations including ambulance bay conditioning, crew quarters, medical supply storage climate control, and decontamination areas."
 date: "2026-01-11"
 weight: 2

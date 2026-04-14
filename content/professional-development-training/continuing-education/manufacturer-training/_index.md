@@ -1,7 +1,9 @@
 ---
 title: "HVAC Manufacturer Training Programs"
+aliases: ["HVAC Manufacturer Training Programs"]
 description: "Comprehensive guide to equipment manufacturer training programs from Carrier, Trane, Lennox, and Daikin including certification levels, specializations, and training center resources."
 keywords: ["manufacturer training", "factory training centers", "HVAC equipment training", "Carrier training", "Trane training", "Lennox training", "Daikin training", "hands-on HVAC training"]
+tags: ["manufacturer training", "factory training centers", "HVAC equipment training", "Carrier training", "Trane training", "Lennox training", "Daikin training", "hands-on HVAC training"]
 date: 2026-01-05
 weight: 8
 seo_title: "HVAC Manufacturer Training - Equipment Certification"

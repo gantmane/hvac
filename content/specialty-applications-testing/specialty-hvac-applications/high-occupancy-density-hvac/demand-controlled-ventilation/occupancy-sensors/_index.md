@@ -1,7 +1,9 @@
 ---
 title: "Occupancy Sensors for Demand-Controlled Ventilation"
+aliases: ["Occupancy Sensors for Demand-Controlled Ventilation"]
 description: "Technical analysis of occupancy sensor technologies for HVAC demand-controlled ventilation systems, including PIR, ultrasonic, video analytics, and integration strategies."
 keywords: ["occupancy sensors", "PIR sensors", "ultrasonic sensors", "demand-controlled ventilation", "video analytics", "people counting", "HVAC occupancy detection", "sensor integration"]
+tags: ["occupancy sensors", "PIR sensors", "ultrasonic sensors", "demand-controlled ventilation", "video analytics", "people counting", "HVAC occupancy detection", "sensor integration"]
 weight: 2
 ---
 

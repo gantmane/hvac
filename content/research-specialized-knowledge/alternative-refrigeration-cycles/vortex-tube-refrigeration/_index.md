@@ -1,5 +1,6 @@
 ---
 title: "Vortex Tube Refrigeration"
+aliases: ["Vortex Tube Refrigeration"]
 description: "Ranque-Hilsch vortex tube cooling systems using compressed air temperature separation for spot cooling, tool cooling, and electronics thermal management applications."
 weight: 6
 ---

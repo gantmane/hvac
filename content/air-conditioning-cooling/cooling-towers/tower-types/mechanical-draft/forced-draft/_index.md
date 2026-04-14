@@ -1,5 +1,6 @@
 ---
 title: "Forced Draft"
+aliases: ["Forced Draft"]
 weight: 2
 ---
 

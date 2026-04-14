@@ -1,7 +1,9 @@
 ---
 title: "Supply Outlets & Diffuser Selection"
+aliases: ["Supply Outlets & Diffuser Selection"]
 description: "Comprehensive guide to HVAC supply outlets including ceiling, sidewall, floor, and slot diffusers with throw calculations, performance ratings, and selection criteria."
 keywords: ["supply diffusers", "air distribution", "throw calculations", "diffuser performance", "ASHRAE air terminals", "ceiling diffusers", "ADC ratings", "air outlet selection"]
+tags: ["supply diffusers", "air distribution", "throw calculations", "diffuser performance", "ASHRAE air terminals", "ceiling diffusers", "ADC ratings", "air outlet selection"]
 weight: 1
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Heating Cable Systems for Snow Melting"
+aliases: ["Heating Cable Systems for Snow Melting"]
 description: "Electric heating cable technologies for snow melting including constant wattage and self-regulating cables, installation methods, power density calculations, and NEC compliance."
 keywords: ["heating cable", "snow melting cable", "self-regulating cable", "constant wattage cable", "electric snow melting", "heating cable installation", "cable power density", "NEC Article 426"]
+tags: ["heating cable", "snow melting cable", "self-regulating cable", "constant wattage cable", "electric snow melting", "heating cable installation", "cable power density", "NEC Article 426"]
 weight: 1
 ---
 

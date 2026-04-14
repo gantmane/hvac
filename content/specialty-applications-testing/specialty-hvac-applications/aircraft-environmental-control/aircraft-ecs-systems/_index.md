@@ -1,7 +1,9 @@
 ---
 title: "Aircraft Environmental Control Systems"
+aliases: ["Aircraft Environmental Control Systems"]
 description: "Comprehensive technical analysis of aircraft ECS including bleed air systems, air cycle machine thermodynamics, vapor cycle alternatives, and electric ECS architectures for modern aircraft."
 keywords: ["aircraft ECS", "air cycle machine", "bleed air system", "aircraft HVAC", "ACM thermodynamics", "bootstrap cycle", "vapor cycle aircraft", "electric ECS", "more electric aircraft", "SAE AS8907"]
+tags: ["aircraft ECS", "air cycle machine", "bleed air system", "aircraft HVAC", "ACM thermodynamics", "bootstrap cycle", "vapor cycle aircraft", "electric ECS", "more electric aircraft", "SAE AS8907"]
 date: 2026-01-05
 lastmod: 2026-01-05
 draft: false

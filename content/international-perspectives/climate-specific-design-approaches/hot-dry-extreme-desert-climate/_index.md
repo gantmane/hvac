@@ -1,5 +1,6 @@
 ---
 title: "HVAC Design for Hot, Dry & Extreme Desert Climates"
+aliases: ["HVAC Design for Hot, Dry & Extreme Desert Climates"]
 description: "Engineering HVAC systems for extreme desert conditions: evaporative cooling, thermal mass, solar load management, and equipment protection strategies."
 date: 2025-01-05
 draft: false

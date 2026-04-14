@@ -1,7 +1,9 @@
 ---
 title: "Cleanroom Classification Standards and Testing"
+aliases: ["Cleanroom Classification Standards and Testing"]
 description: "ISO 14644-1 cleanroom classification system, particle count testing methods, Federal Standard 209E comparison, and certification requirements for HVAC systems."
 keywords: ["ISO 14644-1", "cleanroom classification", "particle counting", "Federal Standard 209E", "EU GMP grades", "cleanroom certification", "airborne particulate", "cleanroom testing"]
+tags: ["ISO 14644-1", "cleanroom classification", "particle counting", "Federal Standard 209E", "EU GMP grades", "cleanroom certification", "airborne particulate", "cleanroom testing"]
 weight: 1
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Industrial Local Exhaust Ventilation"
+aliases: ["Industrial Local Exhaust Ventilation"]
 description: "Comprehensive guide to industrial local exhaust systems including hood design, capture velocity calculations, duct system design, air cleaning equipment, and contaminant control strategies for workplace safety."
 keywords: "industrial exhaust, local exhaust ventilation, LEV, capture velocity, hood design, ACGIH, contaminant control, industrial ventilation, fume hood, dust collection"
+tags: ["industrial exhaust", "local exhaust ventilation", "LEV", "capture velocity", "hood design", "ACGIH", "contaminant control", "industrial ventilation", "fume hood", "dust collection"]
 weight: 14
 ---
 

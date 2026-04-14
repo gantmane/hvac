@@ -1,5 +1,6 @@
 ---
 title: "Asian HVAC Standards and Practices"
+aliases: ["Asian HVAC Standards and Practices"]
 description: "Comprehensive analysis of Asian HVAC standards, design methodologies, and regional climate adaptation strategies compared to Western engineering practices."
 date: 2025-01-05
 draft: false

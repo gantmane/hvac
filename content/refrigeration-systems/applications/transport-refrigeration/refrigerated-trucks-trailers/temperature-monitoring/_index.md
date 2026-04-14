@@ -1,5 +1,6 @@
 ---
 title: "Temperature Monitoring"
+aliases: ["Temperature Monitoring"]
 weight: 6
 ---
 

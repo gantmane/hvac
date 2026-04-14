@@ -1,7 +1,9 @@
 ---
 title: "Engine Room Heat Removal"
+aliases: ["Engine Room Heat Removal"]
 description: "Technical analysis of marine engine room heat rejection including radiative and convective heat transfer, exhaust system heat loads, component-specific heat outputs, and ventilation calculations for ship machinery spaces."
 keywords: ["engine room heat removal", "marine heat load calculation", "radiative heat transfer ships", "convective cooling marine", "exhaust heat rejection", "machinery space thermal load", "diesel engine heat output", "marine ventilation design"]
+tags: ["engine room heat removal", "marine heat load calculation", "radiative heat transfer ships", "convective cooling marine", "exhaust heat rejection", "machinery space thermal load", "diesel engine heat output", "marine ventilation design"]
 weight: 3
 ---
 

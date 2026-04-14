@@ -1,8 +1,10 @@
 ---
 title: "Unit Heaters (Hydronic)"
+aliases: ["Unit Heaters (Hydronic)"]
 weight: 5
 description: "Engineering analysis of hydronic unit heaters including propeller fan and centrifugal fan configurations, steam and hot water coil design, horizontal and vertical mounting, high-bay applications, capacity ratings, throw patterns, control strategies, and industrial/commercial space heating."
 keywords: "unit heaters, hydronic unit heaters, propeller fan heaters, cabinet unit heaters, steam unit heaters, hot water unit heaters, warehouse heating, industrial heating, high-bay heating"
+tags: ["unit heaters", "hydronic unit heaters", "propeller fan heaters", "cabinet unit heaters", "steam unit heaters", "hot water unit heaters", "warehouse heating", "industrial heating", "high-bay heating"]
 ---
 
 # Unit Heaters (Hydronic)

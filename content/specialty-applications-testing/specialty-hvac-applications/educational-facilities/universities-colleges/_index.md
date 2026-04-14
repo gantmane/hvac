@@ -1,7 +1,9 @@
 ---
 title: "University and College HVAC Systems"
+aliases: ["University and College HVAC Systems"]
 description: "Technical guide to campus district heating and cooling, laboratory ventilation, lecture hall HVAC, library climate control, research facilities, and dormitory systems with ASHRAE standards."
 keywords: ["university HVAC", "college HVAC systems", "campus district energy", "laboratory ventilation", "lecture hall HVAC", "library climate control", "research facility HVAC", "dormitory heating cooling", "campus chilled water", "campus steam system"]
+tags: ["university HVAC", "college HVAC systems", "campus district energy", "laboratory ventilation", "lecture hall HVAC", "library climate control", "research facility HVAC", "dormitory heating cooling", "campus chilled water", "campus steam system"]
 weight: 2
 ---
 

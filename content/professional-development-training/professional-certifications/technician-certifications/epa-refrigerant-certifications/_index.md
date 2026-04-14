@@ -1,5 +1,6 @@
 ---
 title: "EPA Refrigerant Certifications"
+aliases: ["EPA Refrigerant Certifications"]
 description: "Complete guide to EPA Section 608 refrigerant certification types, exam requirements, regulatory compliance, and refrigerant handling protocols for HVAC technicians."
 keywords:
   - EPA Section 608 certification

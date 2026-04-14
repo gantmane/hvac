@@ -1,5 +1,6 @@
 ---
 title: "Detail Types"
+aliases: ["Detail Types"]
 weight: 1
 ---
 

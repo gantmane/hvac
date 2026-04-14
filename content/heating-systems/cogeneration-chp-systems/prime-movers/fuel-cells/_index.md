@@ -1,5 +1,6 @@
 ---
 title: "Fuel Cell Systems for CHP"
+aliases: ["Fuel Cell Systems for CHP"]
 description: "Detailed analysis of fuel cell prime movers including electrochemical principles, fuel cell types (PAFC, MCFC, SOFC, PEMFC), thermodynamic efficiency limits, heat recovery characteristics, and integration strategies for high-efficiency distributed generation."
 date: 2026-01-04
 weight: 5

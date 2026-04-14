@@ -1,8 +1,10 @@
 ---
 title: "ASME Relief Valves for Domestic Hot Water Systems"
+aliases: ["ASME Relief Valves for Domestic Hot Water Systems"]
 weight: 4
 description: "Comprehensive guide to temperature and pressure relief valves for DHW systems including ASME sizing calculations, discharge piping requirements, code compliance, and testing procedures."
 keywords: ["T&P relief valve", "ASME relief valve sizing", "domestic hot water safety", "pressure relief discharge piping", "relief valve testing", "water heater safety devices", "plumbing code compliance", "thermal expansion protection"]
+tags: ["T&P relief valve", "ASME relief valve sizing", "domestic hot water safety", "pressure relief discharge piping", "relief valve testing", "water heater safety devices", "plumbing code compliance", "thermal expansion protection"]
 ---
 
 ## Overview

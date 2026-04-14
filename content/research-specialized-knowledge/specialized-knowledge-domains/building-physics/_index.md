@@ -1,5 +1,6 @@
 ---
 title: "Building Physics"
+aliases: ["Building Physics"]
 description: "Building physics fundamentals for HVAC design including heat transfer, air and moisture transport, thermal bridging, condensation analysis, hygrothermal modeling, and building simulation tools for integrated building envelope and mechanical system design."
 weight: 2
 ---

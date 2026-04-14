@@ -1,5 +1,6 @@
 ---
 title: "Hfo Hydrofluoroolefins"
+aliases: ["Hfo Hydrofluoroolefins"]
 weight: 4
 ---
 

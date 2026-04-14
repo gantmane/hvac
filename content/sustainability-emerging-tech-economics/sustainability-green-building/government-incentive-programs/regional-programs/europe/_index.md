@@ -1,5 +1,6 @@
 ---
 title: "European HVAC Incentive Programs"
+aliases: ["European HVAC Incentive Programs"]
 description: "Analysis of European government incentives for energy-efficient HVAC systems including heat pumps, renewable integration, and building decarbonization programs."
 date: 2025-01-05
 tags: ["government incentives", "European Union", "heat pumps", "energy efficiency", "decarbonization", "renewable energy", "building standards", "EPBD"]

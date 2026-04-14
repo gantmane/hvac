@@ -1,5 +1,6 @@
 ---
 title: "Liquid Nitrogen Transport"
+aliases: ["Liquid Nitrogen Transport"]
 weight: 1
 ---
 

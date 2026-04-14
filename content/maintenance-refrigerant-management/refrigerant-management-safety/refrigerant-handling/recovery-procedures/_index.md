@@ -1,7 +1,9 @@
 ---
 title: "Refrigerant Recovery Procedures & EPA Requirements"
+aliases: ["Refrigerant Recovery Procedures & EPA Requirements"]
 description: "Complete guide to refrigerant recovery procedures including EPA 608 requirements, system-dependent and self-contained methods, recovery rates, and equipment setup standards."
 keywords: ["refrigerant recovery", "EPA 608", "vapor recovery", "liquid recovery", "recovery equipment", "system-dependent recovery", "ARI 740", "push-pull recovery"]
+tags: ["refrigerant recovery", "EPA 608", "vapor recovery", "liquid recovery", "recovery equipment", "system-dependent recovery", "ARI 740", "push-pull recovery"]
 weight: 1
 ---
 

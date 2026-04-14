@@ -1,8 +1,10 @@
 ---
 title: "Structure Condensation Prevention in Natatoriums"
+aliases: ["Structure Condensation Prevention in Natatoriums"]
 weight: 2
 description: "Technical guidance on preventing condensation on structural elements in indoor pool facilities including surface temperature calculations, thermal bridging elimination, and envelope design strategies."
 keywords: ["natatorium condensation", "pool building envelope", "structural condensation", "thermal bridging", "dew point control", "pool roof condensation", "continuous insulation", "building envelope design"]
+tags: ["natatorium condensation", "pool building envelope", "structural condensation", "thermal bridging", "dew point control", "pool roof condensation", "continuous insulation", "building envelope design"]
 ---
 
 ## Condensation Risk in Natatorium Structures

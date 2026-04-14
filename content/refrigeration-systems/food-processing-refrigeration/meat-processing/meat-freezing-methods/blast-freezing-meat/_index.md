@@ -1,8 +1,10 @@
 ---
 title: "Blast Freezing Systems for Meat Products"
+aliases: ["Blast Freezing Systems for Meat Products"]
 SEOTitle: "Blast Freezing Meat: Air Velocity & Temperature Control"
 description: "Technical analysis of blast freezing systems for meat processing, including air velocity requirements, temperature profiles, tunnel vs spiral configurations, and freezing time calculations."
 keywords: ["blast freezing", "meat freezing", "air blast freezer", "freezing time calculation", "spiral freezer", "tunnel freezer", "meat processing refrigeration", "convective heat transfer"]
+tags: ["blast freezing", "meat freezing", "air blast freezer", "freezing time calculation", "spiral freezer", "tunnel freezer", "meat processing refrigeration", "convective heat transfer"]
 weight: 1
 ---
 

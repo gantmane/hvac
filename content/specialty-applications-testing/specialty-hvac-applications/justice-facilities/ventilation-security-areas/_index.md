@@ -1,8 +1,10 @@
 ---
 title: "Ventilation Security Areas"
+aliases: ["Ventilation Security Areas"]
 seo_title: "Security Area Ventilation in Correctional Facilities"
 description: "Technical guidance on HVAC ventilation design for security zones in justice facilities, including pressure relationships, zone classification, and integration."
 keywords: ["security zone ventilation", "correctional HVAC", "pressure cascading", "sally port ventilation", "detention center airflow", "security integration HVAC", "cell block ventilation", "prison air systems"]
+tags: ["security zone ventilation", "correctional HVAC", "pressure cascading", "sally port ventilation", "detention center airflow", "security integration HVAC", "cell block ventilation", "prison air systems"]
 weight: 8
 ---
 

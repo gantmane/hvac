@@ -1,5 +1,6 @@
 ---
 title: "Control Valves"
+aliases: ["Control Valves"]
 weight: 2
 ---
 

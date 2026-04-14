@@ -1,5 +1,6 @@
 ---
 title: "Adaptive Building Envelopes"
+aliases: ["Adaptive Building Envelopes"]
 weight: 4
 ---
 

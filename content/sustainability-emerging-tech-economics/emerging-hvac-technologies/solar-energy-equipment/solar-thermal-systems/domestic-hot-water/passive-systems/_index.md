@@ -1,5 +1,6 @@
 ---
 title: "Passive Solar Domestic Hot Water Systems"
+aliases: ["Passive Solar Domestic Hot Water Systems"]
 date: "2025-01-05"
 description: "Technical analysis of passive solar water heating including thermosiphon systems, batch collectors, and integral collector-storage units with performance calculations."
 tags: ["solar thermal", "domestic hot water", "thermosiphon", "passive systems", "renewable energy", "batch collectors"]

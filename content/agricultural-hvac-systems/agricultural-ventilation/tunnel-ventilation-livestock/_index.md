@@ -1,5 +1,6 @@
 ---
 title: "Tunnel Ventilation for Livestock"
+aliases: ["Tunnel Ventilation for Livestock"]
 description: "Engineering design of tunnel ventilation systems including airflow calculations, fan staging, velocity requirements, and evaporative cooling integration for livestock housing."
 date: 2026-01-04
 tags: ["tunnel ventilation", "high-velocity ventilation", "livestock cooling", "fan staging", "evaporative cooling", "CFM calculations"]

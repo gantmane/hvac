@@ -1,9 +1,11 @@
 ---
 title: "Automotive AC Diagnostics and Service"
+aliases: ["Automotive AC Diagnostics and Service"]
 linkTitle: "Diagnostics Service"
 weight: 3
 description: "Comprehensive automotive air conditioning diagnostics including manifold gauge analysis, refrigerant leak detection methods, recovery and recharge procedures, and system performance verification per SAE J2788 standards."
 keywords: ["automotive AC diagnostics", "manifold gauge readings", "refrigerant leak detection", "AC recovery procedures", "refrigerant recharge", "SAE J2788", "automotive service equipment", "AC system testing"]
+tags: ["automotive AC diagnostics", "manifold gauge readings", "refrigerant leak detection", "AC recovery procedures", "refrigerant recharge", "SAE J2788", "automotive service equipment", "AC system testing"]
 ---
 
 Automotive air conditioning diagnostics and service require systematic procedures combining pressure-temperature analysis, leak detection techniques, and refrigerant handling protocols. The physics of vapor compression dictates specific pressure relationships that reveal system health, while proper service procedures maintain refrigerant purity and system integrity per SAE J2788 standards.

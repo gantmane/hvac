@@ -1,5 +1,6 @@
 ---
 title: "Phase Change Heat Transfer"
+aliases: ["Phase Change Heat Transfer"]
 description: "Phase change convection fundamentals for HVAC including boiling and condensation mechanisms, nucleate and film boiling regimes, two-phase flow in evaporators and condensers, and heat transfer coefficient correlations for refrigerant phase transitions."
 weight: 3
 ---

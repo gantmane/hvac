@@ -1,8 +1,10 @@
 ---
 title: "Evaporative Cooling for Textile Air Washing"
+aliases: ["Evaporative Cooling for Textile Air Washing"]
 weight: 2
 description: "Engineering principles of direct and indirect evaporative cooling systems for textile processing plants, including adiabatic saturation theory, effectiveness calculations, and water treatment requirements."
 keywords: ["evaporative cooling", "adiabatic saturation", "direct evaporative cooling", "indirect evaporative cooling", "textile HVAC", "wet bulb temperature", "cooling effectiveness", "water treatment"]
+tags: ["evaporative cooling", "adiabatic saturation", "direct evaporative cooling", "indirect evaporative cooling", "textile HVAC", "wet bulb temperature", "cooling effectiveness", "water treatment"]
 ---
 
 ## Evaporative Cooling Fundamentals

@@ -1,5 +1,6 @@
 ---
 title: "Fan Powered Terminals"
+aliases: ["Fan Powered Terminals"]
 description: "Fan-powered VAV terminal units with integrated fans for constant air volume delivery, series and parallel fan configurations, heating coil integration, control sequences, and energy performance analysis for commercial HVAC systems."
 weight: 3
 ---

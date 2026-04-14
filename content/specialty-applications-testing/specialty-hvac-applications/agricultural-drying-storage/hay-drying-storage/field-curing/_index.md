@@ -1,7 +1,9 @@
 ---
 title: "Field Curing Methods for Hay Drying and Preservation"
+aliases: ["Field Curing Methods for Hay Drying and Preservation"]
 description: "Natural field curing processes for hay including drying stages, conditioning equipment, tedding practices, weather risks, and optimal baling moisture content."
 keywords: ["field curing", "hay drying", "tedding equipment", "hay conditioning", "moisture content", "nutrient loss", "natural drying", "baling timing"]
+tags: ["field curing", "hay drying", "tedding equipment", "hay conditioning", "moisture content", "nutrient loss", "natural drying", "baling timing"]
 weight: 1
 ---
 

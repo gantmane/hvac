@@ -1,7 +1,9 @@
 ---
 title: "DHW Expansion Tank Pre-Charge Pressure Requirements"
+aliases: ["DHW Expansion Tank Pre-Charge Pressure Requirements"]
 description: "Technical guidance on proper pre-charge pressure settings for domestic hot water expansion tanks including calculation methods, ASME standards, and field adjustment procedures."
 keywords: ["expansion tank pre-charge", "DHW tank pressure", "static water pressure", "fill pressure", "diaphragm tank", "bladder tank", "pressure adjustment", "ASME standards"]
+tags: ["expansion tank pre-charge", "DHW tank pressure", "static water pressure", "fill pressure", "diaphragm tank", "bladder tank", "pressure adjustment", "ASME standards"]
 weight: 3
 ---
 

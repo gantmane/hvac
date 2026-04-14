@@ -1,7 +1,9 @@
 ---
 title: "Air Distribution for Indoor Sports Facilities"
+aliases: ["Air Distribution for Indoor Sports Facilities"]
 description: "Technical design principles for HVAC air distribution in gymnasiums and arenas, including draft prevention, high-velocity throws, and fabric duct systems."
 keywords: ["sports facility HVAC", "gymnasium air distribution", "draft-free ventilation", "fabric duct systems", "air stratification control", "high-bay air delivery", "throw distance calculation", "indoor arena ventilation"]
+tags: ["sports facility HVAC", "gymnasium air distribution", "draft-free ventilation", "fabric duct systems", "air stratification control", "high-bay air delivery", "throw distance calculation", "indoor arena ventilation"]
 weight: 3
 ---
 

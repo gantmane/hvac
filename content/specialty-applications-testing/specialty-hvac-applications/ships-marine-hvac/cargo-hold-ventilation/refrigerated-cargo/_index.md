@@ -1,7 +1,9 @@
 ---
 title: "Refrigerated Cargo Hold Systems"
+aliases: ["Refrigerated Cargo Hold Systems"]
 description: "Engineering principles for marine reefer cargo refrigeration including controlled atmosphere storage, air circulation patterns, defrost cycles, and temperature control."
 keywords: ["reefer cargo", "refrigerated containers", "marine cold chain", "controlled atmosphere", "cargo refrigeration", "defrost cycles", "reefer holds", "perishable cargo transport"]
+tags: ["reefer cargo", "refrigerated containers", "marine cold chain", "controlled atmosphere", "cargo refrigeration", "defrost cycles", "reefer holds", "perishable cargo transport"]
 weight: 3
 ---
 

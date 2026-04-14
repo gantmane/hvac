@@ -1,5 +1,6 @@
 ---
 title: "Continuous Blast Freezers"
+aliases: ["Continuous Blast Freezers"]
 description: "Technical specifications for continuous blast freezer systems including tunnel and spiral configurations, air distribution design, throughput calculations, and conveyor integration for high-volume frozen food processing operations."
 weight: 2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Homogenization"
+aliases: ["Homogenization"]
 description: "Mechanical fat globule size reduction process requiring high-pressure pumping, process heating, and immediate post-homogenization cooling to maintain product stability and prevent microbial growth"
 weight: 3
 ---

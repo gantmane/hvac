@@ -1,5 +1,6 @@
 ---
 title: "Natural Ventilation Design"
+aliases: ["Natural Ventilation Design"]
 description: "Physics-based design guidance for natural ventilation systems including stack effect calculations, wind-driven airflow, opening sizing methodology, and hybrid system integration strategies."
 keywords:
   - natural ventilation design

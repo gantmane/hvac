@@ -1,5 +1,6 @@
 ---
 title: "Cold Storage for Fish Products"
+aliases: ["Cold Storage for Fish Products"]
 description: "Technical requirements for fish cold storage including frozen storage temperatures, humidity control, storage life by species, air circulation patterns, and specialized refrigeration system design for preserving seafood quality."
 weight: 3
 ---

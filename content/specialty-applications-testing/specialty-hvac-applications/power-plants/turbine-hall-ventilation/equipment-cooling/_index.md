@@ -1,8 +1,10 @@
 ---
 title: "Equipment Cooling in Turbine Halls"
+aliases: ["Equipment Cooling in Turbine Halls"]
 weight: 3
 description: "Engineering analysis of auxiliary equipment cooling for power plant turbine halls including lube oil coolers, generator cooling systems, bearing cooling air, transformer cooling."
 keywords: "equipment cooling power plant, lube oil cooler sizing, generator cooling, bearing cooling, transformer cooling, auxiliary cooling turbine hall, heat exchanger design"
+tags: ["equipment cooling power plant", "lube oil cooler sizing", "generator cooling", "bearing cooling", "transformer cooling", "auxiliary cooling turbine hall", "heat exchanger design"]
 ---
 
 # Equipment Cooling in Turbine Halls

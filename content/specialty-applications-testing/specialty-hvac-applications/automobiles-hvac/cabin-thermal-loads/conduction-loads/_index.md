@@ -1,7 +1,9 @@
 ---
 title: "Conduction Loads in Automotive HVAC Systems"
+aliases: ["Conduction Loads in Automotive HVAC Systems"]
 description: "Physics-based analysis of conductive heat transfer through vehicle body panels, firewall, floor, and roof assemblies with thermal mass effects and insulation strategies."
 keywords: ["conduction heat transfer", "automotive thermal loads", "vehicle insulation", "thermal mass", "SAE J2765", "cabin heat loads", "body panel heat transfer", "firewall insulation"]
+tags: ["conduction heat transfer", "automotive thermal loads", "vehicle insulation", "thermal mass", "SAE J2765", "cabin heat loads", "body panel heat transfer", "firewall insulation"]
 weight: 2
 ---
 

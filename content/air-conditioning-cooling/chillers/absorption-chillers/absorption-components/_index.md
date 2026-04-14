@@ -1,5 +1,6 @@
 ---
 title: "Absorption Chiller Components"
+aliases: ["Absorption Chiller Components"]
 description: "Detailed examination of absorption chiller components including solution pumps, heat exchangers, spray nozzles, refrigerant pumps, and corrosion inhibitor systems for lithium bromide-water absorption cycles."
 weight: 4
 ---

@@ -1,8 +1,10 @@
 ---
 title: "Ice Rink Sub-Floor Heating Systems"
+aliases: ["Ice Rink Sub-Floor Heating Systems"]
 weight: 4
 description: "Engineering analysis of sub-floor heating systems beneath ice rink slabs including frost heave prevention, ground temperature control, and energy recovery integration methods."
 keywords: ["sub-floor heating", "frost heave prevention", "ice rink foundation", "ground temperature control", "glycol heating loop", "electric heat tracing", "refrigeration heat recovery", "concrete slab protection"]
+tags: ["sub-floor heating", "frost heave prevention", "ice rink foundation", "ground temperature control", "glycol heating loop", "electric heat tracing", "refrigeration heat recovery", "concrete slab protection"]
 ---
 
 ## Overview

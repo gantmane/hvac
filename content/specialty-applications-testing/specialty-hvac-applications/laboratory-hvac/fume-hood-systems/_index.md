@@ -1,7 +1,9 @@
 ---
 title: "Fume Hood Systems: Design & Performance"
+aliases: ["Fume Hood Systems: Design & Performance"]
 description: "Engineering analysis of chemical fume hood systems including face velocity calculations, containment principles, bypass configurations, VAV control strategies, and ASHRAE 110 testing methods."
 keywords: ["fume hood systems", "chemical fume hoods", "face velocity control", "ASHRAE 110 testing", "bypass hoods", "VAV fume hoods", "hood containment", "ANSI Z9.5", "laboratory exhaust"]
+tags: ["fume hood systems", "chemical fume hoods", "face velocity control", "ASHRAE 110 testing", "bypass hoods", "VAV fume hoods", "hood containment", "ANSI Z9.5", "laboratory exhaust"]
 weight: 1
 ---
 

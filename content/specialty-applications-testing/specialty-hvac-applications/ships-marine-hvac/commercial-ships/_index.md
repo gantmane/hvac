@@ -1,7 +1,9 @@
 ---
 title: "Commercial Ship HVAC Systems"
+aliases: ["Commercial Ship HVAC Systems"]
 description: "Engineering guide to HVAC design for commercial vessels including cargo ships, tankers, and container ships with load calculations, regulatory compliance, and system selection."
 keywords: ["commercial ship HVAC", "cargo ship ventilation", "tanker air conditioning", "container ship climate control", "SOLAS HVAC requirements", "IMO ventilation standards", "marine load calculations", "ship HVAC design"]
+tags: ["commercial ship HVAC", "cargo ship ventilation", "tanker air conditioning", "container ship climate control", "SOLAS HVAC requirements", "IMO ventilation standards", "marine load calculations", "ship HVAC design"]
 weight: 3
 ---
 

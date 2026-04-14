@@ -1,7 +1,9 @@
 ---
 title: "Life Support Systems for Mine Refuge Chambers"
+aliases: ["Life Support Systems for Mine Refuge Chambers"]
 description: "Engineering analysis of oxygen supply, CO2 scrubbing, temperature control, and metabolic heat removal in underground mine refuge chambers per MSHA requirements."
 keywords: ["refuge chamber life support", "oxygen supply calculation", "CO2 scrubbing", "soda lime", "lithium hydroxide", "mine emergency systems", "metabolic heat load", "underground shelter"]
+tags: ["refuge chamber life support", "oxygen supply calculation", "CO2 scrubbing", "soda lime", "lithium hydroxide", "mine emergency systems", "metabolic heat load", "underground shelter"]
 weight: 2
 ---
 

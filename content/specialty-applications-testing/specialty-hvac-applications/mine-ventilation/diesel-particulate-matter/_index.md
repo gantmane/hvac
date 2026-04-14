@@ -1,5 +1,6 @@
 ---
 title: "Diesel Particulate Matter in Mine Ventilation"
+aliases: ["Diesel Particulate Matter in Mine Ventilation"]
 description: "Technical analysis of diesel particulate matter health hazards, control strategies, filtration systems, and MSHA regulatory compliance for underground mining operations."
 keywords:
   - diesel particulate matter

@@ -1,5 +1,6 @@
 ---
 title: "Beef"
+aliases: ["Beef"]
 weight: 1
 ---
 

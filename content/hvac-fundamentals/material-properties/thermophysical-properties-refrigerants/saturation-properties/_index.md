@@ -1,5 +1,6 @@
 ---
 title: "Saturation Properties"
+aliases: ["Saturation Properties"]
 description: "Comprehensive analysis of refrigerant saturation properties including temperature-pressure relationships, saturated liquid and vapor states, latent heat of vaporization, quality calculations, and property interpolation methods for HVAC system design and analysis."
 weight: 5
 ---

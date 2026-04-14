@@ -1,5 +1,6 @@
 ---
 title: "Sheet Numbering System"
+aliases: ["Sheet Numbering System"]
 weight: 1
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Industrial Process HVAC"
+aliases: ["Industrial Process HVAC"]
 weight: 5
 ---
 

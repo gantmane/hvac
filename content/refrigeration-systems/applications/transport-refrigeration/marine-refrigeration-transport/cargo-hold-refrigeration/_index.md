@@ -1,5 +1,6 @@
 ---
 title: "Cargo Hold Refrigeration"
+aliases: ["Cargo Hold Refrigeration"]
 weight: 2
 ---
 

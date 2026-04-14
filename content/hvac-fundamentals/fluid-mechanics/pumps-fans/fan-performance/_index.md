@@ -1,5 +1,6 @@
 ---
 title: "Fan Performance"
+aliases: ["Fan Performance"]
 description: "Comprehensive analysis of fan performance characteristics, fan laws, efficiency calculations, performance curve interpretation, and system matching for HVAC applications"
 weight: 4
 ---

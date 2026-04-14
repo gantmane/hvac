@@ -1,8 +1,10 @@
 ---
 title: "HVAC Ductwork Security in Correctional Facilities"
+aliases: ["HVAC Ductwork Security in Correctional Facilities"]
 weight: 2
 description: "Engineering standards for secure ductwork design in justice facilities including penetration prevention, bar reinforcement, and zone isolation to prevent escape and contraband transfer."
 keywords: ["ductwork security", "correctional HVAC", "duct bar reinforcement", "prison ventilation security", "contraband prevention", "escape prevention ductwork", "justice facility ductwork", "secure duct design"]
+tags: ["ductwork security", "correctional HVAC", "duct bar reinforcement", "prison ventilation security", "contraband prevention", "escape prevention ductwork", "justice facility ductwork", "secure duct design"]
 ---
 
 ## Overview

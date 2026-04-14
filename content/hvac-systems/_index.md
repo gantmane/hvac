@@ -1,7 +1,9 @@
 ---
 title: "HVAC Systems Architecture & Design Fundamentals"
+aliases: ["HVAC Systems Architecture & Design Fundamentals"]
 description: "Comprehensive analysis of HVAC system classifications, configurations, and selection criteria with thermodynamic performance metrics and engineering standards."
 keywords: ["hvac systems", "central hvac", "unitary systems", "all-air systems", "all-water systems", "air-water systems", "hvac system selection", "hvac design", "ASHRAE systems", "hvac configurations"]
+tags: ["hvac systems", "central hvac", "unitary systems", "all-air systems", "all-water systems", "air-water systems", "hvac system selection", "hvac design", "ASHRAE systems", "hvac configurations"]
 weight: 3
 ---
 

@@ -1,9 +1,11 @@
 ---
 title: "Microturbine CHP Systems"
+aliases: ["Microturbine CHP Systems"]
 description: "Engineering analysis of microturbine combined heat and power systems including Brayton cycle thermodynamics, recuperator design, single-shaft architecture, and distributed generation applications."
 date: 2026-01-11
 weight: 3
 keywords: ["microturbine CHP", "Brayton cycle", "recuperator design", "distributed generation", "low emissions turbine", "radial compressor", "permanent magnet generator", "high-speed turbine"]
+tags: ["microturbine CHP", "Brayton cycle", "recuperator design", "distributed generation", "low emissions turbine", "radial compressor", "permanent magnet generator", "high-speed turbine"]
 ---
 
 Microturbines represent compact gas turbine prime movers operating in the 30-500 kW capacity range, featuring single-shaft radial flow compressors and turbines rotating at extremely high speeds (50,000-120,000 rpm). These systems convert fuel energy to electrical power through the Brayton thermodynamic cycle while producing recoverable thermal energy from exhaust gases. The integration of recuperators, air bearings, and high-frequency permanent magnet generators distinguishes microturbines from conventional gas turbines and enables distributed generation applications where compact footprint, low emissions, and minimal maintenance requirements are essential.

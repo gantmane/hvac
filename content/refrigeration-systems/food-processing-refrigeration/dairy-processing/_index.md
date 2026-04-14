@@ -1,5 +1,6 @@
 ---
 title: "Dairy Processing Refrigeration"
+aliases: ["Dairy Processing Refrigeration"]
 description: "HVAC technical guidance for dairy processing refrigeration systems including milk cooling, cheese aging, butter production, ice cream hardening, sanitary design, temperature control, and energy efficiency for dairy manufacturing facilities."
 weight: 6
 ---

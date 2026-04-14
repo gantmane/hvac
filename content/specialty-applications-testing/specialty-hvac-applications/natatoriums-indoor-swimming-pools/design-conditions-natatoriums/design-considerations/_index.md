@@ -1,7 +1,9 @@
 ---
 title: "Natatorium Design Considerations"
+aliases: ["Natatorium Design Considerations"]
 description: "Integrated design approach for indoor pool HVAC systems addressing thermal stratification, moisture control, corrosion resistance, and zone-specific conditioning requirements."
 keywords: ["natatorium HVAC design", "pool deck temperature control", "spectator area conditioning", "moisture control envelope", "corrosion resistant ductwork", "indoor pool dehumidification", "thermal stratification pools", "natatorium maintenance access"]
+tags: ["natatorium HVAC design", "pool deck temperature control", "spectator area conditioning", "moisture control envelope", "corrosion resistant ductwork", "indoor pool dehumidification", "thermal stratification pools", "natatorium maintenance access"]
 weight: 3
 ---
 

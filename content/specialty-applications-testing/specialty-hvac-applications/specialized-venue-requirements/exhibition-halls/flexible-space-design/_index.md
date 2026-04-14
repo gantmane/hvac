@@ -1,7 +1,9 @@
 ---
 title: "Flexible Space Design for Exhibition Halls"
+aliases: ["Flexible Space Design for Exhibition Halls"]
 description: "Engineering adaptable HVAC systems for reconfigurable exhibition spaces with modular air distribution, floor-level supply strategies, and temporary utility connections."
 keywords: ["flexible HVAC design", "exhibition hall air distribution", "modular ventilation systems", "temporary utility connections", "high-bay conditioning", "floor-level supply", "adaptable ductwork", "exhibition booth utilities"]
+tags: ["flexible HVAC design", "exhibition hall air distribution", "modular ventilation systems", "temporary utility connections", "high-bay conditioning", "floor-level supply", "adaptable ductwork", "exhibition booth utilities"]
 weight: 1
 ---
 

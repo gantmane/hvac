@@ -1,7 +1,9 @@
 ---
 title: "Refrigerant Handling Procedures and Safety Protocols"
+aliases: ["Refrigerant Handling Procedures and Safety Protocols"]
 description: "Comprehensive guide to refrigerant handling, EPA 608 certification requirements, recovery procedures, safety classifications, and regulatory compliance per ASHRAE 15 standards."
 keywords: ["refrigerant handling", "EPA 608 certification", "refrigerant recovery", "ASHRAE 15", "refrigerant recycling", "refrigerant reclamation", "refrigerant safety", "HVAC regulations"]
+tags: ["refrigerant handling", "EPA 608 certification", "refrigerant recovery", "ASHRAE 15", "refrigerant recycling", "refrigerant reclamation", "refrigerant safety", "HVAC regulations"]
 weight: 2
 ---
 

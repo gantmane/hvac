@@ -1,7 +1,9 @@
 ---
 title: "Food Microbiology and Safety"
+aliases: ["Food Microbiology and Safety"]
 description: "Understanding food microbiology principles for refrigeration system design including pathogen control, temperature requirements, and food safety standards."
 keywords: ["food microbiology", "food safety", "refrigeration", "pathogen control", "HACCP", "cold chain", "temperature control"]
+tags: ["food microbiology", "food safety", "refrigeration", "pathogen control", "HACCP", "cold chain", "temperature control"]
 weight: 50
 ---
 

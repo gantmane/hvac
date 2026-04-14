@@ -1,7 +1,9 @@
 ---
 title: "Commercial Building Energy Consumption Patterns"
+aliases: ["Commercial Building Energy Consumption Patterns"]
 description: "Commercial sector energy use analysis including HVAC dominance, building type benchmarking, and EUI metrics from EIA CBECS data with energy distribution breakdowns."
 keywords: ["commercial energy use", "building energy benchmarking", "EUI metrics", "CBECS data", "HVAC energy consumption", "commercial sector analysis", "building type performance", "energy use intensity"]
+tags: ["commercial energy use", "building energy benchmarking", "EUI metrics", "CBECS data", "HVAC energy consumption", "commercial sector analysis", "building type performance", "energy use intensity"]
 weight: 2
 ---
 

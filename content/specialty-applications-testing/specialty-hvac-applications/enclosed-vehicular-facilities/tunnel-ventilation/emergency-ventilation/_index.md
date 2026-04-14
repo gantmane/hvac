@@ -1,7 +1,9 @@
 ---
 title: "Emergency Ventilation for Tunnel Fire Safety"
+aliases: ["Emergency Ventilation for Tunnel Fire Safety"]
 description: "Critical velocity calculations, smoke control strategies, longitudinal vs transverse systems for tunnel fire emergencies with NFPA 502 compliance and egress protection."
 keywords: ["tunnel emergency ventilation", "critical velocity", "smoke control", "NFPA 502", "tunnel fire safety", "longitudinal ventilation", "transverse ventilation", "egress path protection"]
+tags: ["tunnel emergency ventilation", "critical velocity", "smoke control", "NFPA 502", "tunnel fire safety", "longitudinal ventilation", "transverse ventilation", "egress path protection"]
 date: 2025-01-11
 draft: false
 ---

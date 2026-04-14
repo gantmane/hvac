@@ -1,5 +1,6 @@
 ---
 title: "Material Properties"
+aliases: ["Material Properties"]
 description: "Comprehensive thermophysical and material properties for HVAC engineering including refrigerants, secondary coolants, building materials, and transport properties essential for system design and analysis."
 weight: 5
 ---

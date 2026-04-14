@@ -1,7 +1,9 @@
 ---
 title: "Gymnasium and Natatorium HVAC Systems"
+aliases: ["Gymnasium and Natatorium HVAC Systems"]
 description: "Technical design strategies for gymnasium and natatorium HVAC including high-ceiling ventilation, variable occupancy control, spectator area conditioning, and pool dehumidification integration."
 keywords: ["gymnasium HVAC", "natatorium dehumidification", "high ceiling ventilation", "variable occupancy HVAC", "pool dehumidification", "spectator area conditioning", "stratification control", "ASHRAE 62.1", "indoor pool HVAC"]
+tags: ["gymnasium HVAC", "natatorium dehumidification", "high ceiling ventilation", "variable occupancy HVAC", "pool dehumidification", "spectator area conditioning", "stratification control", "ASHRAE 62.1", "indoor pool HVAC"]
 weight: 7
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Slab Reinforcement for Snow Melting Systems"
+aliases: ["Slab Reinforcement for Snow Melting Systems"]
 seo_title: "Snow Melt Slab Reinforcement Design & Thermal Stress"
 description: "Engineering guide to reinforcement design for heated concrete slabs: thermal stress analysis, placement strategies, rebar vs mesh specifications, andcover requirements."
 keywords: ["slab reinforcement", "heated concrete", "thermal stress", "rebar placement", "welded wire mesh", "concrete cracking", "snow melting slab", "reinforcement cover"]
+tags: ["slab reinforcement", "heated concrete", "thermal stress", "rebar placement", "welded wire mesh", "concrete cracking", "snow melting slab", "reinforcement cover"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Thermal Bridging"
+aliases: ["Thermal Bridging"]
 weight: 2
 ---
 

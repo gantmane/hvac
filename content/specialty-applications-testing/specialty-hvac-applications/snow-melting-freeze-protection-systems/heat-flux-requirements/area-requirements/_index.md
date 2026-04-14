@@ -1,8 +1,10 @@
 ---
 title: "Snow Melting Area Requirements & Calculations"
+aliases: ["Snow Melting Area Requirements & Calculations"]
 seo_title: "Snow Melting Area Requirements | HVAC Design Guide"
 description: "Technical analysis of snow melting area requirements including slab area calculations, edge zone heat losses, free area ratios, and area classification per ASHRAE standards."
 keywords: ["snow melting area", "slab area calculation", "edge zone heat loss", "free area ratio", "snow melting design", "ASHRAE area classification", "heated slab sizing", "perimeter heat loss"]
+tags: ["snow melting area", "slab area calculation", "edge zone heat loss", "free area ratio", "snow melting design", "ASHRAE area classification", "heated slab sizing", "perimeter heat loss"]
 weight: 5
 ---
 

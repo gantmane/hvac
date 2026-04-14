@@ -1,5 +1,6 @@
 ---
 title: "Thermophysical Properties Refrigerants"
+aliases: ["Thermophysical Properties Refrigerants"]
 description: "Comprehensive thermophysical and transport properties of refrigerants including saturation data, P-h diagrams, T-s diagrams, equations of state, and property tables for refrigeration cycle analysis and system design."
 weight: 1
 ---

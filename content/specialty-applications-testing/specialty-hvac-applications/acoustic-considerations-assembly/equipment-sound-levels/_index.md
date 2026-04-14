@@ -1,5 +1,6 @@
 ---
 title: "Equipment Sound Levels in Assembly Spaces"
+aliases: ["Equipment Sound Levels in Assembly Spaces"]
 description: "Technical analysis of HVAC equipment sound power levels for assembly spaces including AHUs, chillers, pumps, and cooling towers with measurement standards."
 date: 2026-01-11
 tags: ["equipment sound levels", "sound power", "AHU acoustics", "chiller noise", "cooling tower sound", "pump noise", "AMCA standards", "assembly spaces"]

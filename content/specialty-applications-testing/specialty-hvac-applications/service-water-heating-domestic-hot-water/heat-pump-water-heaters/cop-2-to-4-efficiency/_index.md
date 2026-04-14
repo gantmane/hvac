@@ -1,7 +1,9 @@
 ---
 title: "Heat Pump Water Heater COP 2-4 Efficiency Range"
+aliases: ["Heat Pump Water Heater COP 2-4 Efficiency Range"]
 description: "Technical analysis of heat pump water heater coefficient of performance from 2.0 to 4.0, including Carnot efficiency limits, UEF ratings, and real-world performance factors."
 keywords: ["heat pump water heater COP", "coefficient of performance", "HPWH efficiency", "UEF ratings", "energy factor", "Carnot efficiency", "domestic hot water efficiency", "heat pump COP calculation"]
+tags: ["heat pump water heater COP", "coefficient of performance", "HPWH efficiency", "UEF ratings", "energy factor", "Carnot efficiency", "domestic hot water efficiency", "heat pump COP calculation"]
 weight: 1
 ---
 

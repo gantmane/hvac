@@ -1,5 +1,6 @@
 ---
 title: "Aircraft Bleed Air Systems"
+aliases: ["Aircraft Bleed Air Systems"]
 description: "Comprehensive technical analysis of aircraft bleed air systems including engine extraction physics, APU bleed, distribution networks, contamination concerns, and bleedless electric architecture trends."
 keywords:
   - aircraft bleed air systems

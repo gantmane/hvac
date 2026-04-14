@@ -1,5 +1,6 @@
 ---
 title: "Water Density"
+aliases: ["Water Density"]
 description: "Comprehensive analysis of water density variation with temperature, including maximum density at 4°C, thermal expansion characteristics, and critical design implications for HVAC hydronic systems"
 weight: 1
 ---

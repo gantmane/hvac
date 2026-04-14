@@ -1,5 +1,6 @@
 ---
 title: "Batch Blast Freezers"
+aliases: ["Batch Blast Freezers"]
 description: "Technical design and operation of batch blast freezer systems including room configuration, air distribution, cart loading systems, refrigeration capacity calculations, and defrost cycle management for commercial food processing."
 weight: 1
 ---

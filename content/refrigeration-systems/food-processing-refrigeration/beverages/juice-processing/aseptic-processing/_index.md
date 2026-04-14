@@ -1,5 +1,6 @@
 ---
 title: "Aseptic Processing HVAC Systems"
+aliases: ["Aseptic Processing HVAC Systems"]
 description: "Advanced HVAC design for aseptic juice processing facilities including cleanroom classification, sterile zone air handling, post-UHT cooling systems, and aseptic storage tank refrigeration for extended shelf-life beverages."
 weight: 2
 ---

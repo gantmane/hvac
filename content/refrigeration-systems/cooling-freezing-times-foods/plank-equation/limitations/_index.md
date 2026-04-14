@@ -1,5 +1,6 @@
 ---
 title: "Limitations"
+aliases: ["Limitations"]
 weight: 3
 ---
 

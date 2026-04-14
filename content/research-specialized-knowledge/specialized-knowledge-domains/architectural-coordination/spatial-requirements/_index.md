@@ -1,5 +1,6 @@
 ---
 title: "Spatial Requirements"
+aliases: ["Spatial Requirements"]
 weight: 1
 ---
 

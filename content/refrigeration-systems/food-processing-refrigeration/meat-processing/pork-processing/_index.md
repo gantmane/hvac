@@ -1,5 +1,6 @@
 ---
 title: "Pork Processing Refrigeration Systems"
+aliases: ["Pork Processing Refrigeration Systems"]
 description: "Engineering principles for pork processing refrigeration including chilling rates, temperature control, heat load calculations, and system design per ASHRAE standards."
 weight: 3
 ---

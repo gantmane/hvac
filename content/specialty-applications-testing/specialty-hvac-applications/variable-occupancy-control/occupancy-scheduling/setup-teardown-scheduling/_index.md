@@ -1,8 +1,10 @@
 ---
 title: "Setup Teardown Scheduling"
+aliases: ["Setup Teardown Scheduling"]
 seo_title: "HVAC Setup & Teardown Scheduling for Variable Occupancy"
 description: "Technical guide to HVAC conditioning strategies during setup and teardown periods, including reduced load calculations, worker occupancy conditioning, and equipment staging."
 keywords: ["setup teardown HVAC", "reduced conditioning", "worker occupancy loads", "equipment staging", "transition HVAC", "load-in conditioning", "event space HVAC", "setup cooling"]
+tags: ["setup teardown HVAC", "reduced conditioning", "worker occupancy loads", "equipment staging", "transition HVAC", "load-in conditioning", "event space HVAC", "setup cooling"]
 weight: 3
 ---
 

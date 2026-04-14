@@ -1,5 +1,6 @@
 ---
 title: "Thermochemical Storage"
+aliases: ["Thermochemical Storage"]
 weight: 3
 ---
 

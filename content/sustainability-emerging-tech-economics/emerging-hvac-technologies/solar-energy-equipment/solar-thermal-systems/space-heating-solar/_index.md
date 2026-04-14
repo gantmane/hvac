@@ -1,5 +1,6 @@
 ---
 title: "Solar Space Heating Systems"
+aliases: ["Solar Space Heating Systems"]
 description: "Comprehensive analysis of active and passive solar heating systems, collector performance, thermal storage integration, and design methodologies for HVAC applications."
 date: 2025-01-05
 weight: 2

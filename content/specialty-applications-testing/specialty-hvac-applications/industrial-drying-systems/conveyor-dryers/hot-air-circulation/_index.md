@@ -1,8 +1,10 @@
 ---
 title: "Hot Air Circulation in Conveyor Dryers"
+aliases: ["Hot Air Circulation in Conveyor Dryers"]
 seo_title: "Hot Air Circulation Systems for Conveyor Dryers"
 description: "Technical analysis of hot air circulation in industrial conveyor dryers including airflow distribution, temperature control, and physics-based design principles."
 keywords: ["conveyor dryer circulation", "hot air distribution", "industrial drying airflow", "through-flow drying", "cross-flow dryer", "recirculation efficiency", "drying air velocity", "conveyor dryer design"]
+tags: ["conveyor dryer circulation", "hot air distribution", "industrial drying airflow", "through-flow drying", "cross-flow dryer", "recirculation efficiency", "drying air velocity", "conveyor dryer design"]
 weight: 4
 ---
 

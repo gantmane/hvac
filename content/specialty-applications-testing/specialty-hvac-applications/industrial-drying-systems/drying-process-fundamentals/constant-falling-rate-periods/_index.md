@@ -1,8 +1,10 @@
 ---
 title: "Constant and Falling Rate Drying Periods Explained"
+aliases: ["Constant and Falling Rate Drying Periods Explained"]
 seo_title: "Constant & Falling Rate Drying Periods | HVAC Theory"
 description: "Master drying kinetics fundamentals: constant rate period governed by convective heat transfer, falling rate period controlled by internal diffusion, critical moisture content transitions."
 keywords: ["constant rate drying", "falling rate drying", "critical moisture content", "drying kinetics", "moisture diffusion", "evaporation rate", "psychrometrics", "mass transfer"]
+tags: ["constant rate drying", "falling rate drying", "critical moisture content", "drying kinetics", "moisture diffusion", "evaporation rate", "psychrometrics", "mass transfer"]
 weight: 3
 ---
 

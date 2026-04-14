@@ -1,5 +1,6 @@
 ---
 title: "Seismic Snubbers for HVAC Equipment"
+aliases: ["Seismic Snubbers for HVAC Equipment"]
 description: "Engineering principles for seismic snubbers in HVAC applications including capacity calculations, directional characteristics, and coordination with vibration isolation."
 date: 2025-01-05
 weight: 3

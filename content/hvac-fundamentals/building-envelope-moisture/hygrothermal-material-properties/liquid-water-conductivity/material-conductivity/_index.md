@@ -1,5 +1,6 @@
 ---
 title: "Material Conductivity"
+aliases: ["Material Conductivity"]
 description: "Liquid water transport coefficients and capillary conductivity relationships for porous building materials including measurement methods, moisture-dependent properties, and hygrothermal modeling parameters"
 weight: 2
 ---

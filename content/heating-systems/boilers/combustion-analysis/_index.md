@@ -1,7 +1,9 @@
 ---
 title: "Combustion Analysis"
+aliases: ["Combustion Analysis"]
 description: "Comprehensive guide to boiler combustion analysis including flue gas measurement, efficiency calculations, excess air optimization, and tuning procedures for peak performance."
 keywords: ["combustion analysis", "flue gas analysis", "combustion efficiency", "excess air", "stack temperature", "draft measurement", "O2 analysis", "CO2 measurement", "boiler tuning"]
+tags: ["combustion analysis", "flue gas analysis", "combustion efficiency", "excess air", "stack temperature", "draft measurement", "O2 analysis", "CO2 measurement", "boiler tuning"]
 weight: 6
 ---
 

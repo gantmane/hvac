@@ -1,5 +1,6 @@
 ---
 title: "Isolation Valves"
+aliases: ["Isolation Valves"]
 weight: 3
 ---
 

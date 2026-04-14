@@ -1,7 +1,9 @@
 ---
 title: "Warm-Up Requirements for High-Occupancy Spaces"
+aliases: ["Warm-Up Requirements for High-Occupancy Spaces"]
 description: "Engineering guidance for sizing warm-up capacity, calculating thermal mass effects, and optimizing pre-occupancy conditioning in assembly venues and stadiums."
 keywords: ["warm-up capacity", "pre-occupancy heating", "thermal mass", "morning startup", "recovery load", "assembly space heating", "stadium warm-up", "heating capacity ratio"]
+tags: ["warm-up capacity", "pre-occupancy heating", "thermal mass", "morning startup", "recovery load", "assembly space heating", "stadium warm-up", "heating capacity ratio"]
 weight: 2
 ---
 

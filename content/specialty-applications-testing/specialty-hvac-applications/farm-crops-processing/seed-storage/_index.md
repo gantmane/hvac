@@ -1,8 +1,10 @@
 ---
 title: "Seed Storage Climate Control Systems"
+aliases: ["Seed Storage Climate Control Systems"]
 seo_title: "HVAC for Seed Storage: Design & Control Systems"
 description: "Engineering guide to HVAC systems for seed storage facilities covering equilibrium moisture content, psychrometric control, and preservation of seed viability through temperature and humidity management."
 keywords: ["seed storage HVAC", "equilibrium moisture content", "seed viability", "dehumidification systems", "agricultural storage", "psychrometric control", "seed preservation", "humidity control"]
+tags: ["seed storage HVAC", "equilibrium moisture content", "seed viability", "dehumidification systems", "agricultural storage", "psychrometric control", "seed preservation", "humidity control"]
 weight: 1
 ---
 

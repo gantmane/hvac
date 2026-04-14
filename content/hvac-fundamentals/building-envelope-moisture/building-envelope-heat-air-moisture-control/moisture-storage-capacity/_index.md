@@ -1,5 +1,6 @@
 ---
 title: "Moisture Storage Capacity"
+aliases: ["Moisture Storage Capacity"]
 description: "Technical analysis of moisture storage capacity in building materials including hygroscopic and capillary storage mechanisms, sorption isotherms, moisture buffering effects, and hygrothermal simulation parameters for WUFI modeling."
 weight: 5
 ---

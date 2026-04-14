@@ -1,5 +1,6 @@
 ---
 title: "Indian HVAC Standards and Practices"
+aliases: ["Indian HVAC Standards and Practices"]
 description: "Technical analysis of Indian HVAC standards, Bureau of Energy Efficiency regulations, climate zone classifications, and code requirements for tropical applications."
 date: 2025-01-05
 tags: ["indian standards", "BEE", "NBC", "tropical climate", "energy efficiency", "international codes"]

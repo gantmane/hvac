@@ -1,5 +1,6 @@
 ---
 title: "Cold Chain Air Freight"
+aliases: ["Cold Chain Air Freight"]
 weight: 5
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Ethylene Scrubbing in Controlled Atmosphere Storage"
+aliases: ["Ethylene Scrubbing in Controlled Atmosphere Storage"]
 description: "Ethylene removal technologies for controlled atmosphere storage including catalytic oxidation, permanganate adsorption, and UV photocatalytic systems."
 keywords: ["ethylene scrubbing", "controlled atmosphere storage", "catalytic oxidation", "potassium permanganate", "UV photocatalytic", "fruit ripening control", "CA storage", "ethylene removal"]
+tags: ["ethylene scrubbing", "controlled atmosphere storage", "catalytic oxidation", "potassium permanganate", "UV photocatalytic", "fruit ripening control", "CA storage", "ethylene removal"]
 date: 2025-01-11
 draft: false
 weight: 4

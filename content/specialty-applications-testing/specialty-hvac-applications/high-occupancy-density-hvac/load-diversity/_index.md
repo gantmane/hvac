@@ -1,7 +1,9 @@
 ---
 title: "Load Diversity in High-Occupancy HVAC Systems"
+aliases: ["Load Diversity in High-Occupancy HVAC Systems"]
 description: "Engineering principles for applying diversity factors to optimize HVAC equipment sizing in high-density assembly spaces through non-coincident load analysis."
 keywords: ["load diversity", "diversity factor", "non-coincident loads", "HVAC sizing optimization", "assembly occupancy", "peak load calculation", "simultaneous load factor", "equipment capacity"]
+tags: ["load diversity", "diversity factor", "non-coincident loads", "HVAC sizing optimization", "assembly occupancy", "peak load calculation", "simultaneous load factor", "equipment capacity"]
 weight: 5
 ---
 

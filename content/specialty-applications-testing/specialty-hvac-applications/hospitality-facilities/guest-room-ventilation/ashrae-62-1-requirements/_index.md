@@ -1,9 +1,11 @@
 ---
 title: "ASHRAE 62.1 Requirements for Hotel Ventilation"
+aliases: ["ASHRAE 62.1 Requirements for Hotel Ventilation"]
 description: "Comprehensive overview of ASHRAE 62.1 outdoor air requirements for hotel guest rooms, corridors, lobbies, and common areas with ventilation efficiency calculations."
 date: 2026-01-11
 weight: 1
 keywords: ["ASHRAE 62.1", "hotel ventilation", "guest room outdoor air", "corridor ventilation", "system ventilation efficiency", "demand controlled ventilation", "hotel IAQ", "commissioning"]
+tags: ["ASHRAE 62.1", "hotel ventilation", "guest room outdoor air", "corridor ventilation", "system ventilation efficiency", "demand controlled ventilation", "hotel IAQ", "commissioning"]
 ---
 
 ASHRAE Standard 62.1, *Ventilation for Acceptable Indoor Air Quality*, establishes minimum ventilation requirements for hotel facilities to ensure occupant health, comfort, and acceptable indoor air quality. Hotel designers and operators must understand these requirements to achieve compliant, energy-efficient ventilation systems.

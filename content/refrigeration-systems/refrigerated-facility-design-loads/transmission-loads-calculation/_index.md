@@ -1,5 +1,6 @@
 ---
 title: "Transmission Loads Calculation"
+aliases: ["Transmission Loads Calculation"]
 description: "Comprehensive methods for calculating heat transmission loads through refrigerated facility envelopes including wall, ceiling, and floor U-values, insulation R-values, thermal bridging effects, ground contact considerations, and adjacent space temperature differences"
 weight: 3
 ---

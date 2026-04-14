@@ -1,7 +1,9 @@
 ---
 title: "Ventilation Rates for Indoor Pool Facilities"
+aliases: ["Ventilation Rates for Indoor Pool Facilities"]
 description: "Technical analysis of natatorium ventilation requirements including chloramine control, outdoor air rates, exhaust strategies, and energy-efficient pressurization methods."
 keywords: ["natatorium ventilation", "indoor pool air quality", "chloramine removal", "pool deck exhaust", "ASHRAE 62.1", "pool dehumidification", "negative pressure control", "outdoor air requirements"]
+tags: ["natatorium ventilation", "indoor pool air quality", "chloramine removal", "pool deck exhaust", "ASHRAE 62.1", "pool dehumidification", "negative pressure control", "outdoor air requirements"]
 weight: 11
 ---
 

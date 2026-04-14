@@ -1,5 +1,6 @@
 ---
 title: "Pork Chilling Systems: Design and Thermodynamics"
+aliases: ["Pork Chilling Systems: Design and Thermodynamics"]
 description: "Engineering guide to pork chilling refrigeration systems covering blast chilling, spray chilling, and thermal load calculations for meat processing facilities."
 date: 2025-01-05
 tags: ["pork processing", "meat chilling", "food refrigeration", "blast chilling", "USDA regulations"]

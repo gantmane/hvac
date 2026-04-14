@@ -1,8 +1,10 @@
 ---
 title: "ISO Standards for HVAC Systems and Applications"
+aliases: ["ISO Standards for HVAC Systems and Applications"]
 weight: 7
 description: "Comprehensive guide to International Organization for Standardization (ISO) standards for HVAC including ISO 16890 filtration testing, ISO 14644 cleanroom classifications, ISO 7730 thermal comfort criteria, harmonization with ASHRAE standards, and global compliance requirements."
 keywords: "ISO standards HVAC, ISO 16890, ISO 14644 cleanroom, ISO 7730 thermal comfort, air filter testing, international HVAC standards, ASHRAE ISO harmonization, ePM filtration ratings"
+tags: ["ISO standards HVAC", "ISO 16890", "ISO 14644 cleanroom", "ISO 7730 thermal comfort", "air filter testing", "international HVAC standards", "ASHRAE ISO harmonization", "ePM filtration ratings"]
 ---
 
 # ISO Standards for HVAC Systems and Applications

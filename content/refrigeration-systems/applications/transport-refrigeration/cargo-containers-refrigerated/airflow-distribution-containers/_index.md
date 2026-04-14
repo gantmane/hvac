@@ -1,5 +1,6 @@
 ---
 title: "Airflow Distribution Containers"
+aliases: ["Airflow Distribution Containers"]
 weight: 5
 ---
 

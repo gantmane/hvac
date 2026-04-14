@@ -1,5 +1,6 @@
 ---
 title: "Vapor Retarder Exterior"
+aliases: ["Vapor Retarder Exterior"]
 description: "Exterior vapor retarder placement and design for hot-humid climate building assemblies to prevent air conditioning-induced condensation and control inward vapor drive"
 weight: 1
 ---

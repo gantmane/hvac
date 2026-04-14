@@ -1,5 +1,6 @@
 ---
 title: "Cold Climate Roof Systems"
+aliases: ["Cold Climate Roof Systems"]
 description: "Comprehensive moisture control strategies for roof assemblies in cold climates, including vapor management, ventilation design, thermal performance, and ice dam prevention through proper HVAC integration"
 weight: 4
 ---

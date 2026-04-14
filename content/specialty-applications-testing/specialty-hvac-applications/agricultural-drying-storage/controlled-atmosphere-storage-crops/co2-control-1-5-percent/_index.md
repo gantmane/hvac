@@ -1,7 +1,9 @@
 ---
 title: "CO2 Control in Controlled Atmosphere Storage Systems"
+aliases: ["CO2 Control in Controlled Atmosphere Storage Systems"]
 description: "CO2 management in CA storage through scrubbing systems, monitoring, and control strategies. Covers accumulation dynamics, optimal levels, and injury thresholds."
 keywords: ["CO2 control", "controlled atmosphere storage", "carbon dioxide scrubbing", "produce respiration", "CA storage", "CO2 injury", "gas scrubbing systems", "agricultural storage"]
+tags: ["CO2 control", "controlled atmosphere storage", "carbon dioxide scrubbing", "produce respiration", "CA storage", "CO2 injury", "gas scrubbing systems", "agricultural storage"]
 date: 2025-01-11
 draft: false
 weight: 3

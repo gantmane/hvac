@@ -1,5 +1,6 @@
 ---
 title: "Dimensional Analysis"
+aliases: ["Dimensional Analysis"]
 description: "Dimensional analysis principles, Buckingham Pi theorem, dimensionless numbers (Reynolds, Nusselt, Prandtl), and similarity theory for HVAC system modeling and design"
 weight: 5
 ---

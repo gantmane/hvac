@@ -1,5 +1,6 @@
 ---
 title: "Demand Controlled Ventilation in Classrooms"
+aliases: ["Demand Controlled Ventilation in Classrooms"]
 description: "Technical analysis of CO2-based demand controlled ventilation for educational facilities including sensor placement, control algorithms, and energy savings quantification per ASHRAE 62.1 standards."
 keywords:
   - demand controlled ventilation

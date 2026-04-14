@@ -1,7 +1,9 @@
 ---
 title: "HVAC Design for Domed Stadiums"
+aliases: ["HVAC Design for Domed Stadiums"]
 description: "Engineering large-volume air conditioning for enclosed stadiums with 50,000+ seats. Air stratification control, field conditioning, spectator comfort zones, and turf management."
 keywords: ["domed stadium HVAC", "large volume air conditioning", "air stratification control", "stadium air distribution", "playing field climate", "enclosed venue ventilation", "sports facility HVAC"]
+tags: ["domed stadium HVAC", "large volume air conditioning", "air stratification control", "stadium air distribution", "playing field climate", "enclosed venue ventilation", "sports facility HVAC"]
 weight: 2
 ---
 

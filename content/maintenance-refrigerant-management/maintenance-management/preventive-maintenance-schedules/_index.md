@@ -1,7 +1,9 @@
 ---
 title: "HVAC Preventive Maintenance Schedules & Checklists"
+aliases: ["HVAC Preventive Maintenance Schedules & Checklists"]
 description: "Complete preventive maintenance schedules for AHUs, chillers, boilers, and cooling towers. Includes daily, weekly, monthly, quarterly, and annual inspection checklists."
 keywords: ["preventive maintenance", "HVAC maintenance schedule", "equipment checklist", "AHU maintenance", "chiller maintenance", "boiler maintenance", "cooling tower maintenance", "PM intervals"]
+tags: ["preventive maintenance", "HVAC maintenance schedule", "equipment checklist", "AHU maintenance", "chiller maintenance", "boiler maintenance", "cooling tower maintenance", "PM intervals"]
 weight: 1
 ---
 

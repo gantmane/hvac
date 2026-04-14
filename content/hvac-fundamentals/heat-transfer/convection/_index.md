@@ -1,5 +1,6 @@
 ---
 title: "Convection"
+aliases: ["Convection"]
 description: "Convection heat transfer fundamentals including Newton's Law of Cooling, heat transfer coefficients, dimensionless numbers, and HVAC applications in coils and heat exchangers."
 weight: 2
 ---

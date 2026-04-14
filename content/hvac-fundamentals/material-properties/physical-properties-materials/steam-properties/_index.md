@@ -1,5 +1,6 @@
 ---
 title: "Steam Properties"
+aliases: ["Steam Properties"]
 description: "Thermodynamic properties of steam including saturation relationships, enthalpy, specific volume, steam quality, and superheat conditions for HVAC heating system design"
 weight: 8
 ---

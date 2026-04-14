@@ -1,7 +1,9 @@
 ---
 title: "Temperature Control for Legionella Prevention"
+aliases: ["Temperature Control for Legionella Prevention"]
 description: "Technical guide to domestic hot water temperature control strategies for Legionella prevention, including storage temperatures, thermal disinfection protocols, and thermostatic mixing valves."
 keywords: ["Legionella prevention", "hot water temperature control", "thermal disinfection", "thermostatic mixing valve", "ASHRAE 188", "domestic hot water safety", "scalding prevention", "water heater temperature"]
+tags: ["Legionella prevention", "hot water temperature control", "thermal disinfection", "thermostatic mixing valve", "ASHRAE 188", "domestic hot water safety", "scalding prevention", "water heater temperature"]
 weight: 1
 ---
 

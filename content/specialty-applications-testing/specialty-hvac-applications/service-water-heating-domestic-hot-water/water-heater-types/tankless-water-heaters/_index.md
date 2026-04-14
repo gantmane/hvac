@@ -1,8 +1,10 @@
 ---
 title: "Tankless Water Heaters: On-Demand Technology"
+aliases: ["Tankless Water Heaters: On-Demand Technology"]
 weight: 2
 description: "Comprehensive guide to tankless water heater technology, sizing calculations, energy efficiency analysis, and application-specific design considerations for residential and commercial systems."
 keywords: ["tankless water heater", "on-demand water heating", "condensing water heater", "flow rate sizing", "temperature rise calculation", "instantaneous water heater", "gas vs electric tankless", "ASHRAE 118.2"]
+tags: ["tankless water heater", "on-demand water heating", "condensing water heater", "flow rate sizing", "temperature rise calculation", "instantaneous water heater", "gas vs electric tankless", "ASHRAE 118.2"]
 ---
 
 # Tankless Water Heaters

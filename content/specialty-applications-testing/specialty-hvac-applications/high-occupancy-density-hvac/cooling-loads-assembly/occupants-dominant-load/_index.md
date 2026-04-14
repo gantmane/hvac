@@ -1,8 +1,10 @@
 ---
 title: "Occupants as Dominant Load in High-Density Spaces"
+aliases: ["Occupants as Dominant Load in High-Density Spaces"]
 seo_title: "Occupant-Dominant Cooling Loads in High-Density HVAC"
 description: "Engineering analysis of occupant heat gains as primary cooling loads in assembly spaces. Covers sensible and latent load calculations, diversity factors, and system sizing."
 keywords: ["occupant cooling load", "sensible heat gain", "latent heat gain", "assembly space HVAC", "high-density occupancy", "load diversity factor", "peak cooling demand", "occupant metabolic heat"]
+tags: ["occupant cooling load", "sensible heat gain", "latent heat gain", "assembly space HVAC", "high-density occupancy", "load diversity factor", "peak cooling demand", "occupant metabolic heat"]
 weight: 1
 ---
 

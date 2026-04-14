@@ -1,5 +1,6 @@
 ---
 title: "Duct Fittings"
+aliases: ["Duct Fittings"]
 weight: 4
 ---
 

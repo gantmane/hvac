@@ -1,5 +1,6 @@
 ---
 title: "Smoke Control Systems"
+aliases: ["Smoke Control Systems"]
 weight: 1
 ---
 

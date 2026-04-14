@@ -1,7 +1,9 @@
 ---
 title: "Physical Security Barriers and HVAC Integration"
+aliases: ["Physical Security Barriers and HVAC Integration"]
 description: "Engineering guidance for integrating HVAC systems with physical security barriers including mantraps, secured duct penetrations, and airflow management in high-security spaces."
 keywords: ["mantrap airlock HVAC", "secured duct penetrations", "security barrier airflow", "duct bar reinforcement", "physical security HVAC", "access control HVAC", "security grilles", "penetration security"]
+tags: ["mantrap airlock HVAC", "secured duct penetrations", "security barrier airflow", "duct bar reinforcement", "physical security HVAC", "access control HVAC", "security grilles", "penetration security"]
 weight: 3
 ---
 

@@ -1,9 +1,11 @@
 ---
 title: "Hazard Communication in HVAC Operations"
+aliases: ["Hazard Communication in HVAC Operations"]
 linkTitle: "Hazard Communication"
 weight: 7
 description: "OSHA HazCom Standard 29 CFR 1910.1200 requirements for HVAC technicians, including SDS management, GHS labeling, chemical hazards for refrigerants, solvents, and brazing materials."
 keywords: ["hazard communication", "OSHA HazCom", "safety data sheets", "GHS labeling", "refrigerant safety", "HVAC chemical hazards", "SDS management", "workplace chemical safety"]
+tags: ["hazard communication", "OSHA HazCom", "safety data sheets", "GHS labeling", "refrigerant safety", "HVAC chemical hazards", "SDS management", "workplace chemical safety"]
 ---
 
 OSHA's Hazard Communication Standard (HazCom 2012, 29 CFR 1910.1200) mandates that employers provide information about hazardous chemicals used in HVAC operations. This "right to know" standard requires a comprehensive program addressing chemical identification, hazard assessment, protective measures, and emergency response for all chemicals present in the workplace.

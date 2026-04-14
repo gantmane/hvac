@@ -1,5 +1,6 @@
 ---
 title: "WELL Accredited Professional (WELL AP) Certification"
+aliases: ["WELL Accredited Professional (WELL AP) Certification"]
 description: "WELL AP certification integrates human health with HVAC design through indoor air quality, thermal comfort, and ventilation standards aligned with ASHRAE."
 date: 2025-01-05
 tags: ["WELL AP", "green building", "indoor air quality", "thermal comfort", "ventilation", "building certification", "health and wellness", "ASHRAE"]

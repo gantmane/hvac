@@ -1,9 +1,11 @@
 ---
 title: "HVAC Continuing Education: PDHs, CEUs & Training"
+aliases: ["HVAC Continuing Education: PDHs, CEUs & Training"]
 description: "Comprehensive guide to HVAC continuing education requirements, professional development hours, CEUs, and certification maintenance for engineers and technicians."
 date: 2025-01-05
 weight: 2
 keywords: ["HVAC continuing education", "professional development hours", "CEU requirements", "PE license renewal", "ASHRAE learning", "certification maintenance", "HVAC training programs", "engineering education"]
+tags: ["HVAC continuing education", "professional development hours", "CEU requirements", "PE license renewal", "ASHRAE learning", "certification maintenance", "HVAC training programs", "engineering education"]
 ---
 
 # HVAC Continuing Education

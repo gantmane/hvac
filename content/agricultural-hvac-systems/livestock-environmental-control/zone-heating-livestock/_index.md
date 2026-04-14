@@ -1,5 +1,6 @@
 ---
 title: "Zone Heating for Livestock"
+aliases: ["Zone Heating for Livestock"]
 description: "Design principles for zone heating systems in agricultural facilities including radiant spot heaters, infrared heating systems, microclimate enclosures, and targeted heating for farrowing crates, brooder areas, and creep zones."
 weight: 2
 ---

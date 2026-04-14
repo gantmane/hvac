@@ -1,10 +1,12 @@
 ---
 title: "NFPA Standards for HVAC Systems"
+aliases: ["NFPA Standards for HVAC Systems"]
 linkTitle: "NFPA Standards"
 weight: 3
 date: 2026-01-04
 description: "Comprehensive overview of National Fire Protection Association (NFPA) standards for HVAC systems, including fire protection principles, life safety requirements, and code compliance for air conditioning, ventilation, and commercial cooking equipment."
 keywords: ["NFPA standards", "fire protection HVAC", "NFPA 90A", "NFPA 90B", "NFPA 96", "fire dampers", "smoke control", "commercial kitchen ventilation", "life safety codes", "fire-rated assemblies"]
+tags: ["NFPA standards", "fire protection HVAC", "NFPA 90A", "NFPA 90B", "NFPA 96", "fire dampers", "smoke control", "commercial kitchen ventilation", "life safety codes", "fire-rated assemblies"]
 ---
 
 ## Introduction to NFPA Standards

@@ -1,5 +1,6 @@
 ---
 title: "Southeast Asian HVAC Practices and Climate Challenges"
+aliases: ["Southeast Asian HVAC Practices and Climate Challenges"]
 description: "Technical analysis of tropical HVAC design, high humidity control, regional standards in ASEAN nations, cooling-dominated systems, and energy efficiency strategies."
 date: 2025-01-05
 weight: 3

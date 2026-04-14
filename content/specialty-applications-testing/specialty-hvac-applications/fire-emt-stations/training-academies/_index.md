@@ -1,7 +1,9 @@
 ---
 title: "HVAC Systems for Fire Training Academies"
+aliases: ["HVAC Systems for Fire Training Academies"]
 description: "Design requirements for fire training academy HVAC including classroom conditioning, physical training ventilation, decontamination zones, and multi-zone integration."
 keywords: ["fire training academy HVAC", "training facility ventilation", "decontamination area design", "physical training HVAC", "academy zone integration", "emergency services training", "firefighter academy climate control", "training facility air quality"]
+tags: ["fire training academy HVAC", "training facility ventilation", "decontamination area design", "physical training HVAC", "academy zone integration", "emergency services training", "firefighter academy climate control", "training facility air quality"]
 weight: 3
 ---
 

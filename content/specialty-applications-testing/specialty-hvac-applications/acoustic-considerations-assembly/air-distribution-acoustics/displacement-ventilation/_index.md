@@ -1,5 +1,6 @@
 ---
 title: "Displacement Ventilation Acoustics"
+aliases: ["Displacement Ventilation Acoustics"]
 description: "Technical analysis of displacement ventilation systems for assembly spaces covering low-velocity acoustic advantages, thermal stratification effects, and NC curve compliance."
 date: 2026-01-11
 tags: ["displacement ventilation", "acoustics", "low velocity", "thermal stratification", "assembly spaces", "NC curves", "sound power", "concert halls", "theaters"]

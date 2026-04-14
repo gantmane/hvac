@@ -1,7 +1,9 @@
 ---
 title: "Gas-Fired Tankless Water Heaters: Design and Sizing"
+aliases: ["Gas-Fired Tankless Water Heaters: Design and Sizing"]
 description: "Technical guide to gas tankless water heater operation, sizing calculations, venting requirements, and energy efficiency ratings per ASHRAE standards."
 keywords: ["gas tankless water heater", "condensing water heater", "flow activation", "tankless sizing", "Category IV venting", "thermal efficiency", "modulating burner", "BTU calculation"]
+tags: ["gas tankless water heater", "condensing water heater", "flow activation", "tankless sizing", "Category IV venting", "thermal efficiency", "modulating burner", "BTU calculation"]
 weight: 1
 ---
 

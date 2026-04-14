@@ -1,7 +1,9 @@
 ---
 title: "Service Shaft Pressure Differentials in High-Rise Buildings"
+aliases: ["Service Shaft Pressure Differentials in High-Rise Buildings"]
 description: "Technical analysis of pressure differentials in mechanical shafts, duct risers, and plumbing chases including stack effect calculations, fire damper requirements, and leakage control."
 keywords: ["service shaft pressure", "mechanical shaft stack effect", "duct shaft sealing", "vertical shaft air leakage", "plumbing chase pressurization", "fire damper pressure drop", "service core HVAC", "shaft penetration sealing"]
+tags: ["service shaft pressure", "mechanical shaft stack effect", "duct shaft sealing", "vertical shaft air leakage", "plumbing chase pressurization", "fire damper pressure drop", "service core HVAC", "shaft penetration sealing"]
 weight: 3
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Container Ships Reefers"
+aliases: ["Container Ships Reefers"]
 weight: 3
 ---
 

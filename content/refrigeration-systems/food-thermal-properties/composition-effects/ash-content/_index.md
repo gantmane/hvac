@@ -1,5 +1,6 @@
 ---
 title: "Ash Content"
+aliases: ["Ash Content"]
 weight: 4
 ---
 

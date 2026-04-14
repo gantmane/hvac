@@ -1,5 +1,6 @@
 ---
 title: "Mandatory Provisions of ASHRAE 90.1"
+aliases: ["Mandatory Provisions of ASHRAE 90.1"]
 description: "Non-tradeable minimum requirements applicable to all compliance paths including equipment efficiency floors, mandatory controls, envelope performance minimums, and system design features."
 date: 2026-01-04
 weight: 1

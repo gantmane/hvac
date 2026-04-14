@@ -1,5 +1,6 @@
 ---
 title: "Receiving Raw Milk"
+aliases: ["Receiving Raw Milk"]
 description: "Technical requirements for raw milk receiving systems including tanker unloading, plate cooling, immediate refrigeration, and PMO compliance for dairy processing facilities"
 weight: 1
 ---

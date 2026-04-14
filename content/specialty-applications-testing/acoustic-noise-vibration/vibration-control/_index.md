@@ -1,5 +1,6 @@
 ---
 title: "Vibration Control in HVAC Systems"
+aliases: ["Vibration Control in HVAC Systems"]
 description: "Technical analysis of vibration isolation principles, transmissibility calculations, isolator selection methodology, and implementation strategies for HVAC equipment"
 keywords:
   - vibration isolation

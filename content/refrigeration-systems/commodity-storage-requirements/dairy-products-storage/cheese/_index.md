@@ -1,5 +1,6 @@
 ---
 title: "Cheese"
+aliases: ["Cheese"]
 weight: 2
 ---
 

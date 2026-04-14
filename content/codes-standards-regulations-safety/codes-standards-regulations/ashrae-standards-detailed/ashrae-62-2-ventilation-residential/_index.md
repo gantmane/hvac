@@ -1,8 +1,10 @@
 ---
 title: "ASHRAE 62.2 Residential Ventilation Standards"
+aliases: ["ASHRAE 62.2 Residential Ventilation Standards"]
 weight: 4
 description: "Comprehensive guide to ASHRAE 62.2 ventilation requirements for low-rise residential buildings including whole-building rates, local exhaust, and mechanical system design."
 keywords: ["ASHRAE 62.2", "residential ventilation", "whole-house ventilation", "local exhaust", "balanced ventilation", "HRV ERV", "indoor air quality residential", "ventilation calculations"]
+tags: ["ASHRAE 62.2", "residential ventilation", "whole-house ventilation", "local exhaust", "balanced ventilation", "HRV ERV", "indoor air quality residential", "ventilation calculations"]
 ---
 
 ## Overview

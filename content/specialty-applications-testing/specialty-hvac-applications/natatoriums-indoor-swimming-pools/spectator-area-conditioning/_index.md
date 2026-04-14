@@ -1,7 +1,9 @@
 ---
 title: "Spectator Area Conditioning for Indoor Pools"
+aliases: ["Spectator Area Conditioning for Indoor Pools"]
 description: "HVAC design for natatorium spectator seating requires environmental isolation from pool areas, separate air handling systems, and distinct comfort criteria."
 keywords: ["spectator area HVAC", "natatorium seating", "pool spectator conditioning", "air curtain separation", "assembly occupancy", "indoor pool ventilation", "zone isolation", "spectator comfort"]
+tags: ["spectator area HVAC", "natatorium seating", "pool spectator conditioning", "air curtain separation", "assembly occupancy", "indoor pool ventilation", "zone isolation", "spectator comfort"]
 weight: 8
 ---
 

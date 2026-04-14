@@ -1,5 +1,6 @@
 ---
 title: "Metal Collection Preservation Climate Control"
+aliases: ["Metal Collection Preservation Climate Control"]
 description: "HVAC environmental control strategies for metal artifact preservation including corrosion prevention, relative humidity management, and gaseous filtration systems for museum metal collections."
 weight: 3
 ---

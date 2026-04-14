@@ -1,5 +1,6 @@
 ---
 title: "Hotels and Motels HVAC Design"
+aliases: ["Hotels and Motels HVAC Design"]
 description: "Load characteristics, occupancy patterns, and design criteria for hotel and motel HVAC systems balancing guest comfort with energy efficiency."
 date: "2026-01-04"
 weight: 1

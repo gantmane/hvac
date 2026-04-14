@@ -1,5 +1,6 @@
 ---
 title: "Diffusion Drying"
+aliases: ["Diffusion Drying"]
 description: "Vapor diffusion drying mechanisms in building envelopes including permeability requirements, directional drying paths, and moisture redistribution through concentration gradients."
 weight: 3
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Cool Roof Materials"
+aliases: ["Cool Roof Materials"]
 weight: 5
 ---
 

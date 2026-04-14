@@ -1,8 +1,10 @@
 ---
 title: "Window Condensation Control in Natatoriums"
+aliases: ["Window Condensation Control in Natatoriums"]
 weight: 1
 description: "Engineering strategies for preventing condensation on natatorium glazing systems through thermal performance optimization, dew point management, and air distribution design."
 keywords: ["window condensation control", "natatorium glazing", "condensation resistance factor", "triple pane windows", "heated glass systems", "dew point temperature", "thermal bridging", "indoor pool windows"]
+tags: ["window condensation control", "natatorium glazing", "condensation resistance factor", "triple pane windows", "heated glass systems", "dew point temperature", "thermal bridging", "indoor pool windows"]
 ---
 
 ## Overview

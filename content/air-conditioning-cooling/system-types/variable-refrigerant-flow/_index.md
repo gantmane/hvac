@@ -1,5 +1,6 @@
 ---
 title: "Variable Refrigerant Flow Systems Design & Application"
+aliases: ["Variable Refrigerant Flow Systems Design & Application"]
 description: "Comprehensive guide to VRF system design, capacity calculations, piping methods, heat recovery configurations, and performance optimization per ASHRAE standards."
 keywords:
   - VRF system design

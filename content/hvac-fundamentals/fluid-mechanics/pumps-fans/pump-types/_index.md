@@ -1,5 +1,6 @@
 ---
 title: "Pump Types"
+aliases: ["Pump Types"]
 description: "Comprehensive analysis of HVAC pump classifications including centrifugal, positive displacement, and specialty pumps with selection criteria, performance characteristics, and application guidelines"
 weight: 1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Building Automation Training for HVAC Professionals"
+aliases: ["Building Automation Training for HVAC Professionals"]
 description: "Master building automation systems including DDC controls, network protocols, PID tuning, and energy optimization strategies for modern HVAC applications."
 date: 2025-01-05
 tags: ["building automation", "DDC controls", "BACnet", "PID control", "energy management", "HVAC controls", "BMS training"]

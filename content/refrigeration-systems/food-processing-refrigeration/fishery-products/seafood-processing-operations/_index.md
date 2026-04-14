@@ -1,5 +1,6 @@
 ---
 title: "Seafood Processing Operations"
+aliases: ["Seafood Processing Operations"]
 description: "HVAC design for seafood processing facilities including temperature zone requirements, condensation control, sanitation demands, air filtration systems, and process cooling loads for fish and shellfish operations."
 weight: 4
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Emergency Power"
+aliases: ["Emergency Power"]
 description: "Generator sizing for HVAC loads, automatic transfer switches, legally required standby systems, and emergency power distribution strategies"
 weight: 3
 ---

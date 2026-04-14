@@ -1,5 +1,6 @@
 ---
 title: "BIM Project Execution"
+aliases: ["BIM Project Execution"]
 description: "BIM project execution planning including BIM Execution Plans (BXP), MEP coordination workflows, Level of Development (LOD) requirements, clash detection protocols, 4D scheduling integration, model authoring standards, and quality control procedures for HVAC coordination."
 weight: 2
 ---

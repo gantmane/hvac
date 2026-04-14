@@ -1,7 +1,9 @@
 ---
 title: "Photographic Collection Climate Control"
+aliases: ["Photographic Collection Climate Control"]
 description: "Physics-based climate requirements for photographs including cold storage for color film, RH control for gelatin emulsions, Arrhenius degradation modeling, and nitrate hazards."
 keywords: ["photograph conservation", "cold storage", "gelatin emulsion", "nitrate film", "color dye fading", "Arrhenius equation", "photographic degradation", "archival storage"]
+tags: ["photograph conservation", "cold storage", "gelatin emulsion", "nitrate film", "color dye fading", "Arrhenius equation", "photographic degradation", "archival storage"]
 weight: 5
 ---
 

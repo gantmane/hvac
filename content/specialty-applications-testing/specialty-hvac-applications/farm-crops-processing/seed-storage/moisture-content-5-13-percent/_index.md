@@ -1,7 +1,9 @@
 ---
 title: "HVAC Control for Seed Storage at 5-13% Moisture Content"
+aliases: ["HVAC Control for Seed Storage at 5-13% Moisture Content"]
 description: "Technical guidance for maintaining optimal moisture content in seed storage facilities using precision environmental control for maximum viability and germination rates."
 keywords: ["seed storage HVAC", "seed moisture content control", "seed viability preservation", "germination rate maintenance", "seed drying systems", "agricultural HVAC", "grain storage climate control", "seed conditioning"]
+tags: ["seed storage HVAC", "seed moisture content control", "seed viability preservation", "germination rate maintenance", "seed drying systems", "agricultural HVAC", "grain storage climate control", "seed conditioning"]
 weight: 1
 ---
 

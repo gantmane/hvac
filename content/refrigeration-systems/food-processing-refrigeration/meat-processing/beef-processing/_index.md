@@ -1,8 +1,10 @@
 ---
 title: "Beef Processing Refrigeration Systems"
+aliases: ["Beef Processing Refrigeration Systems"]
 weight: 2
 description: "Comprehensive analysis of refrigeration requirements for beef processing facilities, including carcass chilling, aging coolers, fabrication room design, and cold chain management protocols."
 keywords: ["beef processing refrigeration", "meat aging coolers", "fabrication room HVAC", "beef cold chain", "USDA temperature requirements", "meat processing cooling", "beef carcass chilling", "primal cutting temperatures"]
+tags: ["beef processing refrigeration", "meat aging coolers", "fabrication room HVAC", "beef cold chain", "USDA temperature requirements", "meat processing cooling", "beef carcass chilling", "primal cutting temperatures"]
 ---
 
 # Beef Processing Refrigeration Systems

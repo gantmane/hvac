@@ -1,5 +1,6 @@
 ---
 title: "Stack Effect in High-Rise Buildings"
+aliases: ["Stack Effect in High-Rise Buildings"]
 description: "Stack effect physics, neutral pressure level calculation, winter vs summer effects, and pressure differential analysis for tall buildings."
 date: "2026-01-04"
 weight: 1

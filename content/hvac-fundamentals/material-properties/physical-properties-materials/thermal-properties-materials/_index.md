@@ -1,5 +1,6 @@
 ---
 title: "Thermal Properties of Materials"
+aliases: ["Thermal Properties of Materials"]
 description: "Engineering fundamentals of thermal conductivity, specific heat, thermal diffusivity, and related properties critical for heat transfer calculations, insulation design, and thermal mass analysis in HVAC systems."
 weight: 1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Cream Preparation"
+aliases: ["Cream Preparation"]
 description: "Comprehensive technical guidance on HVAC and refrigeration systems for cream preparation in butter production, including pasteurization heat loads, cooling requirements, crystallization temperature control, and process room environmental management."
 weight: 1
 ---

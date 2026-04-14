@@ -1,5 +1,6 @@
 ---
 title: "Design Development Phase"
+aliases: ["Design Development Phase"]
 description: "Comprehensive HVAC design development phase documentation covering detailed system design, equipment selection criteria, duct and pipe sizing methodologies, control sequence development, multidisciplinary coordination, and cost estimation for mechanical systems"
 weight: 3
 ---

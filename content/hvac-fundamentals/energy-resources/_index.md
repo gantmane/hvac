@@ -1,5 +1,6 @@
 ---
 title: "Energy Resources"
+aliases: ["Energy Resources"]
 description: "Comprehensive analysis of energy resources for HVAC systems including fossil fuels, electricity, and renewables with energy conversion efficiency, site vs source energy distinctions, and ASHRAE 90.1 compliance requirements"
 weight: 6
 ---

@@ -1,8 +1,10 @@
 ---
 title: "Distributed Hot Water Systems"
+aliases: ["Distributed Hot Water Systems"]
 weight: 2
 description: "Technical analysis of distributed domestic hot water systems using point-of-use heaters. Covers sizing methodology, heat loss reduction, piping optimization, and applications."
 keywords: ["distributed hot water", "point-of-use heaters", "tankless water heaters", "DHW piping losses", "water heater sizing", "decentralized systems", "standby losses"]
+tags: ["distributed hot water", "point-of-use heaters", "tankless water heaters", "DHW piping losses", "water heater sizing", "decentralized systems", "standby losses"]
 ---
 
 ## System Architecture

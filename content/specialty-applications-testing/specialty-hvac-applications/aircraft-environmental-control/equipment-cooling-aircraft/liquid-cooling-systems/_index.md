@@ -1,5 +1,6 @@
 ---
 title: "Liquid Cooling Systems for Aircraft Equipment"
+aliases: ["Liquid Cooling Systems for Aircraft Equipment"]
 description: "Technical analysis of aircraft liquid cooling systems including coolant properties, heat exchanger design, pump selection, and thermal management strategies."
 date: 2025-01-05
 tags: ["aircraft HVAC", "liquid cooling", "thermal management", "heat exchangers", "avionics cooling"]

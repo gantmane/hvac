@@ -1,7 +1,9 @@
 ---
 title: "VAV Box Control Sequences and Operation"
+aliases: ["VAV Box Control Sequences and Operation"]
 description: "Comprehensive guide to VAV terminal unit sequences including cooling-only, reheat boxes, damper control, minimum airflow setpoints, and ASHRAE Guideline 36 compliant control strategies."
 keywords: ["VAV box sequences", "terminal unit control", "reheat control", "damper modulation", "minimum airflow", "ASHRAE Guideline 36", "VAV operation", "zone temperature control"]
+tags: ["VAV box sequences", "terminal unit control", "reheat control", "damper modulation", "minimum airflow", "ASHRAE Guideline 36", "VAV operation", "zone temperature control"]
 weight: 2
 ---
 

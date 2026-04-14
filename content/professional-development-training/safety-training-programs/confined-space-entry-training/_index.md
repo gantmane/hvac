@@ -1,5 +1,6 @@
 ---
 title: "Confined Space Entry Training"
+aliases: ["Confined Space Entry Training"]
 weight: 2
 ---
 

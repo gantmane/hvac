@@ -1,5 +1,6 @@
 ---
 title: "Demand Control Ventilation for Schools"
+aliases: ["Demand Control Ventilation for Schools"]
 description: "Engineering analysis of CO2-based demand control ventilation in schools covering control sequences, ASHRAE 62.1 requirements, energy code compliance, sensor strategies, and energy savings quantification."
 keywords:
   - demand control ventilation schools

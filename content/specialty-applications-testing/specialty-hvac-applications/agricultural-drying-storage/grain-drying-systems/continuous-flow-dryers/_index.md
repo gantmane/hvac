@@ -1,7 +1,9 @@
 ---
 title: "Continuous Flow Grain Dryers"
+aliases: ["Continuous Flow Grain Dryers"]
 description: "Industrial continuous flow grain dryers for high-volume operations, including cross-flow, mixed-flow, and counter-flow designs with automated moisture control systems."
 keywords: ["continuous flow dryer", "grain drying equipment", "cross-flow dryer", "mixed-flow dryer", "counter-flow dryer", "grain throughput", "moisture monitoring", "agricultural HVAC"]
+tags: ["continuous flow dryer", "grain drying equipment", "cross-flow dryer", "mixed-flow dryer", "counter-flow dryer", "grain throughput", "moisture monitoring", "agricultural HVAC"]
 date: 2025-01-11
 draft: false
 weight: 3

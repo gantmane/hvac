@@ -1,8 +1,10 @@
 ---
 title: "Rotary Compressors"
+aliases: ["Rotary Compressors"]
 weight: 4
 description: "Technical guide to rotary compressor designs including rolling piston and rotary vane configurations, hermetic construction, capacity characteristics, and applications in residential air conditioning and refrigeration systems."
 keywords: ["rotary compressor", "rolling piston compressor", "rotary vane compressor", "hermetic compressor", "residential AC compressor", "refrigerant compression", "HVAC compressor types"]
+tags: ["rotary compressor", "rolling piston compressor", "rotary vane compressor", "hermetic compressor", "residential AC compressor", "refrigerant compression", "HVAC compressor types"]
 ---
 
 Rotary compressors utilize rotating motion to compress refrigerant vapor through continuous volume reduction. These positive displacement machines achieve compression by trapping refrigerant between a rotating element and a stationary housing, progressively reducing the trapped volume as rotation proceeds.

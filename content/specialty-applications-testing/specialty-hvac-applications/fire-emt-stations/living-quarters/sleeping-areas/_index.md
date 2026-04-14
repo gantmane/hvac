@@ -1,7 +1,9 @@
 ---
 title: "HVAC Design for Fire Station Sleeping Quarters"
+aliases: ["HVAC Design for Fire Station Sleeping Quarters"]
 description: "HVAC requirements for fire station sleeping areas including noise control, individual comfort, air quality, rapid recovery, and contamination separation."
 keywords: ["fire station HVAC", "sleeping quarters ventilation", "noise criteria NC-25", "individual zone control", "contamination separation", "rapid conditioning", "emergency response HVAC", "firefighter comfort"]
+tags: ["fire station HVAC", "sleeping quarters ventilation", "noise criteria NC-25", "individual zone control", "contamination separation", "rapid conditioning", "emergency response HVAC", "firefighter comfort"]
 date: 2025-01-11
 draft: false
 weight: 1

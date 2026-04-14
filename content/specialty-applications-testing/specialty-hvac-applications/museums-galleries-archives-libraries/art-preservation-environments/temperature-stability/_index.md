@@ -1,7 +1,9 @@
 ---
 title: "Temperature Stability in Art Preservation Environments"
+aliases: ["Temperature Stability in Art Preservation Environments"]
 description: "Technical guidance for maintaining precise temperature control in museums and galleries, covering fluctuation limits, material sensitivity, and HVAC strategies for collection preservation."
 keywords: ["temperature stability", "art preservation HVAC", "museum climate control", "thermal fluctuation limits", "collection temperature", "conservation standards", "setpoint control", "thermal mass"]
+tags: ["temperature stability", "art preservation HVAC", "museum climate control", "thermal fluctuation limits", "collection temperature", "conservation standards", "setpoint control", "thermal mass"]
 weight: 1
 ---
 

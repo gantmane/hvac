@@ -1,5 +1,6 @@
 ---
 title: "High Permeance Materials"
+aliases: ["High Permeance Materials"]
 description: "Vapor-open building materials with permeance greater than 10 perm, including permeable insulations, sheathing products, and weather-resistive barriers that enable moisture drying in building envelope assemblies."
 weight: 4
 ---

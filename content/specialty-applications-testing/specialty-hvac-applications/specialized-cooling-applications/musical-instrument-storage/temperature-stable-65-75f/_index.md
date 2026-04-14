@@ -1,5 +1,6 @@
 ---
 title: "Temperature Stability for Instrument Storage: 65-75°F"
+aliases: ["Temperature Stability for Instrument Storage: 65-75°F"]
 linkTitle: "Temperature Stable 65-75°F"
 weight: 2
 description: "Physics-based analysis of temperature control for musical instrument preservation, including thermal expansion coefficients, material stress calculations, and HVAC design for maintaining 65-75°F stability."

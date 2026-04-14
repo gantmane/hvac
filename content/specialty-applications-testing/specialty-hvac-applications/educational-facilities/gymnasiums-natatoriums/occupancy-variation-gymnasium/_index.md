@@ -1,5 +1,6 @@
 ---
 title: "Occupancy Variation in Gymnasium HVAC Design"
+aliases: ["Occupancy Variation in Gymnasium HVAC Design"]
 description: "Engineering strategies for managing highly variable occupancy loads in gymnasium HVAC systems, from minimal PE classes to packed sporting events and assemblies."
 date: 2025-01-05
 weight: 2

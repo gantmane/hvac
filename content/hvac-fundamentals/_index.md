@@ -1,5 +1,6 @@
 ---
 title: "HVAC Fundamentals"
+aliases: ["HVAC Fundamentals"]
 weight: 5
 ---
 
@@ -21,8 +22,8 @@ Thermodynamic laws govern energy conversion, refrigeration cycles, and heat pump
 - **Thermodynamic Processes:** Isothermal, isobaric, isochoric, adiabatic
 
 **Related Technical Guides:**
-- [Thermodynamic Cycles](/technical-guides/thermodynamic-cycles/)
-- [Vapor Compression Refrigeration](/technical-guides/vapor-compression-refrigeration/)
+- Thermodynamic Cycles
+- Vapor Compression Refrigeration
 
 ### Heat Transfer
 
@@ -36,8 +37,8 @@ Heat transfer mechanisms—conduction, convection, and radiation—determine the
 - **Transient Heat Transfer:** Thermal mass, time constants, response time
 
 **Related Technical Guides:**
-- [Heat Transfer Fundamentals](/technical-guides/heat-transfer-fundamentals/)
-- [Material Thermal Properties](/technical-guides/material-thermal-properties/)
+- Heat Transfer Fundamentals
+- Material Thermal Properties
 
 ### Fluid Mechanics
 
@@ -52,9 +53,9 @@ Fluid flow principles govern duct and pipe design, pump and fan selection, and s
 - **Pumps and Fans:** Affinity laws, system curves, operating points
 
 **Related Technical Guides:**
-- [Fluid Mechanics for HVAC](/technical-guides/fluid-mechanics-hvac/)
-- [Duct Static Pressure Calculations](/technical-guides/duct-static-pressure-calculations/)
-- [Fan Selection & Performance](/technical-guides/fan-selection-performance/)
+- Fluid Mechanics for HVAC
+- Duct Static Pressure Calculations
+- Fan Selection & Performance
 
 ### Psychrometrics
 
@@ -69,8 +70,8 @@ Psychrometric analysis determines air conditioning processes, humidity control s
 - **Psychrometric Chart:** Graphical representation and process visualization
 
 **Related Technical Guides:**
-- [Psychrometric Fundamentals](/technical-guides/psychrometric-fundamentals/)
-- [Psychrometric Processes](/technical-guides/psychrometric-processes/)
+- Psychrometric Fundamentals
+- Psychrometric Processes
 
 ### Material Properties
 
@@ -84,7 +85,7 @@ Thermal conductivity, specific heat, density, and moisture properties of buildin
 - **Moisture Properties:** Permeance, water vapor transmission
 
 **Related Technical Guides:**
-- [Material Thermal Properties](/technical-guides/material-thermal-properties/)
+- Material Thermal Properties
 
 ### Building Envelope
 

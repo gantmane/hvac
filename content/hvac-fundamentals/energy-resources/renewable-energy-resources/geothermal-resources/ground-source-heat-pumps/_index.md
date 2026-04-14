@@ -1,7 +1,9 @@
 ---
 title: "Ground-Source Heat Pumps: Design & Performance"
+aliases: ["Ground-Source Heat Pumps: Design & Performance"]
 description: "Technical guide to GSHP systems including horizontal, vertical, and pond loop configurations, ground loop sizing calculations, COP performance metrics, and IGSHPA standards."
 keywords: ["ground source heat pump", "GSHP design", "geothermal loop sizing", "vertical borehole", "horizontal loop", "pond loop", "hybrid GSHP", "thermal conductivity"]
+tags: ["ground source heat pump", "GSHP design", "geothermal loop sizing", "vertical borehole", "horizontal loop", "pond loop", "hybrid GSHP", "thermal conductivity"]
 weight: 4
 ---
 

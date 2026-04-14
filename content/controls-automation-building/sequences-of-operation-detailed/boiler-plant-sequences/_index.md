@@ -1,7 +1,9 @@
 ---
 title: "Boiler Plant Sequences of Operation"
+aliases: ["Boiler Plant Sequences of Operation"]
 description: "Comprehensive boiler plant control sequences including staging, lead-lag rotation, firing rate modulation, water temperature reset, and safety interlocks per ASHRAE."
 keywords: ["boiler staging control", "lead-lag sequencing", "firing rate modulation", "water temperature reset", "boiler safety interlocks", "hot water plant control", "boiler optimization", "combustion control"]
+tags: ["boiler staging control", "lead-lag sequencing", "firing rate modulation", "water temperature reset", "boiler safety interlocks", "hot water plant control", "boiler optimization", "combustion control"]
 weight: 4
 ---
 

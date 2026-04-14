@@ -1,7 +1,9 @@
 ---
 title: "Setback Recovery in Assembly Spaces"
+aliases: ["Setback Recovery in Assembly Spaces"]
 description: "Engineering analysis of heating setback recovery for high-occupancy assembly venues. Includes recovery time calculations, thermal mass effects, and optimal start strategies."
 keywords: ["setback recovery", "optimal start control", "thermal mass", "recovery time calculation", "assembly space heating", "temperature pulldown", "ASHRAE 90.1"]
+tags: ["setback recovery", "optimal start control", "thermal mass", "recovery time calculation", "assembly space heating", "temperature pulldown", "ASHRAE 90.1"]
 weight: 3
 ---
 

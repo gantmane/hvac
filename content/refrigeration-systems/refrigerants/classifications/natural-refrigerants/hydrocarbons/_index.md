@@ -1,5 +1,6 @@
 ---
 title: "Hydrocarbon Refrigerants"
+aliases: ["Hydrocarbon Refrigerants"]
 description: "Comprehensive analysis of hydrocarbon refrigerants including propane (R-290), isobutane (R-600a), and propylene (R-1270) covering thermodynamic properties, flammability classifications, charge limits, safety standards, and application requirements for domestic and commercial refrigeration systems."
 weight: 1
 ---

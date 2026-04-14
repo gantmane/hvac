@@ -1,7 +1,9 @@
 ---
 title: "Aircraft Outside Air Requirements"
+aliases: ["Aircraft Outside Air Requirements"]
 description: "Engineering analysis of aircraft outside air requirements including FAR 25.831 mass flow calculations, bleed air extraction impacts, altitude-dependent ventilation rates, and oxygen partial pressure maintenance for commercial aviation."
 keywords: ["aircraft outside air", "FAR 25.831", "bleed air ventilation", "cabin pressurization", "oxygen partial pressure", "ventilation mass flow", "aircraft air quality", "environmental control system", "cabin altitude", "aviation ventilation standards"]
+tags: ["aircraft outside air", "FAR 25.831", "bleed air ventilation", "cabin pressurization", "oxygen partial pressure", "ventilation mass flow", "aircraft air quality", "environmental control system", "cabin altitude", "aviation ventilation standards"]
 weight: 1
 ---
 

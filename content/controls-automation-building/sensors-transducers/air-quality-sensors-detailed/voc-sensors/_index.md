@@ -1,7 +1,9 @@
 ---
 title: "VOC Sensors for Indoor Air Quality Monitoring"
+aliases: ["VOC Sensors for Indoor Air Quality Monitoring"]
 description: "Comprehensive guide to volatile organic compound sensors including MOX and PID technologies, calibration methods, TVOC thresholds, and HVAC applications for IAQ control."
 keywords: ["VOC sensors", "TVOC monitoring", "MOX sensors", "PID sensors", "indoor air quality", "IAQ standards", "air quality control", "building ventilation"]
+tags: ["VOC sensors", "TVOC monitoring", "MOX sensors", "PID sensors", "indoor air quality", "IAQ standards", "air quality control", "building ventilation"]
 weight: 2
 ---
 

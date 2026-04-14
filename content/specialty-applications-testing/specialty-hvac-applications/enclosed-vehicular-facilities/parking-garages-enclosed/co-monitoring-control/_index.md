@@ -1,8 +1,10 @@
 ---
 title: "CO Monitoring and Control Systems"
+aliases: ["CO Monitoring and Control Systems"]
 weight: 2
 description: "Carbon monoxide monitoring and demand-controlled ventilation in enclosed parking garages including sensor placement, setpoints, fan staging, and control strategies per IMC."
 keywords: ["CO monitoring", "carbon monoxide sensors", "parking garage ventilation", "demand control ventilation", "fan staging", "CO setpoints", "sensor placement", "garage air quality"]
+tags: ["CO monitoring", "carbon monoxide sensors", "parking garage ventilation", "demand control ventilation", "fan staging", "CO setpoints", "sensor placement", "garage air quality"]
 ---
 
 ## Physical Basis of CO Accumulation

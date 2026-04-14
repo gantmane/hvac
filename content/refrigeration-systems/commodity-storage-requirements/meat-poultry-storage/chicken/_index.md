@@ -1,5 +1,6 @@
 ---
 title: "Chicken"
+aliases: ["Chicken"]
 weight: 4
 ---
 

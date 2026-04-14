@@ -1,5 +1,6 @@
 ---
 title: "Cockpit Climate Control Systems"
+aliases: ["Cockpit Climate Control Systems"]
 linkTitle: "Cockpit Climate Control"
 weight: 1
 description: "Technical analysis of flight deck environmental control including precision temperature regulation, individual crew climate adjustment, avionics cooling integration, and windshield anti-fog systems for optimal crew performance."

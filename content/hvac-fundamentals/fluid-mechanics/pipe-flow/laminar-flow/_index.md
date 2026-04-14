@@ -1,5 +1,6 @@
 ---
 title: "Laminar Flow"
+aliases: ["Laminar Flow"]
 description: "Physics and engineering analysis of laminar flow in HVAC piping systems including Hagen-Poiseuille equation, velocity profiles, pressure drop calculations, and entrance length effects"
 weight: 1
 ---

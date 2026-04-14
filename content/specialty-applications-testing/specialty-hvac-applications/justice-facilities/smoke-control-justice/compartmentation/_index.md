@@ -1,8 +1,10 @@
 ---
 title: "Smoke Compartmentation in Correctional Facilities"
+aliases: ["Smoke Compartmentation in Correctional Facilities"]
 seo_title: "Justice Facility Smoke Compartmentation & Fire Barriers"
 description: "Technical guidance on smoke compartmentation design for correctional facilities including defend-in-place strategies, fire barriers, HVAC penetrations, and NFPA compliance."
 keywords: ["correctional smoke compartmentation", "defend-in-place strategy", "fire barriers", "HVAC penetrations", "smoke dampers", "justice facility fire protection", "NFPA 92", "IBC compartmentation"]
+tags: ["correctional smoke compartmentation", "defend-in-place strategy", "fire barriers", "HVAC penetrations", "smoke dampers", "justice facility fire protection", "NFPA 92", "IBC compartmentation"]
 weight: 1
 ---
 

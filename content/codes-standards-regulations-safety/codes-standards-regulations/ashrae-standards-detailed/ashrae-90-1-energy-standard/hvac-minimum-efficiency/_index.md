@@ -1,5 +1,6 @@
 ---
 title: "HVAC Equipment Minimum Efficiency Requirements"
+aliases: ["HVAC Equipment Minimum Efficiency Requirements"]
 description: "Comprehensive equipment efficiency tables and performance metrics for HVAC systems including cooling equipment, heating equipment, heat rejection, and specialized applications with capacity-based requirements."
 date: 2026-01-04
 weight: 3

@@ -1,7 +1,9 @@
 ---
 title: "Cargo Ship HVAC Systems"
+aliases: ["Cargo Ship HVAC Systems"]
 description: "Comprehensive guide to HVAC design for cargo ships including crew accommodation, bridge climate control, and reefer container cooling per SOLAS standards."
 keywords: ["cargo ship HVAC", "marine air conditioning", "bridge climate control", "SOLAS HVAC requirements", "crew accommodation ventilation", "reefer container cooling", "wheelhouse HVAC", "maritime comfort systems"]
+tags: ["cargo ship HVAC", "marine air conditioning", "bridge climate control", "SOLAS HVAC requirements", "crew accommodation ventilation", "reefer container cooling", "wheelhouse HVAC", "maritime comfort systems"]
 weight: 2
 ---
 

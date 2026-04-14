@@ -1,9 +1,11 @@
 ---
 title: "Moisture Control in Portable Classrooms"
+aliases: ["Moisture Control in Portable Classrooms"]
 description: "Engineering strategies for managing humidity, condensation, and mold prevention in portable classroom buildings through HVAC design and building envelope integration."
 date: 2025-01-05
 weight: 3
 keywords: ["portable classroom moisture control", "modular building humidity", "condensation prevention portable", "vapor barrier design", "mold prevention classrooms", "dewpoint calculation HVAC", "building envelope coordination", "temporary structure ventilation"]
+tags: ["portable classroom moisture control", "modular building humidity", "condensation prevention portable", "vapor barrier design", "mold prevention classrooms", "dewpoint calculation HVAC", "building envelope coordination", "temporary structure ventilation"]
 ---
 
 ## Moisture Challenges in Portable Construction

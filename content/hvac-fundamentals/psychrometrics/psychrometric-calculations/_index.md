@@ -1,5 +1,6 @@
 ---
 title: "Psychrometric Calculations"
+aliases: ["Psychrometric Calculations"]
 description: "Comprehensive analysis of psychrometric calculation methods including perfect gas theory, partial pressure laws, and practical engineering equations for moist air properties"
 weight: 5
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Atomizing Humidifiers: Technology & Applications"
+aliases: ["Atomizing Humidifiers: Technology & Applications"]
 description: "Technical analysis of atomizing humidifier technologies including ultrasonic, compressed air, and high-pressure nozzle systems with droplet physics and performance data."
 keywords: ["atomizing humidifiers", "ultrasonic humidification", "compressed air atomization", "high pressure nozzle", "droplet size distribution", "spray humidification", "centrifugal humidifiers", "ASHRAE humidification"]
+tags: ["atomizing humidifiers", "ultrasonic humidification", "compressed air atomization", "high pressure nozzle", "droplet size distribution", "spray humidification", "centrifugal humidifiers", "ASHRAE humidification"]
 weight: 3
 ---
 

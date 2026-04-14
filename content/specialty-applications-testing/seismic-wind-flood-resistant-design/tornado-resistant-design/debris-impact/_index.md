@@ -1,5 +1,6 @@
 ---
 title: "Debris Impact Protection for HVAC Equipment"
+aliases: ["Debris Impact Protection for HVAC Equipment"]
 description: "Engineering analysis of windborne debris impact on HVAC systems including missile criteria, kinetic energy calculations, and equipment protection strategies."
 date: 2025-01-05
 weight: 3

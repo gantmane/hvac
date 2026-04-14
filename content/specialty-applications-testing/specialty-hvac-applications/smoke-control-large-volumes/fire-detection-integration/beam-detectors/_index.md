@@ -1,7 +1,9 @@
 ---
 title: "Beam Detectors for Large Volume Smoke Control"
+aliases: ["Beam Detectors for Large Volume Smoke Control"]
 description: "Projected beam smoke detectors provide reliable fire detection in atriums, warehouses, and high-ceiling spaces with proper alignment and HVAC integration per NFPA 72."
 keywords: ["projected beam detector", "smoke detection large spaces", "atrium fire detection", "beam detector alignment", "high ceiling smoke detection", "HVAC smoke control", "NFPA 72 beam detectors", "obscuration threshold"]
+tags: ["projected beam detector", "smoke detection large spaces", "atrium fire detection", "beam detector alignment", "high ceiling smoke detection", "HVAC smoke control", "NFPA 72 beam detectors", "obscuration threshold"]
 weight: 2
 ---
 

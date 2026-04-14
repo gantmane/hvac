@@ -1,5 +1,6 @@
 ---
 title: "Ballroom HVAC Systems"
+aliases: ["Ballroom HVAC Systems"]
 description: "Engineering analysis of divisible ballroom zoning, variable occupancy conditioning, chandelier coordination, high ceiling stratification control, and kitchen makeup air integration."
 date: 2025-01-11
 category: "Specialty HVAC Applications"

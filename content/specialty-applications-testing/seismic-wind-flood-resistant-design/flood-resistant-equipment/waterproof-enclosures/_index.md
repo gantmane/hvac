@@ -1,5 +1,6 @@
 ---
 title: "Waterproof Enclosures for HVAC Equipment"
+aliases: ["Waterproof Enclosures for HVAC Equipment"]
 description: "Waterproof enclosure selection for flood-resistant HVAC systems. NEMA and IP ratings, sealing methods, materials, and electrical protection standards."
 date: 2025-01-05
 weight: 3

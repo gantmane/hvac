@@ -1,7 +1,9 @@
 ---
 title: "Unitary HVAC Systems: Types, Efficiency & Selection"
+aliases: ["Unitary HVAC Systems: Types, Efficiency & Selection"]
 description: "Complete guide to unitary air conditioning systems including packaged units, split systems, rooftop units, PTACs, and mini-splits with SEER, EER, HSPF ratings and AHRI standards."
 keywords: ["unitary systems", "packaged HVAC", "split system", "rooftop unit", "PTAC", "mini-split", "SEER rating", "AHRI certification"]
+tags: ["unitary systems", "packaged HVAC", "split system", "rooftop unit", "PTAC", "mini-split", "SEER rating", "AHRI certification"]
 weight: 1
 ---
 

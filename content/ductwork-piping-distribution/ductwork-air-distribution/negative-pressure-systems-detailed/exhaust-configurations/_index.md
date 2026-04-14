@@ -1,5 +1,6 @@
 ---
 title: "Exhaust Configurations"
+aliases: ["Exhaust Configurations"]
 weight: 3
 ---
 

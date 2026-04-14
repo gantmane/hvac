@@ -1,7 +1,9 @@
 ---
 title: "Energy Consumption Patterns in Building Systems"
+aliases: ["Energy Consumption Patterns in Building Systems"]
 description: "Comprehensive analysis of building energy consumption patterns including sectoral breakdowns, end-use profiles, and temporal variations based on EIA and DOE data."
 keywords: ["energy consumption patterns", "building energy use", "HVAC energy consumption", "sectoral energy analysis", "temporal load profiles", "end-use energy", "energy intensity", "demand patterns"]
+tags: ["energy consumption patterns", "building energy use", "HVAC energy consumption", "sectoral energy analysis", "temporal load profiles", "end-use energy", "energy intensity", "demand patterns"]
 weight: 3
 ---
 

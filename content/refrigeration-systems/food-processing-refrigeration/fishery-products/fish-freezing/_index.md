@@ -1,5 +1,6 @@
 ---
 title: "Fish Freezing"
+aliases: ["Fish Freezing"]
 description: "Technical analysis of fish freezing methods including air blast, plate, and immersion freezing systems. Covers freezing rate calculations, equipment selection, quality preservation, and energy optimization for commercial fishery processing."
 weight: 2
 ---

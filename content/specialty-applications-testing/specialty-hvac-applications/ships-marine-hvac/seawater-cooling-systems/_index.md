@@ -1,7 +1,9 @@
 ---
 title: "Seawater Cooling Systems for Marine HVAC"
+aliases: ["Seawater Cooling Systems for Marine HVAC"]
 description: "Technical analysis of seawater cooling systems for marine HVAC including once-through and closed-loop configurations, heat exchanger design, corrosion control, and thermodynamic considerations."
 keywords: ["seawater cooling", "marine heat exchangers", "once-through cooling", "closed-loop cooling", "cupronickel condensers", "titanium heat exchangers", "marine HVAC", "ship cooling systems"]
+tags: ["seawater cooling", "marine heat exchangers", "once-through cooling", "closed-loop cooling", "cupronickel condensers", "titanium heat exchangers", "marine HVAC", "ship cooling systems"]
 weight: 10
 ---
 

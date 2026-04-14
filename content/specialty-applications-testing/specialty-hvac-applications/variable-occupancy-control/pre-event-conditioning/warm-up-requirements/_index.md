@@ -1,7 +1,9 @@
 ---
 title: "HVAC Warm-Up Requirements for Pre-Event Conditioning"
+aliases: ["HVAC Warm-Up Requirements for Pre-Event Conditioning"]
 description: "Technical guide to calculating warm-up requirements for variable occupancy spaces. Includes thermal mass calculations, optimal start algorithms, and staged heating strategies."
 keywords: ["warm-up requirements", "pre-event conditioning", "thermal mass", "optimal start", "heating capacity", "setback recovery", "variable occupancy HVAC", "arena heating"]
+tags: ["warm-up requirements", "pre-event conditioning", "thermal mass", "optimal start", "heating capacity", "setback recovery", "variable occupancy HVAC", "arena heating"]
 weight: 2
 ---
 

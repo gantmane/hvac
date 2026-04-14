@@ -1,5 +1,6 @@
 ---
 title: "Solar Absorption Cooling Systems"
+aliases: ["Solar Absorption Cooling Systems"]
 weight: 1
 description: "Technical analysis of solar-driven absorption chillers including single and double effect cycles, LiBr-water and ammonia-water systems, COP calculations, and solar collector integration strategies"
 keywords: ["solar absorption cooling", "LiBr chiller", "ammonia-water absorption", "solar thermal cooling", "absorption cycle", "COP", "solar collector", "thermal cooling"]

@@ -1,7 +1,9 @@
 ---
 title: "Automatic Temperature Control Systems in Vehicles"
+aliases: ["Automatic Temperature Control Systems in Vehicles"]
 description: "Physics-based analysis of automotive ATC systems covering setpoint control, feedback loops, discharge air temperature regulation, variable compressor control, and thermal comfort algorithms per SAE standards."
 keywords: ["automatic temperature control", "automotive HVAC", "PID control HVAC", "variable compressor", "thermal comfort algorithms", "discharge air temperature", "climate control feedback", "SAE J2765"]
+tags: ["automatic temperature control", "automotive HVAC", "PID control HVAC", "variable compressor", "thermal comfort algorithms", "discharge air temperature", "climate control feedback", "SAE J2765"]
 weight: 1
 ---
 
@@ -219,13 +221,13 @@ This networked approach enables 10-15% energy savings compared to standalone ATC
 
 ## Components
 
-- [ATC System Operation](/specialty-applications-testing/specialty-hvac-applications/automobiles-hvac/climate-control-automatic/automatic-temperature-control/atc-system-operation/)
-- [Electronic Climate Control](/specialty-applications-testing/specialty-hvac-applications/automobiles-hvac/climate-control-automatic/automatic-temperature-control/electronic-climate-control/)
-- [Temperature Sensor Cabin](/specialty-applications-testing/specialty-hvac-applications/automobiles-hvac/climate-control-automatic/automatic-temperature-control/temperature-sensor-cabin/)
-- [Temperature Sensor Ambient](/specialty-applications-testing/specialty-hvac-applications/automobiles-hvac/climate-control-automatic/automatic-temperature-control/temperature-sensor-ambient/)
-- [Temperature Sensor Evaporator](/specialty-applications-testing/specialty-hvac-applications/automobiles-hvac/climate-control-automatic/automatic-temperature-control/temperature-sensor-evaporator/)
-- [Temperature Sensor Sunload](/specialty-applications-testing/specialty-hvac-applications/automobiles-hvac/climate-control-automatic/automatic-temperature-control/temperature-sensor-sunload/)
-- [Humidity Sensor Cabin](/specialty-applications-testing/specialty-hvac-applications/automobiles-hvac/climate-control-automatic/automatic-temperature-control/humidity-sensor-cabin/)
-- [Control Module HVAC](/specialty-applications-testing/specialty-hvac-applications/automobiles-hvac/climate-control-automatic/automatic-temperature-control/control-module-hvac/)
-- [PID Control Algorithm](/specialty-applications-testing/specialty-hvac-applications/automobiles-hvac/climate-control-automatic/automatic-temperature-control/pid-control-algorithm/)
-- [Fuzzy Logic Control](/specialty-applications-testing/specialty-hvac-applications/automobiles-hvac/climate-control-automatic/automatic-temperature-control/fuzzy-logic-control/)
+- ATC System Operation
+- Electronic Climate Control
+- Temperature Sensor Cabin
+- Temperature Sensor Ambient
+- Temperature Sensor Evaporator
+- Temperature Sensor Sunload
+- Humidity Sensor Cabin
+- Control Module HVAC
+- PID Control Algorithm
+- Fuzzy Logic Control

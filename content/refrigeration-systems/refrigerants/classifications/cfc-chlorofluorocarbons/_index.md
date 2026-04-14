@@ -1,5 +1,6 @@
 ---
 title: "CFC Chlorofluorocarbons"
+aliases: ["CFC Chlorofluorocarbons"]
 description: "Comprehensive technical analysis of CFC refrigerants including molecular structure, thermodynamic properties, ozone depletion mechanisms, Montreal Protocol phaseout schedules, and legacy equipment management strategies"
 weight: 1
 ---

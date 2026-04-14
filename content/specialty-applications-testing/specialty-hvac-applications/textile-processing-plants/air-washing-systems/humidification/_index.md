@@ -1,8 +1,10 @@
 ---
 title: "Humidification Systems for Textile Processing"
+aliases: ["Humidification Systems for Textile Processing"]
 weight: 3
 description: "Engineering analysis of steam, adiabatic, high-pressure fog, and ultrasonic humidification systems for textile manufacturing facilities with load calculations and performance comparisons."
 keywords: ["textile humidification", "steam humidifiers", "adiabatic humidification", "high-pressure fog systems", "ultrasonic humidifiers", "textile moisture control", "humidification load calculation", "industrial humidification"]
+tags: ["textile humidification", "steam humidifiers", "adiabatic humidification", "high-pressure fog systems", "ultrasonic humidifiers", "textile moisture control", "humidification load calculation", "industrial humidification"]
 ---
 
 ## Humidification Requirements in Textile Processing

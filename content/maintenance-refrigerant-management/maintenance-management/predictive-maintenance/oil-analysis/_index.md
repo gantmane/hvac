@@ -1,8 +1,10 @@
 ---
 title: "Oil Analysis for HVAC Predictive Maintenance"
+aliases: ["Oil Analysis for HVAC Predictive Maintenance"]
 weight: 3
 description: "Comprehensive guide to oil analysis techniques for compressor health monitoring including viscosity testing, wear metal analysis, contamination detection, and sampling procedures per ASTM standards."
 keywords: ["oil analysis", "compressor oil testing", "wear metal analysis", "viscosity testing", "acid number", "ASTM oil standards", "lubricant contamination", "predictive maintenance"]
+tags: ["oil analysis", "compressor oil testing", "wear metal analysis", "viscosity testing", "acid number", "ASTM oil standards", "lubricant contamination", "predictive maintenance"]
 ---
 
 ## Oil Analysis Fundamentals

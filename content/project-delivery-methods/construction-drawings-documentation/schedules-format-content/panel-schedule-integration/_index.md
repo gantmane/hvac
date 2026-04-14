@@ -1,5 +1,6 @@
 ---
 title: "Panel Schedule Integration"
+aliases: ["Panel Schedule Integration"]
 weight: 4
 ---
 

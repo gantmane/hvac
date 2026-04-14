@@ -1,7 +1,9 @@
 ---
 title: "Residential Furnaces"
+aliases: ["Residential Furnaces"]
 description: "Comprehensive guide to residential gas furnaces including upflow, downflow, and horizontal configurations, AFUE ratings, single-stage vs modulating systems, and condensing technology."
 keywords: ["residential furnaces", "gas furnaces", "AFUE ratings", "condensing furnaces", "modulating furnaces", "furnace configurations", "upflow furnaces", "downflow furnaces", "horizontal furnaces", "two-stage furnaces", "furnace efficiency", "ECM blowers", "PSC motors", "furnace sizing"]
+tags: ["residential furnaces", "gas furnaces", "AFUE ratings", "condensing furnaces", "modulating furnaces", "furnace configurations", "upflow furnaces", "downflow furnaces", "horizontal furnaces", "two-stage furnaces"]
 weight: 1
 ---
 

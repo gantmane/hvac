@@ -1,7 +1,9 @@
 ---
 title: "Correctional Dining Facilities HVAC Design"
+aliases: ["Correctional Dining Facilities HVAC Design"]
 description: "Engineering guide for correctional kitchen and dining HVAC systems including hood exhaust design, high-occupancy ventilation, security integration, and code compliance."
 keywords: ["correctional kitchen HVAC", "institutional kitchen exhaust", "prison dining ventilation", "commercial kitchen hood design", "correctional facility dining", "institutional food service HVAC", "kitchen makeup air", "ASHRAE 154"]
+tags: ["correctional kitchen HVAC", "institutional kitchen exhaust", "prison dining ventilation", "commercial kitchen hood design", "correctional facility dining", "institutional food service HVAC", "kitchen makeup air", "ASHRAE 154"]
 weight: 2
 ---
 

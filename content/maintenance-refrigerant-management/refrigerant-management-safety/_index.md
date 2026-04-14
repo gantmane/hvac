@@ -1,7 +1,9 @@
 ---
 title: "Refrigerant Management Safety & EPA Compliance"
+aliases: ["Refrigerant Management Safety & EPA Compliance"]
 description: "Comprehensive guide to refrigerant handling, storage, recovery, and disposal safety practices. Covers EPA 608 certification requirements, ASHRAE standards, and refrigerant lifecycle management."
 keywords: ["refrigerant safety", "EPA 608 certification", "refrigerant recovery", "ASHRAE 15", "refrigerant handling", "refrigerant disposal", "safety classifications", "refrigerant storage"]
+tags: ["refrigerant safety", "EPA 608 certification", "refrigerant recovery", "ASHRAE 15", "refrigerant handling", "refrigerant disposal", "safety classifications", "refrigerant storage"]
 weight: 2
 ---
 

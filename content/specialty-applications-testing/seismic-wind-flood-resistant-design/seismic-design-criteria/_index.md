@@ -1,8 +1,10 @@
 ---
 title: "Seismic Design Criteria for HVAC Systems"
+aliases: ["Seismic Design Criteria for HVAC Systems"]
 weight: 2
 description: "Comprehensive guide to seismic design requirements for HVAC equipment including design categories A-F, importance factors, component amplification factors, and force calculations per ASCE 7 and IBC standards"
 keywords: ["seismic design criteria", "ASCE 7", "seismic design category", "importance factor", "component amplification factor", "seismic force calculation", "HVAC seismic design", "IBC seismic requirements", "Fp calculation", "nonstructural components"]
+tags: ["seismic design criteria", "ASCE 7", "seismic design category", "importance factor", "component amplification factor", "seismic force calculation", "HVAC seismic design", "IBC seismic requirements", "Fp calculation", "nonstructural components"]
 seo_title: "HVAC Seismic Design Criteria: ASCE 7 Force Calculations & Categories"
 seo_description: "Technical guide to seismic design criteria for HVAC systems covering SDC A-F classifications, importance factors, amplification factors, and seismic force calculations per ASCE 7 and IBC."
 ---

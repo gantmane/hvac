@@ -1,5 +1,6 @@
 ---
 title: "Metal Ducts"
+aliases: ["Metal Ducts"]
 weight: 1
 ---
 

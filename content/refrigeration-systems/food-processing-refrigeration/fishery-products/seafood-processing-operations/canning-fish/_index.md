@@ -1,5 +1,6 @@
 ---
 title: "Fish Canning Refrigeration Systems"
+aliases: ["Fish Canning Refrigeration Systems"]
 description: "Refrigeration and thermal control requirements for fish canning operations including raw material storage, pre-cook chilling, retort processing, and post-sterilization cooling with HACCP integration and FDA compliance"
 weight: 3
 ---

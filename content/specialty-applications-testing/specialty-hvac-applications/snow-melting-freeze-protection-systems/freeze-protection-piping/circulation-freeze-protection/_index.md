@@ -1,5 +1,6 @@
 ---
 title: "Circulation-Based Freeze Protection Systems"
+aliases: ["Circulation-Based Freeze Protection Systems"]
 description: "Engineering design for recirculation freeze protection including pump sizing, temperature-controlled activation, velocity requirements, and energy analysis per IPC/UPC."
 keywords: ["circulation freeze protection", "recirculation pump sizing", "freeze protection velocity", "aquastat control", "outdoor temperature interlock", "circulation pump backup", "pipe circulation systems", "temperature-controlled circulation"]
 tags: ["Freeze Protection", "Circulation Systems", "Pump Design", "Temperature Control", "IPC", "UPC", "Energy Analysis"]

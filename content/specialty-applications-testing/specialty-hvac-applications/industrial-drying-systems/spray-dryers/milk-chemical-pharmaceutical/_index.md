@@ -1,7 +1,9 @@
 ---
 title: "Milk, Chemical & Pharmaceutical Spray Drying Systems"
+aliases: ["Milk, Chemical & Pharmaceutical Spray Drying Systems"]
 description: "Technical analysis of spray dryer design for milk powder, pharmaceutical APIs, and chemical powders including mass transfer equations, psychrometric controls, and product quality."
 keywords: ["spray dryer design", "milk powder production", "pharmaceutical spray drying", "atomization systems", "drying kinetics", "powder characteristics", "food grade HVAC", "GMP air handling"]
+tags: ["spray dryer design", "milk powder production", "pharmaceutical spray drying", "atomization systems", "drying kinetics", "powder characteristics", "food grade HVAC", "GMP air handling"]
 weight: 4
 ---
 

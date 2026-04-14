@@ -1,7 +1,9 @@
 ---
 title: "Subway Rail Car Heating Systems"
+aliases: ["Subway Rail Car Heating Systems"]
 description: "Technical analysis of subway rail car heating including electric resistance, heat pump systems, waste heat recovery, and heating load calculations for underground transit."
 keywords: ["subway heating", "rail car heating systems", "electric resistance heating", "transit heat pumps", "waste heat recovery", "underground railway heating", "metro heating design"]
+tags: ["subway heating", "rail car heating systems", "electric resistance heating", "transit heat pumps", "waste heat recovery", "underground railway heating", "metro heating design"]
 weight: 2
 ---
 

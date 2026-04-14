@@ -1,7 +1,9 @@
 ---
 title: "Potato Storage at 90-95% RH: Humidity Control Systems"
+aliases: ["Potato Storage at 90-95% RH: Humidity Control Systems"]
 description: "Engineering analysis of high-humidity HVAC systems for potato storage. Physics-based design for 90-95% RH control, weight loss prevention, and optimal storage conditions."
 keywords: ["potato storage humidity", "high RH HVAC", "weight loss prevention", "humidification systems", "potato storage engineering", "moisture control", "storage psychrometrics", "agricultural HVAC"]
+tags: ["potato storage humidity", "high RH HVAC", "weight loss prevention", "humidification systems", "potato storage engineering", "moisture control", "storage psychrometrics", "agricultural HVAC"]
 weight: 2
 ---
 

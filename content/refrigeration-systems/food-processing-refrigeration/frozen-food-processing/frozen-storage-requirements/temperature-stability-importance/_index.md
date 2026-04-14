@@ -1,5 +1,6 @@
 ---
 title: "Temperature Stability Importance"
+aliases: ["Temperature Stability Importance"]
 description: "Critical analysis of temperature stability requirements in frozen storage facilities, including ice recrystallization mechanisms, quality degradation pathways, acceptable fluctuation limits, and control strategies for maintaining product quality"
 weight: 2
 ---

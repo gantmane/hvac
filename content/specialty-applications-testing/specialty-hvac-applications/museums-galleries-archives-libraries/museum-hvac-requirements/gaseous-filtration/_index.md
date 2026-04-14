@@ -1,7 +1,9 @@
 ---
 title: "Gaseous Filtration Systems for Museum Collections"
+aliases: ["Gaseous Filtration Systems for Museum Collections"]
 description: "Gas-phase air filtration protects museum artifacts from corrosive pollutants including sulfur dioxide, nitrogen dioxide, and ozone using activated carbon."
 keywords: ["gaseous filtration", "activated carbon", "potassium permanganate", "museum air quality", "SO2 removal", "ozone filtration", "collection preservation", "corrosive gases"]
+tags: ["gaseous filtration", "activated carbon", "potassium permanganate", "museum air quality", "SO2 removal", "ozone filtration", "collection preservation", "corrosive gases"]
 weight: 4
 ---
 

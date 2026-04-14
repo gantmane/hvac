@@ -1,5 +1,6 @@
 ---
 title: "Commercial Refrigeration Systems Design & Applications"
+aliases: ["Commercial Refrigeration Systems Design & Applications"]
 description: "Comprehensive guide to commercial refrigeration systems, including vapor-compression cycles, heat rejection, defrost strategies, and multiplex rack design."
 date: 2025-01-05
 draft: false

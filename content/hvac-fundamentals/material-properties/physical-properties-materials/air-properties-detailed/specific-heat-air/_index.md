@@ -1,5 +1,6 @@
 ---
 title: "Specific Heat of Air"
+aliases: ["Specific Heat of Air"]
 description: "Comprehensive analysis of air specific heat properties including cp and cv values, temperature dependencies, thermodynamic relationships, and application to HVAC load calculations and system design"
 weight: 3
 ---

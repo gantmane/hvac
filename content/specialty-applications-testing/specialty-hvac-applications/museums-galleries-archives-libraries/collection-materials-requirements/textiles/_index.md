@@ -1,7 +1,9 @@
 ---
 title: "HVAC for Textile Collections: Climate Control Standards"
+aliases: ["HVAC for Textile Collections: Climate Control Standards"]
 description: "Technical requirements for textile preservation including temperature 65-70°F, RH 45-55%, fiber degradation mechanisms, insect prevention, and display vs storage conditions."
 keywords: ["textile conservation", "fabric preservation", "museum climate control", "historic costume storage", "fiber degradation", "textile humidity control", "collection HVAC", "textile light damage"]
+tags: ["textile conservation", "fabric preservation", "museum climate control", "historic costume storage", "fiber degradation", "textile humidity control", "collection HVAC", "textile light damage"]
 weight: 3
 ---
 

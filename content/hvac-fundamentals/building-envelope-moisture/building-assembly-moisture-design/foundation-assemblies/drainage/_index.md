@@ -1,5 +1,6 @@
 ---
 title: "Drainage"
+aliases: ["Drainage"]
 weight: 3
 ---
 

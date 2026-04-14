@@ -1,5 +1,6 @@
 ---
 title: "Certified Energy Manager (CEM)"
+aliases: ["Certified Energy Manager (CEM)"]
 description: "Comprehensive guide to AEE's Certified Energy Manager certification covering exam domains, eligibility requirements, energy management expertise, and career advancement opportunities"
 keywords: ["certified energy manager", "CEM certification", "AEE energy manager", "energy management professional", "energy auditing certification", "building energy efficiency", "energy systems optimization", "CEM exam preparation", "energy manager career", "facility energy management"]
 tags: ["certification", "energy-management", "professional-development", "AEE", "energy-efficiency", "career-advancement"]

@@ -1,7 +1,9 @@
 ---
 title: "Potato Storage Temperature: End-Use Requirements"
+aliases: ["Potato Storage Temperature: End-Use Requirements"]
 description: "Technical guide to potato storage temperature control from 38-50°F based on end-use requirements. Includes respiration thermodynamics, sugar conversion kinetics."
 keywords: ["potato storage temperature", "cold-induced sweetening", "respiration heat load", "processing potato HVAC", "reducing sugar formation", "storage climate control", "post-harvest cooling", "starch-sugar conversion"]
+tags: ["potato storage temperature", "cold-induced sweetening", "respiration heat load", "processing potato HVAC", "reducing sugar formation", "storage climate control", "post-harvest cooling", "starch-sugar conversion"]
 weight: 1
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Milk Storage and Distribution"
+aliases: ["Milk Storage and Distribution"]
 description: "Engineering requirements for refrigerated milk storage tanks, silo cooling systems, distribution temperature control, and PMO compliance in dairy processing facilities"
 weight: 5
 ---

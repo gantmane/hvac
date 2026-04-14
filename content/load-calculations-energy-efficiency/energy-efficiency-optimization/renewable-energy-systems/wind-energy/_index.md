@@ -1,5 +1,6 @@
 ---
 title: "Wind Energy Systems for HVAC Applications"
+aliases: ["Wind Energy Systems for HVAC Applications"]
 description: "Wind energy integration for building HVAC systems including small wind turbines, building-integrated wind power, power calculations, site assessment methods, hybrid systems, and renewable energy optimization for mechanical systems."
 weight: 4
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Ice Storage Systems"
+aliases: ["Ice Storage Systems"]
 description: "Ice thermal storage design including full and partial storage strategies, ice-on-coil, ice harvesting, and encapsulated ice systems for cooling load management and demand reduction."
 weight: 1
 ---

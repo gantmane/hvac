@@ -1,5 +1,6 @@
 ---
 title: "Psychrometric Chart"
+aliases: ["Psychrometric Chart"]
 description: "Comprehensive guide to psychrometric chart construction, interpretation, and application for HVAC process analysis and system design"
 weight: 2
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Cryogenic Freezing for Meat Processing"
+aliases: ["Cryogenic Freezing for Meat Processing"]
 description: "Ultra-rapid cryogenic freezing using liquid nitrogen and CO2 for meat products. Physics-based analysis of freezing rates, ice crystal formation, and quality benefits."
 keywords: ["cryogenic freezing", "liquid nitrogen freezing", "CO2 snow freezing", "IQF meat", "ultra-rapid freezing", "meat quality preservation", "cryogenic refrigeration", "meat processing"]
+tags: ["cryogenic freezing", "liquid nitrogen freezing", "CO2 snow freezing", "IQF meat", "ultra-rapid freezing", "meat quality preservation", "cryogenic refrigeration", "meat processing"]
 weight: 2
 ---
 

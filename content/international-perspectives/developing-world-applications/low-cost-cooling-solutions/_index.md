@@ -1,7 +1,9 @@
 ---
 title: "Low-Cost Cooling Solutions for Hot Climates"
+aliases: ["Low-Cost Cooling Solutions for Hot Climates"]
 description: "Comprehensive guide to passive and low-energy cooling technologies including evaporative cooling physics, earth tubes, roof ponds, and night ventilation strategies for resource-constrained applications"
 keywords: ["evaporative cooling", "passive cooling", "earth tubes", "roof ponds", "night flush ventilation", "low-cost HVAC", "appropriate technology", "developing world cooling", "swamp coolers", "direct evaporative cooling", "indirect evaporative cooling"]
+tags: ["evaporative cooling", "passive cooling", "earth tubes", "roof ponds", "night flush ventilation", "low-cost HVAC", "appropriate technology", "developing world cooling", "swamp coolers", "direct evaporative cooling"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Cooling and Freezing Times for Foods"
+aliases: ["Cooling and Freezing Times for Foods"]
 description: "Cooling and freezing time prediction methods for food products including Plank equation, Biot number analysis, and ASHRAE calculation procedures for refrigeration system design"
 weight: 11
 ---

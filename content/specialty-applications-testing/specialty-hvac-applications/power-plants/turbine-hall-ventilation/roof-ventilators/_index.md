@@ -1,8 +1,10 @@
 ---
 title: "Roof Ventilators for Turbine Hall Heat Removal"
+aliases: ["Roof Ventilators for Turbine Hall Heat Removal"]
 weight: 2
 description: "Engineering analysis of gravity and powered roof ventilators for turbine hall heat removal, including stack effect calculations, sizing methodology, intake coordination, and redundancy requirements."
 keywords: ["roof ventilators", "turbine hall ventilation", "stack effect", "natural ventilation", "gravity ventilators", "powered roof exhaust", "heat removal", "buoyancy-driven flow"]
+tags: ["roof ventilators", "turbine hall ventilation", "stack effect", "natural ventilation", "gravity ventilators", "powered roof exhaust", "heat removal", "buoyancy-driven flow"]
 ---
 
 ## Physics of Roof-Mounted Heat Removal

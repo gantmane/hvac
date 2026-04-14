@@ -1,7 +1,9 @@
 ---
 title: "Filtration Systems for Rare Book Library Protection"
+aliases: ["Filtration Systems for Rare Book Library Protection"]
 description: "Advanced multi-stage filtration systems for rare book libraries including particulate removal, gaseous pollutant control, and acid vapor protection strategies."
 keywords: ["rare book filtration", "library air quality", "gaseous filtration", "particulate removal", "acid vapor control", "archive filtration", "collection preservation", "molecular filtration"]
+tags: ["rare book filtration", "library air quality", "gaseous filtration", "particulate removal", "acid vapor control", "archive filtration", "collection preservation", "molecular filtration"]
 weight: 3
 ---
 

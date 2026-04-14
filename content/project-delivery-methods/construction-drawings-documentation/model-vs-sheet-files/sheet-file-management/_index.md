@@ -1,5 +1,6 @@
 ---
 title: "Sheet File Management"
+aliases: ["Sheet File Management"]
 weight: 2
 ---
 

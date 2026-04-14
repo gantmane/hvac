@@ -1,7 +1,9 @@
 ---
 title: "Symphony Hall HVAC: Acoustics & Climate Control"
+aliases: ["Symphony Hall HVAC: Acoustics & Climate Control"]
 description: "Technical requirements for symphony hall HVAC systems including acoustic noise control, instrument humidity protection, underfloor air distribution, and organ pipe temperature stability."
 keywords: ["symphony hall HVAC", "concert hall acoustics", "instrument humidity control", "underfloor air distribution", "organ pipe temperature", "NC-15 criteria", "musical instrument climate", "performer thermal comfort"]
+tags: ["symphony hall HVAC", "concert hall acoustics", "instrument humidity control", "underfloor air distribution", "organ pipe temperature", "NC-15 criteria", "musical instrument climate", "performer thermal comfort"]
 weight: 1
 ---
 

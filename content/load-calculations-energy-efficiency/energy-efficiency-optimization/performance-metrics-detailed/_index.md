@@ -1,5 +1,6 @@
 ---
 title: "Performance Metrics Detailed"
+aliases: ["Performance Metrics Detailed"]
 weight: 1
 ---
 

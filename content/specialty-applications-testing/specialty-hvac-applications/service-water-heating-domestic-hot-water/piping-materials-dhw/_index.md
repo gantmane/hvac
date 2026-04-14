@@ -1,5 +1,6 @@
 ---
 title: "Piping Materials for Domestic Hot Water Systems"
+aliases: ["Piping Materials for Domestic Hot Water Systems"]
 weight: 11
 description: "Engineering guide to DHW piping materials including copper, CPVC, PEX, and stainless steel with temperature ratings, pressure specifications, and code compliance requirements."
 keywords:

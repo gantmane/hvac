@@ -1,7 +1,9 @@
 ---
 title: "Temperature-Controlled Recirculation Pumps"
+aliases: ["Temperature-Controlled Recirculation Pumps"]
 description: "Engineering guide to temperature-controlled domestic hot water recirculation systems covering sensor placement, setpoint control, deadband optimization, and energy-efficient operation."
 keywords: ["temperature controlled pumps", "aquastat control", "DHW recirculation", "setpoint deadband", "sensor placement", "thermal response time", "energy optimization", "differential control"]
+tags: ["temperature controlled pumps", "aquastat control", "DHW recirculation", "setpoint deadband", "sensor placement", "thermal response time", "energy optimization", "differential control"]
 weight: 3
 ---
 

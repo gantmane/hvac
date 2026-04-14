@@ -1,5 +1,6 @@
 ---
 title: "Procurement Methods and Contract Types for HVAC Projects"
+aliases: ["Procurement Methods and Contract Types for HVAC Projects"]
 description: "Comprehensive guide to HVAC procurement including competitive bidding, negotiated contracts, GMP, lump sum, cost-plus, and contract selection strategies."
 date: "2026-01-04"
 author: "Evgeniy Gantman"

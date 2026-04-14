@@ -1,7 +1,9 @@
 ---
 title: "Dark-Fired Tobacco Curing Systems"
+aliases: ["Dark-Fired Tobacco Curing Systems"]
 description: "Fire curing process using smoke exposure, temperature control, and ventilation management for dark-fired tobacco. Includes barn design and safety considerations."
 keywords: ["dark-fired tobacco", "fire curing", "smoke curing", "tobacco barn", "curing process", "smoke exposure", "fire safety", "tobacco quality"]
+tags: ["dark-fired tobacco", "fire curing", "smoke curing", "tobacco barn", "curing process", "smoke exposure", "fire safety", "tobacco quality"]
 weight: 3
 ---
 

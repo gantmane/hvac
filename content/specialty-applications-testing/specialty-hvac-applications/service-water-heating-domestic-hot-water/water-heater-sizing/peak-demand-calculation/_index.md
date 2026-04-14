@@ -1,7 +1,9 @@
 ---
 title: "Peak Demand Calculation for Water Heating Systems"
+aliases: ["Peak Demand Calculation for Water Heating Systems"]
 description: "Comprehensive methods for calculating peak hot water demand using fixture units, diversity factors, and probability analysis for residential and commercial applications."
 keywords: ["peak demand calculation", "fixture unit method", "diversity factor", "Hunter curve", "hot water demand", "water heater sizing", "probability of use", "demand profiles"]
+tags: ["peak demand calculation", "fixture unit method", "diversity factor", "Hunter curve", "hot water demand", "water heater sizing", "probability of use", "demand profiles"]
 weight: 3
 ---
 

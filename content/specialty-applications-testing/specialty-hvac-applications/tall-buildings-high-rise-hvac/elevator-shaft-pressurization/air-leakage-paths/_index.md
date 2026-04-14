@@ -1,7 +1,9 @@
 ---
 title: "Air Leakage Paths in Elevator Shafts"
+aliases: ["Air Leakage Paths in Elevator Shafts"]
 description: "Comprehensive analysis of elevator shaft air leakage paths including hoistway door clearances, machine room openings, equivalent leakage area calculations, and testing methods per NFPA 92."
 keywords: ["elevator shaft leakage", "hoistway door clearance", "equivalent leakage area", "shaft pressurization", "NFPA 92", "leakage testing", "machine room ventilation", "smoke control"]
+tags: ["elevator shaft leakage", "hoistway door clearance", "equivalent leakage area", "shaft pressurization", "NFPA 92", "leakage testing", "machine room ventilation", "smoke control"]
 weight: 4
 ---
 

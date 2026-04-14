@@ -1,5 +1,6 @@
 ---
 title: "Sustainability Integration Project Delivery"
+aliases: ["Sustainability Integration Project Delivery"]
 weight: 10
 ---
 

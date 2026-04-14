@@ -1,5 +1,6 @@
 ---
 title: "Chilled Water Storage"
+aliases: ["Chilled Water Storage"]
 description: "Stratified chilled water thermal storage systems design including tank sizing, diffuser selection, temperature stratification maintenance, and system integration for load management."
 weight: 2
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Indoor Arena HVAC Systems"
+aliases: ["Indoor Arena HVAC Systems"]
 description: "Technical guide to HVAC design for indoor arenas covering spectator bowl climate control, premium seating, concourse ventilation, and multi-purpose venue conditioning."
 keywords: ["indoor arena HVAC", "spectator bowl ventilation", "arena air distribution", "premium suite conditioning", "concourse climate control", "multi-purpose venue", "loading dock pressurization", "arena load calculations"]
+tags: ["indoor arena HVAC", "spectator bowl ventilation", "arena air distribution", "premium suite conditioning", "concourse climate control", "multi-purpose venue", "loading dock pressurization", "arena load calculations"]
 weight: 1
 ---
 

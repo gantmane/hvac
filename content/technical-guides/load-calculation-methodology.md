@@ -2,6 +2,7 @@
 title: "Load Calculation Methodology for HVAC Engineers"
 description: "ASHRAE heat balance method, diversity factors, safety margins, and load profile development for accurate HVAC system sizing and energy analysis."
 keywords: ["load calculations", "heat balance method", "diversity factors", "design loads", "system sizing", "ASHRAE methodology"]
+tags: ["load calculations", "heat balance method", "diversity factors", "design loads", "system sizing", "ASHRAE methodology"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 5
@@ -298,10 +299,10 @@ Proper methodology prevents undersizing (comfort issues) and oversizing (efficie
 ---
 
 **Related Technical Guides:**
-- [Heating Load Calculations](/technical-guides/heating-load-calculations/)
-- [Cooling Load Calculations](/technical-guides/cooling-load-calculations/)
-- [Heat Transfer Fundamentals](/technical-guides/heat-transfer-fundamentals/)
-- [Psychrometric Processes](/technical-guides/psychrometric-processes/)
+- Heating Load Calculations
+- Cooling Load Calculations
+- Heat Transfer Fundamentals
+- Psychrometric Processes
 
 **References:**
 - ASHRAE Handbook of Fundamentals, Chapter 18: Residential Cooling and Heating Load Calculations

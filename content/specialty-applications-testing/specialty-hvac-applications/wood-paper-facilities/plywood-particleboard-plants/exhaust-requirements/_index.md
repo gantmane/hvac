@@ -1,5 +1,6 @@
 ---
 title: "Exhaust Requirements for Plywood & Particleboard Plants"
+aliases: ["Exhaust Requirements for Plywood & Particleboard Plants"]
 description: "Technical guidance on local exhaust ventilation, general ventilation, and capture hood design for plywood and particleboard manufacturing facilities."
 date: 2025-01-05
 keywords:

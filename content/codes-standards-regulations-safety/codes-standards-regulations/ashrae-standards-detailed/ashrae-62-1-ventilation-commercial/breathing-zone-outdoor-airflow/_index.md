@@ -1,7 +1,9 @@
 ---
 title: "Breathing Zone Outdoor Airflow"
+aliases: ["Breathing Zone Outdoor Airflow"]
 description: "Technical analysis of breathing zone outdoor airflow calculations per ASHRAE 62.1 including Rp and Ra ventilation rates, occupancy density, and area-based requirements."
 keywords: ["breathing zone", "Vbz calculation", "Rp Ra rates", "ASHRAE Table 6-1", "occupancy ventilation", "area ventilation", "outdoor air requirements"]
+tags: ["breathing zone", "Vbz calculation", "Rp Ra rates", "ASHRAE Table 6-1", "occupancy ventilation", "area ventilation", "outdoor air requirements"]
 date: 2026-01-04
 weight: 2
 ---

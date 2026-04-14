@@ -1,5 +1,6 @@
 ---
 title: "Advanced Heat Exchanger Materials"
+aliases: ["Advanced Heat Exchanger Materials"]
 weight: 4
 ---
 

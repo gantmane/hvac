@@ -1,7 +1,9 @@
 ---
 title: "Auxiliary Fans in Underground Mine Ventilation"
+aliases: ["Auxiliary Fans in Underground Mine Ventilation"]
 description: "Technical analysis of auxiliary fan systems for development headings, including forcing/exhausting configurations, duct design, recirculation prevention, and MSHA compliance."
 keywords: ["auxiliary mine fans", "development heading ventilation", "forcing vs exhausting fans", "mine duct systems", "booster fans", "MSHA ventilation", "face ventilation", "recirculation prevention"]
+tags: ["auxiliary mine fans", "development heading ventilation", "forcing vs exhausting fans", "mine duct systems", "booster fans", "MSHA ventilation", "face ventilation", "recirculation prevention"]
 weight: 2
 ---
 

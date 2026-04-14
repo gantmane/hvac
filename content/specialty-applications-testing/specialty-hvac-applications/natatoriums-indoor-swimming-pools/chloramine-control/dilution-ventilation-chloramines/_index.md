@@ -1,7 +1,9 @@
 ---
 title: "Dilution Ventilation for Chloramine Control"
+aliases: ["Dilution Ventilation for Chloramine Control"]
 description: "Engineering principles of dilution ventilation for chloramine control in natatoriums including ventilation rate calculations, air change effectiveness, and optimal supply-exhaust patterns."
 keywords: ["dilution ventilation", "chloramine control", "natatorium ventilation rates", "air change effectiveness", "pool ventilation design", "outdoor air requirements", "exhaust placement", "supply air distribution"]
+tags: ["dilution ventilation", "chloramine control", "natatorium ventilation rates", "air change effectiveness", "pool ventilation design", "outdoor air requirements", "exhaust placement", "supply air distribution"]
 weight: 3
 ---
 

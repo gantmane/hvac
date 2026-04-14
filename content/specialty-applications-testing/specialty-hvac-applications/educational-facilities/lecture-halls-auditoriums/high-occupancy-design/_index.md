@@ -1,5 +1,6 @@
 ---
 title: "High-Occupancy HVAC Design for Lecture Halls"
+aliases: ["High-Occupancy HVAC Design for Lecture Halls"]
 description: "Engineering principles for HVAC systems in high-density educational spaces including ventilation calculations, peak load management, and CO2 control per ASHRAE 62.1."
 date: 2025-01-05
 weight: 1

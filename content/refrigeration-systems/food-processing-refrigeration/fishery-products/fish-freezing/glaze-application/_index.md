@@ -1,8 +1,10 @@
 ---
 title: "Ice Glaze Application for Frozen Fish"
+aliases: ["Ice Glaze Application for Frozen Fish"]
 weight: 4
 description: "Ice glaze application methods for frozen fish including dip and spray glazing techniques, moisture barrier protection, glaze weight percentages, and storage life extension mechanisms."
 keywords: ["ice glaze application", "fish glazing methods", "moisture barrier protection", "freezer burn prevention", "glaze weight percentage", "spray glazing", "dip glazing", "frozen fish protection"]
+tags: ["ice glaze application", "fish glazing methods", "moisture barrier protection", "freezer burn prevention", "glaze weight percentage", "spray glazing", "dip glazing", "frozen fish protection"]
 ---
 
 Ice glaze application forms a critical protective barrier on frozen fish products, preventing sublimation-driven moisture loss and oxidative degradation during frozen storage. The process involves coating frozen fish surfaces with a thin ice layer that serves as both a physical barrier and thermal buffer.

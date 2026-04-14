@@ -1,5 +1,6 @@
 ---
 title: "Water Treatment Hydronic"
+aliases: ["Water Treatment Hydronic"]
 weight: 7
 ---
 

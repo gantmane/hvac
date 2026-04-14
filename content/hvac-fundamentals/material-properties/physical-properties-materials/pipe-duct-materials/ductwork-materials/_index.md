@@ -1,5 +1,6 @@
 ---
 title: "Ductwork Materials"
+aliases: ["Ductwork Materials"]
 description: "Comprehensive analysis of HVAC ductwork materials including galvanized steel, aluminum, stainless steel, fiberglass duct board, and flexible duct - thermal properties, gauge specifications, pressure classes, and SMACNA construction standards"
 weight: 5
 ---

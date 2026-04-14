@@ -1,5 +1,6 @@
 ---
 title: "Filter Selection for Biosecurity Applications"
+aliases: ["Filter Selection for Biosecurity Applications"]
 weight: 5
 description: "Engineering methodology for selecting HEPA, ULPA, and activated carbon filters in biosecurity systems with MERV rating analysis, pressure drop calculations, and life-cycle cost optimization per ASHRAE Standards 52.2 and 62.1."
 keywords:

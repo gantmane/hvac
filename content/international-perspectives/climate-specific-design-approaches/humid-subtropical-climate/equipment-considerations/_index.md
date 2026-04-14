@@ -1,5 +1,6 @@
 ---
 title: "Equipment Considerations for Humid Subtropical Climate"
+aliases: ["Equipment Considerations for Humid Subtropical Climate"]
 description: "Technical guidance on HVAC equipment selection, sizing, and dehumidification strategies for humid subtropical climates with high latent loads and moisture control."
 date: 2025-01-05
 tags: ["humid subtropical", "equipment selection", "dehumidification", "latent load", "moisture control", "climate design"]

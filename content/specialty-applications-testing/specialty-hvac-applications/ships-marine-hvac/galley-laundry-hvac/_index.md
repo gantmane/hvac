@@ -1,8 +1,10 @@
 ---
 title: "Marine Galley and Laundry HVAC Systems"
+aliases: ["Marine Galley and Laundry HVAC Systems"]
 weight: 8
 description: "Engineering guide to ship galley and laundry HVAC design covering high-load service spaces, odor control, fire safety, ventilation rates, and heat removal per SOLAS and USCG standards."
 keywords: ["marine galley HVAC", "ship laundry ventilation", "galley exhaust systems", "marine service spaces", "ship HVAC loads", "galley odor control", "marine fire safety", "USCG ventilation"]
+tags: ["marine galley HVAC", "ship laundry ventilation", "galley exhaust systems", "marine service spaces", "ship HVAC loads", "galley odor control", "marine fire safety", "USCG ventilation"]
 ---
 
 Marine galleys and laundries generate extreme heat, moisture, and contaminant loads in confined spaces while presenting significant fire safety concerns. These service spaces require specialized HVAC design to maintain safe working conditions, prevent odor migration, and ensure compliance with SOLAS, USCG, and classification society requirements.

@@ -1,5 +1,6 @@
 ---
 title: "Power Plant Control Room HVAC Systems"
+aliases: ["Power Plant Control Room HVAC Systems"]
 linkTitle: "Control Room HVAC"
 description: "Comprehensive guide to critical HVAC systems for power plant control rooms, including redundancy requirements, precision climate control, pressurization strategies, and 24/7 reliability standards."
 keywords:

@@ -1,8 +1,10 @@
 ---
 title: "Coal Combustion Environmental Impacts"
+aliases: ["Coal Combustion Environmental Impacts"]
 weight: 4
 description: "Comprehensive analysis of environmental emissions from coal combustion including CO2, SO2, NOx, and particulate matter with EPA emission factors and ash disposal requirements."
 keywords: ["coal emissions", "sulfur dioxide", "nitrogen oxides", "coal ash disposal", "particulate matter", "CO2 emissions", "coal environmental impact", "EPA emission factors"]
+tags: ["coal emissions", "sulfur dioxide", "nitrogen oxides", "coal ash disposal", "particulate matter", "CO2 emissions", "coal environmental impact", "EPA emission factors"]
 ---
 
 Coal combustion in heating systems produces significant environmental emissions that must be controlled and managed. The combustion process releases multiple pollutants including carbon dioxide, sulfur dioxide, nitrogen oxides, particulate matter, and heavy metals. Understanding emission rates and control requirements is essential for system design and regulatory compliance.

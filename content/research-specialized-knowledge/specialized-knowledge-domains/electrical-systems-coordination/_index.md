@@ -1,5 +1,6 @@
 ---
 title: "Electrical Systems Coordination"
+aliases: ["Electrical Systems Coordination"]
 description: "Integration of HVAC mechanical systems with electrical power distribution, control wiring, and emergency power infrastructure"
 weight: 5
 ---

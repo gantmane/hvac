@@ -1,5 +1,6 @@
 ---
 title: "Plywood and Particleboard Plant HVAC Systems"
+aliases: ["Plywood and Particleboard Plant HVAC Systems"]
 linkTitle: "Plywood Particleboard Plants"
 weight: 2
 description: "Technical guidance for HVAC and process ventilation in plywood and particleboard manufacturing facilities including dryer exhaust, hot press ventilation, resin fume control, and wood dust collection systems."

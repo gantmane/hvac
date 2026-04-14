@@ -1,7 +1,9 @@
 ---
 title: "Ships and Marine HVAC Systems"
+aliases: ["Ships and Marine HVAC Systems"]
 description: "Technical overview of marine HVAC systems for commercial vessels, naval ships, and cruise ships including seawater cooling, engine room ventilation, and marine environment design considerations."
 keywords: ["marine HVAC", "ship air conditioning", "seawater cooling", "engine room ventilation", "naval vessel HVAC", "cruise ship climate control", "marine environment", "IMO standards", "corrosion resistant HVAC", "ship ventilation systems"]
+tags: ["marine HVAC", "ship air conditioning", "seawater cooling", "engine room ventilation", "naval vessel HVAC", "cruise ship climate control", "marine environment", "IMO standards", "corrosion resistant HVAC", "ship ventilation systems"]
 weight: 25
 ---
 

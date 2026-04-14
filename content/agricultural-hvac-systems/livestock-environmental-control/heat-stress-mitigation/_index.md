@@ -1,7 +1,9 @@
 ---
 title: "Heat Stress Mitigation in Livestock Facilities"
+aliases: ["Heat Stress Mitigation in Livestock Facilities"]
 description: "Physics-based approaches to livestock heat stress mitigation including THI calculations, evaporative cooling, tunnel ventilation, and airspeed management."
 keywords: ["temperature humidity index", "livestock cooling", "evaporative cooling", "tunnel ventilation", "heat stress management", "animal thermal comfort", "agricultural HVAC"]
+tags: ["temperature humidity index", "livestock cooling", "evaporative cooling", "tunnel ventilation", "heat stress management", "animal thermal comfort", "agricultural HVAC"]
 weight: 1
 ---
 

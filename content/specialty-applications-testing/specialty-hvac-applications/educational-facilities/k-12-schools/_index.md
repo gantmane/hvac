@@ -1,7 +1,9 @@
 ---
 title: "K-12 School HVAC Systems: Design Requirements and Best Practices"
+aliases: ["K-12 School HVAC Systems: Design Requirements and Best Practices"]
 description: "Comprehensive guide to HVAC design for elementary, middle, and high schools including classroom ventilation rates, system selection, gymnasium conditioning, and cafeteria exhaust requirements per ASHRAE 62.1."
 keywords: ["K-12 HVAC", "school ventilation", "classroom HVAC", "gymnasium HVAC", "cafeteria exhaust", "ASHRAE 62.1 schools", "educational facility HVAC", "school air quality", "classroom ventilation rates", "school HVAC design"]
+tags: ["K-12 HVAC", "school ventilation", "classroom HVAC", "gymnasium HVAC", "cafeteria exhaust", "ASHRAE 62.1 schools", "educational facility HVAC", "school air quality", "classroom ventilation rates", "school HVAC design"]
 weight: 1
 ---
 

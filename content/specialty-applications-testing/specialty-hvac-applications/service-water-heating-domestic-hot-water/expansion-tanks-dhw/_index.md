@@ -1,7 +1,9 @@
 ---
 title: "Expansion Tanks for Domestic Hot Water Systems"
+aliases: ["Expansion Tanks for Domestic Hot Water Systems"]
 description: "Technical guide to thermal expansion control in DHW systems: tank types, sizing calculations, ASME standards, and installation requirements for safe operation."
 keywords: ["thermal expansion tank", "domestic hot water expansion", "DHW pressure relief", "ASME expansion tank", "thermal expansion calculation", "diaphragm expansion tank", "water heater safety", "pressure control DHW"]
+tags: ["thermal expansion tank", "domestic hot water expansion", "DHW pressure relief", "ASME expansion tank", "thermal expansion calculation", "diaphragm expansion tank", "water heater safety", "pressure control DHW"]
 weight: 12
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Global Cooling Efficiency Metrics and Standards"
+aliases: ["Global Cooling Efficiency Metrics and Standards"]
 description: "Technical analysis of worldwide cooling efficiency metrics including SEER, EER, SCOP, CSPF, and regional testing standards. Compare calculation methods, testing conditions, and labeling programs."
 keywords:
   - SEER calculation

@@ -1,7 +1,9 @@
 ---
 title: "Sectoral Energy Use Distribution"
+aliases: ["Sectoral Energy Use Distribution"]
 description: "Analysis of energy consumption patterns across residential, commercial, industrial, and transportation sectors with detailed breakdowns and sector-specific characteristics."
 keywords: ["sectoral energy use", "energy consumption sectors", "residential energy", "commercial buildings", "industrial energy", "transportation energy", "EIA data", "sector energy breakdown"]
+tags: ["sectoral energy use", "energy consumption sectors", "residential energy", "commercial buildings", "industrial energy", "transportation energy", "EIA data", "sector energy breakdown"]
 weight: 1
 ---
 

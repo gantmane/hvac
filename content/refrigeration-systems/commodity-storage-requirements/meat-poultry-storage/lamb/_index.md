@@ -1,8 +1,10 @@
 ---
 title: "Lamb Storage"
+aliases: ["Lamb Storage"]
 weight: 3
 description: "Refrigeration requirements for lamb storage including chilled and frozen conditions, aging processes, humidity control, and shelf life optimization"
 keywords: ["lamb storage", "meat refrigeration", "aging lamb", "frozen lamb", "humidity control", "carcass storage"]
+tags: ["lamb storage", "meat refrigeration", "aging lamb", "frozen lamb", "humidity control", "carcass storage"]
 ---
 
 ## Overview

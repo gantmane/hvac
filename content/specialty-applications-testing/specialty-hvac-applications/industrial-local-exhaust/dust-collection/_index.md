@@ -1,5 +1,6 @@
 ---
 title: "Industrial Dust Collection Systems"
+aliases: ["Industrial Dust Collection Systems"]
 description: "Comprehensive guide to industrial dust collection equipment including cyclones, baghouses, cartridge filters, and wet scrubbers. Covers collection efficiency, particle size considerations, and combustible dust safety per ACGIH and NFPA standards."
 keywords: ["dust collection", "baghouse", "cyclone separator", "cartridge filter", "wet scrubber", "collection efficiency", "combustible dust", "NFPA 654", "ACGIH ventilation", "industrial filtration", "particle capture", "explosion protection"]
 tags: ["dust-collection", "industrial-ventilation", "air-cleaning", "safety", "NFPA", "ACGIH"]

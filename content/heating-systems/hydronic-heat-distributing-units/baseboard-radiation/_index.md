@@ -1,8 +1,10 @@
 ---
 title: "Baseboard Radiation"
+aliases: ["Baseboard Radiation"]
 weight: 1
 description: "Engineering analysis of hydronic baseboard radiation including fin-tube element design, heat transfer physics, output ratings per linear foot, sizing methodologies, enclosure configurations, damper control, series and parallel piping arrangements, and installation practices for hot water heating systems."
 keywords: "baseboard radiation, fin-tube baseboard, baseboard heating, hydronic baseboard, copper tube aluminum fins, element ratings, baseboard sizing, convector baseboard, hot water baseboard"
+tags: ["baseboard radiation", "fin-tube baseboard", "baseboard heating", "hydronic baseboard", "copper tube aluminum fins", "element ratings", "baseboard sizing", "convector baseboard", "hot water baseboard"]
 ---
 
 # Baseboard Radiation

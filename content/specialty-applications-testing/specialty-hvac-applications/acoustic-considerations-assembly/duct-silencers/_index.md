@@ -1,7 +1,9 @@
 ---
 title: "Duct Silencers for HVAC Systems"
+aliases: ["Duct Silencers for HVAC Systems"]
 description: "Technical guide to rectangular and circular duct silencers including insertion loss data, pressure drop calculations, self-noise generation, and selection criteria for HVAC acoustic control."
 keywords: "duct silencers, HVAC silencers, insertion loss, pressure drop, acoustic attenuation, rectangular silencers, circular silencers, self-noise generation, sound attenuation, dissipative silencers"
+tags: ["duct silencers", "HVAC silencers", "insertion loss", "pressure drop", "acoustic attenuation", "rectangular silencers", "circular silencers", "self-noise generation", "sound attenuation", "dissipative silencers"]
 weight: 2
 ---
 

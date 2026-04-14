@@ -1,5 +1,6 @@
 ---
 title: "Transient Conduction"
+aliases: ["Transient Conduction"]
 weight: 2
 ---
 

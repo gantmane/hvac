@@ -1,8 +1,10 @@
 ---
 title: "Refrigerant Toxicity Levels and Classifications"
+aliases: ["Refrigerant Toxicity Levels and Classifications"]
 date: 2026-01-04
 description: "Technical analysis of refrigerant toxicity classifications including Class A/B designations, occupational exposure limits (OEL), permissible exposure limits (PEL), threshold limit values (TLV), and physiological effects per ASHRAE 34 and ACGIH standards."
 keywords: ["refrigerant toxicity", "Class A refrigerant", "Class B refrigerant", "OEL", "PEL", "TLV-TWA", "ASHRAE 34", "ACGIH", "refrigerant exposure", "toxicity classification"]
+tags: ["refrigerant toxicity", "Class A refrigerant", "Class B refrigerant", "OEL", "PEL", "TLV-TWA", "ASHRAE 34", "ACGIH", "refrigerant exposure", "toxicity classification"]
 ---
 
 ## Understanding Refrigerant Toxicity

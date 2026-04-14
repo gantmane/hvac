@@ -1,5 +1,6 @@
 ---
 title: "Ice Fraction Calculations"
+aliases: ["Ice Fraction Calculations"]
 weight: 9
 ---
 

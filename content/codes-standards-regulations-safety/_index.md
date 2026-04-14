@@ -1,9 +1,11 @@
 ---
 title: "Codes, Standards, Regulations & Safety"
+aliases: ["Codes, Standards, Regulations & Safety"]
 description: "Comprehensive technical reference for HVAC codes standards and safety including ASHRAE, NFPA, IMC, refrigerant safety, combustion safety, and OSHA compliance requirements"
 date: "2026-01-04"
 weight: 2
 keywords: ["HVAC codes", "ASHRAE standards", "NFPA codes", "building codes", "refrigerant safety", "HVAC regulations", "mechanical code", "safety requirements"]
+tags: ["HVAC codes", "ASHRAE standards", "NFPA codes", "building codes", "refrigerant safety", "HVAC regulations", "mechanical code", "safety requirements"]
 ---
 
 ## Regulatory Framework for HVAC Systems

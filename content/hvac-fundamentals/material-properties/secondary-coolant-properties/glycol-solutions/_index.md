@@ -1,5 +1,6 @@
 ---
 title: "Glycol Solutions"
+aliases: ["Glycol Solutions"]
 description: "Thermophysical properties of propylene glycol and ethylene glycol aqueous solutions including freeze point depression, viscosity, specific heat, and thermal conductivity for HVAC system design."
 weight: 1
 ---

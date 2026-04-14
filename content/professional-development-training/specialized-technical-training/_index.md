@@ -1,5 +1,6 @@
 ---
 title: "Specialized Technical Training for HVAC Professionals"
+aliases: ["Specialized Technical Training for HVAC Professionals"]
 description: "Advanced technical training programs covering commissioning, energy auditing, building automation, and specialized HVAC systems for professional development."
 date: 2025-01-05
 type: docs

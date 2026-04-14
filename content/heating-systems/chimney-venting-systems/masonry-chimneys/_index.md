@@ -1,5 +1,6 @@
 ---
 title: "Masonry Chimneys"
+aliases: ["Masonry Chimneys"]
 description: "Technical guide to masonry chimney construction, including brick and block types, clay tile and stainless steel liners, clearance requirements, and NFPA 211 code compliance for safe venting of fuel-burning appliances."
 weight: 1
 ---

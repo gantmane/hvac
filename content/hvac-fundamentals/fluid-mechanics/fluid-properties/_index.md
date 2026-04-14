@@ -1,5 +1,6 @@
 ---
 title: "Fluid Properties"
+aliases: ["Fluid Properties"]
 description: "Fundamental physical properties of fluids used in HVAC systems including density, viscosity, compressibility, and thermal expansion characteristics for water, air, refrigerants, and glycol solutions"
 weight: 1
 ---

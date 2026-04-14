@@ -1,7 +1,9 @@
 ---
 title: "Solar Glycol Systems: Design & Heat Exchanger Sizing"
+aliases: ["Solar Glycol Systems: Design & Heat Exchanger Sizing"]
 description: "Technical guide to glycol-based solar water heating systems covering antifreeze protection, propylene glycol concentrations, heat exchanger sizing calculations, and ASHRAE standards."
 keywords: ["glycol solar water heating", "propylene glycol concentration", "solar heat exchanger sizing", "antifreeze protection", "glycol degradation", "solar thermal fluid", "freeze protection", "ASHRAE 90.1"]
+tags: ["glycol solar water heating", "propylene glycol concentration", "solar heat exchanger sizing", "antifreeze protection", "glycol degradation", "solar thermal fluid", "freeze protection", "ASHRAE 90.1"]
 weight: 5
 ---
 

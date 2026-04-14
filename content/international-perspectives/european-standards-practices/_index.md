@@ -1,5 +1,6 @@
 ---
 title: "European HVAC Standards and Practices"
+aliases: ["European HVAC Standards and Practices"]
 description: "Comprehensive guide to European HVAC standards including EN regulations, energy performance directives, refrigerant regulations, and efficiency metrics governing climate control systems across the EU."
 weight: 1
 ---

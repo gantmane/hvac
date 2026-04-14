@@ -1,7 +1,9 @@
 ---
 title: "Carcass Chilling Systems & Microbial Control"
+aliases: ["Carcass Chilling Systems & Microbial Control"]
 description: "Technical analysis of carcass chilling methods including spray chilling, air chilling, combination systems, temperature decline curves, and USDA FSIS microbial control."
 keywords: ["carcass chilling", "spray chilling systems", "air chilling beef", "temperature decline curves", "microbial control meat", "USDA FSIS standards", "carcass cooling rate", "shrink loss reduction"]
+tags: ["carcass chilling", "spray chilling systems", "air chilling beef", "temperature decline curves", "microbial control meat", "USDA FSIS standards", "carcass cooling rate", "shrink loss reduction"]
 weight: 1
 ---
 

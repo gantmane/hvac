@@ -1,7 +1,9 @@
 ---
 title: "Snow Melting System Efficiency Analysis"
+aliases: ["Snow Melting System Efficiency Analysis"]
 description: "Comprehensive analysis of snow melting system efficiency, including COP calculations, energy conversion losses, and comparative performance of hydronic vs electric systems."
 keywords: ["snow melting efficiency", "COP coefficient of performance", "hydronic system efficiency", "electric snow melt", "boiler efficiency", "heat pump snow melting", "energy loss analysis", "system performance"]
+tags: ["snow melting efficiency", "COP coefficient of performance", "hydronic system efficiency", "electric snow melt", "boiler efficiency", "heat pump snow melting", "energy loss analysis", "system performance"]
 weight: 2
 ---
 

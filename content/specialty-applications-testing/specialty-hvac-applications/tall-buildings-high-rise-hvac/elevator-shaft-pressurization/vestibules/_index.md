@@ -1,8 +1,10 @@
 ---
 title: "Elevator Lobby Vestibules and Smoke-Proof Enclosures"
+aliases: ["Elevator Lobby Vestibules and Smoke-Proof Enclosures"]
 weight: 2
 description: "Technical analysis of elevator lobby vestibule design including pressurization requirements, door opening forces, smoke-proof enclosure configurations, and IBC/NFPA compliance strategies."
 keywords: ["elevator lobby pressurization", "smoke-proof enclosure", "vestibule design", "door opening forces", "fire service elevator", "NFPA 92", "IBC 3008", "lobby ventilation"]
+tags: ["elevator lobby pressurization", "smoke-proof enclosure", "vestibule design", "door opening forces", "fire service elevator", "NFPA 92", "IBC 3008", "lobby ventilation"]
 ---
 
 ## Smoke-Proof Enclosure Fundamentals

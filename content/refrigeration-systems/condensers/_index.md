@@ -1,5 +1,6 @@
 ---
 title: "Condensers in Refrigeration Systems"
+aliases: ["Condensers in Refrigeration Systems"]
 weight: 5
 description: "Comprehensive analysis of condenser types, heat transfer mechanisms, capacity calculations, and performance optimization for air-cooled, water-cooled, and evaporative condensers."
 ---

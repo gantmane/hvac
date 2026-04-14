@@ -1,7 +1,9 @@
 ---
 title: "Wind Resource Assessment for HVAC Energy Systems"
+aliases: ["Wind Resource Assessment for HVAC Energy Systems"]
 description: "Technical methodology for wind resource evaluation including site assessment, wind power calculations, resource classification, and turbine selection for HVAC applications."
 keywords: ["wind resource assessment", "wind power density", "wind speed measurement", "turbine selection", "NREL wind data", "wind energy potential", "Weibull distribution", "wind resource class"]
+tags: ["wind resource assessment", "wind power density", "wind speed measurement", "turbine selection", "NREL wind data", "wind energy potential", "Weibull distribution", "wind resource class"]
 weight: 2
 ---
 

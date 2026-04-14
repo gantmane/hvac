@@ -1,5 +1,6 @@
 ---
 title: "Applications"
+aliases: ["Applications"]
 weight: 1
 ---
 

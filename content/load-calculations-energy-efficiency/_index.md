@@ -1,5 +1,6 @@
 ---
 title: "Load Calculations Energy Efficiency"
+aliases: ["Load Calculations Energy Efficiency"]
 weight: 8
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Gasper Outlets in Aircraft Ventilation Systems"
+aliases: ["Gasper Outlets in Aircraft Ventilation Systems"]
 description: "Technical analysis of gasper outlet design, airflow distribution, thermal comfort delivery, and control mechanisms in aircraft environmental control systems."
 date: 2025-01-05
 tags: ["aircraft HVAC", "gasper outlets", "personal ventilation", "cabin comfort", "air distribution"]

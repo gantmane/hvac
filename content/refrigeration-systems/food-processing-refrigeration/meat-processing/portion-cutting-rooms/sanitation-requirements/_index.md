@@ -1,5 +1,6 @@
 ---
 title: "Sanitation Requirements"
+aliases: ["Sanitation Requirements"]
 description: "Comprehensive sanitation requirements for portion cutting room HVAC systems including washdown procedures, drainage design, air handling during cleaning, humidity control, surface materials, and antimicrobial considerations for food safety compliance"
 weight: 2
 ---

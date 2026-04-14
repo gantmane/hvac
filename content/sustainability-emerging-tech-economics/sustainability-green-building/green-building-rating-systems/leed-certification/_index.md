@@ -1,7 +1,9 @@
 ---
 title: "LEED Certification for HVAC Systems"
+aliases: ["LEED Certification for HVAC Systems"]
 description: "Comprehensive guide to LEED certification HVAC requirements, credit categories, point optimization, energy performance standards, indoor air quality prerequisites, and commissioning protocols for green building projects."
 keywords: ["LEED HVAC credits", "energy atmosphere LEED", "ASHRAE 90.1 compliance", "LEED commissioning", "indoor environmental quality", "LEED energy optimization", "minimum energy performance", "enhanced commissioning LEED", "ventilation credits LEED", "thermal comfort LEED"]
+tags: ["LEED HVAC credits", "energy atmosphere LEED", "ASHRAE 90.1 compliance", "LEED commissioning", "indoor environmental quality", "LEED energy optimization", "minimum energy performance", "enhanced commissioning LEED", "ventilation credits LEED", "thermal comfort LEED"]
 date: 2025-01-05
 weight: 1
 ---

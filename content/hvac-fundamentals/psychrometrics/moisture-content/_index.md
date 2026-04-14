@@ -1,5 +1,6 @@
 ---
 title: "Moisture Content"
+aliases: ["Moisture Content"]
 description: "Comprehensive analysis of moisture content in air and building materials including humidity ratio calculations, vapor pressure relationships, condensation prediction, and moisture migration control for HVAC system design and building envelope performance."
 weight: 4
 ---

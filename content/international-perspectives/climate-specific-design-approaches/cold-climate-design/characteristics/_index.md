@@ -1,5 +1,6 @@
 ---
 title: "Cold Climate HVAC Design Characteristics"
+aliases: ["Cold Climate HVAC Design Characteristics"]
 description: "Technical analysis of cold climate HVAC design parameters including heat loss calculations, infiltration rates, and thermal envelope performance metrics."
 date: 2025-01-05
 weight: 1

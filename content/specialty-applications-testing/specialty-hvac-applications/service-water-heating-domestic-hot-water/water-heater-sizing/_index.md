@@ -1,7 +1,9 @@
 ---
 title: "Water Heater Sizing Methods and Calculations"
+aliases: ["Water Heater Sizing Methods and Calculations"]
 description: "Technical guide to water heater sizing methods, storage vs tankless capacity calculations, peak demand estimation, and ASHRAE-based design criteria."
 keywords: ["water heater sizing", "hot water demand", "storage capacity", "tankless heater", "ASHRAE hot water", "DHW sizing", "recovery rate", "first hour rating"]
+tags: ["water heater sizing", "hot water demand", "storage capacity", "tankless heater", "ASHRAE hot water", "DHW sizing", "recovery rate", "first hour rating"]
 weight: 3
 ---
 

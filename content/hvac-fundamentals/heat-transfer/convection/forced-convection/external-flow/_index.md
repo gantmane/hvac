@@ -1,5 +1,6 @@
 ---
 title: "External Flow"
+aliases: ["External Flow"]
 weight: 1
 ---
 

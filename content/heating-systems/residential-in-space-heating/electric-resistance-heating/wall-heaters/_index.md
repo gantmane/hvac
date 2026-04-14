@@ -1,5 +1,6 @@
 ---
 title: "Wall Heaters"
+aliases: ["Wall Heaters"]
 weight: 2
 ---
 

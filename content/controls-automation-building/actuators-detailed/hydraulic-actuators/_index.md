@@ -1,7 +1,9 @@
 ---
 title: "Hydraulic Actuators for HVAC Control Systems"
+aliases: ["Hydraulic Actuators for HVAC Control Systems"]
 description: "Engineering guide to hydraulic actuators in HVAC applications covering pressure calculations, force requirements, electrohydraulic systems, and high-force damper control."
 keywords: ["hydraulic actuators", "electrohydraulic actuators", "hydraulic damper control", "high force actuators", "hydraulic valve control", "HVAC hydraulics", "Pascal's law", "hydraulic pressure systems"]
+tags: ["hydraulic actuators", "electrohydraulic actuators", "hydraulic damper control", "high force actuators", "hydraulic valve control", "HVAC hydraulics", "Pascal's law", "hydraulic pressure systems"]
 weight: 3
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Fire Detection Integration for Smoke Control Systems"
+aliases: ["Fire Detection Integration for Smoke Control Systems"]
 weight: 5
 description: "Technical overview of fire detection system integration with HVAC smoke control, including detector types, activation sequences, and NFPA 72 compliance requirements for large volume spaces."
 keywords: ["fire detection integration", "smoke detector types", "HVAC fire alarm", "NFPA 72", "smoke control activation", "detector placement", "heat detector", "beam detector"]
+tags: ["fire detection integration", "smoke detector types", "HVAC fire alarm", "NFPA 72", "smoke control activation", "detector placement", "heat detector", "beam detector"]
 ---
 
 # Fire Detection Integration

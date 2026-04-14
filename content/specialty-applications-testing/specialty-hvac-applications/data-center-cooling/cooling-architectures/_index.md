@@ -1,7 +1,9 @@
 ---
 title: "Data Center Cooling Architectures"
+aliases: ["Data Center Cooling Architectures"]
 description: "Technical analysis of data center cooling architectures including hot aisle/cold aisle containment, in-row cooling, and overhead supply per ASHRAE TC 9.9 standards."
 keywords: ["data center cooling", "hot aisle cold aisle", "containment systems", "in-row cooling", "CRAC units", "raised floor distribution", "overhead cooling", "ASHRAE TC 9.9"]
+tags: ["data center cooling", "hot aisle cold aisle", "containment systems", "in-row cooling", "CRAC units", "raised floor distribution", "overhead cooling", "ASHRAE TC 9.9"]
 weight: 1
 ---
 

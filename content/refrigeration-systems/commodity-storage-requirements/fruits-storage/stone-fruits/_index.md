@@ -1,5 +1,6 @@
 ---
 title: "Stone Fruits"
+aliases: ["Stone Fruits"]
 weight: 4
 ---
 

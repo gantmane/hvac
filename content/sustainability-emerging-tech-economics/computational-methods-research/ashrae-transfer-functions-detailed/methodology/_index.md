@@ -1,5 +1,6 @@
 ---
 title: "Transfer Function Methodology for Heat Transfer"
+aliases: ["Transfer Function Methodology for Heat Transfer"]
 description: "Comprehensive guide to ASHRAE transfer function methodology for calculating transient heat transfer through building envelopes and thermal mass effects."
 date: 2025-01-05
 weight: 1

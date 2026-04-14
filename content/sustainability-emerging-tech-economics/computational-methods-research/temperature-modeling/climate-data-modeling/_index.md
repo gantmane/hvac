@@ -1,5 +1,6 @@
 ---
 title: "Climate Data Modeling for HVAC Design"
+aliases: ["Climate Data Modeling for HVAC Design"]
 description: "Climate data modeling synthesizes meteorological parameters for HVAC load calculations. Physics-based methods generate hourly temperature, solar radiation, and humidity data."
 weight: 3
 ---

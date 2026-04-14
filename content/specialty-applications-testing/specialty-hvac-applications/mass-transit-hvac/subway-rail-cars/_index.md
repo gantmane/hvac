@@ -1,7 +1,9 @@
 ---
 title: "Subway Rail Car HVAC Systems"
+aliases: ["Subway Rail Car HVAC Systems"]
 description: "Technical analysis of subway rail car HVAC design including cooling capacity calculations, ventilation requirements, tunnel heat rejection, and environmental challenges for underground transit systems."
 keywords: ["subway HVAC", "rail car air conditioning", "tunnel heat rejection", "transit ventilation", "underground railway climate control", "metro HVAC systems"]
+tags: ["subway HVAC", "rail car air conditioning", "tunnel heat rejection", "transit ventilation", "underground railway climate control", "metro HVAC systems"]
 weight: 1
 ---
 

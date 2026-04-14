@@ -1,5 +1,6 @@
 ---
 title: "Resource-Constrained HVAC Design for Developing Markets"
+aliases: ["Resource-Constrained HVAC Design for Developing Markets"]
 description: "Engineering HVAC systems for limited budgets, unreliable power, and constrained infrastructure in developing regions with physics-based optimization."
 date: 2025-01-05
 tags: ["developing world", "resource constraints", "low-cost design", "passive cooling", "appropriate technology", "rural HVAC"]

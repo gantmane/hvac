@@ -1,8 +1,10 @@
 ---
 title: "Electric Heating Systems for Automotive HVAC"
+aliases: ["Electric Heating Systems for Automotive HVAC"]
 weight: 3
 description: "Technical analysis of PTC heaters, high-voltage heating elements, power consumption, and thermal response in electric and hybrid vehicle climate control applications."
 keywords: ["PTC heater automotive", "electric vehicle heating", "positive temperature coefficient", "high voltage heater", "EV HVAC power consumption", "resistive heating elements", "automotive electric heat", "hybrid vehicle heating"]
+tags: ["PTC heater automotive", "electric vehicle heating", "positive temperature coefficient", "high voltage heater", "EV HVAC power consumption", "resistive heating elements", "automotive electric heat", "hybrid vehicle heating"]
 ---
 
 Electric heating systems have become essential components in modern automotive HVAC, particularly for battery electric vehicles (BEVs) and plug-in hybrid electric vehicles (PHEVs) that lack sufficient waste heat from internal combustion engines. These systems provide instantaneous cabin heating through direct electrical energy conversion, operating at voltage levels ranging from 12V DC for supplemental applications to 800V DC in high-performance EV architectures.

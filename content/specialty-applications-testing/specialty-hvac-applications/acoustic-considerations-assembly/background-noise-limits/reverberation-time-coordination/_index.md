@@ -1,5 +1,6 @@
 ---
 title: "HVAC Reverberation Time Coordination"
+aliases: ["HVAC Reverberation Time Coordination"]
 description: "Engineering guidance on coordinating HVAC system design with architectural acoustics including RT60 calculations, diffuser placement, and absorption contributions."
 date: 2026-01-11
 tags: ["reverberation time", "RT60", "acoustics", "diffuser placement", "sound absorption", "Sabine equation", "assembly spaces", "room acoustics"]

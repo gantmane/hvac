@@ -1,8 +1,10 @@
 ---
 title: "Glycol vs Drainback Solar Water Heating Systems"
+aliases: ["Glycol vs Drainback Solar Water Heating Systems"]
 weight: 3
 description: "Technical comparison of glycol antifreeze and drainback freeze protection methods for solar thermal systems, including heat transfer analysis, system complexity, and maintenance requirements."
 keywords: ["solar water heating", "glycol antifreeze", "drainback system", "freeze protection", "solar thermal", "propylene glycol", "heat transfer fluid", "solar collector"]
+tags: ["solar water heating", "glycol antifreeze", "drainback system", "freeze protection", "solar thermal", "propylene glycol", "heat transfer fluid", "solar collector"]
 ---
 
 Solar water heating systems operating in freezing climates require reliable freeze protection. The two dominant approaches—pressurized glycol systems and drainback systems—represent fundamentally different engineering philosophies with distinct performance characteristics, maintenance demands, and failure modes.

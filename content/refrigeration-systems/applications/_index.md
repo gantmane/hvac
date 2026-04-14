@@ -1,8 +1,10 @@
 ---
 title: "Applications"
+aliases: ["Applications"]
 weight: 9
 description: "Comprehensive overview of refrigeration system applications across commercial, industrial, and transport sectors including system selection, load characteristics, and performance requirements"
 keywords: ["commercial refrigeration", "industrial refrigeration", "transport refrigeration", "cold storage", "process cooling", "food preservation", "pharmaceutical cold chain"]
+tags: ["commercial refrigeration", "industrial refrigeration", "transport refrigeration", "cold storage", "process cooling", "food preservation", "pharmaceutical cold chain"]
 ---
 
 Refrigeration systems serve diverse applications across multiple sectors, each with specific temperature requirements, load profiles, and operational constraints. Selection of appropriate refrigeration technology depends on capacity requirements, temperature range, product characteristics, energy efficiency targets, and regulatory compliance.

@@ -1,5 +1,6 @@
 ---
 title: "Data Analytics Machine Learning"
+aliases: ["Data Analytics Machine Learning"]
 weight: 7
 ---
 

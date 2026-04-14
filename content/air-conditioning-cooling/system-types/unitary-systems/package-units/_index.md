@@ -1,5 +1,6 @@
 ---
 title: "Package Units"
+aliases: ["Package Units"]
 weight: 2
 ---
 

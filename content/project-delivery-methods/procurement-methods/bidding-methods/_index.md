@@ -1,5 +1,6 @@
 ---
 title: "Bidding Methods"
+aliases: ["Bidding Methods"]
 description: "Overview of HVAC construction bidding methods including competitive bidding, negotiated procurement, and contractor prequalification processes for effective project procurement."
 weight: 1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Evaporator Performance Analysis"
+aliases: ["Evaporator Performance Analysis"]
 description: "Comprehensive analysis of refrigeration evaporator performance including LMTD and effectiveness-NTU methods, approach temperature optimization, fouling effects, and performance degradation factors for advanced HVAC system design."
 weight: 6
 ---

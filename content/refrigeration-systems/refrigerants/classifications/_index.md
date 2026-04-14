@@ -1,5 +1,6 @@
 ---
 title: "Classifications"
+aliases: ["Classifications"]
 weight: 1
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Direct Vent Systems"
+aliases: ["Direct Vent Systems"]
 description: "Technical guide to direct vent combustion systems including sealed combustion design, concentric and separate pipe configurations, horizontal and vertical termination methods, clearance requirements, outdoor air combustion principles, and zero-clearance installation criteria for residential and commercial heating appliances."
 weight: 4
 ---

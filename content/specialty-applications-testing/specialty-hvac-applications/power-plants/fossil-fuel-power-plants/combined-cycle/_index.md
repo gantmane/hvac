@@ -1,8 +1,10 @@
 ---
 title: "Combined Cycle Power Plant HVAC"
+aliases: ["Combined Cycle Power Plant HVAC"]
 weight: 4
 description: "HVAC design for combined cycle gas turbine plants including gas turbine, HRSG, and steam turbine areas with heat balance calculations and ventilation strategies."
 keywords: ["combined cycle HVAC", "CCGT ventilation", "HRSG cooling", "gas turbine intake", "steam turbine HVAC", "power plant air conditioning", "turbine hall ventilation", "combined cycle efficiency"]
+tags: ["combined cycle HVAC", "CCGT ventilation", "HRSG cooling", "gas turbine intake", "steam turbine HVAC", "power plant air conditioning", "turbine hall ventilation", "combined cycle efficiency"]
 ---
 
 ## Combined Cycle HVAC Design Fundamentals

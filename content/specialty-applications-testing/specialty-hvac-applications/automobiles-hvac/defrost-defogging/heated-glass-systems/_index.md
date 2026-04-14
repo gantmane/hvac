@@ -1,8 +1,10 @@
 ---
 title: "Heated Glass Systems for Vehicle Defrost"
+aliases: ["Heated Glass Systems for Vehicle Defrost"]
 weight: 3
 description: "Technical analysis of automotive heated glass technology including resistive grid defroster design, conductive coating physics, power requirements, and rapid defrost performance characteristics."
 keywords: ["heated glass systems", "rear window defroster", "conductive coatings", "resistive heating elements", "windshield defrost", "wiper park heater", "defrost power requirements", "heated windshield technology"]
+tags: ["heated glass systems", "rear window defroster", "conductive coatings", "resistive heating elements", "windshield defrost", "wiper park heater", "defrost power requirements", "heated windshield technology"]
 ---
 
 ## Physics of Heated Glass Systems

@@ -1,5 +1,6 @@
 ---
 title: "EU Renewable Energy Directive for HVAC Systems"
+aliases: ["EU Renewable Energy Directive for HVAC Systems"]
 description: "Technical analysis of EU Renewable Energy Directive requirements for HVAC systems, including renewable energy integration, calculation methods, and compliance strategies."
 date: 2025-01-05
 tags: ["European Standards", "Renewable Energy", "EU Regulations", "Heat Pumps", "Solar Thermal", "Energy Policy", "Compliance"]

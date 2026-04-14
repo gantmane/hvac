@@ -1,5 +1,6 @@
 ---
 title: "Meat and Poultry Storage"
+aliases: ["Meat and Poultry Storage"]
 description: "Storage temperatures, relative humidity requirements, freezing rates, and cold chain management for fresh and frozen meat and poultry products"
 weight: 3
 ---

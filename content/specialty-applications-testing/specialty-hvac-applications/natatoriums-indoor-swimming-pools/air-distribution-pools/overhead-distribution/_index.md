@@ -1,8 +1,10 @@
 ---
 title: "Overhead Air Distribution in Natatoriums"
+aliases: ["Overhead Air Distribution in Natatoriums"]
 weight: 2
 description: "Engineering guide to overhead air distribution systems for indoor pools covering throw calculations, diffuser selection, condensation control, and draft prevention strategies."
 keywords: ["overhead air distribution", "natatorium diffusers", "pool air throw", "condensation prevention", "high ceiling distribution", "linear slot diffusers", "drum louver diffusers", "nozzle diffusers"]
+tags: ["overhead air distribution", "natatorium diffusers", "pool air throw", "condensation prevention", "high ceiling distribution", "linear slot diffusers", "drum louver diffusers", "nozzle diffusers"]
 ---
 
 ## Overhead Distribution Systems

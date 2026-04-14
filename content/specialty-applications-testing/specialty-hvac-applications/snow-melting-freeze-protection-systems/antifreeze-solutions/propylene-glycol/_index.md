@@ -1,5 +1,6 @@
 ---
 title: "Propylene Glycol in Snow Melting Systems"
+aliases: ["Propylene Glycol in Snow Melting Systems"]
 description: "Technical analysis of propylene glycol freeze protection for hydronic snow melting. Coverage of freezing point depression physics, concentration calculations, heat transfer degradation, and environmental safety."
 keywords:
   - propylene glycol

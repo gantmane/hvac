@@ -1,7 +1,9 @@
 ---
 title: "Seating Density Impact on Theater HVAC Design"
+aliases: ["Seating Density Impact on Theater HVAC Design"]
 description: "Engineering analysis of occupant load calculations, CFM per seat requirements, and diversity factors for movie theater HVAC systems based on seating density and attendance patterns."
 keywords: ["theater seating density", "occupant load HVAC", "CFM per seat", "diversity factor", "sensible heat ratio", "latent load", "theater ventilation", "peak cooling load"]
+tags: ["theater seating density", "occupant load HVAC", "CFM per seat", "diversity factor", "sensible heat ratio", "latent load", "theater ventilation", "peak cooling load"]
 weight: 3
 ---
 

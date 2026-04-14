@@ -1,7 +1,9 @@
 ---
 title: "Fan Coil Systems for Hotel Guest Rooms"
+aliases: ["Fan Coil Systems for Hotel Guest Rooms"]
 description: "Comprehensive guide to fan coil unit configurations, piping systems, condensate management, and acoustic considerations for optimal guest comfort in hotel applications."
 keywords: ["fan coil units", "two-pipe systems", "four-pipe systems", "hotel HVAC", "chilled water", "condensate drainage", "guest room climate", "acoustic control"]
+tags: ["fan coil units", "two-pipe systems", "four-pipe systems", "hotel HVAC", "chilled water", "condensate drainage", "guest room climate", "acoustic control"]
 date: 2025-01-11
 weight: 2
 draft: false

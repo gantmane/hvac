@@ -1,8 +1,10 @@
 ---
 title: "Phase Change Materials Advanced"
+aliases: ["Phase Change Materials Advanced"]
 weight: 3
 description: "Advanced phase change materials for thermal energy storage in HVAC applications including organic PCMs, inorganic salt hydrates, encapsulation technologies, and building integration strategies."
 keywords: "phase change materials, PCM thermal storage, paraffin wax PCM, salt hydrate PCM, microencapsulation, shape stabilized PCM, latent heat storage, building thermal mass, bio-based PCM, eutectic mixtures"
+tags: ["phase change materials", "PCM thermal storage", "paraffin wax PCM", "salt hydrate PCM", "microencapsulation", "shape stabilized PCM", "latent heat storage", "building thermal mass", "bio-based PCM", "eutectic mixtures"]
 ---
 
 Phase change materials represent an advanced thermal energy storage technology that exploits latent heat of fusion to store and release substantial quantities of thermal energy at nearly constant temperature. PCMs undergo phase transitions—typically solid-liquid—absorbing heat during melting and releasing heat during solidification, providing thermal storage densities significantly higher than sensible heat storage.

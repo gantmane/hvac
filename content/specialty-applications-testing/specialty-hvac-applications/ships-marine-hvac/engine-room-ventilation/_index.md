@@ -1,7 +1,9 @@
 ---
 title: "Engine Room Ventilation"
+aliases: ["Engine Room Ventilation"]
 description: "Technical guide to marine engine room ventilation design including combustion air calculations, heat removal requirements, fan sizing, and air distribution for ship machinery spaces."
 keywords: ["marine engine room ventilation", "combustion air requirements", "machinery space cooling", "engine room heat load", "marine ventilation fans", "SOLAS ventilation", "ship engine cooling", "marine HVAC design"]
+tags: ["marine engine room ventilation", "combustion air requirements", "machinery space cooling", "engine room heat load", "marine ventilation fans", "SOLAS ventilation", "ship engine cooling", "marine HVAC design"]
 weight: 6
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Water Chemistry Impact on HVAC Systems"
+aliases: ["Water Chemistry Impact on HVAC Systems"]
 description: "Understand how pool water chemistry affects HVAC design through chloramine formation, corrosion, and off-gassing. Includes ventilation requirements per ASHRAE standards."
 keywords: ["chloramines", "natatorium HVAC", "pool water chemistry", "corrosion protection", "indoor air quality", "trichloramine", "pool ventilation", "ASHRAE natatorium"]
+tags: ["chloramines", "natatorium HVAC", "pool water chemistry", "corrosion protection", "indoor air quality", "trichloramine", "pool ventilation", "ASHRAE natatorium"]
 weight: 12
 ---
 

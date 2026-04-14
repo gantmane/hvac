@@ -1,5 +1,6 @@
 ---
 title: "SMACNA Standards"
+aliases: ["SMACNA Standards"]
 description: "Sheet Metal and Air Conditioning Contractors National Association standards for HVAC duct construction including metal, flexible, fiberglass, and industrial ductwork specifications."
 weight: 1
 ---

@@ -1,7 +1,9 @@
 ---
 title: "DHW Temperature Maintenance Systems"
+aliases: ["DHW Temperature Maintenance Systems"]
 description: "Engineering analysis of domestic hot water temperature maintenance methods including recirculation, heat trace, and demand systems with energy code compliance."
 keywords: ["hot water recirculation", "temperature maintenance", "heat trace", "DHW systems", "ASHRAE 90.1", "energy efficiency", "domestic hot water", "Legionella control"]
+tags: ["hot water recirculation", "temperature maintenance", "heat trace", "DHW systems", "ASHRAE 90.1", "energy efficiency", "domestic hot water", "Legionella control"]
 weight: 6
 ---
 

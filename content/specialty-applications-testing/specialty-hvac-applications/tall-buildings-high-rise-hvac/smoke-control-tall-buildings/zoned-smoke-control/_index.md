@@ -1,7 +1,9 @@
 ---
 title: "Zoned Smoke Control in High-Rise Buildings"
+aliases: ["Zoned Smoke Control in High-Rise Buildings"]
 description: "Floor-by-floor zoned smoke control systems using exhaust, pressurization, and automatic dampers to maintain pressure differentials and prevent smoke migration."
 keywords: ["zoned smoke control", "high-rise smoke exhaust", "floor pressurization", "smoke zone boundaries", "NFPA 92", "fire floor pressure differential", "automatic smoke dampers", "smoke control integration"]
+tags: ["zoned smoke control", "high-rise smoke exhaust", "floor pressurization", "smoke zone boundaries", "NFPA 92", "fire floor pressure differential", "automatic smoke dampers", "smoke control integration"]
 weight: 1
 ---
 

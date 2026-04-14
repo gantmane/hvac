@@ -1,8 +1,10 @@
 ---
 title: "Low-Intensity Infrared Heaters"
+aliases: ["Low-Intensity Infrared Heaters"]
 weight: 2
 description: "Comprehensive engineering analysis of low-intensity gas radiant tube heaters including U-tube and straight tube configurations, vacuum and positive pressure systems, heat exchanger design, warehouse heating applications, and performance optimization for uniform area heating in high-bay facilities."
 keywords: "low-intensity infrared, radiant tube heaters, U-tube heaters, straight tube heaters, vacuum radiant, warehouse heating, uniform radiant heating, tube heat exchangers"
+tags: ["low-intensity infrared", "radiant tube heaters", "U-tube heaters", "straight tube heaters", "vacuum radiant", "warehouse heating", "uniform radiant heating", "tube heat exchangers"]
 ---
 
 # Low-Intensity Infrared Heaters

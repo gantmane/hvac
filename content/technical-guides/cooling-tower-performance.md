@@ -2,6 +2,7 @@
 title: "Cooling Tower Performance for HVAC Engineers"  
 description: "Approach, range, and effectiveness calculations, fan and pump power optimization, and water treatment considerations for evaporative cooling systems."
 keywords: ["cooling tower", "approach temperature", "range", "tower effectiveness", "evaporative cooling", "tower performance"]
+tags: ["cooling tower", "approach temperature", "range", "tower effectiveness", "evaporative cooling", "tower performance"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 16
@@ -80,9 +81,9 @@ Higher COC reduces water consumption but requires better treatment
 ---
 
 **Related Technical Guides:**
-- [Chiller Performance Analysis](/technical-guides/chiller-performance-analysis/)
-- [Psychrometric Processes](/technical-guides/psychrometric-processes/)
-- [Variable Flow System Design](/technical-guides/variable-flow-system-design/)
+- Chiller Performance Analysis
+- Psychrometric Processes
+- Variable Flow System Design
 
 **References:**
 - ASHRAE Handbook of HVAC Systems and Equipment, Chapter 40: Cooling Towers

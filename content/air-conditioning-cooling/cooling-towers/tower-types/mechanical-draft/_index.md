@@ -1,7 +1,9 @@
 ---
 title: "Mechanical Draft Cooling Towers: Design & Selection"
+aliases: ["Mechanical Draft Cooling Towers: Design & Selection"]
 description: "Technical guide to mechanical draft cooling towers covering induced draft, forced draft, crossflow, and counterflow configurations with fan horsepower calculations and CTI standards."
 keywords: ["mechanical draft cooling tower", "induced draft", "forced draft", "counterflow tower", "crossflow tower", "cooling tower fan", "CTI standards", "tower selection"]
+tags: ["mechanical draft cooling tower", "induced draft", "forced draft", "counterflow tower", "crossflow tower", "cooling tower fan", "CTI standards", "tower selection"]
 weight: 1
 ---
 

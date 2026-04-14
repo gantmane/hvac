@@ -1,5 +1,6 @@
 ---
 title: "Solvent Vapor Control in Web Press HVAC"
+aliases: ["Solvent Vapor Control in Web Press HVAC"]
 description: "Engineering analysis of solvent vapor capture systems, LEL calculations, dilution ventilation requirements, and VOC control technologies for heat-set web press operations."
 keywords:
   - solvent vapor control

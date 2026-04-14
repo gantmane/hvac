@@ -1,7 +1,9 @@
 ---
 title: "Locked HVAC Enclosures for Correctional Facilities"
+aliases: ["Locked HVAC Enclosures for Correctional Facilities"]
 description: "Tamper-resistant locked enclosures, thermostat covers, and control protection systems for justice facility HVAC equipment with key control protocols."
 keywords: ["locked HVAC enclosures", "correctional facility HVAC", "tamper-proof thermostat covers", "HVAC security cages", "key control systems", "vandal-resistant equipment", "detention HVAC protection", "welded mesh enclosures"]
+tags: ["locked HVAC enclosures", "correctional facility HVAC", "tamper-proof thermostat covers", "HVAC security cages", "key control systems", "vandal-resistant equipment", "detention HVAC protection", "welded mesh enclosures"]
 weight: 1
 ---
 

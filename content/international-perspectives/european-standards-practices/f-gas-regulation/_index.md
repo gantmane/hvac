@@ -1,5 +1,6 @@
 ---
 title: "EU F-Gas Regulation: HFC Phase-Down and Compliance Requirements"
+aliases: ["EU F-Gas Regulation: HFC Phase-Down and Compliance Requirements"]
 description: "Comprehensive guide to EU Regulation 517/2014 covering HFC phase-down schedules, GWP limits, equipment bans, leak checking requirements, and mandatory record keeping for HVAC systems."
 keywords:
   - EU F-gas regulation

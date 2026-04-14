@@ -1,5 +1,6 @@
 ---
 title: "Compressed Air Atomizing Humidifiers"
+aliases: ["Compressed Air Atomizing Humidifiers"]
 description: "Technical analysis of twin-fluid compressed air atomization humidifiers including droplet size control (10-50 microns), absorption distance requirements, water treatment needs, and complete evaporation design principles."
 weight: 1
 ---

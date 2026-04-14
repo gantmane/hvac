@@ -1,5 +1,6 @@
 ---
 title: "Viscosity Effects on Glycol System Performance"
+aliases: ["Viscosity Effects on Glycol System Performance"]
 description: "Physics-based analysis of glycol viscosity impacts on pumping power, pressure drop, and heat transfer in snow melting systems with pump sizing corrections."
 keywords:
   - glycol viscosity

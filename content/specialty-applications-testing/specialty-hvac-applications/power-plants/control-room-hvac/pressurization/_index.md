@@ -1,5 +1,6 @@
 ---
 title: "Control Room Pressurization Systems"
+aliases: ["Control Room Pressurization Systems"]
 description: "Technical guide to positive pressurization for power plant control rooms: differential pressure maintenance, contamination exclusion, makeup air design, and door interlock strategies."
 keywords:
   - control room pressurization

@@ -1,8 +1,10 @@
 ---
 title: "Condensation Control in Pool Areas"
+aliases: ["Condensation Control in Pool Areas"]
 weight: 5
 description: "Engineering analysis of condensation prevention in natatoriums including dewpoint control, surface temperature calculations, thermal bridging mitigation, and building envelope design for indoor swimming pool facilities."
 keywords: "condensation control, natatorium building envelope, dewpoint temperature, thermal bridging, pool area condensation, glazing systems swimming pools"
+tags: ["condensation control", "natatorium building envelope", "dewpoint temperature", "thermal bridging", "pool area condensation", "glazing systems swimming pools"]
 ---
 
 Condensation control represents a critical building envelope and HVAC integration challenge in natatorium design. The combination of high indoor humidity (50-60% RH) and potential cold surfaces creates conditions conducive to surface condensation, which can cause structural damage, mold growth, material degradation, and safety hazards from slippery surfaces.

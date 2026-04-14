@@ -1,5 +1,6 @@
 ---
 title: "Peach and Nectarine Handling"
+aliases: ["Peach and Nectarine Handling"]
 description: "HVAC requirements for peach and nectarine postharvest handling including precooling methods, chilling injury prevention, ripening room design, and storage specifications for stone fruit quality preservation"
 weight: 1
 ---

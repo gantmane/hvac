@@ -1,5 +1,6 @@
 ---
 title: "Vertical Plate Freezers"
+aliases: ["Vertical Plate Freezers"]
 description: "Comprehensive technical analysis of vertical plate freezer design, gravity-assisted loading systems, marine applications, whole fish freezing, plate configurations, defrost mechanisms, refrigerant distribution, and capacity specifications for commercial food processing"
 weight: 3
 ---

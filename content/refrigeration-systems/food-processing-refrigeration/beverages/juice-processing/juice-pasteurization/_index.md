@@ -1,5 +1,6 @@
 ---
 title: "Juice Pasteurization"
+aliases: ["Juice Pasteurization"]
 description: "HVAC design for juice pasteurization facilities including HTST systems, flash pasteurization cooling, heat recovery, post-pasteurization cooling requirements, and cooling water systems for beverage processing plants."
 weight: 1
 ---

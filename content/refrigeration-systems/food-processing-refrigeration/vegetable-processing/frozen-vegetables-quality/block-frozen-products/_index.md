@@ -1,5 +1,6 @@
 ---
 title: "Block Frozen Products"
+aliases: ["Block Frozen Products"]
 description: "Technical analysis of block freezing systems including plate freezer design, heat transfer calculations, freezing time prediction, and applications for institutional food service products"
 weight: 2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Eggs and Egg Products Refrigeration"
+aliases: ["Eggs and Egg Products Refrigeration"]
 description: "Technical design specifications for egg and egg products refrigeration systems including shell egg storage conditions, processed egg product requirements, temperature and humidity control, quality preservation parameters, and psychrometric considerations for HVAC engineers."
 weight: 8
 ---

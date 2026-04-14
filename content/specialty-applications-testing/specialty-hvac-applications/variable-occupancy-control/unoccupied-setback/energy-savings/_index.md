@@ -1,7 +1,9 @@
 ---
 title: "Unoccupied Setback Energy Savings Analysis"
+aliases: ["Unoccupied Setback Energy Savings Analysis"]
 description: "Quantify energy savings from unoccupied setback strategies. Calculate demand reduction, utility cost savings, and achieve 30-50% energy reductions per ASHRAE 90.1."
 keywords: ["unoccupied setback savings", "HVAC energy reduction", "setback energy calculations", "demand charge reduction", "utility cost savings", "ASHRAE 90.1 setback", "occupancy energy savings", "HVAC operating cost reduction"]
+tags: ["unoccupied setback savings", "HVAC energy reduction", "setback energy calculations", "demand charge reduction", "utility cost savings", "ASHRAE 90.1 setback", "occupancy energy savings", "HVAC operating cost reduction"]
 weight: 1
 ---
 

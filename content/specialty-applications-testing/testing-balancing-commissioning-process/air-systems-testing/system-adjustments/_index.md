@@ -1,9 +1,11 @@
 ---
 title: "System Adjustments and Proportional Balancing"
+aliases: ["System Adjustments and Proportional Balancing"]
 description: "Technical procedures for HVAC air system adjustments including damper positioning, fan speed control, stepwise proportional balancing, and tolerance verification."
 date: 2025-01-05
 weight: 4
 keywords: ["proportional balancing", "damper adjustment", "fan speed control", "air balancing tolerance", "stepwise balancing method", "AABC standards", "NEBB procedures", "terminal balancing"]
+tags: ["proportional balancing", "damper adjustment", "fan speed control", "air balancing tolerance", "stepwise balancing method", "AABC standards", "NEBB procedures", "terminal balancing"]
 ---
 
 ## Overview

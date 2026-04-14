@@ -1,5 +1,6 @@
 ---
 title: "Latin America HVAC Incentive Programs"
+aliases: ["Latin America HVAC Incentive Programs"]
 description: "Government incentives for sustainable HVAC systems across Latin America including tax credits, rebates, and energy efficiency programs with technical requirements."
 date: 2025-01-05
 draft: false

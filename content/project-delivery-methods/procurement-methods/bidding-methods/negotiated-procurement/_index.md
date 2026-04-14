@@ -1,5 +1,6 @@
 ---
 title: "Negotiated Procurement"
+aliases: ["Negotiated Procurement"]
 description: "Comprehensive guide to negotiated procurement methods for HVAC construction projects, including RFP processes, qualifications-based selection, best value procurement, and negotiated pricing strategies."
 weight: 2
 ---

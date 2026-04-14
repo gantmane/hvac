@@ -1,5 +1,6 @@
 ---
 title: "Solar Thermal Pumps and Controllers"
+aliases: ["Solar Thermal Pumps and Controllers"]
 description: "Technical analysis of circulation pumps, differential controllers, flow requirements, pump sizing calculations, and control strategies for solar thermal HVAC systems."
 keywords:
   - solar thermal pumps

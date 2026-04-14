@@ -1,5 +1,6 @@
 ---
 title: "Transparent Insulation"
+aliases: ["Transparent Insulation"]
 weight: 2
 ---
 

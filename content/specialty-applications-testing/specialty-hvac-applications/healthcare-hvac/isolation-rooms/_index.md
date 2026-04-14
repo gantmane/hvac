@@ -1,8 +1,10 @@
 ---
 title: "Isolation Rooms in Healthcare HVAC Systems"
+aliases: ["Isolation Rooms in Healthcare HVAC Systems"]
 weight: 2
 description: "Comprehensive guide to airborne infection isolation (AII) room design, negative pressure requirements, air change rates, anteroom configuration, exhaust treatment, and monitoring per ASHRAE 170 and CDC guidelines."
 keywords: ["airborne infection isolation", "negative pressure rooms", "healthcare HVAC", "ASHRAE 170", "isolation room design", "anteroom requirements", "pressure differential monitoring", "HEPA filtration"]
+tags: ["airborne infection isolation", "negative pressure rooms", "healthcare HVAC", "ASHRAE 170", "isolation room design", "anteroom requirements", "pressure differential monitoring", "HEPA filtration"]
 ---
 
 ## Overview

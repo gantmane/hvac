@@ -1,5 +1,6 @@
 ---
 title: "Smoking Processes for Poultry HVAC Control"
+aliases: ["Smoking Processes for Poultry HVAC Control"]
 description: "Engineering principles for HVAC systems in poultry smoking operations including temperature control, humidity management, smoke density, and heat/mass transfer."
 date: 2025-01-05
 tags: ["smoking", "poultry processing", "food processing", "humidity control", "smoke generation", "thermal processing"]

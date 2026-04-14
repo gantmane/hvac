@@ -1,5 +1,6 @@
 ---
 title: "24/7 Control Room HVAC Continuous Operation"
+aliases: ["24/7 Control Room HVAC Continuous Operation"]
 linkTitle: "24/7 Operation"
 description: "Engineering principles for continuous control room HVAC operation including cooling load calculations, redundancy strategies, reliability analysis, and zero-downtime design."
 keywords:

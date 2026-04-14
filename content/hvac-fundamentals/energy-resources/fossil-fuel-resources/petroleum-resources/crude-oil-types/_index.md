@@ -1,7 +1,9 @@
 ---
 title: "Crude Oil Types and Classification Systems"
+aliases: ["Crude Oil Types and Classification Systems"]
 description: "Technical classification of crude oil by API gravity and sulfur content. Covers light vs heavy crude, sweet vs sour grades, and benchmark crude standards."
 keywords: ["API gravity", "sweet crude oil", "sour crude oil", "light crude oil", "heavy crude oil", "benchmark crudes", "sulfur content", "WTI crude"]
+tags: ["API gravity", "sweet crude oil", "sour crude oil", "light crude oil", "heavy crude oil", "benchmark crudes", "sulfur content", "WTI crude"]
 weight: 1
 ---
 

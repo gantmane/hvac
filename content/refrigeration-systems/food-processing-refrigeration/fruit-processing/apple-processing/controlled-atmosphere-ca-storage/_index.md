@@ -1,5 +1,6 @@
 ---
 title: "Controlled Atmosphere (CA) Storage"
+aliases: ["Controlled Atmosphere (CA) Storage"]
 description: "Engineering fundamentals of controlled atmosphere storage systems for apples including gas management, refrigeration integration, sealing requirements, and variety-specific protocols for extended storage duration and quality retention"
 weight: 2
 ---

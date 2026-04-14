@@ -1,5 +1,6 @@
 ---
 title: "Aircraft Cargo Refrigeration"
+aliases: ["Aircraft Cargo Refrigeration"]
 weight: 1
 ---
 

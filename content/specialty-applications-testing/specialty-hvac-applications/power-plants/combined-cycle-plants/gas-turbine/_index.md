@@ -1,5 +1,6 @@
 ---
 title: "Gas Turbine Inlet Conditioning & Enclosure HVAC"
+aliases: ["Gas Turbine Inlet Conditioning & Enclosure HVAC"]
 description: "Engineering principles for gas turbine inlet air cooling, filtration, and enclosure ventilation systems including performance optimization and thermodynamic analysis."
 keywords:
   - gas turbine inlet cooling

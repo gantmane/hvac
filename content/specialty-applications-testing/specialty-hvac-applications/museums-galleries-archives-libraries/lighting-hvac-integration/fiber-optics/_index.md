@@ -1,7 +1,9 @@
 ---
 title: "Fiber Optic Lighting Systems for Zero-Heat Display"
+aliases: ["Fiber Optic Lighting Systems for Zero-Heat Display"]
 description: "Technical guide to fiber optic lighting in museums with remote light sources, UV/IR filtering, and zero thermal load at display cases for artifact preservation."
 keywords: ["fiber optic lighting", "museum display lighting", "zero heat lighting", "remote light source", "UV IR filtering", "artifact preservation", "display case illumination", "cold light systems"]
+tags: ["fiber optic lighting", "museum display lighting", "zero heat lighting", "remote light source", "UV IR filtering", "artifact preservation", "display case illumination", "cold light systems"]
 weight: 3
 ---
 

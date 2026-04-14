@@ -1,5 +1,6 @@
 ---
 title: "Controlled Atmosphere Storage"
+aliases: ["Controlled Atmosphere Storage"]
 description: "Engineering principles of controlled atmosphere storage systems including oxygen and CO2 control, nitrogen generation, gas monitoring, room sealing, and respiration management for extended commodity storage life."
 weight: 7
 ---

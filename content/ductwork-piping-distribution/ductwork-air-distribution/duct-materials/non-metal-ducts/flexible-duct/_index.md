@@ -1,5 +1,6 @@
 ---
 title: "Flexible Duct"
+aliases: ["Flexible Duct"]
 weight: 2
 ---
 

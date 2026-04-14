@@ -1,7 +1,9 @@
 ---
 title: "Separate HVAC Systems for Spectator Areas"
+aliases: ["Separate HVAC Systems for Spectator Areas"]
 description: "Engineering rationale and implementation strategies for dedicated HVAC systems serving natatorium spectator zones, including load isolation, pressure control, and chloramine mitigation."
 keywords: ["spectator HVAC", "natatorium zoning", "chloramine control", "pool spectator systems", "HVAC segregation", "indoor pool ventilation", "spectator comfort", "pool air quality"]
+tags: ["spectator HVAC", "natatorium zoning", "chloramine control", "pool spectator systems", "HVAC segregation", "indoor pool ventilation", "spectator comfort", "pool air quality"]
 weight: 1
 ---
 

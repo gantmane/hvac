@@ -1,5 +1,6 @@
 ---
 title: "Forced Air Cooling"
+aliases: ["Forced Air Cooling"]
 description: "Technical analysis of forced-air cooling systems for vegetable precooling including tunnel cooler design, pressure differential requirements, package ventilation patterns, seven-eighths cooling time calculations, and refrigeration capacity sizing for optimal vegetable quality preservation."
 weight: 3
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Shellfish"
+aliases: ["Shellfish"]
 weight: 2
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Event & Performance HVAC Scheduling Systems"
+aliases: ["Event & Performance HVAC Scheduling Systems"]
 description: "Technical guide to HVAC scheduling for events and performances, covering pre-conditioning strategies, crowd load calculations, and recovery protocols for venues."
 keywords: ["event HVAC scheduling", "performance venue climate control", "crowd load calculations", "pre-conditioning HVAC", "venue HVAC systems", "occupancy-based scheduling", "event space conditioning", "theater HVAC control"]
+tags: ["event HVAC scheduling", "performance venue climate control", "crowd load calculations", "pre-conditioning HVAC", "venue HVAC systems", "occupancy-based scheduling", "event space conditioning", "theater HVAC control"]
 weight: 1
 ---
 

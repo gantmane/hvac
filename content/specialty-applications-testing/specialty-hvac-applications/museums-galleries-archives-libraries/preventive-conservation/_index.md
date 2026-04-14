@@ -1,7 +1,9 @@
 ---
 title: "Preventive Conservation Through HVAC Control"
+aliases: ["Preventive Conservation Through HVAC Control"]
 description: "Physics-based environmental control strategies for heritage preservation including agents of deterioration framework, climate stability, light management, and risk-based conservation approaches."
 keywords: ["preventive conservation", "agents of deterioration", "museum climate control", "heritage preservation", "conservation HVAC", "environmental stability", "integrated pest management", "light damage prevention"]
+tags: ["preventive conservation", "agents of deterioration", "museum climate control", "heritage preservation", "conservation HVAC", "environmental stability", "integrated pest management", "light damage prevention"]
 weight: 10
 ---
 

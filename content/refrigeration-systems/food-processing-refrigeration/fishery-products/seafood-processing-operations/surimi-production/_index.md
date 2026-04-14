@@ -1,5 +1,6 @@
 ---
 title: "Surimi Production"
+aliases: ["Surimi Production"]
 description: "Temperature control requirements for surimi production including washing water temperature management, dewatering operations, cryoprotectant addition, and block freezing refrigeration loads"
 weight: 4
 ---

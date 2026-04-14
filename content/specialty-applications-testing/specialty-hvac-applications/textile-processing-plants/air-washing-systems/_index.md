@@ -1,7 +1,9 @@
 ---
 title: "Air Washing Systems for Textile Plants"
+aliases: ["Air Washing Systems for Textile Plants"]
 description: "Technical guide to air washing systems in textile processing, covering humidification, evaporative cooling, dust removal, and system design for optimal fiber conditioning."
 keywords: ["air washing systems", "textile air conditioning", "evaporative cooling", "fiber humidification", "industrial air washers", "textile dust removal", "spray chamber design", "textile HVAC"]
+tags: ["air washing systems", "textile air conditioning", "evaporative cooling", "fiber humidification", "industrial air washers", "textile dust removal", "spray chamber design", "textile HVAC"]
 weight: 5
 ---
 

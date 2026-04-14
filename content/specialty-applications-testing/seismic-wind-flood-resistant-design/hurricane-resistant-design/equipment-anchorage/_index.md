@@ -1,5 +1,6 @@
 ---
 title: "Equipment Anchorage for Hurricane Resistance"
+aliases: ["Equipment Anchorage for Hurricane Resistance"]
 description: "Engineering principles for anchoring HVAC equipment against hurricane forces, covering ACI 318 anchor design, combined wind-seismic loads, and structural attachment methods."
 date: 2025-01-05
 keywords:

@@ -1,5 +1,6 @@
 ---
 title: "Ventilation Drying"
+aliases: ["Ventilation Drying"]
 description: "Ventilation-based drying mechanisms for building envelopes including air change drying, dilution ventilation, moisture removal rates, outdoor air moisture effects, and drying capacity calculations."
 weight: 2
 ---

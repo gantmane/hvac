@@ -1,8 +1,10 @@
 ---
 title: "Ambient Air Source Heat Pump Water Heaters"
+aliases: ["Ambient Air Source Heat Pump Water Heaters"]
 weight: 4
 description: "Technical analysis of ambient air source HPWHs including COP performance, space conditioning effects, minimum volume requirements, and installation standards per DOE regulations."
 keywords: ["heat pump water heater", "HPWH ambient air", "COP ambient temperature", "space cooling dehumidification", "DOE water heating standards", "heat pump efficiency", "mechanical room ventilation", "HPWH installation"]
+tags: ["heat pump water heater", "HPWH ambient air", "COP ambient temperature", "space cooling dehumidification", "DOE water heating standards", "heat pump efficiency", "mechanical room ventilation", "HPWH installation"]
 ---
 
 ## Operating Principles

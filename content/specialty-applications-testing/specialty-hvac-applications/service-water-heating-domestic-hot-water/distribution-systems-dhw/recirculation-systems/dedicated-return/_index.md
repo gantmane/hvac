@@ -1,7 +1,9 @@
 ---
 title: "Dedicated Return Pipe DHW Recirculation Systems"
+aliases: ["Dedicated Return Pipe DHW Recirculation Systems"]
 description: "Comprehensive guide to dedicated return pipe domestic hot water recirculation including pipe sizing calculations, heat loss analysis, balancing valve selection, and insulation requirements per ASHRAE 90.1 and plumbing codes."
 keywords: ["dedicated return pipe", "DHW recirculation", "balancing valves", "return pipe sizing", "heat loss calculation", "ASHRAE 90.1", "domestic hot water", "pipe insulation"]
+tags: ["dedicated return pipe", "DHW recirculation", "balancing valves", "return pipe sizing", "heat loss calculation", "ASHRAE 90.1", "domestic hot water", "pipe insulation"]
 weight: 1
 ---
 

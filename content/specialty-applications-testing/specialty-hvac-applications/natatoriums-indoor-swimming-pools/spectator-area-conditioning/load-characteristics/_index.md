@@ -1,7 +1,9 @@
 ---
 title: "Spectator Area Load Characteristics"
+aliases: ["Spectator Area Load Characteristics"]
 description: "Comprehensive analysis of thermal load components in natatorium spectator areas including occupancy loads, diversity factors, lighting gains, and transient load patterns for HVAC design."
 keywords: ["natatorium spectator loads", "assembly occupancy HVAC", "transient thermal loads", "diversity factors", "spectator area design", "indoor pool HVAC", "occupancy load calculations", "event capacity loads"]
+tags: ["natatorium spectator loads", "assembly occupancy HVAC", "transient thermal loads", "diversity factors", "spectator area design", "indoor pool HVAC", "occupancy load calculations", "event capacity loads"]
 weight: 3
 ---
 

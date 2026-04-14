@@ -1,7 +1,9 @@
 ---
 title: "NFPA 90B Warm Air Heating & Residential HVAC Systems"
+aliases: ["NFPA 90B Warm Air Heating & Residential HVAC Systems"]
 description: "Comprehensive guide to NFPA 90B standards for residential warm air heating systems, covering duct materials, clearance requirements, and installation criteria."
 keywords: ["NFPA 90B", "warm air heating", "residential HVAC", "duct installation", "furnace clearances", "residential ductwork", "IRC compliance", "HVAC safety codes"]
+tags: ["NFPA 90B", "warm air heating", "residential HVAC", "duct installation", "furnace clearances", "residential ductwork", "IRC compliance", "HVAC safety codes"]
 weight: 2
 ---
 

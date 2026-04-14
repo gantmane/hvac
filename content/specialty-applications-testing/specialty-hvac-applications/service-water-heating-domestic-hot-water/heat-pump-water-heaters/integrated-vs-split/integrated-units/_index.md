@@ -1,7 +1,9 @@
 ---
 title: "Integrated Heat Pump Water Heater Units"
+aliases: ["Integrated Heat Pump Water Heater Units"]
 description: "Technical analysis of integrated HPWH configurations featuring factory-assembled heat pump and storage tank systems with simplified installation and maintenance advantages."
 keywords: ["integrated HPWH", "all-in-one heat pump water heater", "factory assembled water heater", "single-unit HPWH", "compact heat pump", "residential water heating", "drop-in replacement", "integrated system design"]
+tags: ["integrated HPWH", "all-in-one heat pump water heater", "factory assembled water heater", "single-unit HPWH", "compact heat pump", "residential water heating", "drop-in replacement", "integrated system design"]
 weight: 1
 ---
 

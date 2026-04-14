@@ -1,7 +1,9 @@
 ---
 title: "Rotary Dryers"
+aliases: ["Rotary Dryers"]
 description: "Engineering principles of rotary drum dryers: direct and indirect heating modes, co-current and counter-current flow patterns, flight design, retention time calculations, and heat transfer."
 keywords: ["rotary dryer", "direct heat dryer", "indirect heat dryer", "counter-current flow", "retention time", "drum dryer", "cascading flights", "rotary kiln"]
+tags: ["rotary dryer", "direct heat dryer", "indirect heat dryer", "counter-current flow", "retention time", "drum dryer", "cascading flights", "rotary kiln"]
 weight: 2
 ---
 

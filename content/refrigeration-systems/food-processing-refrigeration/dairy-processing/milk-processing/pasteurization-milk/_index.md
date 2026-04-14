@@ -1,5 +1,6 @@
 ---
 title: "Milk Pasteurization Systems"
+aliases: ["Milk Pasteurization Systems"]
 description: "Technical specifications for HTST and UHT milk pasteurization systems including plate heat exchanger design, regeneration efficiency, holding tube sizing, rapid cooling requirements, and PMO regulatory compliance"
 weight: 4
 ---

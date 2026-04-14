@@ -1,5 +1,6 @@
 ---
 title: "Four-Way Bracing for Seismic Pipe Restraint"
+aliases: ["Four-Way Bracing for Seismic Pipe Restraint"]
 description: "Engineering guide to four-way bracing configurations for HVAC piping seismic restraint including brace capacity calculations, installation requirements per MSS SP-127 and NFPA 13."
 date: 2025-01-05
 draft: false

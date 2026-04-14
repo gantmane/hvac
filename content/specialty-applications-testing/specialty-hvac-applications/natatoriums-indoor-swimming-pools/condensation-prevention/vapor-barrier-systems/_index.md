@@ -1,8 +1,10 @@
 ---
 title: "Vapor Barrier Systems for Natatorium Envelopes"
+aliases: ["Vapor Barrier Systems for Natatorium Envelopes"]
 weight: 3
 description: "Engineering guidance for vapor barrier selection, placement, and installation in indoor pool facilities to prevent interstitial condensation and structural damage from moisture migration."
 keywords: ["vapor barrier", "vapor retarder", "natatorium envelope", "dew point condensation", "permeance rating", "moisture migration", "interstitial condensation", "building envelope"]
+tags: ["vapor barrier", "vapor retarder", "natatorium envelope", "dew point condensation", "permeance rating", "moisture migration", "interstitial condensation", "building envelope"]
 ---
 
 ## Vapor Barrier Systems

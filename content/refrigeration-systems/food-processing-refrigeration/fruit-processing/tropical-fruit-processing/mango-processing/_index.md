@@ -1,5 +1,6 @@
 ---
 title: "Mango Processing HVAC Systems"
+aliases: ["Mango Processing HVAC Systems"]
 description: "HVAC design for mango processing facilities including hot water treatment, chilling injury prevention, ripening room control, and specialized environmental requirements for tropical fruit handling."
 weight: 3
 ---

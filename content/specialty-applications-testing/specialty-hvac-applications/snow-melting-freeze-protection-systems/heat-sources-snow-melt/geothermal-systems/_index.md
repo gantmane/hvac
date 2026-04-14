@@ -1,7 +1,9 @@
 ---
 title: "Geothermal Snow Melting Heat Sources"
+aliases: ["Geothermal Snow Melting Heat Sources"]
 description: "Engineering guide to ground source heat pump systems for snow melting applications. Covers ground loop design, heat extraction rates, COP optimization, and lifecycle cost analysis."
 keywords: ["geothermal snow melting", "ground source heat pump", "earth coupling", "bore field design", "ground heat exchanger", "GSHP COP", "renewable snow melt", "geothermal loops"]
+tags: ["geothermal snow melting", "ground source heat pump", "earth coupling", "bore field design", "ground heat exchanger", "GSHP COP", "renewable snow melt", "geothermal loops"]
 weight: 3
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Monitoring Containers"
+aliases: ["Monitoring Containers"]
 weight: 6
 ---
 

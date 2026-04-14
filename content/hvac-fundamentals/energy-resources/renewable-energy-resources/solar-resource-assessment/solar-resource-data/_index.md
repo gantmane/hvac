@@ -1,7 +1,9 @@
 ---
 title: "Solar Resource Data for HVAC Applications"
+aliases: ["Solar Resource Data for HVAC Applications"]
 description: "Comprehensive analysis of solar irradiance data including GHI, DNI, DHI measurements, TMY datasets, and NREL NSRDB resources for HVAC solar system design and energy modeling."
 keywords: ["solar irradiance", "GHI DNI DHI", "TMY data", "NSRDB database", "solar radiation measurement", "typical meteorological year", "solar resource assessment", "NREL solar data"]
+tags: ["solar irradiance", "GHI DNI DHI", "TMY data", "NSRDB database", "solar radiation measurement", "typical meteorological year", "solar resource assessment", "NREL solar data"]
 weight: 3
 ---
 

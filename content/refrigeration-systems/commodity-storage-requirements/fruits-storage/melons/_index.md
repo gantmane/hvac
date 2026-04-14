@@ -1,5 +1,6 @@
 ---
 title: "Melons"
+aliases: ["Melons"]
 weight: 5
 ---
 

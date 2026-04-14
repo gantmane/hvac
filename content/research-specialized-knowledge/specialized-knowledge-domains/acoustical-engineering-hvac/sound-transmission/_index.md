@@ -1,5 +1,6 @@
 ---
 title: "Sound Transmission"
+aliases: ["Sound Transmission"]
 description: "Airborne and structure-borne sound transmission paths, flanking transmission, duct-borne noise propagation, and regenerated noise in HVAC systems"
 weight: 1
 ---

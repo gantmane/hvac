@@ -1,5 +1,6 @@
 ---
 title: "Fire Safety Engineering"
+aliases: ["Fire Safety Engineering"]
 description: "Fire safety engineering for HVAC systems including smoke control design, fire and smoke damper selection, NFPA code compliance, pressurization systems, fire alarm integration, and life safety requirements for building mechanical systems."
 weight: 3
 ---

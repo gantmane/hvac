@@ -1,7 +1,9 @@
 ---
 title: "Temperature Setback Strategies for Hotel Guest Rooms"
+aliases: ["Temperature Setback Strategies for Hotel Guest Rooms"]
 description: "Engineering approaches to heating/cooling setback in unoccupied hotel rooms including depth limits, ventilation reduction, humidity control, and recovery triggers."
 keywords: ["temperature setback", "hotel energy management", "room occupancy control", "setback recovery", "HVAC optimization", "guest comfort", "energy savings calculation", "setback control logic"]
+tags: ["temperature setback", "hotel energy management", "room occupancy control", "setback recovery", "HVAC optimization", "guest comfort", "energy savings calculation", "setback control logic"]
 date: 2025-01-11
 weight: 1
 draft: false

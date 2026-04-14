@@ -1,5 +1,6 @@
 ---
 title: "Tall Buildings (High-Rise HVAC Systems)"
+aliases: ["Tall Buildings (High-Rise HVAC Systems)"]
 description: "Engineering challenges in high-rise HVAC: stack effect, pressure differentials, vertical zoning, smoke control, and wind effects on tall buildings."
 date: "2026-01-04"
 weight: 8

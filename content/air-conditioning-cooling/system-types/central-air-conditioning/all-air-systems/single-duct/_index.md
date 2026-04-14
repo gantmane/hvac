@@ -1,7 +1,9 @@
 ---
 title: "Single Duct Air Systems: CAV, VAV & Terminal Reheat"
+aliases: ["Single Duct Air Systems: CAV, VAV & Terminal Reheat"]
 description: "Comprehensive guide to single duct HVAC systems including constant air volume, variable air volume, and terminal reheat configurations with performance analysis."
 keywords: ["single duct systems", "CAV systems", "VAV systems", "terminal reheat", "constant air volume", "variable air volume", "all-air systems", "HVAC design"]
+tags: ["single duct systems", "CAV systems", "VAV systems", "terminal reheat", "constant air volume", "variable air volume", "all-air systems", "HVAC design"]
 weight: 1
 ---
 

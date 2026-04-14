@@ -1,5 +1,6 @@
 ---
 title: "Solar Radiation"
+aliases: ["Solar Radiation"]
 weight: 5
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Tray Dryers for Industrial Batch Drying Processes"
+aliases: ["Tray Dryers for Industrial Batch Drying Processes"]
 description: "Technical analysis of tray dryer systems including heat transfer calculations, airflow design, psychrometric considerations, and batch process optimization."
 keywords: ["tray dryers", "batch drying", "industrial dryers", "convective drying", "pharmaceutical drying", "tray dryer capacity", "heat and mass transfer", "psychrometrics"]
+tags: ["tray dryers", "batch drying", "industrial dryers", "convective drying", "pharmaceutical drying", "tray dryer capacity", "heat and mass transfer", "psychrometrics"]
 date: 2026-01-11
 weight: 2
 draft: false

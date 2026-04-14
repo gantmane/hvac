@@ -1,5 +1,6 @@
 ---
 title: "Properties"
+aliases: ["Properties"]
 weight: 3
 ---
 

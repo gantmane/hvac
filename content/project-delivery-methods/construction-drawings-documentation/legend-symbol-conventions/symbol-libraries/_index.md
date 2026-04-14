@@ -1,5 +1,6 @@
 ---
 title: "Symbol Libraries"
+aliases: ["Symbol Libraries"]
 weight: 2
 ---
 

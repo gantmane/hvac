@@ -1,7 +1,9 @@
 ---
 title: "Jet Fan Systems for Enclosed Parking Garages"
+aliases: ["Jet Fan Systems for Enclosed Parking Garages"]
 description: "Technical analysis of impulse ventilation jet fan systems including thrust calculations, CFD modeling, smoke control modes, and energy comparison with ducted systems."
 keywords: ["jet fan systems", "impulse ventilation", "parking garage ventilation", "thrust calculation", "CFD modeling", "smoke control", "CO sensor integration", "energy efficiency"]
+tags: ["jet fan systems", "impulse ventilation", "parking garage ventilation", "thrust calculation", "CFD modeling", "smoke control", "CO sensor integration", "energy efficiency"]
 weight: 3
 ---
 

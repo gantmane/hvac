@@ -1,7 +1,9 @@
 ---
 title: "Thermal Expansion Control in DHW Systems"
+aliases: ["Thermal Expansion Control in DHW Systems"]
 description: "Physics of water thermal expansion in closed domestic hot water systems, pressure buildup from backflow preventers, code requirements for expansion tanks per ASME and plumbing codes."
 keywords: ["thermal expansion", "expansion tank", "backflow preventer", "domestic hot water", "pressure relief valve", "closed system", "water heater pressure", "ASME code"]
+tags: ["thermal expansion", "expansion tank", "backflow preventer", "domestic hot water", "pressure relief valve", "closed system", "water heater pressure", "ASME code"]
 weight: 1
 ---
 

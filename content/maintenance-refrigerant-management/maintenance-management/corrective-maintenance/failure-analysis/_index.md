@@ -1,7 +1,9 @@
 ---
 title: "HVAC Failure Analysis: Root Cause & Prevention Methods"
+aliases: ["HVAC Failure Analysis: Root Cause & Prevention Methods"]
 description: "Comprehensive guide to HVAC failure analysis methodologies including FMEA, root cause analysis, 5-Why, and fishbone diagrams for equipment reliability improvement."
 keywords: ["failure analysis", "root cause analysis", "FMEA", "5-Why analysis", "fishbone diagram", "reliability engineering", "equipment failure", "corrective maintenance"]
+tags: ["failure analysis", "root cause analysis", "FMEA", "5-Why analysis", "fishbone diagram", "reliability engineering", "equipment failure", "corrective maintenance"]
 weight: 2
 ---
 

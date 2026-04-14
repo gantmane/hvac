@@ -1,5 +1,6 @@
 ---
 title: "Flow Measurement in Hydronic Systems"
+aliases: ["Flow Measurement in Hydronic Systems"]
 description: "Technical methods for measuring water flow in hydronic HVAC systems including ultrasonic, differential pressure, and inline meters with accuracy standards."
 date: "2025-01-05"
 keywords:

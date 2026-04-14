@@ -1,7 +1,9 @@
 ---
 title: "Coal Extraction Methods for Energy Production"
+aliases: ["Coal Extraction Methods for Energy Production"]
 description: "Comprehensive analysis of surface and underground coal mining methods, productivity metrics, safety considerations, and environmental impacts for HVAC energy systems."
 keywords: ["coal mining methods", "surface mining", "underground mining", "coal extraction", "mining productivity", "mining safety", "longwall mining", "room and pillar"]
+tags: ["coal mining methods", "surface mining", "underground mining", "coal extraction", "mining productivity", "mining safety", "longwall mining", "room and pillar"]
 weight: 5
 ---
 

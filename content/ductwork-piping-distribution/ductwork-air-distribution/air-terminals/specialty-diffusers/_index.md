@@ -1,5 +1,6 @@
 ---
 title: "Specialty Diffusers"
+aliases: ["Specialty Diffusers"]
 weight: 5
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Combustion Safety in HVAC Systems"
+aliases: ["Combustion Safety in HVAC Systems"]
 date: 2026-01-04
 description: "Comprehensive guide to combustion safety including carbon monoxide detection and prevention, combustion air requirements, venting systems, flue gas analysis, and safety testing procedures per NFPA and ANSI standards."
 keywords: ["combustion safety", "carbon monoxide", "CO detection", "combustion air", "venting safety", "flue gas analysis", "backdrafting", "spillage testing", "ANSI Z21.47", "NFPA 54"]
+tags: ["combustion safety", "carbon monoxide", "CO detection", "combustion air", "venting safety", "flue gas analysis", "backdrafting", "spillage testing", "ANSI Z21.47", "NFPA 54"]
 weight: 2
 ---
 

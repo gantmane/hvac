@@ -1,5 +1,6 @@
 ---
 title: "Mesophilic"
+aliases: ["Mesophilic"]
 weight: 2
 ---
 

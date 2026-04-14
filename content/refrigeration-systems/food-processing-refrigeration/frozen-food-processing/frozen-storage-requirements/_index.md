@@ -1,5 +1,6 @@
 ---
 title: "Frozen Storage Requirements"
+aliases: ["Frozen Storage Requirements"]
 weight: 6
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Mold Growth Prediction"
+aliases: ["Mold Growth Prediction"]
 weight: 4
 description: "Quantitative mold growth prediction methods including critical moisture content analysis, isopleth systems, VTT mold growth model, ASHRAE 160 criteria, and biohygrothermal modeling for building envelope design verification."
 ---

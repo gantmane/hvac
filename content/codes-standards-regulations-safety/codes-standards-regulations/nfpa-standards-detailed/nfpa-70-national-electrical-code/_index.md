@@ -1,8 +1,10 @@
 ---
 title: "NFPA 70 National Electrical Code for HVAC Systems"
+aliases: ["NFPA 70 National Electrical Code for HVAC Systems"]
 weight: 4
 description: "Comprehensive guide to NFPA 70 National Electrical Code requirements for HVAC installations including motor circuits, disconnects, overcurrent protection, and GFCI per Articles 422, 424, 430, 440."
 keywords: ["NFPA 70", "National Electrical Code", "HVAC electrical", "motor circuits", "disconnect requirements", "overcurrent protection", "GFCI requirements", "Article 440"]
+tags: ["NFPA 70", "National Electrical Code", "HVAC electrical", "motor circuits", "disconnect requirements", "overcurrent protection", "GFCI requirements", "Article 440"]
 ---
 
 ## Overview

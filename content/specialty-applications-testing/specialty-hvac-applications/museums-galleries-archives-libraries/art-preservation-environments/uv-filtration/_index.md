@@ -1,7 +1,9 @@
 ---
 title: "UV Filtration for Art Preservation HVAC Systems"
+aliases: ["UV Filtration for Art Preservation HVAC Systems"]
 description: "Technical guide to ultraviolet radiation control in museums and galleries through filtration systems, UV-blocking glazing, protective films, and LED lighting alternatives."
 keywords: ["UV filtration", "art preservation", "museum lighting", "UV-blocking glazing", "conservation HVAC", "ultraviolet damage prevention", "LED museum lighting", "UV protective films"]
+tags: ["UV filtration", "art preservation", "museum lighting", "UV-blocking glazing", "conservation HVAC", "ultraviolet damage prevention", "LED museum lighting", "UV protective films"]
 weight: 4
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Real-Time HVAC Adjustment for Event Mode Control"
+aliases: ["Real-Time HVAC Adjustment for Event Mode Control"]
 seo_title: "Real-Time HVAC Adjustment: Sensor-Based Control"
 description: "Technical guidance on real-time HVAC adjustment using sensor feedback, CO2 monitoring, and adaptive control algorithms for variable occupancy event spaces."
 keywords: ["real-time HVAC control", "sensor feedback", "CO2 monitoring", "adaptive HVAC", "occupancy-based control", "event space ventilation", "BAS control", "demand-controlled ventilation"]
+tags: ["real-time HVAC control", "sensor feedback", "CO2 monitoring", "adaptive HVAC", "occupancy-based control", "event space ventilation", "BAS control", "demand-controlled ventilation"]
 weight: 3
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Viscosity of Air"
+aliases: ["Viscosity of Air"]
 description: "Comprehensive analysis of air viscosity including dynamic and kinematic viscosity, Sutherland's law, temperature relationships, and engineering applications in HVAC system design and analysis."
 weight: 2
 ---

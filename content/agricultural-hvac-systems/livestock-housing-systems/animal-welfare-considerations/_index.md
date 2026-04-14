@@ -1,5 +1,6 @@
 ---
 title: "Animal Welfare Considerations"
+aliases: ["Animal Welfare Considerations"]
 description: "Integration of animal welfare principles in HVAC system design including species-specific thermal comfort zones, air quality requirements, space allocation, behavioral needs, and stress reduction through environmental control."
 weight: 5
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Pressure Differentials in Vertical Shafts"
+aliases: ["Pressure Differentials in Vertical Shafts"]
 description: "Elevator shaft, stairwell, and mechanical shaft pressure analysis, measurement methodology, and design considerations for tall buildings."
 date: "2026-01-04"
 weight: 2

@@ -1,7 +1,9 @@
 ---
 title: "24-Hour Occupancy HVAC Design for Fire Stations"
+aliases: ["24-Hour Occupancy HVAC Design for Fire Stations"]
 description: "Comprehensive HVAC design strategies for continuous fire station occupancy including equipment selection, load profiling, redundancy, and energy efficiency."
 keywords: ["24-hour HVAC", "fire station continuous operation", "shift occupancy", "redundant systems", "variable load profiles", "always-on HVAC", "energy efficiency 24/7", "emergency service facilities"]
+tags: ["24-hour HVAC", "fire station continuous operation", "shift occupancy", "redundant systems", "variable load profiles", "always-on HVAC", "energy efficiency 24/7", "emergency service facilities"]
 date: 2025-01-11
 draft: false
 weight: 5

@@ -1,7 +1,9 @@
 ---
 title: "Capacity Considerations for Arena HVAC Systems"
+aliases: ["Capacity Considerations for Arena HVAC Systems"]
 description: "Engineering analysis of HVAC capacity requirements for arenas and stadiums from 5,000 to 100,000 seats, covering load diversity, surge loads, and outdoor air requirements."
 keywords: ["arena HVAC capacity", "stadium cooling load", "crowd heat generation", "load diversity factor", "surge ventilation", "assembly occupancy HVAC", "egress ventilation", "outdoor air requirements"]
+tags: ["arena HVAC capacity", "stadium cooling load", "crowd heat generation", "load diversity factor", "surge ventilation", "assembly occupancy HVAC", "egress ventilation", "outdoor air requirements"]
 weight: 4
 ---
 

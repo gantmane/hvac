@@ -1,5 +1,6 @@
 ---
 title: "Leafy"
+aliases: ["Leafy"]
 weight: 1
 ---
 

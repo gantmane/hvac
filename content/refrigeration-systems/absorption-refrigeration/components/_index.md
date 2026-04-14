@@ -1,8 +1,10 @@
 ---
 title: "Absorption Refrigeration System Components"
+aliases: ["Absorption Refrigeration System Components"]
 weight: 4
 description: "Technical analysis of absorption refrigeration components including generator design, absorber configuration, solution heat exchangers, evaporators, condensers, solution pumps, and purge systems for non-condensables."
 keywords: "absorption chiller components, generator desorber design, absorber design, solution heat exchanger, absorption cycle evaporator, solution pump, purge system, non-condensables removal"
+tags: ["absorption chiller components", "generator desorber design", "absorber design", "solution heat exchanger", "absorption cycle evaporator", "solution pump", "purge system", "non-condensables removal"]
 ---
 
 ## Generator (Desorber)

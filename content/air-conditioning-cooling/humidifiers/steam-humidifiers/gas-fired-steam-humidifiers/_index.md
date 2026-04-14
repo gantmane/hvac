@@ -1,5 +1,6 @@
 ---
 title: "Gas-Fired Steam Humidifiers"
+aliases: ["Gas-Fired Steam Humidifiers"]
 description: "Technical reference for gas-fired steam humidifiers covering natural gas and propane burner systems, condensing and non-condensing designs, sealed combustion, venting requirements, and 80-95% efficiency operation."
 weight: 2
 ---

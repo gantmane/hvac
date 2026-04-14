@@ -1,5 +1,6 @@
 ---
 title: "Rural Electrification HVAC Systems"
+aliases: ["Rural Electrification HVAC Systems"]
 description: "Technical analysis of HVAC systems for rural electrification, covering off-grid power sources, load management, solar thermal integration, and sustainable cooling."
 date: 2025-01-05
 weight: 6

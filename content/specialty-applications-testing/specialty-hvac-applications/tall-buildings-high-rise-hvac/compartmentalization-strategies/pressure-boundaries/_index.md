@@ -1,8 +1,10 @@
 ---
 title: "Pressure Boundaries in High-Rise HVAC Systems"
+aliases: ["Pressure Boundaries in High-Rise HVAC Systems"]
 description: "Technical analysis of pressure boundary design for tall buildings including zone definition, shaft enclosures, lobby isolation, mechanical room pressurization, and air barrier systems."
 date: 2025-01-11
 keywords: ["pressure boundaries", "pressure zones", "shaft enclosures", "lobby pressurization", "mechanical room pressurization", "air barrier systems", "interstitial spaces", "high-rise HVAC"]
+tags: ["pressure boundaries", "pressure zones", "shaft enclosures", "lobby pressurization", "mechanical room pressurization", "air barrier systems", "interstitial spaces", "high-rise HVAC"]
 weight: 3
 ---
 

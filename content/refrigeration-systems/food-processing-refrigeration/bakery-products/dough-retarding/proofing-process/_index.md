@@ -1,5 +1,6 @@
 ---
 title: "Proofing Process"
+aliases: ["Proofing Process"]
 description: "Technical analysis of dough proofing HVAC requirements including temperature control, humidity management, steam injection systems, heat loads, and equipment specifications for commercial bakery operations."
 weight: 2
 ---

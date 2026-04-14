@@ -2,6 +2,7 @@
 title: "Building Pressurization Control for HVAC Engineers"
 description: "Pressure control strategies, stairwell pressurization, laboratory exhaust, makeup air calculations, and relief air sizing for building pressure management."
 keywords: ["building pressurization", "pressure control", "stairwell pressurization", "laboratory exhaust", "makeup air", "relief air"]
+tags: ["building pressurization", "pressure control", "stairwell pressurization", "laboratory exhaust", "makeup air", "relief air"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 27
@@ -231,9 +232,9 @@ Use airflow tracking with pressure monitoring as override/verification
 ---
 
 **Related Technical Guides:**
-- [HVAC Control Strategies](/technical-guides/hvac-control-strategies/)
-- [Ventilation Rate Calculations](/technical-guides/ventilation-rate-calculations/)
-- [Airflow Measurement & Balancing](/technical-guides/airflow-measurement-balancing/)
+- HVAC Control Strategies
+- Ventilation Rate Calculations
+- Airflow Measurement & Balancing
 
 **References:**
 - ASHRAE Handbook of HVAC Applications, Chapter 16: Laboratories

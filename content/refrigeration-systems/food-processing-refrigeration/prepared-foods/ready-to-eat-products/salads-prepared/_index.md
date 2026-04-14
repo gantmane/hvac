@@ -1,5 +1,6 @@
 ---
 title: "Prepared Salads"
+aliases: ["Prepared Salads"]
 description: "HVAC and refrigeration design for prepared salad production facilities including temperature control, humidity management, processing room conditions, and food safety compliance for mayonnaise-based and fresh-cut products"
 weight: 2
 ---

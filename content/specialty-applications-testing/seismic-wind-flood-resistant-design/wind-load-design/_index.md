@@ -1,5 +1,6 @@
 ---
 title: "Wind Load Design for HVAC Equipment"
+aliases: ["Wind Load Design for HVAC Equipment"]
 description: "Engineering guide to wind load calculations for rooftop and exterior HVAC equipment using ASCE 7 methodology, including basic wind speed maps, exposure categories, and equipment anchorage design."
 keywords:
   - wind load calculations

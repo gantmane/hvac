@@ -1,7 +1,9 @@
 ---
 title: "Turbine Hall Heat Removal Systems"
+aliases: ["Turbine Hall Heat Removal Systems"]
 description: "Engineering analysis of heat removal from power plant turbine halls including massive turbine casing loads, ventilation calculations, thermal stratification, and worker comfort zones."
 keywords: ["turbine hall ventilation", "power plant heat load", "thermal stratification", "ventilation rate calculation", "turbine casing heat", "equipment cooling", "summer peak load", "worker comfort zones"]
+tags: ["turbine hall ventilation", "power plant heat load", "thermal stratification", "ventilation rate calculation", "turbine casing heat", "equipment cooling", "summer peak load", "worker comfort zones"]
 weight: 1
 ---
 

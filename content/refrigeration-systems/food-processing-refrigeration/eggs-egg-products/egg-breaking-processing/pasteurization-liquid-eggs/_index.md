@@ -1,5 +1,6 @@
 ---
 title: "Pasteurization of Liquid Eggs"
+aliases: ["Pasteurization of Liquid Eggs"]
 description: "Thermal processing requirements, time-temperature profiles, heat exchanger design, energy recovery systems, and USDA regulatory compliance for liquid egg pasteurization in food processing facilities"
 weight: 3
 ---

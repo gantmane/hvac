@@ -1,5 +1,6 @@
 ---
 title: "Lagering Process Refrigeration"
+aliases: ["Lagering Process Refrigeration"]
 description: "Technical specifications for lagering tank cooling systems including cold conditioning temperatures, duration profiles, glycol distribution, and yeast sedimentation thermal management for lager beer production"
 weight: 2
 ---

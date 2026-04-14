@@ -1,5 +1,6 @@
 ---
 title: "HVAC Cooling Systems: Principles and Applications"
+aliases: ["HVAC Cooling Systems: Principles and Applications"]
 description: "Comprehensive guide to HVAC cooling systems including vapor compression, absorption, and evaporative cooling with thermodynamic analysis and design criteria."
 date: 2024-01-05
 draft: false

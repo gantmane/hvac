@@ -1,7 +1,9 @@
 ---
 title: "Habitability Systems for Nuclear Control Rooms"
+aliases: ["Habitability Systems for Nuclear Control Rooms"]
 description: "Nuclear control room habitability design including toxic gas protection, CBRN filtration, breathing air systems, self-contained HVAC units, and 30-day emergency operation capability."
 keywords: ["control room habitability", "nuclear habitability systems", "CBRN filtration", "toxic gas protection", "breathing air systems", "emergency HVAC nuclear", "30-day occupancy", "self-contained HVAC"]
+tags: ["control room habitability", "nuclear habitability systems", "CBRN filtration", "toxic gas protection", "breathing air systems", "emergency HVAC nuclear", "30-day occupancy", "self-contained HVAC"]
 date: 2025-01-11
 draft: false
 weight: 1

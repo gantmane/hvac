@@ -1,8 +1,10 @@
 ---
 title: "Agricultural HVAC Systems"
+aliases: ["Agricultural HVAC Systems"]
 weight: 15
 description: "Comprehensive guide to agricultural HVAC design including livestock ventilation, barn climate control, animal housing environmental systems, and biosecurity ventilation for farming operations"
 keywords: ["agricultural HVAC", "livestock ventilation", "barn climate control", "animal housing", "biosecurity ventilation", "agricultural environmental control", "livestock housing systems", "farm HVAC design"]
+tags: ["agricultural HVAC", "livestock ventilation", "barn climate control", "animal housing", "biosecurity ventilation", "agricultural environmental control", "livestock housing systems", "farm HVAC design"]
 ---
 
 Agricultural HVAC systems represent specialized climate control applications where environmental conditions directly impact animal health, productivity, and biosecurity. Unlike commercial building systems, agricultural environmental control must account for significant internal heat and moisture generation from livestock, manage gaseous contaminants including ammonia and carbon dioxide, and maintain precise temperature and humidity ranges that vary by animal species, age, and production phase. The engineering challenges include managing high ventilation rates, controlling airborne disease transmission, and operating reliably in corrosive environments with substantial particulate loading.
@@ -117,9 +119,9 @@ Agricultural HVAC design methodology follows systematic procedures integrating t
 
 Equipment selection considers reliability, maintainability, and corrosion resistance essential for agricultural environments. Variable speed fans provide energy-efficient capacity modulation compared to staged multi-fan systems. Controller algorithms implement proportional-integral-derivative (PID) control for temperature, supplemented with timer-based minimum ventilation and staged heating and cooling.
 
-Integration with [livestock environmental control](/hvac/agricultural-hvac-systems/livestock-environmental-control/) systems ensures coordinated operation of heating, ventilation, and supplemental cooling equipment. Modern systems incorporate remote monitoring, alarm notification, and data logging for production optimization and troubleshooting.
+Integration with livestock environmental control systems ensures coordinated operation of heating, ventilation, and supplemental cooling equipment. Modern systems incorporate remote monitoring, alarm notification, and data logging for production optimization and troubleshooting.
 
-Coordination with [waste management integration](/hvac/agricultural-hvac-systems/waste-management-integration/) addresses odor control and gas management from manure storage. Dedicated exhaust systems remove contaminated air from manure collection areas, preventing ammonia and hydrogen sulfide accumulation in animal spaces.
+Coordination with waste management integration addresses odor control and gas management from manure storage. Dedicated exhaust systems remove contaminated air from manure collection areas, preventing ammonia and hydrogen sulfide accumulation in animal spaces.
 
 System commissioning verifies airflow rates, pressure differentials, temperature distribution, and control operation. Static pressure testing confirms building tightness essential for controlled environment performance. Regular maintenance including filter replacement, fan belt tensioning, and controller calibration maintains system performance throughout the facility lifecycle.
 

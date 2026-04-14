@@ -1,5 +1,6 @@
 ---
 title: "Flow Measurement"
+aliases: ["Flow Measurement"]
 weight: 5
 ---
 

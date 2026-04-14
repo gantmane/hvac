@@ -1,5 +1,6 @@
 ---
 title: "Galley Cooling Systems in Aircraft"
+aliases: ["Galley Cooling Systems in Aircraft"]
 description: "Technical analysis of aircraft galley cooling, heat load calculations, refrigeration cycles, and environmental control system integration for commercial aviation."
 date: 2025-01-05
 tags: ["aircraft-hvac", "galley-cooling", "aviation", "refrigeration", "specialty-applications"]

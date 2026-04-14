@@ -1,5 +1,6 @@
 ---
 title: "EU Energy Performance Standards for HVAC Systems"
+aliases: ["EU Energy Performance Standards for HVAC Systems"]
 description: "Technical analysis of European energy performance standards for HVAC equipment including efficiency metrics, testing protocols, and compliance requirements."
 date: 2025-01-05
 weight: 2

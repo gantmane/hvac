@@ -1,5 +1,6 @@
 ---
 title: "Mechanical Supply Ventilation Systems"
+aliases: ["Mechanical Supply Ventilation Systems"]
 linkTitle: "Supply Systems"
 weight: 1
 description: "Technical analysis of supply ventilation systems including positive pressure configurations, 100% outdoor air systems, mixed air arrangements, supply airflow calculations, and air distribution strategies per ASHRAE 62.1."

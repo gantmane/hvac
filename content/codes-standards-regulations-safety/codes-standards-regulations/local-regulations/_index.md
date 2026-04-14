@@ -1,7 +1,9 @@
 ---
 title: "Local HVAC Regulations & Permit Requirements"
+aliases: ["Local HVAC Regulations & Permit Requirements"]
 description: "Comprehensive guide to state and local HVAC code amendments, permit requirements, inspection processes, and contractor licensing for mechanical systems."
 keywords: ["local HVAC codes", "permit requirements", "HVAC inspections", "contractor licensing", "code amendments", "jurisdictional requirements", "building permits", "mechanical inspections"]
+tags: ["local HVAC codes", "permit requirements", "HVAC inspections", "contractor licensing", "code amendments", "jurisdictional requirements", "building permits", "mechanical inspections"]
 weight: 8
 ---
 

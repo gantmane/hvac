@@ -1,7 +1,9 @@
 ---
 title: "School Bus HVAC: Safety-Focused Climate Control Design"
+aliases: ["School Bus HVAC: Safety-Focused Climate Control Design"]
 description: "Engineering guide to school bus heating and cooling systems addressing child safety, stop-start operation, ventilation rates, and HVAC standards for Type A-D school buses."
 keywords: ["school bus HVAC", "school bus air conditioning", "Type C school bus heating", "child safety ventilation", "FMVSS 217 compliance", "school bus defrost", "auxiliary heater school bus", "school bus AC retrofit"]
+tags: ["school bus HVAC", "school bus air conditioning", "Type C school bus heating", "child safety ventilation", "FMVSS 217 compliance", "school bus defrost", "auxiliary heater school bus", "school bus AC retrofit"]
 weight: 3
 ---
 

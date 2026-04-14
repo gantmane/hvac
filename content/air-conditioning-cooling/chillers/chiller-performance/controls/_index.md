@@ -1,5 +1,6 @@
 ---
 title: "Chiller Control Systems"
+aliases: ["Chiller Control Systems"]
 description: "Comprehensive guide to chiller control strategies including temperature reset, demand limiting, capacity staging, freeze protection, optimal start-stop, and predictive control algorithms for maximum efficiency."
 weight: 4
 ---

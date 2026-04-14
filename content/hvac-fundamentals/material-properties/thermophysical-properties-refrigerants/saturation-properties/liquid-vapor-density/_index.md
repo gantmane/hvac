@@ -1,5 +1,6 @@
 ---
 title: "Liquid Vapor Density"
+aliases: ["Liquid Vapor Density"]
 weight: 3
 ---
 

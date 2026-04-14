@@ -1,8 +1,10 @@
 ---
 title: "Chiller Systems for Central Cooling Plants"
+aliases: ["Chiller Systems for Central Cooling Plants"]
 weight: 2
 description: "Comprehensive analysis of vapor compression and absorption chillers, water-cooled vs air-cooled configurations, capacity ranges, efficiency metrics, and central plant applications."
 keywords: ["chiller systems", "vapor compression cycle", "absorption chillers", "water-cooled chillers", "air-cooled chillers", "central plant cooling", "chiller efficiency", "AHRI standards"]
+tags: ["chiller systems", "vapor compression cycle", "absorption chillers", "water-cooled chillers", "air-cooled chillers", "central plant cooling", "chiller efficiency", "AHRI standards"]
 ---
 
 Chillers represent the workhorse of large-scale air conditioning systems, converting electrical or thermal energy into cooling capacity through thermodynamic refrigeration cycles. These machines provide chilled water (typically 42-48°F) to air handling units, fan coil units, and process equipment throughout commercial, institutional, and industrial facilities.

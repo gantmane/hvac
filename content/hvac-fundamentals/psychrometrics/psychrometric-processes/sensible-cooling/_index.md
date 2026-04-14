@@ -1,5 +1,6 @@
 ---
 title: "Sensible Cooling"
+aliases: ["Sensible Cooling"]
 description: "Comprehensive analysis of sensible cooling processes including dry coil operation, heat transfer principles, bypass factors, and apparatus dew point theory for HVAC design."
 weight: 2
 ---

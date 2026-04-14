@@ -1,5 +1,6 @@
 ---
 title: "Capillary Tube Expansion Devices"
+aliases: ["Capillary Tube Expansion Devices"]
 description: "Technical analysis of capillary tube expansion devices including flow characteristics, sizing methodology, critical flow conditions, suction line heat exchange, and refrigerant charge effects in vapor compression refrigeration systems."
 weight: 3
 ---

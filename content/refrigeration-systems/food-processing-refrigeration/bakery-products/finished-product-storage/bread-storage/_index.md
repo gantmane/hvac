@@ -1,5 +1,6 @@
 ---
 title: "Bread Storage"
+aliases: ["Bread Storage"]
 description: "Comprehensive analysis of bread storage HVAC requirements including staling mechanisms, the refrigeration paradox, optimal temperature and humidity control, and equipment specifications for commercial bakery operations"
 weight: 1
 ---

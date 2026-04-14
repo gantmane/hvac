@@ -1,8 +1,10 @@
 ---
 title: "Visitor Loads in Exhibition Spaces"
+aliases: ["Visitor Loads in Exhibition Spaces"]
 weight: 2
 description: "Technical analysis of heat gain, moisture generation, and CO2 production from museum visitors with HVAC system response strategies for managing peak attendance loads."
 keywords: ["visitor heat gain", "museum occupancy loads", "exhibition space HVAC", "moisture generation visitors", "CO2 control museums", "peak attendance design", "demand controlled ventilation", "occupancy density"]
+tags: ["visitor heat gain", "museum occupancy loads", "exhibition space HVAC", "moisture generation visitors", "CO2 control museums", "peak attendance design", "demand controlled ventilation", "occupancy density"]
 ---
 
 ## Physical Principles of Visitor Loading

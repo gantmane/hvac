@@ -1,7 +1,9 @@
 ---
 title: "Wet Scrubbers for Industrial Dust Collection Systems"
+aliases: ["Wet Scrubbers for Industrial Dust Collection Systems"]
 description: "Wet scrubber operating principles, venturi and spray tower designs, water recirculation systems, particle collection efficiency, sludge handling, and materials."
 keywords: ["wet scrubbers", "venturi scrubber", "spray tower", "dust collection", "particle separation", "industrial scrubbers", "air pollution control", "scrubber efficiency"]
+tags: ["wet scrubbers", "venturi scrubber", "spray tower", "dust collection", "particle separation", "industrial scrubbers", "air pollution control", "scrubber efficiency"]
 date: 2025-01-11
 draft: false
 ---

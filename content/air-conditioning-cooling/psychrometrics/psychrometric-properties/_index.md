@@ -1,5 +1,6 @@
 ---
 title: "Psychrometric Properties"
+aliases: ["Psychrometric Properties"]
 description: "Detailed analysis of dry-bulb temperature, wet-bulb temperature, dewpoint, relative humidity, humidity ratio, enthalpy, and specific volume in HVAC systems."
 date: "2026-01-04"
 weight: 2

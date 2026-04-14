@@ -1,8 +1,10 @@
 ---
 title: "HVAC Control Sequences of Operation Detailed Guide"
+aliases: ["HVAC Control Sequences of Operation Detailed Guide"]
 seo_title: "HVAC Control Sequences: AHU, VAV, Chiller & Boiler"
 description: "Comprehensive guide to HVAC control sequences of operation including AHU, VAV, chiller, and boiler sequences with setpoints, reset schedules, and ASHRAE Guideline 36 logic."
 keywords: ["control sequences", "sequences of operation", "ASHRAE Guideline 36", "AHU sequence", "VAV control", "chiller sequencing", "boiler staging", "reset schedules"]
+tags: ["control sequences", "sequences of operation", "ASHRAE Guideline 36", "AHU sequence", "VAV control", "chiller sequencing", "boiler staging", "reset schedules"]
 weight: 4
 ---
 

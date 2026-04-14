@@ -1,8 +1,10 @@
 ---
 title: "Meat Freezing Methods"
+aliases: ["Meat Freezing Methods"]
 seo_title: "Meat Freezing Methods: Blast, Plate, Cryogenic Systems"
 description: "Technical comparison of meat freezing methods including blast, plate, and cryogenic systems. Physics of ice crystal formation, freezing rates, and quality impacts."
 keywords: ["meat freezing", "blast freezing", "plate freezing", "cryogenic freezing", "ice crystal formation", "freezing rate", "meat quality", "food refrigeration"]
+tags: ["meat freezing", "blast freezing", "plate freezing", "cryogenic freezing", "ice crystal formation", "freezing rate", "meat quality", "food refrigeration"]
 weight: 6
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Ventilation Requirements High Occupancy Spaces"
+aliases: ["Ventilation Requirements High Occupancy Spaces"]
 description: "ASHRAE 62.1 ventilation requirements for high occupancy density spaces including per-person rates, per-area rates, breathing zone calculations, and diversity factors."
 keywords: ["high occupancy ventilation", "ASHRAE 62.1", "breathing zone calculation", "diversity factors", "outdoor air requirements", "ventilation rate procedure", "assembly space ventilation", "occupant density"]
+tags: ["high occupancy ventilation", "ASHRAE 62.1", "breathing zone calculation", "diversity factors", "outdoor air requirements", "ventilation rate procedure", "assembly space ventilation", "occupant density"]
 weight: 2
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Duct Design Methods: Equal Friction & Static Regain"
+aliases: ["Duct Design Methods: Equal Friction & Static Regain"]
 description: "Comprehensive guide to HVAC duct design methods including equal friction, static regain, and velocity reduction techniques with sizing calculations and performance comparisons."
 keywords: ["duct design", "equal friction method", "static regain", "duct sizing", "velocity reduction", "ASHRAE duct design", "duct pressure drop", "HVAC air distribution"]
+tags: ["duct design", "equal friction method", "static regain", "duct sizing", "velocity reduction", "ASHRAE duct design", "duct pressure drop", "HVAC air distribution"]
 weight: 1
 ---
 

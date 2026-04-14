@@ -1,5 +1,6 @@
 ---
 title: "Intermodal Rail"
+aliases: ["Intermodal Rail"]
 weight: 4
 ---
 

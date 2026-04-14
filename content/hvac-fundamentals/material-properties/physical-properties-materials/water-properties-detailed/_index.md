@@ -1,5 +1,6 @@
 ---
 title: "Water Properties Detailed"
+aliases: ["Water Properties Detailed"]
 description: "Comprehensive thermophysical properties of water and aqueous solutions for HVAC system design including density, viscosity, thermal conductivity, specific heat, and saturation properties across operating temperatures"
 weight: 6
 ---

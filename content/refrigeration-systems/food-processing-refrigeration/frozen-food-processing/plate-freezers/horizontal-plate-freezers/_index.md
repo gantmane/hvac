@@ -1,5 +1,6 @@
 ---
 title: "Horizontal Plate Freezers"
+aliases: ["Horizontal Plate Freezers"]
 description: "Comprehensive technical analysis of horizontal plate freezer design, hydraulic systems, refrigerant distribution, plate spacing, loading mechanisms, and capacity calculations for batch freezing operations"
 weight: 2
 ---

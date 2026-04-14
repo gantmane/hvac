@@ -1,5 +1,6 @@
 ---
 title: "Onion Storage HVAC Systems"
+aliases: ["Onion Storage HVAC Systems"]
 description: "Comprehensive technical guide to environmental control systems for long-term onion storage including curing processes, dormancy management, humidity control, and air circulation design for bulb onion preservation."
 weight: 3
 ---

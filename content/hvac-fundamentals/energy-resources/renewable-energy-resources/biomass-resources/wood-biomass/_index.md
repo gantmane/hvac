@@ -1,7 +1,9 @@
 ---
 title: "Wood Biomass Fuel for Heating Systems"
+aliases: ["Wood Biomass Fuel for Heating Systems"]
 description: "Technical analysis of wood biomass fuels including pellets, chips, and cordwood. Covers heating values, moisture content effects, and combustion properties for HVAC applications."
 keywords: ["wood pellets", "wood chips", "cordwood fuel", "biomass heating", "heating value wood", "moisture content biomass", "wood fuel properties", "renewable heating fuel"]
+tags: ["wood pellets", "wood chips", "cordwood fuel", "biomass heating", "heating value wood", "moisture content biomass", "wood fuel properties", "renewable heating fuel"]
 weight: 2
 ---
 

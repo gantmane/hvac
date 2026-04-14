@@ -1,7 +1,9 @@
 ---
 title: "Tailpipe Capture Systems for Engine Test Facilities"
+aliases: ["Tailpipe Capture Systems for Engine Test Facilities"]
 description: "Tailpipe adapter designs, flexible connections, capture efficiency, and back-pressure control for engine exhaust removal in automotive testing facilities."
 keywords: ["tailpipe capture", "exhaust adapters", "engine testing", "back-pressure control", "quick-connect exhaust", "vehicle testing", "emission capture", "flexible exhaust hose"]
+tags: ["tailpipe capture", "exhaust adapters", "engine testing", "back-pressure control", "quick-connect exhaust", "vehicle testing", "emission capture", "flexible exhaust hose"]
 date: 2025-01-11
 draft: false
 weight: 3

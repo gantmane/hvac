@@ -1,8 +1,10 @@
 ---
 title: "Active Solar Water Heating Systems"
+aliases: ["Active Solar Water Heating Systems"]
 weight: 1
 description: "Technical guide to active solar water heating systems including direct and indirect circulation, pumps, controls, freeze protection, and sizing calculations per ASHRAE standards."
 keywords: ["active solar water heating", "solar collectors", "differential temperature control", "freeze protection", "solar fraction", "indirect solar system", "direct solar system", "glycol heat exchanger"]
+tags: ["active solar water heating", "solar collectors", "differential temperature control", "freeze protection", "solar fraction", "indirect solar system", "direct solar system", "glycol heat exchanger"]
 ---
 
 ## System Overview

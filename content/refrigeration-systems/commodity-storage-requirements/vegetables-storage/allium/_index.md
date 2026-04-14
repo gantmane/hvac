@@ -1,5 +1,6 @@
 ---
 title: "Allium"
+aliases: ["Allium"]
 weight: 4
 ---
 

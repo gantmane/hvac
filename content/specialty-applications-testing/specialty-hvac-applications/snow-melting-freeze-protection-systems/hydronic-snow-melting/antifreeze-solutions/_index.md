@@ -1,7 +1,9 @@
 ---
 title: "Antifreeze Solutions for Hydronic Snow Melting Systems"
+aliases: ["Antifreeze Solutions for Hydronic Snow Melting Systems"]
 description: "Technical analysis of propylene and ethylene glycol antifreeze solutions for hydronic snow melting, including heat transfer penalties, viscosity effects, and concentration selection."
 keywords: ["antifreeze solutions", "propylene glycol", "ethylene glycol", "hydronic snow melting", "glycol heat transfer", "freeze protection", "ASHRAE glycol standards", "glycol concentration"]
+tags: ["antifreeze solutions", "propylene glycol", "ethylene glycol", "hydronic snow melting", "glycol heat transfer", "freeze protection", "ASHRAE glycol standards", "glycol concentration"]
 weight: 3
 ---
 

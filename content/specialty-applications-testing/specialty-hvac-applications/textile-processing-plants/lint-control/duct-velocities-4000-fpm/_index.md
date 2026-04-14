@@ -1,7 +1,9 @@
 ---
 title: "Duct Velocities 4000 FPM for Lint Transport"
+aliases: ["Duct Velocities 4000 FPM for Lint Transport"]
 description: "Engineering guide to 4000 FPM minimum duct velocities for textile lint control. Covers transport velocity calculations, settling prevention, and energy optimization."
 keywords: ["lint transport velocity", "4000 fpm duct velocity", "textile exhaust systems", "lint settling prevention", "duct sizing calculations", "ACGIH industrial ventilation", "minimum transport velocity", "lint-laden air"]
+tags: ["lint transport velocity", "4000 fpm duct velocity", "textile exhaust systems", "lint settling prevention", "duct sizing calculations", "ACGIH industrial ventilation", "minimum transport velocity", "lint-laden air"]
 weight: 3
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "HVAC Strategies for Humid Subtropical Climates"
+aliases: ["HVAC Strategies for Humid Subtropical Climates"]
 description: "Engineering approaches for cooling-dominated humid subtropical climates: dehumidification, latent load control, and moisture management strategies."
 date: 2025-01-05
 tags: ["humid subtropical", "dehumidification", "latent cooling", "moisture control", "climate design"]

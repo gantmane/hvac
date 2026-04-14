@@ -1,5 +1,6 @@
 ---
 title: "Low-Velocity Air Distribution for Acoustic Control"
+aliases: ["Low-Velocity Air Distribution for Acoustic Control"]
 description: "Technical guidance on low-velocity HVAC design for assembly spaces including velocity-sound power relationships, duct sizing methodology, and noise reduction strategies."
 date: 2026-01-11
 tags: ["low velocity", "acoustic design", "duct sizing", "noise reduction", "assembly spaces", "velocity limits", "sound power"]

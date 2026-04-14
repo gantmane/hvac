@@ -1,5 +1,6 @@
 ---
 title: "Integrated Project Delivery Ipd"
+aliases: ["Integrated Project Delivery Ipd"]
 weight: 4
 ---
 

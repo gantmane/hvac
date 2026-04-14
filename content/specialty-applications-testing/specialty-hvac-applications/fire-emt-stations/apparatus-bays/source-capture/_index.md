@@ -1,7 +1,9 @@
 ---
 title: "Source Capture Exhaust Systems for Apparatus Bays"
+aliases: ["Source Capture Exhaust Systems for Apparatus Bays"]
 description: "Direct tailpipe capture systems for fire apparatus including track-mounted hoses, magnetic disconnects, fan sizing, and NFPA/NIOSH compliance requirements."
 keywords: ["source capture exhaust", "fire apparatus exhaust", "tailpipe capture", "diesel exhaust removal", "apparatus bay ventilation", "fire station HVAC", "NFPA 1500", "magnetic disconnect"]
+tags: ["source capture exhaust", "fire apparatus exhaust", "tailpipe capture", "diesel exhaust removal", "apparatus bay ventilation", "fire station HVAC", "NFPA 1500", "magnetic disconnect"]
 weight: 2
 ---
 

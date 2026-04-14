@@ -1,5 +1,6 @@
 ---
 title: "Unvented Gas Heaters"
+aliases: ["Unvented Gas Heaters"]
 description: "Analysis of vent-free gas heaters including safety considerations, oxygen depletion sensors, moisture production, and code restrictions for unvented equipment."
 date: "2026-01-04"
 weight: 2

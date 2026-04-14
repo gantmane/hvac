@@ -1,5 +1,6 @@
 ---
 title: "Dry Ice Shipping"
+aliases: ["Dry Ice Shipping"]
 weight: 2
 ---
 

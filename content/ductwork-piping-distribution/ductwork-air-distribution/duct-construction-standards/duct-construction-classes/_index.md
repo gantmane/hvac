@@ -1,5 +1,6 @@
 ---
 title: "Duct Construction Classes"
+aliases: ["Duct Construction Classes"]
 description: "SMACNA duct construction classes, seal classifications, leakage classes, and pressure ratings for metal ductwork systems including rectangular and round duct specifications."
 weight: 3
 ---

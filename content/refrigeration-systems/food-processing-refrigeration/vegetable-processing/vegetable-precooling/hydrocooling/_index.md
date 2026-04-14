@@ -1,5 +1,6 @@
 ---
 title: "Hydrocooling Systems for Vegetable Precooling"
+aliases: ["Hydrocooling Systems for Vegetable Precooling"]
 description: "Engineering guide to vegetable hydrocooling systems covering water temperature control, immersion and spray configurations, heat transfer calculations, refrigeration system sizing, and water treatment for rapid field heat removal from produce."
 weight: 1
 ---

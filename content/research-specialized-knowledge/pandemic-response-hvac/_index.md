@@ -1,8 +1,10 @@
 ---
 title: "Pandemic Response HVAC Systems"
+aliases: ["Pandemic Response HVAC Systems"]
 weight: 7
 description: "Engineering strategies for airborne pathogen control including enhanced filtration, increased ventilation, UV-C disinfection, and infectious disease mitigation in building HVAC systems."
 keywords: "pandemic HVAC, airborne pathogen control, enhanced filtration, MERV-13, HEPA filtration, UV-C disinfection, dilution ventilation, infectious disease HVAC, ASHRAE epidemic task force, COVID-19 ventilation"
+tags: ["pandemic HVAC", "airborne pathogen control", "enhanced filtration", "MERV-13", "HEPA filtration", "UV-C disinfection", "dilution ventilation", "infectious disease HVAC", "ASHRAE epidemic task force", "COVID-19 ventilation"]
 ---
 
 HVAC systems serve as critical infrastructure for airborne pathogen control during infectious disease outbreaks. The COVID-19 pandemic demonstrated the role of engineered ventilation, filtration, and air treatment in reducing disease transmission risk in occupied spaces. Effective pandemic response requires modifications to both system design and operational practices.

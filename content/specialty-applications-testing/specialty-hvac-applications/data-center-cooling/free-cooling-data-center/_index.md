@@ -1,7 +1,9 @@
 ---
 title: "Free Cooling Strategies for Data Centers"
+aliases: ["Free Cooling Strategies for Data Centers"]
 description: "Comprehensive guide to air-side economizers, water-side economizers, and evaporative cooling systems that reduce data center energy consumption and improve PUE metrics."
 keywords: ["data center free cooling", "air-side economizer", "water-side economizer", "evaporative cooling", "PUE optimization", "ASHRAE TC 9.9", "economizer hours", "data center efficiency"]
+tags: ["data center free cooling", "air-side economizer", "water-side economizer", "evaporative cooling", "PUE optimization", "ASHRAE TC 9.9", "economizer hours", "data center efficiency"]
 weight: 4
 ---
 

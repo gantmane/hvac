@@ -1,8 +1,10 @@
 ---
 title: "Water-Cooled Condensers"
+aliases: ["Water-Cooled Condensers"]
 weight: 2
 description: "Technical overview of water-cooled condenser design, shell-and-tube construction, tube materials, fouling factors, approach temperatures, and efficiency advantages in refrigeration systems."
 keywords: ["water-cooled condenser", "shell-and-tube condenser", "condenser tubes", "fouling factor", "approach temperature", "water treatment", "marine condenser", "refrigeration efficiency"]
+tags: ["water-cooled condenser", "shell-and-tube condenser", "condenser tubes", "fouling factor", "approach temperature", "water treatment", "marine condenser", "refrigeration efficiency"]
 ---
 
 Water-cooled condensers reject heat from refrigerant vapor to cooling water, offering superior efficiency compared to air-cooled designs through enhanced heat transfer coefficients and lower condensing temperatures.

@@ -1,5 +1,6 @@
 ---
 title: "Alcohol Solutions"
+aliases: ["Alcohol Solutions"]
 description: "Technical properties, performance characteristics, safety considerations, and application guidelines for methanol and ethanol aqueous solutions as secondary refrigerants in HVAC systems"
 weight: 11
 ---

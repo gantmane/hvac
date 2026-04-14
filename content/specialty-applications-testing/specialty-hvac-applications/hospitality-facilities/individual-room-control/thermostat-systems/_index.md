@@ -1,5 +1,6 @@
 ---
 title: "Thermostat Systems for Hotel Guest Rooms"
+aliases: ["Thermostat Systems for Hotel Guest Rooms"]
 description: "Digital and analog thermostat technologies, setpoint limiting, deadband strategies, override controls, communication protocols, and user interface design for hotel HVAC."
 date: "2026-01-11"
 weight: 1

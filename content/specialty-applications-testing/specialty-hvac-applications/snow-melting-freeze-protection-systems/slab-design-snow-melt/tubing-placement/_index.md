@@ -1,7 +1,9 @@
 ---
 title: "Hydronic Tubing Placement in Snow Melt Slabs"
+aliases: ["Hydronic Tubing Placement in Snow Melt Slabs"]
 description: "Engineering principles for optimal tubing depth and spacing in snow melting systems. Physics-based calculations for heat transfer efficiency and response time."
 keywords: ["tubing placement depth", "hydronic snow melt spacing", "tubing embedment depth", "heat transfer efficiency", "slab thermal mass", "snow melt response time", "PEX tubing installation"]
+tags: ["tubing placement depth", "hydronic snow melt spacing", "tubing embedment depth", "heat transfer efficiency", "slab thermal mass", "snow melt response time", "PEX tubing installation"]
 weight: 5
 ---
 

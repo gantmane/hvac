@@ -1,7 +1,9 @@
 ---
 title: "HVAC for Legitimate Theaters and Broadway Stages"
+aliases: ["HVAC for Legitimate Theaters and Broadway Stages"]
 description: "Engineering climate control for live performance venues including proscenium theaters, orchestra pit ventilation, fly loft conditioning, scene shop exhaust, and humidity control."
 keywords: ["legitimate theater HVAC", "proscenium stage ventilation", "orchestra pit climate control", "fly loft conditioning", "theater humidity control", "Broadway HVAC design", "stage acoustics ventilation", "costume storage dehumidification"]
+tags: ["legitimate theater HVAC", "proscenium stage ventilation", "orchestra pit climate control", "fly loft conditioning", "theater humidity control", "Broadway HVAC design", "stage acoustics ventilation", "costume storage dehumidification"]
 weight: 1
 ---
 

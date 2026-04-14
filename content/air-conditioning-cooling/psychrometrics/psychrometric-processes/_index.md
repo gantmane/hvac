@@ -1,5 +1,6 @@
 ---
 title: "Psychrometric Processes"
+aliases: ["Psychrometric Processes"]
 description: "Analysis of HVAC psychrometric processes including heating, cooling, humidification, dehumidification, mixing, and evaporative cooling with calculations."
 date: "2026-01-04"
 weight: 3

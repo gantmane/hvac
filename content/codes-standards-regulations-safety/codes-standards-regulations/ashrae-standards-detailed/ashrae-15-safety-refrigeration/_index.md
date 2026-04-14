@@ -1,5 +1,6 @@
 ---
 title: "ASHRAE 15 Safety Standard for Refrigeration Systems"
+aliases: ["ASHRAE 15 Safety Standard for Refrigeration Systems"]
 description: "Comprehensive refrigeration safety standard establishing requirements for refrigerant classification, system design, machinery room requirements, ventilation, detection systems, and pressure protection."
 date: 2026-01-04
 weight: 1

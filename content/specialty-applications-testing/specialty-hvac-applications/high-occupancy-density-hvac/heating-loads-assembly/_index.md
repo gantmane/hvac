@@ -1,7 +1,9 @@
 ---
 title: "Heating Loads in Assembly Spaces"
+aliases: ["Heating Loads in Assembly Spaces"]
 description: "Technical analysis of heating load calculations for high-occupancy assembly spaces, addressing occupant heat offset, ventilation loads, and envelope considerations."
 keywords: ["assembly heating loads", "occupancy density heating", "ventilation heating load", "HVAC assembly spaces", "heating load calculations", "envelope heat loss", "ASHRAE heating design", "theater heating"]
+tags: ["assembly heating loads", "occupancy density heating", "ventilation heating load", "HVAC assembly spaces", "heating load calculations", "envelope heat loss", "ASHRAE heating design", "theater heating"]
 weight: 4
 ---
 

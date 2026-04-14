@@ -1,5 +1,6 @@
 ---
 title: "Drawing Coordination Quality"
+aliases: ["Drawing Coordination Quality"]
 description: "Comprehensive guide to HVAC drawing coordination including clash detection, interdisciplinary coordination procedures, QA/QC protocols, review checklists, coordination meeting protocols, and resolution of common coordination conflicts in mechanical construction documentation"
 weight: 7
 ---

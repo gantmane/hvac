@@ -1,5 +1,6 @@
 ---
 title: "Mediterranean Climate HVAC Strategies"
+aliases: ["Mediterranean Climate HVAC Strategies"]
 description: "Physics-based HVAC strategies for Mediterranean climates including economizer optimization, evaporative cooling integration, thermal mass utilization, and hybrid system design."
 keywords:
   - Mediterranean HVAC strategies

@@ -1,7 +1,9 @@
 ---
 title: "Rotary Dryer Drum Rotation Speed and Control"
+aliases: ["Rotary Dryer Drum Rotation Speed and Control"]
 description: "Physics-based analysis of drum rotation mechanics, residence time calculations, and optimal speed control for industrial rotary dryers across applications."
 keywords: ["rotary dryer drum speed", "residence time calculation", "drum rotation mechanics", "centrifugal force dryer", "Froude number", "rotary kiln speed", "material bed depth", "cascading flow"]
+tags: ["rotary dryer drum speed", "residence time calculation", "drum rotation mechanics", "centrifugal force dryer", "Froude number", "rotary kiln speed", "material bed depth", "cascading flow"]
 date: 2026-01-11
 weight: 2
 draft: false

@@ -1,7 +1,9 @@
 ---
 title: "Solar Radiation Fundamentals for HVAC Design"
+aliases: ["Solar Radiation Fundamentals for HVAC Design"]
 description: "Technical analysis of solar radiation components including beam, diffuse, and reflected radiation with atmospheric effects for solar energy calculations."
 keywords: ["solar radiation", "direct normal irradiance", "diffuse radiation", "solar constant", "atmospheric attenuation", "global horizontal irradiance", "beam radiation", "air mass"]
+tags: ["solar radiation", "direct normal irradiance", "diffuse radiation", "solar constant", "atmospheric attenuation", "global horizontal irradiance", "beam radiation", "air mass"]
 weight: 1
 ---
 

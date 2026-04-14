@@ -1,7 +1,9 @@
 ---
 title: "Multiple Zone Ventilation Efficiency (Ev)"
+aliases: ["Multiple Zone Ventilation Efficiency (Ev)"]
 description: "Detailed analysis of system ventilation efficiency Ev in ASHRAE 62.1 including critical zone method, calculation procedures, and impact on system outdoor air intake."
 keywords: ["ventilation efficiency", "Ev calculation", "critical zone", "multiple zone systems", "VAV ventilation", "system outdoor air", "zone primary airflow"]
+tags: ["ventilation efficiency", "Ev calculation", "critical zone", "multiple zone systems", "VAV ventilation", "system outdoor air", "zone primary airflow"]
 date: 2026-01-04
 weight: 4
 ---

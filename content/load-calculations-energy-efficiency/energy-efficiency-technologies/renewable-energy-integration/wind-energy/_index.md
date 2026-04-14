@@ -1,5 +1,6 @@
 ---
 title: "Wind Energy Integration"
+aliases: ["Wind Energy Integration"]
 description: "Advanced wind energy systems for HVAC applications including turbine fundamentals, power calculations, building-integrated wind turbines, small wind systems, site assessment methodology, grid integration strategies, and load matching for commercial and industrial buildings"
 weight: 3
 ---

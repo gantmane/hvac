@@ -1,7 +1,9 @@
 ---
 title: "Domestic Hot Water Insulation Requirements"
+aliases: ["Domestic Hot Water Insulation Requirements"]
 description: "Technical guide to pipe and tank insulation for domestic hot water systems including thickness requirements, R-values, heat loss calculations, and IECC/ASHRAE code compliance."
 keywords: ["pipe insulation thickness", "tank insulation R-value", "standby heat loss", "IECC insulation requirements", "ASHRAE 90.1 insulation", "hot water heat loss", "thermal conductivity", "recirculation pipe insulation"]
+tags: ["pipe insulation thickness", "tank insulation R-value", "standby heat loss", "IECC insulation requirements", "ASHRAE 90.1 insulation", "hot water heat loss", "thermal conductivity", "recirculation pipe insulation"]
 weight: 3
 ---
 

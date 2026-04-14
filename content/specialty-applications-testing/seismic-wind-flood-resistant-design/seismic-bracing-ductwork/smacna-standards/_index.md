@@ -1,5 +1,6 @@
 ---
 title: "SMACNA Seismic Restraint Standards for Ductwork"
+aliases: ["SMACNA Seismic Restraint Standards for Ductwork"]
 description: "Comprehensive guide to SMACNA seismic restraint manual requirements for HVAC ductwork, including design categories, bracing criteria, and IBC compliance."
 date: 2025-01-05
 keywords:

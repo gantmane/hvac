@@ -1,7 +1,9 @@
 ---
 title: "Dry Cask Storage Climate Control and Passive Cooling"
+aliases: ["Dry Cask Storage Climate Control and Passive Cooling"]
 description: "Technical analysis of dry cask storage passive cooling systems, natural convection heat transfer, ventilation path design, and regulatory compliance per 10 CFR 72 and NUREG-1536."
 keywords: ["dry cask storage", "passive cooling ISFSI", "natural convection nuclear", "spent fuel dry storage", "10 CFR 72", "NUREG-1536", "vertical ventilation cask", "horizontal storage modules", "decay heat removal", "thermal analysis cask"]
+tags: ["dry cask storage", "passive cooling ISFSI", "natural convection nuclear", "spent fuel dry storage", "10 CFR 72", "NUREG-1536", "vertical ventilation cask", "horizontal storage modules", "decay heat removal", "thermal analysis cask"]
 weight: 2
 ---
 

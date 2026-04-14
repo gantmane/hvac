@@ -1,7 +1,9 @@
 ---
 title: "Smoke Control Systems for Justice Facilities"
+aliases: ["Smoke Control Systems for Justice Facilities"]
 description: "Engineering smoke control for correctional facilities with defend-in-place strategies, pressurization systems, and compliance with NFPA 92 and IBC requirements."
 keywords: ["smoke control justice facilities", "correctional smoke management", "defend-in-place smoke control", "prison HVAC smoke systems", "NFPA 92 correctional", "justice facility pressurization", "smoke exhaust prisons", "IBC smoke control"]
+tags: ["smoke control justice facilities", "correctional smoke management", "defend-in-place smoke control", "prison HVAC smoke systems", "NFPA 92 correctional", "justice facility pressurization", "smoke exhaust prisons", "IBC smoke control"]
 weight: 7
 ---
 

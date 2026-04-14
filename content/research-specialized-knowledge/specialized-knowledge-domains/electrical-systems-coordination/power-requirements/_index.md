@@ -1,5 +1,6 @@
 ---
 title: "Power Requirements"
+aliases: ["Power Requirements"]
 description: "Electrical load calculations, voltage drop analysis, motor circuit design, overcurrent protection, and short circuit considerations for HVAC equipment"
 weight: 1
 ---

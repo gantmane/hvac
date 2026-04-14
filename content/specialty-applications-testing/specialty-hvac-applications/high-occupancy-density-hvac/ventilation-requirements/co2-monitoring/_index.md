@@ -1,7 +1,9 @@
 ---
 title: "CO2 Monitoring for High-Occupancy HVAC Systems"
+aliases: ["CO2 Monitoring for High-Occupancy HVAC Systems"]
 description: "Technical guide to carbon dioxide monitoring systems for high-density spaces including sensor placement, setpoints, control strategies, and ASHRAE 62.1 compliance."
 keywords: ["CO2 monitoring", "carbon dioxide sensors", "demand controlled ventilation", "occupancy proxy", "ASHRAE 62.1", "IAQ sensors", "ventilation control", "NDIR sensors"]
+tags: ["CO2 monitoring", "carbon dioxide sensors", "demand controlled ventilation", "occupancy proxy", "ASHRAE 62.1", "IAQ sensors", "ventilation control", "NDIR sensors"]
 weight: 3
 ---
 

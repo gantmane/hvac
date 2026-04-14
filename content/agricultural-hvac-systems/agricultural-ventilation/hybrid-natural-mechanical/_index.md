@@ -1,5 +1,6 @@
 ---
 title: "Hybrid Natural-Mechanical Ventilation Systems"
+aliases: ["Hybrid Natural-Mechanical Ventilation Systems"]
 description: "Engineering design of hybrid ventilation combining natural and mechanical modes with automated switching strategies, control sequences, and energy optimization for livestock facilities."
 date: 2026-01-04
 tags: ["hybrid ventilation", "natural mechanical", "automated controls", "energy optimization", "seasonal switching", "transitional ventilation"]

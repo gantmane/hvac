@@ -1,8 +1,10 @@
 ---
 title: "Marine Galley HVAC Systems"
+aliases: ["Marine Galley HVAC Systems"]
 weight: 1
 description: "Comprehensive guide to shipboard commercial kitchen HVAC design including grease exhaust, fire suppression integration, makeup air systems, and marine-specific requirements."
 keywords: ["marine galley HVAC", "shipboard kitchen exhaust", "grease filtration marine", "fire suppression galley", "makeup air ships", "hood exhaust marine", "galley ventilation", "NFPA 96 marine"]
+tags: ["marine galley HVAC", "shipboard kitchen exhaust", "grease filtration marine", "fire suppression galley", "makeup air ships", "hood exhaust marine", "galley ventilation", "NFPA 96 marine"]
 ---
 
 ## Overview

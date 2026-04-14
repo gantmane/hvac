@@ -1,8 +1,10 @@
 ---
 title: "Automotive Heating Systems: Engine & Electric Technologies"
+aliases: ["Automotive Heating Systems: Engine & Electric Technologies"]
 seo_title: "Automotive HVAC Heating Systems | Engine & Electric Heat"
 description: "Technical analysis of automotive heating technologies including engine coolant systems, PTC electric heaters, and heat pumps for EVs. Covers thermodynamics, control strategies, and SAE standards."
 keywords: ["automotive heating", "engine coolant heater", "PTC heater", "automotive heat pump", "cabin heating", "electric vehicle HVAC", "automotive thermal management", "SAE J2765"]
+tags: ["automotive heating", "engine coolant heater", "PTC heater", "automotive heat pump", "cabin heating", "electric vehicle HVAC", "automotive thermal management", "SAE J2765"]
 weight: 3
 ---
 

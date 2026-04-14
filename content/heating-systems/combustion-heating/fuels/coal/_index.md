@@ -1,5 +1,6 @@
 ---
 title: "Coal"
+aliases: ["Coal"]
 weight: 4
 ---
 

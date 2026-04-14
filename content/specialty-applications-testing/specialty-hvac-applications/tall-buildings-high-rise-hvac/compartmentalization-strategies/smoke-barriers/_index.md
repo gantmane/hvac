@@ -1,7 +1,9 @@
 ---
 title: "Smoke Barriers in High-Rise HVAC Systems"
+aliases: ["Smoke Barriers in High-Rise HVAC Systems"]
 description: "Engineering analysis of smoke barrier design, HVAC penetration sealing, fire/smoke damper requirements, and integrity testing for tall building compartmentalization."
 keywords: ["smoke barriers", "fire dampers", "smoke dampers", "HVAC penetrations", "compartmentalization", "high-rise fire protection", "barrier integrity testing", "smoke control"]
+tags: ["smoke barriers", "fire dampers", "smoke dampers", "HVAC penetrations", "compartmentalization", "high-rise fire protection", "barrier integrity testing", "smoke control"]
 weight: 4
 ---
 

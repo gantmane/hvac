@@ -1,7 +1,9 @@
 ---
 title: "Surface Finish for Snow Melting Slabs"
+aliases: ["Surface Finish for Snow Melting Slabs"]
 description: "Technical analysis of concrete surface finishes for heated snow melting systems including texture profiles, drainage slopes, and thermal performance characteristics."
 keywords: ["snow melt surface finish", "heated slab texture", "concrete finish snow melting", "surface drainage slope", "exposed aggregate heated slab", "broom finish concrete", "snow melt slab preparation", "surface roughness thermal"]
+tags: ["snow melt surface finish", "heated slab texture", "concrete finish snow melting", "surface drainage slope", "exposed aggregate heated slab", "broom finish concrete", "snow melt slab preparation", "surface roughness thermal"]
 weight: 6
 ---
 

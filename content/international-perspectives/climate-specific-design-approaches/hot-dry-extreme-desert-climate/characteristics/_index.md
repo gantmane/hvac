@@ -1,5 +1,6 @@
 ---
 title: "Extreme Desert Climate HVAC Characteristics"
+aliases: ["Extreme Desert Climate HVAC Characteristics"]
 description: "Physics-based analysis of hot-dry extreme desert thermal properties, solar radiation mechanics, evaporative cooling potential, and dust loading impacts for HVAC design."
 date: 2026-01-05
 weight: 1

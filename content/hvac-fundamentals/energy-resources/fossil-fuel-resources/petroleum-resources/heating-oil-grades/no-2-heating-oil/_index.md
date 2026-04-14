@@ -1,7 +1,9 @@
 ---
 title: "No. 2 Heating Oil: Properties and Applications"
+aliases: ["No. 2 Heating Oil: Properties and Applications"]
 description: "Technical analysis of No. 2 heating oil specifications, combustion efficiency, storage requirements, and residential/commercial heating applications per ASTM D396."
 keywords: ["No. 2 heating oil", "fuel oil specifications", "ASTM D396", "heating oil combustion", "distillate fuel oil", "residential heating fuel", "heating oil storage", "fuel oil efficiency"]
+tags: ["No. 2 heating oil", "fuel oil specifications", "ASTM D396", "heating oil combustion", "distillate fuel oil", "residential heating fuel", "heating oil storage", "fuel oil efficiency"]
 weight: 1
 ---
 

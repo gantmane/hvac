@@ -1,8 +1,10 @@
 ---
 title: "Bridge Deck Snow Melting & Anti-Icing Systems"
+aliases: ["Bridge Deck Snow Melting & Anti-Icing Systems"]
 linkTitle: "Bridges & Overpasses"
 description: "Engineering analysis of bridge deck heating systems addressing dual-surface heat loss, wind exposure, and anti-icing requirements with physics-based design methodologies."
 keywords: ["bridge deck heating", "overpass snow melting", "bridge anti-icing", "dual surface heat loss", "bridge deck thermal loads", "ASHRAE bridge heating", "wind exposure heat loss", "hydronic bridge systems"]
+tags: ["bridge deck heating", "overpass snow melting", "bridge anti-icing", "dual surface heat loss", "bridge deck thermal loads", "ASHRAE bridge heating", "wind exposure heat loss", "hydronic bridge systems"]
 weight: 5
 ---
 

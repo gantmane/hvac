@@ -1,7 +1,9 @@
 ---
 title: "Noise Control in Engine Test Cells"
+aliases: ["Noise Control in Engine Test Cells"]
 description: "Comprehensive noise control strategies for engine test facilities including acoustic design, HVAC system integration, worker protection, and community impact mitigation."
 keywords: ["engine test cell noise", "acoustic design", "sound isolation", "HVAC noise control", "hearing protection", "noise regulations", "test cell acoustics", "sound attenuation"]
+tags: ["engine test cell noise", "acoustic design", "sound isolation", "HVAC noise control", "hearing protection", "noise regulations", "test cell acoustics", "sound attenuation"]
 weight: 5
 ---
 

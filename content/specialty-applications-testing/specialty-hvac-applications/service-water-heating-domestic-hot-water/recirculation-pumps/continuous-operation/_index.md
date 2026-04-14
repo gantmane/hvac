@@ -1,7 +1,9 @@
 ---
 title: "Continuous Operation Recirculation Pumps"
+aliases: ["Continuous Operation Recirculation Pumps"]
 description: "Technical analysis of continuous operation domestic hot water recirculation pumps including energy consumption, heat loss calculations, and appropriate applications."
 keywords: ["continuous recirculation", "DHW pump sizing", "hot water heat loss", "24/7 pump operation", "recirculation energy consumption", "instant hot water", "ASHRAE 90.1 compliance", "domestic hot water systems"]
+tags: ["continuous recirculation", "DHW pump sizing", "hot water heat loss", "24/7 pump operation", "recirculation energy consumption", "instant hot water", "ASHRAE 90.1 compliance", "domestic hot water systems"]
 weight: 1
 ---
 

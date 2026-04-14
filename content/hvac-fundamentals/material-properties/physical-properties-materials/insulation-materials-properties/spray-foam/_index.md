@@ -1,5 +1,6 @@
 ---
 title: "Spray Foam Insulation"
+aliases: ["Spray Foam Insulation"]
 description: "Technical analysis of spray foam insulation materials for HVAC applications including open-cell and closed-cell polyurethane foam R-values, moisture permeance, air barrier performance, thermal resistance aging, and application requirements for building envelope systems."
 weight: 4
 ---

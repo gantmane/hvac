@@ -1,5 +1,6 @@
 ---
 title: "Bim Standards Protocols"
+aliases: ["Bim Standards Protocols"]
 weight: 3
 ---
 

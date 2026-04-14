@@ -2,6 +2,7 @@
 title: "Psychrometric Processes in HVAC Systems"
 description: "Detailed analysis of HVAC psychrometric processes including sensible heating, sensible cooling, humidification, dehumidification, and air mixing with formulas and worked examples."
 keywords: ["psychrometric processes", "sensible heating", "sensible cooling", "humidification", "dehumidification", "air mixing", "cooling coil", "heating coil", "HVAC processes"]
+tags: ["psychrometric processes", "sensible heating", "sensible cooling", "humidification", "dehumidification", "air mixing", "cooling coil", "heating coil", "HVAC processes"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 2
@@ -598,9 +599,9 @@ Engineers must understand sensible heat ratios, bypass factors, and apparatus de
 ---
 
 **Related Technical Guides:**
-- [Psychrometric Fundamentals](/technical-guides/psychrometric-fundamentals/)
-- [Cooling Load Calculations](/technical-guides/cooling-load-calculations/)
-- [Heating Load Calculations](/technical-guides/heating-load-calculations/)
+- Psychrometric Fundamentals
+- Cooling Load Calculations
+- Heating Load Calculations
 
 **References:**
 - ASHRAE Handbook of Fundamentals, Chapter 1: Psychrometrics

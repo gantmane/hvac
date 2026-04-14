@@ -1,8 +1,10 @@
 ---
 title: "Full Capacity Mode for Peak Occupancy HVAC Systems"
+aliases: ["Full Capacity Mode for Peak Occupancy HVAC Systems"]
 seo_title: "Full Capacity Mode: Peak Occupancy HVAC Operation"
 description: "Technical guide to full capacity HVAC operation during peak occupancy events. Covers maximum cooling loads, ventilation rates, equipment staging, and demand response override."
 keywords: ["full capacity mode", "peak occupancy HVAC", "maximum cooling load", "ventilation rates", "event mode operation", "demand response override", "HVAC staging", "occupancy control"]
+tags: ["full capacity mode", "peak occupancy HVAC", "maximum cooling load", "ventilation rates", "event mode operation", "demand response override", "HVAC staging", "occupancy control"]
 weight: 1
 ---
 

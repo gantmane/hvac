@@ -1,8 +1,10 @@
 ---
 title: "Centrifugal Chillers: High-Capacity Cooling"
+aliases: ["Centrifugal Chillers: High-Capacity Cooling"]
 weight: 1
 description: "Comprehensive analysis of centrifugal chiller technology including impeller dynamics, surge control, magnetic bearing systems, and variable speed drive optimization for large tonnage applications."
 keywords: ["centrifugal chiller", "impeller dynamics", "surge control", "magnetic bearings", "variable speed drive", "oil-free compressor", "chiller efficiency", "large tonnage cooling"]
+tags: ["centrifugal chiller", "impeller dynamics", "surge control", "magnetic bearings", "variable speed drive", "oil-free compressor", "chiller efficiency", "large tonnage cooling"]
 ---
 
 ## Centrifugal Chiller Technology

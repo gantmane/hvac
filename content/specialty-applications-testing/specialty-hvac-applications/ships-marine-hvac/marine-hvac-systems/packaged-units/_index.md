@@ -1,7 +1,9 @@
 ---
 title: "Marine Packaged HVAC Units - Self-Contained Systems"
+aliases: ["Marine Packaged HVAC Units - Self-Contained Systems"]
 description: "Technical guide to marine packaged air conditioning units including self-contained systems, direct seawater cooling, modular design, and marine-grade construction."
 keywords: ["marine packaged units", "self-contained HVAC marine", "seawater cooling packaged", "marine air conditioning", "modular HVAC marine", "shipboard packaged units", "marine DX systems", "corrosion resistant HVAC"]
+tags: ["marine packaged units", "self-contained HVAC marine", "seawater cooling packaged", "marine air conditioning", "modular HVAC marine", "shipboard packaged units", "marine DX systems", "corrosion resistant HVAC"]
 weight: 2
 ---
 

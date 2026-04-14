@@ -1,5 +1,6 @@
 ---
 title: "Advanced Glazing Systems"
+aliases: ["Advanced Glazing Systems"]
 weight: 1
 ---
 

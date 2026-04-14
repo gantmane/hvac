@@ -1,7 +1,9 @@
 ---
 title: "North American HVAC Incentive Programs"
+aliases: ["North American HVAC Incentive Programs"]
 description: "Comprehensive analysis of federal, state, and provincial HVAC incentive programs across the United States, Canada, and Mexico including tax credits, rebates, utility incentives, and demand response programs."
 keywords: ["HVAC tax credits USA", "Energy Star rebates", "federal 179D deduction", "Canadian heat pump rebates", "utility HVAC incentives", "demand response programs", "HVAC financing incentives", "commercial HVAC tax benefits", "residential HVAC rebates", "CFE Mexico energy efficiency"]
+tags: ["HVAC tax credits USA", "Energy Star rebates", "federal 179D deduction", "Canadian heat pump rebates", "utility HVAC incentives", "demand response programs", "HVAC financing incentives", "commercial HVAC tax benefits", "residential HVAC rebates", "CFE Mexico energy efficiency"]
 date: 2025-01-05
 weight: 1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Electronic Recorders"
+aliases: ["Electronic Recorders"]
 weight: 2
 ---
 

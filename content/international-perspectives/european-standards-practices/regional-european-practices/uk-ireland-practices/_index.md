@@ -1,8 +1,10 @@
 ---
 title: "UK and Ireland HVAC Practices"
+aliases: ["UK and Ireland HVAC Practices"]
 weight: 4
 description: "Comprehensive analysis of heating, ventilation, and air conditioning practices in the United Kingdom and Ireland including Building Regulations Part L, SAP/SBEM methodologies, TRVs and weather compensation requirements, boiler efficiency standards, ventilation Part F compliance, and distinct technical approaches shaped by maritime climate and regulatory evolution."
 keywords: "UK HVAC, Ireland HVAC, Building Regulations Part L, SAP methodology, SBEM, Standard Assessment Procedure, Simplified Building Energy Model, TRV requirements, weather compensation, UK boiler standards, Part F ventilation, CIBSE guidance, Irish Technical Guidance Documents, TGD Part L, condensing boiler mandate"
+tags: ["UK HVAC", "Ireland HVAC", "Building Regulations Part L", "SAP methodology", "SBEM", "Standard Assessment Procedure", "Simplified Building Energy Model", "TRV requirements", "weather compensation", "UK boiler standards"]
 ---
 
 # UK and Ireland HVAC Practices

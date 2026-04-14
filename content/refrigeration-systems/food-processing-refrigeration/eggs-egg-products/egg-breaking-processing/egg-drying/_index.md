@@ -1,5 +1,6 @@
 ---
 title: "Egg Drying"
+aliases: ["Egg Drying"]
 description: "HVAC design for spray drying of liquid egg products including air handling requirements, temperature control, humidity management, heat recovery systems, and product quality parameters for commercial egg powder production"
 weight: 5
 ---

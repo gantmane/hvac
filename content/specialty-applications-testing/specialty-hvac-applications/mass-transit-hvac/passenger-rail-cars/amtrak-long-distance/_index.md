@@ -1,5 +1,6 @@
 ---
 title: "Amtrak Long-Distance HVAC Systems"
+aliases: ["Amtrak Long-Distance HVAC Systems"]
 description: "Technical guide to HVAC design for Amtrak long-distance trains including sleeping car climate control, dining car ventilation, 24-hour operation requirements."
 keywords: ["Amtrak HVAC", "long-distance train climate control", "sleeping car HVAC", "dining car ventilation", "passenger rail comfort", "24-hour HVAC operation", "train climate systems", "railroad HVAC design"]
 tags: ["mass transit", "Amtrak", "long-distance trains", "sleeping cars", "dining cars", "passenger comfort", "railroad HVAC"]

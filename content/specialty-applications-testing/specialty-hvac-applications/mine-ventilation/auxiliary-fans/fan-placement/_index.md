@@ -1,5 +1,6 @@
 ---
 title: "Auxiliary Fan Placement Strategies"
+aliases: ["Auxiliary Fan Placement Strategies"]
 description: "Technical analysis of auxiliary fan positioning in underground mines, forcing versus exhausting system layouts, duct overlap calculations, leakage impacts, and dead heading prevention."
 keywords:
   - auxiliary fan placement

@@ -1,5 +1,6 @@
 ---
 title: "Pavement Sensors for Snow Melting Systems"
+aliases: ["Pavement Sensors for Snow Melting Systems"]
 weight: 2
 description: "Technical guide to pavement-mounted sensors for snow melting systems including flush-mount installation, RTD temperature sensing, moisture detection grids, and durability specifications."
 keywords:

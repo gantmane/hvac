@@ -1,5 +1,6 @@
 ---
 title: "Static Regain"
+aliases: ["Static Regain"]
 weight: 2
 ---
 

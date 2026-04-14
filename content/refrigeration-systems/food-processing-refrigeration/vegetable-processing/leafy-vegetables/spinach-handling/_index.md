@@ -1,5 +1,6 @@
 ---
 title: "Spinach Handling"
+aliases: ["Spinach Handling"]
 description: "Technical requirements for spinach processing refrigeration systems including rapid cooling protocols, high-humidity storage environments, respiration rate management, and modified atmosphere packaging for extended shelf life"
 weight: 2
 ---

@@ -1,8 +1,10 @@
 ---
 title: "Hydrothermal Resources for HVAC Applications"
+aliases: ["Hydrothermal Resources for HVAC Applications"]
 seo_title: "Hydrothermal Geothermal Resources & Power Generation"
 description: "Technical analysis of hydrothermal geothermal resources including dry steam, flash steam, and binary cycle systems with reservoir calculations and US resource assessments."
 keywords: ["hydrothermal resources", "geothermal power generation", "flash steam systems", "binary cycle plants", "dry steam", "geothermal reservoirs", "USGS geothermal assessment", "geothermal energy"]
+tags: ["hydrothermal resources", "geothermal power generation", "flash steam systems", "binary cycle plants", "dry steam", "geothermal reservoirs", "USGS geothermal assessment", "geothermal energy"]
 weight: 2
 ---
 

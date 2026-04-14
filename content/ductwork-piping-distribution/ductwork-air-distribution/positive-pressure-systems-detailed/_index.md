@@ -1,5 +1,6 @@
 ---
 title: "Positive Pressure Systems"
+aliases: ["Positive Pressure Systems"]
 description: "Building positive pressurization systems for contamination control, biosecurity, cleanrooms, and pharmaceutical manufacturing including design strategies and moisture management."
 weight: 10
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Vibration Isolation Design for HVAC Systems"
+aliases: ["Vibration Isolation Design for HVAC Systems"]
 description: "Engineering methodology for vibration isolation design including transmissibility calculations, natural frequency analysis, damping effects, and frequency ratio optimization."
 keywords:
   - vibration isolation design

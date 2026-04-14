@@ -1,7 +1,9 @@
 ---
 title: "Spectator Comfort in Ice Rink Arenas"
+aliases: ["Spectator Comfort in Ice Rink Arenas"]
 description: "Engineering thermal comfort for ice arena spectators through radiant heating, mean radiant temperature control, and HVAC system design considering ice surface heat exchange."
 keywords: ["ice rink spectator comfort", "radiant asymmetry ice arenas", "MRT ice rinks", "spectator heating systems", "ice arena HVAC design", "thermal comfort skating venues", "radiant heating ice rinks", "spectator zone temperature control"]
+tags: ["ice rink spectator comfort", "radiant asymmetry ice arenas", "MRT ice rinks", "spectator heating systems", "ice arena HVAC design", "thermal comfort skating venues", "radiant heating ice rinks", "spectator zone temperature control"]
 weight: 2
 ---
 

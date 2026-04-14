@@ -1,5 +1,6 @@
 ---
 title: "ASHRAE 90.1 Energy Standard for Buildings"
+aliases: ["ASHRAE 90.1 Energy Standard for Buildings"]
 description: "Comprehensive energy efficiency standard establishing minimum requirements for building design and construction, featuring mandatory provisions, prescriptive paths, and performance-based compliance methods."
 date: 2026-01-04
 weight: 5

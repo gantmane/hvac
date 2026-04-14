@@ -1,5 +1,6 @@
 ---
 title: "Precision Environmental Control Systems"
+aliases: ["Precision Environmental Control Systems"]
 linkTitle: "Precision Control"
 description: "Engineering precision temperature and humidity control for power plant control rooms, analyzing thermal control physics, equipment heat loads, psychrometric processes, and operator comfort integration."
 keywords:

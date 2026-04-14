@@ -1,5 +1,6 @@
 ---
 title: "Conduction"
+aliases: ["Conduction"]
 description: "Detailed analysis of heat conduction principles in HVAC applications, including Fourier's Law, thermal resistance, R-values and U-values, one-dimensional and multidimensional conduction, and transient heat transfer for building envelope design."
 weight: 1
 ---

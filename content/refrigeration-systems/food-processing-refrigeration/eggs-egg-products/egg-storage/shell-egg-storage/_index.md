@@ -1,5 +1,6 @@
 ---
 title: "Shell Egg Storage"
+aliases: ["Shell Egg Storage"]
 description: "Refrigeration requirements and environmental control for shell egg storage facilities including temperature specifications, humidity control, air circulation patterns, stacking configurations, refrigeration load calculations, and USDA regulatory compliance for commercial egg storage operations."
 weight: 1
 ---

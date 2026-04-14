@@ -1,5 +1,6 @@
 ---
 title: "Fiberglass Duct Board"
+aliases: ["Fiberglass Duct Board"]
 weight: 1
 ---
 

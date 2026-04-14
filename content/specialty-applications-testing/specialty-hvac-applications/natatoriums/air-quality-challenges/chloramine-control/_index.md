@@ -1,7 +1,9 @@
 ---
 title: "Chloramine Control in Natatorium HVAC Systems"
+aliases: ["Chloramine Control in Natatorium HVAC Systems"]
 description: "Technical strategies for chloramine control in indoor pools including source reduction, ventilation design, air distribution optimization, and health exposure limits per ASHRAE standards."
 keywords: ["chloramine control", "natatorium air quality", "trichloramine removal", "pool ventilation", "source control natatorium", "ASHRAE 62.1", "indoor air quality pool", "exposure limits chloramines"]
+tags: ["chloramine control", "natatorium air quality", "trichloramine removal", "pool ventilation", "source control natatorium", "ASHRAE 62.1", "indoor air quality pool", "exposure limits chloramines"]
 weight: 1
 ---
 

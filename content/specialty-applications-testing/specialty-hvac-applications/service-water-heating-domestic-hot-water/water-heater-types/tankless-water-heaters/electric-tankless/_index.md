@@ -1,7 +1,9 @@
 ---
 title: "Electric Tankless Water Heaters: Design and Sizing"
+aliases: ["Electric Tankless Water Heaters: Design and Sizing"]
 description: "Technical guide to electric tankless water heater sizing, electrical requirements, point-of-use applications, and efficiency calculations per NEC and ASHRAE standards."
 keywords: ["electric tankless water heater", "point-of-use water heater", "tankless heater sizing", "electric water heater kW", "NEC electric heater", "instantaneous water heater", "electric demand calculation", "tankless efficiency"]
+tags: ["electric tankless water heater", "point-of-use water heater", "tankless heater sizing", "electric water heater kW", "NEC electric heater", "instantaneous water heater", "electric demand calculation", "tankless efficiency"]
 weight: 2
 ---
 

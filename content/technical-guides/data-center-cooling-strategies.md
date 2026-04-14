@@ -2,6 +2,7 @@
 title: "Data Center Cooling Strategies & Thermal Management"
 description: "Engineering guide to data center HVAC design including CRAC/CRAH units, hot/cold aisle containment, liquid cooling, economizers, and redundancy configurations for mission-critical facilities."
 keywords: ["data center cooling", "CRAC", "CRAH", "hot aisle containment", "cold aisle containment", "liquid cooling", "data center HVAC", "PUE"]
+tags: ["data center cooling", "CRAC", "CRAH", "hot aisle containment", "cold aisle containment", "liquid cooling", "data center HVAC", "PUE"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 39
@@ -414,11 +415,11 @@ $$pPUE_{cooling} = 1 + \frac{Cooling\ System\ Power}{IT\ Power}$$
 ---
 
 **Related Technical Guides:**
-- [Chiller Performance Analysis](/technical-guides/chiller-performance-analysis/)
-- [Cooling Load Calculations](/technical-guides/cooling-load-calculations/)
-- [Building Pressurization Control](/technical-guides/building-pressurization-control/)
-- [Energy Modeling Methodology](/technical-guides/energy-modeling-methodology/)
-- [HVAC Control Strategies](/technical-guides/hvac-control-strategies/)
+- Chiller Performance Analysis
+- Cooling Load Calculations
+- Building Pressurization Control
+- Energy Modeling Methodology
+- HVAC Control Strategies
 
 **References:**
 - ASHRAE TC 9.9: Thermal Guidelines for Data Processing Environments

@@ -1,7 +1,9 @@
 ---
 title: "Apparatus Bay HVAC Systems"
+aliases: ["Apparatus Bay HVAC Systems"]
 description: "Technical design guide for fire station apparatus bay heating, ventilation, and diesel exhaust capture systems including source capture vs general exhaust, radiant heating, and bay door infiltration control."
 keywords: ["apparatus bay HVAC", "fire station heating", "diesel exhaust capture", "source capture system", "vehicle exhaust removal", "radiant heating", "NFPA 1500", "bay door infiltration", "fire station ventilation"]
+tags: ["apparatus bay HVAC", "fire station heating", "diesel exhaust capture", "source capture system", "vehicle exhaust removal", "radiant heating", "NFPA 1500", "bay door infiltration", "fire station ventilation"]
 weight: 4
 ---
 

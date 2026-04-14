@@ -1,5 +1,6 @@
 ---
 title: "Virus Filtration Systems"
+aliases: ["Virus Filtration Systems"]
 description: "High-efficiency filtration system design for agricultural biosecurity applications including PRRS and avian influenza virus capture, multi-stage filter configurations, and particle size distribution considerations."
 weight: 1
 ---

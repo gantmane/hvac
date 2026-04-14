@@ -1,5 +1,6 @@
 ---
 title: "Product Size"
+aliases: ["Product Size"]
 weight: 1
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Environmental Control for Museum Artifacts by Material Type"
+aliases: ["Environmental Control for Museum Artifacts by Material Type"]
 description: "HVAC requirements for diverse museum artifacts including wood, metal, ivory, glass, stone, composite, and archaeological materials with material-specific climate specifications."
 keywords: ["artifact preservation", "museum climate control", "material-specific HVAC", "composite artifacts", "archaeological conservation", "environmental requirements", "collection care", "humidity specifications"]
+tags: ["artifact preservation", "museum climate control", "material-specific HVAC", "composite artifacts", "archaeological conservation", "environmental requirements", "collection care", "humidity specifications"]
 weight: 7
 ---
 

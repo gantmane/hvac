@@ -1,7 +1,9 @@
 ---
 title: "Quiet Diffusers for Acoustic Control"
+aliases: ["Quiet Diffusers for Acoustic Control"]
 description: "Technical analysis of quiet diffuser design, NC rating impacts, velocity reduction strategies, and noise generation mechanisms for low-noise air distribution systems."
 keywords: ["quiet diffusers", "diffuser acoustics", "NC rating", "air distribution noise", "velocity reduction", "acoustic diffuser design", "sound power level", "radiated noise"]
+tags: ["quiet diffusers", "diffuser acoustics", "NC rating", "air distribution noise", "velocity reduction", "acoustic diffuser design", "sound power level", "radiated noise"]
 weight: 3
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "BTU Per Hour Input Rating for Water Heaters"
+aliases: ["BTU Per Hour Input Rating for Water Heaters"]
 weight: 5
 description: "Calculate water heater BTU/hr input ratings based on recovery capacity, temperature rise, and efficiency. Gas vs electric input requirements with ASHRAE sizing methods."
 keywords: ["BTU input", "water heater capacity", "gas water heater", "electric water heater", "recovery rate", "thermal efficiency", "AHRI standards", "water heater sizing"]
+tags: ["BTU input", "water heater capacity", "gas water heater", "electric water heater", "recovery rate", "thermal efficiency", "AHRI standards", "water heater sizing"]
 ---
 
 ## BTU Per Hour Input Rating

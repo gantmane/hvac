@@ -1,5 +1,6 @@
 ---
 title: "Air Barrier Systems"
+aliases: ["Air Barrier Systems"]
 description: "Comprehensive technical analysis of air barrier systems including continuity requirements, material properties, assembly design, testing protocols, and performance standards for controlling air leakage and moisture transport in building envelopes"
 weight: 2
 ---

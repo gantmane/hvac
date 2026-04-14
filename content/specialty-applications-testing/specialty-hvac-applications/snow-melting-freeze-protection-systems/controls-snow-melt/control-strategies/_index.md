@@ -1,5 +1,6 @@
 ---
 title: "Snow Melting Control Strategies"
+aliases: ["Snow Melting Control Strategies"]
 description: "Control modes for snow melting systems including automatic activation, idling operation, full output modes, state transitions, and energy optimization strategies."
 keywords:
   - snow melting control

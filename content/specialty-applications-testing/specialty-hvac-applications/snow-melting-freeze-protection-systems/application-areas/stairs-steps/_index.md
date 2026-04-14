@@ -1,8 +1,10 @@
 ---
 title: "Stair & Step Snow Melting Systems"
+aliases: ["Stair & Step Snow Melting Systems"]
 seo_title: "Stair Snow Melting: Design & Safety Standards"
 description: "Engineering guide for heated stair systems covering heat flux calculations, tread design, safety compliance, and installation methods for slip-free exterior stairs."
 keywords: ["stair snow melting", "heated steps", "tread heating systems", "stair safety heating", "step de-icing", "exterior stair heating", "slip resistance", "ASTM F1637"]
+tags: ["stair snow melting", "heated steps", "tread heating systems", "stair safety heating", "step de-icing", "exterior stair heating", "slip resistance", "ASTM F1637"]
 weight: 3
 ---
 

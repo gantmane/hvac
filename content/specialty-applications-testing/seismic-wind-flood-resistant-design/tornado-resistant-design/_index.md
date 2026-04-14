@@ -1,7 +1,9 @@
 ---
 title: "Tornado-Resistant HVAC Design"
+aliases: ["Tornado-Resistant HVAC Design"]
 description: "Engineering HVAC systems for tornado protection using ICC 500 and FEMA P-361 standards, including safe room requirements, pressure differential calculations, and debris impact criteria."
 keywords: ["tornado-resistant HVAC", "safe room ventilation", "ICC 500", "FEMA P-361", "enhanced Fujita scale", "debris impact", "pressure differential", "storm shelter HVAC"]
+tags: ["tornado-resistant HVAC", "safe room ventilation", "ICC 500", "FEMA P-361", "enhanced Fujita scale", "debris impact", "pressure differential", "storm shelter HVAC"]
 date: 2026-01-05
 draft: false
 weight: 8

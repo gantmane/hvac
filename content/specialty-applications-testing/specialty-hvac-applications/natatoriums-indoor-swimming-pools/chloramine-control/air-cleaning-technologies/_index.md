@@ -1,7 +1,9 @@
 ---
 title: "Air Cleaning Technologies for Chloramine Control"
+aliases: ["Air Cleaning Technologies for Chloramine Control"]
 description: "Physics-based analysis of activated carbon adsorption, photocatalytic oxidation, UV-C treatment, and hybrid air cleaning systems for natatorium chloramine removal."
 keywords: ["chloramine removal", "activated carbon filtration", "photocatalytic oxidation", "UV-C air treatment", "natatorium air quality", "gas phase filtration", "indoor pool ventilation", "hybrid air cleaning"]
+tags: ["chloramine removal", "activated carbon filtration", "photocatalytic oxidation", "UV-C air treatment", "natatorium air quality", "gas phase filtration", "indoor pool ventilation", "hybrid air cleaning"]
 weight: 4
 ---
 

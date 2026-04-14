@@ -1,8 +1,10 @@
 ---
 title: "ASHRAE 170 Requirements for Healthcare Facilities"
+aliases: ["ASHRAE 170 Requirements for Healthcare Facilities"]
 SEOTitle: "ASHRAE Standard 170 Healthcare HVAC Requirements Guide"
 description: "Comprehensive guide to ASHRAE 170 ventilation, pressure, filtration, and temperature requirements for healthcare facilities with detailed tables by space type."
 keywords: ["ASHRAE 170", "healthcare HVAC", "hospital ventilation", "medical facility air handling", "healthcare filtration", "pressure relationships healthcare", "operating room HVAC", "infection control ventilation"]
+tags: ["ASHRAE 170", "healthcare HVAC", "hospital ventilation", "medical facility air handling", "healthcare filtration", "pressure relationships healthcare", "operating room HVAC", "infection control ventilation"]
 weight: 5
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Concentrating Solar Thermal Collectors"
+aliases: ["Concentrating Solar Thermal Collectors"]
 description: "Technical analysis of concentrating solar collectors including parabolic trough, linear Fresnel, and dish systems with optical concentration physics, receiver design, and high-temperature applications"
 keywords: ["concentrating solar", "parabolic trough", "linear Fresnel", "solar concentration", "DNI", "high temperature solar", "tracking systems", "concentration ratio", "receiver tube"]
+tags: ["concentrating solar", "parabolic trough", "linear Fresnel", "solar concentration", "DNI", "high temperature solar", "tracking systems", "concentration ratio", "receiver tube"]
 weight: 3
 ---
 

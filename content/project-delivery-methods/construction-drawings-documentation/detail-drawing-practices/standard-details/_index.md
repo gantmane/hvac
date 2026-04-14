@@ -1,5 +1,6 @@
 ---
 title: "Standard Details"
+aliases: ["Standard Details"]
 weight: 3
 ---
 

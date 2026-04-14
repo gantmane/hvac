@@ -1,7 +1,9 @@
 ---
 title: "Central Chilled Water Systems for Marine Applications"
+aliases: ["Central Chilled Water Systems for Marine Applications"]
 description: "Engineering analysis of shipboard central chilled water plants including seawater-cooled chillers, redundancy requirements, roll/pitch compensation, and marine-rated equipment."
 keywords: ["marine chilled water", "shipboard chillers", "seawater cooling", "marine HVAC redundancy", "ship chiller design", "SNAME standards", "vessel air conditioning", "marine chiller sizing"]
+tags: ["marine chilled water", "shipboard chillers", "seawater cooling", "marine HVAC redundancy", "ship chiller design", "SNAME standards", "vessel air conditioning", "marine chiller sizing"]
 weight: 1
 ---
 

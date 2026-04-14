@@ -1,7 +1,9 @@
 ---
 title: "Thermal Inertia in Large-Volume Smoke Control"
+aliases: ["Thermal Inertia in Large-Volume Smoke Control"]
 description: "Analysis of thermal inertia effects on smoke layer stability, wall cooling rates, and buoyancy maintenance in large-volume spaces per NFPA 92 requirements."
 keywords: ["thermal inertia", "smoke layer cooling", "heat capacity", "buoyancy decay", "wall cooling", "thermal mass", "smoke control", "NFPA 92"]
+tags: ["thermal inertia", "smoke layer cooling", "heat capacity", "buoyancy decay", "wall cooling", "thermal mass", "smoke control", "NFPA 92"]
 weight: 2
 ---
 

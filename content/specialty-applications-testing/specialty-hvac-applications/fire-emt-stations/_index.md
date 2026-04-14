@@ -1,5 +1,6 @@
 ---
 title: "Fire and EMS Station HVAC Systems"
+aliases: ["Fire and EMS Station HVAC Systems"]
 description: "Comprehensive HVAC design for fire and EMS stations including apparatus bay heating, diesel exhaust capture systems, living quarters comfort, and 24-hour occupancy requirements."
 date: "2026-01-05"
 weight: 10

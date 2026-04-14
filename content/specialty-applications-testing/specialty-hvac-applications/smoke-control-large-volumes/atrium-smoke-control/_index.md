@@ -1,7 +1,9 @@
 ---
 title: "Atrium Smoke Control Systems"
+aliases: ["Atrium Smoke Control Systems"]
 description: "Comprehensive guide to atrium smoke control design including NFPA 92 requirements, exhaust methods, plume calculations, and design strategies for large-volume spaces."
 keywords: ["atrium smoke control", "NFPA 92", "smoke exhaust", "plume calculations", "large volume smoke management", "natural smoke venting", "mechanical smoke exhaust", "atrium HVAC design"]
+tags: ["atrium smoke control", "NFPA 92", "smoke exhaust", "plume calculations", "large volume smoke management", "natural smoke venting", "mechanical smoke exhaust", "atrium HVAC design"]
 weight: 2
 ---
 

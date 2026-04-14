@@ -1,7 +1,9 @@
 ---
 title: "Control Room Emergency HVAC Systems"
+aliases: ["Control Room Emergency HVAC Systems"]
 description: "Emergency HVAC systems for nuclear control rooms including envelope isolation, filtered makeup air, positive pressurization, operator habitability, and NRC compliance."
 keywords: ["control room HVAC", "emergency ventilation", "nuclear safety", "operator habitability", "positive pressure", "GDC-19", "emergency filtration", "control room envelope"]
+tags: ["control room HVAC", "emergency ventilation", "nuclear safety", "operator habitability", "positive pressure", "GDC-19", "emergency filtration", "control room envelope"]
 weight: 10
 ---
 

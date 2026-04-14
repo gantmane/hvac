@@ -1,5 +1,6 @@
 ---
 title: "Air Cycle Systems"
+aliases: ["Air Cycle Systems"]
 description: "Thermodynamic analysis of aircraft air cycle refrigeration systems including bootstrap, simple, and three-wheel configurations with performance calculations."
 date: 2025-01-05
 draft: false

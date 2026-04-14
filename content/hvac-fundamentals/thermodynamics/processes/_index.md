@@ -1,5 +1,6 @@
 ---
 title: "Processes"
+aliases: ["Processes"]
 weight: 4
 ---
 

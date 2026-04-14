@@ -1,5 +1,6 @@
 ---
 title: "Live Fire Training Facility HVAC Systems"
+aliases: ["Live Fire Training Facility HVAC Systems"]
 description: "HVAC design for live fire training including combustion air supply, high-temperature exhaust systems, heat protection, combustion product removal, and post-burn cooling."
 date: "2026-01-11"
 weight: 4

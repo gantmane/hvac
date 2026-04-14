@@ -1,7 +1,9 @@
 ---
 title: "HVAC for Sporting Events and Games"
+aliases: ["HVAC for Sporting Events and Games"]
 description: "Engineering HVAC systems for variable occupancy in sports venues with dynamic load calculations for game schedules, crowd variations, and activity-based control."
 keywords: ["sporting event HVAC", "arena climate control", "variable crowd loads", "event scheduling HVAC", "stadium ventilation", "game day conditioning", "occupancy-based control", "athletic facility HVAC"]
+tags: ["sporting event HVAC", "arena climate control", "variable crowd loads", "event scheduling HVAC", "stadium ventilation", "game day conditioning", "occupancy-based control", "athletic facility HVAC"]
 weight: 2
 ---
 

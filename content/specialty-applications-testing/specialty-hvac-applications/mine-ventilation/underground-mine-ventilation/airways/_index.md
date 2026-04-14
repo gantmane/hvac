@@ -1,7 +1,9 @@
 ---
 title: "Mine Airways for Underground Ventilation"
+aliases: ["Mine Airways for Underground Ventilation"]
 description: "Technical analysis of mine airway design including intake and return systems, cross-sectional area calculations, friction factors, surface roughness, and MSHA velocity limits."
 keywords: ["mine airways", "airway resistance", "intake airways", "return airways", "mine ventilation friction", "MSHA regulations", "airway roughness", "mine air velocity"]
+tags: ["mine airways", "airway resistance", "intake airways", "return airways", "mine ventilation friction", "MSHA regulations", "airway roughness", "mine air velocity"]
 weight: 3
 ---
 

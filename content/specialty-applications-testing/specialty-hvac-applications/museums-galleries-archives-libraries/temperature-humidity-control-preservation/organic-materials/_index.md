@@ -1,5 +1,6 @@
 ---
 title: "Organic Materials Climate Control"
+aliases: ["Organic Materials Climate Control"]
 description: "Environmental control systems for organic artifact preservation including wood, paper, textiles, and leather. HVAC design strategies for managing humidity-sensitive materials and preventing biological degradation."
 weight: 2
 ---

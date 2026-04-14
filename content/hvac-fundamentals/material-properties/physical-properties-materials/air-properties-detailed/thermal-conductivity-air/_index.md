@@ -1,5 +1,6 @@
 ---
 title: "Thermal Conductivity of Air"
+aliases: ["Thermal Conductivity of Air"]
 description: "Comprehensive analysis of air thermal conductivity including temperature relationships, kinetic theory principles, property tables, and HVAC design applications for insulation, heat transfer calculations, and boundary layer analysis."
 weight: 4
 ---

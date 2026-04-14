@@ -1,5 +1,6 @@
 ---
 title: "Commercial Storage Tank Water Heaters"
+aliases: ["Commercial Storage Tank Water Heaters"]
 weight: 2
 description: "Technical guide to commercial storage tank water heaters covering sizing calculations, glass-lined tank construction, high-input burners, and multiple tank configurations per ASHRAE standards."
 keywords:

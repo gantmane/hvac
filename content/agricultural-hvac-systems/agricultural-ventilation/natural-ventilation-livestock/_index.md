@@ -1,5 +1,6 @@
 ---
 title: "Natural Ventilation for Livestock Housing"
+aliases: ["Natural Ventilation for Livestock Housing"]
 description: "Engineering principles of natural ventilation including stack effect calculations, wind-driven airflow, ridge vent sizing, and sidewall opening design for livestock facilities."
 date: 2026-01-04
 tags: ["natural ventilation", "stack effect", "ridge vent", "livestock barn", "passive ventilation", "buoyancy-driven flow"]

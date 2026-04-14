@@ -1,5 +1,6 @@
 ---
 title: "Aesthetic Integration"
+aliases: ["Aesthetic Integration"]
 weight: 2
 ---
 

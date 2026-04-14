@@ -1,8 +1,10 @@
 ---
 title: "Plate Freezers for Fish Processing"
+aliases: ["Plate Freezers for Fish Processing"]
 weight: 1
 description: "Contact freezing technology for fish blocks using horizontal and vertical plate freezers with hydraulic pressure systems, heat transfer optimization, and at-sea processing applications."
 keywords: ["plate freezer", "contact freezing", "fish blocks", "horizontal plate freezer", "vertical plate freezer", "at-sea processing", "hydraulic freezing", "fish fillets"]
+tags: ["plate freezer", "contact freezing", "fish blocks", "horizontal plate freezer", "vertical plate freezer", "at-sea processing", "hydraulic freezing", "fish fillets"]
 ---
 
 ## Contact Freezing Principles

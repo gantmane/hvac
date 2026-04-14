@@ -1,5 +1,6 @@
 ---
 title: "Ventilation"
+aliases: ["Ventilation"]
 description: "Ventilation strategies for mold prevention including dilution ventilation, local exhaust, controlled ventilation rates, and dehumidification to manage indoor moisture and maintain acceptable humidity levels."
 weight: 3
 ---

@@ -1,5 +1,6 @@
 ---
 title: "HVAC Engineering Certifications Guide"
+aliases: ["HVAC Engineering Certifications Guide"]
 description: "Professional engineering certifications for HVAC design, energy analysis, and building systems. PE licensure, CEM, LEED AP, and commissioning credentials explained."
 weight: 1
 ---

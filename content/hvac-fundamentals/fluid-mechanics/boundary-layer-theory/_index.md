@@ -1,5 +1,6 @@
 ---
 title: "Boundary Layer Theory"
+aliases: ["Boundary Layer Theory"]
 description: "Advanced analysis of boundary layer development in HVAC applications including velocity profiles, thermal boundary layers, heat transfer coefficients, transition phenomena, and separation effects critical to duct design, heat exchanger performance, and airflow management."
 weight: 8
 ---

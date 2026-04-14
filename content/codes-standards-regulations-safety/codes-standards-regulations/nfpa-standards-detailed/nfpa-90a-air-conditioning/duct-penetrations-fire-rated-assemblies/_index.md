@@ -1,10 +1,12 @@
 ---
 title: "Duct Penetrations Through Fire-Rated Assemblies"
+aliases: ["Duct Penetrations Through Fire-Rated Assemblies"]
 linkTitle: "Duct Penetrations & Firestop"
 weight: 3
 date: 2026-01-04
 description: "Comprehensive requirements for duct penetrations through fire-rated assemblies, including firestop systems per ASTM E814 and UL 1479, F-rating and T-rating requirements, annular space protection, and installation details for maintaining fire-resistance ratings."
 keywords: ["firestop systems", "fire-rated penetrations", "ASTM E814", "UL 1479", "F-rating", "T-rating", "annular space", "through-penetration firestop", "fire barrier protection", "duct sleeve installation"]
+tags: ["firestop systems", "fire-rated penetrations", "ASTM E814", "UL 1479", "F-rating", "T-rating", "annular space", "through-penetration firestop", "fire barrier protection", "duct sleeve installation"]
 ---
 
 ## Overview of Penetration Fire Protection

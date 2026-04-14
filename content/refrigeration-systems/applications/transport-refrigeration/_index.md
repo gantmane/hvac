@@ -1,8 +1,10 @@
 ---
 title: "Transport Refrigeration"
+aliases: ["Transport Refrigeration"]
 weight: 3
 description: "Comprehensive guide to refrigerated transport systems including truck/trailer refrigeration, intermodal containers, marine refrigeration, and air cargo cold chain with regulatory compliance and capacity requirements."
 keywords: ["transport refrigeration", "trailer refrigeration", "reefer containers", "cold chain", "ATP Agreement", "marine refrigeration", "air cargo refrigeration", "temperature monitoring", "refrigerated trucks"]
+tags: ["transport refrigeration", "trailer refrigeration", "reefer containers", "cold chain", "ATP Agreement", "marine refrigeration", "air cargo refrigeration", "temperature monitoring", "refrigerated trucks"]
 ---
 
 Transport refrigeration systems maintain controlled temperature environments for perishable cargo during distribution through multiple transportation modes. These specialized systems operate under demanding conditions including variable ambient temperatures, mechanical vibration, limited power availability, and strict regulatory requirements governing temperature maintenance.

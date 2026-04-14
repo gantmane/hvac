@@ -1,5 +1,6 @@
 ---
 title: "Cold Storage for Beverages"
+aliases: ["Cold Storage for Beverages"]
 description: "Technical specifications for beverage cold storage refrigeration systems including temperature control, CO2 retention, warehouse design, and load calculations for carbonated and non-carbonated drinks."
 weight: 3
 ---

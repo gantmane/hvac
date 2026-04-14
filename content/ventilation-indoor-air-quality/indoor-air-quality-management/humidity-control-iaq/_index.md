@@ -1,5 +1,6 @@
 ---
 title: "Humidity Control for Indoor Air Quality"
+aliases: ["Humidity Control for Indoor Air Quality"]
 description: "Technical guide to humidity control in HVAC systems covering psychrometrics, health effects, moisture sources, control strategies, and ASHRAE standards."
 date: 2025-01-05
 tags: ["humidity control", "indoor air quality", "psychrometrics", "dehumidification", "humidification", "moisture control", "ASHRAE standards"]

@@ -1,5 +1,6 @@
 ---
 title: "Permeance Values"
+aliases: ["Permeance Values"]
 description: "Classification system for material vapor permeance ratings, including Class I, II, and III vapor retarders with quantitative permeance thresholds and application guidelines for building envelope moisture control."
 weight: 2
 ---

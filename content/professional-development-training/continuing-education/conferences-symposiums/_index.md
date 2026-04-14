@@ -1,5 +1,6 @@
 ---
 title: "HVAC Industry Conferences and Symposiums"
+aliases: ["HVAC Industry Conferences and Symposiums"]
 description: "Major HVAC conferences including AHR Expo and ASHRAE events provide critical networking, technical education, and exposure to emerging technologies."
 keywords:
   - AHR Expo

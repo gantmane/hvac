@@ -1,5 +1,6 @@
 ---
 title: "HVAC Design for Fire Stations"
+aliases: ["HVAC Design for Fire Stations"]
 description: "Comprehensive fire station HVAC design including zone separation, diesel exhaust integration, 24/7 occupancy requirements, energy strategies, and emergency power backup."
 date: "2026-01-11"
 weight: 1

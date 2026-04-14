@@ -1,5 +1,6 @@
 ---
 title: "BIM Uses for HVAC Systems"
+aliases: ["BIM Uses for HVAC Systems"]
 description: "Comprehensive guide to Building Information Modeling applications in HVAC engineering including clash detection, coordination, fabrication modeling, energy analysis, and visualization workflows aligned with Penn State BIM Uses taxonomy and industry LOD standards"
 weight: 2
 ---

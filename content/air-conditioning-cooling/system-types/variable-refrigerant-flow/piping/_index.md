@@ -1,5 +1,6 @@
 ---
 title: "Piping"
+aliases: ["Piping"]
 weight: 4
 ---
 

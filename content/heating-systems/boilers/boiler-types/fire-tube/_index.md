@@ -1,8 +1,10 @@
 ---
 title: "Fire-Tube Boilers: Design and Applications"
+aliases: ["Fire-Tube Boilers: Design and Applications"]
 weight: 1
 description: "Comprehensive guide to fire-tube boiler design, Scotch marine configuration, combustion gas flow mechanics, water-side design principles, ASME pressure ratings, and commercial building applications."
 keywords: ["fire-tube boilers", "Scotch marine design", "combustion gas flow", "ASME Section IV", "boiler pressure ratings", "commercial heating", "packaged boilers", "heat transfer efficiency"]
+tags: ["fire-tube boilers", "Scotch marine design", "combustion gas flow", "ASME Section IV", "boiler pressure ratings", "commercial heating", "packaged boilers", "heat transfer efficiency"]
 ---
 
 ## Fundamental Operating Principle

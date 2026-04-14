@@ -1,5 +1,6 @@
 ---
 title: "Hardening Process"
+aliases: ["Hardening Process"]
 description: "Comprehensive technical analysis of ice cream hardening systems including blast freezing tunnels, heat transfer calculations, refrigeration design, air velocity optimization, and residence time analysis for continuous and batch operations"
 weight: 3
 ---

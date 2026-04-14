@@ -1,7 +1,9 @@
 ---
 title: "Laboratory Makeup Air Systems: Design & Calculations"
+aliases: ["Laboratory Makeup Air Systems: Design & Calculations"]
 description: "Technical guide to laboratory makeup air system design, including mass balance calculations, conditioning strategies, and energy recovery for 100% outdoor air applications."
 keywords: ["laboratory makeup air", "100 percent outdoor air", "lab ventilation", "fume hood exhaust", "makeup air calculations", "laboratory HVAC", "ASHRAE 62.1", "lab air balance"]
+tags: ["laboratory makeup air", "100 percent outdoor air", "lab ventilation", "fume hood exhaust", "makeup air calculations", "laboratory HVAC", "ASHRAE 62.1", "lab air balance"]
 weight: 3
 ---
 

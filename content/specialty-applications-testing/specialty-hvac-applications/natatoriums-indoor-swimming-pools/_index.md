@@ -1,8 +1,10 @@
 ---
 title: "Indoor Swimming Pools (Natatoriums)"
+aliases: ["Indoor Swimming Pools (Natatoriums)"]
 weight: 15
 description: "Comprehensive guide to HVAC system design for indoor swimming pools and natatoriums, covering evaporation calculations, dehumidification, chloramine control, condensation prevention, and specialized conditioning requirements for pool environments."
 keywords: "natatorium HVAC, indoor pool dehumidification, pool evaporation calculation, chloramine control, pool deck heating, swimming pool ventilation, natatorium design"
+tags: ["natatorium HVAC", "indoor pool dehumidification", "pool evaporation calculation", "chloramine control", "pool deck heating", "swimming pool ventilation", "natatorium design"]
 ---
 
 Indoor swimming pools (natatoriums) present unique HVAC design challenges requiring specialized knowledge of moisture transport, chemical air quality management, and corrosion control. The interaction between warm water surfaces, chlorinated water chemistry, human occupancy, and building envelope performance creates a complex psychrometric and chemical environment that demands careful engineering analysis.

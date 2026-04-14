@@ -1,7 +1,9 @@
 ---
 title: "Fire Service Access Elevator HVAC Systems"
+aliases: ["Fire Service Access Elevator HVAC Systems"]
 description: "Engineering guide to HVAC requirements for fire service access elevators including lobby pressurization, machine room cooling, smoke protection, and emergency power."
 keywords: ["fire service elevator", "elevator lobby pressurization", "machine room cooling", "smoke control elevator", "ASME A17.1", "IBC fire service", "emergency elevator HVAC", "elevator smoke protection"]
+tags: ["fire service elevator", "elevator lobby pressurization", "machine room cooling", "smoke control elevator", "ASME A17.1", "IBC fire service", "emergency elevator HVAC", "elevator smoke protection"]
 weight: 9
 ---
 

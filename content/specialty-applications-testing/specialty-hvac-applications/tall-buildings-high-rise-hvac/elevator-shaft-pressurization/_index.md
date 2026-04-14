@@ -1,7 +1,9 @@
 ---
 title: "Elevator Shaft Pressurization"
+aliases: ["Elevator Shaft Pressurization"]
 description: "Comprehensive analysis of elevator shaft pressurization systems for smoke control in tall buildings including pressure differentials, air supply requirements, and leakage calculations."
 keywords: ["elevator shaft pressurization", "hoistway smoke control", "NFPA 92", "pressure differential", "door leakage", "shaft ventilation", "high-rise smoke management", "elevator pressurization design"]
+tags: ["elevator shaft pressurization", "hoistway smoke control", "NFPA 92", "pressure differential", "door leakage", "shaft ventilation", "high-rise smoke management", "elevator pressurization design"]
 weight: 3
 ---
 

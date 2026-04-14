@@ -1,7 +1,9 @@
 ---
 title: "Renewable Energy Resources for HVAC Systems"
+aliases: ["Renewable Energy Resources for HVAC Systems"]
 description: "Technical analysis of solar, wind, hydro, geothermal, and biomass renewable energy resources for heating and cooling applications with capacity factors and efficiency metrics."
 keywords: ["renewable energy HVAC", "solar thermal", "geothermal heat pump", "wind power", "biomass heating", "photovoltaic systems", "renewable capacity", "energy efficiency"]
+tags: ["renewable energy HVAC", "solar thermal", "geothermal heat pump", "wind power", "biomass heating", "photovoltaic systems", "renewable capacity", "energy efficiency"]
 weight: 2
 ---
 

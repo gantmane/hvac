@@ -1,7 +1,9 @@
 ---
 title: "Potato Sprout Inhibition HVAC Control Strategies"
+aliases: ["Potato Sprout Inhibition HVAC Control Strategies"]
 description: "Engineering analysis of temperature-dependent sprouting kinetics, chemical vapor distribution systems, and environmental control strategies for potato storage sprout suppression."
 keywords: ["potato sprout inhibition", "sprouting kinetics", "CIPC application HVAC", "ethylene sprout control", "temperature sprout suppression", "1,4-DMN distribution", "tuber dormancy management", "sprout inhibitor ventilation"]
+tags: ["potato sprout inhibition", "sprouting kinetics", "CIPC application HVAC", "ethylene sprout control", "temperature sprout suppression", "1", "4-DMN distribution", "tuber dormancy management", "sprout inhibitor ventilation"]
 weight: 3
 ---
 

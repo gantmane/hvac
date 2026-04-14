@@ -1,5 +1,6 @@
 ---
 title: "Snow Melting System Controls"
+aliases: ["Snow Melting System Controls"]
 weight: 5
 description: "Comprehensive guide to snow melting control systems including sensor types, control strategies, slab warmup protocols, time delays, and energy management for automated snow and ice removal"
 keywords:

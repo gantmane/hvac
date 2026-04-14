@@ -1,5 +1,6 @@
 ---
 title: "Prandtl Number for Water"
+aliases: ["Prandtl Number for Water"]
 description: "Prandtl number for water in HVAC applications including temperature dependence, comparison with glycol solutions, impact on convective heat transfer coefficient calculations, and heat exchanger design implications for hydronic systems"
 weight: 6
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Solar Thermal Integration"
+aliases: ["Solar Thermal Integration"]
 weight: 1
 ---
 

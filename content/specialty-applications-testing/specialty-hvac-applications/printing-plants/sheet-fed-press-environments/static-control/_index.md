@@ -1,7 +1,9 @@
 ---
 title: "Static Control in Sheet-Fed Press Environments"
+aliases: ["Static Control in Sheet-Fed Press Environments"]
 description: "Physics-based analysis of static electricity generation, dissipation mechanisms, and control strategies in sheet-fed printing operations with triboelectric charging formulas and ionization system design."
 keywords: ["static electricity printing", "triboelectric charging paper", "sheet feeding static", "paper surface resistivity", "charge dissipation printing", "static control humidity", "ionization systems printing", "printing press static elimination"]
+tags: ["static electricity printing", "triboelectric charging paper", "sheet feeding static", "paper surface resistivity", "charge dissipation printing", "static control humidity", "ionization systems printing", "printing press static elimination"]
 weight: 1
 ---
 

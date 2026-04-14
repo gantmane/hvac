@@ -1,7 +1,9 @@
 ---
 title: "Aerogel Insulation"
+aliases: ["Aerogel Insulation"]
 description: "Advanced aerogel insulation materials for HVAC applications including silica aerogel properties, thermal conductivity characteristics, blanket and panel forms, high-temperature applications, and cost-performance analysis."
 keywords: "aerogel insulation, silica aerogel, thermal conductivity, aerogel blankets, pipe insulation, high temperature insulation, vacuum insulation panels, hydrophobic aerogel"
+tags: ["aerogel insulation", "silica aerogel", "thermal conductivity", "aerogel blankets", "pipe insulation", "high temperature insulation", "vacuum insulation panels", "hydrophobic aerogel"]
 weight: 2
 ---
 

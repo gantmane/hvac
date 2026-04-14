@@ -1,5 +1,6 @@
 ---
 title: "VTT Model"
+aliases: ["VTT Model"]
 description: "Finnish VTT mold growth model for predicting mold risk in building assemblies based on time-of-wetness method, mold index calculations, sensitivity classes, and critical thresholds per ASHRAE 160 implementation."
 weight: 1
 ---

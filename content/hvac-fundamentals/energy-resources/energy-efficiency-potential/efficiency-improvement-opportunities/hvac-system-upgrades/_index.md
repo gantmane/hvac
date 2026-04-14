@@ -1,5 +1,6 @@
 ---
 title: "HVAC System Upgrades"
+aliases: ["HVAC System Upgrades"]
 weight: 1
 ---
 

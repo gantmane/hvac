@@ -1,7 +1,9 @@
 ---
 title: "Holding Cell HVAC: Ventilation & Odor Control"
+aliases: ["Holding Cell HVAC: Ventilation & Odor Control"]
 description: "Technical guide to holding cell ventilation systems, air change rates, security grilles, toilet exhaust, and odor control for short-term detention facilities."
 keywords: ["holding cell ventilation", "detention HVAC", "security grilles", "toilet exhaust", "odor control", "air change rates", "ACA standards", "jail ventilation"]
+tags: ["holding cell ventilation", "detention HVAC", "security grilles", "toilet exhaust", "odor control", "air change rates", "ACA standards", "jail ventilation"]
 weight: 1
 ---
 

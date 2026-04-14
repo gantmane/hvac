@@ -1,5 +1,6 @@
 ---
 title: "Air Leakage Moisture Transport"
+aliases: ["Air Leakage Moisture Transport"]
 description: "Technical analysis of air leakage as primary moisture transport mechanism in building envelopes, including stack effect, infiltration rates, air barrier continuity, blower door testing, and moisture load calculations for HVAC system design."
 weight: 3
 ---

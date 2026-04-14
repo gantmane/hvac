@@ -1,5 +1,6 @@
 ---
 title: "Chiller Operating Parameters"
+aliases: ["Chiller Operating Parameters"]
 description: "Critical analysis of chiller operating parameters including chilled water temperatures, flow rates, condenser water conditions, approach temperatures, temperature lift, and their impact on efficiency and capacity."
 weight: 2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Natural Refrigerants"
+aliases: ["Natural Refrigerants"]
 weight: 5
 description: "Thermophysical properties, application considerations, and safety requirements for ammonia (R-717), carbon dioxide (R-744), hydrocarbons, and water as refrigerants in commercial and industrial systems"
 ---

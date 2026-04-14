@@ -1,5 +1,6 @@
 ---
 title: "Total Cost of Ownership Analysis for HVAC"
+aliases: ["Total Cost of Ownership Analysis for HVAC"]
 weight: 4
 description: "Comprehensive TCO framework for HVAC systems covering acquisition, installation, operation, maintenance, and disposal costs with present value calculations and sensitivity analysis."
 ---

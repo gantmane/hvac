@@ -1,5 +1,6 @@
 ---
 title: "Pump Controls"
+aliases: ["Pump Controls"]
 weight: 3
 ---
 

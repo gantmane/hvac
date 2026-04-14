@@ -1,5 +1,6 @@
 ---
 title: "Refrigerant Regulations and Standards"
+aliases: ["Refrigerant Regulations and Standards"]
 description: "Comprehensive guide to EPA regulations, ASHRAE standards, international protocols, and compliance requirements governing refrigerant handling, recovery, and system operation"
 weight: 6
 ---

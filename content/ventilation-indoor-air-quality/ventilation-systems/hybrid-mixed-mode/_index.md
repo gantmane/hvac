@@ -1,5 +1,6 @@
 ---
 title: "Hybrid Mixed-Mode Ventilation Systems"
+aliases: ["Hybrid Mixed-Mode Ventilation Systems"]
 description: "Technical analysis of hybrid ventilation combining natural and mechanical systems, control strategies, switching criteria, and design optimization methods."
 date: 2025-01-05
 tags: ["hybrid ventilation", "mixed-mode", "natural ventilation", "mechanical ventilation", "control strategies", "energy efficiency"]

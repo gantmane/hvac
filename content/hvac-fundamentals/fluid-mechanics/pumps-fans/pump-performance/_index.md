@@ -1,5 +1,6 @@
 ---
 title: "Pump Performance"
+aliases: ["Pump Performance"]
 description: "Comprehensive analysis of centrifugal pump performance characteristics including head-capacity curves, affinity laws, efficiency analysis, NPSH requirements, and system operating point determination for HVAC hydronic systems"
 weight: 2
 ---

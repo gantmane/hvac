@@ -1,7 +1,9 @@
 ---
 title: "Lighting Loads in Assembly HVAC Design"
+aliases: ["Lighting Loads in Assembly HVAC Design"]
 description: "Engineering guidance for calculating lighting heat gains in assembly spaces including LED efficiency, stage lighting, theatrical loads, and diversity factors per ASHRAE."
 keywords: ["lighting power density", "LED heat gain", "stage lighting loads", "theatrical HVAC", "lighting diversity factor", "assembly space cooling", "ASHRAE 90.1 lighting", "lighting heat calculation"]
+tags: ["lighting power density", "LED heat gain", "stage lighting loads", "theatrical HVAC", "lighting diversity factor", "assembly space cooling", "ASHRAE 90.1 lighting", "lighting heat calculation"]
 weight: 2
 ---
 

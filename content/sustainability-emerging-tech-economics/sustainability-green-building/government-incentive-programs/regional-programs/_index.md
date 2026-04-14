@@ -1,5 +1,6 @@
 ---
 title: "Regional HVAC Incentive Programs"
+aliases: ["Regional HVAC Incentive Programs"]
 weight: 2
 description: "Regional government HVAC incentive programs including state, provincial, and local rebates, tax credits, and performance-based incentives for energy-efficient equipment."
 ---

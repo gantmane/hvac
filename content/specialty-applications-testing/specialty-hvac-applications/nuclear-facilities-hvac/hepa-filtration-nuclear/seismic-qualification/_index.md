@@ -1,5 +1,6 @@
 ---
 title: "Seismic Qualification of Nuclear HEPA Filters"
+aliases: ["Seismic Qualification of Nuclear HEPA Filters"]
 description: "Technical guide to seismic qualification of nuclear HEPA filtration systems including IEEE 344 shake table testing, response spectra analysis, and filter housing design."
 keywords:
   - seismic qualification HEPA

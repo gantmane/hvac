@@ -1,7 +1,9 @@
 ---
 title: "Ductwork Air Distribution Systems"
+aliases: ["Ductwork Air Distribution Systems"]
 description: "Comprehensive guide to HVAC ductwork design, sizing calculations, pressure loss analysis, and material selection per SMACNA and ASHRAE standards for supply, return, and exhaust systems."
 keywords: ["ductwork design", "duct sizing", "pressure loss calculation", "SMACNA standards", "ASHRAE duct design", "air distribution", "duct materials", "static pressure"]
+tags: ["ductwork design", "duct sizing", "pressure loss calculation", "SMACNA standards", "ASHRAE duct design", "air distribution", "duct materials", "static pressure"]
 weight: 1
 ---
 

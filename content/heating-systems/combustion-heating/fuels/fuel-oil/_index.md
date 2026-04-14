@@ -1,8 +1,10 @@
 ---
 title: "Fuel Oil"
+aliases: ["Fuel Oil"]
 weight: 3
 description: "Technical guide to fuel oil grades, specifications, heating values, viscosity requirements, storage, sulfur content, and atomization for HVAC combustion systems."
 keywords: ["fuel oil grades", "No. 2 fuel oil", "fuel oil BTU", "fuel oil viscosity", "fuel oil storage", "fuel oil sulfur content", "fuel oil atomization", "heating oil", "distillate fuel", "residual fuel oil"]
+tags: ["fuel oil grades", "No. 2 fuel oil", "fuel oil BTU", "fuel oil viscosity", "fuel oil storage", "fuel oil sulfur content", "fuel oil atomization", "heating oil", "distillate fuel", "residual fuel oil"]
 ---
 
 Fuel oil is a petroleum-derived liquid fuel used extensively in commercial and industrial heating systems. These fuels range from light distillates suitable for residential burners to heavy residual oils requiring preheating and specialized combustion equipment. Selection of fuel oil grade depends on burner type, storage capabilities, local availability, and environmental regulations.

@@ -1,5 +1,6 @@
 ---
 title: "Subcontractor Procurement"
+aliases: ["Subcontractor Procurement"]
 description: "Comprehensive analysis of subcontractor procurement for HVAC projects including trade contractor packages, prequalification, bid leveling, scope gap identification, and subcontract agreement provisions."
 weight: 3
 ---

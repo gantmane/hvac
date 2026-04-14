@@ -1,5 +1,6 @@
 ---
 title: "Safety Factors Application"
+aliases: ["Safety Factors Application"]
 weight: 8
 ---
 

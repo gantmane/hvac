@@ -1,8 +1,10 @@
 ---
 title: "Chiller Performance"
+aliases: ["Chiller Performance"]
 weight: 3
 description: "Analysis of chiller efficiency at full-load and part-load conditions, IPLV calculations, lift temperature effects, approach temperatures, and factors affecting performance degradation."
 keywords: ["chiller efficiency", "IPLV", "part-load performance", "chiller lift", "approach temperature", "kW/ton", "COP", "chiller degradation"]
+tags: ["chiller efficiency", "IPLV", "part-load performance", "chiller lift", "approach temperature", "kW/ton", "COP", "chiller degradation"]
 ---
 
 Chiller performance represents the relationship between refrigeration capacity and power consumption across varying operating conditions. Understanding performance characteristics allows engineers to optimize system design, predict energy consumption, and identify operational inefficiencies.

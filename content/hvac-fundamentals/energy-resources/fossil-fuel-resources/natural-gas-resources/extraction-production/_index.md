@@ -1,5 +1,6 @@
 ---
 title: "Natural Gas Extraction and Production"
+aliases: ["Natural Gas Extraction and Production"]
 description: "Detailed analysis of natural gas extraction methods including conventional drilling, horizontal drilling, hydraulic fracturing, and gas processing techniques for HVAC fuel supply."
 weight: 4
 ---

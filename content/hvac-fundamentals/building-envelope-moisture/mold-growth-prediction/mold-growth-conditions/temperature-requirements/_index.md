@@ -1,5 +1,6 @@
 ---
 title: "Temperature Requirements"
+aliases: ["Temperature Requirements"]
 weight: 1
 ---
 

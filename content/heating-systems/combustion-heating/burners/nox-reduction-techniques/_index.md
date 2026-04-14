@@ -1,8 +1,10 @@
 ---
 title: "NOx Reduction Techniques"
+aliases: ["NOx Reduction Techniques"]
 weight: 7
 description: "Engineering analysis of nitrogen oxide (NOx) reduction techniques including flue gas recirculation (FGR), selective catalytic reduction (SCR), selective non-catalytic reduction (SNCR), staged combustion, water injection, ultra-low NOx burner design, and combined NOx control strategies for meeting stringent air quality regulations."
 keywords: "NOx reduction, nitrogen oxides, flue gas recirculation, FGR, SCR, selective catalytic reduction, SNCR, staged combustion, ultra-low NOx burners, low-NOx burner, thermal NOx, fuel NOx"
+tags: ["NOx reduction", "nitrogen oxides", "flue gas recirculation", "FGR", "SCR", "selective catalytic reduction", "SNCR", "staged combustion", "ultra-low NOx burners", "low-NOx burner"]
 ---
 
 # NOx Reduction Techniques

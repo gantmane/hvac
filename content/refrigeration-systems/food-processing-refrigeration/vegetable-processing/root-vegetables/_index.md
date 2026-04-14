@@ -1,5 +1,6 @@
 ---
 title: "Root Vegetables"
+aliases: ["Root Vegetables"]
 weight: 3
 ---
 

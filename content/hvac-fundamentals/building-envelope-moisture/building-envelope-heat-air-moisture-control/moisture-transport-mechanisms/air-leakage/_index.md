@@ -1,5 +1,6 @@
 ---
 title: "Air Leakage"
+aliases: ["Air Leakage"]
 description: "Pressure-driven moisture transport through building envelope openings, including air leakage mechanisms, driving forces, quantification methods, and control strategies for moisture management"
 weight: 2
 ---

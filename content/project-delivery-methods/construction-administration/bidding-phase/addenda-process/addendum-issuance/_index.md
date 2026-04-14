@@ -1,5 +1,6 @@
 ---
 title: "Addendum Issuance"
+aliases: ["Addendum Issuance"]
 weight: 2
 ---
 

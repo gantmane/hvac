@@ -1,7 +1,9 @@
 ---
 title: "Mine Emergency Shelters & Refuge Chambers"
+aliases: ["Mine Emergency Shelters & Refuge Chambers"]
 description: "Engineering analysis of underground mine refuge chambers covering MSHA 30 CFR Part 7 requirements, atmospheric control, capacity calculations, and construction standards."
 keywords: ["mine refuge chambers", "emergency shelters", "MSHA 30 CFR Part 7", "underground safety", "mine rescue", "atmospheric control", "oxygen supply", "carbon dioxide scrubbing"]
+tags: ["mine refuge chambers", "emergency shelters", "MSHA 30 CFR Part 7", "underground safety", "mine rescue", "atmospheric control", "oxygen supply", "carbon dioxide scrubbing"]
 weight: 1
 ---
 

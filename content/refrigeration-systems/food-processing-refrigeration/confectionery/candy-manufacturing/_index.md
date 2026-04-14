@@ -1,5 +1,6 @@
 ---
 title: "Candy Manufacturing"
+aliases: ["Candy Manufacturing"]
 description: "Technical design requirements for candy manufacturing refrigeration systems including cooling tunnels, temperature control, humidity management, and process-specific cooling for hard candy, chocolate, and gummy products with condensation prevention strategies."
 weight: 2
 ---

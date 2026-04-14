@@ -1,5 +1,6 @@
 ---
 title: "Water Cooled Condensers"
+aliases: ["Water Cooled Condensers"]
 weight: 1
 ---
 

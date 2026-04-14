@@ -1,7 +1,9 @@
 ---
 title: "Vertical Piping Systems for High-Rise Buildings"
+aliases: ["Vertical Piping Systems for High-Rise Buildings"]
 description: "Engineering principles for vertical HVAC piping design in tall buildings, covering static head analysis, riser zoning, material selection, support systems, and commissioning."
 keywords: ["vertical piping", "high-rise HVAC", "static pressure", "riser design", "pipe sizing", "pressure zoning", "piping commissioning", "tall building systems"]
+tags: ["vertical piping", "high-rise HVAC", "static pressure", "riser design", "pipe sizing", "pressure zoning", "piping commissioning", "tall building systems"]
 weight: 1
 ---
 

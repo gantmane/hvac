@@ -1,5 +1,6 @@
 ---
 title: "Slab On Grade"
+aliases: ["Slab On Grade"]
 weight: 5
 ---
 

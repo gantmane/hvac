@@ -1,5 +1,6 @@
 ---
 title: "Interstitial Condensation"
+aliases: ["Interstitial Condensation"]
 description: "Analysis of moisture condensation within building envelope assemblies using vapor pressure profiles, dew point calculations, and transient moisture transport modeling for preventing moisture damage in wall and roof systems"
 weight: 3
 ---

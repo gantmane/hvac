@@ -1,7 +1,9 @@
 ---
 title: "Marine Engine Combustion Air Requirements"
+aliases: ["Marine Engine Combustion Air Requirements"]
 description: "Technical guide to combustion air calculations for marine diesel engines including turbocharger requirements, louver sizing, and ventilation standards per SOLAS and ISO 8861."
 keywords: ["combustion air marine engines", "diesel engine air requirements", "turbocharger air supply", "marine louver sizing", "SOLAS ventilation", "engine room airflow", "marine combustion calculations", "ship engine ventilation"]
+tags: ["combustion air marine engines", "diesel engine air requirements", "turbocharger air supply", "marine louver sizing", "SOLAS ventilation", "engine room airflow", "marine combustion calculations", "ship engine ventilation"]
 weight: 1
 ---
 

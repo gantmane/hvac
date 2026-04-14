@@ -1,8 +1,10 @@
 ---
 title: "Automatic Fuel-Burning Equipment"
+aliases: ["Automatic Fuel-Burning Equipment"]
 weight: 3
 description: "Engineering analysis of automatic fuel-burning equipment including oil burners, gas burners, dual-fuel systems, flame safeguard controls, air-fuel ratio control, combustion efficiency calculations, and NOx reduction techniques for industrial and commercial heating applications."
 keywords: "automatic burners, oil burners, gas burners, dual-fuel burners, flame safeguard, air-fuel ratio, combustion efficiency, NOx reduction, FGR, SCR, low-NOx burners"
+tags: ["automatic burners", "oil burners", "gas burners", "dual-fuel burners", "flame safeguard", "air-fuel ratio", "combustion efficiency", "NOx reduction", "FGR", "SCR"]
 ---
 
 # Automatic Fuel-Burning Equipment

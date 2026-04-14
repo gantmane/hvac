@@ -1,5 +1,6 @@
 ---
 title: "Protein Content"
+aliases: ["Protein Content"]
 weight: 1
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Pressure Independent"
+aliases: ["Pressure Independent"]
 weight: 1
 ---
 

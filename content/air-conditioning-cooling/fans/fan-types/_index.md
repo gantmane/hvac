@@ -1,7 +1,9 @@
 ---
 title: "Fan Types"
+aliases: ["Fan Types"]
 description: "Overview of HVAC fan types including centrifugal, axial, mixed-flow, and specialty fans with construction details and application guidance."
 keywords: ["fan types", "centrifugal fan", "axial fan", "mixed flow fan", "HVAC fans", "air handling", "blower"]
+tags: ["fan types", "centrifugal fan", "axial fan", "mixed flow fan", "HVAC fans", "air handling", "blower"]
 weight: 1
 ---
 

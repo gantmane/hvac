@@ -1,8 +1,10 @@
 ---
 title: "Indoor Sports Facilities HVAC Systems"
+aliases: ["Indoor Sports Facilities HVAC Systems"]
 seo_title: "Indoor Sports Facilities HVAC Design & Control"
 description: "Technical guidance for HVAC design in indoor sports facilities including high-bay conditioning, air velocity control, humidity management for different sports, and multi-zone systems."
 keywords: ["indoor sports HVAC", "high-bay conditioning", "sports facility ventilation", "basketball court HVAC", "ice rink dehumidification", "multi-sport facility design", "spectator comfort HVAC", "athletic venue climate control"]
+tags: ["indoor sports HVAC", "high-bay conditioning", "sports facility ventilation", "basketball court HVAC", "ice rink dehumidification", "multi-sport facility design", "spectator comfort HVAC", "athletic venue climate control"]
 weight: 3
 ---
 

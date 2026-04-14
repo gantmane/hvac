@@ -1,5 +1,6 @@
 ---
 title: "Clarification and Separation"
+aliases: ["Clarification and Separation"]
 description: "HVAC design for milk clarification and cream separation operations including centrifugal separator heat loads, temperature control requirements, and process room environmental conditions"
 weight: 2
 ---

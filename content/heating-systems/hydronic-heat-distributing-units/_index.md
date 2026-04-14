@@ -1,8 +1,10 @@
 ---
 title: "Hydronic Heat Distributing Units"
+aliases: ["Hydronic Heat Distributing Units"]
 weight: 11
 description: "Comprehensive analysis of hydronic terminal units including baseboard radiation, radiators, convectors, fan coil units, and unit heaters with heat transfer physics, sizing methodologies, output rating calculations, and selection criteria for hot water and steam heating systems."
 keywords: "hydronic heating, baseboard radiation, radiators, convectors, fan coil units, unit heaters, heat transfer, terminal units, hot water heating, steam heating, heat output"
+tags: ["hydronic heating", "baseboard radiation", "radiators", "convectors", "fan coil units", "unit heaters", "heat transfer", "terminal units", "hot water heating", "steam heating"]
 ---
 
 # Hydronic Heat Distributing Units

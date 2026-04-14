@@ -1,5 +1,6 @@
 ---
 title: "Berry Storage Requirements"
+aliases: ["Berry Storage Requirements"]
 description: "Comprehensive HVAC design parameters for berry storage facilities including temperature control, high humidity maintenance, respiration heat loads, and air circulation requirements for strawberries, blueberries, raspberries, and other berries."
 weight: 5
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Electrical Safety in HVAC Systems"
+aliases: ["Electrical Safety in HVAC Systems"]
 description: "Comprehensive electrical safety protocols for HVAC technicians including lockout/tagout procedures, arc flash protection, voltage classes, and OSHA compliance requirements."
 keywords: ["electrical safety HVAC", "lockout tagout procedures", "arc flash hazards", "NFPA 70E compliance", "qualified electrical person", "voltage testing", "PPE electrical work", "OSHA electrical safety"]
+tags: ["electrical safety HVAC", "lockout tagout procedures", "arc flash hazards", "NFPA 70E compliance", "qualified electrical person", "voltage testing", "PPE electrical work", "OSHA electrical safety"]
 weight: 4
 ---
 

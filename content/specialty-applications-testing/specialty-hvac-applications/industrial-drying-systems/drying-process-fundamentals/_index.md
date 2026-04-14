@@ -1,7 +1,9 @@
 ---
 title: "Drying Process Fundamentals for Industrial HVAC"
+aliases: ["Drying Process Fundamentals for Industrial HVAC"]
 description: "Master industrial drying physics: mass transfer, psychrometrics, energy equations, and drying rate models for optimal HVAC system design and performance."
 keywords: ["industrial drying process", "moisture removal", "drying rate equations", "psychrometric analysis", "mass transfer coefficient", "critical moisture content", "drying kinetics", "heat and mass transfer"]
+tags: ["industrial drying process", "moisture removal", "drying rate equations", "psychrometric analysis", "mass transfer coefficient", "critical moisture content", "drying kinetics", "heat and mass transfer"]
 date: 2025-01-11
 weight: 6
 draft: false

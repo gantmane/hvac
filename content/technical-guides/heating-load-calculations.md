@@ -2,6 +2,7 @@
 title: "Heating Load Calculations for HVAC Engineers"
 description: "Heat loss methodology, envelope analysis, infiltration calculations, and degree-day methods per ASHRAE Handbook for accurate heating system sizing."
 keywords: ["heating load", "heat loss calculation", "infiltration", "transmission losses", "degree days", "Manual J"]
+tags: ["heating load", "heat loss calculation", "infiltration", "transmission losses", "degree days", "Manual J"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 12
@@ -79,9 +80,9 @@ $$Energy = \frac{24 \times HDD \times UA_{building}}{\eta_{equipment}}$$
 ---
 
 **Related Technical Guides:**
-- [Heat Transfer Fundamentals](/technical-guides/heat-transfer-fundamentals/)
-- [Load Calculation Methodology](/technical-guides/load-calculation-methodology/)
-- [Boiler Selection & Sizing](/technical-guides/boiler-selection-sizing/)
+- Heat Transfer Fundamentals
+- Load Calculation Methodology
+- Boiler Selection & Sizing
 
 **References:**
 - ASHRAE Handbook of Fundamentals, Chapter 18: Residential Cooling and Heating Load Calculations

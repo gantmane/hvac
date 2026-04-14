@@ -1,5 +1,6 @@
 ---
 title: "Egg Breaking Operations"
+aliases: ["Egg Breaking Operations"]
 description: "HVAC design criteria for egg breaking facilities including temperature control, air quality, humidity management, sanitation requirements, and regulatory compliance for liquid egg processing environments."
 weight: 1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Economic Analysis and Financial Evaluation"
+aliases: ["Economic Analysis and Financial Evaluation"]
 description: "Comprehensive financial analysis methodologies for CHP systems including spark spread calculations, avoided cost analysis, payback period, net present value, internal rate of return, utility rate structures, incentives, and sensitivity analysis for investment decision-making."
 date: 2026-01-04
 weight: 6

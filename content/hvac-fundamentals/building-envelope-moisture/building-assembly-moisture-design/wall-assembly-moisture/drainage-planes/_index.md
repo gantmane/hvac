@@ -1,5 +1,6 @@
 ---
 title: "Drainage Planes"
+aliases: ["Drainage Planes"]
 description: "Engineering analysis of wall drainage planes including water management principles, installation details, material specifications, and integration with building envelope moisture control systems."
 weight: 2
 ---

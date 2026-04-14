@@ -1,5 +1,6 @@
 ---
 title: "Reciprocating Internal Combustion Engines"
+aliases: ["Reciprocating Internal Combustion Engines"]
 description: "Engineering analysis of reciprocating engine prime movers for CHP including thermodynamic cycles, combustion processes, heat recovery systems, performance characteristics, and emissions control for gas and diesel applications."
 date: 2026-01-04
 weight: 1

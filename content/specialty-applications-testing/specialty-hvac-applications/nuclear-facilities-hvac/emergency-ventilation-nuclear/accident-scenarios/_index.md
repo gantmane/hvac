@@ -1,7 +1,9 @@
 ---
 title: "HVAC Design for Nuclear Accident Scenarios"
+aliases: ["HVAC Design for Nuclear Accident Scenarios"]
 description: "Design basis accident ventilation strategies, radioactive release containment, emergency filtration requirements, automatic isolation sequences, and control room habitability."
 keywords: ["design basis accident", "LOCA ventilation", "radioactive release containment", "emergency filtration nuclear", "automatic isolation dampers", "control room habitability", "HEPA filtration efficiency", "charcoal adsorbers"]
+tags: ["design basis accident", "LOCA ventilation", "radioactive release containment", "emergency filtration nuclear", "automatic isolation dampers", "control room habitability", "HEPA filtration efficiency", "charcoal adsorbers"]
 date: 2025-01-11
 draft: false
 weight: 3

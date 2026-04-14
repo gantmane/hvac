@@ -1,7 +1,9 @@
 ---
 title: "District Heating Systems"
+aliases: ["District Heating Systems"]
 description: "Technical analysis of district heating networks, thermal distribution systems, temperature classifications, CHP integration, and central heating design methodology"
 keywords: ["district heating", "central heating", "combined heat power", "thermal network", "heat distribution", "CHP integration", "thermal storage", "preinsulated piping"]
+tags: ["district heating", "central heating", "combined heat power", "thermal network", "heat distribution", "CHP integration", "thermal storage", "preinsulated piping"]
 weight: 12
 ---
 

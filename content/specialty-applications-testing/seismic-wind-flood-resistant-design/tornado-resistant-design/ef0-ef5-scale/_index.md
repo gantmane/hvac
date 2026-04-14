@@ -1,5 +1,6 @@
 ---
 title: "Enhanced Fujita Scale for HVAC Design"
+aliases: ["Enhanced Fujita Scale for HVAC Design"]
 description: "EF0-EF5 tornado ratings with wind speeds, damage indicators, and HVAC equipment design criteria for tornado-prone regions based on Enhanced Fujita scale."
 keywords:
   - Enhanced Fujita scale

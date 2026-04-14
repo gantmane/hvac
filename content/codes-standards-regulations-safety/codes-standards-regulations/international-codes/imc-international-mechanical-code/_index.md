@@ -1,8 +1,10 @@
 ---
 title: "International Mechanical Code IMC Requirements"
+aliases: ["International Mechanical Code IMC Requirements"]
 description: "Comprehensive mechanical code establishing HVAC design, installation, and safety requirements including ventilation rates, duct construction, equipment standards, and refrigeration provisions."
 date: 2026-01-11
 keywords: ["IMC", "International Mechanical Code", "ventilation requirements", "duct construction", "HVAC code", "mechanical equipment", "refrigeration code", "combustion air"]
+tags: ["IMC", "International Mechanical Code", "ventilation requirements", "duct construction", "HVAC code", "mechanical equipment", "refrigeration code", "combustion air"]
 weight: 1
 ---
 

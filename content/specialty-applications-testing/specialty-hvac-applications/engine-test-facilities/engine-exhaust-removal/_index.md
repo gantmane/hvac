@@ -1,5 +1,6 @@
 ---
 title: "Engine Exhaust Removal Systems for Test Facilities"
+aliases: ["Engine Exhaust Removal Systems for Test Facilities"]
 description: "Exhaust capture methods, high-temperature ducting, fan selection, dilution systems, and environmental compliance for engine test cell ventilation."
 weight: 2
 keywords:

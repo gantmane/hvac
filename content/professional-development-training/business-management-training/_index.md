@@ -1,5 +1,6 @@
 ---
 title: "Business Management Training for HVAC Contractors"
+aliases: ["Business Management Training for HVAC Contractors"]
 description: "Comprehensive business management training for HVAC contractors covering financial analysis, project estimation, strategic planning, and operational efficiency optimization"
 keywords: ["hvac business management", "contractor training", "project estimation", "financial management", "hvac business planning", "contractor operations", "bidding strategies", "profit margin optimization", "overhead cost analysis", "hvac business metrics"]
 tags: ["business-management", "professional-development", "contractor-training", "financial-planning", "project-management"]

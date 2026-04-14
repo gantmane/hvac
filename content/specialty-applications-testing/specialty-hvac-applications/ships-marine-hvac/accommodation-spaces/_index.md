@@ -1,7 +1,9 @@
 ---
 title: "Ship Accommodation HVAC Systems"
+aliases: ["Ship Accommodation HVAC Systems"]
 description: "Technical analysis of marine accommodation space climate control including cabin ventilation design, air change calculations, and SOLAS comfort standards."
 keywords: ["ship accommodation HVAC", "cabin ventilation", "crew quarters climate control", "passenger cabin air conditioning", "SOLAS comfort standards", "marine HVAC zones", "ship air distribution", "cabin air changes"]
+tags: ["ship accommodation HVAC", "cabin ventilation", "crew quarters climate control", "passenger cabin air conditioning", "SOLAS comfort standards", "marine HVAC zones", "ship air distribution", "cabin air changes"]
 weight: 7
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Gravity Drainage"
+aliases: ["Gravity Drainage"]
 description: "Physics-based analysis of gravity-driven moisture transport in building envelopes including drainage plane design, weep system hydraulics, flow path geometry, and water management strategies for wall assemblies and roofing systems"
 weight: 4
 ---

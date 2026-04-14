@@ -1,8 +1,10 @@
 ---
 title: "Control System Architectures for Building Automation"
+aliases: ["Control System Architectures for Building Automation"]
 seo_title: "HVAC Control System Architectures & BAS Design"
 description: "Comprehensive guide to building automation system architectures including centralized, distributed, and hybrid configurations. Covers BACnet standards, system tiers, and network topologies."
 keywords: ["control system architecture", "building automation systems", "BACnet protocol", "distributed control", "HVAC automation", "DDC systems", "BAS hierarchy", "control network design"]
+tags: ["control system architecture", "building automation systems", "BACnet protocol", "distributed control", "HVAC automation", "DDC systems", "BAS hierarchy", "control network design"]
 weight: 2
 ---
 

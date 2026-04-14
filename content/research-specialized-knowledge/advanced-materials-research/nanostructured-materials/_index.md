@@ -1,5 +1,6 @@
 ---
 title: "Nanostructured Materials"
+aliases: ["Nanostructured Materials"]
 weight: 1
 ---
 

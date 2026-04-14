@@ -1,5 +1,6 @@
 ---
 title: "IQF Technology"
+aliases: ["IQF Technology"]
 weight: 5
 ---
 

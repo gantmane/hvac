@@ -1,7 +1,9 @@
 ---
 title: "Variable Refrigerant Flow Systems in Hotels"
+aliases: ["Variable Refrigerant Flow Systems in Hotels"]
 description: "VRF hotel systems provide individual room control, simultaneous heating and cooling, heat recovery between zones, and superior energy efficiency for hospitality facilities."
 keywords: ["VRF hotels", "variable refrigerant flow", "hotel HVAC", "heat recovery VRF", "individual room control", "hotel energy efficiency", "VRF architecture", "guest room climate control"]
+tags: ["VRF hotels", "variable refrigerant flow", "hotel HVAC", "heat recovery VRF", "individual room control", "hotel energy efficiency", "VRF architecture", "guest room climate control"]
 weight: 3
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Data Center Monitoring & Controls"
+aliases: ["Data Center Monitoring & Controls"]
 description: "Comprehensive guide to DCIM systems, environmental monitoring, BMS integration, sensor placement strategies, and predictive analytics for mission-critical data center facilities."
 keywords: ["data center monitoring", "DCIM", "environmental sensors", "BMS integration", "PUE calculation", "thermal monitoring", "predictive analytics", "data center controls"]
+tags: ["data center monitoring", "DCIM", "environmental sensors", "BMS integration", "PUE calculation", "thermal monitoring", "predictive analytics", "data center controls"]
 weight: 6
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Desiccant Technology in HVAC Systems"
+aliases: ["Desiccant Technology in HVAC Systems"]
 linkTitle: "Desiccant Technology"
 description: "Comprehensive analysis of desiccant dehumidification systems including solid and liquid desiccants, regeneration methods, psychrometric processes, and hybrid vapor compression integration for superior moisture control."
 keywords:

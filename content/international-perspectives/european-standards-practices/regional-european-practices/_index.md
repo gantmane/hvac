@@ -1,5 +1,6 @@
 ---
 title: "Regional European HVAC Practices and Standards"
+aliases: ["Regional European HVAC Practices and Standards"]
 description: "Technical analysis of regional HVAC practices across Europe including Nordic district heating, Mediterranean cooling, and Central European balanced systems."
 date: 2025-01-05
 tags: ["european-standards", "district-heating", "regional-practices", "hvac-systems", "international-hvac"]

@@ -1,5 +1,6 @@
 ---
 title: "Heat Stress in Deep Mines"
+aliases: ["Heat Stress in Deep Mines"]
 description: "Comprehensive analysis of heat stress in underground mining operations including virgin rock temperature effects, auto-compression heating, and industrial cooling strategies for worker safety."
 keywords:
   - mine heat stress

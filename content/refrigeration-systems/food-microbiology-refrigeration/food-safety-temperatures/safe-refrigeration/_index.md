@@ -1,5 +1,6 @@
 ---
 title: "Safe Refrigeration"
+aliases: ["Safe Refrigeration"]
 weight: 2
 ---
 

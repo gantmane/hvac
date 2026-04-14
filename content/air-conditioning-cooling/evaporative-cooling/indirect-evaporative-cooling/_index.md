@@ -1,7 +1,9 @@
 ---
 title: "Indirect Evaporative Cooling"
+aliases: ["Indirect Evaporative Cooling"]
 description: "Design and application of indirect evaporative cooling systems that provide sensible cooling without adding moisture to supply air."
 keywords: ["indirect evaporative cooling", "IEC", "dew-point cooling", "plate heat exchanger", "sensible cooling", "dry cooling"]
+tags: ["indirect evaporative cooling", "IEC", "dew-point cooling", "plate heat exchanger", "sensible cooling", "dry cooling"]
 weight: 2
 ---
 

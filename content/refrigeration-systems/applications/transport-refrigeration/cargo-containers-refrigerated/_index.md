@@ -1,8 +1,10 @@
 ---
 title: "Refrigerated Cargo Containers"
+aliases: ["Refrigerated Cargo Containers"]
 weight: 1
 description: "Technical specifications and operation of intermodal refrigerated containers (reefers) including refrigeration units, power systems, controlled atmosphere capability, and ISO standards for global cargo transport."
 keywords: ["refrigerated containers", "reefer containers", "intermodal refrigeration", "container refrigeration units", "ISO reefer standards", "clip-on gensets", "controlled atmosphere containers", "cargo temperature control"]
+tags: ["refrigerated containers", "reefer containers", "intermodal refrigeration", "container refrigeration units", "ISO reefer standards", "clip-on gensets", "controlled atmosphere containers", "cargo temperature control"]
 ---
 
 Refrigerated cargo containers, commonly called reefers, provide mobile cold chain capability for intermodal transport of temperature-sensitive products across ship, rail, and truck modes. These self-contained units integrate refrigeration machinery, insulation, and structural framing within ISO standard container dimensions.

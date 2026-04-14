@@ -1,5 +1,6 @@
 ---
 title: "Altitude Effects on Air Properties"
+aliases: ["Altitude Effects on Air Properties"]
 description: "Comprehensive analysis of atmospheric pressure, density, and temperature variations with elevation. Includes barometric equations, performance correction factors, and high-altitude design considerations for HVAC systems."
 weight: 6
 ---

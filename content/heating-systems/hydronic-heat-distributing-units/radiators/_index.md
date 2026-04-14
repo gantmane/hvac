@@ -1,8 +1,10 @@
 ---
 title: "Radiators"
+aliases: ["Radiators"]
 weight: 2
 description: "Technical analysis of hydronic radiators including cast iron column and sectional radiators, steel panel radiators, EDR rating methodology, radiation and convection heat transfer mechanisms, steam and hot water applications, sizing calculations, and thermostatic radiator valve integration."
 keywords: "radiators, cast iron radiators, steel panel radiators, EDR ratings, equivalent direct radiation, radiator sizing, hot water radiators, steam radiators, column radiators, panel radiators"
+tags: ["radiators", "cast iron radiators", "steel panel radiators", "EDR ratings", "equivalent direct radiation", "radiator sizing", "hot water radiators", "steam radiators", "column radiators", "panel radiators"]
 ---
 
 # Radiators

@@ -1,5 +1,6 @@
 ---
 title: "Unit Heaters Electric"
+aliases: ["Unit Heaters Electric"]
 weight: 4
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Welded Ductwork Construction for Justice Facilities"
+aliases: ["Welded Ductwork Construction for Justice Facilities"]
 weight: 1
 description: "Technical specifications for welded HVAC ductwork in correctional facilities including gauge requirements, continuous weld details, joint design, and security construction standards."
 keywords: ["welded ductwork", "correctional HVAC", "secure duct construction", "weld joint details", "justice facility ductwork", "tamper-resistant ductwork", "continuous weld seams", "security ductwork specifications"]
+tags: ["welded ductwork", "correctional HVAC", "secure duct construction", "weld joint details", "justice facility ductwork", "tamper-resistant ductwork", "continuous weld seams", "security ductwork specifications"]
 ---
 
 ## Welded Construction Standards

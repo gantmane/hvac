@@ -1,7 +1,9 @@
 ---
 title: "Avionics Cooling Systems"
+aliases: ["Avionics Cooling Systems"]
 description: "Technical analysis of aircraft avionics thermal management including forced air cooling, liquid cooling loops, cold plate technology, and heat dissipation calculations per DO-160 standards"
 keywords: ["avionics cooling", "aircraft electronics cooling", "cold plate cooling", "liquid cooling loops", "DO-160", "forced air cooling", "thermal management aircraft", "avionics bay ventilation", "heat exchanger aircraft"]
+tags: ["avionics cooling", "aircraft electronics cooling", "cold plate cooling", "liquid cooling loops", "DO-160", "forced air cooling", "thermal management aircraft", "avionics bay ventilation", "heat exchanger aircraft"]
 date: 2026-01-05
 weight: 1
 seo_title: "Avionics Cooling Systems: Forced Air, Liquid Cooling & Cold Plates"

@@ -1,7 +1,9 @@
 ---
 title: "Steam Boilers"
+aliases: ["Steam Boilers"]
 description: "Comprehensive guide to steam boiler design, operation, and maintenance including firetube and watertube configurations, pressure classifications, feedwater treatment, and ASME Section I requirements for commercial and industrial applications."
 keywords: "steam boilers, firetube boilers, watertube boilers, low pressure steam, high pressure steam, blowdown systems, feedwater treatment, steam traps, condensate return, ASME Section I"
+tags: ["steam boilers", "firetube boilers", "watertube boilers", "low pressure steam", "high pressure steam", "blowdown systems", "feedwater treatment", "steam traps", "condensate return", "ASME Section I"]
 weight: 3
 ---
 

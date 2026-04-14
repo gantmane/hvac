@@ -1,5 +1,6 @@
 ---
 title: "HVAC Equipment Noise"
+aliases: ["HVAC Equipment Noise"]
 weight: 3
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Stairwell Pressurization Systems"
+aliases: ["Stairwell Pressurization Systems"]
 description: "Stairwell pressurization systems maintain minimum pressure differentials, control door opening forces, use multiple injection points, and modulating relief dampers."
 date: 2025-01-11
 keywords: ["stairwell pressurization", "smoke control", "pressure differential", "door opening force", "injection points", "pressure relief", "NFPA 92", "high-rise fire safety"]
+tags: ["stairwell pressurization", "smoke control", "pressure differential", "door opening force", "injection points", "pressure relief", "NFPA 92", "high-rise fire safety"]
 weight: 4
 ---
 

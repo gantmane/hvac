@@ -1,5 +1,6 @@
 ---
 title: "Thermoelastic Cooling"
+aliases: ["Thermoelastic Cooling"]
 description: "Solid-state thermoelastic and elastocaloric cooling using shape memory alloys, nitinol wire systems, and mechanically-induced phase transformations for environmentally benign refrigeration."
 weight: 4
 ---

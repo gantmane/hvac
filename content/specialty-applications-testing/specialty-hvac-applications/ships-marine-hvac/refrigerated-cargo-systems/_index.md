@@ -1,5 +1,6 @@
 ---
 title: "Refrigerated Cargo Systems"
+aliases: ["Refrigerated Cargo Systems"]
 description: "Technical guide to marine refrigerated cargo systems including reefer containers, insulated cargo holds, temperature control strategies, and controlled atmosphere transport for perishable goods"
 date: 2025-01-05
 draft: false

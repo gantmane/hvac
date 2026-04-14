@@ -1,7 +1,9 @@
 ---
 title: "Event Mode Operation in Variable Occupancy HVAC"
+aliases: ["Event Mode Operation in Variable Occupancy HVAC"]
 description: "Technical analysis of event mode HVAC operation for high-occupancy scenarios including ventilation response, cooling demand calculation, and rapid load accommodation strategies."
 keywords: ["event mode HVAC", "high occupancy ventilation", "rapid cooling response", "occupancy surge control", "event load calculation", "mass gathering HVAC", "transient occupancy", "demand-based operation"]
+tags: ["event mode HVAC", "high occupancy ventilation", "rapid cooling response", "occupancy surge control", "event load calculation", "mass gathering HVAC", "transient occupancy", "demand-based operation"]
 weight: 3
 ---
 

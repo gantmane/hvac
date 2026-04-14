@@ -1,7 +1,9 @@
 ---
 title: "Brine Immersion Freezing for Fish Products"
+aliases: ["Brine Immersion Freezing for Fish Products"]
 description: "Brine immersion freezing systems for fish processing: sodium chloride vs calcium chloride brines, heat transfer mechanisms, salt uptake control, and rapid freezing."
 keywords: ["brine freezing", "fish immersion freezing", "calcium chloride brine", "sodium chloride brine", "salt uptake control", "contact freezing", "rapid fish freezing", "brine concentration"]
+tags: ["brine freezing", "fish immersion freezing", "calcium chloride brine", "sodium chloride brine", "salt uptake control", "contact freezing", "rapid fish freezing", "brine concentration"]
 weight: 3
 seo_title: "Brine Immersion Freezing: Fish Processing Systems"
 ---

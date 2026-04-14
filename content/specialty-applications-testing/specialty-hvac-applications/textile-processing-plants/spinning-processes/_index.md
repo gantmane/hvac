@@ -1,7 +1,9 @@
 ---
 title: "HVAC for Textile Spinning Processes"
+aliases: ["HVAC for Textile Spinning Processes"]
 description: "Comprehensive guide to HVAC systems for textile spinning mills including humidity control, temperature requirements, and dust management for ring, rotor, and air-jet spinning."
 keywords: ["spinning process HVAC", "textile humidity control", "spinning mill air conditioning", "yarn spinning climate control", "textile dust control", "ring spinning HVAC", "rotor spinning ventilation", "textile mill dehumidification"]
+tags: ["spinning process HVAC", "textile humidity control", "spinning mill air conditioning", "yarn spinning climate control", "textile dust control", "ring spinning HVAC", "rotor spinning ventilation", "textile mill dehumidification"]
 weight: 2
 ---
 

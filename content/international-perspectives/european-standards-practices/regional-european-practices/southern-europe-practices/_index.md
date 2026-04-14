@@ -1,5 +1,6 @@
 ---
 title: "Southern Europe HVAC Practices"
+aliases: ["Southern Europe HVAC Practices"]
 description: "Mediterranean climate HVAC design principles, cooling-dominant systems, solar thermal integration, natural ventilation strategies, and regional regulations across Southern Europe."
 weight: 3
 ---

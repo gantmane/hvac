@@ -1,9 +1,11 @@
 ---
 title: "Fluidization Principles in Fluid Bed Dryers"
+aliases: ["Fluidization Principles in Fluid Bed Dryers"]
 description: "Master fluidization mechanics for industrial drying systems. Physics-based analysis of minimum fluidization velocity, pressure drop, and particle dynamics."
 date: 2026-01-11
 weight: 1
 keywords: ["fluidization velocity", "Ergun equation", "pressure drop", "particle Reynolds number", "bubbling fluidization", "entrainment velocity", "bed expansion", "fluid bed dynamics"]
+tags: ["fluidization velocity", "Ergun equation", "pressure drop", "particle Reynolds number", "bubbling fluidization", "entrainment velocity", "bed expansion", "fluid bed dynamics"]
 ---
 
 Fluidization transforms a static bed of solid particles into a fluid-like state through upward gas flow, creating intimate gas-solid contact essential for efficient heat and mass transfer in industrial drying operations. Understanding the physics governing this transition is fundamental to designing and operating fluid bed dryers effectively.

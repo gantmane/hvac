@@ -1,5 +1,6 @@
 ---
 title: "Water Activity"
+aliases: ["Water Activity"]
 weight: 3
 ---
 

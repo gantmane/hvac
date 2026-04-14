@@ -1,7 +1,9 @@
 ---
 title: "Series Loop Distribution Systems"
+aliases: ["Series Loop Distribution Systems"]
 description: "Series loop DHW distribution systems provide continuous circulation through fixtures arranged in series. Analysis of temperature drop, pipe sizing, heat loss, and comparison with parallel configurations."
 keywords: ["series loop DHW", "domestic hot water distribution", "continuous circulation", "temperature drop calculation", "recirculation piping", "water heater loop", "series piping", "DHW heat loss"]
+tags: ["series loop DHW", "domestic hot water distribution", "continuous circulation", "temperature drop calculation", "recirculation piping", "water heater loop", "series piping", "DHW heat loss"]
 weight: 4
 ---
 

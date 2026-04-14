@@ -1,5 +1,6 @@
 ---
 title: "Discipline Coordination"
+aliases: ["Discipline Coordination"]
 weight: 4
 ---
 

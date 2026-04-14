@@ -1,5 +1,6 @@
 ---
 title: "Staling Prevention"
+aliases: ["Staling Prevention"]
 description: "Comprehensive analysis of bread staling mechanisms, starch retrogradation kinetics, temperature effects, glass transition phenomena, anti-staling additives, and HVAC system design for optimal bakery product storage"
 weight: 3
 ---

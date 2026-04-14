@@ -1,7 +1,9 @@
 ---
 title: "Process Exhaust for Textile Dyeing & Finishing"
+aliases: ["Process Exhaust for Textile Dyeing & Finishing"]
 description: "Technical guidance on process exhaust systems for textile dyeing and finishing operations including dye bath exhaust, chemical vapor control, and local exhaust ventilation design."
 keywords: ["dye bath exhaust", "chemical vapor control", "textile fume extraction", "local exhaust hoods", "dyeing ventilation", "finishing exhaust systems", "industrial ventilation", "ACGIH standards"]
+tags: ["dye bath exhaust", "chemical vapor control", "textile fume extraction", "local exhaust hoods", "dyeing ventilation", "finishing exhaust systems", "industrial ventilation", "ACGIH standards"]
 weight: 4
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Potato Curing at 50-60°F: HVAC Design for Wound Healing"
+aliases: ["Potato Curing at 50-60°F: HVAC Design for Wound Healing"]
 description: "Engineering guide to HVAC systems for potato curing storage at 50-60°F and 90-95% RH. Covers suberization kinetics, heat load calculations, and humidity control."
 keywords: ["potato curing", "suberization", "wound healing", "storage HVAC", "humidity control", "crop processing", "agricultural ventilation", "post-harvest"]
+tags: ["potato curing", "suberization", "wound healing", "storage HVAC", "humidity control", "crop processing", "agricultural ventilation", "post-harvest"]
 weight: 4
 ---
 

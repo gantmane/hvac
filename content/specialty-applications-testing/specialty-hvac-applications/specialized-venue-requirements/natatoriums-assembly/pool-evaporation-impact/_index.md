@@ -1,7 +1,9 @@
 ---
 title: "Pool Evaporation Impact on Spectator HVAC"
+aliases: ["Pool Evaporation Impact on Spectator HVAC"]
 description: "Technical analysis of moisture migration from pool surfaces to spectator areas, covering partial pressure gradients, air barrier design, and humidity control strategies."
 keywords: ["pool evaporation", "moisture migration", "natatorium HVAC", "spectator area humidity", "partial pressure gradient", "air barrier design", "humidity control", "assembly natatorium"]
+tags: ["pool evaporation", "moisture migration", "natatorium HVAC", "spectator area humidity", "partial pressure gradient", "air barrier design", "humidity control", "assembly natatorium"]
 weight: 1
 ---
 

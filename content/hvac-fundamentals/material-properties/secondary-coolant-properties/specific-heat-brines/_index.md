@@ -1,5 +1,6 @@
 ---
 title: "Specific Heat Brines"
+aliases: ["Specific Heat Brines"]
 description: "Specific heat capacity of secondary coolants and brines including temperature and concentration dependence, impact on flow rate calculations, and heat transfer capacity for HVAC system design."
 weight: 4
 ---

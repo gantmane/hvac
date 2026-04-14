@@ -1,7 +1,9 @@
 ---
 title: "Specialty Duct Materials for Demanding Applications"
+aliases: ["Specialty Duct Materials for Demanding Applications"]
 description: "Technical guide to specialty HVAC duct materials including stainless steel, fiberglass, PVC, CPVC, polypropylene, and fabric ducts with material properties and applications."
 keywords: ["specialty duct materials", "stainless steel ductwork", "fiberglass duct", "fabric duct", "chemical resistant duct", "corrosion resistant HVAC", "FRP ductwork", "fume exhaust systems"]
+tags: ["specialty duct materials", "stainless steel ductwork", "fiberglass duct", "fabric duct", "chemical resistant duct", "corrosion resistant HVAC", "FRP ductwork", "fume exhaust systems"]
 date: 2026-01-11
 weight: 3
 ---

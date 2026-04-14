@@ -1,7 +1,9 @@
 ---
 title: "Conventional vs Dehumidification Lumber Kilns"
+aliases: ["Conventional vs Dehumidification Lumber Kilns"]
 description: "Technical comparison of conventional steam-heated kilns and dehumidification kilns for lumber drying, including energy equations and performance characteristics."
 keywords: ["lumber kiln", "dehumidification kiln", "conventional kiln", "wood drying", "heat pump kiln", "kiln efficiency", "moisture removal", "lumber processing"]
+tags: ["lumber kiln", "dehumidification kiln", "conventional kiln", "wood drying", "heat pump kiln", "kiln efficiency", "moisture removal", "lumber processing"]
 weight: 1
 ---
 

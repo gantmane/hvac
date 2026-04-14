@@ -1,7 +1,9 @@
 ---
 title: "Classroom HVAC Design: Comprehensive Guide to Educational Environment Control"
+aliases: ["Classroom HVAC Design: Comprehensive Guide to Educational Environment Control"]
 description: "Technical analysis of classroom HVAC systems including ventilation rate calculations, temperature control strategies, acoustic requirements, CO2 monitoring protocols, and occupancy-based control systems for optimal learning environments."
 keywords: "classroom HVAC, educational facility ventilation, ASHRAE 62.1 classrooms, classroom air quality, school temperature control, classroom acoustics, CO2 monitoring schools, demand controlled ventilation, occupancy sensors classroom, classroom IAQ"
+tags: ["classroom HVAC", "educational facility ventilation", "ASHRAE 62.1 classrooms", "classroom air quality", "school temperature control", "classroom acoustics", "CO2 monitoring schools", "demand controlled ventilation", "occupancy sensors classroom", "classroom IAQ"]
 date: 2025-01-05
 weight: 3
 ---

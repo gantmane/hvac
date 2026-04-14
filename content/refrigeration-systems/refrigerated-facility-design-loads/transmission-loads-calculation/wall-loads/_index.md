@@ -1,5 +1,6 @@
 ---
 title: "Wall Loads"
+aliases: ["Wall Loads"]
 weight: 1
 ---
 

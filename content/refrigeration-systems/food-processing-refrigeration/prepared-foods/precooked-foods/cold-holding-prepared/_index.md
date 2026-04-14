@@ -1,5 +1,6 @@
 ---
 title: "Cold Holding Prepared Foods"
+aliases: ["Cold Holding Prepared Foods"]
 description: "Technical requirements for cold holding refrigeration systems for prepared and ready-to-eat foods, including temperature control, FDA Food Code compliance, display case specifications, and HACCP critical control points"
 weight: 2
 ---

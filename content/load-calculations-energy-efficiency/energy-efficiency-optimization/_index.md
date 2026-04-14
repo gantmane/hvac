@@ -1,5 +1,6 @@
 ---
 title: "Energy Efficiency Optimization"
+aliases: ["Energy Efficiency Optimization"]
 description: "Comprehensive strategies for HVAC energy efficiency optimization including system design, control strategies, thermal storage, renewable energy integration, and performance monitoring."
 weight: 2
 ---

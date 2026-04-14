@@ -1,5 +1,6 @@
 ---
 title: "Hydronic Piping Systems"
+aliases: ["Hydronic Piping Systems"]
 description: "Comprehensive guide to hydronic piping systems for heating and cooling including system configurations, pump selection, flow control devices, expansion compensation, and air removal strategies."
 weight: 2
 ---

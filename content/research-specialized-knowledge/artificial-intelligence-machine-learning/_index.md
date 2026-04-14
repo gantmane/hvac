@@ -1,8 +1,10 @@
 ---
 title: "Artificial Intelligence Machine Learning"
+aliases: ["Artificial Intelligence Machine Learning"]
 weight: 6
 description: "Advanced AI and machine learning techniques for HVAC systems including model predictive control, fault detection and diagnostics, occupancy prediction, load forecasting, neural networks, and reinforcement learning optimization strategies."
 keywords: ["machine learning HVAC", "predictive control", "fault detection diagnostics", "FDD", "model predictive control", "MPC", "occupancy prediction", "load forecasting", "neural networks", "reinforcement learning", "AI HVAC optimization"]
+tags: ["machine learning HVAC", "predictive control", "fault detection diagnostics", "FDD", "model predictive control", "MPC", "occupancy prediction", "load forecasting", "neural networks", "reinforcement learning"]
 ---
 
 Artificial intelligence and machine learning represent transformative technologies for HVAC system optimization, fault detection, and predictive control. These techniques leverage historical operational data, sensor measurements, and environmental variables to improve energy efficiency, occupant comfort, and system reliability beyond traditional rule-based control strategies.

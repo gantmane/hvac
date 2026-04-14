@@ -1,8 +1,10 @@
 ---
 title: "Housing Unit HVAC Systems"
+aliases: ["Housing Unit HVAC Systems"]
 seo_title: "Correctional Housing Unit HVAC Design & Standards"
 description: "Technical guide to housing unit HVAC in correctional facilities covering cell ventilation, dayroom climate control, security requirements, and ACA/ASHRAE standards."
 keywords: ["correctional housing HVAC", "cell ventilation design", "dayroom climate control", "prison housing ventilation", "ACA HVAC standards", "inmate housing air quality", "secure HVAC systems", "cell block environmental control"]
+tags: ["correctional housing HVAC", "cell ventilation design", "dayroom climate control", "prison housing ventilation", "ACA HVAC standards", "inmate housing air quality", "secure HVAC systems", "cell block environmental control"]
 weight: 1
 ---
 

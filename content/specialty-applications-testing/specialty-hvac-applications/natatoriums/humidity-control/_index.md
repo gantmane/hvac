@@ -1,7 +1,9 @@
 ---
 title: "Humidity Control"
+aliases: ["Humidity Control"]
 description: "Humidity control strategies for natatoriums including dehumidification systems, condensation prevention, and energy-efficient operation."
 keywords: ["natatorium humidity", "pool dehumidification", "humidity control", "condensation prevention", "swimming pool HVAC"]
+tags: ["natatorium humidity", "pool dehumidification", "humidity control", "condensation prevention", "swimming pool HVAC"]
 weight: 3
 ---
 

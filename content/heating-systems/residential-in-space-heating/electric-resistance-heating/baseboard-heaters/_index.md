@@ -1,5 +1,6 @@
 ---
 title: "Baseboard Heaters"
+aliases: ["Baseboard Heaters"]
 weight: 1
 ---
 

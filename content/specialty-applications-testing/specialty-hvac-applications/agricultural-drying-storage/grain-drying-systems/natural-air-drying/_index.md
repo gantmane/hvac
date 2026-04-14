@@ -1,5 +1,6 @@
 ---
 title: "Natural Air Grain Drying Systems"
+aliases: ["Natural Air Grain Drying Systems"]
 description: "Engineering fundamentals of natural air grain drying using ambient conditions, airflow requirements of 1-2 cfm/bu, fan selection, weather-based drying time estimation, and grain depth management for energy-efficient moisture removal."
 keywords:
   - natural air drying

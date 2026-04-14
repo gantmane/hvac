@@ -1,8 +1,10 @@
 ---
 title: "Marine Split Systems for Ships"
+aliases: ["Marine Split Systems for Ships"]
 linkTitle: "Split Systems"
 description: "Marine-rated split system air conditioning with corrosion-resistant construction, vibration isolation, condensate management, and classification society compliance for maritime applications."
 keywords: ["marine split systems", "ship air conditioning", "marine HVAC", "corrosion resistant HVAC", "maritime climate control", "marine DX systems", "vessel AC units", "marine refrigeration"]
+tags: ["marine split systems", "ship air conditioning", "marine HVAC", "corrosion resistant HVAC", "maritime climate control", "marine DX systems", "vessel AC units", "marine refrigeration"]
 weight: 3
 ---
 

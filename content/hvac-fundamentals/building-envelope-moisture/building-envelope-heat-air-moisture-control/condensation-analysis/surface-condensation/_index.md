@@ -1,5 +1,6 @@
 ---
 title: "Surface Condensation"
+aliases: ["Surface Condensation"]
 description: "Comprehensive analysis of surface condensation in building envelopes, including thermal bridge effects, surface temperature calculations, condensation risk assessment, and prevention strategies for HVAC professionals"
 weight: 2
 ---

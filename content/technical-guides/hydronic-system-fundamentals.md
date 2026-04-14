@@ -2,6 +2,7 @@
 title: "Hydronic System Fundamentals for HVAC Engineers"
 description: "Primary-secondary pumping, variable flow systems, differential pressure control, and hydraulic separation principles for chilled and hot water distribution."
 keywords: ["hydronic systems", "primary-secondary pumping", "variable flow", "chilled water", "hot water", "differential pressure control"]
+tags: ["hydronic systems", "primary-secondary pumping", "variable flow", "chilled water", "hot water", "differential pressure control"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 7
@@ -74,9 +75,9 @@ Maintains system $\Delta P$ at remote sensor location.
 ---
 
 **Related Technical Guides:**
-- [Fluid Mechanics for HVAC](/technical-guides/fluid-mechanics-hvac/)
-- [Pump Selection & Performance](/technical-guides/pump-selection-performance/)
-- [Variable Flow Control Design](/technical-guides/variable-flow-system-design/)
+- Fluid Mechanics for HVAC
+- Pump Selection & Performance
+- Variable Flow Control Design
 
 **References:**
 - ASHRAE Handbook of HVAC Systems and Equipment, Chapter 13: Hydronic Heating and Cooling System Design

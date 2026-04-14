@@ -1,5 +1,6 @@
 ---
 title: "NC-25 Theater HVAC Acoustic Design"
+aliases: ["NC-25 Theater HVAC Acoustic Design"]
 description: "Technical design requirements for achieving NC-25 acoustic performance in theaters including octave band limits, sound transmission calculations, audience size considerations, and HVAC system strategies."
 keywords: ["NC-25 theaters", "theater acoustics", "HVAC noise control", "speech intelligibility", "octave band limits", "theater ventilation", "acoustic design", "background noise"]
 tags: ["acoustics", "noise control", "theaters", "performance venues", "ASHRAE standards"]

@@ -1,7 +1,9 @@
 ---
 title: "Advanced HVAC Control Strategies"
+aliases: ["Advanced HVAC Control Strategies"]
 description: "Comprehensive guide to advanced control techniques including cascade, feedforward, MPC, and adaptive control for optimizing HVAC system performance and energy efficiency."
 keywords: ["cascade control", "feedforward control", "model predictive control", "adaptive control", "multivariable control", "HVAC optimization", "advanced control theory"]
+tags: ["cascade control", "feedforward control", "model predictive control", "adaptive control", "multivariable control", "HVAC optimization", "advanced control theory"]
 weight: 2
 ---
 

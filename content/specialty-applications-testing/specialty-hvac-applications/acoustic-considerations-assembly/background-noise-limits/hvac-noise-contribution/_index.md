@@ -1,5 +1,6 @@
 ---
 title: "HVAC Noise Contribution in Assembly Spaces"
+aliases: ["HVAC Noise Contribution in Assembly Spaces"]
 description: "Technical analysis of HVAC system noise contributions in assembly spaces including component-level breakdowns, noise path analysis, budgeting methods, and design margins."
 date: 2026-01-11
 tags: ["acoustics", "noise control", "HVAC noise", "assembly spaces", "NC curves", "noise budgeting", "sound power", "octave band analysis"]

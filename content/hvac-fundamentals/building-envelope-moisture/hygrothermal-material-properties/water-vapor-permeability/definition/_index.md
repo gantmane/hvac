@@ -1,5 +1,6 @@
 ---
 title: "Definition and Fundamental Concepts"
+aliases: ["Definition and Fundamental Concepts"]
 description: "Technical definition of water vapor permeability and permeance, including governing physics, measurement units, material property relationships, and distinction between permeability coefficients and installed permeance values."
 weight: 1
 ---

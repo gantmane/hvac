@@ -1,5 +1,6 @@
 ---
 title: "Sorption Isotherms"
+aliases: ["Sorption Isotherms"]
 description: "Comprehensive analysis of moisture sorption isotherms for building materials, including thermodynamic principles, classification systems, measurement methods, and application to hygrothermal design and moisture storage prediction."
 weight: 1
 ---

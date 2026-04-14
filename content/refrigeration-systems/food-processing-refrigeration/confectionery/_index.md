@@ -1,5 +1,6 @@
 ---
 title: "Confectionery Refrigeration Systems"
+aliases: ["Confectionery Refrigeration Systems"]
 description: "Technical design of confectionery refrigeration systems including chocolate tempering, cooling tunnel design, candy processing, and precise temperature humidity control for quality assurance in confectionery manufacturing"
 weight: 12
 ---

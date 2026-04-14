@@ -1,5 +1,6 @@
 ---
 title: "Dd Coordination"
+aliases: ["Dd Coordination"]
 weight: 2
 ---
 

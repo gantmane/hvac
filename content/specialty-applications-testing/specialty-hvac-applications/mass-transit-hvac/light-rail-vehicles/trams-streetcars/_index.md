@@ -1,5 +1,6 @@
 ---
 title: "Tram and Streetcar HVAC Systems"
+aliases: ["Tram and Streetcar HVAC Systems"]
 linkTitle: "Trams Streetcars"
 description: "Technical analysis of HVAC systems for trams and streetcars including heritage vehicle retrofits, modern low-floor designs, street-running thermal challenges, and distributed climate control."
 keywords:

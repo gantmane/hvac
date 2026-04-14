@@ -1,7 +1,9 @@
 ---
 title: "Data Center Cooling Systems & Design"
+aliases: ["Data Center Cooling Systems & Design"]
 description: "Technical guide to data center HVAC design covering power density calculations, cooling architectures, thermal management strategies, and ASHRAE TC 9.9 standards."
 keywords: ["data center cooling", "power density", "hot aisle cold aisle", "PUE", "ASHRAE TC 9.9", "precision cooling", "raised floor cooling", "containment systems"]
+tags: ["data center cooling", "power density", "hot aisle cold aisle", "PUE", "ASHRAE TC 9.9", "precision cooling", "raised floor cooling", "containment systems"]
 weight: 4
 ---
 

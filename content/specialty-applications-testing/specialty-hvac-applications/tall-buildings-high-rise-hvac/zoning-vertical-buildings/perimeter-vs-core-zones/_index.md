@@ -1,7 +1,9 @@
 ---
 title: "Perimeter vs Core Zone HVAC Design"
+aliases: ["Perimeter vs Core Zone HVAC Design"]
 description: "Engineering fundamentals of perimeter and core zoning in tall buildings: solar load variability, internal load patterns, orientation-based design, and facade integration strategies."
 keywords: ["perimeter zone HVAC", "core zone design", "solar heat gain", "high-rise zoning", "thermal zoning", "facade integration", "orientation loads", "dual-duct systems"]
+tags: ["perimeter zone HVAC", "core zone design", "solar heat gain", "high-rise zoning", "thermal zoning", "facade integration", "orientation loads", "dual-duct systems"]
 weight: 1
 ---
 

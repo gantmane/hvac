@@ -1,5 +1,6 @@
 ---
 title: "Vegetable Processing Refrigeration"
+aliases: ["Vegetable Processing Refrigeration"]
 description: "Technical guide to vegetable processing refrigeration systems including precooling methods, hydrocooling, forced-air cooling, blanching operations, IQF freezing, cold storage requirements, and quality preservation strategies for commercial vegetable processing facilities."
 weight: 2
 ---

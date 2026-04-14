@@ -1,5 +1,6 @@
 ---
 title: "Aircraft Temperature Control Systems"
+aliases: ["Aircraft Temperature Control Systems"]
 linkTitle: "Temperature Control"
 weight: 3
 description: "Comprehensive analysis of aircraft temperature control systems including cabin zone management, cockpit climate optimization, galley cooling, cargo temperature regulation, and passenger comfort strategies across multi-zone environments."

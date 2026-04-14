@@ -1,7 +1,9 @@
 ---
 title: "ASHRAE Standards: Complete Technical Reference"
+aliases: ["ASHRAE Standards: Complete Technical Reference"]
 description: "Comprehensive guide to ASHRAE standards including 62.1, 90.1, 55, 15, 34, and 170. Technical requirements, applications, and standard development process explained."
 keywords: ["ASHRAE standards", "ASHRAE 62.1", "ASHRAE 90.1", "ASHRAE 55", "ventilation standards", "energy efficiency standards", "thermal comfort", "HVAC codes"]
+tags: ["ASHRAE standards", "ASHRAE 62.1", "ASHRAE 90.1", "ASHRAE 55", "ventilation standards", "energy efficiency standards", "thermal comfort", "HVAC codes"]
 weight: 2
 ---
 

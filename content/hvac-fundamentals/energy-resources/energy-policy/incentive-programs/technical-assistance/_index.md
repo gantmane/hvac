@@ -1,7 +1,9 @@
 ---
 title: "HVAC Technical Assistance Programs"
+aliases: ["HVAC Technical Assistance Programs"]
 description: "Comprehensive guide to energy technical assistance programs including DOE energy audits, retro-commissioning support, benchmarking requirements, and HVAC training services."
 keywords: ["technical assistance programs", "energy audits", "retro-commissioning", "HVAC training", "DOE programs", "benchmarking requirements", "commissioning support", "energy assessment"]
+tags: ["technical assistance programs", "energy audits", "retro-commissioning", "HVAC training", "DOE programs", "benchmarking requirements", "commissioning support", "energy assessment"]
 weight: 2
 ---
 

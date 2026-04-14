@@ -1,5 +1,6 @@
 ---
 title: "Heating Load Components"
+aliases: ["Heating Load Components"]
 weight: 2
 ---
 

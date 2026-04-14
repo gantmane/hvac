@@ -1,7 +1,9 @@
 ---
 title: "Fiber Moisture Pickup in Textile Processing"
+aliases: ["Fiber Moisture Pickup in Textile Processing"]
 description: "Technical analysis of fiber moisture regain, hygroscopic properties, and equilibrium moisture content in textile HVAC systems. Includes regain calculations and fiber-specific data."
 keywords: ["fiber moisture regain", "hygroscopic fibers", "equilibrium moisture content", "textile humidity control", "moisture absorption", "fiber conditioning", "textile HVAC", "regain calculation"]
+tags: ["fiber moisture regain", "hygroscopic fibers", "equilibrium moisture content", "textile humidity control", "moisture absorption", "fiber conditioning", "textile HVAC", "regain calculation"]
 weight: 3
 ---
 

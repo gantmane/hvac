@@ -1,7 +1,9 @@
 ---
 title: "HVAC Performance Trending & Analysis"
+aliases: ["HVAC Performance Trending & Analysis"]
 description: "Master performance trending techniques for HVAC systems including KPI tracking, baseline establishment, efficiency monitoring, and predictive analysis using ASHRAE guidelines."
 keywords: ["performance trending", "HVAC KPIs", "energy efficiency monitoring", "capacity trending", "predictive maintenance", "ASHRAE performance metrics", "baseline establishment", "trending analysis"]
+tags: ["performance trending", "HVAC KPIs", "energy efficiency monitoring", "capacity trending", "predictive maintenance", "ASHRAE performance metrics", "baseline establishment", "trending analysis"]
 weight: 6
 ---
 

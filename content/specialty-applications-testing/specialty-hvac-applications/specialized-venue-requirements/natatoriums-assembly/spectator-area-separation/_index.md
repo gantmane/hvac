@@ -1,7 +1,9 @@
 ---
 title: "Spectator Area Separation in Competitive Natatoriums"
+aliases: ["Spectator Area Separation in Competitive Natatoriums"]
 description: "Engineering strategies for effective physical and air separation between pool decks and spectator zones using pressure differentials, air curtains, and barrier systems."
 keywords: ["natatorium spectator separation", "pool deck air barriers", "pressure differential design", "air curtain sizing", "pool facility HVAC zoning", "spectator comfort control", "natatorium glass walls", "pool humidity control"]
+tags: ["natatorium spectator separation", "pool deck air barriers", "pressure differential design", "air curtain sizing", "pool facility HVAC zoning", "spectator comfort control", "natatorium glass walls", "pool humidity control"]
 weight: 3
 ---
 

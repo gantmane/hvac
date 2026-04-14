@@ -1,7 +1,9 @@
 ---
 title: "Post-Event Purge Systems for Variable Occupancy"
+aliases: ["Post-Event Purge Systems for Variable Occupancy"]
 description: "Technical analysis of post-event purge strategies for venues including air quality restoration, moisture removal, odor control, and energy recovery optimization."
 keywords: ["post-event purge", "air quality restoration", "venue ventilation", "odor removal HVAC", "moisture purge", "event space conditioning", "energy recovery purge", "assembly space ventilation"]
+tags: ["post-event purge", "air quality restoration", "venue ventilation", "odor removal HVAC", "moisture purge", "event space conditioning", "energy recovery purge", "assembly space ventilation"]
 weight: 4
 ---
 

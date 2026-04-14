@@ -1,5 +1,6 @@
 ---
 title: "Truck Trailer Tru"
+aliases: ["Truck Trailer Tru"]
 weight: 1
 ---
 

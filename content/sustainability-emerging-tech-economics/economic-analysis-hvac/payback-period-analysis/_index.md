@@ -1,5 +1,6 @@
 ---
 title: "Payback Period Analysis for HVAC Systems"
+aliases: ["Payback Period Analysis for HVAC Systems"]
 description: "Technical analysis of HVAC investment payback periods including simple and discounted methods, cash flow modeling, and energy savings calculations."
 date: 2025-01-05
 weight: 2

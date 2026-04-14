@@ -1,5 +1,6 @@
 ---
 title: "Poultry Processing Refrigeration Systems"
+aliases: ["Poultry Processing Refrigeration Systems"]
 description: "Technical analysis of refrigeration requirements for poultry processing facilities including chilling methods, cooling loads, temperature control, and USDA compliance standards."
 weight: 4
 ---

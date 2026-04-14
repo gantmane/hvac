@@ -1,7 +1,9 @@
 ---
 title: "Elementary School HVAC: Design for Young Learners"
+aliases: ["Elementary School HVAC: Design for Young Learners"]
 description: "Technical guide to HVAC systems for elementary schools covering age-appropriate design, safety features, simplified controls, classroom ventilation for ages 5-10, and child-safe equipment."
 keywords: ["elementary school HVAC", "classroom ventilation ages 5-8", "child-safe HVAC design", "primary school air quality", "kindergarten ventilation", "ASHRAE 62.1 elementary", "elementary school IAQ", "safe accessible controls"]
+tags: ["elementary school HVAC", "classroom ventilation ages 5-8", "child-safe HVAC design", "primary school air quality", "kindergarten ventilation", "ASHRAE 62.1 elementary", "elementary school IAQ", "safe accessible controls"]
 weight: 1
 ---
 

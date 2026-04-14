@@ -1,8 +1,10 @@
 ---
 title: "Geothermal Direct Use Applications"
+aliases: ["Geothermal Direct Use Applications"]
 weight: 3
 description: "Technical analysis of geothermal direct use applications including district heating systems, greenhouse operations, and aquaculture facilities with heat exchanger sizing methods."
 keywords: ["geothermal direct use", "district heating", "greenhouse heating", "aquaculture systems", "geothermal heat exchangers", "low-temperature geothermal", "cascaded use", "thermal water applications"]
+tags: ["geothermal direct use", "district heating", "greenhouse heating", "aquaculture systems", "geothermal heat exchangers", "low-temperature geothermal", "cascaded use", "thermal water applications"]
 ---
 
 Geothermal direct use harnesses low to moderate temperature geothermal resources (50-150°C) for heating applications without conversion to electricity. These systems provide cost-effective, sustainable thermal energy for space heating, industrial processes, agriculture, and aquaculture operations.

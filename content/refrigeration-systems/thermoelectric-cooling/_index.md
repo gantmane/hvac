@@ -1,5 +1,6 @@
 ---
 title: "Thermoelectric Cooling"
+aliases: ["Thermoelectric Cooling"]
 description: "Comprehensive analysis of thermoelectric cooling systems including Peltier effect principles, module construction, COP limitations, heat sink design, and applications in HVAC and electronics cooling"
 weight: 4
 ---

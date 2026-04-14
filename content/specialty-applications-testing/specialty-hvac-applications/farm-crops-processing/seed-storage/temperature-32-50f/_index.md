@@ -1,8 +1,10 @@
 ---
 title: "Cold Storage Temperature Control for Seed Preservation"
+aliases: ["Cold Storage Temperature Control for Seed Preservation"]
 seo_title: "Seed Storage Temperature 32-50°F: HVAC Design Guide"
 description: "Engineering analysis of 32-50°F temperature control for seed storage facilities. Physics-based HVAC design for optimal seed viability preservation and respiration control."
 keywords: ["seed storage temperature", "cold seed storage", "seed viability control", "refrigerated seed storage", "seed respiration rate", "seed preservation HVAC", "agricultural cold storage", "seed longevity temperature"]
+tags: ["seed storage temperature", "cold seed storage", "seed viability control", "refrigerated seed storage", "seed respiration rate", "seed preservation HVAC", "agricultural cold storage", "seed longevity temperature"]
 weight: 2
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Subway Rail Car AC Systems Design"
+aliases: ["Subway Rail Car AC Systems Design"]
 description: "Technical analysis of subway air conditioning systems including tunnel heat rejection, high-density cooling loads, reliability architecture, and capacity calculations."
 keywords: ["subway AC systems", "rail car air conditioning", "tunnel heat rejection", "metro cooling", "underground transit HVAC", "subway cooling capacity", "transit AC reliability", "rail HVAC design"]
+tags: ["subway AC systems", "rail car air conditioning", "tunnel heat rejection", "metro cooling", "underground transit HVAC", "subway cooling capacity", "transit AC reliability", "rail HVAC design"]
 weight: 1
 ---
 

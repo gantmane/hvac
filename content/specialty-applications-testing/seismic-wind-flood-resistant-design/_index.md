@@ -1,7 +1,9 @@
 ---
 title: "HVAC Seismic, Wind & Flood Resistant Design"
+aliases: ["HVAC Seismic, Wind & Flood Resistant Design"]
 description: "Comprehensive design strategies for HVAC equipment resilience against seismic events, wind loads, and flooding based on ASCE 7, IBC, and ASHRAE standards."
 keywords: ["seismic design", "wind resistant HVAC", "flood protection", "ASCE 7", "equipment bracing", "resilient design", "natural hazard mitigation", "structural loads"]
+tags: ["seismic design", "wind resistant HVAC", "flood protection", "ASCE 7", "equipment bracing", "resilient design", "natural hazard mitigation", "structural loads"]
 weight: 3
 ---
 

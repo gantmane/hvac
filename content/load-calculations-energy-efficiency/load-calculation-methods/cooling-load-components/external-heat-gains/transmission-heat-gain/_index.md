@@ -1,5 +1,6 @@
 ---
 title: "Transmission Heat Gain"
+aliases: ["Transmission Heat Gain"]
 description: "Engineering analysis of conductive heat transfer through building envelope components including walls, roofs, floors, and thermal bridging effects on cooling loads."
 weight: 2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Addendum Tracking"
+aliases: ["Addendum Tracking"]
 weight: 3
 ---
 

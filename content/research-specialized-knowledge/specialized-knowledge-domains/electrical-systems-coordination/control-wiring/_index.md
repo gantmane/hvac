@@ -1,5 +1,6 @@
 ---
 title: "Control Wiring"
+aliases: ["Control Wiring"]
 description: "Low voltage control wiring design, signal integrity, shielding requirements, and EMI/RFI mitigation strategies for HVAC control systems"
 weight: 2
 ---

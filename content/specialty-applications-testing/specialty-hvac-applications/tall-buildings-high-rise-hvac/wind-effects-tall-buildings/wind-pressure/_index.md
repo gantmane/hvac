@@ -1,8 +1,10 @@
 ---
 title: "Wind Pressure Effects on Tall Buildings"
+aliases: ["Wind Pressure Effects on Tall Buildings"]
 weight: 1
 description: "Wind pressure distributions, pressure coefficients, and impacts on HVAC infiltration, ventilation, and outdoor air intake design for high-rise buildings."
 keywords: ["wind pressure coefficients", "windward leeward pressure", "stack effect", "infiltration high-rise", "outdoor air intake", "ASCE 7", "building pressurization", "tall building ventilation"]
+tags: ["wind pressure coefficients", "windward leeward pressure", "stack effect", "infiltration high-rise", "outdoor air intake", "ASCE 7", "building pressurization", "tall building ventilation"]
 ---
 
 ## Overview

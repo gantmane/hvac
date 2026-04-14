@@ -1,7 +1,9 @@
 ---
 title: "Condensers: Heat Rejection in Refrigeration Systems"
+aliases: ["Condensers: Heat Rejection in Refrigeration Systems"]
 description: "Comprehensive technical guide to HVAC condensers including air-cooled, water-cooled, and evaporative designs. Covers heat rejection calculations, AHRI standards, and design considerations."
 keywords: ["condenser", "heat rejection", "air-cooled condenser", "water-cooled condenser", "shell-and-tube", "plate heat exchanger", "evaporative condenser", "AHRI standards"]
+tags: ["condenser", "heat rejection", "air-cooled condenser", "water-cooled condenser", "shell-and-tube", "plate heat exchanger", "evaporative condenser", "AHRI standards"]
 weight: 4
 ---
 

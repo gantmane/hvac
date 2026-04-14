@@ -1,5 +1,6 @@
 ---
 title: "Enhanced Filtration Strategies"
+aliases: ["Enhanced Filtration Strategies"]
 weight: 2
 ---
 

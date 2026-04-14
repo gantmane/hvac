@@ -1,7 +1,9 @@
 ---
 title: "HVAC for Arenas and Stadiums"
+aliases: ["HVAC for Arenas and Stadiums"]
 description: "Engineering large-scale HVAC systems for sports venues and entertainment facilities, covering load calculations, stratification control, and life safety integration."
 keywords: ["arena HVAC", "stadium ventilation", "sports venue conditioning", "assembly occupancy HVAC", "large venue air distribution", "stratification control", "arena load calculations", "multi-purpose facility HVAC"]
+tags: ["arena HVAC", "stadium ventilation", "sports venue conditioning", "assembly occupancy HVAC", "large venue air distribution", "stratification control", "arena load calculations", "multi-purpose facility HVAC"]
 weight: 2
 ---
 

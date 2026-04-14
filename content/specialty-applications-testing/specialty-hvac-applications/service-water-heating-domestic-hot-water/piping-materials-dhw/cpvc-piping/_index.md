@@ -1,7 +1,9 @@
 ---
 title: "CPVC Piping for Domestic Hot Water Systems"
+aliases: ["CPVC Piping for Domestic Hot Water Systems"]
 description: "Comprehensive guide to CPVC piping materials, pressure-temperature ratings, solvent welding, thermal expansion calculations, and code compliance for DHW applications."
 keywords: ["CPVC piping", "chlorinated polyvinyl chloride", "domestic hot water", "solvent welding", "ASTM F441", "thermal expansion", "plumbing materials", "water distribution"]
+tags: ["CPVC piping", "chlorinated polyvinyl chloride", "domestic hot water", "solvent welding", "ASTM F441", "thermal expansion", "plumbing materials", "water distribution"]
 weight: 2
 ---
 

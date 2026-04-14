@@ -1,5 +1,6 @@
 ---
 title: "Water Viscosity"
+aliases: ["Water Viscosity"]
 description: "Comprehensive analysis of dynamic and kinematic viscosity of water including temperature relationships, empirical correlations, property tables, and applications to pressure drop calculations in HVAC hydronic systems"
 weight: 2
 ---

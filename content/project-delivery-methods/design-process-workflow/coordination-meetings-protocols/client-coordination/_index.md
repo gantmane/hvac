@@ -1,5 +1,6 @@
 ---
 title: "Client Coordination"
+aliases: ["Client Coordination"]
 description: "Owner and client coordination procedures for HVAC design including progress meetings, milestone presentations, design review submissions, approval processes, and end-user input sessions."
 weight: 2
 ---

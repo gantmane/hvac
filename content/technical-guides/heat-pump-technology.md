@@ -2,6 +2,7 @@
 title: "Heat Pump Technology for HVAC Engineers"
 description: "Air-source and ground-source heat pumps, COP and HSPF metrics, balance point analysis, and supplemental heating requirements for efficient space conditioning."
 keywords: ["heat pump", "COP", "HSPF", "geothermal heat pump", "air source heat pump", "balance point", "supplemental heat"]
+tags: ["heat pump", "COP", "HSPF", "geothermal heat pump", "air source heat pump", "balance point", "supplemental heat"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 9
@@ -100,9 +101,9 @@ $$T_{balance} = T_{indoor} - \frac{Q_{design}}{UA_{building}}$$
 ---
 
 **Related Technical Guides:**
-- [Thermodynamic Cycles](/technical-guides/thermodynamic-cycles/)
-- [Heating Load Calculations](/technical-guides/heating-load-calculations/)
-- [Refrigeration Cycle Design](/technical-guides/refrigeration-cycle-design/)
+- Thermodynamic Cycles
+- Heating Load Calculations
+- Refrigeration Cycle Design
 
 **References:**
 - ASHRAE Handbook of HVAC Systems and Equipment, Chapter 9: Air-Source Heat Pumps

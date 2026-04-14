@@ -1,7 +1,9 @@
 ---
 title: "Pressure Zones in Tall Building Piping Systems"
+aliases: ["Pressure Zones in Tall Building Piping Systems"]
 description: "Engineering analysis of hydrostatic pressure management in high-rise HVAC systems, including zone break points, pressure-reducing stations, and equipment protection strategies."
 keywords: ["pressure zones", "hydrostatic pressure", "high-rise HVAC", "pressure reducing valves", "system compartmentalization", "tall building piping", "equipment pressure ratings", "zone breaks"]
+tags: ["pressure zones", "hydrostatic pressure", "high-rise HVAC", "pressure reducing valves", "system compartmentalization", "tall building piping", "equipment pressure ratings", "zone breaks"]
 weight: 4
 ---
 

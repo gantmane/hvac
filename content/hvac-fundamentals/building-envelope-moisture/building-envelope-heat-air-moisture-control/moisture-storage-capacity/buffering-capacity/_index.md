@@ -1,5 +1,6 @@
 ---
 title: "Buffering Capacity"
+aliases: ["Buffering Capacity"]
 description: "Moisture buffering capacity in building materials including RH fluctuation dampening, moisture buffer value, effective penetration depth, diurnal and seasonal buffering, and hygric inertia effects."
 weight: 2
 ---

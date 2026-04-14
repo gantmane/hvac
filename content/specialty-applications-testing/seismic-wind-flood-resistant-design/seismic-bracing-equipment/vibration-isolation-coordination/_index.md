@@ -1,5 +1,6 @@
 ---
 title: "Vibration Isolation and Seismic Restraint Coordination"
+aliases: ["Vibration Isolation and Seismic Restraint Coordination"]
 description: "Technical guidance on coordinating vibration isolation systems with seismic restraints, including isolator selection, gap sizing, and restraint placement calculations."
 date: 2025-01-05
 weight: 4

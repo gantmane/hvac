@@ -1,5 +1,6 @@
 ---
 title: "Refrigerated Seawater (RSW) Systems"
+aliases: ["Refrigerated Seawater (RSW) Systems"]
 description: "Comprehensive technical analysis of refrigerated seawater systems for marine fishery applications including system design, heat transfer calculations, refrigeration system sizing, and vessel integration for HVAC professionals."
 weight: 3
 ---

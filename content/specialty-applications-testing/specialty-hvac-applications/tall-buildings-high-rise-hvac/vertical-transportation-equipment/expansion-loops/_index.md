@@ -1,7 +1,9 @@
 ---
 title: "Expansion Loops in High-Rise HVAC Risers"
+aliases: ["Expansion Loops in High-Rise HVAC Risers"]
 description: "Engineering guide to thermal expansion compensation in tall building piping systems covering loop design calculations, expansion joint selection, and anchor/guide spacing."
 keywords: ["thermal expansion", "expansion loops", "high-rise piping", "riser design", "pipe anchors", "expansion joints", "building movement", "piping flexibility"]
+tags: ["thermal expansion", "expansion loops", "high-rise piping", "riser design", "pipe anchors", "expansion joints", "building movement", "piping flexibility"]
 weight: 3
 ---
 

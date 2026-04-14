@@ -1,5 +1,6 @@
 ---
 title: "Cultural Thermal Comfort Expectations in HVAC Design"
+aliases: ["Cultural Thermal Comfort Expectations in HVAC Design"]
 description: "Comprehensive analysis of cross-cultural thermal comfort preferences, adaptive comfort models, regional temperature expectations, and clothing insulation effects per ASHRAE 55 and ISO 7730."
 keywords:
   - cultural thermal comfort

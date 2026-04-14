@@ -1,8 +1,10 @@
 ---
 title: "Pool Deck Heating System Selection Guide"
+aliases: ["Pool Deck Heating System Selection Guide"]
 weight: 4
 description: "Engineering guide to selecting pool deck heating systems comparing hydronic radiant, electric radiant, and warm air systems based on efficiency, cost, and performance criteria."
 keywords: ["pool deck heating", "radiant floor heating", "hydronic vs electric heating", "natatorium heating systems", "deck heating selection", "radiant heating comparison", "pool heating efficiency", "ASHRAE pool heating"]
+tags: ["pool deck heating", "radiant floor heating", "hydronic vs electric heating", "natatorium heating systems", "deck heating selection", "radiant heating comparison", "pool heating efficiency", "ASHRAE pool heating"]
 ---
 
 ## System Selection Overview

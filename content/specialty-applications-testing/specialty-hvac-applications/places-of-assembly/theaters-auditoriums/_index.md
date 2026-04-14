@@ -1,7 +1,9 @@
 ---
 title: "Theater & Auditorium HVAC Design"
+aliases: ["Theater & Auditorium HVAC Design"]
 description: "Engineering approaches for theater and auditorium climate control including acoustic integration, rapid pulldown, occupancy variation management, and zone separation strategies."
 keywords: ["theater HVAC", "auditorium ventilation", "performing arts center", "acoustic HVAC design", "occupancy load variation", "lobby conditioning", "quick pulldown", "NC criteria"]
+tags: ["theater HVAC", "auditorium ventilation", "performing arts center", "acoustic HVAC design", "occupancy load variation", "lobby conditioning", "quick pulldown", "NC criteria"]
 weight: 1
 ---
 

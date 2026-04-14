@@ -1,7 +1,9 @@
 ---
 title: "Occupancy Loads"
+aliases: ["Occupancy Loads"]
 description: "Calculation of sensible and latent heat gains from building occupants for HVAC cooling load analysis and ventilation design."
 keywords: ["occupancy loads", "metabolic heat", "sensible heat", "latent heat", "people load", "heat gain", "HVAC design"]
+tags: ["occupancy loads", "metabolic heat", "sensible heat", "latent heat", "people load", "heat gain", "HVAC design"]
 weight: 3
 ---
 

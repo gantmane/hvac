@@ -1,7 +1,9 @@
 ---
 title: "Stage Lighting Heat Loads in Theaters"
+aliases: ["Stage Lighting Heat Loads in Theaters"]
 description: "Engineering analysis of theatrical lighting heat gains, LED vs conventional fixture loads, lighting grid ventilation requirements, and dimming system thermal impacts."
 keywords: ["stage lighting heat load", "theatrical lighting HVAC", "LED theater lighting", "lighting grid ventilation", "dimmer heat gain", "catwalk ventilation", "performer thermal comfort", "lighting wattage calculation"]
+tags: ["stage lighting heat load", "theatrical lighting HVAC", "LED theater lighting", "lighting grid ventilation", "dimmer heat gain", "catwalk ventilation", "performer thermal comfort", "lighting wattage calculation"]
 weight: 5
 ---
 
@@ -169,4 +171,4 @@ The heat stress index in these elevated spaces accounts for metabolic work rate 
 
 ---
 
-**Related Topics:** [Theater Ventilation Systems](/specialty-applications-testing/specialty-hvac-applications/places-of-assembly/theaters-auditoriums/), [Dimmer Room Cooling](/specialty-applications-testing/specialty-hvac-applications/places-of-assembly/theaters-auditoriums/), [Occupant Thermal Comfort](/fundamentals/)
+**Related Topics:** [Theater Ventilation Systems](../../../../../specialty-applications-testing/specialty-hvac-applications/places-of-assembly/theaters-auditoriums/_index.md), [Dimmer Room Cooling](../../../../../specialty-applications-testing/specialty-hvac-applications/places-of-assembly/theaters-auditoriums/_index.md), Occupant Thermal Comfort

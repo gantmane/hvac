@@ -2,6 +2,7 @@
 title: "Chiller Performance Analysis for HVAC Engineers"
 description: "Efficiency metrics (kW/ton, COP, IPLV), part-load performance, condenser water optimization, and free cooling integration for chilled water systems."
 keywords: ["chiller efficiency", "kW per ton", "IPLV", "chiller COP", "condenser water", "free cooling", "chiller performance"]
+tags: ["chiller efficiency", "kW per ton", "IPLV", "chiller COP", "condenser water", "free cooling", "chiller performance"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 14
@@ -95,9 +96,9 @@ Typical: 10°F range, 7-10°F approach
 ---
 
 **Related Technical Guides:**
-- [Thermodynamic Cycles](/technical-guides/thermodynamic-cycles/)
-- [Cooling Tower Performance](/technical-guides/cooling-tower-performance/)
-- [Variable Flow System Design](/technical-guides/variable-flow-system-design/)
+- Thermodynamic Cycles
+- Cooling Tower Performance
+- Variable Flow System Design
 
 **References:**
 - ASHRAE Handbook of HVAC Systems and Equipment, Chapter 38: Compressors

@@ -1,5 +1,6 @@
 ---
 title: "Indoor Air Chemistry"
+aliases: ["Indoor Air Chemistry"]
 weight: 5
 ---
 

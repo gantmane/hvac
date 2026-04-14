@@ -1,5 +1,6 @@
 ---
 title: "Carbonation in Soft Drink Production"
+aliases: ["Carbonation in Soft Drink Production"]
 description: "Refrigeration systems and thermal control for beverage carbonation, including CO2 dissolution principles, carbonator cooling, temperature-pressure relationships, and energy-efficient system design for soft drink manufacturing"
 weight: 2
 ---

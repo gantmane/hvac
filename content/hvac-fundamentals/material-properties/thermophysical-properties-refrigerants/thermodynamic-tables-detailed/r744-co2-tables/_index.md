@@ -1,5 +1,6 @@
 ---
 title: "R744 Co2 Tables"
+aliases: ["R744 Co2 Tables"]
 weight: 4
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Controls & Automation"
+aliases: ["Controls & Automation"]
 weight: 3
 ---
 

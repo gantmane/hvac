@@ -1,5 +1,6 @@
 ---
 title: "Duct Liner Insulation"
+aliases: ["Duct Liner Insulation"]
 weight: 4
 ---
 

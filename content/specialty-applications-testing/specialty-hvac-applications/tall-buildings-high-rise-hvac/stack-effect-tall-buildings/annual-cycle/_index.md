@@ -1,7 +1,9 @@
 ---
 title: "Annual Stack Effect Cycle in Tall Buildings"
+aliases: ["Annual Stack Effect Cycle in Tall Buildings"]
 description: "Analysis of seasonal stack effect variations in high-rise buildings, including winter maximum, summer reversal, and transition period pressure challenges."
 keywords: ["stack effect seasonal variation", "winter stack effect", "summer stack reversal", "neutral plane shift", "tall building pressure cycles", "HVAC pressure control", "stack effect climate zones", "building pressure management"]
+tags: ["stack effect seasonal variation", "winter stack effect", "summer stack reversal", "neutral plane shift", "tall building pressure cycles", "HVAC pressure control", "stack effect climate zones", "building pressure management"]
 weight: 4
 ---
 

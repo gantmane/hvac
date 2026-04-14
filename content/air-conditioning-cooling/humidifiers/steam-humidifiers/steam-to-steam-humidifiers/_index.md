@@ -1,5 +1,6 @@
 ---
 title: "Steam-to-Steam Humidifiers"
+aliases: ["Steam-to-Steam Humidifiers"]
 description: "Comprehensive guide to steam-to-steam humidifiers utilizing building steam sources, pressure reducing valves, dispersion tube design, condensate management, and applications in institutional healthcare facilities."
 weight: 4
 ---

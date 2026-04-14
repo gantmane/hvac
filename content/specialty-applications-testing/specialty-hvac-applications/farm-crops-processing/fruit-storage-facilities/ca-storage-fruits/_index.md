@@ -1,8 +1,10 @@
 ---
 title: "Controlled Atmosphere Storage for Fruits"
+aliases: ["Controlled Atmosphere Storage for Fruits"]
 seo_title: "CA Storage Systems: Fruit Preservation Engineering"
 description: "Technical analysis of controlled atmosphere storage for fruits covering gas concentration management, respiration control, and storage life extension principles."
 keywords: ["controlled atmosphere storage", "CA storage fruits", "oxygen reduction", "respiration rate control", "ethylene management", "fruit storage engineering", "gas concentration control", "storage life extension"]
+tags: ["controlled atmosphere storage", "CA storage fruits", "oxygen reduction", "respiration rate control", "ethylene management", "fruit storage engineering", "gas concentration control", "storage life extension"]
 weight: 1
 ---
 

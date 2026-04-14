@@ -1,5 +1,6 @@
 ---
 title: "Service Water Heating and Domestic Hot Water Systems"
+aliases: ["Service Water Heating and Domestic Hot Water Systems"]
 description: "Comprehensive design guidance for domestic hot water and service water heating systems including equipment types, distribution methods, temperature control, Legionella prevention, and energy efficiency per ASHRAE Applications Chapter 51."
 weight: 37
 ---

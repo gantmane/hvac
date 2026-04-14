@@ -1,5 +1,6 @@
 ---
 title: "Beef Aging Requirements"
+aliases: ["Beef Aging Requirements"]
 description: "HVAC environmental control specifications for beef aging operations including dry aging temperature, humidity control, air circulation patterns, microbial management, and quality development parameters for premium meat processing facilities."
 weight: 2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Ground Beef Production HVAC Systems"
+aliases: ["Ground Beef Production HVAC Systems"]
 description: "Technical specifications for HVAC and refrigeration systems in ground beef production facilities including temperature control, microbial suppression, equipment heat loads, and USDA FSIS compliance requirements."
 weight: 4
 ---

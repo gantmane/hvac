@@ -1,5 +1,6 @@
 ---
 title: "Hospitality Facilities HVAC Systems"
+aliases: ["Hospitality Facilities HVAC Systems"]
 description: "Engineering design principles for hotel and motel HVAC systems including guest comfort, energy efficiency, and operational flexibility."
 date: "2026-01-04"
 weight: 17

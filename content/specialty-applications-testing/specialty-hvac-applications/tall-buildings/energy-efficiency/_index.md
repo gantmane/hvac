@@ -1,5 +1,6 @@
 ---
 title: "Energy Efficiency in Tall Buildings"
+aliases: ["Energy Efficiency in Tall Buildings"]
 description: "Energy optimization strategies, stack effect utilization, heat recovery, system efficiency, and performance monitoring for high-rise HVAC systems."
 date: "2026-01-04"
 weight: 10

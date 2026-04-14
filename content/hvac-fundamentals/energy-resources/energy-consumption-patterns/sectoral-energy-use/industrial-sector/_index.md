@@ -1,7 +1,9 @@
 ---
 title: "Industrial Sector Energy Consumption Patterns"
+aliases: ["Industrial Sector Energy Consumption Patterns"]
 description: "Industrial energy use accounts for 33% of U.S. primary energy. Process heating dominates at 40%, while HVAC represents 10-15%, with significant waste heat recovery potential."
 keywords: ["industrial energy use", "process heating", "waste heat recovery", "industrial HVAC", "MECS data", "combined heat power", "industrial energy efficiency", "thermal energy management"]
+tags: ["industrial energy use", "process heating", "waste heat recovery", "industrial HVAC", "MECS data", "combined heat power", "industrial energy efficiency", "thermal energy management"]
 weight: 3
 ---
 

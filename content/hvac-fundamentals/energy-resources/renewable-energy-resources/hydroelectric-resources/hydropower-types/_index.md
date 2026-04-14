@@ -1,8 +1,10 @@
 ---
 title: "Hydropower Types and Classification Systems"
+aliases: ["Hydropower Types and Classification Systems"]
 weight: 1
 description: "Technical analysis of hydropower generation systems including impoundment, run-of-river, and pumped storage configurations with power calculation methods and performance characteristics."
 keywords: ["hydropower types", "run-of-river", "pumped storage", "impoundment systems", "hydroelectric power", "renewable energy", "energy storage", "water turbines"]
+tags: ["hydropower types", "run-of-river", "pumped storage", "impoundment systems", "hydroelectric power", "renewable energy", "energy storage", "water turbines"]
 ---
 
 ## Hydropower Classification Overview
@@ -183,9 +185,9 @@ Seasonal head variation affects output in impoundment facilities. Lower reservoi
 ---
 
 **Related Topics:**
-- [Reservoir Storage Regulation](/hvac-fundamentals/energy-resources/renewable-energy-resources/hydroelectric-resources/hydropower-types/reservoir-storage-regulation/)
-- [Pumped Storage Energy Storage](/hvac-fundamentals/energy-resources/renewable-energy-resources/hydroelectric-resources/hydropower-types/pumped-storage-energy-storage/)
-- [Hydroelectric Turbines](/hvac-fundamentals/energy-resources/renewable-energy-resources/hydroelectric-resources/hydroelectric-turbines/)
+- Reservoir Storage Regulation
+- Pumped Storage Energy Storage
+- Hydroelectric Turbines
 
 **References:**
 - U.S. Department of Energy - Water Power Technologies Office

@@ -1,7 +1,9 @@
 ---
 title: "School Cafeteria HVAC Design: Kitchen Exhaust and Dining Area Climate Control"
+aliases: ["School Cafeteria HVAC Design: Kitchen Exhaust and Dining Area Climate Control"]
 description: "Comprehensive guide to school cafeteria HVAC systems including kitchen exhaust hood design, makeup air requirements, grease removal, dining area comfort, odor control, and NFPA 96 compliance for educational facilities."
 keywords: ["school cafeteria HVAC", "kitchen exhaust design", "makeup air requirements", "NFPA 96", "grease removal systems", "dining area ventilation", "odor control", "Type I hood", "commercial kitchen ventilation", "educational facility HVAC"]
+tags: ["school cafeteria HVAC", "kitchen exhaust design", "makeup air requirements", "NFPA 96", "grease removal systems", "dining area ventilation", "odor control", "Type I hood", "commercial kitchen ventilation", "educational facility HVAC"]
 weight: 6
 ---
 

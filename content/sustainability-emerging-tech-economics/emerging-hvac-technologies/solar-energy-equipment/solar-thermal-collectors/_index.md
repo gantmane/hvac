@@ -1,5 +1,6 @@
 ---
 title: "Solar Thermal Collectors for HVAC Systems"
+aliases: ["Solar Thermal Collectors for HVAC Systems"]
 description: "Technical analysis of solar thermal collector types, optical and thermal performance physics, efficiency testing per ASHRAE 93, and collector selection methodology."
 keywords:
   - solar thermal collectors

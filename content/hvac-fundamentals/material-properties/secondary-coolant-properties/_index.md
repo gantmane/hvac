@@ -1,5 +1,6 @@
 ---
 title: "Secondary Coolant Properties"
+aliases: ["Secondary Coolant Properties"]
 description: "Thermophysical properties of secondary coolants, brines, and heat transfer fluids including glycol solutions, calcium chloride, and sodium chloride brines for indirect refrigeration system design."
 weight: 2
 ---

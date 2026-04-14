@@ -1,5 +1,6 @@
 ---
 title: "Personalized Ventilation"
+aliases: ["Personalized Ventilation"]
 weight: 4
 ---
 

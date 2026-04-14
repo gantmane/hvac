@@ -1,7 +1,9 @@
 ---
 title: "Vertical Zoning in High-Rise Buildings"
+aliases: ["Vertical Zoning in High-Rise Buildings"]
 description: "Technical analysis of vertical HVAC zoning strategies for tall buildings including static pressure limitations, zone height calculations, and mechanical floor placement."
 keywords: ["vertical zoning", "high-rise HVAC", "static pressure", "mechanical floors", "zone transitions", "tall building design", "pressure limitations", "diversity factors"]
+tags: ["vertical zoning", "high-rise HVAC", "static pressure", "mechanical floors", "zone transitions", "tall building design", "pressure limitations", "diversity factors"]
 weight: 6
 ---
 

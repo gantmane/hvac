@@ -1,8 +1,10 @@
 ---
 title: "Dyehouse Ventilation Systems Design"
+aliases: ["Dyehouse Ventilation Systems Design"]
 weight: 1
 description: "Engineering guide for dyehouse ventilation design, chemical vapor control, heat removal, and worker comfort in textile dyeing and finishing operations per ACGIH guidelines."
 keywords: ["dyehouse ventilation", "textile HVAC", "chemical vapor control", "industrial ventilation design", "dyeing process ventilation", "ACGIH industrial ventilation", "textile plant HVAC", "dyehouse exhaust systems"]
+tags: ["dyehouse ventilation", "textile HVAC", "chemical vapor control", "industrial ventilation design", "dyeing process ventilation", "ACGIH industrial ventilation", "textile plant HVAC", "dyehouse exhaust systems"]
 ---
 
 ## Overview

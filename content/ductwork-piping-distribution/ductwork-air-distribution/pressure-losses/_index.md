@@ -1,5 +1,6 @@
 ---
 title: "Pressure Losses"
+aliases: ["Pressure Losses"]
 weight: 5
 ---
 

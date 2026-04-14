@@ -1,7 +1,9 @@
 ---
 title: "Longitudinal Tunnel Ventilation Systems"
+aliases: ["Longitudinal Tunnel Ventilation Systems"]
 description: "Comprehensive analysis of longitudinal tunnel ventilation including jet fan design, thrust calculations, critical velocity, piston effect, and emergency fire operations per NFPA 502."
 keywords: ["longitudinal ventilation", "jet fan design", "tunnel thrust calculations", "critical velocity", "piston effect", "NFPA 502", "tunnel fire ventilation", "vehicular tunnel HVAC"]
+tags: ["longitudinal ventilation", "jet fan design", "tunnel thrust calculations", "critical velocity", "piston effect", "NFPA 502", "tunnel fire ventilation", "vehicular tunnel HVAC"]
 weight: 1
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Packaging Requirements for Cold Storage Fish"
+aliases: ["Packaging Requirements for Cold Storage Fish"]
 description: "Comprehensive technical specifications for fish packaging materials, moisture and oxygen barriers, glazing systems, vacuum and MAP packaging, and material selection for frozen seafood storage applications"
 weight: 3
 ---

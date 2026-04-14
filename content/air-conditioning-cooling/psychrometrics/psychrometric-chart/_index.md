@@ -1,5 +1,6 @@
 ---
 title: "Psychrometric Chart"
+aliases: ["Psychrometric Chart"]
 description: "Understanding psychrometric chart construction, reading techniques, interpretation of air properties, and practical applications in HVAC design."
 date: "2026-01-04"
 weight: 1

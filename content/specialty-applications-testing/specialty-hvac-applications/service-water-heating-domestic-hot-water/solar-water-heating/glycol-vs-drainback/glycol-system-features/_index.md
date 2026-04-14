@@ -1,7 +1,9 @@
 ---
 title: "Glycol System Features for Solar Water Heating"
+aliases: ["Glycol System Features for Solar Water Heating"]
 description: "Technical analysis of propylene glycol solar thermal systems including freeze protection physics, heat transfer degradation, thermal properties, and maintenance protocols."
 keywords: ["glycol solar systems", "propylene glycol", "solar antifreeze", "closed loop solar", "freeze protection", "glycol degradation", "solar heat exchanger", "thermal fluid properties"]
+tags: ["glycol solar systems", "propylene glycol", "solar antifreeze", "closed loop solar", "freeze protection", "glycol degradation", "solar heat exchanger", "thermal fluid properties"]
 weight: 1
 ---
 

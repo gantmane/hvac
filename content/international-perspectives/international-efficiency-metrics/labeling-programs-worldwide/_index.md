@@ -1,5 +1,6 @@
 ---
 title: "Energy Labeling Programs Worldwide"
+aliases: ["Energy Labeling Programs Worldwide"]
 description: "Global HVAC energy labeling schemes, comparative ratings, measurement standards, consumer information requirements, and regulatory frameworks across regions."
 date: 2025-01-05
 tags: ["energy labeling", "efficiency ratings", "international standards", "consumer information", "regulatory compliance"]

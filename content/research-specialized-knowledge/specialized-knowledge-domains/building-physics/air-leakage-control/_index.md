@@ -1,5 +1,6 @@
 ---
 title: "Air Leakage Control"
+aliases: ["Air Leakage Control"]
 weight: 3
 ---
 

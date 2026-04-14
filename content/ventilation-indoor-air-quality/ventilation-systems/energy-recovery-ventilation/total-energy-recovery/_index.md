@@ -1,8 +1,10 @@
 ---
 title: "Total Energy Recovery: Sensible and Latent Transfer"
+aliases: ["Total Energy Recovery: Sensible and Latent Transfer"]
 description: "Comprehensive analysis of total energy recovery systems including energy wheels, membrane exchangers, and desiccant systems with effectiveness calculations per ASHRAE 84."
 date: 2025-01-05
 keywords: ["total energy recovery", "enthalpy wheel", "energy recovery wheel", "membrane heat exchanger", "desiccant energy recovery", "ASHRAE Standard 84", "total effectiveness", "latent heat recovery"]
+tags: ["total energy recovery", "enthalpy wheel", "energy recovery wheel", "membrane heat exchanger", "desiccant energy recovery", "ASHRAE Standard 84", "total effectiveness", "latent heat recovery"]
 weight: 2
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Archive Storage Conditions & HVAC Requirements"
+aliases: ["Archive Storage Conditions & HVAC Requirements"]
 description: "Technical guide to HVAC systems for archival storage including temperature, humidity, and air quality requirements for paper, film, and magnetic media preservation."
 keywords: ["archive storage HVAC", "cold storage archives", "film storage conditions", "magnetic media preservation", "archival humidity control", "ASHRAE archive standards", "archival air filtration", "collection storage climate"]
+tags: ["archive storage HVAC", "cold storage archives", "film storage conditions", "magnetic media preservation", "archival humidity control", "ASHRAE archive standards", "archival air filtration", "collection storage climate"]
 weight: 3
 ---
 

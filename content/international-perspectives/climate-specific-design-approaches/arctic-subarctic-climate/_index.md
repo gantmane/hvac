@@ -1,5 +1,6 @@
 ---
 title: "Arctic and Subarctic Climate HVAC Design"
+aliases: ["Arctic and Subarctic Climate HVAC Design"]
 description: "Comprehensive guide to HVAC system design for extreme cold climates including heat loss calculations, permafrost considerations, cold climate heat pumps, and ventilation heat recovery strategies."
 date: 2026-01-05
 keywords:

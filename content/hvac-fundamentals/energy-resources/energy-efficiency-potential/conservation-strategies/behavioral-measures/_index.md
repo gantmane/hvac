@@ -1,5 +1,6 @@
 ---
 title: "Behavioral Measures"
+aliases: ["Behavioral Measures"]
 weight: 1
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Cooling Load Components"
+aliases: ["Cooling Load Components"]
 description: "Detailed analysis of cooling load components including external heat gains, internal loads, ventilation requirements, and thermal mass effects for comprehensive HVAC load calculations."
 weight: 1
 ---

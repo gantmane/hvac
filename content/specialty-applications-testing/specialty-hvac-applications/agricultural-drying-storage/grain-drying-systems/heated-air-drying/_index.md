@@ -1,7 +1,9 @@
 ---
 title: "Heated Air Grain Drying Systems"
+aliases: ["Heated Air Grain Drying Systems"]
 description: "Engineering principles of heated air grain drying including temperature limits, heat sources, air temperature rise calculations, energy efficiency, and over-drying prevention."
 keywords: ["heated air drying", "grain drying temperature", "drying efficiency", "heat sources", "grain quality", "energy consumption", "drying systems", "agricultural HVAC"]
+tags: ["heated air drying", "grain drying temperature", "drying efficiency", "heat sources", "grain quality", "energy consumption", "drying systems", "agricultural HVAC"]
 date: 2025-01-11
 weight: 5
 draft: false

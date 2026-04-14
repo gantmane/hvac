@@ -1,7 +1,9 @@
 ---
 title: "Radiation Protection in Fuel Handling HVAC Systems"
+aliases: ["Radiation Protection in Fuel Handling HVAC Systems"]
 description: "Physics-based analysis of ALARA principles, dose rate calculations, ductwork shielding, contamination control, and area monitoring in nuclear fuel handling ventilation."
 keywords: ["radiation protection HVAC", "ALARA principles", "dose rate calculations", "ductwork shielding", "contamination containment", "nuclear ventilation", "personnel exposure control", "10 CFR 20"]
+tags: ["radiation protection HVAC", "ALARA principles", "dose rate calculations", "ductwork shielding", "contamination containment", "nuclear ventilation", "personnel exposure control", "10 CFR 20"]
 weight: 4
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Steam & Moisture Removal in Textile Dyeing"
+aliases: ["Steam & Moisture Removal in Textile Dyeing"]
 weight: 2
 description: "Engineering guide for steam exhaust systems, condensation prevention, and moisture removal in textile dyeing and finishing operations with ventilation calculations."
 keywords: ["steam exhaust", "moisture removal", "textile dyeing ventilation", "canopy hood design", "condensation prevention", "makeup air systems", "dyeing equipment exhaust", "finishing plant HVAC"]
+tags: ["steam exhaust", "moisture removal", "textile dyeing ventilation", "canopy hood design", "condensation prevention", "makeup air systems", "dyeing equipment exhaust", "finishing plant HVAC"]
 ---
 
 ## Overview

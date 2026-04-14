@@ -1,9 +1,11 @@
 ---
 title: "Paper Moisture Equilibrium in Conditioning"
+aliases: ["Paper Moisture Equilibrium in Conditioning"]
 linkTitle: "Moisture Equilibrium"
 weight: 3
 description: "Thermodynamic analysis of paper-air moisture equilibrium, EMC calculations using sorption isotherms, equilibration kinetics, and HVAC control strategies for printing operations."
 keywords: ["equilibrium moisture content", "paper sorption isotherm", "hygroscopic equilibrium", "moisture diffusion paper", "GAB equation", "paper conditioning time", "relative humidity control", "cellulose moisture behavior"]
+tags: ["equilibrium moisture content", "paper sorption isotherm", "hygroscopic equilibrium", "moisture diffusion paper", "GAB equation", "paper conditioning time", "relative humidity control", "cellulose moisture behavior"]
 ---
 
 Moisture equilibrium between paper and surrounding air governs dimensional stability, electrical properties, and print quality in commercial printing operations. Understanding equilibrium moisture content (EMC) thermodynamics and diffusion kinetics enables precise environmental control design for paper conditioning systems. This physics-based approach ensures paper reaches stable moisture content before entering the press, preventing registration errors, curl, and static electricity problems.

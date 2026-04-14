@@ -1,5 +1,6 @@
 ---
 title: "Airflow Measurement Methods for HVAC Testing"
+aliases: ["Airflow Measurement Methods for HVAC Testing"]
 description: "Comprehensive guide to airflow measurement techniques including pitot tubes, hot-wire anemometers, and capture hoods with conversion formulas and accuracy comparisons."
 date: 2025-01-05
 tags: ["airflow measurement", "pitot tube", "anemometer", "capture hood", "velocity measurement", "testing and balancing", "duct traverse", "flow measurement"]

@@ -1,8 +1,10 @@
 ---
 title: "Elevator Shaft Pressure Relief Systems"
+aliases: ["Elevator Shaft Pressure Relief Systems"]
 weight: 1
 description: "Engineering guide to pressure relief systems for elevator shafts including barometric dampers, relief vent sizing, and automatic controls to maintain safe door forces."
 keywords: ["elevator shaft pressurization", "barometric dampers", "pressure relief vents", "door opening forces", "shaft pressure control", "relief damper sizing", "NFPA 92", "elevator smoke control"]
+tags: ["elevator shaft pressurization", "barometric dampers", "pressure relief vents", "door opening forces", "shaft pressure control", "relief damper sizing", "NFPA 92", "elevator smoke control"]
 ---
 
 ## Fundamentals of Shaft Pressure Relief

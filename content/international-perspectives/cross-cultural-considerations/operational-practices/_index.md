@@ -1,5 +1,6 @@
 ---
 title: "Cross-Cultural HVAC Operational Practices"
+aliases: ["Cross-Cultural HVAC Operational Practices"]
 description: "Comparative analysis of HVAC operational practices across cultures, examining setpoint preferences, scheduling approaches, energy consciousness, and maintenance traditions."
 keywords:
   - HVAC operational practices

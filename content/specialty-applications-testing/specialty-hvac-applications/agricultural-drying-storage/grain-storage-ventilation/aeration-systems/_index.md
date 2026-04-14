@@ -1,7 +1,9 @@
 ---
 title: "Grain Storage Aeration Systems Design and Operation"
+aliases: ["Grain Storage Aeration Systems Design and Operation"]
 description: "Technical guide to grain storage aeration systems including airflow calculations, fan sizing, controller strategies, and cooling front progression monitoring."
 keywords: ["grain aeration", "bin ventilation", "airflow rates", "aeration fan sizing", "cooling front", "grain storage HVAC", "aeration controller", "moisture equalization"]
+tags: ["grain aeration", "bin ventilation", "airflow rates", "aeration fan sizing", "cooling front", "grain storage HVAC", "aeration controller", "moisture equalization"]
 date: 2025-01-11
 weight: 1
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Combined Cycle Power Plant HVAC Systems"
+aliases: ["Combined Cycle Power Plant HVAC Systems"]
 description: "Technical requirements for HVAC systems in combined cycle power plants including gas turbine enclosure cooling, HRSG ventilation, steam turbine building climate control, and efficiency optimization strategies."
 keywords:
   - combined cycle power plant HVAC

@@ -1,5 +1,6 @@
 ---
 title: "Fermentation Cooling Systems for Beer Production"
+aliases: ["Fermentation Cooling Systems for Beer Production"]
 description: "Engineering principles of glycol cooling systems for fermentation temperature control, including heat generation calculations, precision temperature management, and system design for ale and lager production."
 weight: 1
 ---

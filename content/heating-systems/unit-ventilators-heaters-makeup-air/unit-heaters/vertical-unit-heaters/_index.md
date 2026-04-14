@@ -1,5 +1,6 @@
 ---
 title: "Vertical Unit Heaters"
+aliases: ["Vertical Unit Heaters"]
 description: "Technical analysis of vertical downflow unit heaters with centrifugal fans including circulation patterns, acoustic performance, and commercial applications."
 date: "2026-01-04"
 weight: 2

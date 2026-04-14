@@ -1,5 +1,6 @@
 ---
 title: "Condensation Analysis"
+aliases: ["Condensation Analysis"]
 weight: 4
 description: "Quantitative methods for predicting surface and interstitial condensation in building assemblies including dewpoint calculations, Glaser method steady-state analysis, and dynamic hygrothermal modeling approaches."
 ---

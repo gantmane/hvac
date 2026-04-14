@@ -1,5 +1,6 @@
 ---
 title: "Seismic Restraints for HVAC Equipment: Detailed Guide"
+aliases: ["Seismic Restraints for HVAC Equipment: Detailed Guide"]
 description: "Comprehensive seismic restraint design for HVAC equipment including IBC and ASCE 7 force calculations, anchorage methods, and SMACNA compliance standards."
 date: 2025-01-05
 keywords:

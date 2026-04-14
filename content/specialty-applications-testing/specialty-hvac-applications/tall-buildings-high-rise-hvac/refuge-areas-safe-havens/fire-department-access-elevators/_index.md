@@ -1,5 +1,6 @@
 ---
 title: "Fire Department Access Elevator HVAC"
+aliases: ["Fire Department Access Elevator HVAC"]
 description: "Environmental control and pressurization for fire service access elevator lobbies including lobby size requirements, smoke protection, emergency HVAC systems, and IBC Section 3007 compliance."
 weight: 1
 ---

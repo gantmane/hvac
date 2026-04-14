@@ -1,8 +1,10 @@
 ---
 title: "Transport Temperature Recorders"
+aliases: ["Transport Temperature Recorders"]
 weight: 7
 description: "Comprehensive guide to temperature monitoring and recording systems for transport refrigeration including electronic data loggers, mechanical chart recorders, wireless monitoring, calibration requirements, and regulatory compliance documentation."
 keywords: "transport temperature recorders, data loggers, chart recorders, wireless monitoring, cold chain documentation, FDA FSMA compliance, temperature calibration, 21 CFR Part 11"
+tags: ["transport temperature recorders", "data loggers", "chart recorders", "wireless monitoring", "cold chain documentation", "FDA FSMA compliance", "temperature calibration", "21 CFR Part 11"]
 ---
 
 Temperature recording devices provide critical documentation of cold chain integrity during refrigerated transport. These systems verify that temperature-sensitive cargo remains within specified limits throughout the supply chain, ensuring product quality, safety, and regulatory compliance.

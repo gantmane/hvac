@@ -1,5 +1,6 @@
 ---
 title: "Mixed Climate Strategies"
+aliases: ["Mixed Climate Strategies"]
 weight: 3
 description: "Building envelope moisture design for mixed climates (IECC Zones 3-5) requiring bidirectional drying capability, Class III vapor retarders, variable permeability membranes, and assemblies accommodating seasonal vapor drive reversals."
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Precision Environmental Control for Museum Collections"
+aliases: ["Precision Environmental Control for Museum Collections"]
 description: "Museum HVAC precision control systems maintaining ±1°F temperature and ±3-5% RH humidity stability with rate of change limitations to preserve artifacts."
 keywords: ["museum HVAC", "precision control", "humidity control", "temperature stability", "artifact preservation", "environmental monitoring", "museum climate control", "collection care"]
+tags: ["museum HVAC", "precision control", "humidity control", "temperature stability", "artifact preservation", "environmental monitoring", "museum climate control", "collection care"]
 weight: 1
 ---
 

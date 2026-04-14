@@ -1,5 +1,6 @@
 ---
 title: "Frozen Egg Storage"
+aliases: ["Frozen Egg Storage"]
 description: "Design and operation of frozen egg storage facilities including temperature control, freezer configurations, refrigeration systems, and USDA regulatory compliance for extended shelf life preservation"
 weight: 1
 ---

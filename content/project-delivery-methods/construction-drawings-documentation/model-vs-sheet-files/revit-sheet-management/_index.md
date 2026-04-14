@@ -1,5 +1,6 @@
 ---
 title: "Revit Sheet Management"
+aliases: ["Revit Sheet Management"]
 weight: 3
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Airlock Design for Cleanroom Gowning Areas"
+aliases: ["Airlock Design for Cleanroom Gowning Areas"]
 description: "Cascading pressure differentials, air shower integration, personnel flow patterns, and contamination control strategies for cleanroom gowning area airlocks per ISO 14644."
 keywords: ["airlock design", "pressure cascade", "air shower", "gowning area", "contamination control", "cleanroom transition", "personnel flow", "ISO 14644"]
+tags: ["airlock design", "pressure cascade", "air shower", "gowning area", "contamination control", "cleanroom transition", "personnel flow", "ISO 14644"]
 weight: 1
 ---
 

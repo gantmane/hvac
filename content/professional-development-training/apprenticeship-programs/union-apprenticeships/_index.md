@@ -1,7 +1,9 @@
 ---
 title: "Union HVAC Apprenticeships"
+aliases: ["Union HVAC Apprenticeships"]
 description: "Comprehensive guide to union apprenticeship programs in HVAC including pipefitters, sheet metal workers, and electricians. Learn program structure, wage progression, and certification paths."
 keywords: ["union apprenticeship", "pipefitters apprenticeship", "sheet metal workers", "UA apprenticeship", "HVAC union training", "journeyman certification", "apprentice wage scale", "union HVAC training"]
+tags: ["union apprenticeship", "pipefitters apprenticeship", "sheet metal workers", "UA apprenticeship", "HVAC union training", "journeyman certification", "apprentice wage scale", "union HVAC training"]
 date: 2026-01-05
 weight: 1
 seo_title: "Union HVAC Apprenticeships - UA, Sheet Metal & Controls Training"

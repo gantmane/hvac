@@ -1,5 +1,6 @@
 ---
 title: "Aircraft Equipment Cooling Systems"
+aliases: ["Aircraft Equipment Cooling Systems"]
 description: "Technical analysis of aircraft equipment cooling including avionics, galley, cargo, and electrical cooling systems using air cycle, vapor cycle, and liquid cooling methods."
 keywords:
   - aircraft equipment cooling

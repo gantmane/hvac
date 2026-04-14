@@ -1,7 +1,9 @@
 ---
 title: "Cooling Loads for Assembly Occupancies"
+aliases: ["Cooling Loads for Assembly Occupancies"]
 description: "Comprehensive analysis of HVAC cooling load calculations for assembly spaces including theaters, auditoriums, and arenas with high occupancy density characteristics."
 keywords: ["assembly cooling loads", "high occupancy HVAC", "theater ventilation", "auditorium cooling", "occupant sensible heat", "latent heat load", "assembly load calculations", "ASHRAE cooling loads"]
+tags: ["assembly cooling loads", "high occupancy HVAC", "theater ventilation", "auditorium cooling", "occupant sensible heat", "latent heat load", "assembly load calculations", "ASHRAE cooling loads"]
 weight: 3
 ---
 

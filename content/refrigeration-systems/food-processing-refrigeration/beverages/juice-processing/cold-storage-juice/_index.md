@@ -1,5 +1,6 @@
 ---
 title: "Cold Storage Juice"
+aliases: ["Cold Storage Juice"]
 description: "Refrigeration system design for juice cold storage facilities covering fresh juice storage, frozen concentrate systems, tank farm cooling, and vitamin retention temperature control for commercial juice processing operations"
 weight: 4
 ---

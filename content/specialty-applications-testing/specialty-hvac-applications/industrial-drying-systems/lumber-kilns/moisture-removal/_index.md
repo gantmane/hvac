@@ -1,7 +1,9 @@
 ---
 title: "Moisture Removal in Lumber Kilns: Physics & Control"
+aliases: ["Moisture Removal in Lumber Kilns: Physics & Control"]
 description: "Physics-based analysis of moisture removal in lumber drying kilns including diffusion mechanisms, fiber saturation point, moisture content calculations, and stress relief techniques."
 keywords: ["lumber kiln moisture removal", "wood moisture content", "fiber saturation point", "lumber drying physics", "moisture diffusion", "kiln drying control", "wood stress relief", "moisture gradient"]
+tags: ["lumber kiln moisture removal", "wood moisture content", "fiber saturation point", "lumber drying physics", "moisture diffusion", "kiln drying control", "wood stress relief", "moisture gradient"]
 weight: 2
 ---
 

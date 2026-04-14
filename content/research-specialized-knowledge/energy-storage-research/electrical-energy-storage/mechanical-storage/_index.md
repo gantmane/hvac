@@ -1,5 +1,6 @@
 ---
 title: "Mechanical Storage"
+aliases: ["Mechanical Storage"]
 description: "Mechanical energy storage technologies including flywheel systems, compressed air energy storage, pumped hydro, and gravity-based storage for HVAC load shifting and renewable integration."
 weight: 2
 ---

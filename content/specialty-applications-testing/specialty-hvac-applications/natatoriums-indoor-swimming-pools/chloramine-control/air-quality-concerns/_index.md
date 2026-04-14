@@ -1,7 +1,9 @@
 ---
 title: "Air Quality Concerns from Chloramines"
+aliases: ["Air Quality Concerns from Chloramines"]
 description: "Comprehensive analysis of chloramine health effects in natatoriums including trichloramine toxicity, respiratory impacts, exposure limits, and monitoring strategies."
 keywords: ["chloramine air quality", "trichloramine exposure", "natatorium health effects", "pool air monitoring", "NCl3 toxicity", "occupational exposure limits", "respiratory irritation", "building corrosion"]
+tags: ["chloramine air quality", "trichloramine exposure", "natatorium health effects", "pool air monitoring", "NCl3 toxicity", "occupational exposure limits", "respiratory irritation", "building corrosion"]
 weight: 1
 ---
 

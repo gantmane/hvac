@@ -1,5 +1,6 @@
 ---
 title: "Pid Tuning Methods"
+aliases: ["Pid Tuning Methods"]
 weight: 4
 ---
 

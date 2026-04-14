@@ -1,5 +1,6 @@
 ---
 title: "Balancing Valves"
+aliases: ["Balancing Valves"]
 weight: 1
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Evaporator Distribution in Liquid Overfeed Systems"
+aliases: ["Evaporator Distribution in Liquid Overfeed Systems"]
 description: "Comprehensive technical analysis of liquid refrigerant distribution methods in overfeed evaporators including spray headers, multi-circuit feeding, orifice design, and distribution uniformity optimization for industrial refrigeration systems."
 weight: 10
 ---

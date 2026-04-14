@@ -1,7 +1,9 @@
 ---
 title: "Solar Water Heating Systems for Domestic Hot Water"
+aliases: ["Solar Water Heating Systems for Domestic Hot Water"]
 description: "Technical guide to solar domestic hot water systems covering active and passive configurations, collector types, system sizing, solar fraction calculations, and economics."
 keywords: ["solar water heating", "solar DHW", "flat plate collectors", "evacuated tube collectors", "solar fraction", "thermosiphon systems", "SRCC", "solar thermal"]
+tags: ["solar water heating", "solar DHW", "flat plate collectors", "evacuated tube collectors", "solar fraction", "thermosiphon systems", "SRCC", "solar thermal"]
 weight: 4
 ---
 

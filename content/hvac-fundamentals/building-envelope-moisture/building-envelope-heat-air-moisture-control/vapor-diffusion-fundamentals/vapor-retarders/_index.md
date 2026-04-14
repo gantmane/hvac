@@ -1,5 +1,6 @@
 ---
 title: "Vapor Retarders"
+aliases: ["Vapor Retarders"]
 description: "Technical analysis of vapor retarder materials, classification systems, permeance testing, placement strategies, and hygrothermal performance in building envelope assemblies for moisture control"
 weight: 4
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Loading Docks Refrigerated"
+aliases: ["Loading Docks Refrigerated"]
 weight: 2
 ---
 

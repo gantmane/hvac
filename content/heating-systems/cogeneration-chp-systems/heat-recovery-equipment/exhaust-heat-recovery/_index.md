@@ -1,9 +1,11 @@
 ---
 title: "Exhaust Heat Recovery Systems for CHP Applications"
+aliases: ["Exhaust Heat Recovery Systems for CHP Applications"]
 description: "Engineering analysis of heat recovery steam generators, economizers, superheaters, pinch point analysis, and thermal efficiency optimization for combined heat and power systems."
 date: 2026-01-11
 weight: 1
 keywords: ["exhaust heat recovery", "HRSG", "heat recovery steam generator", "economizer", "superheater", "CHP thermal efficiency", "pinch point", "supplementary firing"]
+tags: ["exhaust heat recovery", "HRSG", "heat recovery steam generator", "economizer", "superheater", "CHP thermal efficiency", "pinch point", "supplementary firing"]
 ---
 
 Exhaust heat recovery systems extract thermal energy from prime mover combustion products, representing the largest recoverable waste heat stream in combined heat and power installations. Gas turbine exhaust temperatures range from 850-1100°F (454-593°C) depending on turbine design and load condition, while reciprocating engine exhaust exits at 700-900°F (371-482°C). These high-temperature streams enable steam generation across pressure ranges from low-pressure saturated steam at 15 psig (366°F saturation) to superheated high-pressure steam exceeding 600 psig (489°F saturation). The thermodynamic potential for heat recovery stems from the substantial temperature difference between exhaust gas and required thermal delivery conditions, governed by fundamental heat transfer principles and constrained by acid dew point considerations.

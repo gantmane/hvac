@@ -1,7 +1,9 @@
 ---
 title: "Agricultural Drying and Storage HVAC Systems"
+aliases: ["Agricultural Drying and Storage HVAC Systems"]
 description: "Engineering principles for grain drying, hay storage, controlled atmosphere storage, and tobacco curing HVAC systems with psychrometric analysis and moisture control."
 keywords: ["agricultural HVAC", "grain drying systems", "hay storage ventilation", "controlled atmosphere storage", "tobacco curing", "crop drying", "moisture equilibrium", "ASABE standards"]
+tags: ["agricultural HVAC", "grain drying systems", "hay storage ventilation", "controlled atmosphere storage", "tobacco curing", "crop drying", "moisture equilibrium", "ASABE standards"]
 weight: 17
 ---
 

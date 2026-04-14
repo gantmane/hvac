@@ -1,7 +1,9 @@
 ---
 title: "Stairwell Pressure Differentials & Smoke Control"
+aliases: ["Stairwell Pressure Differentials & Smoke Control"]
 description: "Comprehensive analysis of stairwell pressurization in tall buildings including stack effect physics, door opening forces, IBC/NFPA requirements, and seasonal pressure variations."
 keywords: ["stairwell pressurization", "stack effect", "smoke control", "door opening forces", "IBC 403", "NFPA 92", "high-rise stairwells", "vertical shaft pressure"]
+tags: ["stairwell pressurization", "stack effect", "smoke control", "door opening forces", "IBC 403", "NFPA 92", "high-rise stairwells", "vertical shaft pressure"]
 weight: 2
 ---
 

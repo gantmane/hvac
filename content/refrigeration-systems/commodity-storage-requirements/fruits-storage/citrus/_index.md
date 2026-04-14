@@ -1,8 +1,10 @@
 ---
 title: "Citrus Fruit Cold Storage"
+aliases: ["Citrus Fruit Cold Storage"]
 weight: 2
 description: "Technical requirements for cold storage of citrus fruits including temperature control, humidity management, chilling injury prevention, and degreening processes for oranges, lemons, and grapefruit."
 keywords: ["citrus storage", "orange cold storage", "lemon storage", "grapefruit storage", "chilling injury", "degreening", "citrus wax coating", "fruit storage HVAC"]
+tags: ["citrus storage", "orange cold storage", "lemon storage", "grapefruit storage", "chilling injury", "degreening", "citrus wax coating", "fruit storage HVAC"]
 ---
 
 Citrus fruits require precise environmental control during cold storage to maintain quality, prevent physiological disorders, and extend shelf life. Each citrus variety exhibits distinct temperature tolerances and storage characteristics that dictate refrigeration system design and operational parameters.

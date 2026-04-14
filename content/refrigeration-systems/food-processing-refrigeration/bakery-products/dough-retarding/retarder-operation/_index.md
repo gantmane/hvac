@@ -1,5 +1,6 @@
 ---
 title: "Retarder Operation"
+aliases: ["Retarder Operation"]
 description: "Technical design and operation principles for dough retarder systems including temperature control, humidity management, fermentation rate control, refrigeration system design, and energy efficiency optimization for bakery applications"
 weight: 1
 ---

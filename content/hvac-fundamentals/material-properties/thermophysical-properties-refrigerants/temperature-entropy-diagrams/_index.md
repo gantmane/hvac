@@ -1,5 +1,6 @@
 ---
 title: "Temperature Entropy Diagrams"
+aliases: ["Temperature Entropy Diagrams"]
 weight: 4
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Temperature & Humidity Control for Web Press Operations"
+aliases: ["Temperature & Humidity Control for Web Press Operations"]
 description: "Engineering analysis of integrated temperature and relative humidity control systems for web offset printing to prevent web breaks through dimensional stability."
 keywords:
   - web press temperature control

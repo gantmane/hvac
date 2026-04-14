@@ -1,5 +1,6 @@
 ---
 title: "Classroom Occupancy Density Ventilation Requirements"
+aliases: ["Classroom Occupancy Density Ventilation Requirements"]
 description: "Technical analysis of classroom ventilation calculations based on student density, covering ASHRAE 62.1 requirements for area and occupant-based outdoor air."
 date: 2026-01-05
 weight: 3

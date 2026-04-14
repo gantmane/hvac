@@ -1,5 +1,6 @@
 ---
 title: "Thermal Diffusivity"
+aliases: ["Thermal Diffusivity"]
 weight: 5
 ---
 

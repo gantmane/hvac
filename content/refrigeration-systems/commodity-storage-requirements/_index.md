@@ -1,5 +1,6 @@
 ---
 title: "Commodity Storage Requirements"
+aliases: ["Commodity Storage Requirements"]
 description: "Technical specifications for commodity storage environments including temperature, humidity, air circulation, and ethylene control requirements for optimizing storage life across frozen, refrigerated, and controlled atmosphere applications."
 weight: 12
 ---

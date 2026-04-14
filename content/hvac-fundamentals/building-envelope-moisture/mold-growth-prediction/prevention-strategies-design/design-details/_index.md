@@ -1,5 +1,6 @@
 ---
 title: "Design Details"
+aliases: ["Design Details"]
 description: "Critical building design details for mold prevention including elimination of cold surfaces, continuous air barriers, proper flashing and drainage, avoiding moisture traps, and ensuring drying potential in assemblies."
 weight: 5
 ---

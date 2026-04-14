@@ -1,7 +1,9 @@
 ---
 title: "Underground Mine Ventilation"
+aliases: ["Underground Mine Ventilation"]
 description: "Comprehensive analysis of underground mine ventilation systems including main fans, airway resistance calculations, auxiliary ventilation, network analysis, and MSHA regulatory compliance for safe mining operations"
 keywords: ["underground mine ventilation", "mine ventilation network", "airway resistance calculation", "main mine fans", "auxiliary mine fans", "ventilation survey", "MSHA regulations", "mine air quality", "methane dilution ventilation", "mine ventilation design", "Atkinson equation", "ventilation pressure"]
+tags: ["underground mine ventilation", "mine ventilation network", "airway resistance calculation", "main mine fans", "auxiliary mine fans", "ventilation survey", "MSHA regulations", "mine air quality", "methane dilution ventilation", "mine ventilation design"]
 weight: 1
 ---
 

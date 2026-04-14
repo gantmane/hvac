@@ -1,5 +1,6 @@
 ---
 title: "Water Vapor Permeability"
+aliases: ["Water Vapor Permeability"]
 description: "Comprehensive analysis of water vapor permeability in building materials, including theoretical foundations, permeance classification systems, material selection criteria, and hygrothermal performance implications for HVAC system integration."
 weight: 1
 ---

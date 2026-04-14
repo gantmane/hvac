@@ -1,8 +1,10 @@
 ---
 title: "Active vs Passive Solar Water Heating Systems"
+aliases: ["Active vs Passive Solar Water Heating Systems"]
 weight: 1
 description: "Comprehensive comparison of active pumped circulation and passive thermosiphon solar water heating systems, including ICS batch heaters, direct/indirect configurations, and climate suitability."
 keywords: ["thermosiphon", "solar water heating", "ICS batch heater", "pumped circulation", "passive solar", "direct solar system", "indirect solar system", "solar thermal efficiency"]
+tags: ["thermosiphon", "solar water heating", "ICS batch heater", "pumped circulation", "passive solar", "direct solar system", "indirect solar system", "solar thermal efficiency"]
 ---
 
 # Active vs Passive Solar Water Heating Systems

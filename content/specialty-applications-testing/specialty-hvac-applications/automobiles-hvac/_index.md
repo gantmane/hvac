@@ -1,5 +1,6 @@
 ---
 title: "Automotive HVAC Systems"
+aliases: ["Automotive HVAC Systems"]
 weight: 22
 description: "Comprehensive guide to automotive air conditioning, heating, defrost systems, cabin thermal management, EV thermal challenges, and refrigerant transitions in mobile climate control applications."
 keywords:

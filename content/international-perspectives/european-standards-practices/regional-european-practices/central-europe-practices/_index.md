@@ -1,5 +1,6 @@
 ---
 title: "Central European HVAC Standards and Practices"
+aliases: ["Central European HVAC Standards and Practices"]
 description: "Technical analysis of Central European HVAC standards including Passivhaus, Minergie, and advanced ventilation systems with heat recovery requirements."
 date: 2025-01-05
 weight: 2

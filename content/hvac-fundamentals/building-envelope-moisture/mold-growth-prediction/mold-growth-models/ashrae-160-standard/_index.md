@@ -1,5 +1,6 @@
 ---
 title: "ASHRAE 160 Standard"
+aliases: ["ASHRAE 160 Standard"]
 weight: 4
 ---
 

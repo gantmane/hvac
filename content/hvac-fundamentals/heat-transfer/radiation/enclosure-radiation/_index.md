@@ -1,5 +1,6 @@
 ---
 title: "Enclosure Radiation"
+aliases: ["Enclosure Radiation"]
 weight: 3
 ---
 

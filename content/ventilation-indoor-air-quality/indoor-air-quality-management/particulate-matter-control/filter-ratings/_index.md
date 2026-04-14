@@ -1,8 +1,10 @@
 ---
 title: "Filter Ratings and Efficiency Classification Systems"
+aliases: ["Filter Ratings and Efficiency Classification Systems"]
 description: "Comprehensive guide to MERV, ISO 16890, HEPA, and ULPA filter ratings with efficiency calculations, particle size performance, and selection criteria."
 date: 2026-01-05
 keywords: ["MERV ratings", "ISO 16890", "HEPA filters", "filter efficiency", "particle filtration", "ASHRAE 52.2", "ULPA filters", "air filter classification"]
+tags: ["MERV ratings", "ISO 16890", "HEPA filters", "filter efficiency", "particle filtration", "ASHRAE 52.2", "ULPA filters", "air filter classification"]
 weight: 2
 ---
 

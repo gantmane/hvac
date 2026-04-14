@@ -1,7 +1,9 @@
 ---
 title: "Smoke Detection & System Activation"
+aliases: ["Smoke Detection & System Activation"]
 description: "Comprehensive coverage of smoke detection systems, activation sequences, fire alarm integration, and fail-safe protocols for large-volume smoke control per NFPA 72 and 92."
 keywords: ["smoke detection", "system activation", "fire alarm integration", "NFPA 72", "smoke control sequencing", "fail-safe smoke systems", "beam detectors", "aspirating detection"]
+tags: ["smoke detection", "system activation", "fire alarm integration", "NFPA 72", "smoke control sequencing", "fail-safe smoke systems", "beam detectors", "aspirating detection"]
 weight: 4
 ---
 

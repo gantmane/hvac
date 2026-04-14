@@ -1,7 +1,9 @@
 ---
 title: "Indoor Swimming Pools"
+aliases: ["Indoor Swimming Pools"]
 description: "HVAC design for indoor swimming pool facilities including humidity control, air quality, and corrosion prevention strategies."
 keywords: ["indoor pool", "natatorium", "pool HVAC", "humidity control", "chloramine control", "pool dehumidification"]
+tags: ["indoor pool", "natatorium", "pool HVAC", "humidity control", "chloramine control", "pool dehumidification"]
 weight: 10
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Temperature Control 70-75°F for Sheet-Fed Printing"
+aliases: ["Temperature Control 70-75°F for Sheet-Fed Printing"]
 description: "Engineering analysis of 70-75°F temperature control for sheet-fed lithographic presses covering ink viscosity temperature dependence, thermal stability requirements, and precision HVAC design."
 keywords: ["sheet-fed press temperature", "printing press 70-75F", "ink viscosity temperature", "press room climate control", "lithographic temperature control", "print quality temperature", "press thermal stability", "HVAC printing press"]
+tags: ["sheet-fed press temperature", "printing press 70-75F", "ink viscosity temperature", "press room climate control", "lithographic temperature control", "print quality temperature", "press thermal stability", "HVAC printing press"]
 weight: 3
 ---
 

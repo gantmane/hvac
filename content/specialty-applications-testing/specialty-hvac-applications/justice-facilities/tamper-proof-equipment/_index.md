@@ -1,7 +1,9 @@
 ---
 title: "Tamper-Proof HVAC Equipment for Correctional Facilities"
+aliases: ["Tamper-Proof HVAC Equipment for Correctional Facilities"]
 description: "Comprehensive guide to detention-grade tamper-proof HVAC equipment, security specifications, testing protocols, and compliance with correctional facility standards."
 keywords: ["tamper-proof HVAC", "detention-grade equipment", "correctional HVAC", "security HVAC systems", "tamper-resistant design", "justice facility HVAC", "inmate-area HVAC", "institutional HVAC"]
+tags: ["tamper-proof HVAC", "detention-grade equipment", "correctional HVAC", "security HVAC systems", "tamper-resistant design", "justice facility HVAC", "inmate-area HVAC", "institutional HVAC"]
 weight: 6
 ---
 

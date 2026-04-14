@@ -1,5 +1,6 @@
 ---
 title: "Leafy Vegetables"
+aliases: ["Leafy Vegetables"]
 description: "Leafy vegetable processing refrigeration systems including vacuum cooling, hydrocooling, forced-air cooling, and modified atmosphere storage for lettuce, spinach, kale, and specialty greens with rapid heat removal requirements"
 weight: 2
 ---

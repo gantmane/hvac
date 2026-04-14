@@ -1,5 +1,6 @@
 ---
 title: "HCFC Hydrochlorofluorocarbons"
+aliases: ["HCFC Hydrochlorofluorocarbons"]
 description: "Comprehensive analysis of hydrochlorofluorocarbon refrigerants including molecular structure, thermophysical properties, Montreal Protocol phaseout schedules, EPA regulations, and retrofit strategies for legacy equipment"
 weight: 2
 ---

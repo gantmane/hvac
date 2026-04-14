@@ -1,5 +1,6 @@
 ---
 title: "Avocado Handling"
+aliases: ["Avocado Handling"]
 description: "HVAC refrigeration system design for avocado storage, handling, and ripening facilities including variety-specific temperature requirements, chilling injury prevention, controlled atmosphere parameters, and ethylene management for optimal fruit quality preservation."
 weight: 5
 ---
@@ -256,4 +257,4 @@ This represents the average continuous load; instantaneous peak loads during ini
 
 ---
 
-*Related Topics: [Tropical Fruit Processing](/refrigeration-systems/food-processing-refrigeration/fruit-processing/tropical-fruit-processing/), [Controlled Atmosphere Storage](/refrigeration-systems/food-processing-refrigeration/controlled-atmosphere-storage/), [Ripening Room Design](/refrigeration-systems/food-processing-refrigeration/ripening-facilities/)*
+*Related Topics: [Tropical Fruit Processing](../../../../../refrigeration-systems/food-processing-refrigeration/fruit-processing/tropical-fruit-processing/_index.md), Controlled Atmosphere Storage, Ripening Room Design*

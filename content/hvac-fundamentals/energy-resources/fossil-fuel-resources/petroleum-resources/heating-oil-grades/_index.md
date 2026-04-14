@@ -1,7 +1,9 @@
 ---
 title: "Heating Oil Grades & ASTM D396 Classifications"
+aliases: ["Heating Oil Grades & ASTM D396 Classifications"]
 description: "Technical guide to heating oil grades No. 1 through No. 6 per ASTM D396 standard, covering viscosity, BTU content, applications, and selection criteria for residential and industrial use."
 keywords: ["heating oil grades", "ASTM D396", "fuel oil classification", "No. 2 heating oil", "residual fuel oil", "distillate fuel oil", "viscosity grades", "BTU content"]
+tags: ["heating oil grades", "ASTM D396", "fuel oil classification", "No. 2 heating oil", "residual fuel oil", "distillate fuel oil", "viscosity grades", "BTU content"]
 weight: 5
 ---
 

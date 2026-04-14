@@ -1,5 +1,6 @@
 ---
 title: "Biosecurity HVAC System Configurations"
+aliases: ["Biosecurity HVAC System Configurations"]
 description: "Engineering analysis of single-pass, recirculation, and hybrid HVAC configurations for biosafety laboratories with pressure cascades and containment strategies."
 date: 2025-01-05
 keywords:

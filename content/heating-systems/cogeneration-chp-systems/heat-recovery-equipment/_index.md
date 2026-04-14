@@ -1,5 +1,6 @@
 ---
 title: "Heat Recovery Equipment for CHP Systems"
+aliases: ["Heat Recovery Equipment for CHP Systems"]
 description: "Engineering analysis of heat recovery technologies including exhaust heat exchangers, heat recovery steam generators, jacket water systems, absorption chiller integration, and thermal storage for maximizing CHP system efficiency and utilization."
 date: 2026-01-04
 weight: 3

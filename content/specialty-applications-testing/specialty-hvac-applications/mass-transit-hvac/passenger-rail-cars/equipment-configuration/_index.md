@@ -1,5 +1,6 @@
 ---
 title: "Rail Car HVAC Equipment Configuration Design"
+aliases: ["Rail Car HVAC Equipment Configuration Design"]
 description: "Technical guide to HVAC equipment layout, ducting design, and redundancy strategies for passenger rail cars including unit placement, capacity sizing, and standards compliance."
 keywords: ["rail car HVAC layout", "train HVAC ducting", "passenger rail equipment", "HVAC redundancy design", "rail car unit placement", "train climate control configuration", "APTA HVAC standards", "rail HVAC capacity"]
 tags: ["equipment configuration", "rail cars", "ducting layout", "redundancy", "mass transit HVAC", "system design"]

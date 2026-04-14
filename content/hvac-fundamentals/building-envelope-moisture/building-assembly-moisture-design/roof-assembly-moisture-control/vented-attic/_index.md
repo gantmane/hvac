@@ -1,5 +1,6 @@
 ---
 title: "Vented Attic Assemblies"
+aliases: ["Vented Attic Assemblies"]
 description: "Technical design requirements for vented attic systems including ventilation ratios, airflow physics, thermal boundary positioning, and moisture control strategies for residential and light commercial applications"
 weight: 1
 ---

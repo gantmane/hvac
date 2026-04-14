@@ -1,5 +1,6 @@
 ---
 title: "Mediterranean Climate Characteristics for HVAC Design"
+aliases: ["Mediterranean Climate Characteristics for HVAC Design"]
 description: "Detailed analysis of Mediterranean climate parameters including temperature profiles, psychrometric conditions, solar radiation, and seasonal patterns for HVAC system design."
 keywords:
   - Mediterranean climate characteristics

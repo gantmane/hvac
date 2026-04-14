@@ -1,5 +1,6 @@
 ---
 title: "Yogurt Production"
+aliases: ["Yogurt Production"]
 description: "Yogurt production refrigeration systems including incubation temperature control, rapid cooling requirements, fermentation vessel cooling, storage conditions, and process cooling loads for commercial yogurt manufacturing facilities."
 weight: 5
 ---

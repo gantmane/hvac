@@ -1,5 +1,6 @@
 ---
 title: "Energy Efficiency Potential"
+aliases: ["Energy Efficiency Potential"]
 description: "Technical analysis of energy efficiency potential in HVAC systems including end-use consumption breakdown, technical vs economic potential, ASHRAE energy audit standards, and cost-effectiveness evaluation methods for building energy conservation measures"
 weight: 4
 ---

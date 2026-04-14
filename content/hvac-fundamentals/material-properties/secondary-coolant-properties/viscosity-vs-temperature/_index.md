@@ -1,5 +1,6 @@
 ---
 title: "Viscosity vs Temperature"
+aliases: ["Viscosity vs Temperature"]
 description: "Temperature dependence of dynamic and kinematic viscosity in secondary coolants including glycol solutions and brines, with engineering correlations, property tables, and pumping system design implications"
 weight: 3
 ---

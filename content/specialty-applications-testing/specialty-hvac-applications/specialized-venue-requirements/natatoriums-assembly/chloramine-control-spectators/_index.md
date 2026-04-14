@@ -1,7 +1,9 @@
 ---
 title: "Chloramine Control for Spectators"
+aliases: ["Chloramine Control for Spectators"]
 description: "Engineering strategies for protecting spectators from chloramine exposure in natatoriums through air barriers, dilution ventilation, and pressure control systems."
 keywords: ["chloramine control", "spectator protection", "natatorium ventilation", "trichloramine limits", "air curtains", "dilution ventilation", "indoor air quality", "pool spectator areas"]
+tags: ["chloramine control", "spectator protection", "natatorium ventilation", "trichloramine limits", "air curtains", "dilution ventilation", "indoor air quality", "pool spectator areas"]
 weight: 2
 ---
 

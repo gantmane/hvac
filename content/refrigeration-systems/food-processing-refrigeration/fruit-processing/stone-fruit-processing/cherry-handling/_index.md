@@ -1,5 +1,6 @@
 ---
 title: "Cherry Handling"
+aliases: ["Cherry Handling"]
 description: "HVAC requirements for cherry handling facilities including hydrocooling systems, forced-air cooling, temperature and humidity control for sweet and tart cherries, and packing line environmental conditioning."
 weight: 3
 ---

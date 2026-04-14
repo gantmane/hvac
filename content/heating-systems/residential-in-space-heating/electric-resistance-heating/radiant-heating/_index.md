@@ -1,5 +1,6 @@
 ---
 title: "Radiant Heating"
+aliases: ["Radiant Heating"]
 weight: 3
 ---
 

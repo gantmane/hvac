@@ -1,7 +1,9 @@
 ---
 title: "Cooling Energy Use in HVAC Systems"
+aliases: ["Cooling Energy Use in HVAC Systems"]
 description: "Analysis of cooling energy consumption patterns, peak demand characteristics, efficiency metrics, and climate zone impacts on residential and commercial cooling loads."
 keywords: ["cooling energy consumption", "peak demand", "cooling degree days", "EER SEER", "climate zone cooling", "air conditioning efficiency", "cooling load factors", "seasonal energy use"]
+tags: ["cooling energy consumption", "peak demand", "cooling degree days", "EER SEER", "climate zone cooling", "air conditioning efficiency", "cooling load factors", "seasonal energy use"]
 weight: 2
 ---
 

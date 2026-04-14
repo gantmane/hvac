@@ -1,7 +1,9 @@
 ---
 title: "Geothermal Energy Resources for HVAC Systems"
+aliases: ["Geothermal Energy Resources for HVAC Systems"]
 description: "Technical analysis of geothermal resources for heating and cooling. Covers resource types, heat flow calculations, ground-source applications, and integration with HVAC systems."
 keywords: ["geothermal energy", "ground-source heat pumps", "geothermal HVAC", "earth energy", "geothermal heat flow", "renewable heating", "geoexchange systems", "thermal conductivity"]
+tags: ["geothermal energy", "ground-source heat pumps", "geothermal HVAC", "earth energy", "geothermal heat flow", "renewable heating", "geoexchange systems", "thermal conductivity"]
 weight: 3
 ---
 

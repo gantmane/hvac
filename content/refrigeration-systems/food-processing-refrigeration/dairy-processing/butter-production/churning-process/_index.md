@@ -1,5 +1,6 @@
 ---
 title: "Churning Process"
+aliases: ["Churning Process"]
 description: "HVAC requirements for butter churning operations including temperature control, equipment heat loads, process room design, and cooling system specifications for batch and continuous churning systems"
 weight: 2
 ---

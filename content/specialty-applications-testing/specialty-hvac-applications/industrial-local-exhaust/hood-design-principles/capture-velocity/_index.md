@@ -1,5 +1,6 @@
 ---
 title: "Capture Velocity Requirements for Exhaust Hood Design"
+aliases: ["Capture Velocity Requirements for Exhaust Hood Design"]
 description: "Engineering fundamentals of capture velocity for industrial exhaust hoods including ACGIH selection criteria, velocity decay relationships, and contaminant-specific design parameters."
 keywords:
   - capture velocity definition

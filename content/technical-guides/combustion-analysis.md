@@ -2,6 +2,7 @@
 title: "Combustion Analysis for HVAC Engineers"
 description: "Stoichiometry, combustion efficiency calculations, flue gas analysis, and excess air determination for gas-fired HVAC equipment optimization."
 keywords: ["combustion analysis", "combustion efficiency", "stoichiometry", "flue gas analysis", "excess air", "burner tuning"]
+tags: ["combustion analysis", "combustion efficiency", "stoichiometry", "flue gas analysis", "excess air", "burner tuning"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 11
@@ -75,8 +76,8 @@ Where K ≈ 0.65 for natural gas
 ---
 
 **Related Technical Guides:**
-- [Boiler Selection & Sizing](/technical-guides/boiler-selection-sizing/)
-- [Thermodynamic Cycles](/technical-guides/thermodynamic-cycles/)
+- Boiler Selection & Sizing
+- Thermodynamic Cycles
 
 **References:**
 - ASHRAE Handbook of HVAC Systems and Equipment, Chapter 31: Combustion and Fuels

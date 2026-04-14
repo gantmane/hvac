@@ -1,9 +1,11 @@
 ---
 title: "Corrosion Inhibitors for Glycol Systems"
+aliases: ["Corrosion Inhibitors for Glycol Systems"]
 linkTitle: "Corrosion Inhibitors"
 description: "Technical analysis of corrosion inhibitor packages for glycol-based snow melting systems, including pH control, material compatibility, electrochemical protection mechanisms, and testing protocols."
 weight: 5
 keywords: ["corrosion inhibitors", "glycol systems", "pH control", "inhibitor packages", "metal protection", "glycol degradation", "electrochemical corrosion", "ASTM D1384"]
+tags: ["corrosion inhibitors", "glycol systems", "pH control", "inhibitor packages", "metal protection", "glycol degradation", "electrochemical corrosion", "ASTM D1384"]
 ---
 
 Corrosion inhibitors constitute critical chemical additives in glycol-based snow melting and freeze protection systems. Without proper inhibition, glycol degradation and electrochemical corrosion processes destroy system components, leading to fluid contamination, heat transfer losses, and catastrophic equipment failure. Understanding inhibitor chemistry, degradation mechanisms, and maintenance requirements ensures long-term system integrity.

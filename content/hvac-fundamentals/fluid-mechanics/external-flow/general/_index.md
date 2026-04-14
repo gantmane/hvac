@@ -1,5 +1,6 @@
 ---
 title: "General External Flow Principles"
+aliases: ["General External Flow Principles"]
 description: "Comprehensive analysis of external flow mechanics including drag forces, boundary layer development, flow separation, and heat transfer correlations for HVAC applications including cooling towers, air-cooled condensers, and building aerodynamics"
 weight: 1
 ---

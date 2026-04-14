@@ -1,5 +1,6 @@
 ---
 title: "Prequalification"
+aliases: ["Prequalification"]
 description: "Detailed examination of contractor prequalification procedures for HVAC projects, including evaluation criteria, financial capacity review, experience assessment, and prequalified bidder list development."
 weight: 3
 ---

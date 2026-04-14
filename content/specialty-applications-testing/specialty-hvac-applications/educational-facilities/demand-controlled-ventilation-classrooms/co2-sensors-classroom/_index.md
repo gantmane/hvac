@@ -1,5 +1,6 @@
 ---
 title: "CO2 Sensors for Classroom Ventilation Control"
+aliases: ["CO2 Sensors for Classroom Ventilation Control"]
 description: "Technical guidance on NDIR CO2 sensor technology, placement strategies, calibration protocols, and control algorithms for demand-controlled ventilation in educational spaces."
 date: 2025-01-05
 draft: false

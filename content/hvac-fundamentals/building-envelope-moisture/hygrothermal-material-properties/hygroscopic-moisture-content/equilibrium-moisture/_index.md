@@ -1,5 +1,6 @@
 ---
 title: "Equilibrium Moisture Content"
+aliases: ["Equilibrium Moisture Content"]
 description: "Equilibrium moisture content (EMC) fundamentals for hygroscopic building materials including sorption isotherms, hysteresis effects, temperature-RH relationships, and material-specific moisture equilibrium data for HVAC hygrothermal analysis"
 weight: 1
 ---

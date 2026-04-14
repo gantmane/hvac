@@ -1,7 +1,9 @@
 ---
 title: "CO₂ Scrubbers and Monitoring in Fruit Storage"
+aliases: ["CO₂ Scrubbers and Monitoring in Fruit Storage"]
 description: "Engineering fundamentals of CO₂ scrubbing systems and atmospheric monitoring for controlled atmosphere fruit storage facilities with calculation methods."
 keywords: ["CO2 scrubbers", "controlled atmosphere storage", "fruit storage monitoring", "hydrated lime scrubbers", "gas monitoring systems", "CA storage", "ethylene scrubbing", "storage atmosphere control"]
+tags: ["CO2 scrubbers", "controlled atmosphere storage", "fruit storage monitoring", "hydrated lime scrubbers", "gas monitoring systems", "CA storage", "ethylene scrubbing", "storage atmosphere control"]
 weight: 2
 ---
 

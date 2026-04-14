@@ -1,5 +1,6 @@
 ---
 title: "Controls Integration"
+aliases: ["Controls Integration"]
 weight: 5
 ---
 

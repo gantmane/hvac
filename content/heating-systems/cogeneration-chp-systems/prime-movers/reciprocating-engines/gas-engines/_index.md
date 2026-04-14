@@ -1,5 +1,6 @@
 ---
 title: "Natural Gas and Biogas Engines"
+aliases: ["Natural Gas and Biogas Engines"]
 description: "Detailed analysis of spark-ignition gas engines for CHP applications including combustion strategies, fuel flexibility, emissions control, heat recovery integration, and performance optimization for natural gas, biogas, and alternative gaseous fuels."
 date: 2026-01-04
 weight: 1

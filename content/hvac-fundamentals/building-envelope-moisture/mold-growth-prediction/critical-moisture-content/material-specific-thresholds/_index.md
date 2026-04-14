@@ -1,5 +1,6 @@
 ---
 title: "Material Specific Thresholds"
+aliases: ["Material Specific Thresholds"]
 weight: 2
 ---
 

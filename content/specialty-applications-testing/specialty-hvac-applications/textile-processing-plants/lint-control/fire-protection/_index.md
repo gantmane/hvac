@@ -1,8 +1,10 @@
 ---
 title: "Fire Protection for Textile Lint Control Systems"
+aliases: ["Fire Protection for Textile Lint Control Systems"]
 weight: 4
 description: "Comprehensive fire protection strategies for textile lint control including spark detection, automatic suppression systems, and NFPA code compliance for preventing lint fires and explosions."
 keywords: ["textile lint fire protection", "spark detection systems", "automatic suppression", "NFPA 654", "lint explosion venting", "ductwork fire protection", "textile fire safety", "lint fire hazards"]
+tags: ["textile lint fire protection", "spark detection systems", "automatic suppression", "NFPA 654", "lint explosion venting", "ductwork fire protection", "textile fire safety", "lint fire hazards"]
 ---
 
 ## Lint Fire Hazard Analysis

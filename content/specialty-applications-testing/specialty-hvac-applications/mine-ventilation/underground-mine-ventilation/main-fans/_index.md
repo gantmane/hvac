@@ -1,5 +1,6 @@
 ---
 title: "Main Mine Ventilation Fans"
+aliases: ["Main Mine Ventilation Fans"]
 description: "Engineering principles and performance analysis of main mine ventilation fans, covering forcing vs exhausting systems, fan laws, selection criteria, and MSHA testing protocols."
 keywords:
   - mine ventilation fans

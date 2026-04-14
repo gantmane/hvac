@@ -1,5 +1,6 @@
 ---
 title: "Physical Properties of Materials"
+aliases: ["Physical Properties of Materials"]
 description: "Thermal conductivity, specific heat, density, and mechanical properties of HVAC materials. Material property data for heat transfer calculations, equipment selection, and system design per ASHRAE Fundamentals."
 weight: 3
 ---

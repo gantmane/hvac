@@ -1,5 +1,6 @@
 ---
 title: "Advanced Air Purification Technologies for HVAC Systems"
+aliases: ["Advanced Air Purification Technologies for HVAC Systems"]
 description: "Physics-based analysis of emerging air purification technologies including photocatalytic oxidation, bipolar ionization, UV-C germicidal irradiation, and plasma systems."
 date: 2025-01-05
 tags: ["air purification", "photocatalytic oxidation", "bipolar ionization", "UV-C", "UVGI", "plasma purification", "indoor air quality", "emerging technologies", "particle removal", "pathogen control"]

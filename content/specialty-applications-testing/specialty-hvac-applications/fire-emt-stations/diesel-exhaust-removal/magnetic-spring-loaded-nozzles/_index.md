@@ -1,5 +1,6 @@
 ---
 title: "Magnetic and Spring-Loaded Exhaust Nozzle Systems"
+aliases: ["Magnetic and Spring-Loaded Exhaust Nozzle Systems"]
 description: "Engineering principles and design criteria for magnetic disconnect and spring-loaded automatic release nozzle systems in fire station diesel exhaust removal applications."
 keywords:
   - magnetic exhaust nozzles

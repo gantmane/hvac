@@ -1,5 +1,6 @@
 ---
 title: "Closed Cell Spray Foam"
+aliases: ["Closed Cell Spray Foam"]
 weight: 2
 ---
 

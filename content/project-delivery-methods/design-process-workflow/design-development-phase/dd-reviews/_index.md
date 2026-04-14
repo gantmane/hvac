@@ -1,5 +1,6 @@
 ---
 title: "Dd Reviews"
+aliases: ["Dd Reviews"]
 weight: 3
 ---
 

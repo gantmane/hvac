@@ -1,5 +1,6 @@
 ---
 title: "Bid Award Procedures"
+aliases: ["Bid Award Procedures"]
 description: "HVAC bid award procedures including contract execution, performance bonds, payment bonds, insurance requirements, and notice to proceed protocols for mechanical construction projects"
 weight: 5
 ---

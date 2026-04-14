@@ -1,7 +1,9 @@
 ---
 title: "OSHA General Industry Safety Training for HVAC Facilities"
+aliases: ["OSHA General Industry Safety Training for HVAC Facilities"]
 description: "OSHA General Industry standards covering machine guarding, lockout/tagout, confined spaces, and hazard communication for HVAC manufacturing, maintenance facilities, and mechanical rooms."
 keywords: ["OSHA General Industry", "29 CFR 1910", "HVAC facility safety", "machine guarding HVAC", "lockout tagout procedures", "permit required confined spaces", "hazard communication", "mechanical room safety", "HVAC manufacturing safety", "OSHA compliance"]
+tags: ["OSHA General Industry", "29 CFR 1910", "HVAC facility safety", "machine guarding HVAC", "lockout tagout procedures", "permit required confined spaces", "hazard communication", "mechanical room safety", "HVAC manufacturing safety", "OSHA compliance"]
 weight: 3
 ---
 

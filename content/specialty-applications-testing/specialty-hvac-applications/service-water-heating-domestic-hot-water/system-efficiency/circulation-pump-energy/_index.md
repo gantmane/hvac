@@ -1,7 +1,9 @@
 ---
 title: "DHW Circulation Pump Energy Consumption"
+aliases: ["DHW Circulation Pump Energy Consumption"]
 description: "Technical analysis of domestic hot water recirculation pump energy consumption, including sizing calculations, continuous versus demand control strategies, and ECM savings."
 keywords: ["DHW circulation pump", "recirculation pump energy", "ECM pump", "variable speed pump", "pump sizing calculation", "pump energy consumption", "demand control pump", "aquastat control"]
+tags: ["DHW circulation pump", "recirculation pump energy", "ECM pump", "variable speed pump", "pump sizing calculation", "pump energy consumption", "demand control pump", "aquastat control"]
 weight: 4
 ---
 

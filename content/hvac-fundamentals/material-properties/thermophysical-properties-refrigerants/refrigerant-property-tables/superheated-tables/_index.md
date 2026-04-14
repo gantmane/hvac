@@ -1,5 +1,6 @@
 ---
 title: "Superheated Tables"
+aliases: ["Superheated Tables"]
 weight: 2
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Humidity Control for Fiber Strength in Textile Spinning"
+aliases: ["Humidity Control for Fiber Strength in Textile Spinning"]
 weight: 4
 description: "Technical analysis of relative humidity effects on textile fiber mechanical properties, moisture regain relationships, and optimal RH levels for cotton, wool, and synthetic spinning operations."
 keywords: ["fiber strength humidity", "moisture regain", "textile spinning HVAC", "cotton fiber strength", "static control textiles", "spinning room humidity", "fiber breakage prevention"]
+tags: ["fiber strength humidity", "moisture regain", "textile spinning HVAC", "cotton fiber strength", "static control textiles", "spinning room humidity", "fiber breakage prevention"]
 ---
 
 ## Moisture-Fiber Strength Relationship

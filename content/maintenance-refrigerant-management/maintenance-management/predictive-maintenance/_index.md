@@ -1,7 +1,9 @@
 ---
 title: "Predictive Maintenance for HVAC Systems"
+aliases: ["Predictive Maintenance for HVAC Systems"]
 description: "Physics-based predictive maintenance strategies using vibration analysis, thermography, oil analysis, and motor current signature analysis to optimize HVAC equipment reliability."
 keywords: ["predictive maintenance", "vibration analysis", "thermography", "oil analysis", "motor current analysis", "ISO 10816", "condition monitoring", "bearing life"]
+tags: ["predictive maintenance", "vibration analysis", "thermography", "oil analysis", "motor current analysis", "ISO 10816", "condition monitoring", "bearing life"]
 weight: 2
 ---
 

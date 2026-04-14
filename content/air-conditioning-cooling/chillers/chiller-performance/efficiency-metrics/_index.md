@@ -1,5 +1,6 @@
 ---
 title: "Chiller Efficiency Metrics"
+aliases: ["Chiller Efficiency Metrics"]
 description: "Detailed analysis of chiller efficiency metrics including kW/ton, COP, EER, IPLV, NPLV, AHRI 550/590 standards, and part-load performance evaluation methods for comprehensive energy assessment."
 weight: 1
 ---

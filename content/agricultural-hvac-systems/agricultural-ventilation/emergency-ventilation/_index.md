@@ -1,7 +1,9 @@
 ---
 title: "Emergency Ventilation Systems"
+aliases: ["Emergency Ventilation Systems"]
 description: "Critical power failure provisions, curtain drop systems, backup generators, and natural ventilation fallback strategies to protect livestock during HVAC emergencies."
 keywords: ["emergency ventilation", "agricultural power failure", "curtain drop systems", "backup generators", "animal welfare ventilation", "livestock emergency cooling", "agricultural alarm systems", "natural ventilation fallback"]
+tags: ["emergency ventilation", "agricultural power failure", "curtain drop systems", "backup generators", "animal welfare ventilation", "livestock emergency cooling", "agricultural alarm systems", "natural ventilation fallback"]
 weight: 4
 ---
 

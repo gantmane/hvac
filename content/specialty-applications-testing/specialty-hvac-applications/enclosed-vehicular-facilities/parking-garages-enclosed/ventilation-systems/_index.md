@@ -1,7 +1,9 @@
 ---
 title: "Parking Garage Ventilation Systems"
+aliases: ["Parking Garage Ventilation Systems"]
 description: "Technical analysis of enclosed parking garage ventilation: IMC code requirements, CO-based demand control, exhaust system design, contaminant dispersion physics, and monitoring strategies."
 keywords: ["parking garage ventilation", "CO monitoring", "demand controlled ventilation", "IMC 404", "exhaust system design", "contaminant dispersion", "ASHRAE 62.1", "NO2 detection"]
+tags: ["parking garage ventilation", "CO monitoring", "demand controlled ventilation", "IMC 404", "exhaust system design", "contaminant dispersion", "ASHRAE 62.1", "NO2 detection"]
 weight: 1
 ---
 

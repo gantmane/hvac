@@ -1,9 +1,11 @@
 ---
 title: "Glycol Solutions for Freeze Protection in Piping"
+aliases: ["Glycol Solutions for Freeze Protection in Piping"]
 description: "Engineering fundamentals of glycol-based freeze protection systems including concentration calculations, heat transfer impacts, and system design criteria."
 date: 2026-01-11
 weight: 3
 keywords: ["glycol freeze protection", "propylene glycol piping", "ethylene glycol systems", "antifreeze concentration", "freeze point depression", "glycol heat transfer", "pipe freeze protection", "glycol pump sizing"]
+tags: ["glycol freeze protection", "propylene glycol piping", "ethylene glycol systems", "antifreeze concentration", "freeze point depression", "glycol heat transfer", "pipe freeze protection", "glycol pump sizing"]
 ---
 
 ## Physical Principles of Glycol Freeze Protection

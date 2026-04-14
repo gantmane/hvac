@@ -1,7 +1,9 @@
 ---
 title: "HVAC Acoustic Considerations in Lecture Halls"
+aliases: ["HVAC Acoustic Considerations in Lecture Halls"]
 description: "Noise criteria, air velocity limits, duct-borne and structure-borne noise control, terminal unit selection, and equipment isolation for quiet auditoriums."
 keywords: ["noise criteria", "NC ratings", "RC ratings", "acoustic design", "sound attenuation", "duct silencers", "structure-borne noise", "auditorium HVAC"]
+tags: ["noise criteria", "NC ratings", "RC ratings", "acoustic design", "sound attenuation", "duct silencers", "structure-borne noise", "auditorium HVAC"]
 weight: 2
 ---
 

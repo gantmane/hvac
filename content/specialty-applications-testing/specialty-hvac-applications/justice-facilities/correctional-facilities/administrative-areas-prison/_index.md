@@ -1,7 +1,9 @@
 ---
 title: "Administrative Areas HVAC in Correctional Facilities"
+aliases: ["Administrative Areas HVAC in Correctional Facilities"]
 description: "Technical guide to HVAC design for prison administrative areas, including office spaces, visitor areas, and separation from secure zones with load calculations."
 keywords: ["correctional facility HVAC", "prison administrative areas", "justice facility air conditioning", "visitor area ventilation", "control room cooling", "security HVAC separation"]
+tags: ["correctional facility HVAC", "prison administrative areas", "justice facility air conditioning", "visitor area ventilation", "control room cooling", "security HVAC separation"]
 weight: 5
 ---
 

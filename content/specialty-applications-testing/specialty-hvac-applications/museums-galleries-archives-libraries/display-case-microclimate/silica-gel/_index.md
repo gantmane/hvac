@@ -1,8 +1,10 @@
 ---
 title: "Silica Gel Humidity Buffering for Display Cases"
+aliases: ["Silica Gel Humidity Buffering for Display Cases"]
 seo_title: "Silica Gel Museum Display Case Humidity Control"
 description: "Technical guide to silica gel conditioning, capacity calculations, and regeneration procedures for museum display case microclimate control using Art-Sorb and RH buffering materials."
 keywords: ["silica gel buffering", "Art-Sorb", "conditioned silica gel", "museum humidity control", "display case microclimate", "RH buffering capacity", "gel regeneration", "moisture buffering"]
+tags: ["silica gel buffering", "Art-Sorb", "conditioned silica gel", "museum humidity control", "display case microclimate", "RH buffering capacity", "gel regeneration", "moisture buffering"]
 weight: 3
 ---
 

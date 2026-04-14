@@ -1,5 +1,6 @@
 ---
 title: "Ductwork and Piping Supports for Seismic Restraint"
+aliases: ["Ductwork and Piping Supports for Seismic Restraint"]
 description: "Engineering guidance for seismic support systems including hanger types, rod sizing calculations, support spacing, and anchorage requirements per SMACNA and MSS standards."
 date: 2025-01-05
 keywords:

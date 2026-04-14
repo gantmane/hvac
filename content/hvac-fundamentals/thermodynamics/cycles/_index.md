@@ -1,5 +1,6 @@
 ---
 title: "Cycles"
+aliases: ["Cycles"]
 weight: 2
 ---
 

@@ -1,9 +1,11 @@
 ---
 title: "Expansion Joints for Heated Slabs in Snow Melting Systems"
+aliases: ["Expansion Joints for Heated Slabs in Snow Melting Systems"]
 description: "Engineering guide to expansion joint design for hydronic and electric snow melting slabs covering thermal expansion calculations, joint types, and spacing requirements."
 date: 2026-01-11
 weight: 3
 keywords: ["expansion joints", "heated slab design", "thermal expansion", "snow melting systems", "concrete joints", "joint spacing", "thermal stress"]
+tags: ["expansion joints", "heated slab design", "thermal expansion", "snow melting systems", "concrete joints", "joint spacing", "thermal stress"]
 ---
 
 ## Physical Basis of Thermal Expansion in Heated Slabs

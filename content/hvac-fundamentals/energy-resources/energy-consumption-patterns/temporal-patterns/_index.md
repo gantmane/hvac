@@ -1,7 +1,9 @@
 ---
 title: "Temporal Energy Consumption Patterns in HVAC"
+aliases: ["Temporal Energy Consumption Patterns in HVAC"]
 description: "Analysis of hourly, daily, seasonal, and annual HVAC energy consumption patterns, including load variability calculations and utility demand management strategies."
 keywords: ["temporal energy patterns", "load variability", "peak demand", "seasonal energy consumption", "utility demand charges", "HVAC load profiles", "time-of-use rates", "annual energy cycles"]
+tags: ["temporal energy patterns", "load variability", "peak demand", "seasonal energy consumption", "utility demand charges", "HVAC load profiles", "time-of-use rates", "annual energy cycles"]
 weight: 3
 ---
 

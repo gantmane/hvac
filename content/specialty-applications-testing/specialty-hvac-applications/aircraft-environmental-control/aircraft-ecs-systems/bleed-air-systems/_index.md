@@ -1,5 +1,6 @@
 ---
 title: "Bleed Air Systems for Aircraft Environmental Control"
+aliases: ["Bleed Air Systems for Aircraft Environmental Control"]
 description: "Technical analysis of aircraft ECS bleed air systems covering compressor stage extraction thermodynamics, pressure regulation, heat exchanger design, and integration with air cycle machines."
 keywords:
   - bleed air ECS

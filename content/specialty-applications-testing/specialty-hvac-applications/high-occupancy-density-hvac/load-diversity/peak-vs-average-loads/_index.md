@@ -1,7 +1,9 @@
 ---
 title: "Peak vs Average Loads in High-Occupancy HVAC"
+aliases: ["Peak vs Average Loads in High-Occupancy HVAC"]
 description: "Understand diversity factors, peak load determination, and average load profiles for efficient HVAC equipment sizing in high-density occupancy applications."
 keywords: ["peak load calculation", "average load profile", "diversity factor", "HVAC load analysis", "equipment sizing", "occupancy diversity", "coincident loads", "design load selection"]
+tags: ["peak load calculation", "average load profile", "diversity factor", "HVAC load analysis", "equipment sizing", "occupancy diversity", "coincident loads", "design load selection"]
 weight: 1
 ---
 

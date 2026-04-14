@@ -1,5 +1,6 @@
 ---
 title: "Oil Rig HVAC Systems - Hazardous Area Design"
+aliases: ["Oil Rig HVAC Systems - Hazardous Area Design"]
 description: "Comprehensive HVAC engineering for offshore oil rigs including hazardous area classification, positive pressure systems, emergency shutdown, and explosion-proof equipment per API and NFPA 70 standards."
 date: "2026-01-11"
 weight: 1

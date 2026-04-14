@@ -1,7 +1,9 @@
 ---
 title: "Driveway & Walkway Snow Melting Systems"
+aliases: ["Driveway & Walkway Snow Melting Systems"]
 description: "Engineering analysis of residential and commercial driveway and walkway snow melting systems including heat load calculations, hydronic and electric design, and performance requirements."
 keywords: ["driveway snow melting", "walkway heating", "residential snow melt", "heated driveway design", "radiant snow melting", "driveway heat load", "walkway deicing", "snow melt system design"]
+tags: ["driveway snow melting", "walkway heating", "residential snow melt", "heated driveway design", "radiant snow melting", "driveway heat load", "walkway deicing", "snow melt system design"]
 weight: 1
 ---
 

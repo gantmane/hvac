@@ -1,5 +1,6 @@
 ---
 title: "Net Zero Energy Buildings"
+aliases: ["Net Zero Energy Buildings"]
 description: "Comprehensive HVAC strategies for achieving net zero energy performance through load reduction, renewable integration, energy recovery, and verification protocols"
 keywords: ["net zero energy buildings", "NZEB HVAC strategies", "energy balance", "renewable HVAC integration", "ASHRAE 90.1", "building energy recovery", "on-site renewables", "energy verification protocols", "passive design HVAC", "demand-side management"]
 tags: ["net-zero", "renewable-energy", "energy-efficiency", "ASHRAE-90.1", "energy-modeling", "heat-recovery"]

@@ -1,5 +1,6 @@
 ---
 title: "Cheese Aging Rooms"
+aliases: ["Cheese Aging Rooms"]
 description: "Comprehensive engineering design of refrigerated aging rooms for cheese production including temperature control, humidity management, air circulation patterns, refrigeration load calculations, and variety-specific environmental requirements"
 weight: 2
 ---

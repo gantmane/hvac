@@ -1,5 +1,6 @@
 ---
 title: "Moisture Control in Animal Facilities"
+aliases: ["Moisture Control in Animal Facilities"]
 description: "Engineering strategies for moisture management in livestock housing including condensation prevention, minimum ventilation requirements, humidity control, dew point management, and building envelope moisture protection."
 weight: 3
 ---

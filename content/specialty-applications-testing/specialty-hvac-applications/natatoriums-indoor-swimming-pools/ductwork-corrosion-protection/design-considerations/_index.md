@@ -1,7 +1,9 @@
 ---
 title: "Natatorium Duct Design: Corrosion Protection Features"
+aliases: ["Natatorium Duct Design: Corrosion Protection Features"]
 description: "Essential design strategies for corrosion-resistant natatorium ductwork including drainage provisions, access panels, slope requirements, and sealing methods."
 keywords: ["natatorium ductwork design", "corrosion resistant duct", "duct drainage design", "natatorium access panels", "duct slope requirements", "corrosive environment ductwork", "SMACNA natatorium", "pool HVAC duct sealing"]
+tags: ["natatorium ductwork design", "corrosion resistant duct", "duct drainage design", "natatorium access panels", "duct slope requirements", "corrosive environment ductwork", "SMACNA natatorium", "pool HVAC duct sealing"]
 weight: 3
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Forced Convection"
+aliases: ["Forced Convection"]
 description: "Forced convection heat transfer fundamentals for HVAC systems including Reynolds, Nusselt, and Prandtl number correlations, internal and external flow equations, Dittus-Boelter and Sieder-Tate correlations, and convection coefficient calculations for heat exchangers"
 weight: 1
 ---

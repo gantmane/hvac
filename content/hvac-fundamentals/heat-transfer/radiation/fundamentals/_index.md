@@ -1,5 +1,6 @@
 ---
 title: "Fundamentals"
+aliases: ["Fundamentals"]
 weight: 1
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Exit Corridor Smoke Protection Systems"
+aliases: ["Exit Corridor Smoke Protection Systems"]
 description: "Engineering guide to exit corridor pressurization, smoke barriers, and airflow control per NFPA 92 and IBC requirements for safe building egress during fire events."
 keywords: ["exit corridor pressurization", "smoke barrier doors", "corridor smoke control", "egress protection", "NFPA 92", "pressurization testing", "corridor airflow", "smoke control design"]
+tags: ["exit corridor pressurization", "smoke barrier doors", "corridor smoke control", "egress protection", "NFPA 92", "pressurization testing", "corridor airflow", "smoke control design"]
 weight: 2
 ---
 

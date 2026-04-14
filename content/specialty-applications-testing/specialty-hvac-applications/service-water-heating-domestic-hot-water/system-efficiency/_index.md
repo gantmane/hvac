@@ -1,7 +1,9 @@
 ---
 title: "DHW System Efficiency & Loss Analysis"
+aliases: ["DHW System Efficiency & Loss Analysis"]
 description: "Comprehensive analysis of domestic hot water system efficiency including standby losses, distribution losses, recovery efficiency, and optimization strategies per ASHRAE standards."
 keywords: ["domestic hot water efficiency", "standby losses", "distribution losses", "DHW recovery efficiency", "water heater thermal losses", "system optimization", "ASHRAE 90.1 DHW", "energy factor"]
+tags: ["domestic hot water efficiency", "standby losses", "distribution losses", "DHW recovery efficiency", "water heater thermal losses", "system optimization", "ASHRAE 90.1 DHW", "energy factor"]
 date: 2025-01-11
 weight: 14
 ---

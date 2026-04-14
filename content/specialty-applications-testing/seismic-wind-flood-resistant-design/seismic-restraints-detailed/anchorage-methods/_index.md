@@ -1,5 +1,6 @@
 ---
 title: "Anchorage Methods"
+aliases: ["Anchorage Methods"]
 weight: 2
 ---
 

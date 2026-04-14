@@ -1,5 +1,6 @@
 ---
 title: "Middle East HVAC Practices and Desert Climate Design"
+aliases: ["Middle East HVAC Practices and Desert Climate Design"]
 description: "Technical analysis of HVAC engineering practices in Middle East climates, covering extreme heat design, sand filtration, and regional standards."
 date: 2025-01-05
 tags: ["middle east", "desert climate", "extreme heat", "sand filtration", "dubai", "saudi arabia", "international standards"]

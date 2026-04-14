@@ -1,7 +1,9 @@
 ---
 title: "Biofouling Control in Marine Seawater Systems"
+aliases: ["Biofouling Control in Marine Seawater Systems"]
 description: "Chemical, physical, and mechanical biofouling control methods for seawater cooling systems including chlorination, UV treatment, antifouling coatings, and maintenance protocols."
 keywords: ["biofouling control", "marine HVAC", "seawater chlorination", "UV treatment marine", "antifouling coatings", "heat exchanger fouling", "marine cooling systems", "electrolytic chlorination"]
+tags: ["biofouling control", "marine HVAC", "seawater chlorination", "UV treatment marine", "antifouling coatings", "heat exchanger fouling", "marine cooling systems", "electrolytic chlorination"]
 weight: 3
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Managing Occupancy Variation in Conference Centers"
+aliases: ["Managing Occupancy Variation in Conference Centers"]
 description: "Design strategies for HVAC systems handling extreme occupancy fluctuations in conference centers, including demand-controlled ventilation and rapid response systems."
 keywords: ["demand controlled ventilation", "occupancy sensing", "conference center HVAC", "variable occupancy design", "CO2 sensors", "pre-conditioning", "part-load efficiency", "HVAC scheduling"]
+tags: ["demand controlled ventilation", "occupancy sensing", "conference center HVAC", "variable occupancy design", "CO2 sensors", "pre-conditioning", "part-load efficiency", "HVAC scheduling"]
 weight: 3
 date: 2025-01-11
 draft: false

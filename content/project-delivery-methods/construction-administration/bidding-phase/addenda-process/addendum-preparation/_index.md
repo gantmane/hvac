@@ -1,5 +1,6 @@
 ---
 title: "Addendum Preparation"
+aliases: ["Addendum Preparation"]
 weight: 1
 ---
 

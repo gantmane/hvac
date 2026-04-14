@@ -1,7 +1,9 @@
 ---
 title: "Marine Laundry Facilities HVAC"
+aliases: ["Marine Laundry Facilities HVAC"]
 description: "Marine laundry HVAC systems with high humidity control, lint filtration, dryer exhaust requirements, heat recovery, and moisture management strategies."
 keywords: ["marine laundry HVAC", "ship laundry ventilation", "dryer exhaust marine", "lint filtration", "laundry heat recovery", "marine laundry humidity control", "commercial marine laundry", "shipboard laundry systems"]
+tags: ["marine laundry HVAC", "ship laundry ventilation", "dryer exhaust marine", "lint filtration", "laundry heat recovery", "marine laundry humidity control", "commercial marine laundry", "shipboard laundry systems"]
 weight: 3
 ---
 

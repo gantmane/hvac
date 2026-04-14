@@ -1,8 +1,10 @@
 ---
 title: "Fire-Resistant HEPA Filtration for Nuclear Facilities"
+aliases: ["Fire-Resistant HEPA Filtration for Nuclear Facilities"]
 weight: 3
 description: "Comprehensive analysis of fire-resistant HEPA filter systems for nuclear applications including temperature limits, fire-rated housings, suppression integration, and NRC compliance requirements."
 keywords: ["fire-resistant HEPA filters", "nuclear HEPA fire protection", "ASME AG-1 fire resistance", "high-temperature filter media", "fire damper integration", "NRC fire safety", "nuclear ventilation fire protection", "HEPA filter temperature limits"]
+tags: ["fire-resistant HEPA filters", "nuclear HEPA fire protection", "ASME AG-1 fire resistance", "high-temperature filter media", "fire damper integration", "NRC fire safety", "nuclear ventilation fire protection", "HEPA filter temperature limits"]
 ---
 
 ## Fire Resistance Requirements for Nuclear HEPA Systems

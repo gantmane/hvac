@@ -1,5 +1,6 @@
 ---
 title: "Humid Subtropical Climate Characteristics for HVAC"
+aliases: ["Humid Subtropical Climate Characteristics for HVAC"]
 description: "Analysis of humid subtropical climate conditions, psychrometric properties, and design implications for HVAC systems including latent loads and moisture control."
 date: 2025-01-05
 tags: ["climate design", "humid subtropical", "psychrometrics", "latent load", "moisture control", "ASHRAE"]

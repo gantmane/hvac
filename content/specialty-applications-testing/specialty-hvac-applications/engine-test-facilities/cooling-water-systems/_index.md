@@ -1,7 +1,9 @@
 ---
 title: "Cooling Water Systems for Engine Test Facilities"
+aliases: ["Cooling Water Systems for Engine Test Facilities"]
 description: "Cooling water system design for engine test cells including heat rejection calculations, cooling tower and chiller configurations, water treatment, and emergency provisions."
 keywords: ["engine test cooling", "cooling water systems", "heat rejection", "cooling towers", "water treatment", "test cell cooling", "emergency cooling", "engine dynamometer"]
+tags: ["engine test cooling", "cooling water systems", "heat rejection", "cooling towers", "water treatment", "test cell cooling", "emergency cooling", "engine dynamometer"]
 weight: 4
 ---
 

@@ -1,5 +1,5 @@
 # Hugo
-public/
+public/**
 resources/_gen/
 
 # Node
@@ -39,3 +39,11 @@ logs
 1/
 hvac.yaml
 req.txt
+.claude
+.venvcontent/.obsidian/
+content-ru/.obsidian/
+
+.venv
+scritpts
+./*.py
+./*l.og

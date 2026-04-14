@@ -1,7 +1,9 @@
 ---
 title: "Indirect Water Heaters: Boiler-Integrated DHW Systems"
+aliases: ["Indirect Water Heaters: Boiler-Integrated DHW Systems"]
 description: "Comprehensive guide to indirect water heaters: boiler integration, heat exchanger sizing, recovery rate calculations, priority controls, and comparison with tankless coil systems."
 keywords: ["indirect water heater", "boiler integration", "heat exchanger sizing", "domestic hot water", "aquastat control", "DHW priority", "tankless coil", "recovery rate"]
+tags: ["indirect water heater", "boiler integration", "heat exchanger sizing", "domestic hot water", "aquastat control", "DHW priority", "tankless coil", "recovery rate"]
 weight: 5
 ---
 

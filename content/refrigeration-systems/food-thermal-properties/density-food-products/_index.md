@@ -1,5 +1,6 @@
 ---
 title: "Density Food Products"
+aliases: ["Density Food Products"]
 weight: 6
 ---
 

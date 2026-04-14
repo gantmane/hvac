@@ -1,7 +1,9 @@
 ---
 title: "Gymnasium HVAC Systems"
+aliases: ["Gymnasium HVAC Systems"]
 description: "Engineering guide for gymnasium climate control: high-bay air distribution, thermal stratification management, hardwood floor humidity protection, and multi-use space conditioning."
 keywords: ["gymnasium HVAC", "high-bay air distribution", "thermal stratification", "hardwood floor humidity", "sports facility ventilation", "locker room exhaust", "destratification fans", "multi-purpose assembly"]
+tags: ["gymnasium HVAC", "high-bay air distribution", "thermal stratification", "hardwood floor humidity", "sports facility ventilation", "locker room exhaust", "destratification fans", "multi-purpose assembly"]
 weight: 1
 ---
 

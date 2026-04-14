@@ -1,5 +1,6 @@
 ---
 title: "Ceiling Heating"
+aliases: ["Ceiling Heating"]
 description: "Engineering guide to hydronic radiant ceiling heating systems including panel types, embedded systems, modular and metal panel configurations, plaster ceiling applications, heat transfer characteristics, and comfort considerations for commercial and residential installations."
 weight: 3
 ---

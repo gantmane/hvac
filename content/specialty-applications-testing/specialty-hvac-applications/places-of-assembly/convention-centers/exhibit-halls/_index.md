@@ -1,7 +1,9 @@
 ---
 title: "Exhibit Hall HVAC: High-Bay Conditioning Strategies"
+aliases: ["Exhibit Hall HVAC: High-Bay Conditioning Strategies"]
 description: "Engineering HVAC systems for exhibit halls with analysis of booth heat loads, floor-level distribution, forklift exhaust control, and temporary utility design."
 keywords: ["exhibit hall HVAC", "high-bay air distribution", "underfloor air delivery", "booth heat loads", "forklift exhaust ventilation", "temporary HVAC connections", "convention center conditioning", "stratification control"]
+tags: ["exhibit hall HVAC", "high-bay air distribution", "underfloor air delivery", "booth heat loads", "forklift exhaust ventilation", "temporary HVAC connections", "convention center conditioning", "stratification control"]
 weight: 1
 ---
 

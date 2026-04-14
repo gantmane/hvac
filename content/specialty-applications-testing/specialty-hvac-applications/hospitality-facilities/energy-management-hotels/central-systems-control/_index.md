@@ -1,7 +1,9 @@
 ---
 title: "Central HVAC System Control for Hotels"
+aliases: ["Central HVAC System Control for Hotels"]
 description: "Advanced control strategies for central chiller plants, boiler sequencing, cooling tower optimization, and energy monitoring to maximize hotel HVAC efficiency."
 keywords: ["chiller plant optimization", "boiler sequencing", "cooling tower control", "central plant control", "energy monitoring", "optimal start stop", "hotel HVAC efficiency", "BAS integration"]
+tags: ["chiller plant optimization", "boiler sequencing", "cooling tower control", "central plant control", "energy monitoring", "optimal start stop", "hotel HVAC efficiency", "BAS integration"]
 date: 2025-01-11
 weight: 1
 draft: false

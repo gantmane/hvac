@@ -1,8 +1,10 @@
 ---
 title: "Moisture Removal Mechanisms in Industrial Drying"
+aliases: ["Moisture Removal Mechanisms in Industrial Drying"]
 description: "Physics-based analysis of moisture removal mechanisms, including evaporation rates, diffusion processes, and mass transfer calculations for industrial drying systems."
 date: 2025-01-11
 keywords: ["moisture removal", "evaporation rate", "mass transfer", "drying kinetics", "diffusion coefficient", "moisture migration", "psychrometrics", "industrial drying"]
+tags: ["moisture removal", "evaporation rate", "mass transfer", "drying kinetics", "diffusion coefficient", "moisture migration", "psychrometrics", "industrial drying"]
 weight: 1
 ---
 

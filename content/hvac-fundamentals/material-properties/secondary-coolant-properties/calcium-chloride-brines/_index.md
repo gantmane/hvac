@@ -1,5 +1,6 @@
 ---
 title: "Calcium Chloride Brines"
+aliases: ["Calcium Chloride Brines"]
 description: "Comprehensive analysis of calcium chloride brine solutions as secondary coolants including thermophysical properties, corrosion behavior, eutectic concentrations, and industrial applications in refrigeration systems."
 weight: 8
 ---

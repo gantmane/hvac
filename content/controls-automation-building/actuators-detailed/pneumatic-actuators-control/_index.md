@@ -1,7 +1,9 @@
 ---
 title: "Pneumatic Actuators: Design & Control Applications"
+aliases: ["Pneumatic Actuators: Design & Control Applications"]
 description: "Complete pneumatic actuator engineering guide covering direct acting, reverse acting, spring return designs with calculations for diaphragm sizing, spring ranges, and positioner applications."
 keywords: ["pneumatic actuator", "diaphragm actuator", "spring return actuator", "direct acting actuator", "reverse acting actuator", "actuator sizing", "pneumatic positioner", "3-15 psi control signal"]
+tags: ["pneumatic actuator", "diaphragm actuator", "spring return actuator", "direct acting actuator", "reverse acting actuator", "actuator sizing", "pneumatic positioner", "3-15 psi control signal"]
 weight: 2
 ---
 

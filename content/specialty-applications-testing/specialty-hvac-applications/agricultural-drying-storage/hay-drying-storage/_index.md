@@ -1,5 +1,6 @@
 ---
 title: "Hay Drying and Storage Systems"
+aliases: ["Hay Drying and Storage Systems"]
 description: "Engineering guide to hay drying methods, moisture control, and storage ventilation systems for preventing spoilage and spontaneous combustion in agricultural operations."
 keywords:
   - hay drying systems

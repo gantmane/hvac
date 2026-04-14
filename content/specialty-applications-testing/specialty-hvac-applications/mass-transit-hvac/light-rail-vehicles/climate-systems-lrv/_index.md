@@ -1,5 +1,6 @@
 ---
 title: "Climate Systems for Light Rail Vehicles"
+aliases: ["Climate Systems for Light Rail Vehicles"]
 linkTitle: "Climate Systems LRV"
 description: "Engineering analysis of packaged rooftop units, split systems, and heat pump configurations for light rail vehicle HVAC, with cooling capacity calculations and system architecture."
 keywords:

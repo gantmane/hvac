@@ -1,5 +1,6 @@
 ---
 title: "Construction Administration for HVAC Projects"
+aliases: ["Construction Administration for HVAC Projects"]
 description: "Comprehensive construction administration including bidding, submittals, RFIs, change orders, quality control, and closeout procedures for MEP systems."
 date: "2026-01-04"
 author: "Evgeniy Gantman"

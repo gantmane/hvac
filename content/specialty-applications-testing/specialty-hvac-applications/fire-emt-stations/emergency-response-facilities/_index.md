@@ -1,7 +1,9 @@
 ---
 title: "HVAC for Emergency Response Facilities"
+aliases: ["HVAC for Emergency Response Facilities"]
 description: "HVAC design requirements for emergency response facilities including dispatch centers, EOCs, and critical operations spaces with reliability and CBRN protection."
 keywords: ["emergency response HVAC", "dispatch center HVAC", "EOC climate control", "emergency operations center", "CBRN protection", "redundant HVAC systems", "emergency power HVAC", "critical facility design"]
+tags: ["emergency response HVAC", "dispatch center HVAC", "EOC climate control", "emergency operations center", "CBRN protection", "redundant HVAC systems", "emergency power HVAC", "critical facility design"]
 date: 2025-01-11
 weight: 7
 draft: false

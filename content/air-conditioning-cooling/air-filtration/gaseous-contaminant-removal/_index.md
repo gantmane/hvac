@@ -1,7 +1,9 @@
 ---
 title: "Gaseous Contaminant Removal"
+aliases: ["Gaseous Contaminant Removal"]
 description: "Technologies and methods for removing gaseous pollutants including VOCs, odors, and harmful gases from HVAC airstreams."
 keywords: ["gaseous contaminant removal", "VOC removal", "activated carbon", "air cleaning", "gas-phase filtration", "adsorption"]
+tags: ["gaseous contaminant removal", "VOC removal", "activated carbon", "air cleaning", "gas-phase filtration", "adsorption"]
 weight: 5
 ---
 

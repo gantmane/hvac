@@ -1,7 +1,9 @@
 ---
 title: "Air Exchange Rate for Post-Event Purge"
+aliases: ["Air Exchange Rate for Post-Event Purge"]
 description: "Technical analysis of air exchange rates and purge cycles for contaminant removal in variable occupancy spaces. Includes ACH calculations, purge sequencing, and IAQ restoration."
 keywords: ["air exchange rate", "post-event purge", "air changes per hour", "contaminant removal", "purge cycle", "IAQ restoration", "economizer purge", "ventilation dilution"]
+tags: ["air exchange rate", "post-event purge", "air changes per hour", "contaminant removal", "purge cycle", "IAQ restoration", "economizer purge", "ventilation dilution"]
 seo_title: "Post-Event Purge Air Exchange Rate Calculations"
 weight: 1
 ---

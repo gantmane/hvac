@@ -1,7 +1,9 @@
 ---
 title: "Supply Air Strategies for Indoor Pool Air Distribution"
+aliases: ["Supply Air Strategies for Indoor Pool Air Distribution"]
 description: "Engineering guidance for natatorium supply air systems including perimeter distribution, window washing, discharge velocities, temperature control, and swimmer comfort strategies."
 keywords: ["natatorium supply air", "pool air distribution", "perimeter air supply", "window washing air", "pool deck ventilation", "swimmer comfort", "indoor pool HVAC", "supply air temperature"]
+tags: ["natatorium supply air", "pool air distribution", "perimeter air supply", "window washing air", "pool deck ventilation", "swimmer comfort", "indoor pool HVAC", "supply air temperature"]
 weight: 3
 ---
 

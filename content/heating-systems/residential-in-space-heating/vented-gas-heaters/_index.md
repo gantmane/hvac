@@ -1,5 +1,6 @@
 ---
 title: "Vented Gas Heaters"
+aliases: ["Vented Gas Heaters"]
 description: "Technical analysis of vented gas heaters including wall furnaces, floor furnaces, and direct-vent systems with efficiency ratings and installation requirements."
 date: "2026-01-04"
 weight: 1

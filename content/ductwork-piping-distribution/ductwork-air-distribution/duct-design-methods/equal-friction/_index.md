@@ -1,5 +1,6 @@
 ---
 title: "Equal Friction"
+aliases: ["Equal Friction"]
 weight: 1
 ---
 

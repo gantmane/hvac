@@ -1,7 +1,9 @@
 ---
 title: "IECC: International Energy Conservation Code"
+aliases: ["IECC: International Energy Conservation Code"]
 description: "Comprehensive guide to IECC energy efficiency requirements for HVAC systems including prescriptive, performance, and ERI compliance paths with climate zone specifications."
 keywords: ["IECC", "energy conservation code", "HVAC efficiency", "climate zones", "prescriptive path", "performance path", "ERI", "building envelope"]
+tags: ["IECC", "energy conservation code", "HVAC efficiency", "climate zones", "prescriptive path", "performance path", "ERI", "building envelope"]
 weight: 3
 ---
 

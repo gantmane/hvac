@@ -1,5 +1,6 @@
 ---
 title: "Dough Retarding"
+aliases: ["Dough Retarding"]
 weight: 1
 ---
 

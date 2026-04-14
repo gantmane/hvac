@@ -1,5 +1,6 @@
 ---
 title: "Electronic Expansion Valves"
+aliases: ["Electronic Expansion Valves"]
 description: "Advanced technical guide to electronic expansion valves (EEV) in refrigeration systems covering stepper motor technology, PWM control, superheat algorithms, and controller integration for precision refrigerant metering"
 weight: 2
 ---

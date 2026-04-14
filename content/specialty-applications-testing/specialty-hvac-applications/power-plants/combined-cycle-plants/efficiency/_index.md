@@ -1,5 +1,6 @@
 ---
 title: "Combined Cycle Plant Efficiency Optimization via HVAC"
+aliases: ["Combined Cycle Plant Efficiency Optimization via HVAC"]
 description: "Physics-based analysis of HVAC system impact on combined cycle efficiency including turbine inlet cooling, heat rate calculations, and thermal management strategies."
 keywords:
   - combined cycle efficiency

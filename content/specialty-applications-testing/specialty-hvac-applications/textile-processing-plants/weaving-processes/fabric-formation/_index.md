@@ -1,7 +1,9 @@
 ---
 title: "Fabric Formation HVAC Control for Weaving Operations"
+aliases: ["Fabric Formation HVAC Control for Weaving Operations"]
 description: "Technical guidance on environmental control for fabric formation in weaving plants. Covers loom room conditions, humidity requirements, static control, and yarn breakage prevention."
 keywords: ["loom room HVAC", "weaving humidity control", "yarn breakage prevention", "textile static control", "fabric formation environment", "weaving process conditions", "loom air conditioning", "textile moisture management"]
+tags: ["loom room HVAC", "weaving humidity control", "yarn breakage prevention", "textile static control", "fabric formation environment", "weaving process conditions", "loom air conditioning", "textile moisture management"]
 weight: 3
 ---
 

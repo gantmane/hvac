@@ -1,7 +1,9 @@
 ---
 title: "Residential Sector Energy Consumption Patterns"
+aliases: ["Residential Sector Energy Consumption Patterns"]
 description: "Analysis of residential energy use patterns, space conditioning loads, regional variations, and efficiency trends based on EIA RECS data and building performance metrics."
 keywords: ["residential energy use", "space heating consumption", "space cooling loads", "energy use intensity", "RECS data", "residential efficiency", "climate zone energy", "household energy"]
+tags: ["residential energy use", "space heating consumption", "space cooling loads", "energy use intensity", "RECS data", "residential efficiency", "climate zone energy", "household energy"]
 weight: 1
 ---
 

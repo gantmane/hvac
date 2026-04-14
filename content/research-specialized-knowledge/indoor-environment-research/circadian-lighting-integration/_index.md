@@ -1,5 +1,6 @@
 ---
 title: "Circadian Lighting Integration"
+aliases: ["Circadian Lighting Integration"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Annual Operating Cost for Snow Melting Systems"
+aliases: ["Annual Operating Cost for Snow Melting Systems"]
 description: "Physics-based analysis of annual energy costs for hydronic and electric snow melting systems including utility rate structures, demand charges, and regional cost comparisons."
 keywords:
   - snow melting operating cost

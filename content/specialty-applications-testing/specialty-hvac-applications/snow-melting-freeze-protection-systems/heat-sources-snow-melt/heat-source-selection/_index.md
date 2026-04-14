@@ -1,7 +1,9 @@
 ---
 title: "Heat Source Selection for Snow Melting Systems"
+aliases: ["Heat Source Selection for Snow Melting Systems"]
 description: "Physics-based methodology for selecting optimal heat sources in snow melting applications, including economic analysis, efficiency comparisons, and reliability criteria."
 keywords: ["heat source selection", "snow melting economics", "energy cost analysis", "boiler efficiency", "heat pump COP", "lifecycle cost", "fuel comparison", "thermal reliability"]
+tags: ["heat source selection", "snow melting economics", "energy cost analysis", "boiler efficiency", "heat pump COP", "lifecycle cost", "fuel comparison", "thermal reliability"]
 weight: 6
 ---
 

@@ -2,6 +2,7 @@
 title: "Boiler Selection & Sizing for HVAC Engineers"
 description: "Fire-tube, water-tube, and condensing boiler types with efficiency calculations, turndown ratio analysis, and sequencing strategies for optimal performance."
 keywords: ["boiler sizing", "boiler efficiency", "condensing boiler", "fire-tube boiler", "boiler turndown", "combustion efficiency"]
+tags: ["boiler sizing", "boiler efficiency", "condensing boiler", "fire-tube boiler", "boiler turndown", "combustion efficiency"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 8
@@ -99,9 +100,9 @@ $$Turndown = \frac{Q_{max}}{Q_{min}}$$
 ---
 
 **Related Technical Guides:**
-- [Heating Load Calculations](/technical-guides/heating-load-calculations/)
-- [Combustion Analysis](/technical-guides/combustion-analysis/)
-- [Hydronic System Fundamentals](/technical-guides/hydronic-system-fundamentals/)
+- Heating Load Calculations
+- Combustion Analysis
+- Hydronic System Fundamentals
 
 **References:**
 - ASHRAE Handbook of HVAC Systems and Equipment, Chapter 32: Boilers

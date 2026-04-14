@@ -1,5 +1,6 @@
 ---
 title: "Cabin Zone Control Systems"
+aliases: ["Cabin Zone Control Systems"]
 linkTitle: "Cabin Zone Control"
 weight: 1
 description: "Technical analysis of aircraft cabin zone control including multi-zone temperature distribution, trim air valve modulation, mix manifold design, zone sensor placement, and PID control strategies for passenger thermal comfort."

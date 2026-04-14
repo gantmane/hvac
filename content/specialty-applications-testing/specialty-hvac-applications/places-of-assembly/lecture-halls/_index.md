@@ -1,7 +1,9 @@
 ---
 title: "Lecture Hall HVAC: High-Density Assembly Design"
+aliases: ["Lecture Hall HVAC: High-Density Assembly Design"]
 description: "Engineering HVAC systems for lecture halls with focus on high-density loads, acoustics control, cognitive performance air quality, and scheduled occupancy patterns."
 keywords: ["lecture hall HVAC", "high density ventilation", "classroom air quality", "acoustics HVAC design", "cognitive performance IAQ", "scheduled occupancy HVAC", "educational facilities", "assembly occupancy loads"]
+tags: ["lecture hall HVAC", "high density ventilation", "classroom air quality", "acoustics HVAC design", "cognitive performance IAQ", "scheduled occupancy HVAC", "educational facilities", "assembly occupancy loads"]
 weight: 6
 ---
 

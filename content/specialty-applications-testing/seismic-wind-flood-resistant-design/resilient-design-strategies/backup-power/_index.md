@@ -1,5 +1,6 @@
 ---
 title: "Backup Power Systems for HVAC Emergency Operation"
+aliases: ["Backup Power Systems for HVAC Emergency Operation"]
 description: "Engineering guide to backup power for HVAC resilience covering generators, UPS systems, battery backup, fuel storage, and emergency power sizing per NEC and NFPA 110."
 date: 2025-01-05
 weight: 3

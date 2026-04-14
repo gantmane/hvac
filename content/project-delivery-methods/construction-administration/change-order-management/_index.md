@@ -1,5 +1,6 @@
 ---
 title: "Change Order Management"
+aliases: ["Change Order Management"]
 description: "Comprehensive guide to HVAC change order management including types, pricing procedures, time extensions, documentation requirements, approval workflows, impact analysis, and technical change considerations for construction administration"
 weight: 4
 ---

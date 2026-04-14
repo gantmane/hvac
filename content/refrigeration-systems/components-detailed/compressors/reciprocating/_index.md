@@ -1,8 +1,10 @@
 ---
 title: "Reciprocating Compressors for Refrigeration Systems"
+aliases: ["Reciprocating Compressors for Refrigeration Systems"]
 weight: 1
 description: "Comprehensive guide to reciprocating refrigeration compressors including hermetic, semi-hermetic, and open drive types, cylinder arrangements, capacity control methods, volumetric efficiency, and commercial applications."
 keywords: ["reciprocating compressor", "hermetic compressor", "semi-hermetic compressor", "open drive compressor", "cylinder unloading", "volumetric efficiency", "compression ratio", "oil management", "commercial refrigeration"]
+tags: ["reciprocating compressor", "hermetic compressor", "semi-hermetic compressor", "open drive compressor", "cylinder unloading", "volumetric efficiency", "compression ratio", "oil management", "commercial refrigeration"]
 ---
 
 Reciprocating compressors use a piston-cylinder mechanism to compress refrigerant vapor through positive displacement. The crankshaft converts motor rotation into reciprocating piston motion, drawing low-pressure vapor through suction valves during the intake stroke and compressing it during the compression stroke before discharge through high-pressure valves.

@@ -1,7 +1,9 @@
 ---
 title: "Airflow Patterns in Cleanroom HVAC Systems"
+aliases: ["Airflow Patterns in Cleanroom HVAC Systems"]
 description: "Comprehensive analysis of cleanroom airflow patterns including unidirectional laminar flow, turbulent mixing ventilation, velocity requirements, and validation methods."
 keywords: ["cleanroom airflow", "laminar flow", "unidirectional flow", "air change rates", "ISO cleanroom classes", "airflow validation", "HEPA filtration", "cleanroom ventilation"]
+tags: ["cleanroom airflow", "laminar flow", "unidirectional flow", "air change rates", "ISO cleanroom classes", "airflow validation", "HEPA filtration", "cleanroom ventilation"]
 weight: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Optical Sensing"
+aliases: ["Optical Sensing"]
 weight: 3
 ---
 

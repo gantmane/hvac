@@ -1,5 +1,6 @@
 ---
 title: "Air Diffusers"
+aliases: ["Air Diffusers"]
 description: "Comprehensive guide to ceiling diffusers, air distribution patterns, throw characteristics, induction ratios, and performance specifications for HVAC supply air terminals."
 weight: 1
 ---

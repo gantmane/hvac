@@ -1,5 +1,6 @@
 ---
 title: "Future Refrigerants and Low-GWP Alternatives"
+aliases: ["Future Refrigerants and Low-GWP Alternatives"]
 description: "Technical analysis of next-generation refrigerants including HFOs, natural refrigerants (CO2, ammonia, hydrocarbons), A2L safety classifications, thermophysical properties, and regulatory compliance timelines under ASHRAE Standards 34 and 15."
 keywords:
   - HFO refrigerants

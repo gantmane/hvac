@@ -1,7 +1,9 @@
 ---
 title: "Renewable Energy Integration"
+aliases: ["Renewable Energy Integration"]
 description: "Integration of renewable energy sources with HVAC systems including solar thermal, photovoltaics, geothermal, and biomass technologies."
 keywords: ["renewable energy", "solar HVAC", "geothermal", "sustainable HVAC", "clean energy", "net zero", "decarbonization"]
+tags: ["renewable energy", "solar HVAC", "geothermal", "sustainable HVAC", "clean energy", "net zero", "decarbonization"]
 weight: 1
 ---
 

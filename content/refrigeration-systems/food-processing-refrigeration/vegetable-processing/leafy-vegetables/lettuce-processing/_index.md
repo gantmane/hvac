@@ -1,5 +1,6 @@
 ---
 title: "Lettuce Processing Refrigeration Systems"
+aliases: ["Lettuce Processing Refrigeration Systems"]
 description: "Engineering requirements for lettuce processing facilities including vacuum cooling, cold chain management, and fresh-cut processing environmental control for iceberg, romaine, and leaf lettuce."
 weight: 1
 ---

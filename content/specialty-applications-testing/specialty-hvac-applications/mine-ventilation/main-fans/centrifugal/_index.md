@@ -1,7 +1,9 @@
 ---
 title: "Centrifugal Main Fans for Mine Ventilation Systems"
+aliases: ["Centrifugal Main Fans for Mine Ventilation Systems"]
 description: "Centrifugal main fans provide high-pressure ventilation for deep mines. Analysis of backward curved and radial designs, surge characteristics, and performance."
 keywords: ["centrifugal mine fans", "backward curved fans", "radial blade fans", "mine fan pressure", "surge control", "deep mine ventilation", "fan housing design", "centrifugal vs axial"]
+tags: ["centrifugal mine fans", "backward curved fans", "radial blade fans", "mine fan pressure", "surge control", "deep mine ventilation", "fan housing design", "centrifugal vs axial"]
 date: 2025-01-11
 draft: false
 weight: 1

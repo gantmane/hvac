@@ -1,5 +1,6 @@
 ---
 title: "Ice Slush Chilling for Poultry Processing"
+aliases: ["Ice Slush Chilling for Poultry Processing"]
 date: "2026-01-05"
 description: "Technical analysis of ice slush chilling systems for poultry processing including thermodynamics, design parameters, ice generation methods, and performance optimization."
 tags: ["ice slush chilling", "poultry processing", "food refrigeration", "ice generation", "immersion chilling"]

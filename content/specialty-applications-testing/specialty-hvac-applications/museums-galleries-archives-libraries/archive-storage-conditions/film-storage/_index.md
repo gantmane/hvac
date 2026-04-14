@@ -1,7 +1,9 @@
 ---
 title: "Film Storage HVAC Requirements and Cold Storage Systems"
+aliases: ["Film Storage HVAC Requirements and Cold Storage Systems"]
 description: "Technical specifications for HVAC systems in film archives including temperature, humidity, and cold storage requirements for nitrate, acetate, and polyester film preservation."
 keywords: ["film storage HVAC", "cold storage film preservation", "nitrate film storage", "acetate film degradation", "polyester film archival", "film vault climate control", "photographic archive preservation", "frozen film storage"]
+tags: ["film storage HVAC", "cold storage film preservation", "nitrate film storage", "acetate film degradation", "polyester film archival", "film vault climate control", "photographic archive preservation", "frozen film storage"]
 weight: 3
 ---
 

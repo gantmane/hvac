@@ -1,8 +1,10 @@
 ---
 title: "HVAC for Dormitory Common Areas"
+aliases: ["HVAC for Dormitory Common Areas"]
 weight: 2
 description: "Engineering guidance for dormitory common area HVAC including lobby and lounge conditioning, study room ventilation, laundry exhaust systems, kitchenette requirements, and security integration."
 keywords: "dormitory common areas HVAC, dormitory lobby conditioning, study room HVAC, laundry room exhaust, kitchenette ventilation, variable occupancy design, security HVAC integration, dormitory lounge HVAC"
+tags: ["dormitory common areas HVAC", "dormitory lobby conditioning", "study room HVAC", "laundry room exhaust", "kitchenette ventilation", "variable occupancy design", "security HVAC integration", "dormitory lounge HVAC"]
 ---
 
 # HVAC for Dormitory Common Areas

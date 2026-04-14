@@ -1,5 +1,6 @@
 ---
 title: "Food Safety Temperatures"
+aliases: ["Food Safety Temperatures"]
 description: "Comprehensive analysis of regulatory temperature requirements, cold chain temperature limits, storage temperature recommendations by food type, temperature monitoring requirements, and compliance standards for commercial refrigeration systems in food safety applications"
 weight: 1
 ---

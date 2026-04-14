@@ -1,5 +1,6 @@
 ---
 title: "Refuge Areas and Safe Havens HVAC"
+aliases: ["Refuge Areas and Safe Havens HVAC"]
 description: "HVAC system design for high-rise refuge areas, areas of refuge, safe havens, and fire service access elevator lobbies. Pressurization requirements, smoke control, emergency power, and IBC compliance for protected spaces in tall buildings."
 weight: 8
 ---

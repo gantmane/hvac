@@ -1,5 +1,6 @@
 ---
 title: "Optimization Techniques"
+aliases: ["Optimization Techniques"]
 weight: 3
 ---
 

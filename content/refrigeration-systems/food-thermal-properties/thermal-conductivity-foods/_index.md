@@ -1,5 +1,6 @@
 ---
 title: "Thermal Conductivity Foods"
+aliases: ["Thermal Conductivity Foods"]
 weight: 4
 ---
 

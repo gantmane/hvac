@@ -1,5 +1,6 @@
 ---
 title: "Coal Burners"
+aliases: ["Coal Burners"]
 weight: 4
 ---
 

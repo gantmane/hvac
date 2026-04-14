@@ -1,5 +1,6 @@
 ---
 title: "Aging"
+aliases: ["Aging"]
 weight: 6
 ---
 

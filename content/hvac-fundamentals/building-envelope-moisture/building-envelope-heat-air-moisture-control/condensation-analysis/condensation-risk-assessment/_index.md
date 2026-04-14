@@ -1,5 +1,6 @@
 ---
 title: "Condensation Risk Assessment"
+aliases: ["Condensation Risk Assessment"]
 description: "Comprehensive methodology for evaluating condensation risk in building envelopes using temperature factor analysis, thermal resistance ratios, moisture accumulation calculations, and ASHRAE 160 criteria for mold growth prevention."
 weight: 4
 ---

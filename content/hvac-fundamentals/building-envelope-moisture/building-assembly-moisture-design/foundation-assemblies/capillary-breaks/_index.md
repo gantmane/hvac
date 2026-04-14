@@ -1,5 +1,6 @@
 ---
 title: "Capillary Breaks"
+aliases: ["Capillary Breaks"]
 weight: 2
 ---
 

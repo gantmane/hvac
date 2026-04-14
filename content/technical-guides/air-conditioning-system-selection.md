@@ -2,6 +2,7 @@
 title: "Air Conditioning System Selection for HVAC Engineers"
 description: "VRF vs chilled water vs DX system comparisons, application criteria, energy efficiency analysis, and life cycle cost considerations for optimal AC system selection."
 keywords: ["VRF", "chilled water", "DX system", "split system", "AC system selection", "system comparison"]
+tags: ["VRF", "chilled water", "DX system", "split system", "AC system selection", "system comparison"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 17
@@ -129,9 +130,9 @@ At $0.12/kWh:
 ---
 
 **Related Technical Guides:**
-- [Chiller Performance Analysis](/technical-guides/chiller-performance-analysis/)
-- [Cooling Load Calculations](/technical-guides/cooling-load-calculations/)
-- [Refrigeration Cycle Design](/technical-guides/refrigeration-cycle-design/)
+- Chiller Performance Analysis
+- Cooling Load Calculations
+- Refrigeration Cycle Design
 
 **References:**
 - ASHRAE Handbook of HVAC Systems and Equipment

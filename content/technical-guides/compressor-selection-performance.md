@@ -2,6 +2,7 @@
 title: "Compressor Selection & Performance Analysis for Refrigeration Systems"
 description: "Comprehensive guide to refrigeration compressor types, selection criteria, volumetric efficiency, isentropic efficiency, capacity modulation, and performance mapping."
 keywords: ["compressor selection", "reciprocating compressor", "scroll compressor", "screw compressor", "centrifugal compressor", "volumetric efficiency", "refrigeration"]
+tags: ["compressor selection", "reciprocating compressor", "scroll compressor", "screw compressor", "centrifugal compressor", "volumetric efficiency", "refrigeration"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 35
@@ -341,11 +342,11 @@ graph TD
 ---
 
 **Related Technical Guides:**
-- [Vapor Compression Refrigeration Cycle](/technical-guides/vapor-compression-refrigeration/)
-- [Refrigerant Selection & Properties](/technical-guides/refrigerant-selection-properties/)
-- [Refrigeration Load Calculations](/technical-guides/refrigeration-load-calculations/)
-- [Evaporator Design](/technical-guides/evaporator-design/)
-- [Condenser Design](/technical-guides/condenser-design/)
+- Vapor Compression Refrigeration Cycle
+- Refrigerant Selection & Properties
+- Refrigeration Load Calculations
+- Evaporator Design
+- Condenser Design
 
 **References:**
 - ASHRAE Handbook of Refrigeration, Chapter 37: Compressors

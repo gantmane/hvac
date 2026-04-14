@@ -1,5 +1,6 @@
 ---
 title: "Laws Principles"
+aliases: ["Laws Principles"]
 weight: 1
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Negative Pressure HVAC Systems: Design & Applications"
+aliases: ["Negative Pressure HVAC Systems: Design & Applications"]
 description: "Engineering guide to negative pressure ventilation systems for healthcare isolation rooms, laboratories, and containment applications with pressure differential calculations."
 keywords: ["negative pressure systems", "isolation room HVAC", "containment ventilation", "airborne infection isolation", "laboratory exhaust", "pressure differential", "healthcare HVAC", "biosafety ventilation"]
+tags: ["negative pressure systems", "isolation room HVAC", "containment ventilation", "airborne infection isolation", "laboratory exhaust", "pressure differential", "healthcare HVAC", "biosafety ventilation"]
 weight: 11
 ---
 

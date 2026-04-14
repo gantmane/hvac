@@ -1,5 +1,6 @@
 ---
 title: "Ventilation Standards for Schools"
+aliases: ["Ventilation Standards for Schools"]
 description: "ASHRAE 62.1 ventilation requirements for educational facilities including outdoor air rates, IAQ standards, and code compliance for K-12 schools."
 date: 2025-01-05
 draft: false
@@ -177,4 +178,4 @@ Schools should implement IAQ management plans documenting ventilation system per
 
 ---
 
-**Related Topics**: [Indoor Air Quality Schools](/specialty-applications-testing/specialty-hvac-applications/educational-facilities/indoor-air-quality-schools/), [Demand Controlled Ventilation Classrooms](/specialty-applications-testing/specialty-hvac-applications/educational-facilities/demand-controlled-ventilation-classrooms/), [K-12 Schools](/specialty-applications-testing/specialty-hvac-applications/educational-facilities/k-12-schools/)
+**Related Topics**: [Indoor Air Quality Schools](../../../../specialty-applications-testing/specialty-hvac-applications/educational-facilities/indoor-air-quality-schools/_index.md), [Demand Controlled Ventilation Classrooms](../../../../specialty-applications-testing/specialty-hvac-applications/educational-facilities/demand-controlled-ventilation-classrooms/_index.md), [K-12 Schools](../../../../specialty-applications-testing/specialty-hvac-applications/educational-facilities/k-12-schools/_index.md)

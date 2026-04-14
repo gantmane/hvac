@@ -1,5 +1,6 @@
 ---
 title: "Vision Based Sensing"
+aliases: ["Vision Based Sensing"]
 weight: 4
 ---
 

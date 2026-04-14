@@ -1,8 +1,10 @@
 ---
 title: "Oil Burners"
+aliases: ["Oil Burners"]
 weight: 2
 description: "Comprehensive analysis of oil burner types including gun-type pressure atomizing burners, rotary cup burners, air atomizing systems, and steam atomizing burners with atomization theory, droplet size distributions, combustion efficiency calculations, and burner sizing for commercial and industrial heating applications."
 keywords: "oil burners, gun-type burners, pressure atomizing, rotary burners, steam atomizing, air atomizing, fuel oil atomization, droplet size, Sauter mean diameter, combustion efficiency"
+tags: ["oil burners", "gun-type burners", "pressure atomizing", "rotary burners", "steam atomizing", "air atomizing", "fuel oil atomization", "droplet size", "Sauter mean diameter", "combustion efficiency"]
 ---
 
 # Oil Burners

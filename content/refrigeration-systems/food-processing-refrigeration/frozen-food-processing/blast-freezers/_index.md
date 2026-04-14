@@ -1,5 +1,6 @@
 ---
 title: "Blast Freezers"
+aliases: ["Blast Freezers"]
 weight: 2
 ---
 

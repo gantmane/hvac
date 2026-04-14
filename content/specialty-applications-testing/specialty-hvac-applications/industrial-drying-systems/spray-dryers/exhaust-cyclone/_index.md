@@ -1,5 +1,6 @@
 ---
 title: "Spray Dryer Exhaust Cyclone Separation Systems"
+aliases: ["Spray Dryer Exhaust Cyclone Separation Systems"]
 description: "Engineering analysis of cyclone separators for spray dryer exhaust streams, covering centrifugal separation physics, efficiency calculations, and design optimization."
 date: 2025-01-11
 weight: 3

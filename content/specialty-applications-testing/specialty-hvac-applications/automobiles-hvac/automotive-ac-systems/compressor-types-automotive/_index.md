@@ -1,8 +1,10 @@
 ---
 title: "Automotive AC Compressor Types"
+aliases: ["Automotive AC Compressor Types"]
 weight: 2
 description: "Comprehensive analysis of automotive air conditioning compressor technologies including swash plate, scroll, and electric designs with variable displacement control and clutch engagement systems."
 keywords: ["automotive compressor", "swash plate compressor", "scroll compressor automotive", "electric AC compressor", "variable displacement", "compressor clutch", "automotive HVAC", "SAE J2765"]
+tags: ["automotive compressor", "swash plate compressor", "scroll compressor automotive", "electric AC compressor", "variable displacement", "compressor clutch", "automotive HVAC", "SAE J2765"]
 ---
 
 Automotive air conditioning compressors convert mechanical energy from the engine or electric motor into refrigerant pressure differential, enabling the vapor-compression refrigeration cycle. The compressor design directly impacts system efficiency, noise, vibration, and thermal management capability under highly variable operating conditions.

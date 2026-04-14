@@ -2,6 +2,7 @@
 title: "Radiant Heating Design for HVAC Engineers"
 description: "Floor, wall, and ceiling radiant systems with panel output calculations, tube spacing methods, and manifold design for comfort and efficiency."
 keywords: ["radiant heating", "radiant floor", "hydronic radiant", "radiant panel", "floor heating design", "tube spacing"]
+tags: ["radiant heating", "radiant floor", "hydronic radiant", "radiant panel", "floor heating design", "tube spacing"]
 author: "Evgeniy Gantman"
 date: 2026-01-04
 weight: 10
@@ -76,9 +77,9 @@ $$GPM = \frac{q}{500 \times \Delta T}$$
 ---
 
 **Related Technical Guides:**
-- [Heat Transfer Fundamentals](/technical-guides/heat-transfer-fundamentals/)
-- [Hydronic System Fundamentals](/technical-guides/hydronic-system-fundamentals/)
-- [Heating Load Calculations](/technical-guides/heating-load-calculations/)
+- Heat Transfer Fundamentals
+- Hydronic System Fundamentals
+- Heating Load Calculations
 
 **References:**
 - ASHRAE Handbook of HVAC Systems and Equipment, Chapter 6: Radiant Heating and Cooling

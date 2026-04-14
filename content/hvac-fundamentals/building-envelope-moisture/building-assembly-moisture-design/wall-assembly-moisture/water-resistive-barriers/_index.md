@@ -1,5 +1,6 @@
 ---
 title: "Water-Resistive Barriers"
+aliases: ["Water-Resistive Barriers"]
 description: "Comprehensive analysis of water-resistive barrier systems including material properties, vapor permeability requirements, installation standards, and integration with drainage planes for moisture control in building envelopes"
 weight: 3
 ---
